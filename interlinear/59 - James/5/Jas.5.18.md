@@ -5,6 +5,10 @@ And he prayed again, and the heaven gave rain, and the earth brought forth her f
 Again he prayed, and the heavens gave rain, and the earth yielded its crops.
 <small><sub>**Literal:**</sub></small>
 And again he prayed and the heaven rain gave and the earth produced the fruit of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.17|<< James 5:17]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.19|James 5:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 5:18** is...
+> $\quad$ alluding to: [[LXX.1Kgs.17.1|1Kgs 17:1]] ☩ [[LXX.1Kgs.18.41|1Kgs 18:41]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

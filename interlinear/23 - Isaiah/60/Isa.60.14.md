@@ -5,6 +5,10 @@ The sons also of them that afflicted thee shall come bending unto thee; and all 
 The sons of your oppressors will come and bow down to you; all who reviled you will fall facedown at your feet and call you the City of the LORD, Zion of the Holy One of Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.13|<< Isaiah 60:13]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.15|Isaiah 60:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 60:14** is...
+> $\quad$ referenced by: [[Rev.3.9|Rev 3:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

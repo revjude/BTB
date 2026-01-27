@@ -5,6 +5,10 @@ For he must reign, till he hath put all enemies under his feet.
 For He must reign until He has put all His enemies under His feet.
 <small><sub>**Literal:**</sub></small>
 It behooves for Him to reign until that when He may have put all the enemies under the feet of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.24|<< 1 Corinthians 15:24]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.26|1 Corinthians 15:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 15:25** is...
+> $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

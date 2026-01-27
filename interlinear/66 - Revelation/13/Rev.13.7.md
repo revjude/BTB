@@ -5,6 +5,12 @@ And it was given unto him to make war with the saints, and to overcome them: and
 Then the beast was permitted to wage war against the saints and to conquer them, and it was given authority over every tribe and people and tongue and nation.
 <small><sub>**Literal:**</sub></small>
 And there was given to it to make war with the saints and to overcome them And was given to it authority over every tribe and people and tongue and nation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.6|<< Revelation 13:6]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.8|Revelation 13:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 13:7** is...
+> $\quad$ alluding to: [[LXX.Dan.2.27|Dan 2:27]] ☩ [[LXX.Dan.5.19|Dan 5:19]] ☩ [[LXX.Dan.7.21|Dan 7:21]]
+> $\quad$ possibly alluding to: [[LXX.Dan.8.10|Dan 8:10]]
+> $\quad$ referencing: [[LXX.Dan.8.24|Dan 8:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

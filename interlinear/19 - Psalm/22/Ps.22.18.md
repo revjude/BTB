@@ -5,6 +5,10 @@ They part my garments among them, and cast lots upon my vesture.
 They divide my garments among them and cast lots for my clothing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.17|<< Psalms 22:17]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.19|Psalms 22:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 22:18** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.35|Matt 27:35]] ☩ [[Mark.15.24|Mark 15:24]] ☩ [[Luke.23.34|Luke 23:34]] ☩ [[John.19.24|John 19:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And I have put my words in thy mouth, and I have covered thee in the shadow of m
 I have put My words in your mouth, and covered you with the shadow of My hand, to establish the heavens, to found the earth, and to say to Zion, ‘You are My people.’”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.15|<< Isaiah 51:15]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.17|Isaiah 51:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 51:16** is...
+> $\quad$ referenced by: [[Matt.24.35|Matt 24:35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

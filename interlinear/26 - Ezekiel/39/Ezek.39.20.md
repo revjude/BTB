@@ -5,6 +5,10 @@ Thus ye shall be filled at my table with horses and chariots, with mighty men, a
 And at My table you will eat your fill of horses and riders, of mighty men and warriors of every kind,’ declares the Lord GOD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.19|<< Ezekiel 39:19]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.21|Ezekiel 39:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 39:20** is...
+> $\quad$ referenced by: [[Rev.19.17|Rev 19:17-18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

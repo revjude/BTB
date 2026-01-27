@@ -6,6 +6,10 @@ To open the blind eyes, to bring out the prisoners from the prison, [and] them t
 <small><sub>**BSB:**</sub></small>
 to open the eyes of the blind, to bring prisoners out of the dungeon and those sitting in darkness out from the prison house.<small><sub>**MT:**</sub></small>
 [[Isa.42.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.6|<< Isaiah 42:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.8|Isaiah 42:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 42:7** is...
+> $\quad$ referenced by: [[Matt.4.15|Matt 4:15-16]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

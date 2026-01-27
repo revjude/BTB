@@ -5,6 +5,10 @@ Unto whom I sware in my wrath that they should not enter into my rest.
 So I swore on oath in My anger, “They shall never enter My rest.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.10|<< Psalms 95:10]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.1|Psalms 96:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 95:11** is...
+> $\quad$ referenced by: [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]] ☩ [[Heb.3.18|Heb 3:18]] ☩ [[Heb.4.3|Heb 4:3]] ☩ [[Heb.4.10|Heb 4:10]] ☩ [[Heb.4.5|Heb 4:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And they had breastplates, as it were breastplates of iron; and the sound of the
 They also had breastplates like breastplates of iron, and the sound of their wings was like the roar of many horses and chariots rushing into battle.
 <small><sub>**Literal:**</sub></small>
 And they had breastplates like breastplates of iron, and the sound of the wings of them [was] as [the] sound of chariots of horses many rushing into battle.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.8|<< Revelation 9:8]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.10|Revelation 9:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 9:9** is...
+> $\quad$ alluding to: [[LXX.Joel.1.6|Joel 1:6]] ☩ [[LXX.Joel.2.4|Joel 2:4]] ☩ [[LXX.Joel.2.5|Joel 2:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And there fell upon men a great hail out of heaven, [every stone] about the weig
 And great hailstones weighing almost a hundred pounds each rained down on them from above. And men cursed God for the plague of hail, because it was so horrendous.
 <small><sub>**Literal:**</sub></small>
 And a hail great about a talent weight comes down out of <the> heaven upon the men. And blasphemed the men <the> God on account of the plague of the hail, for severe is the plague of it exceedingly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.20|<< Revelation 16:20]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.1|Revelation 17:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 16:21** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.9.24|Exod 9:24]] ☩ [[LXX.Exod.9.34|Exod 9:34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

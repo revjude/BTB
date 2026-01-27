@@ -5,6 +5,10 @@ For then shall be great tribulation, such as was not since the beginning of the 
 For at that time there will be great tribulation, unseen from the beginning of the world until now, and never to be seen again.
 <small><sub>**Literal:**</sub></small>
 There will be for then tribulation great such as not has been from [the] beginning of [the] world until <the> now no certainly not it may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.20|<< Matthew 24:20]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.22|Matthew 24:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 24:21** is...
+> $\quad$ referencing: [[LXX.Jer.30.7|Jer 30:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ God forbid: yea, let God be true, but every man a liar; as it is written, That t
 Certainly not! Let God be true and every man a liar. As it is written: “So that You may be proved right when You speak and victorious when You judge.”
 <small><sub>**Literal:**</sub></small>
 Never would it be! should it be however <the> God true, every now man a liar even as it has been written: That then You may be justified in the words of You and will prevail in <the> judging You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.3|<< Romans 3:3]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.5|Romans 3:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 3:4** is...
+> $\quad$ referencing: [[LXX.Ps.51.4|Ps 51:4]] ☩ [[LXX.Ps.116.11|Ps 116:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

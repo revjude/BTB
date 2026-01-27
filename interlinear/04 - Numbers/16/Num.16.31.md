@@ -5,6 +5,10 @@ And it came to pass, as he had made an end of speaking all these words, that the
 As soon as Moses had finished saying all this, the ground beneath them split open,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.30|<< Numbers 16:30]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.32|Numbers 16:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 16:31** is...
+> $\quad$ referenced by: [[1John.3.12|1John 3:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

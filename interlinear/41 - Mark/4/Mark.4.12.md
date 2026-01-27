@@ -5,6 +5,10 @@ That seeing they may see, and not perceive; and hearing they may hear, and not u
 so that, ‘they may be ever seeing but never perceiving, and ever hearing but never understanding; otherwise they might turn and be forgiven.’”
 <small><sub>**Literal:**</sub></small>
 so that Looking they may look and not they may perceive and hearing they may hear and not they may understand otherwise they may turn and may be forgiven to them’ <the> sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.11|<< Mark 4:11]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.13|Mark 4:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 4:12** is...
+> $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

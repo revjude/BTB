@@ -5,6 +5,11 @@ Now that the dead are raised, even Moses shewed at the bush, when he calleth the
 Even Moses demonstrates that the dead are raised, in the passage about the burning bush. For he calls the Lord ‘the God of Abraham, the God of Isaac, and the God of Jacob.’
 <small><sub>**Literal:**</sub></small>
 for however are raised the dead, even Moses showed at the bush when he names [the] Lord the God of Abraham and the God of Isaac and the God of Jacob.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.36|<< Luke 20:36]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.38|Luke 20:38 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 20:37** is...
+> $\quad$ referencing: [[LXX.Exod.3.6|Exod 3:6]]
+> $\quad$ alluding to: [[LXX.Exod.3.15|Exod 3:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

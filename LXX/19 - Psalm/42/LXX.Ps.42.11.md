@@ -6,6 +6,10 @@ Why art thou cast down, O my soul? and why art thou disquieted within me? hope t
 <small><sub>**BSB:**</sub></small>
 Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God.<small><sub>**MT:**</sub></small>
 [[Ps.42.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.42.10|<< Psalm 42:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.43.1|Psalm 43:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 42:11** is...
+> $\quad$ referenced by: [[Matt.26.38|Matt 26:38]] ☩ [[Mark.14.34|Mark 14:34]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And the sons of Joseph, which were born him in Egypt, [were] two souls: all the 
 And with the two sons who had been born to Joseph in Egypt, the members of Jacob’s family who went to Egypt were seventy in all.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.26|<< Genesis 46:26]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.28|Genesis 46:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 46:27** is...
+> $\quad$ referenced by: [[Acts.7.14|Acts 7:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

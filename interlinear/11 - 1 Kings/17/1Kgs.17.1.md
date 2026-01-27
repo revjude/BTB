@@ -5,6 +5,10 @@ And Elijah the Tishbite, [who was] of the inhabitants of Gilead, said unto Ahab,
 Now Elijah the Tishbite, who was among the settlers of Gilead, said to Ahab, “As surely as the LORD, the God of Israel, lives, before whom I stand, there will be neither dew nor rain in these years except at my word!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.34|<< 1 Kings 16:34]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.2|1 Kings 17:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 17:1** is...
+> $\quad$ referenced by: [[Luke.4.25|Luke 4:25-26]] ☩ [[Jas.5.17|Jas 5:17-18]] ☩ [[Rev.11.6|Rev 11:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

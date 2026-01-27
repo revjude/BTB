@@ -5,6 +5,10 @@ And there shall be an highway for the remnant of his people, which shall be left
 There will be a highway for the remnant of His people who remain from Assyria, as there was for Israel when they came up from the land of Egypt.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.15|<< Isaiah 11:15]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.12.1|Isaiah 12:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 11:16** is...
+> $\quad$ referenced by: [[Rev.16.12|Rev 16:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

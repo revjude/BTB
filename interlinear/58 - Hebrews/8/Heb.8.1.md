@@ -5,6 +5,10 @@ Now of the things which we have spoken [this is] the sum: We have such an high p
 The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven,
 <small><sub>**Literal:**</sub></small>
 [The] sum now of the [things] being spoken of [is that] such we have a high priest who sat down at [the] right hand of the throne of the Majesty in the heavens,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.28|<< Hebrews 7:28]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.2|Hebrews 8:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 8:1** is...
+> $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

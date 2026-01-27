@@ -5,6 +5,10 @@ But if he will not hear [thee, then] take with thee one or two more, that in the
 But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’
 <small><sub>**Literal:**</sub></small>
 only however unless he shall hear, do take with you more one or two that upon [the] testimony of two witnesses or of three may be strengthened every declaration.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.15|<< Matthew 18:15]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.17|Matthew 18:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 18:16** is...
+> $\quad$ alluding to: [[LXX.Lev.19.15|Lev 19:15]] ☩ [[LXX.Deut.19.15|Deut 19:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And Enoch walked with God: and he [was] not; for God took him.
 <small><sub>**BSB:**</sub></small>
 Enoch walked with God, and then he was no more, because God had taken him away.<small><sub>**MT:**</sub></small>
 [[Gen.5.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.23|<< Genesis 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.25|Genesis 5:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 5:24** is...
+> $\quad$ referenced by: [[Heb.11.5|Heb 11:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

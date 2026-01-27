@@ -5,6 +5,10 @@ Thou madest him a little lower than the angels; thou crownedst him with glory an
 You made him a little lower than the angels; You crowned him with glory and honor
 <small><sub>**Literal:**</sub></small>
 You made lower him a little some than [the] angels; with glory and with honor You crowned him and you appointed him upon the works <the> of hands of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.6|<< Hebrews 2:6]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.8|Hebrews 2:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 2:7** is...
+> $\quad$ referencing: [[LXX.Ps.8.4|Ps 8:4-6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

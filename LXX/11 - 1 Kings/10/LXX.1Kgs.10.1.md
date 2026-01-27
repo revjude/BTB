@@ -9,6 +9,10 @@ And when the queen of Sheba heard of the fame of Solomon concerning the name of 
 <small><sub>**BSB:**</sub></small>
 Now when the queen of Sheba heard about the fame of Solomon concerning the name of the LORD, she came to test him with difficult questions.<small><sub>**MT:**</sub></small>
 [[1Kgs.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.28|<< 1 Kings 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.2|1 Kings 10:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 10:1** is...
+> $\quad$ referenced by: [[Matt.12.42|Matt 12:42]] ☩ [[Luke.11.31|Luke 11:31]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

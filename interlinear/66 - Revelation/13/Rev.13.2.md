@@ -5,6 +5,10 @@ And the beast which I saw was like unto a leopard, and his feet were as [the fee
 The beast I saw was like a leopard, with the feet of a bear and the mouth of a lion. And the dragon gave the beast his power and his throne and great authority.
 <small><sub>**Literal:**</sub></small>
 And the beast that I saw was like as a leopard and the feet of it like a bear’s and the mouth of it like [the] mouth of a lion. And gave to it the dragon the power of him and the throne of him and authority great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.1|<< Revelation 13:1]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.3|Revelation 13:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 13:2** is...
+> $\quad$ alluding to: [[LXX.Dan.7.5|Dan 7:5-6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

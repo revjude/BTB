@@ -5,6 +5,10 @@ For with stammering lips and another tongue will he speak to this people.
 Indeed, with mocking lips and foreign tongues, He will speak to this people
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.10|<< Isaiah 28:10]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.12|Isaiah 28:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 28:11** is...
+> $\quad$ referenced by: [[1Cor.14.21|1Cor 14:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

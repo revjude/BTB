@@ -5,6 +5,10 @@ And as concerning that he raised him up from the dead, [now] no more to return t
 In fact, God raised Him from the dead, never to see decay. As He has said: ‘I will give you the holy and sure blessings promised to David.’
 <small><sub>**Literal:**</sub></small>
 for then He raised Him out from [the] dead no more being about to return to decay, thus He has spoken that I will give to you the holy [blessings] of David the sure [blessings].’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.33|<< Acts 13:33]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.35|Acts 13:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:34** is...
+> $\quad$ referencing: [[LXX.Isa.55.3|Isa 55:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

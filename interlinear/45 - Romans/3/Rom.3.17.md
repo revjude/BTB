@@ -5,6 +5,10 @@ And the way of peace have they not known:
 and the way of peace they have not known.”
 <small><sub>**Literal:**</sub></small>
 and [the] way of peace not they have known.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.16|<< Romans 3:16]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.18|Romans 3:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 3:17** is...
+> $\quad$ referencing: [[LXX.Isa.59.7|Isa 59:7-8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

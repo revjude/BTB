@@ -5,6 +5,10 @@ And it came to pass, when the sun did arise, that God prepared a vehement east w
 As the sun was rising, God appointed a scorching east wind, and the sun beat down on Jonah’s head so that he grew faint and wished to die, saying, “It is better for me to die than to live.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.7|<< Jonah 4:7]]</td><td align="center" style="border:none;">[[Jonah.4|Jonah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.4.9|Jonah 4:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jonah 4:8** is...
+> $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

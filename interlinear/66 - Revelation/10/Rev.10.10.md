@@ -5,6 +5,10 @@ And I took the little book out of the angel’s hand, and ate it up; and it was 
 So I took the small scroll from the angel’s hand and ate it, and it was as sweet as honey in my mouth. But when I had eaten it, my stomach turned bitter.
 <small><sub>**Literal:**</sub></small>
 And I took the little scroll out of the hand of the angel and I ate it, and it was in the mouth of mine as honey sweet; and when I had eaten it, was made bitter the stomach of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.9|<< Revelation 10:9]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.11|Revelation 10:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 10:10** is...
+> $\quad$ alluding to: [[LXX.Ezek.2.8|Ezek 2:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

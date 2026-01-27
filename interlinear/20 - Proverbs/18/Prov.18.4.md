@@ -5,6 +5,10 @@ The words of a man’s mouth [are as] deep waters, [and] the wellspring of wisdo
 The words of a man’s mouth are deep waters; the fountain of wisdom is a bubbling brook.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.3|<< Proverbs 18:3]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.5|Proverbs 18:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 18:4** is...
+> $\quad$ referenced by: [[John.7.38|John 7:38]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ I lifted up mine eyes again, and looked, and behold a man with a measuring line 
 Then I lifted up my eyes and saw a man with a measuring line in his hand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.21|<< Zechariah 1:21]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.2|Zechariah 2:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 2:1** is...
+> $\quad$ referenced by: [[Rev.21.15|Rev 21:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

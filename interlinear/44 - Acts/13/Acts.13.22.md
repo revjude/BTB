@@ -5,6 +5,11 @@ And when he had removed him, he raised up unto them David to be their king; to w
 After removing Saul, He raised up David as their king and testified about him: ‘I have found David son of Jesse a man after My own heart; he will carry out My will in its entirety.’
 <small><sub>**Literal:**</sub></small>
 And having removed him He raised up <the> David to them as king, to whom also He said having carried witness: I have found David the [son of] Jesse a man according to the heart of Mine, who will do all the will of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.21|<< Acts 13:21]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.23|Acts 13:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:22** is...
+> $\quad$ referencing: [[LXX.1Sam.13.14|1Sam 13:14]] ☩ [[LXX.Ps.89.20|Ps 89:20]]
+> $\quad$ alluding to: [[LXX.1Chr.10.14|1Chr 10:14]] ☩ [[LXX.Isa.44.28|Isa 44:28]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

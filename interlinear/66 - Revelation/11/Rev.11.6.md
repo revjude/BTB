@@ -5,6 +5,10 @@ These have power to shut heaven, that it rain not in the days of their prophecy:
 These witnesses have power to shut the sky so that no rain will fall during the days of their prophecy, and power to turn the waters into blood and to strike the earth with every kind of plague as often as they wish.
 <small><sub>**Literal:**</sub></small>
 These have the power to shut the sky so that not rain may fall in the days of the prophecy of them, and power they have over the waters to turn them into blood and to strike the earth with every plague as often as if they shall desire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.5|<< Revelation 11:5]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.7|Revelation 11:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 11:6** is...
+> $\quad$ alluding to: [[LXX.Exod.7.20|Exod 7:20]] ☩ [[LXX.1Kgs.17.1|1Kgs 17:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

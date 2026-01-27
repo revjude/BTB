@@ -5,6 +5,10 @@ Son of man, thou dwellest in the midst of a rebellious house, which have eyes to
 “Son of man, you are living in a rebellious house. They have eyes to see but do not see, and ears to hear but do not hear, for they are a rebellious house.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.1|<< Ezekiel 12:1]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.3|Ezekiel 12:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 12:2** is...
+> $\quad$ referenced by: [[Mark.8.18|Mark 8:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

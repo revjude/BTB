@@ -5,6 +5,11 @@ And in their mouth was found no guile: for they are without fault before the thr
 And no lie was found in their mouths; they are blameless.
 <small><sub>**Literal:**</sub></small>
 And in the mouth of them not was found a lie, blameless for they are before the throne of the God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.4|<< Revelation 14:4]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.6|Revelation 14:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 14:5** is...
+> $\quad$ alluding to: [[LXX.Ps.32.2|Ps 32:2]]
+> $\quad$ referencing: [[LXX.Isa.53.9|Isa 53:9]] ☩ [[LXX.Zeph.3.13|Zeph 3:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

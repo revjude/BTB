@@ -5,6 +5,10 @@ Behold, ye despisers, and wonder, and perish: for I work a work in your days, a 
 ‘Look, you scoffers, wonder and perish! For I am doing a work in your days that you would never believe, even if someone told you.’”
 <small><sub>**Literal:**</sub></small>
 Behold! you scoffers, and do wonder and do perish for a work am working I myself in the days of you, a work that certainly not you may believe even if one shall declare it to you.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.40|<< Acts 13:40]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.42|Acts 13:42 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:41** is...
+> $\quad$ referencing: [[LXX.Hab.1.5|Hab 1:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Hath not my hand made all these things?
 Has not My hand made all these things?’
 <small><sub>**Literal:**</sub></small>
 Surely the hand of Mine has made these things all?’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.49|<< Acts 7:49]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.51|Acts 7:51 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:50** is...
+> $\quad$ referencing: [[LXX.Isa.66.1|Isa 66:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

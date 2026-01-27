@@ -5,6 +5,10 @@ And his father refused, and said, I know [it], my son, I know [it]: he also shal
 But his father refused. “I know, my son, I know!” he said. “He too shall become a people, and he too shall be great; nevertheless, his younger brother shall be greater than he, and his offspring shall become a multitude of nations.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.18|<< Genesis 48:18]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.20|Genesis 48:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 48:19** is...
+> $\quad$ referenced by: [[Rom.11.25|Rom 11:25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

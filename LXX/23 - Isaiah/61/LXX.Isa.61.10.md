@@ -6,6 +6,10 @@ I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he ha
 <small><sub>**BSB:**</sub></small>
 I will rejoice greatly in the LORD, my soul will exult in my God; for He has clothed me with garments of salvation and wrapped me in a robe of righteousness, as a bridegroom wears a priestly headdress, as a bride adorns herself with her jewels.<small><sub>**MT:**</sub></small>
 [[Isa.61.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.9|<< Isaiah 61:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.11|Isaiah 61:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 61:10** is...
+> $\quad$ referenced by: [[Rev.19.8|Rev 19:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

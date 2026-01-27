@@ -5,6 +5,10 @@ For since the beginning of the world [men] have not heard, nor perceived by the 
 From ancient times no one has heard, no ear has perceived, no eye has seen any God besides You, who acts on behalf of those who wait for Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.3|<< Isaiah 64:3]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.5|Isaiah 64:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 64:4** is...
+> $\quad$ referenced by: [[1Cor.2.9|1Cor 2:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

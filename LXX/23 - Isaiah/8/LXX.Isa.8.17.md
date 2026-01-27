@@ -6,6 +6,10 @@ And I will wait upon the LORD, that hideth his face from the house of Jacob, and
 <small><sub>**BSB:**</sub></small>
 I will wait for the LORD, who is hiding His face from the house of Jacob. I will put my trust in Him.<small><sub>**MT:**</sub></small>
 [[Isa.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.16|<< Isaiah 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.18|Isaiah 8:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 8:17** is...
+> $\quad$ referenced by: [[Heb.2.13|Heb 2:13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

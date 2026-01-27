@@ -5,6 +5,10 @@ For we which have believed do enter into rest, as he said, As I have sworn in my
 Now we who have believed enter that rest. As for the others, it is just as God has said: “So I swore on oath in My anger, ‘They shall never enter My rest.’” And yet His works have been finished since the foundation of the world.
 <small><sub>**Literal:**</sub></small>
 We enter for into the rest those having believed even as He has said: So I swore in the wrath of mine; Not will they enter into the rest of Mine; and yet the works from [the] foundation of [the] world have been finished.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.2|<< Hebrews 4:2]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.4|Hebrews 4:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 4:3** is...
+> $\quad$ referencing: [[LXX.Ps.95.11|Ps 95:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

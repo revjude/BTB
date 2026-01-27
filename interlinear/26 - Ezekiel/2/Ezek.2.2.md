@@ -5,6 +5,10 @@ And the spirit entered into me when he spake unto me, and set me upon my feet, t
 And as He spoke to me, the Spirit entered me and set me on my feet, and I heard Him speaking to me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.1|<< Ezekiel 2:1]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2.3|Ezekiel 2:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 2:2** is...
+> $\quad$ referenced by: [[Rev.5.1|Rev 5:1]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ And the nations were angry, and thy wrath is come, and the time of the dead, tha
 The nations were enraged, and Your wrath has come. The time has come to judge the dead and to reward Your servants the prophets, as well as the saints and those who fear Your name, both small and great—and to destroy those who destroy the earth.”
 <small><sub>**Literal:**</sub></small>
 And the nations were enraged, and came the wrath of You and the time for the dead to be judged and to give the reward to the servants of You to the prophets and to the saints and to those fearing the name of You, [to] the small and [to] the great, and to destroy those destroying the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.17|<< Revelation 11:17]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.19|Revelation 11:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 11:18** is...
+> $\quad$ alluding to: [[LXX.Ps.2.1|Ps 2:1-5]] ☩ [[LXX.Ps.46.6|Ps 46:6]]
+> $\quad$ possibly alluding to: [[LXX.Ps.115.13|Ps 115:13]] ☩ [[LXX.Dan.7.10|Dan 7:10]] ☩ [[LXX.Dan.7.22|Dan 7:22]] ☩ [[LXX.Dan.11.44|Dan 11:44]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

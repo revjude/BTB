@@ -5,6 +5,10 @@ O LORD of hosts, God of Israel, that dwellest [between] the cherubims, thou [art
 “O LORD of Hosts, God of Israel, enthroned above the cherubim, You alone are God over all the kingdoms of the earth. You made the heavens and the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.15|<< Isaiah 37:15]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.17|Isaiah 37:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 37:16** is...
+> $\quad$ referenced by: [[Acts.4.24|Acts 4:24]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

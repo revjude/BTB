@@ -5,6 +5,10 @@ And the daughter of Pharaoh came down to wash [herself] at the river; and her ma
 Soon the daughter of Pharaoh went down to bathe in the Nile, and her attendants were walking along the riverbank. And when she saw the basket among the reeds, she sent her maidservant to retrieve it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.4|<< Exodus 2:4]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.6|Exodus 2:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:5** is...
+> $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

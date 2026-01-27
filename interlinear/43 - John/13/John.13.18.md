@@ -5,6 +5,10 @@ I speak not of you all: I know whom I have chosen: but that the scripture may be
 I am not speaking about all of you; I know whom I have chosen. But this is to fulfill the Scripture: ‘The one who shares My bread has lifted up his heel against Me.’
 <small><sub>**Literal:**</sub></small>
 Not about all of you I speak; I myself know whom I chose; but that the Scripture may be fulfilled: The [one] eating with Me the bread lifted up against Me myself the heel of him.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.17|<< John 13:17]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.19|John 13:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 13:18** is...
+> $\quad$ referencing: [[LXX.Ps.41.9|Ps 41:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

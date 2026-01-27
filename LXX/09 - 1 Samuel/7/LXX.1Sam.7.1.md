@@ -9,6 +9,10 @@ And the men of Kirjathjearim came, and fetched up the ark of the LORD, and broug
 <small><sub>**BSB:**</sub></small>
 Then the men of Kiriath-jearim came for the ark of the LORD and took it into Abinadab’s house on the hill. And they consecrated his son Eleazar to guard the ark of the LORD.<small><sub>**MT:**</sub></small>
 [[1Sam.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.21|<< 1 Samuel 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.2|1 Samuel 7:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 7:1** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

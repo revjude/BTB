@@ -5,6 +5,10 @@ And in the eighth day the flesh of his foreskin shall be circumcised.
 And on the eighth day the flesh of the boy’s foreskin is to be circumcised.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.2|<< Leviticus 12:2]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.4|Leviticus 12:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 12:3** is...
+> $\quad$ referenced by: [[Luke.2.21|Luke 2:21-22]] ☩ [[John.7.22|John 7:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

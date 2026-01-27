@@ -5,6 +5,10 @@ And his disciples asked him, saying, Why then say the scribes that Elias must fi
 The disciples asked Him, “Why then do the scribes say that Elijah must come first?”
 <small><sub>**Literal:**</sub></small>
 And asked Him the disciples of him saying; Why then the scribes say that Elijah it behooves to come first?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.9|<< Matthew 17:9]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.11|Matthew 17:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 17:10** is...
+> $\quad$ alluding to: [[LXX.Mal.4.5|Mal 4:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For I will gather all nations against Jerusalem to battle; and the city shall be
 For I will gather all the nations for battle against Jerusalem, and the city will be captured, the houses looted, and the women ravished. Half of the city will go into exile, but the rest of the people will not be removed from the city.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.1|<< Zechariah 14:1]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.3|Zechariah 14:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 14:2** is...
+> $\quad$ referenced by: [[Rev.16.14|Rev 16:14]] ☩ [[Rev.16.16|Rev 16:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

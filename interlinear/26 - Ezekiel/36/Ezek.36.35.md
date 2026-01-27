@@ -5,6 +5,10 @@ And they shall say, This land that was desolate is become like the garden of Ede
 Then they will say, ‘This land that was desolate has become like the garden of Eden. The cities that were once ruined, desolate, and destroyed are now fortified and inhabited.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.34|<< Ezekiel 36:34]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.36|Ezekiel 36:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 36:35** is...
+> $\quad$ referenced by: [[Joel.2.3|Joel 2:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

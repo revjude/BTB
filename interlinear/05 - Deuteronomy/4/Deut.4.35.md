@@ -5,6 +5,10 @@ Unto thee it was shewed, that thou mightest know that the LORD he [is] God; [the
 You were shown these things so that you would know that the LORD is God; there is no other besides Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.34|<< Deuteronomy 4:34]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.36|Deuteronomy 4:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 4:35** is...
+> $\quad$ referenced by: [[Mark.12.32|Mark 12:32]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

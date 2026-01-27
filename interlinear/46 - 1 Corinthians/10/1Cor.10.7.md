@@ -5,6 +5,10 @@ Neither be ye idolaters, as [were] some of them; as it is written, The people sa
 Do not be idolaters, as some of them were. As it is written: “The people sat down to eat and drink and got up to indulge in revelry.”
 <small><sub>**Literal:**</sub></small>
 Neither idolaters do become even as some of them as it has been written: Sat down the people to eat and to drink and rose up to play.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.6|<< 1 Corinthians 10:6]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.8|1 Corinthians 10:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 10:7** is...
+> $\quad$ referencing: [[LXX.Exod.32.6|Exod 32:6]] ☩ [[LXX.Ps.106.19|Ps 106:19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

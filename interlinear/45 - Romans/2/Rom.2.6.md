@@ -5,6 +5,10 @@ Who will render to every man according to his deeds:
 God “will repay each one according to his deeds.”
 <small><sub>**Literal:**</sub></small>
 who will give to each according to the works of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.5|<< Romans 2:5]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.7|Romans 2:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 2:6** is...
+> $\quad$ referencing: [[LXX.Ps.62.12|Ps 62:12]] ☩ [[LXX.Prov.24.12|Prov 24:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

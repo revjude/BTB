@@ -5,6 +5,10 @@ Take heed to yourselves: If thy brother trespass against thee, rebuke him; and i
 Watch yourselves. If your brother sins, rebuke him; and if he repents, forgive him.
 <small><sub>**Literal:**</sub></small>
 do take heed to yourselves. If now shall sin against you the brother of you, do rebuke him; and if he shall repent, do forgive him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.2|<< Luke 17:2]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.4|Luke 17:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 17:3** is...
+> $\quad$ alluding to: [[LXX.Lev.19.17|Lev 19:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

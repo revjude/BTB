@@ -5,6 +5,10 @@ And another angel came out of the temple, crying with a loud voice to him that s
 Then another angel came out of the temple, crying out in a loud voice to the One seated on the cloud, “Swing Your sickle and reap, because the time has come to harvest, for the crop of the earth is ripe.”
 <small><sub>**Literal:**</sub></small>
 And another angel came out of the temple crying in a voice loud to the [One] sitting on the cloud; do put forth the sickle of You and do reap, because has come to you the hour of the to reap, because has ripened the harvest of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.14|<< Revelation 14:14]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.16|Revelation 14:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 14:15** is...
+> $\quad$ alluding to: [[LXX.Joel.3.13|Joel 3:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

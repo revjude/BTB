@@ -5,6 +5,10 @@ And the young men that were spies went in, and brought out Rahab, and her father
 So the young spies went in and brought out Rahab, her father and mother and brothers, and all who belonged to her. They brought out her whole family and settled them outside the camp of Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.22|<< Joshua 6:22]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.24|Joshua 6:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joshua 6:23** is...
+> $\quad$ referenced by: [[Heb.11.31|Heb 11:31]] ☩ [[Jas.2.25|Jas 2:25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

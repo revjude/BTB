@@ -5,6 +5,10 @@ And out of the throne proceeded lightnings and thunderings and voices: and [ther
 From the throne came flashes of lightning, rumblings, and peals of thunder. Before the throne burned seven torches of fire. These are the seven spirits of God.
 <small><sub>**Literal:**</sub></small>
 And out of the throne come flashes of lightning and voices and thunderings, And [there were] seven lamps of fire burning before the throne of him which are the seven Spirits <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.4|<< Revelation 4:4]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.6|Revelation 4:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 4:5** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.19.16|Exod 19:16]] ☩ [[LXX.Isa.6.2|Isa 6:2]] ☩ [[LXX.Ezek.1.4|Ezek 1:4]] ☩ [[LXX.Ezek.11.22|Ezek 11:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

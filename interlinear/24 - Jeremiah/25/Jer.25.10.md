@@ -5,6 +5,10 @@ Moreover I will take from them the voice of mirth, and the voice of gladness, th
 Moreover, I will banish from them the sounds of joy and gladness, the voices of the bride and bridegroom, the sound of the millstones, and the light of the lamp.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.9|<< Jeremiah 25:9]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.11|Jeremiah 25:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 25:10** is...
+> $\quad$ referenced by: [[Rev.18.22|Rev 18:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

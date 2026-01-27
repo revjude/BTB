@@ -5,6 +5,10 @@ In Rama was there a voice heard, lamentation, and weeping, and great mourning, R
 “A voice is heard in Ramah, weeping and great mourning, Rachel weeping for her children and refusing to be comforted, because they are no more.”
 <small><sub>**Literal:**</sub></small>
 A voice in Ramah was heard, lamentation and weeping and mourning great, Rachel weeping [for] the children of her, and not was willing to be comforted because no more they are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.17|<< Matthew 2:17]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.19|Matthew 2:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 2:18** is...
+> $\quad$ referencing: [[LXX.Jer.31.15|Jer 31:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

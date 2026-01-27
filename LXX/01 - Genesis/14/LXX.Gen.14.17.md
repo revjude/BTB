@@ -6,6 +6,10 @@ And the king of Sodom went out to meet him after his return from the slaughter o
 <small><sub>**BSB:**</sub></small>
 After Abram returned from defeating Chedorlaomer and the kings allied with him, the king of Sodom went out to meet him in the Valley of Shaveh (that is, the King’s Valley).<small><sub>**MT:**</sub></small>
 [[Gen.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.16|<< Genesis 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.18|Genesis 14:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 14:17** is...
+> $\quad$ referenced by: [[Heb.7.1|Heb 7:1-2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

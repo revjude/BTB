@@ -5,6 +5,10 @@ And shall cast them into the furnace of fire: there shall be wailing and gnashin
 and throw them into the fiery furnace, where there will be weeping and gnashing of teeth.
 <small><sub>**Literal:**</sub></small>
 and will cast them into the furnace of the fire; There will be the weeping and the gnashing of the teeth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.49|<< Matthew 13:49]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.51|Matthew 13:51 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 13:50** is...
+> $\quad$ referencing: [[LXX.Dan.3.6|Dan 3:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

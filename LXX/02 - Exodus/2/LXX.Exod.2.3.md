@@ -6,6 +6,10 @@ And when she could not longer hide him, she took for him an ark of bulrushes, an
 <small><sub>**BSB:**</sub></small>
 But when she could no longer hide him, she got him a papyrus basket and coated it with tar and pitch. Then she placed the child in the basket and set it among the reeds along the bank of the Nile.<small><sub>**MT:**</sub></small>
 [[Exod.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.2|<< Exodus 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.4|Exodus 2:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:3** is...
+> $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

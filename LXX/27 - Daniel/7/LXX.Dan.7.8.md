@@ -1,0 +1,53 @@
+**LXX Daniel 7:8** 
+<small><sub>**LXX:**</sub></small>
+I paid attention to  its horns, and behold, another small horn ascended in \[the\] midst of them, and three horns  prior to it were rooted out from in front of it. And behold, eyes as eyes of a man were in  this horn, and a mouth speaking great \[things\]. 
+<small><sub>**KJV:**</sub></small>
+I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn [were] eyes like the eyes of man, and a mouth speaking great things.
+<small><sub>**BSB:**</sub></small>
+While I was contemplating the horns, suddenly another horn, a little one, came up among them, and three of the first horns were uprooted before it. This horn had eyes like those of a man and a mouth that spoke words of arrogance.<small><sub>**MT:**</sub></small>
+[[Dan.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.7|<< Daniel 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.9|Daniel 7:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 7:8** is...
+> $\quad$ referenced by: [[Rev.13.5|Rev 13:5-6]] ☩ [[Rev.17.3|Rev 17:3]]
+
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| I paid attention to | <span class="asgreek">προσενόουν <sup><small><small>[[G8934]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| its horns, | <span class="asgreek">κέρασιν <sup><small><small>[[G2768]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
+| horn | <span class="asgreek">κέρας <sup><small><small>[[G2768]]</small></small></sup> </span> |
+| another | <span class="asgreek">έτερον <sup><small><small>[[G2087]]</small></small></sup> </span> |
+| small | <span class="asgreek">μικρόν <sup><small><small>[[G3398]]</small></small></sup> </span> |
+| ascended | <span class="asgreek">ανέβη <sup><small><small>[[G0305]]</small></small></sup> </span> |
+| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
+| \[the\] midst | <span class="asgreek">μέσω <sup><small><small>[[G3319]]</small></small></sup> </span> |
+| of them, | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| three | <span class="asgreek">τρία <sup><small><small>[[G5140]]</small></small></sup> </span> |
+| horns | <span class="asgreek">κέρατα <sup><small><small>[[G2768]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| prior | <span class="asgreek">έμπροσθεν <sup><small><small>[[G1715]]</small></small></sup> </span> |
+| to it | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| were rooted out | <span class="asgreek">εξερριζώθη <sup><small><small>[[G1610]]</small></small></sup> </span> |
+| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
+| in front | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> </span> |
+| of it. | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
+| eyes | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> </span> |
+| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
+| eyes | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> </span> |
+| of a man | <span class="asgreek">ανθρώπου <sup><small><small>[[G0444]]</small></small></sup> </span> |
+| were in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| this horn, | <span class="asgreek">κέρατι <sup><small><small>[[G2768]]</small></small></sup> <span class="asgreek">τούτω <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| a mouth | <span class="asgreek">στόμα <sup><small><small>[[G4750]]</small></small></sup> </span> |
+| speaking | <span class="asgreek">λαλούν <sup><small><small>[[G2980]]</small></small></sup> </span> |
+| great \[things\]. | <span class="asgreek">μεγάλα <sup><small><small>[[G3173]]</small></small></sup> </span> |
+[[Dan.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.7|<< Daniel 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.9|Daniel 7:9 >>]]</td></tr></table>
+
+

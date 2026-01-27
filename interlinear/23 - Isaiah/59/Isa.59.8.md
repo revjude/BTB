@@ -5,6 +5,10 @@ The way of peace they know not; and [there is] no judgment in their goings: they
 The way of peace they have not known, and there is no justice in their tracks. They have turned them into crooked paths; no one who treads on them will know peace.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.7|<< Isaiah 59:7]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.9|Isaiah 59:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 59:8** is...
+> $\quad$ referenced by: [[Rom.3.15|Rom 3:15-17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

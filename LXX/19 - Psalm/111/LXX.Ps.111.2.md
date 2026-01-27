@@ -6,6 +6,10 @@ The works of the LORD [are] great, sought out of all them that have pleasure the
 <small><sub>**BSB:**</sub></small>
 Great are the works of the LORD; they are pondered by all who delight in them.<small><sub>**MT:**</sub></small>
 [[Ps.111.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.111.1|<< Psalm 111:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.111.3|Psalm 111:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 111:2** is...
+> $\quad$ referenced by: [[Rev.15.3|Rev 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

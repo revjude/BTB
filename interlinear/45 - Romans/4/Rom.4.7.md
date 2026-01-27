@@ -5,6 +5,10 @@
 “Blessed are they whose lawless acts are forgiven, whose sins are covered.
 <small><sub>**Literal:**</sub></small>
 Blessed [are] they of whom are forgiven the lawless deeds and of whom are covered the sins;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.6|<< Romans 4:6]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.8|Romans 4:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 4:7** is...
+> $\quad$ referencing: [[LXX.Ps.32.1|Ps 32:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

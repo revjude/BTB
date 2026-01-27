@@ -5,6 +5,10 @@ And also upon the servants and upon the handmaids in those days will I pour out 
 Even on My menservants and maidservants, I will pour out My Spirit in those days.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.28|<< Joel 2:28]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.30|Joel 2:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 2:29** is...
+> $\quad$ referenced by: [[Acts.2.17|Acts 2:17-21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

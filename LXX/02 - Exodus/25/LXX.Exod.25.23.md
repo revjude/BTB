@@ -9,6 +9,10 @@ Thou shalt also make a table [of] shittim wood: two cubits [shall be] the length
 <small><sub>**BSB:**</sub></small>
 You are also to make a table of acacia wood two cubits long, a cubit wide, and a cubit and a half high.<small><sub>**MT:**</sub></small>
 [[Exod.25.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.22|<< Exodus 25:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.24|Exodus 25:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 25:23** is...
+> $\quad$ referenced by: [[Heb.9.2|Heb 9:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

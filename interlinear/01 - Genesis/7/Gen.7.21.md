@@ -5,6 +5,10 @@ And all flesh died that moved upon the earth, both of fowl, and of cattle, and o
 And every living thing that moved upon the earth perished—birds, livestock, animals, every creature that swarms upon the earth, and all mankind.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.20|<< Genesis 7:20]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.22|Genesis 7:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 7:21** is...
+> $\quad$ referenced by: [[2Pet.3.5|2Pet 3:5-6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

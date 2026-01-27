@@ -6,6 +6,10 @@ Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will feed t
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD of Hosts, the God of Israel, says: “Behold, I will feed this people wormwood and give them poisoned water to drink.<small><sub>**MT:**</sub></small>
 [[Jer.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.14|<< Jeremiah 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.16|Jeremiah 9:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 9:15** is...
+> $\quad$ referenced by: [[Rev.8.11|Rev 8:11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

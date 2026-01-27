@@ -9,6 +9,10 @@ And the LORD went before them by day in a pillar of a cloud, to lead them the wa
 <small><sub>**BSB:**</sub></small>
 And the LORD went before them in a pillar of cloud to guide their way by day, and in a pillar of fire to give them light by night, so that they could travel by day or night.<small><sub>**MT:**</sub></small>
 [[Exod.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.20|<< Exodus 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.22|Exodus 13:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 13:21** is...
+> $\quad$ referenced by: [[1Cor.10.1|1Cor 10:1]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

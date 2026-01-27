@@ -5,6 +5,10 @@ That the residue of men might seek after the Lord, and all the Gentiles, upon wh
 so that the remnant of men may seek the Lord, and all the Gentiles who are called by My name, says the Lord who does these things
 <small><sub>**Literal:**</sub></small>
 so that when may seek out the remnant <the> of men the Lord and all the Gentiles, upon whom has been called the name of Me upon them, says [the] Lord who is doing these things all<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.16|<< Acts 15:16]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.18|Acts 15:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 15:17** is...
+> $\quad$ referencing: [[LXX.Amos.9.11|Amos 9:11-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

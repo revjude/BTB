@@ -6,6 +6,10 @@ And he said unto Abram, Know of a surety that thy seed shall be a stranger in a 
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Abram, “Know for certain that your descendants will be strangers in a land that is not their own, and they will be enslaved and mistreated four hundred years.<small><sub>**MT:**</sub></small>
 [[Gen.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.12|<< Genesis 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.14|Genesis 15:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 15:13** is...
+> $\quad$ referenced by: [[Acts.7.6|Acts 7:6-7]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

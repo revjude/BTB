@@ -5,6 +5,10 @@ Who serve unto the example and shadow of heavenly things, as Moses was admonishe
 The place where they serve is a copy and shadow of what is in heaven. This is why Moses was warned when he was about to build the tabernacle: “See to it that you make everything according to the pattern shown you on the mountain.”
 <small><sub>**Literal:**</sub></small>
 who to a copy and shadow minster of the heavenly, even as has been divinely instructed Moses being about to complete the tabernacle; do see that for He says you will make all things according to the pattern which having been shown you in the mountain;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.4|<< Hebrews 8:4]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.6|Hebrews 8:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 8:5** is...
+> $\quad$ referencing: [[LXX.Exod.25.40|Exod 25:40]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

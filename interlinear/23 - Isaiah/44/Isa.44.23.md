@@ -5,6 +5,10 @@ Sing, O ye heavens; for the LORD hath done [it]: shout, ye lower parts of the ea
 Sing for joy, O heavens, for the LORD has done this; shout aloud, O depths of the earth. Break forth in song, O mountains, you forests and all your trees. For the LORD has redeemed Jacob, and revealed His glory in Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.22|<< Isaiah 44:22]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.24|Isaiah 44:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 44:23** is...
+> $\quad$ referenced by: [[Rev.18.20|Rev 18:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ But he shall say, I tell you, I know you not whence ye are; depart from me, all 
 And he will answer, ‘I tell you, I do not know where you are from. Depart from me, all you evildoers.’
 <small><sub>**Literal:**</sub></small>
 And he will speak; saying to you; not I do know you from where you are, do depart from me all [you] <the> workers <the> of unrighteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.26|<< Luke 13:26]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.28|Luke 13:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 13:27** is...
+> $\quad$ referencing: [[LXX.Ps.6.8|Ps 6:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

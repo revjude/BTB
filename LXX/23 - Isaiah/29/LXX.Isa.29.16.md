@@ -6,6 +6,10 @@ Surely your turning of things upside down shall be esteemed as the potter’s cl
 <small><sub>**BSB:**</sub></small>
 You have turned things upside down, as if the potter were regarded as clay. Shall what is formed say to him who formed it, “He did not make me”? Can the pottery say of the potter, “He has no understanding”?<small><sub>**MT:**</sub></small>
 [[Isa.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.15|<< Isaiah 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.17|Isaiah 29:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 29:16** is...
+> $\quad$ referenced by: [[Rom.9.20|Rom 9:20]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

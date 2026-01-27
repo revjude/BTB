@@ -5,6 +5,10 @@ If ye be reproached for the name of Christ, happy [are ye]; for the spirit of gl
 If you are insulted for the name of Christ, you are blessed, because the Spirit of glory and of God rests on you.
 <small><sub>**Literal:**</sub></small>
 If you are insulted in [the] name of Christ, [you are] blessed; because <the> <the> of glory and <the> <the> of God [the] Spirit upon you rests according to indeed them he is blasphemed according to however you he is honored.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.13|<< 1 Peter 4:13]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.15|1 Peter 4:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 4:14** is...
+> $\quad$ referencing: [[LXX.Isa.11.2|Isa 11:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

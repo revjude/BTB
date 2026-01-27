@@ -6,6 +6,10 @@ And it came to pass on the third day in the morning, that there were thunders an
 <small><sub>**BSB:**</sub></small>
 On the third day, when morning came, there was thunder and lightning. A thick cloud was upon the mountain, and a very loud blast of the ram’s horn went out, so that all the people in the camp trembled.<small><sub>**MT:**</sub></small>
 [[Exod.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.15|<< Exodus 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.17|Exodus 19:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 19:16** is...
+> $\quad$ referenced by: [[Heb.12.18|Heb 12:18]] ☩ [[Rev.4.5|Rev 4:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

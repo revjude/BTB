@@ -5,6 +5,10 @@ Who gave himself for us, that he might redeem us from all iniquity, and purify u
 He gave Himself for us to redeem us from all lawlessness and to purify for Himself a people for His own possession, zealous for good deeds.
 <small><sub>**Literal:**</sub></small>
 who gave Himself for us that He may redeem us from all lawlessness and may purify to Himself a people specially chosen, zealous of good works.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.13|<< Titus 2:13]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.15|Titus 2:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Titus 2:14** is...
+> $\quad$ alluding to: [[LXX.Deut.14.2|Deut 14:2]] ☩ [[LXX.Ps.130.8|Ps 130:8]] ☩ [[LXX.Ezek.37.23|Ezek 37:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

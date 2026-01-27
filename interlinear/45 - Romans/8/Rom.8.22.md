@@ -5,6 +5,10 @@ For we know that the whole creation groaneth and travaileth in pain together unt
 We know that the whole creation has been groaning together in the pains of childbirth until the present time.
 <small><sub>**Literal:**</sub></small>
 We know for that all the creation groans together and it travails together until <the> now;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.21|<< Romans 8:21]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.23|Romans 8:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 8:22** is...
+> $\quad$ alluding to: [[LXX.Isa.28.17|Isa 28:17-18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

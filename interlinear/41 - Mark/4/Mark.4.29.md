@@ -5,6 +5,10 @@ But when the fruit is brought forth, immediately he putteth in the sickle, becau
 And as soon as the grain is ripe, he swings the sickle, because the harvest has come.”
 <small><sub>**Literal:**</sub></small>
 When then it may produce the fruit, immediately he sends the sickle for has come the harvest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.28|<< Mark 4:28]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.30|Mark 4:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 4:29** is...
+> $\quad$ referencing: [[LXX.Joel.3.13|Joel 3:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

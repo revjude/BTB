@@ -5,6 +5,10 @@ Not according to the covenant that I made with their fathers in the day when I t
 It will not be like the covenant I made with their fathers when I took them by the hand to lead them out of the land of Egypt, because they did not abide by My covenant, and I disregarded them, declares the Lord.
 <small><sub>**Literal:**</sub></small>
 not according to the covenant that I made the with fathers of them in [the] day of having taken hold of by Me the hand of them to lead them out of [the] land of Egypt, because they themselves not did continue in the covenant of Mine, and I myself disregarded them, says [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.8|<< Hebrews 8:8]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.10|Hebrews 8:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 8:9** is...
+> $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

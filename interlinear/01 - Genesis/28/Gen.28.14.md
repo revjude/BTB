@@ -5,6 +5,10 @@ And thy seed shall be as the dust of the earth, and thou shalt spread abroad to 
 Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.13|<< Genesis 28:13]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.15|Genesis 28:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 28:14** is...
+> $\quad$ referenced by: [[Acts.3.25|Acts 3:25]] ☩ [[Rev.1.7|Rev 1:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

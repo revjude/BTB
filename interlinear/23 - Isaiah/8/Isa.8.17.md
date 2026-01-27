@@ -5,6 +5,10 @@ And I will wait upon the LORD, that hideth his face from the house of Jacob, and
 I will wait for the LORD, who is hiding His face from the house of Jacob. I will put my trust in Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.16|<< Isaiah 8:16]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.18|Isaiah 8:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 8:17** is...
+> $\quad$ referenced by: [[Heb.2.13|Heb 2:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Then shall they begin to say to the mountains, Fall on us; and to the hills, Cov
 At that time ‘they will say to the mountains, “Fall on us!” and to the hills, “Cover us!”’
 <small><sub>**Literal:**</sub></small>
 Then They will begin to say to the mountains; do fall upon us; and to the hills; do cover us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.29|<< Luke 23:29]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.31|Luke 23:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 23:30** is...
+> $\quad$ referencing: [[LXX.Hos.10.8|Hos 10:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

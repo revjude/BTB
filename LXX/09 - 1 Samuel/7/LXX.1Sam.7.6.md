@@ -6,6 +6,10 @@ And they gathered together to Mizpeh, and drew water, and poured [it] out before
 <small><sub>**BSB:**</sub></small>
 When they had gathered at Mizpah, they drew water and poured it out before the LORD. On that day they fasted, and there they confessed, “We have sinned against the LORD.” And Samuel judged the Israelites at Mizpah.<small><sub>**MT:**</sub></small>
 [[1Sam.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.5|<< 1 Samuel 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.7|1 Samuel 7:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 7:6** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And after that he gave [unto them] judges about the space of four hundred and fi
 All this took about 450 years. After this, God gave them judges until the time of Samuel the prophet.
 <small><sub>**Literal:**</sub></small>
 during years four hundred and fifty; And after these things He gave [them] judges until Samuel the prophet;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.19|<< Acts 13:19]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.21|Acts 13:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:20** is...
+> $\quad$ alluding to: [[LXX.Judg.2.16|Judg 2:16]] ☩ [[LXX.1Sam.3.20|1Sam 3:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

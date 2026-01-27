@@ -5,6 +5,10 @@ Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jeru
 Awake, awake, clothe yourself with strength, O Zion! Put on your garments of splendor, O Jerusalem, holy city! For the uncircumcised and unclean will no longer enter you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.23|<< Isaiah 51:23]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.2|Isaiah 52:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 52:1** is...
+> $\quad$ referenced by: [[Rev.21.27|Rev 21:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

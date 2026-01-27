@@ -5,6 +5,10 @@ For he put on righteousness as a breastplate, and an helmet of salvation upon hi
 He put on righteousness like a breastplate, and the helmet of salvation on His head; He put on garments of vengeance and wrapped Himself in a cloak of zeal.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.16|<< Isaiah 59:16]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.18|Isaiah 59:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 59:17** is...
+> $\quad$ referenced by: [[Eph.6.14|Eph 6:14]] ☩ [[Eph.6.17|Eph 6:17]] ☩ [[1Thess.5.8|1Thess 5:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

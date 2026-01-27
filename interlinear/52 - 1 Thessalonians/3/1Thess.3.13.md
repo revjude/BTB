@@ -5,6 +5,10 @@ To the end he may stablish your hearts unblameable in holiness before God, even 
 so that He may establish your hearts in blamelessness and holiness before our God and Father at the coming of our Lord Jesus with all His saints. Amen.
 <small><sub>**Literal:**</sub></small>
 in order <the> to strengthen your <the> hearts blameless in holiness before the God and Father of us at the coming of the Lord of us Jesus Christ with all the saints of Him Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.12|<< 1 Thessalonians 3:12]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.1|1 Thessalonians 4:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Thessalonians 3:13** is...
+> $\quad$ referencing: [[LXX.Zech.14.5|Zech 14:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

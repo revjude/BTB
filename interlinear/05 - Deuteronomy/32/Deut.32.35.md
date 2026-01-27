@@ -5,6 +5,10 @@ To me [belongeth] vengeance, and recompence; their foot shall slide in [due] tim
 Vengeance is Mine; I will repay. In due time their foot will slip; for their day of disaster is near, and their doom is coming quickly.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.34|<< Deuteronomy 32:34]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.36|Deuteronomy 32:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 32:35** is...
+> $\quad$ referenced by: [[Rom.12.19|Rom 12:19]] ☩ [[Heb.10.30|Heb 10:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

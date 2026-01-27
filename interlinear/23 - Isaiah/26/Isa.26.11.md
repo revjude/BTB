@@ -5,6 +5,10 @@ LORD, [when] thy hand is lifted up, they will not see: [but] they shall see, and
 O LORD, Your hand is upraised, but they do not see it. They will see Your zeal for Your people and be put to shame. The fire set for Your enemies will consume them!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.10|<< Isaiah 26:10]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.12|Isaiah 26:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 26:11** is...
+> $\quad$ referenced by: [[Heb.10.27|Heb 10:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

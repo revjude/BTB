@@ -5,6 +5,10 @@ But, beloved, be not ignorant of this one thing, that one day [is] with the Lord
 Beloved, do not let this one thing escape your notice: With the Lord a day is like a thousand years, and a thousand years are like a day.
 <small><sub>**Literal:**</sub></small>
 [This] one however thing not should be hidden from you, beloved, that one day with [the] Lord [is] like a thousand years and a thousand years like day one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.7|<< 2 Peter 3:7]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.9|2 Peter 3:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 3:8** is...
+> $\quad$ alluding to: [[LXX.Ps.90.4|Ps 90:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

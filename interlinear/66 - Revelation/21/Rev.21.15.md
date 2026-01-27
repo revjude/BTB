@@ -5,6 +5,10 @@ And he that talked with me had a golden reed to measure the city, and the gates 
 The angel who spoke with me had a golden measuring rod to measure the city and its gates and walls.
 <small><sub>**Literal:**</sub></small>
 And the [one] speaking with me he had a measuring reed golden so that he may measure the city and the gates of it and the wall of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.14|<< Revelation 21:14]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.16|Revelation 21:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:15** is...
+> $\quad$ alluding to: [[LXX.Ezek.40.3|Ezek 40:3]] ☩ [[LXX.Zech.2.1|Zech 2:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

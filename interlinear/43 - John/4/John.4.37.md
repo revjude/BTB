@@ -5,6 +5,10 @@ And herein is that saying true, One soweth, and another reapeth.
 For in this case the saying ‘One sows and another reaps’ is true.
 <small><sub>**Literal:**</sub></small>
 In for this the saying is <the> true that One is who is sowing and another [is] the [one] who is reaping.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.36|<< John 4:36]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.38|John 4:38 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 4:37** is...
+> $\quad$ alluding to: [[LXX.Mic.6.15|Mic 6:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

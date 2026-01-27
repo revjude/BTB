@@ -5,6 +5,10 @@ And Jesse begat David the king; and David the king begat Solomon of her [that ha
 and Jesse the father of David the king. Next: David was the father of Solomon by Uriah’s wife,
 <small><sub>**Literal:**</sub></small>
 Jesse then begat <the> David the king; David then the king begat <the> Solomon out of the [wife] <the> of Uriah;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.5|<< Matthew 1:5]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.7|Matthew 1:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 1:6** is...
+> $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

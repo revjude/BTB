@@ -5,6 +5,10 @@ For thy servant David’s sake turn not away the face of thine anointed.
 For the sake of Your servant David, do not reject Your anointed one.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.9|<< Psalms 132:9]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.11|Psalms 132:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 132:10** is...
+> $\quad$ referenced by: [[2Chr.6.42|2Chr 6:42]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

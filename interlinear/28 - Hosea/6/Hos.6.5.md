@@ -5,6 +5,10 @@ Therefore have I hewed [them] by the prophets; I have slain them by the words of
 Therefore I have hewn them by the prophets; I have slain them by the words of My mouth, and My judgments go forth like lightning.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6.4|<< Hosea 6:4]]</td><td align="center" style="border:none;">[[Hos.6|Hosea 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.6|Hosea 6:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 6:5** is...
+> $\quad$ referenced by: [[Eph.6.17|Eph 6:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

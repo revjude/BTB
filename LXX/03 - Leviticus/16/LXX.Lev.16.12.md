@@ -6,6 +6,10 @@ And he shall take a censer full of burning coals of fire from off the altar befo
 <small><sub>**BSB:**</sub></small>
 Then he must take a censer full of burning coals from the altar before the LORD, and two handfuls of finely ground fragrant incense, and take them inside the veil.<small><sub>**MT:**</sub></small>
 [[Lev.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.11|<< Leviticus 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.13|Leviticus 16:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 16:12** is...
+> $\quad$ referenced by: [[Heb.6.19|Heb 6:19]] ☩ [[Rev.8.3|Rev 8:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

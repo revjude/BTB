@@ -5,6 +5,10 @@ Then God turned, and gave them up to worship the host of heaven; as it is writte
 But God turned away from them and gave them over to the worship of the host of heaven, as it is written in the book of the prophets: ‘Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?
 <small><sub>**Literal:**</sub></small>
 Turned away however <the> God and delivered them to worship the host <the> of heaven, even as it has been written in [the] book of the prophets: Not slain beasts and sacrifices did you offer to Me years forty in the wilderness, O house of Israel?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.41|<< Acts 7:41]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.43|Acts 7:43 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:42** is...
+> $\quad$ referencing: [[LXX.Amos.5.25|Amos 5:25-27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

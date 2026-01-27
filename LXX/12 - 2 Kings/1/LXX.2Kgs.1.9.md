@@ -9,6 +9,10 @@ Then the king sent unto him a captain of fifty with his fifty. And he went up to
 <small><sub>**BSB:**</sub></small>
 Then King Ahaziah sent to Elijah a captain with his company of fifty men. So the captain went up to Elijah, who was sitting on top of a hill, and said to him, “Man of God, the king declares, ‘Come down!’”<small><sub>**MT:**</sub></small>
 [[2Kgs.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.8|<< 2 Kings 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.10|2 Kings 1:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Kings 1:9** is...
+> $\quad$ referenced by: [[Rev.11.5|Rev 11:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

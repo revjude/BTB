@@ -5,6 +5,10 @@ For he spake in a certain place of the seventh [day] on this wise, And God did r
 For somewhere He has spoken about the seventh day in this manner: “And on the seventh day God rested from all His works.”
 <small><sub>**Literal:**</sub></small>
 He has spoken for somewhere concerning the seventh [day] in this way; And rested <the> God on the day <the> seventh from all the works of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.3|<< Hebrews 4:3]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.5|Hebrews 4:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 4:4** is...
+> $\quad$ referencing: [[LXX.Gen.2.2|Gen 2:2-3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

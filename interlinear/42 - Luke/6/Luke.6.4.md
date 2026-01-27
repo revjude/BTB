@@ -5,6 +5,10 @@ How he went into the house of God, and did take and eat the shewbread, and gave 
 He entered the house of God, took the consecrated bread and gave it to his companions, and ate what is lawful only for the priests to eat.”
 <small><sub>**Literal:**</sub></small>
 how he entered into the house <the> of God, and the loaves of the presentation having taken and ate and gave and to those with him which not it is lawful to eat only except solely to the priests?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.3|<< Luke 6:3]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.5|Luke 6:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 6:4** is...
+> $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

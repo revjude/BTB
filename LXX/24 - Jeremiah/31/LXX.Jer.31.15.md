@@ -9,6 +9,10 @@ Thus saith the LORD; A voice was heard in Ramah, lamentation, [and] bitter weepi
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “A voice is heard in Ramah, mourning and great weeping, Rachel weeping for her children and refusing to be comforted, because they are no more.”<small><sub>**MT:**</sub></small>
 [[Jer.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.14|<< Jeremiah 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.16|Jeremiah 31:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 31:15** is...
+> $\quad$ referenced by: [[Matt.2.18|Matt 2:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

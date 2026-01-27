@@ -5,6 +5,10 @@ For they said unto me, Make us gods, which shall go before us: for [as for] this
 They told me, ‘Make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.22|<< Exodus 32:22]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.24|Exodus 32:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 32:23** is...
+> $\quad$ referenced by: [[Acts.7.40|Acts 7:40]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

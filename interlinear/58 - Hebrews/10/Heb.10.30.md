@@ -5,6 +5,10 @@ For we know him that hath said, Vengeance [belongeth] unto me, I will recompense
 For we know Him who said, “Vengeance is Mine; I will repay,” and again, “The Lord will judge His people.”
 <small><sub>**Literal:**</sub></small>
 We know for the [One] having said; Mine [is] vengeance , I myself will repay says Lord; and again: Will judge [the] Lord the people of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.29|<< Hebrews 10:29]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.31|Hebrews 10:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:30** is...
+> $\quad$ referencing: [[LXX.Deut.32.35|Deut 32:35-36]] ☩ [[LXX.Ps.135.14|Ps 135:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

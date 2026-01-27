@@ -5,6 +5,10 @@ Every man is brutish in [his] knowledge: every founder is confounded by the grav
 Every man is senseless and devoid of knowledge; every goldsmith is put to shame by his idols. For his molten images are a fraud, and there is no breath in them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.13|<< Jeremiah 10:13]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.15|Jeremiah 10:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 10:14** is...
+> $\quad$ referenced by: [[Rom.1.22|Rom 1:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

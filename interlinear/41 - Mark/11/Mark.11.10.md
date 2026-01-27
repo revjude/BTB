@@ -5,6 +5,10 @@ Blessed [be] the kingdom of our father David, that cometh in the name of the Lor
 “Blessed is the coming kingdom of our father David!” “Hosanna in the highest!”
 <small><sub>**Literal:**</sub></small>
 Blessed [is] the coming kingdom in name of the Lord of the father of us David! Hosanna in the highest!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.9|<< Mark 11:9]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.11|Mark 11:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 11:10** is...
+> $\quad$ referencing: [[LXX.Job.16.19|Job 16:19]] ☩ [[LXX.Ps.148.1|Ps 148:1]] ☩ [[LXX.Ps.118.25|Ps 118:25-26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

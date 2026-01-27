@@ -5,6 +5,10 @@ Wherefore putting away lying, speak every man truth with his neighbour: for we a
 Therefore each of you must put off falsehood and speak truthfully to his neighbor, for we are all members of one another.
 <small><sub>**Literal:**</sub></small>
 Therefore having put off <the> falsehood do speak truth each one with the neighbour of him, because we are of one another members.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.24|<< Ephesians 4:24]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.26|Ephesians 4:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 4:25** is...
+> $\quad$ referencing: [[LXX.Zech.8.16|Zech 8:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And when they heard that, they lifted up their voice to God with one accord, and
 When the believers heard this, they lifted up their voices to God with one accord. “Sovereign Lord,” they said, “You made the heaven and the earth and the sea and everything in them.
 <small><sub>**Literal:**</sub></small>
 <the> And having heard with one accord they lifted up [their] voice to <the> God and said; Sovereign Lord, You yourself <the> God who made the heaven and the earth and the sea and all that [is] in them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.23|<< Acts 4:23]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.25|Acts 4:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 4:24** is...
+> $\quad$ referencing: [[LXX.Exod.20.11|Exod 20:11]] ☩ [[LXX.2Chr.2.12|2Chr 2:12]] ☩ [[LXX.Ps.146.6|Ps 146:6]] ☩ [[LXX.2Kgs.19.15|2Kgs 19:15]] ☩ [[LXX.Isa.37.16|Isa 37:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the smoke of their torment ascendeth up for ever and ever: and they have no 
 And the smoke of their torment rises forever and ever. Day and night there is no rest for those who worship the beast and its image, or for anyone who receives the mark of its name.”
 <small><sub>**Literal:**</sub></small>
 And the smoke of the torment of them to ages of ages goes up, and not have rest by day and night those worshiping the beast and the image of it and if anyone receives the mark of the name of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.10|<< Revelation 14:10]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.12|Revelation 14:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 14:11** is...
+> $\quad$ alluding to: [[LXX.Isa.34.10|Isa 34:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

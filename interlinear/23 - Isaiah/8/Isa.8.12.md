@@ -5,6 +5,10 @@ Say ye not, A confederacy, to all [them to] whom this people shall say, A confed
 “Do not call conspiracy everything these people regard as conspiracy. Do not fear what they fear; do not live in dread.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.11|<< Isaiah 8:11]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.13|Isaiah 8:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 8:12** is...
+> $\quad$ referenced by: [[1Pet.3.14|1Pet 3:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

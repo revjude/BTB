@@ -5,6 +5,10 @@ And he looked round about on them which sat about him, and said, Behold my mothe
 Looking at those seated in a circle around Him, He said, “Here are My mother and My brothers!
 <small><sub>**Literal:**</sub></small>
 And having looked around on those who around Him surrounding were sitting He says; Behold the mother of Mine and the brothers of Mine!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.33|<< Mark 3:33]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.35|Mark 3:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 3:34** is...
+> $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ Ye shall therefore keep my statutes, and my judgments: which if a man do, he sha
 <small><sub>**BSB:**</sub></small>
 Keep My statutes and My judgments, for the man who does these things will live by them. I am the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.4|<< Leviticus 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.6|Leviticus 18:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 18:5** is...
+> $\quad$ referenced by: [[Luke.10.28|Luke 10:28]] ☩ [[Gal.3.12|Gal 3:12]] ☩ [[Rom.10.5|Rom 10:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

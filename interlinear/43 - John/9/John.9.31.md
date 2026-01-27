@@ -5,6 +5,10 @@ Now we know that God heareth not sinners: but if any man be a worshipper of God,
 We know that God does not listen to sinners, but He does listen to the one who worships Him and does His will.
 <small><sub>**Literal:**</sub></small>
 We know now that to sinners <the> God not does listen, but if anyone God-fearing shall be and the will of Him shall do, to him He listens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.30|<< John 9:30]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.32|John 9:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 9:31** is...
+> $\quad$ referencing: [[LXX.Ps.82.6|Ps 82:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

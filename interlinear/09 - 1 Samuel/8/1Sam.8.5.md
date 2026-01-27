@@ -5,6 +5,10 @@ And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now 
 “Look,” they said, “you are old, and your sons do not walk in your ways. Now appoint a king to judge us like all the other nations.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.4|<< 1 Samuel 8:4]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.6|1 Samuel 8:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 8:5** is...
+> $\quad$ referenced by: [[Acts.13.21|Acts 13:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ And he answered and said unto them, Have ye not read, that he which made [them] 
 Jesus answered, “Have you not read that from the beginning the Creator ‘made them male and female,’
 <small><sub>**Literal:**</sub></small>
 Which now answering He said to them: Surely you have read that the [One] created from [the] beginning male and female made them?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.3|<< Matthew 19:3]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.5|Matthew 19:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 19:4** is...
+> $\quad$ alluding to: [[LXX.Gen.1.27|Gen 1:27]]
+> $\quad$ referencing: [[LXX.Gen.5.2|Gen 5:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

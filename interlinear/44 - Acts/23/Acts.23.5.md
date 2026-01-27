@@ -5,6 +5,10 @@ Then said Paul, I wist not, brethren, that he was the high priest: for it is wri
 “Brothers,” Paul replied, “I was not aware that he was the high priest, for it is written: ‘Do not speak evil about the ruler of your people.’”
 <small><sub>**Literal:**</sub></small>
 Was saying then <the> Paul; Not I had known, brothers, that he is high priest; it has been written for that [The] ruler of the people of you not you will speak evil [of].’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.4|<< Acts 23:4]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.6|Acts 23:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 23:5** is...
+> $\quad$ referencing: [[LXX.Exod.22.28|Exod 22:28]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

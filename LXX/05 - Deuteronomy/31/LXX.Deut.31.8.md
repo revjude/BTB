@@ -6,6 +6,10 @@ And the LORD, he [it is] that doth go before thee; he will be with thee, he will
 <small><sub>**BSB:**</sub></small>
 The LORD Himself goes before you; He will be with you. He will never leave you nor forsake you. Do not be afraid or discouraged.”<small><sub>**MT:**</sub></small>
 [[Deut.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.7|<< Deuteronomy 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.9|Deuteronomy 31:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 31:8** is...
+> $\quad$ referenced by: [[Heb.13.5|Heb 13:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

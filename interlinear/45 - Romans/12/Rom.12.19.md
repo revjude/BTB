@@ -5,6 +5,10 @@ Dearly beloved, avenge not yourselves, but [rather] give place unto wrath: for i
 Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.”
 <small><sub>**Literal:**</sub></small>
 never yourselves avenging, beloved, instead do give place <the> to wrath; it has been written for: Mine [is] vengeance, I myself will repay, says [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.18|<< Romans 12:18]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.20|Romans 12:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 12:19** is...
+> $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]] ☩ [[LXX.Deut.32.35|Deut 32:35]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

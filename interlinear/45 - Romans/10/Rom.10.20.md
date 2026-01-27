@@ -5,6 +5,10 @@ But Esaias is very bold, and saith, I was found of them that sought me not; I wa
 And Isaiah boldly says: “I was found by those who did not seek Me; I revealed Myself to those who did not ask for Me.”
 <small><sub>**Literal:**</sub></small>
 Isaiah then is very bold and says: I was found by those Me myself not seeking, manifest I became by those Me myself not inquiring after.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.19|<< Romans 10:19]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.21|Romans 10:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:20** is...
+> $\quad$ referencing: [[LXX.Isa.65.1|Isa 65:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

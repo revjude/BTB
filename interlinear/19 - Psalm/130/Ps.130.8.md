@@ -5,6 +5,10 @@ And he shall redeem Israel from all his iniquities.
 And He will redeem Israel from all iniquity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.130.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.130.7|<< Psalms 130:7]]</td><td align="center" style="border:none;">[[Ps.130|Psalms 130]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.131.0|Psalms 131:0 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 130:8** is...
+> $\quad$ referenced by: [[Titus.2.14|Titus 2:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

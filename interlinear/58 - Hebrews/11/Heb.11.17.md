@@ -5,6 +5,10 @@ By faith Abraham, when he was tried, offered up Isaac: and he that had received 
 By faith Abraham, when he was tested, offered up Isaac on the altar. He who had received the promises was ready to offer his one and only son,
 <small><sub>**Literal:**</sub></small>
 By faith has offered up Abraham <the> Isaac Being tested, even <the> [his] only begotten [son] was offering up the [one] the promises having received,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.16|<< Hebrews 11:16]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.18|Hebrews 11:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:17** is...
+> $\quad$ alluding to: [[LXX.Gen.22.1|Gen 22:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

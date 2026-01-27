@@ -5,6 +5,10 @@ Let their table become a snare before them: and [that which should have been] fo
 May their table become a snare; may it be a retribution and a trap.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.21|<< Psalms 69:21]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.23|Psalms 69:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 69:22** is...
+> $\quad$ referenced by: [[Rom.11.9|Rom 11:9-10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he too
 So the LORD God caused the man to fall into a deep sleep, and while he slept, He took one of the man’s ribs and closed up the area with flesh.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.20|<< Genesis 2:20]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.22|Genesis 2:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 2:21** is...
+> $\quad$ referenced by: [[1Tim.2.13|1Tim 2:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

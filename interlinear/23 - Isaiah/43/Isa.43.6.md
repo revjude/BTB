@@ -5,6 +5,10 @@ I will say to the north, Give up; and to the south, Keep not back: bring my sons
 I will say to the north, ‘Give them up!’ and to the south, ‘Do not hold them back!’ Bring My sons from afar, and My daughters from the ends of the earth—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.5|<< Isaiah 43:5]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.7|Isaiah 43:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 43:6** is...
+> $\quad$ referenced by: [[2Cor.6.18|2Cor 6:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

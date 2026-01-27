@@ -5,6 +5,10 @@ And his brethren envied him; but his father observed the saying.
 And his brothers were jealous of him, but his father kept in mind what he had said.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.10|<< Genesis 37:10]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.12|Genesis 37:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 37:11** is...
+> $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

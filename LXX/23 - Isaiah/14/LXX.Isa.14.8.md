@@ -6,6 +6,10 @@ Yea, the fir trees rejoice at thee, [and] the cedars of Lebanon, [saying], Since
 <small><sub>**BSB:**</sub></small>
 Even the cypresses and cedars of Lebanon exult over you: “Since you have been laid low, no woodcutter comes against us.”<small><sub>**MT:**</sub></small>
 [[Isa.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.7|<< Isaiah 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.9|Isaiah 14:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 14:8** is...
+> $\quad$ related to: [[LXX.Ezek.31.16|Ezek 31:16-17]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

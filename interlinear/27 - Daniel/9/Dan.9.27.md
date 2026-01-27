@@ -5,6 +5,10 @@ And he shall confirm the covenant with many for one week: and in the midst of th
 And he will confirm a covenant with many for one week, but in the middle of the week he will put an end to sacrifice and offering. And on the wing of the temple will come the abomination that causes desolation, until the decreed destruction is poured out upon him.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.26|<< Daniel 9:26]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.1|Daniel 10:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 9:27** is...
+> $\quad$ referenced by: [[Matt.24.15|Matt 24:15]] ☩ [[Mark.13.14|Mark 13:14]] ☩ [[Rev.20.4|Rev 20:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

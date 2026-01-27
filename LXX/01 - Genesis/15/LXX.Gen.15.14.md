@@ -6,6 +6,10 @@ And also that nation, whom they shall serve, will I judge: and afterward shall t
 <small><sub>**BSB:**</sub></small>
 But I will judge the nation they serve as slaves, and afterward they will depart with many possessions.<small><sub>**MT:**</sub></small>
 [[Gen.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.13|<< Genesis 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.15|Genesis 15:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 15:14** is...
+> $\quad$ referenced by: [[Acts.7.6|Acts 7:6-7]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

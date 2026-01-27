@@ -5,6 +5,10 @@ But when it pleased God, who separated me from my mother’s womb, and called [m
 But when God, who set me apart from my mother’s womb and called me by His grace, was pleased
 <small><sub>**Literal:**</sub></small>
 When however was pleased <the> God the [One] having selected me from [the] womb of mother of mine and having called [me] through the grace of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.14|<< Galatians 1:14]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.16|Galatians 1:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 1:15** is...
+> $\quad$ alluding to: [[LXX.Isa.49.1|Isa 49:1]] ☩ [[LXX.Jer.1.5|Jer 1:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

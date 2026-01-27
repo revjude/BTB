@@ -5,6 +5,10 @@ For, behold, the LORD will come with fire, and with his chariots like a whirlwin
 For behold, the LORD will come with fire—His chariots are like a whirlwind—to execute His anger with fury and His rebuke with flames of fire.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.14|<< Isaiah 66:14]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.16|Isaiah 66:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 66:15** is...
+> $\quad$ referenced by: [[2Thess.1.8|2Thess 1:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

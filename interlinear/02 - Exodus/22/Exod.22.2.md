@@ -5,6 +5,10 @@ If a thief be found breaking up, and be smitten that he die, [there shall] no bl
 If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.1|<< Exodus 22:1]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.3|Exodus 22:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 22:2** is...
+> $\quad$ related to: [[Matt.24.43|Matt 24:43]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

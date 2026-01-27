@@ -5,6 +5,10 @@ And I will sow her unto me in the earth; and I will have mercy upon her that had
 And I will sow her as My own in the land, and I will have compassion on ‘No Compassion.’ I will say to those called ‘Not My People,’ ‘You are My people,’ and they will say, ‘You are my God.’”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.22|<< Hosea 2:22]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.3.1|Hosea 3:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 2:23** is...
+> $\quad$ referenced by: [[Rom.9.25|Rom 9:25]] ☩ [[1Pet.2.10|1Pet 2:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And how shall they preach, except they be sent? as it is written, How beautiful 
 And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!”
 <small><sub>**Literal:**</sub></small>
 How now shall they preach only unless they shall be sent? Even as it has been written: How beautiful the feet of those evangelising [about] peace of those evangelising the good [things]!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.14|<< Romans 10:14]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.16|Romans 10:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:15** is...
+> $\quad$ referencing: [[LXX.Isa.52.7|Isa 52:7]] ☩ [[LXX.Nah.1.15|Nah 1:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

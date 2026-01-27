@@ -5,6 +5,10 @@ And he shall go before him in the spirit and power of Elias, to turn the hearts 
 And he will go on before the Lord in the spirit and power of Elijah, to turn the hearts of the fathers to their children and the disobedient to the wisdom of the righteous—to make ready a people prepared for the Lord.”
 <small><sub>**Literal:**</sub></small>
 And he himself will go forth before Him in [the] spirit and power of Elijah to turn [the] hearts of [the] fathers to [the] children and [the] disobedient to [the] wisdom of [the] righteous, to make ready for [the] Lord a people prepared.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.16|<< Luke 1:16]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.18|Luke 1:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:17** is...
+> $\quad$ referencing: [[LXX.Mal.4.5|Mal 4:5-6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

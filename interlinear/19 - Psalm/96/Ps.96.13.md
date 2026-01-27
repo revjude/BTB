@@ -5,6 +5,10 @@ Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge
 before the LORD, for He is coming—He is coming to judge the earth. He will judge the world in righteousness and the peoples in His faithfulness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.96.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96.12|<< Psalms 96:12]]</td><td align="center" style="border:none;">[[Ps.96|Psalms 96]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.1|Psalms 97:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 96:13** is...
+> $\quad$ referenced by: [[Acts.17.31|Acts 17:31]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

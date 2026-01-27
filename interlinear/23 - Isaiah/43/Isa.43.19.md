@@ -5,6 +5,10 @@ Behold, I will do a new thing; now it shall spring forth; shall ye not know it? 
 Behold, I am about to do something new; even now it is coming. Do you not see it? Indeed, I will make a way in the wilderness and streams in the desert.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.18|<< Isaiah 43:18]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.20|Isaiah 43:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 43:19** is...
+> $\quad$ referenced by: [[2Cor.5.17|2Cor 5:17]] ☩ [[Rev.21.5|Rev 21:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

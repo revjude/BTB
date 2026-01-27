@@ -5,6 +5,10 @@ But the mercy of the LORD [is] from everlasting to everlasting upon them that fe
 But from everlasting to everlasting the loving devotion of the LORD extends to those who fear Him, and His righteousness to their children’s children—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.16|<< Psalms 103:16]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.18|Psalms 103:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 103:17** is...
+> $\quad$ referenced by: [[Luke.1.50|Luke 1:50]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

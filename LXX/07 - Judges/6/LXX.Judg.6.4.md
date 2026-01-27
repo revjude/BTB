@@ -6,6 +6,10 @@ And they encamped against them, and destroyed the increase of the earth, till th
 <small><sub>**BSB:**</sub></small>
 encamping against them as far as Gaza and destroying the produce of the land. They left Israel with no sustenance, neither sheep nor oxen nor donkeys.<small><sub>**MT:**</sub></small>
 [[Judg.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.3|<< Judges 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.5|Judges 6:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Judges 6:4** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

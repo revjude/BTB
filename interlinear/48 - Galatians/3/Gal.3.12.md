@@ -5,6 +5,10 @@ And the law is not of faith: but, The man that doeth them shall live in them.
 The law, however, is not based on faith; on the contrary, “The man who does these things will live by them.”
 <small><sub>**Literal:**</sub></small>
 <the> And the Law not is of faith rather The [one] having done these things man will live by them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.11|<< Galatians 3:11]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.13|Galatians 3:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 3:12** is...
+> $\quad$ referencing: [[LXX.Lev.18.5|Lev 18:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

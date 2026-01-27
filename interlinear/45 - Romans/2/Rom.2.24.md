@@ -5,6 +5,10 @@ For the name of God is blasphemed among the Gentiles through you, as it is writt
 As it is written: “God’s name is blasphemed among the Gentiles because of you.”
 <small><sub>**Literal:**</sub></small>
 <the> For the name <the> of God through you is blasphemed among the Gentiles even as it has been written.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.23|<< Romans 2:23]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.25|Romans 2:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 2:24** is...
+> $\quad$ referencing: [[LXX.Isa.52.5|Isa 52:5]] ☩ [[LXX.Ezek.36.21|Ezek 36:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

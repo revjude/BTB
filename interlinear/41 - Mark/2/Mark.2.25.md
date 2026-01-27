@@ -5,6 +5,10 @@ And he said unto them, Have ye never read what David did, when he had need, and 
 Jesus replied, “Have you never read what David did when he and his companions were hungry and in need?
 <small><sub>**Literal:**</sub></small>
 And he himself says to them; Surely you did read what did David when need he had and hungered he himself and those with him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.24|<< Mark 2:24]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.26|Mark 2:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 2:25** is...
+> $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And he shall pass through Judah; he shall overflow and go over, he shall reach [
 It will pour into Judah, swirling and sweeping over it, reaching up to the neck; its spreading streams will cover your entire land, O Immanuel!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.7|<< Isaiah 8:7]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.9|Isaiah 8:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 8:8** is...
+> $\quad$ referenced by: [[Matt.1.23|Matt 1:23]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

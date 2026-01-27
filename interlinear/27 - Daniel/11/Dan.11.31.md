@@ -5,6 +5,10 @@ And arms shall stand on his part, and they shall pollute the sanctuary of streng
 His forces will rise up and desecrate the temple fortress. They will abolish the daily sacrifice and set up the abomination of desolation.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.30|<< Daniel 11:30]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.32|Daniel 11:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 11:31** is...
+> $\quad$ referenced by: [[Matt.24.15|Matt 24:15]] ☩ [[Mark.13.14|Mark 13:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

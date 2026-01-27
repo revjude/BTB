@@ -5,6 +5,10 @@ A Psalm of David. The earth [is] the LORD’S, and the fulness thereof; the worl
 A Psalm of David. The earth is the LORD’s, and the fullness thereof, the world and all who dwell therein.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.0|<< Psalms 24:0]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.2|Psalms 24:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 24:1** is...
+> $\quad$ referenced by: [[1Cor.10.26|1Cor 10:26]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

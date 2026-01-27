@@ -5,6 +5,10 @@ And Moses stretched forth his rod toward heaven: and the LORD sent thunder and h
 So Moses stretched out his staff toward heaven, and the LORD sent thunder and hail, and lightning struck the earth. So the LORD rained down hail upon the land of Egypt.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.22|<< Exodus 9:22]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.24|Exodus 9:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 9:23** is...
+> $\quad$ referenced by: [[Rev.8.7|Rev 8:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

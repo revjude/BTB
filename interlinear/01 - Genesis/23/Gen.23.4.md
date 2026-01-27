@@ -5,6 +5,10 @@ I [am] a stranger and a sojourner with you: give me a possession of a buryingpla
 “I am a foreigner and an outsider among you. Give me a burial site among you so that I can bury my dead.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.3|<< Genesis 23:3]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.5|Genesis 23:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 23:4** is...
+> $\quad$ referenced by: [[Heb.11.13|Heb 11:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

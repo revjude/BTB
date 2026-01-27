@@ -5,6 +5,10 @@ Which made heaven, and earth, the sea, and all that therein [is]: which keepeth 
 the Maker of heaven and earth, the sea, and everything in them. He remains faithful forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.5|<< Psalms 146:5]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.7|Psalms 146:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 146:6** is...
+> $\quad$ referenced by: [[Acts.4.24|Acts 4:24]] ☩ [[Acts.14.15|Acts 14:15]] ☩ [[Rev.10.6|Rev 10:6]] ☩ [[Rev.14.7|Rev 14:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

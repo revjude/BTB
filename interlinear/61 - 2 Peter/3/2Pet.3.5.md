@@ -5,6 +5,10 @@ For this they willingly are ignorant of, that by the word of God the heavens wer
 But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,
 <small><sub>**Literal:**</sub></small>
 It is concealed from indeed them this willingly that heavens were existing long ago and [the] earth out of water and through water having been composed by the <the> of God word,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.4|<< 2 Peter 3:4]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.6|2 Peter 3:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 3:5** is...
+> $\quad$ alluding to: [[LXX.Gen.1.1|Gen 1:1-2]] ☩ [[LXX.Gen.1.6|Gen 1:6]] ☩ [[LXX.Gen.7.21|Gen 7:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

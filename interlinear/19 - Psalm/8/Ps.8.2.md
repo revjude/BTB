@@ -5,6 +5,10 @@ Out of the mouth of babes and sucklings hast thou ordained strength because of t
 From the mouths of children and infants You have ordained praise on account of Your adversaries, to silence the enemy and avenger.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.1|<< Psalms 8:1]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.3|Psalms 8:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 8:2** is...
+> $\quad$ referenced by: [[Matt.21.16|Matt 21:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

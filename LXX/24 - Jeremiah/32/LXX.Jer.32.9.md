@@ -6,6 +6,10 @@ And I bought the field of Hanameel my uncle’s son, that [was] in Anathoth, and
 <small><sub>**BSB:**</sub></small>
 So I bought the field in Anathoth from my cousin Hanamel, and I weighed out seventeen shekels of silver.<small><sub>**MT:**</sub></small>
 [[Jer.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.8|<< Jeremiah 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.10|Jeremiah 32:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 32:9** is...
+> $\quad$ referenced by: [[Matt.27.9|Matt 27:9-10]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

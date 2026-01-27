@@ -5,6 +5,10 @@ Be in pain, and labour to bring forth, O daughter of Zion, like a woman in trava
 Writhe in agony, O Daughter of Zion, like a woman in labor. For now you will leave the city and camp in the open fields. You will go to Babylon; there you will be rescued; there the LORD will redeem you from the hand of your enemies!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.9|<< Micah 4:9]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.11|Micah 4:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Micah 4:10** is...
+> $\quad$ referenced by: [[Rev.12.1|Rev 12:1-2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

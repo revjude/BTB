@@ -5,6 +5,10 @@ Then will I cause to cease from the cities of Judah, and from the streets of Jer
 I will remove from the cities of Judah and the streets of Jerusalem the sounds of joy and gladness and the voices of the bride and bridegroom, for the land will become a wasteland.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.33|<< Jeremiah 7:33]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.1|Jeremiah 8:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 7:34** is...
+> $\quad$ referenced by: [[Rev.18.22|Rev 18:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

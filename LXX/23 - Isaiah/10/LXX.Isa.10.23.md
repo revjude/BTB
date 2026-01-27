@@ -6,6 +6,10 @@ For the Lord GOD of hosts shall make a consumption, even determined, in the mids
 <small><sub>**BSB:**</sub></small>
 For the Lord GOD of Hosts will carry out the destruction decreed upon the whole land.<small><sub>**MT:**</sub></small>
 [[Isa.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.22|<< Isaiah 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.24|Isaiah 10:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 10:23** is...
+> $\quad$ referenced by: [[Rom.9.27|Rom 9:27-28]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

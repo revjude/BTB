@@ -6,6 +6,10 @@ The LORD hath sworn [in] truth unto David; he will not turn from it; Of the frui
 <small><sub>**BSB:**</sub></small>
 The LORD swore an oath to David, a promise He will not revoke: “One of your descendants I will place on your throne.<small><sub>**MT:**</sub></small>
 [[Ps.132.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.10|<< Psalm 132:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.12|Psalm 132:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 132:11** is...
+> $\quad$ referenced by: [[Luke.1.32|Luke 1:32]] ☩ [[John.7.42|John 7:42]] ☩ [[Acts.2.30|Acts 2:30]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

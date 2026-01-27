@@ -5,6 +5,10 @@ For who hath known the mind of the Lord, that he may instruct him? But we have t
 “For who has known the mind of the Lord, so as to instruct Him?” But we have the mind of Christ.
 <small><sub>**Literal:**</sub></small>
 Who for has known [the] mind of [the] Lord? Who will instruct Him? We ourselves however [the] mind of Christ have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.15|<< 1 Corinthians 2:15]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.1|1 Corinthians 3:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 2:16** is...
+> $\quad$ referencing: [[LXX.Isa.40.13|Isa 40:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

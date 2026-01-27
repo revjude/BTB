@@ -6,6 +6,10 @@ Then the LORD put forth his hand, and touched my mouth. And the LORD said unto m
 <small><sub>**BSB:**</sub></small>
 Then the LORD reached out His hand, touched my mouth, and said to me: “Behold, I have put My words in your mouth.<small><sub>**MT:**</sub></small>
 [[Jer.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.8|<< Jeremiah 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.10|Jeremiah 1:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 1:9** is...
+> $\quad$ referenced by: [[Rev.10.11|Rev 10:11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

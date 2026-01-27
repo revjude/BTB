@@ -6,6 +6,10 @@ Make the heart of this people fat, and make their ears heavy, and shut their eye
 <small><sub>**BSB:**</sub></small>
 Make the hearts of this people calloused; deafen their ears and close their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn and be healed.”<small><sub>**MT:**</sub></small>
 [[Isa.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.9|<< Isaiah 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.11|Isaiah 6:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 6:10** is...
+> $\quad$ referenced by: [[Matt.13.14|Matt 13:14-15]] ☩ [[Mark.4.12|Mark 4:12]] ☩ [[John.12.40|John 12:40]] ☩ [[Acts.28.26|Acts 28:26-27]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

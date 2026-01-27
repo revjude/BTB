@@ -5,6 +5,10 @@ And they that went before, and they that followed, cried, saying, Hosanna; Bless
 The ones who went ahead and those who followed were shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!”
 <small><sub>**Literal:**</sub></small>
 And those going before and those following were crying out saying: Hosanna! Blessed [is] the [One] coming in [the] name of [the] Lord!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.8|<< Mark 11:8]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.10|Mark 11:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 11:9** is...
+> $\quad$ referencing: [[LXX.Ps.118.25|Ps 118:25-26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

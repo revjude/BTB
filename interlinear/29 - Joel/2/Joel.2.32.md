@@ -5,6 +5,10 @@ And it shall come to pass, [that] whosoever shall call on the name of the LORD s
 And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has promised, among the remnant called by the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.31|<< Joel 2:31]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.1|Joel 3:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 2:32** is...
+> $\quad$ referenced by: [[Acts.2.17|Acts 2:17-21]] ☩ [[Rom.10.13|Rom 10:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

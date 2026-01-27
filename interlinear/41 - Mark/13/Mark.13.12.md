@@ -5,6 +5,10 @@ Now the brother shall betray the brother to death, and the father the son; and c
 Brother will betray brother to death, and a father his child. Children will rise against their parents and have them put to death.
 <small><sub>**Literal:**</sub></small>
 And will deliver up now brother brother to death and father child, and will rise up children against parents and will put to death them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.11|<< Mark 13:11]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.13|Mark 13:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 13:12** is...
+> $\quad$ alluding to: [[LXX.Mic.7.6|Mic 7:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

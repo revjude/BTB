@@ -6,6 +6,10 @@ Speak not thou in thine heart, after that the LORD thy God hath cast them out fr
 <small><sub>**BSB:**</sub></small>
 When the LORD your God has driven them out before you, do not say in your heart, “Because of my righteousness the LORD has brought me in to possess this land.” Rather, the LORD is driving out these nations before you because of their wickedness.<small><sub>**MT:**</sub></small>
 [[Deut.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.3|<< Deuteronomy 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.5|Deuteronomy 9:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 9:4** is...
+> $\quad$ referenced by: [[Rom.10.6|Rom 10:6]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

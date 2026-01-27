@@ -5,6 +5,10 @@ In that day there shall be a fountain opened to the house of David and to the in
 “On that day a fountain will be opened to the house of David and the people of Jerusalem, to cleanse them from sin and impurity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.14|<< Zechariah 12:14]]</td><td align="center" style="border:none;">[[Zech.13|Zechariah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.13.2|Zechariah 13:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 13:1** is...
+> $\quad$ referenced by: [[John.7.38|John 7:38]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

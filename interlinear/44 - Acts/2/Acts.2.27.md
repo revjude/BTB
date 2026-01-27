@@ -5,6 +5,10 @@ Because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy
 because You will not abandon my soul to Hades, nor will You let Your Holy One see decay.
 <small><sub>**Literal:**</sub></small>
 for not You will abandon the soul of mine into Hades, nor will You allow the Holy One of You to see decay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.26|<< Acts 2:26]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.28|Acts 2:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 2:27** is...
+> $\quad$ referencing: [[LXX.Ps.16.8|Ps 16:8-11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

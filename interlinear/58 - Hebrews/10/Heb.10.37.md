@@ -5,6 +5,10 @@ For yet a little while, and he that shall come will come, and will not tarry.
 For, “In just a little while, He who is coming will come and will not delay.
 <small><sub>**Literal:**</sub></small>
 Yet for A little very while, the [One] who is coming will come and not will delay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.36|<< Hebrews 10:36]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.38|Hebrews 10:38 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:37** is...
+> $\quad$ referencing: [[LXX.Hab.2.3|Hab 2:3-4]] ☩ [[LXX.Isa.26.20|Isa 26:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

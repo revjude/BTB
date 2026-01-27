@@ -6,6 +6,10 @@ If his children forsake my law, and walk not in my judgments;
 <small><sub>**BSB:**</sub></small>
 If his sons forsake My law and do not walk in My judgments,<small><sub>**MT:**</sub></small>
 [[Ps.89.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.29|<< Psalm 89:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.31|Psalm 89:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 89:30** is...
+> $\quad$ referenced by: [[John.12.34|John 12:34]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

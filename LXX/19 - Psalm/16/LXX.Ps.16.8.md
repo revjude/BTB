@@ -6,6 +6,10 @@ I have set the LORD always before me: because [he is] at my right hand, I shall 
 <small><sub>**BSB:**</sub></small>
 I have set the LORD always before me. Because He is at my right hand, I will not be shaken.<small><sub>**MT:**</sub></small>
 [[Ps.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.7|<< Psalm 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.9|Psalm 16:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 16:8** is...
+> $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[Acts.2.25|Acts 2:25-28]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

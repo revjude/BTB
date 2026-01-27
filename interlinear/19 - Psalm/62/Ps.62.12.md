@@ -5,6 +5,10 @@ Also unto thee, O Lord, [belongeth] mercy: for thou renderest to every man accor
 and loving devotion to You, O Lord. For You will repay each man according to his deeds.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.11|<< Psalms 62:11]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.0|Psalms 63:0 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 62:12** is...
+> $\quad$ referenced by: [[Matt.16.27|Matt 16:27]] ☩ [[1Cor.3.8|1Cor 3:8]] ☩ [[2Tim.4.14|2Tim 4:14]] ☩ [[Rom.2.6|Rom 2:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

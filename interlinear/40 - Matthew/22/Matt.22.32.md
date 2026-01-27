@@ -5,6 +5,10 @@ I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not 
 ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.”
 <small><sub>**Literal:**</sub></small>
 I myself am the God of Abraham and the God of Isaac and the God of Jacob?’ Not He is the God God of [the] dead but of [the] living.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.31|<< Matthew 22:31]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.33|Matthew 22:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 22:32** is...
+> $\quad$ referencing: [[LXX.Exod.3.6|Exod 3:6]] ☩ [[LXX.Exod.3.15|Exod 3:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

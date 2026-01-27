@@ -5,6 +5,10 @@ And it came to pass, as if it had been a light thing for him to walk in the sins
 And as if it were not enough for him to walk in the sins of Jeroboam son of Nebat, he even married Jezebel the daughter of Ethbaal king of the Sidonians, and he then proceeded to serve and worship Baal.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.30|<< 1 Kings 16:30]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.32|1 Kings 16:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 16:31** is...
+> $\quad$ referenced by: [[Rev.2.20|Rev 2:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

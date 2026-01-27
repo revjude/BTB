@@ -5,6 +5,10 @@ And Abel, he also brought of the firstlings of his flock and of the fat thereof.
 while Abel brought the best portions of the firstborn of his flock. And the LORD looked with favor on Abel and his offering,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.3|<< Genesis 4:3]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.5|Genesis 4:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 4:4** is...
+> $\quad$ referenced by: [[Heb.11.4|Heb 11:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

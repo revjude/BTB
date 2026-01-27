@@ -5,6 +5,11 @@ And he cried mightily with a strong voice, saying, Babylon the great is fallen, 
 And he cried out in a mighty voice: “Fallen, fallen is Babylon the great! She has become a lair for demons and a haunt for every unclean spirit, every unclean bird, and every detestable beast.
 <small><sub>**Literal:**</sub></small>
 And he cried out in a mighty voice loud saying: Fallen Fallen is Babylon the great And she has become a habitation of demons and a prison of every spirit unclean and a prison of every bird unclean and a prison of every creature unclean and hated,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.1|<< Revelation 18:1]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.3|Revelation 18:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:2** is...
+> $\quad$ referencing: [[LXX.Isa.21.9|Isa 21:9]]
+> $\quad$ alluding to: [[LXX.Isa.13.21|Isa 13:21]] ☩ [[LXX.Jer.51.8|Jer 51:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

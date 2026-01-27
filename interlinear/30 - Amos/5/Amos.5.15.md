@@ -5,6 +5,10 @@ Hate the evil, and love the good, and establish judgment in the gate: it may be 
 Hate evil and love good; establish justice in the gate. Perhaps the LORD, the God of Hosts, will be gracious to the remnant of Joseph.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.14|<< Amos 5:14]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.16|Amos 5:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Amos 5:15** is...
+> $\quad$ referenced by: [[Rom.12.9|Rom 12:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ Our fathers did eat manna in the desert; as it is written, He gave them bread fr
 Our fathers ate the manna in the wilderness, as it is written: ‘He gave them bread from heaven to eat.’”
 <small><sub>**Literal:**</sub></small>
 The fathers of us the manna ate in the wilderness even as it is written: Bread from <the> heaven He gave them to eat.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.30|<< John 6:30]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.32|John 6:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 6:31** is...
+> $\quad$ alluding to: [[LXX.Exod.16.4|Exod 16:4]] ☩ [[LXX.Exod.16.15|Exod 16:15]]
+> $\quad$ referencing: [[LXX.Ps.78.24|Ps 78:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

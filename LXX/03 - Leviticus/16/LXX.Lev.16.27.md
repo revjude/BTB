@@ -6,6 +6,10 @@ And the bullock [for] the sin offering, and the goat [for] the sin offering, who
 <small><sub>**BSB:**</sub></small>
 The bull for the sin offering and the goat for the sin offering, whose blood was brought into the Most Holy Place to make atonement, must be taken outside the camp; and their hides, flesh, and dung must be burned up.<small><sub>**MT:**</sub></small>
 [[Lev.16.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.26|<< Leviticus 16:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.28|Leviticus 16:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 16:27** is...
+> $\quad$ referenced by: [[Heb.13.11|Heb 13:11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And his disciples remembered that it was written, The zeal of thine house hath e
 His disciples remembered that it is written: “Zeal for Your house will consume Me.”
 <small><sub>**Literal:**</sub></small>
 Remembered now the disciples of Him that written it is: The zeal of the house of You will consume Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.16|<< John 2:16]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.18|John 2:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 2:17** is...
+> $\quad$ referencing: [[LXX.Ps.69.9|Ps 69:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

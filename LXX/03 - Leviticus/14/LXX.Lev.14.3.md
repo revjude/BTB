@@ -6,6 +6,10 @@ And the priest shall go forth out of the camp; and the priest shall look, and, b
 <small><sub>**BSB:**</sub></small>
 The priest is to go outside the camp to examine him, and if the skin disease of the afflicted person has healed,<small><sub>**MT:**</sub></small>
 [[Lev.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.2|<< Leviticus 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.4|Leviticus 14:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 14:3** is...
+> $\quad$ referenced by: [[Matt.8.4|Matt 8:4]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

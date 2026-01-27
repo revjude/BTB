@@ -5,6 +5,10 @@ And the whole multitude of the people were praying without at the time of incens
 And at the hour of the incense offering, the whole congregation was praying outside.
 <small><sub>**Literal:**</sub></small>
 And all the multitude were of the people praying outside at the hour of the incense.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.9|<< Luke 1:9]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.11|Luke 1:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:10** is...
+> $\quad$ alluding to: [[LXX.Lev.16.17|Lev 16:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

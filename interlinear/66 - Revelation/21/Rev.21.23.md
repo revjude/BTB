@@ -5,6 +5,11 @@ And the city had no need of the sun, neither of the moon, to shine in it: for th
 And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp.
 <small><sub>**Literal:**</sub></small>
 And the city no need has of the sun nor of the moon that they may shine in in it; the for glory <the> of God enlightened it, and the lamp of it [is] the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.22|<< Revelation 21:22]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.24|Revelation 21:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:23** is...
+> $\quad$ alluding to: [[LXX.Isa.60.19|Isa 60:19]]
+> $\quad$ possibly alluding to: [[LXX.Ezek.48.35|Ezek 48:35]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

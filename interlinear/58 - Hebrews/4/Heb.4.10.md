@@ -5,6 +5,10 @@ For he that is entered into his rest, he also hath ceased from his own works, as
 For whoever enters God’s rest also rests from his own work, just as God did from His.
 <small><sub>**Literal:**</sub></small>
 The [one] for having entered into the rest of Him also he himself rested from the works of him as from <the> [His] own  <the> God [did].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.9|<< Hebrews 4:9]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.11|Hebrews 4:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 4:10** is...
+> $\quad$ alluding to: [[LXX.Gen.2.2|Gen 2:2]] ☩ [[LXX.Ps.95.11|Ps 95:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

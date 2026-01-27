@@ -5,6 +5,10 @@ And when his brethren saw that their father loved him more than all his brethren
 When Joseph’s brothers saw that their father loved him more than any of them, they hated him and could not speak a kind word to him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.3|<< Genesis 37:3]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.5|Genesis 37:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 37:4** is...
+> $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

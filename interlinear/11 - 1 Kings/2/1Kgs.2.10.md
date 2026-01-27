@@ -5,6 +5,10 @@ So David slept with his fathers, and was buried in the city of David.
 Then David rested with his fathers and was buried in the City of David.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.9|<< 1 Kings 2:9]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.11|1 Kings 2:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 2:10** is...
+> $\quad$ referenced by: [[Acts.13.36|Acts 13:36]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

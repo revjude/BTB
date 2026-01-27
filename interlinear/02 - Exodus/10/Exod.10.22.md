@@ -5,6 +5,10 @@ And Moses stretched forth his hand toward heaven; and there was a thick darkness
 So Moses stretched out his hand toward heaven, and total darkness covered all the land of Egypt for three days.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.21|<< Exodus 10:21]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.23|Exodus 10:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 10:22** is...
+> $\quad$ referenced by: [[Rev.16.10|Rev 16:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

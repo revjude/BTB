@@ -5,6 +5,10 @@ Be wise now therefore, O ye kings: be instructed, ye judges of the earth.
 Therefore be wise, O kings; be admonished, O judges of the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.9|<< Psalms 2:9]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.11|Psalms 2:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 2:10** is...
+> $\quad$ referenced by: [[Rev.12.5|Rev 12:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

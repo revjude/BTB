@@ -5,6 +5,10 @@ He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not co
 “Which ones?” the man asked. Jesus answered, “‘Do not murder, do not commit adultery, do not steal, do not bear false witness,
 <small><sub>**Literal:**</sub></small>
 He says to him; Which [commandments]? <the> And Jesus was speaking; <the> Not will you murder, not will you commit adultery, not will you steal, not will you bear false witness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.17|<< Matthew 19:17]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.19|Matthew 19:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 19:18** is...
+> $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12-16]] ☩ [[LXX.Deut.5.16|Deut 5:16-20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

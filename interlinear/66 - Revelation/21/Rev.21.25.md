@@ -5,6 +5,10 @@ And the gates of it shall not be shut at all by day: for there shall be no night
 Its gates will never be shut at the end of the day, because there will be no night there.
 <small><sub>**Literal:**</sub></small>
 And the gates of it certainly not may be shut by day; night for not will be there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.24|<< Revelation 21:24]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.26|Revelation 21:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:25** is...
+> $\quad$ alluding to: [[LXX.Isa.60.3|Isa 60:3]] ☩ [[LXX.Isa.60.11|Isa 60:11]] ☩ [[LXX.Isa.60.20|Isa 60:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Be ye therefore perfect, even as your Father which is in heaven is perfect.
 Be perfect, therefore, as your heavenly Father is perfect.
 <small><sub>**Literal:**</sub></small>
 Will be therefore you yourselves perfect how the Father of you who Heavenly perfect is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.47|<< Matthew 5:47]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.1|Matthew 6:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 5:48** is...
+> $\quad$ referencing: [[LXX.Gen.17.1|Gen 17:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ So Hanameel mine uncle’s son came to me in the court of the prison according t
 <small><sub>**BSB:**</sub></small>
 Then, as the LORD had said, my cousin Hanamel came to me in the courtyard of the guard and urged me, ‘Please buy my field in Anathoth in the land of Benjamin, for you own the right of inheritance and redemption. Buy it for yourself.’” Then I knew that this was the word of the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.32.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.7|<< Jeremiah 32:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.9|Jeremiah 32:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 32:8** is...
+> $\quad$ referenced by: [[Matt.27.9|Matt 27:9-10]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And as touching the dead, that they rise: have ye not read in the book of Moses,
 But concerning the dead rising, have you not read about the burning bush in the Book of Moses, how God told him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?
 <small><sub>**Literal:**</sub></small>
 Concerning now the dead that they rise, surely you have read in the book of Moses on the bush how spoke to him <the> God saying; I myself [am] the God of Abraham and the God of Isaac and the God of Jacob’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.25|<< Mark 12:25]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.27|Mark 12:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 12:26** is...
+> $\quad$ referencing: [[LXX.Exod.3.6|Exod 3:6]] ☩ [[LXX.Exod.3.15|Exod 3:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And Amminadab begat Nahshon, and Nahshon begat Salmon,
 Amminadab was the father of Nahshon, Nahshon was the father of Salmon,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.19|<< Ruth 4:19]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.21|Ruth 4:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ruth 4:20** is...
+> $\quad$ referenced by: [[Matt.1.3|Matt 1:3-6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

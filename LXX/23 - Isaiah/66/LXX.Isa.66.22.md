@@ -6,6 +6,10 @@ For as the new heavens and the new earth, which I will make, shall remain before
 <small><sub>**BSB:**</sub></small>
 “For just as the new heavens and the new earth, which I will make, will endure before Me,” declares the LORD, “so your descendants and your name will endure.<small><sub>**MT:**</sub></small>
 [[Isa.66.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.21|<< Isaiah 66:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.23|Isaiah 66:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 66:22** is...
+> $\quad$ referenced by: [[2Pet.3.13|2Pet 3:13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

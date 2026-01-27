@@ -5,6 +5,10 @@ And when eight days were accomplished for the circumcising of the child, his nam
 When the eight days before His circumcision had passed, He was named Jesus, the name the angel had given Him before He was conceived.
 <small><sub>**Literal:**</sub></small>
 And when were fulfilled days eight <the> to circumcise Him the child then was called the name of Him Jesus, which He had been called by the angel before <the> conceiving He in the womb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.20|<< Luke 2:20]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.22|Luke 2:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 2:21** is...
+> $\quad$ alluding to: [[LXX.Lev.12.3|Lev 12:3-4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

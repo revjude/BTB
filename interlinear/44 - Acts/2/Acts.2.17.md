@@ -5,6 +5,10 @@ And it shall come to pass in the last days, saith God, I will pour out of my Spi
 ‘In the last days, God says, I will pour out My Spirit on all people. Your sons and daughters will prophesy, your young men will see visions, your old men will dream dreams.
 <small><sub>**Literal:**</sub></small>
 And it will be in the last days, says <the> God, I will pour out of the Spirit of Mine upon all flesh and will prophesy the sons of you and the daughters of you, and the young men of you visions will behold and the elders of you dreams will dream.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.16|<< Acts 2:16]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.18|Acts 2:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 2:17** is...
+> $\quad$ referencing: [[LXX.Joel.2.28|Joel 2:28-32]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Then said I, Lo, I come: in the volume of the book [it is] written of me,
 Then I said, “Here I am, I have come—it is written about me in the scroll:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.6|<< Psalms 40:6]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.8|Psalms 40:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 40:7** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]] ☩ [[Heb.10.5|Heb 10:5-7]] ☩ [[Heb.10.9|Heb 10:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

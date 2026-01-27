@@ -5,6 +5,10 @@ And the light of a candle shall shine no more at all in thee; and the voice of t
 The light of a lamp will never shine in you again, and the voices of a bride and bridegroom will never call out in you again. For your merchants were the great ones of the earth, because all the nations were deceived by your sorcery.”
 <small><sub>**Literal:**</sub></small>
 And [the] light of lamp certainly not may shine in you any longer, and [the] voice of a bridegroom and a bride certainly not may be heard in you any longer, for the merchants of you were the great ones of the earth, because by the sorcery of you were deceived all the nations.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.22|<< Revelation 18:22]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.24|Revelation 18:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:23** is...
+> $\quad$ alluding to: [[LXX.Isa.23.8|Isa 23:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

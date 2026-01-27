@@ -5,6 +5,10 @@ Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a 
 You will break them with an iron scepter; You will shatter them like pottery.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.8|<< Psalms 2:8]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.10|Psalms 2:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 2:9** is...
+> $\quad$ referenced by: [[Rev.2.27|Rev 2:27]] ☩ [[Rev.19.15|Rev 19:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ I the LORD search the heart, [I] try the reins, even to give every man according
 <small><sub>**BSB:**</sub></small>
 I, the LORD, search the heart; I examine the mind to reward a man according to his way, by what his deeds deserve.<small><sub>**MT:**</sub></small>
 [[Jer.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.9|<< Jeremiah 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.11|Jeremiah 17:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 17:10** is...
+> $\quad$ referenced by: [[Rev.2.23|Rev 2:23]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

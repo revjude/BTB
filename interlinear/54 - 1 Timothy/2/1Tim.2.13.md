@@ -5,6 +5,11 @@ For Adam was first formed, then Eve.
 For Adam was formed first, and then Eve.
 <small><sub>**Literal:**</sub></small>
 Adam for first was formed, then Eve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.12|<< 1 Timothy 2:12]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.14|1 Timothy 2:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Timothy 2:13** is...
+> $\quad$ possibly alluding to: [[LXX.Gen.1.17|Gen 1:17]]
+> $\quad$ alluding to: [[LXX.Gen.2.7|Gen 2:7]] ☩ [[LXX.Gen.2.21|Gen 2:21-22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

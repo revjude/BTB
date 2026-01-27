@@ -5,6 +5,10 @@ For ye shall not go out with haste, nor go by flight: for the LORD will go befor
 For you will not leave in a hurry nor flee in haste, for the LORD goes before you, and the God of Israel is your rear guard.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.11|<< Isaiah 52:11]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.13|Isaiah 52:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 52:12** is...
+> $\quad$ referenced by: [[2Cor.6.16|2Cor 6:16-18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

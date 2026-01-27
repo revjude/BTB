@@ -5,6 +5,10 @@ For it is written, that Abraham had two sons, the one by a bondmaid, the other b
 For it is written that Abraham had two sons, one by the slave woman and the other by the free woman.
 <small><sub>**Literal:**</sub></small>
 It has been written for that Abraham two sons had, one of the slave woman and one of the free.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.21|<< Galatians 4:21]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.23|Galatians 4:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 4:22** is...
+> $\quad$ alluding to: [[LXX.Gen.21.2|Gen 21:2]] ☩ [[LXX.Gen.21.9|Gen 21:9]] ☩ [[LXX.Gen.16.15|Gen 16:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

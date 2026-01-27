@@ -5,6 +5,10 @@ Surely he scorneth the scorners: but he giveth grace unto the lowly.
 He mocks the mockers, but gives grace to the humble.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.33|<< Proverbs 3:33]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.35|Proverbs 3:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 3:34** is...
+> $\quad$ referenced by: [[Jas.4.6|Jas 4:6]] ☩ [[1Pet.5.5|1Pet 5:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

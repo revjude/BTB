@@ -5,6 +5,10 @@ The LORD also will be a refuge for the oppressed, a refuge in times of trouble.
 The LORD is a refuge for the oppressed, a stronghold in times of trouble.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.8|<< Psalms 9:8]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.10|Psalms 9:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 9:9** is...
+> $\quad$ referenced by: [[Acts.17.31|Acts 17:31]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ By faith the harlot Rahab perished not with them that believed not, when she had
 By faith the prostitute Rahab, because she welcomed the spies in peace, did not perish with those who were disobedient.
 <small><sub>**Literal:**</sub></small>
 By faith Rahab the prostitute not did perish with those having disobeyed having received the spies with peace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.30|<< Hebrews 11:30]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.32|Hebrews 11:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:31** is...
+> $\quad$ alluding to: [[LXX.Josh.2.1|Josh 2:1]] ☩ [[LXX.Josh.6.17|Josh 6:17]] ☩ [[LXX.Josh.6.23|Josh 6:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

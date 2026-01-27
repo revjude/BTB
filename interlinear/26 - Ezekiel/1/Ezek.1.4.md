@@ -5,6 +5,10 @@ And I looked, and, behold, a whirlwind came out of the north, a great cloud, and
 I looked and saw a whirlwind coming from the north, a great cloud with fire flashing back and forth and brilliant light all around it. In the center of the fire was a gleam like amber,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.3|<< Ezekiel 1:3]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.5|Ezekiel 1:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 1:4** is...
+> $\quad$ referenced by: [[Rev.4.5|Rev 4:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

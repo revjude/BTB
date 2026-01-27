@@ -5,6 +5,10 @@ And the woman was arrayed in purple and scarlet colour, and decked with gold and
 The woman was dressed in purple and scarlet, and adorned with gold and precious stones and pearls. She held in her hand a golden cup full of abominations and the impurities of her sexual immorality.
 <small><sub>**Literal:**</sub></small>
 And the woman was clothed in purple and scarlet and adorned with gold and with stone precious and with pearls, holding a cup golden in the hand of her being full of abominations and the unclean [things] of the sexual immorality of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.3|<< Revelation 17:3]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.5|Revelation 17:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 17:4** is...
+> $\quad$ possibly alluding to: [[LXX.Jer.51.7|Jer 51:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ He was taken from prison and from judgment: and who shall declare his generation
 By oppression and judgment He was taken away, and who can recount His descendants? For He was cut off from the land of the living; He was stricken for the transgression of My people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.7|<< Isaiah 53:7]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.9|Isaiah 53:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 53:8** is...
+> $\quad$ referenced by: [[Acts.8.32|Acts 8:32-33]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

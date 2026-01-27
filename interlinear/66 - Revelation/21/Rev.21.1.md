@@ -5,6 +5,10 @@ And I saw a new heaven and a new earth: for the first heaven and the first earth
 Then I saw a new heaven and a new earth, for the first heaven and earth had passed away, and the sea was no more.
 <small><sub>**Literal:**</sub></small>
 And I saw a heaven new and an earth new. <the> for the first heaven and the first earth had passed away, and the sea not is any longer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.15|<< Revelation 20:15]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.2|Revelation 21:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:1** is...
+> $\quad$ alluding to: [[LXX.Isa.65.17|Isa 65:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

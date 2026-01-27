@@ -5,6 +5,10 @@ Who [is] like unto thee, O LORD, among the gods? who [is] like thee, glorious in
 Who among the gods is like You, O LORD? Who is like You—majestic in holiness, revered with praises, performing wonders?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.10|<< Exodus 15:10]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.12|Exodus 15:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 15:11** is...
+> $\quad$ referenced by: [[Rev.15.3|Rev 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

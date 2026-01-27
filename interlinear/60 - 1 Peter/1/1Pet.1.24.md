@@ -5,6 +5,10 @@ For all flesh [is] as grass, and all the glory of man as the flower of grass. Th
 For, “All flesh is like grass, and all its glory like the flowers of the field; the grass withers and the flowers fall,
 <small><sub>**Literal:**</sub></small>
 because All flesh [is] like grass, and all [the] glory of it like [the] flower of grass; Withers the grass, and the flower of him falls away;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.23|<< 1 Peter 1:23]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.25|1 Peter 1:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 1:24** is...
+> $\quad$ referencing: [[LXX.Isa.40.6|Isa 40:6-8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

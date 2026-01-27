@@ -5,6 +5,10 @@ Because thou sayest, I am rich, and increased with goods, and have need of nothi
 You say, ‘I am rich; I have grown wealthy and need nothing.’ But you do not realize that you are wretched, pitiful, poor, blind, and naked.
 <small><sub>**Literal:**</sub></small>
 For you say that Rich I am and I have grown rich and [of] no [thing] need I have, And not do you understand that you yourself are <the> wretched and <the> miserable and poor and blind and naked,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.16|<< Revelation 3:16]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.18|Revelation 3:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 3:17** is...
+> $\quad$ possibly alluding to: [[LXX.Hos.12.8|Hos 12:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

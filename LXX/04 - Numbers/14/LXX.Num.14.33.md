@@ -6,6 +6,10 @@ And your children shall wander in the wilderness forty years, and bear your whor
 <small><sub>**BSB:**</sub></small>
 Your children will be shepherds in the wilderness for forty years, and they will suffer for your unfaithfulness until the last of your bodies lies in the wilderness.<small><sub>**MT:**</sub></small>
 [[Num.14.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.32|<< Numbers 14:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.34|Numbers 14:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 14:33** is...
+> $\quad$ referenced by: [[Acts.13.18|Acts 13:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

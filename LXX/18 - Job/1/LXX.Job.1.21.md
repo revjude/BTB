@@ -6,6 +6,10 @@ And said, Naked came I out of my mother’s womb, and naked shall I return thith
 <small><sub>**BSB:**</sub></small>
 saying: “Naked I came from my mother’s womb, and naked I will return. The LORD gave, and the LORD has taken away. Blessed be the name of the LORD.”<small><sub>**MT:**</sub></small>
 [[Job.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.20|<< Job 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.22|Job 1:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Job 1:21** is...
+> $\quad$ referenced by: [[1Tim.6.7|1Tim 6:7]] ☩ [[Jas.5.11|Jas 5:11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

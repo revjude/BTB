@@ -6,6 +6,10 @@ For thou hast said in thine heart, I will ascend into heaven, I will exalt my th
 <small><sub>**BSB:**</sub></small>
 You said in your heart: “I will ascend to the heavens; I will raise my throne above the stars of God. I will sit on the mount of assembly, in the far reaches of the north.<small><sub>**MT:**</sub></small>
 [[Isa.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.12|<< Isaiah 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.14|Isaiah 14:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 14:13** is...
+> $\quad$ referenced by: [[Matt.11.23|Matt 11:23]] ☩ [[Luke.10.15|Luke 10:15]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

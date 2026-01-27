@@ -5,6 +5,10 @@ Again, he limiteth a certain day, saying in David, To day, after so long a time;
 God again designated a certain day as “Today,” when a long time later He spoke through David as was just stated: “Today, if you hear His voice, do not harden your hearts.”
 <small><sub>**Literal:**</sub></small>
 again a certain He appoints day: Today, through David saying: after so long a time, even as it has been predicted, Today if the voice of Him you shall hear, not shall harden the hearts of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.6|<< Hebrews 4:6]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.8|Hebrews 4:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 4:7** is...
+> $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

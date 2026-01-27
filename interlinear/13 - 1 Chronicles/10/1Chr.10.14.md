@@ -5,6 +5,10 @@ And inquired not of the LORD: therefore he slew him, and turned the kingdom unto
 and he failed to inquire of the LORD. So the LORD put him to death and turned the kingdom over to David son of Jesse.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.13|<< 1 Chronicles 10:13]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.1|1 Chronicles 11:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Chronicles 10:14** is...
+> $\quad$ referenced by: [[Acts.13.22|Acts 13:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

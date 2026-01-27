@@ -5,6 +5,10 @@ And ye shall flee [to] the valley of the mountains; for the valley of the mounta
 You will flee by My mountain valley, for it will extend to Azal. You will flee as you fled from the earthquake in the days of Uzziah king of Judah. Then the LORD my God will come, and all the holy ones with Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.4|<< Zechariah 14:4]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.6|Zechariah 14:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 14:5** is...
+> $\quad$ referenced by: [[1Thess.3.13|1Thess 3:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

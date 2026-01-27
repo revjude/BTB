@@ -6,6 +6,10 @@ And those that died in the plague were twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
 but those who died in the plague numbered 24,000.<small><sub>**MT:**</sub></small>
 [[Num.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.8|<< Numbers 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.10|Numbers 25:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 25:9** is...
+> $\quad$ referenced by: [[1Cor.10.8|1Cor 10:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

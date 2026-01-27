@@ -5,6 +5,10 @@ And the angel thrust in his sickle into the earth, and gathered the vine of the 
 So the angel swung his sickle over the earth and gathered the grapes of the earth, and he threw them into the great winepress of God’s wrath.
 <small><sub>**Literal:**</sub></small>
 And put forth the angel the sickle of him to the earth and gathered the vine of the earth and cast [them] into the winepress of the wrath <the> of God <the> great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.18|<< Revelation 14:18]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.20|Revelation 14:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 14:19** is...
+> $\quad$ alluding to: [[LXX.Isa.63.3|Isa 63:3]] ☩ [[LXX.Lam.1.15|Lam 1:15]] ☩ [[LXX.Joel.3.13|Joel 3:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

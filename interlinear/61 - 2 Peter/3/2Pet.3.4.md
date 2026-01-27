@@ -5,6 +5,10 @@ And saying, Where is the promise of his coming? for since the fathers fell aslee
 “Where is the promise of His coming?” they will ask. “Ever since our fathers fell asleep, everything continues as it has from the beginning of creation.”
 <small><sub>**Literal:**</sub></small>
 and saying; Where is the promise of the coming of Him? From [the time] that for the fathers fell asleep, all things as they were continue from [the] beginning of creation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.3|<< 2 Peter 3:3]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.5|2 Peter 3:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 3:4** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.12.22|Ezek 12:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

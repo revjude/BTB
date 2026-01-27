@@ -5,6 +5,10 @@ And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and
 Moses and Aaron did just as the LORD had commanded; in the presence of Pharaoh and his officials, Aaron raised the staff and struck the water of the Nile, and all the water was turned to blood.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.19|<< Exodus 7:19]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.21|Exodus 7:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 7:20** is...
+> $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]] ☩ [[Rev.8.8|Rev 8:8]] ☩ [[Rev.11.6|Rev 11:6]] ☩ [[Rev.16.3|Rev 16:3-4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

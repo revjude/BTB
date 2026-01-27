@@ -6,6 +6,10 @@ Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hat
 <small><sub>**BSB:**</sub></small>
 Even my close friend whom I trusted, the one who shared my bread, has lifted up his heel against me.<small><sub>**MT:**</sub></small>
 [[Ps.41.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.8|<< Psalm 41:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.10|Psalm 41:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 41:9** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Mark.14.21|Mark 14:21]] ☩ [[John.13.18|John 13:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

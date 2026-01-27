@@ -6,6 +6,10 @@ Thine heart shall meditate terror. Where [is] the scribe? where [is] the receive
 <small><sub>**BSB:**</sub></small>
 Your mind will ponder the former terror: “Where is he who tallies? Where is he who weighs? Where is he who counts the towers?”<small><sub>**MT:**</sub></small>
 [[Isa.33.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.17|<< Isaiah 33:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.19|Isaiah 33:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 33:18** is...
+> $\quad$ referenced by: [[1Cor.1.20|1Cor 1:20]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

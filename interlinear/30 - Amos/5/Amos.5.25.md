@@ -5,6 +5,10 @@ Have ye offered unto me sacrifices and offerings in the wilderness forty years, 
 Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.24|<< Amos 5:24]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.26|Amos 5:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Amos 5:25** is...
+> $\quad$ referenced by: [[Acts.7.42|Acts 7:42-43]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

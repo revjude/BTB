@@ -5,6 +5,10 @@ And Jesus said, I am: and ye shall see the Son of man sitting on the right hand 
 “I am,” said Jesus, “and you will see the Son of Man sitting at the right hand of Power and coming with the clouds of heaven.”
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus said; I myself am, And you will behold the Son <the> of Man at [the] right hand sitting <the> of Power and coming with the clouds <the> of heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.61|<< Mark 14:61]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.63|Mark 14:63 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 14:62** is...
+> $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]] ☩ [[LXX.Dan.7.13|Dan 7:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

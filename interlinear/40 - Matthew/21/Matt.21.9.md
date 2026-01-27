@@ -5,6 +5,10 @@ And the multitudes that went before, and that followed, cried, saying, Hosanna t
 The crowds that went ahead of Him and those that followed were shouting: “Hosanna to the Son of David!” “Blessed is He who comes in the name of the Lord!” “Hosanna in the highest!”
 <small><sub>**Literal:**</sub></small>
 The now crowds which are going before Him and those following they were crying out saying: Hosanna to the Son of David! Blessed [is] the [One] coming in [the] name of [the] Lord! Hosanna in the highest!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.8|<< Matthew 21:8]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.10|Matthew 21:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 21:9** is...
+> $\quad$ referencing: [[LXX.Job.16.19|Job 16:19]] ☩ [[LXX.Ps.118.25|Ps 118:25-26]] ☩ [[LXX.Ps.148.1|Ps 148:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

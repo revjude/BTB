@@ -6,6 +6,10 @@ And all Israel from Dan even to Beersheba knew that Samuel [was] established [to
 <small><sub>**BSB:**</sub></small>
 So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet of the LORD.<small><sub>**MT:**</sub></small>
 [[1Sam.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.19|<< 1 Samuel 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.21|1 Samuel 3:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 3:20** is...
+> $\quad$ referenced by: [[Acts.13.20|Acts 13:20]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ Destruction and misery [are] in their ways:
 ruin and misery lie in their wake,
 <small><sub>**Literal:**</sub></small>
 ruin and misery [are] in the paths of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.15|<< Romans 3:15]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.17|Romans 3:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 3:16** is...
+> $\quad$ referencing: [[LXX.Isa.59.7|Isa 59:7-8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

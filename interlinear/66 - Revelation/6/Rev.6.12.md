@@ -5,6 +5,11 @@ And I beheld when he had opened the sixth seal, and, lo, there was a great earth
 And I watched as the Lamb opened the sixth seal, and there was a great earthquake, and the sun became black like sackcloth of goat hair, and the whole moon turned blood red,
 <small><sub>**Literal:**</sub></small>
 And I saw when He opened the seal <the> sixth, and behold an earthquake great there was, and the sun became black as sackcloth of hair, and the moon whole became like blood,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.11|<< Revelation 6:11]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.13|Revelation 6:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 6:12** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.24.18|Isa 24:18]] ☩ [[LXX.Isa.24.23|Isa 24:23]] ☩ [[LXX.Isa.13.13|Isa 13:13]] ☩ [[LXX.Hag.2.6|Hag 2:6]] ☩ [[LXX.Joel.2.31|Joel 2:31]]
+> $\quad$ alluding to: [[LXX.Isa.34.4|Isa 34:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

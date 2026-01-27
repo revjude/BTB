@@ -9,6 +9,10 @@ And as Samuel was offering up the burnt offering, the Philistines drew near to b
 <small><sub>**BSB:**</sub></small>
 As the Philistines drew near to fight against Israel, Samuel was offering up the burnt offering. But that day the LORD thundered loudly against the Philistines and threw them into such confusion that they fled before Israel.<small><sub>**MT:**</sub></small>
 [[1Sam.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.9|<< 1 Samuel 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.11|1 Samuel 7:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 7:10** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And he began to speak unto them by parables. A [certain] man planted a vineyard,
 Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants and went away on a journey.
 <small><sub>**Literal:**</sub></small>
 And He began to them in parables to speak: A vineyard a man planted and he placed around [it] a fence and dug a wine vat and built a tower and rented out it to farmers and traveled abroad<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.33|<< Mark 11:33]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.2|Mark 12:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 12:1** is...
+> $\quad$ alluding to: [[LXX.Isa.5.1|Isa 5:1]] ☩ [[LXX.Isa.5.2|Isa 5:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

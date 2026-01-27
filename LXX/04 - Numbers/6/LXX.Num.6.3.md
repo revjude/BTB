@@ -6,6 +6,10 @@ He shall separate [himself] from wine and strong drink, and shall drink no vineg
 <small><sub>**BSB:**</sub></small>
 he is to abstain from wine and strong drink. He must not drink vinegar made from wine or strong drink, and he must not drink any grape juice or eat fresh grapes or raisins.<small><sub>**MT:**</sub></small>
 [[Num.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.2|<< Numbers 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.4|Numbers 6:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 6:3** is...
+> $\quad$ referenced by: [[Luke.1.15|Luke 1:15]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

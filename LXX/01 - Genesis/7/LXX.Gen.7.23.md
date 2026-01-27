@@ -6,6 +6,10 @@ And every living substance was destroyed which was upon the face of the ground, 
 <small><sub>**BSB:**</sub></small>
 And every living thing on the face of the earth was destroyed—man and livestock, crawling creatures and birds of the air; they were blotted out from the earth, and only Noah and those with him in the ark remained.<small><sub>**MT:**</sub></small>
 [[Gen.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.22|<< Genesis 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.24|Genesis 7:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 7:23** is...
+> $\quad$ referenced by: [[2Pet.2.5|2Pet 2:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

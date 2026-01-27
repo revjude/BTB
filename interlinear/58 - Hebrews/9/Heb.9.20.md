@@ -5,6 +5,10 @@ Saying, This [is] the blood of the testament which God hath enjoined unto you.
 saying, “This is the blood of the covenant, which God has commanded you to keep.”
 <small><sub>**Literal:**</sub></small>
 saying; This [is] the blood of the covenant which commanded unto you <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.19|<< Hebrews 9:19]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.21|Hebrews 9:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 9:20** is...
+> $\quad$ referencing: [[LXX.Exod.24.8|Exod 24:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

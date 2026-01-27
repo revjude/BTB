@@ -5,6 +5,10 @@ For so hath the Lord commanded us, [saying], I have set thee to be a light of th
 For this is what the Lord has commanded us: ‘I have made you a light for the Gentiles, to bring salvation to the ends of the earth.’”
 <small><sub>**Literal:**</sub></small>
 Thus for has commanded us the Lord: I have set you for a light of [the] Gentiles <the> to be you for salvation until [the] uttermost part of the earth.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.46|<< Acts 13:46]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.48|Acts 13:48 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:47** is...
+> $\quad$ referencing: [[LXX.Isa.42.6|Isa 42:6]] ☩ [[LXX.Isa.49.6|Isa 49:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

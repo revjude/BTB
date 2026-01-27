@@ -5,6 +5,10 @@ And the mixt multitude that [was] among them fell a lusting: and the children of
 Meanwhile, the rabble among them had a strong craving for other food, and again the Israelites wept and said, “Who will feed us meat?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.3|<< Numbers 11:3]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.5|Numbers 11:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 11:4** is...
+> $\quad$ referenced by: [[1Cor.10.3|1Cor 10:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

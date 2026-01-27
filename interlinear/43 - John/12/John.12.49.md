@@ -5,6 +5,10 @@ For I have not spoken of myself; but the Father which sent me, he gave me a comm
 I have not spoken on My own, but the Father who sent Me has commanded Me what to say and how to say it.
 <small><sub>**Literal:**</sub></small>
 For I myself from Myself not spoke, but the having sent Me Father Himself Me a commandment has given what I may say and what I may speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.48|<< John 12:48]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.50|John 12:50 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 12:49** is...
+> $\quad$ alluding to: [[LXX.Deut.18.18|Deut 18:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

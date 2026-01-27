@@ -5,6 +5,10 @@ But the prince of the kingdom of Persia withstood me one and twenty days: but, l
 However, the prince of the kingdom of Persia opposed me for twenty-one days. Then Michael, one of the chief princes, came to help me, for I had been left there with the kings of Persia.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.12|<< Daniel 10:12]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.14|Daniel 10:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 10:13** is...
+> $\quad$ referenced by: [[Rev.12.7|Rev 12:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

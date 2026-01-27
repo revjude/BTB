@@ -5,6 +5,10 @@ By faith Noah, being warned of God of things not seen as yet, moved with fear, p
 By faith Noah, when warned about things not yet seen, in godly fear built an ark to save his family. By faith he condemned the world and became heir of the righteousness that comes by faith.
 <small><sub>**Literal:**</sub></small>
 By faith having been divinely instructed Noah concerning the [things] not yet seen having been moved with fear he prepared an ark for [the] salvation of the household of him, through which he condemned the world and of the according to faith righteousness [that is] he became heir.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.6|<< Hebrews 11:6]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.8|Hebrews 11:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:7** is...
+> $\quad$ alluding to: [[LXX.Gen.6.8|Gen 6:8]] ☩ [[LXX.Gen.6.14|Gen 6:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

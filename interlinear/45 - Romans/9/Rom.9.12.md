@@ -5,6 +5,10 @@ It was said unto her, The elder shall serve the younger.
 not by works but by Him who calls, she was told, “The older will serve the younger.”
 <small><sub>**Literal:**</sub></small>
 not of works but of the [One] calling, [12] it was said to her that The older will serve the younger;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.11|<< Romans 9:11]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.13|Romans 9:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:12** is...
+> $\quad$ referencing: [[LXX.Gen.25.23|Gen 25:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

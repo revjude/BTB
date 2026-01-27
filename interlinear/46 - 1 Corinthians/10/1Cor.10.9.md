@@ -5,6 +5,10 @@ Neither let us tempt Christ, as some of them also tempted, and were destroyed of
 We should not test Christ, as some of them did, and were killed by snakes.
 <small><sub>**Literal:**</sub></small>
 Neither shall we test the Christ even as and some of them tested, and by <the> serpents were destroyed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.8|<< 1 Corinthians 10:8]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.10|1 Corinthians 10:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 10:9** is...
+> $\quad$ alluding to: [[LXX.Num.21.6|Num 21:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

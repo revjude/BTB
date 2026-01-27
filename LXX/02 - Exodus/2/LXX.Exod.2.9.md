@@ -6,6 +6,10 @@ And Pharaoh’s daughter said unto her, Take this child away, and nurse it for m
 <small><sub>**BSB:**</sub></small>
 Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I will pay your wages.” So the woman took the boy and nursed him.<small><sub>**MT:**</sub></small>
 [[Exod.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.8|<< Exodus 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.10|Exodus 2:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:9** is...
+> $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

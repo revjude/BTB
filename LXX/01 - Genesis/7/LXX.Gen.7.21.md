@@ -6,6 +6,10 @@ And all flesh died that moved upon the earth, both of fowl, and of cattle, and o
 <small><sub>**BSB:**</sub></small>
 And every living thing that moved upon the earth perished—birds, livestock, animals, every creature that swarms upon the earth, and all mankind.<small><sub>**MT:**</sub></small>
 [[Gen.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.20|<< Genesis 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.22|Genesis 7:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 7:21** is...
+> $\quad$ referenced by: [[2Pet.3.5|2Pet 3:5-6]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

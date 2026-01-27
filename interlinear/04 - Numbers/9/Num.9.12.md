@@ -5,6 +5,10 @@ They shall leave none of it unto the morning, nor break any bone of it: accordin
 they may not leave any of it until morning or break any of its bones. They must observe the Passover according to all its statutes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.11|<< Numbers 9:11]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.13|Numbers 9:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 9:12** is...
+> $\quad$ referenced by: [[John.19.36|John 19:36]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

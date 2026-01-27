@@ -5,6 +5,10 @@ At the mouth of two witnesses, or three witnesses, shall he that is worthy of de
 On the testimony of two or three witnesses a man shall be put to death, but he shall not be executed on the testimony of a lone witness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.5|<< Deuteronomy 17:5]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.7|Deuteronomy 17:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 17:6** is...
+> $\quad$ referenced by: [[Heb.10.28|Heb 10:28]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

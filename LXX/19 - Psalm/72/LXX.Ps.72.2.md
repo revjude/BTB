@@ -6,6 +6,10 @@ He shall judge thy people with righteousness, and thy poor with judgment.
 <small><sub>**BSB:**</sub></small>
 May he judge Your people with righteousness and Your afflicted with justice.<small><sub>**MT:**</sub></small>
 [[Ps.72.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.1|<< Psalm 72:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.3|Psalm 72:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 72:2** is...
+> $\quad$ referenced by: [[Rev.19.11|Rev 19:11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

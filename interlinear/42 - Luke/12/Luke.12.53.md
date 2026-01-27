@@ -5,6 +5,10 @@ The father shall be divided against the son, and the son against the father; the
 They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.”
 <small><sub>**Literal:**</sub></small>
 They will be divided father against son and son against father, mother against <the> daughter and daughter against <the> mother, mother-in-law against the daughter-in-law of her and daughter-in-law against <the> mother-in-law of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.52|<< Luke 12:52]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.54|Luke 12:54 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 12:53** is...
+> $\quad$ referencing: [[LXX.Mic.7.6|Mic 7:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ If thou sayest, Behold, we knew it not; doth not he that pondereth the heart con
 If you say, “Behold, we did not know about this,” does not He who weighs hearts consider it? Does not the One who guards your life know? Will He not repay a man according to his deeds?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.11|<< Proverbs 24:11]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.13|Proverbs 24:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 24:12** is...
+> $\quad$ referenced by: [[Matt.16.27|Matt 16:27]] ☩ [[Rom.2.6|Rom 2:6]] ☩ [[2Tim.4.14|2Tim 4:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

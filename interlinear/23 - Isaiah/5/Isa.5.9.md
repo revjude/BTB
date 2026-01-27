@@ -5,6 +5,10 @@ In mine ears [said] the LORD of hosts, Of a truth many houses shall be desolate,
 I heard the LORD of Hosts declare: “Surely many houses will become desolate, great mansions left unoccupied.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.8|<< Isaiah 5:8]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.10|Isaiah 5:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 5:9** is...
+> $\quad$ referenced by: [[Jas.5.4|Jas 5:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

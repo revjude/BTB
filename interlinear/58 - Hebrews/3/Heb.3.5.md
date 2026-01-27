@@ -5,6 +5,10 @@ And Moses verily [was] faithful in all his house, as a servant, for a testimony 
 Now Moses was faithful as a servant in all God’s house, testifying to what would be spoken later.
 <small><sub>**Literal:**</sub></small>
 And Moses indeed [was] faithful in all the house of Him as a servant unto a testimony of the [things] to be spoken,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.4|<< Hebrews 3:4]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.6|Hebrews 3:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 3:5** is...
+> $\quad$ referencing: [[LXX.Num.12.7|Num 12:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

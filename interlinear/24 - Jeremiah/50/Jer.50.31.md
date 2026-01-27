@@ -5,6 +5,10 @@ Behold, I [am] against thee, [O thou] most proud, saith the Lord GOD of hosts: f
 “Behold, I am against you, O arrogant one,” declares the Lord GOD of Hosts, “for your day has come, the time when I will punish you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.30|<< Jeremiah 50:30]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.32|Jeremiah 50:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 50:31** is...
+> $\quad$ referenced by: [[Rev.18.7|Rev 18:7-8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

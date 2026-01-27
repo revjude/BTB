@@ -5,6 +5,10 @@
 Keep your lives free from the love of money and be content with what you have, for God has said: “Never will I leave you, never will I forsake you.”
 <small><sub>**Literal:**</sub></small>
 [Let be] without covetousness <the> [your] manner of life; being satisfied with the present; He Himself for has said: Certainly not you shall I leave, nor certainly not you shall I forsake;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.4|<< Hebrews 13:4]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.6|Hebrews 13:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 13:5** is...
+> $\quad$ referencing: [[LXX.Deut.31.6|Deut 31:6]] ☩ [[LXX.Deut.31.8|Deut 31:8]] ☩ [[LXX.Josh.1.5|Josh 1:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

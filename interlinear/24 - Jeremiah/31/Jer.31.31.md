@@ -5,6 +5,10 @@ Behold, the days come, saith the LORD, that I will make a new covenant with the 
 Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and with the house of Judah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.30|<< Jeremiah 31:30]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.32|Jeremiah 31:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 31:31** is...
+> $\quad$ referenced by: [[Heb.8.8|Heb 8:8-12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

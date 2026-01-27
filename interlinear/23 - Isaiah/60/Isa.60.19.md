@@ -5,6 +5,10 @@ The sun shall be no more thy light by day; neither for brightness shall the moon
 No longer will the sun be your light by day, nor the brightness of the moon shine on your night; for the LORD will be your everlasting light, and your God will be your splendor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.18|<< Isaiah 60:18]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.20|Isaiah 60:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 60:19** is...
+> $\quad$ referenced by: [[Rev.21.23|Rev 21:23]] ☩ [[Rev.22.5|Rev 22:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

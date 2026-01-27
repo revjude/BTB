@@ -9,6 +9,10 @@ And the children of Israel journeyed from Rameses to Succoth, about six hundred 
 <small><sub>**BSB:**</sub></small>
 The Israelites journeyed from Rameses to Succoth with about 600,000 men on foot, besides women and children.<small><sub>**MT:**</sub></small>
 [[Exod.12.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.36|<< Exodus 12:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.38|Exodus 12:38 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 12:37** is...
+> $\quad$ referenced by: [[Acts.13.17|Acts 13:17]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

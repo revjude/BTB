@@ -5,6 +5,10 @@ And should not I spare Nineveh, that great city, wherein are more than sixscore 
 So should I not care about the great city of Nineveh, which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.10|<< Jonah 4:10]]</td><td align="center" style="border:none;">[[Jonah.4|Jonah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.1|Micah 1:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jonah 4:11** is...
+> $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

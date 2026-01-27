@@ -5,6 +5,10 @@ But thou [art] he that took me out of the womb: thou didst make me hope [when I 
 Yet You brought me forth from the womb; You made me secure at my mother’s breast.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.8|<< Psalms 22:8]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.10|Psalms 22:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 22:9** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.43|Matt 27:43]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

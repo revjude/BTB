@@ -6,6 +6,10 @@ He shall build an house for my name, and I will stablish the throne of his kingd
 <small><sub>**BSB:**</sub></small>
 He will build a house for My Name, and I will establish the throne of his kingdom forever.<small><sub>**MT:**</sub></small>
 [[2Sam.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.12|<< 2 Samuel 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.14|2 Samuel 7:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Samuel 7:13** is...
+> $\quad$ referenced by: [[John.12.34|John 12:34]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

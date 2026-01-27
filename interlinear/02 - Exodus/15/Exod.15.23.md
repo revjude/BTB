@@ -5,6 +5,10 @@ And when they came to Marah, they could not drink of the waters of Marah, for th
 And when they came to Marah, they could not drink the water there because it was bitter. (That is why it was named Marah.)
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.22|<< Exodus 15:22]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.24|Exodus 15:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 15:23** is...
+> $\quad$ referenced by: [[Acts.7.36|Acts 7:36]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

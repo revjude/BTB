@@ -5,6 +5,10 @@ And in the wilderness, where thou hast seen how that the LORD thy God bare thee,
 and in the wilderness, where the LORD your God carried you, as a man carries his son, all the way by which you traveled until you reached this place.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.30|<< Deuteronomy 1:30]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.32|Deuteronomy 1:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 1:31** is...
+> $\quad$ referenced by: [[Acts.13.18|Acts 13:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

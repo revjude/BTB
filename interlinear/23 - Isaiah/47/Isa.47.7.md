@@ -5,6 +5,10 @@ And thou saidst, I shall be a lady for ever: [so] that thou didst not lay these 
 You said, ‘I will be queen forever.’ You did not take these things to heart or consider their outcome.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.6|<< Isaiah 47:6]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.8|Isaiah 47:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 47:7** is...
+> $\quad$ referenced by: [[Rev.18.7|Rev 18:7-8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

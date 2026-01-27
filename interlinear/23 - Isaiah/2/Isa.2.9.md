@@ -5,6 +5,10 @@ And the mean man boweth down, and the great man humbleth himself: therefore forg
 So mankind is brought low, and man is humbled—do not forgive them!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.8|<< Isaiah 2:8]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.10|Isaiah 2:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 2:9** is...
+> $\quad$ referenced by: [[Rev.6.15|Rev 6:15-16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

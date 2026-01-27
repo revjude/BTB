@@ -5,6 +5,10 @@ And the rib, which the LORD God had taken from man, made he a woman, and brought
 And from the rib that the LORD God had taken from the man, He made a woman and brought her to him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.21|<< Genesis 2:21]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.23|Genesis 2:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 2:22** is...
+> $\quad$ referenced by: [[1Tim.2.13|1Tim 2:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

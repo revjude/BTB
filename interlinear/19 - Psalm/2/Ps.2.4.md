@@ -5,6 +5,10 @@ He that sitteth in the heavens shall laugh: the Lord shall have them in derision
 The One enthroned in heaven laughs; the Lord taunts them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.3|<< Psalms 2:3]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.5|Psalms 2:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 2:4** is...
+> $\quad$ referenced by: [[Rev.11.18|Rev 11:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the scripture, foreseeing that God would justify the heathen through faith, 
 The Scripture foresaw that God would justify the Gentiles by faith, and foretold the gospel to Abraham: “All nations will be blessed through you.”
 <small><sub>**Literal:**</sub></small>
 Having foreseen then the Scripture that by faith justifies the Gentiles <the> God, foretold the gospel <the> to Abraham that Will be blessed in you all the nations.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.7|<< Galatians 3:7]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.9|Galatians 3:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 3:8** is...
+> $\quad$ referencing: [[LXX.Gen.12.3|Gen 12:3]] ☩ [[LXX.Gen.18.18|Gen 18:18]] ☩ [[LXX.Gen.22.18|Gen 22:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

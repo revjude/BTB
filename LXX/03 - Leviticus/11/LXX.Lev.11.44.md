@@ -6,6 +6,10 @@ For I [am] the LORD your God: ye shall therefore sanctify yourselves, and ye sha
 <small><sub>**BSB:**</sub></small>
 For I am the LORD your God; consecrate yourselves, therefore, and be holy, because I am holy. You must not defile yourselves by any creature that crawls along the ground.<small><sub>**MT:**</sub></small>
 [[Lev.11.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.43|<< Leviticus 11:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.45|Leviticus 11:45 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 11:44** is...
+> $\quad$ referenced by: [[1Pet.1.16|1Pet 1:16]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ Against an elder receive not an accusation, but before two or three witnesses.
 Do not entertain an accusation against an elder, except on the testimony of two or three witnesses.
 <small><sub>**Literal:**</sub></small>
 Against an elder an accusation not do receive unless only except upon two or three witnesses.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.18|<< 1 Timothy 5:18]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.20|1 Timothy 5:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Timothy 5:19** is...
+> $\quad$ referencing: [[LXX.Deut.19.15|Deut 19:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

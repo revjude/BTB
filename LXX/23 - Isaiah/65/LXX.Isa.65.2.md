@@ -6,6 +6,10 @@ I have spread out my hands all the day unto a rebellious people, which walketh i
 <small><sub>**BSB:**</sub></small>
 All day long I have held out My hands to an obstinate people who walk in the wrong path, who follow their own imaginations,<small><sub>**MT:**</sub></small>
 [[Isa.65.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.1|<< Isaiah 65:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.3|Isaiah 65:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 65:2** is...
+> $\quad$ referenced by: [[Rom.10.21|Rom 10:21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

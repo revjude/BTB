@@ -5,6 +5,10 @@ And Jesus increased in wisdom and stature, and in favour with God and man.
 And Jesus grew in wisdom and stature, and in favor with God and man.
 <small><sub>**Literal:**</sub></small>
 And Jesus was continuing to advance in <the> wisdom and stature and in favor with God and men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.51|<< Luke 2:51]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.1|Luke 3:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 2:52** is...
+> $\quad$ alluding to: [[LXX.1Sam.2.26|1Sam 2:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

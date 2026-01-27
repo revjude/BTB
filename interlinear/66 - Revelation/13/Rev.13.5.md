@@ -5,6 +5,10 @@ And there was given unto him a mouth speaking great things and blasphemies; and 
 The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months.
 <small><sub>**Literal:**</sub></small>
 And was given to it a mouth speaking great things and blasphemies and was given to it authority war to act months forty and two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.4|<< Revelation 13:4]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.6|Revelation 13:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 13:5** is...
+> $\quad$ alluding to: [[LXX.Dan.7.8|Dan 7:8]] ☩ [[LXX.Dan.7.25|Dan 7:25]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

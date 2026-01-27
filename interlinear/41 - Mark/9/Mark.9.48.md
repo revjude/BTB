@@ -5,6 +5,10 @@ Where their worm dieth not, and the fire is not quenched.
 where ‘their worm never dies, and the fire is never quenched.’
 <small><sub>**Literal:**</sub></small>
 where the worm of them not dies and the fire not is quenched.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.47|<< Mark 9:47]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.49|Mark 9:49 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 9:48** is...
+> $\quad$ referencing: [[LXX.Isa.66.24|Isa 66:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

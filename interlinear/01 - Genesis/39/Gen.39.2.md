@@ -5,6 +5,10 @@ And the LORD was with Joseph, and he was a prosperous man; and he was in the hou
 And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.1|<< Genesis 39:1]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.3|Genesis 39:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 39:2** is...
+> $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

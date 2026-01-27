@@ -5,6 +5,10 @@ Nevertheless the dimness [shall] not [be] such as [was] in her vexation, when at
 Nevertheless, there will be no more gloom for those in distress. In the past He humbled the land of Zebulun and the land of Naphtali, but in the future He will honor the Way of the Sea, beyond the Jordan, Galilee of the nations:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.22|<< Isaiah 8:22]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.2|Isaiah 9:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 9:1** is...
+> $\quad$ referenced by: [[Matt.4.15|Matt 4:15-16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

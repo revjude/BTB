@@ -5,6 +5,10 @@ So when this corruptible shall have put on incorruption, and this mortal shall h
 When the perishable has been clothed with the imperishable and the mortal with immortality, then the saying that is written will come to pass: “Death has been swallowed up in victory.”
 <small><sub>**Literal:**</sub></small>
 When now <the> perishable this may have put on [the] imperishable and <the> mortal this may have put on <the> immortality, then will come to pass the word which written: Has been swallowed up <the> death in victory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.53|<< 1 Corinthians 15:53]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.55|1 Corinthians 15:55 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 15:54** is...
+> $\quad$ referencing: [[LXX.Isa.25.8|Isa 25:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

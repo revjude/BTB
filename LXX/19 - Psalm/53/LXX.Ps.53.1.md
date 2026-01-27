@@ -11,6 +11,10 @@ To the chief Musician upon Mahalath, Maschil, [A Psalm] of David. The fool hath 
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. According to Mahalath. A Maskil of David. The fool says in his heart, “There is no God.” They are corrupt; their ways are vile. There is no one who does good.<small><sub>**MT:**</sub></small>
 [[Ps.53.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.52.9|<< Psalm 52:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.53.2|Psalm 53:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 53:1** is...
+> $\quad$ referenced by: [[Rom.3.10|Rom 3:10-12]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

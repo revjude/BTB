@@ -5,6 +5,10 @@ The remnant of Israel shall not do iniquity, nor speak lies; neither shall a dec
 The remnant of Israel will no longer do wrong or speak lies, nor will a deceitful tongue be found in their mouths. But they will feed and lie down, with no one to make them tremble.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.12|<< Zephaniah 3:12]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.14|Zephaniah 3:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zephaniah 3:13** is...
+> $\quad$ referenced by: [[Rev.14.5|Rev 14:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

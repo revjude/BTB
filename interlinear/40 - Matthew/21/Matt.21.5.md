@@ -5,6 +5,10 @@ Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitti
 “Say to the Daughter of Zion, ‘See, your King comes to you, gentle and riding on a donkey, on a colt, the foal of a donkey.’”
 <small><sub>**Literal:**</sub></small>
 do say to the daughter of Zion; Behold the King of you comes to you, gentle and already riding on a donkey even upon a colt [the] foal of a beast of burden.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.4|<< Matthew 21:4]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.6|Matthew 21:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 21:5** is...
+> $\quad$ referencing: [[LXX.Isa.62.11|Isa 62:11]] ☩ [[LXX.Zech.9.9|Zech 9:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

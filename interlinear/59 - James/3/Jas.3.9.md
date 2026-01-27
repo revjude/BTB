@@ -5,6 +5,10 @@ Therewith bless we God, even the Father; and therewith curse we men, which are m
 With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness.
 <small><sub>**Literal:**</sub></small>
 With it we bless the Lord and Father and with it we curse <the> men those according to [the] likeness of God having been made;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.8|<< James 3:8]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.10|James 3:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 3:9** is...
+> $\quad$ alluding to: [[LXX.Gen.1.26|Gen 1:26]] ☩ [[LXX.Gen.5.2|Gen 5:2]] ☩ [[LXX.Gen.9.6|Gen 9:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

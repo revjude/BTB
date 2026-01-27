@@ -5,6 +5,10 @@ And the king shall do according to his will; and he shall exalt himself, and mag
 Then the king will do as he pleases and will exalt and magnify himself above every god, and he will speak monstrous things against the God of gods. He will be successful until the time of wrath is completed, for what has been decreed must be accomplished.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.35|<< Daniel 11:35]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.37|Daniel 11:37 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 11:36** is...
+> $\quad$ referenced by: [[2Thess.2.4|2Thess 2:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

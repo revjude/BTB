@@ -5,6 +5,10 @@ So Jonah went out of the city, and sat on the east side of the city, and there m
 Then Jonah left the city and sat down east of it, where he made himself a shelter and sat in its shade to see what would happen to the city.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.4|<< Jonah 4:4]]</td><td align="center" style="border:none;">[[Jonah.4|Jonah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.4.6|Jonah 4:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jonah 4:5** is...
+> $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

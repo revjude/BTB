@@ -5,6 +5,10 @@ And he said unto me, It is done. I am Alpha and Omega, the beginning and the end
 And He told me, “It is done! I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give freely from the spring of the water of life.
 <small><sub>**Literal:**</sub></small>
 And He said to me; It has been done! I myself am the Alpha and the Omega, the beginning and the end. I myself to the [one] thirsting I will give of the spring of the water <the> of life freely.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.5|<< Revelation 21:5]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.7|Revelation 21:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:6** is...
+> $\quad$ alluding to: [[LXX.Isa.55.1|Isa 55:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

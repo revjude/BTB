@@ -5,6 +5,10 @@ And the gates of the city [shall be] after the names of the tribes of Israel: th
 the gates of the city will be named after the tribes of Israel. On the north side there will be three gates: the gate of Reuben, the gate of Judah, and the gate of Levi.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.30|<< Ezekiel 48:30]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.32|Ezekiel 48:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 48:31** is...
+> $\quad$ referenced by: [[Rev.21.12|Rev 21:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

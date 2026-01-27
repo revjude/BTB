@@ -6,6 +6,10 @@ But now thy kingdom shall not continue: the LORD hath sought him a man after his
 <small><sub>**BSB:**</sub></small>
 But now your kingdom will not endure; the LORD has sought a man after His own heart and appointed him ruler over His people, because you have not kept the command of the LORD.”<small><sub>**MT:**</sub></small>
 [[1Sam.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.13|<< 1 Samuel 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.15|1 Samuel 13:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 13:14** is...
+> $\quad$ referenced by: [[Acts.13.22|Acts 13:22]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

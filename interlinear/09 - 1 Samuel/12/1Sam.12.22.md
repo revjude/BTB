@@ -5,6 +5,10 @@ For the LORD will not forsake his people for his great name’s sake: because it
 Indeed, for the sake of His great name, the LORD will not abandon His people, because He was pleased to make you His own.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.21|<< 1 Samuel 12:21]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.23|1 Samuel 12:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 12:22** is...
+> $\quad$ referenced by: [[Rom.11.2|Rom 11:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

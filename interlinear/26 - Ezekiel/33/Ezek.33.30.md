@@ -5,6 +5,10 @@ Also, thou son of man, the children of thy people still are talking against thee
 As for you, son of man, your people are talking about you near the city walls and in the doorways of their houses. One speaks to another, each saying to his brother, ‘Come and hear the message that has come from the LORD!’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.29|<< Ezekiel 33:29]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.31|Ezekiel 33:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 33:30** is...
+> $\quad$ fulfilled in: [[Mark.3.32|Mark 3:32-35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

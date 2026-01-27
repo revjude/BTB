@@ -5,6 +5,10 @@ Now the LORD had said unto Abram, Get thee out of thy country, and from thy kind
 Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.32|<< Genesis 11:32]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.2|Genesis 12:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 12:1** is...
+> $\quad$ referenced by: [[Acts.7.3|Acts 7:3]] ☩ [[Heb.11.8|Heb 11:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

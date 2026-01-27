@@ -5,6 +5,10 @@ And thou shalt rear up the tabernacle according to the fashion thereof which was
 So you are to set up the tabernacle according to the pattern shown you on the mountain.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.29|<< Exodus 26:29]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.31|Exodus 26:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 26:30** is...
+> $\quad$ referenced by: [[Acts.7.44|Acts 7:44]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Now the sojourning of the children of Israel, who dwelt in Egypt, [was] four hun
 Now the duration of the Israelites’ stay in Egypt was 430 years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.39|<< Exodus 12:39]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.41|Exodus 12:41 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 12:40** is...
+> $\quad$ referenced by: [[Gal.3.17|Gal 3:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

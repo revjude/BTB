@@ -5,6 +5,10 @@ Now gather thyself in troops, O daughter of troops: he hath laid siege against u
 Now, O daughter of troops, mobilize your troops; for a siege is laid against us! With a rod they will strike the cheek of the judge of Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.13|<< Micah 4:13]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.2|Micah 5:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Micah 5:1** is...
+> $\quad$ referenced by: [[John.7.42|John 7:42]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

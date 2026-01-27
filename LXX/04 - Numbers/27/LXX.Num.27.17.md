@@ -6,6 +6,10 @@ Which may go out before them, and which may go in before them, and which may lea
 <small><sub>**BSB:**</sub></small>
 who will go out and come in before them, and who will lead them out and bring them in, so that the congregation of the LORD will not be like sheep without a shepherd.”<small><sub>**MT:**</sub></small>
 [[Num.27.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.16|<< Numbers 27:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.18|Numbers 27:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 27:17** is...
+> $\quad$ referenced by: [[Matt.9.36|Matt 9:36]] ☩ [[Mark.6.34|Mark 6:34]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

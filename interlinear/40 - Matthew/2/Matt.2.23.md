@@ -5,6 +5,10 @@ And he came and dwelt in a city called Nazareth: that it might be fulfilled whic
 and he went and lived in a town called Nazareth. So was fulfilled what was spoken through the prophets: “He will be called a Nazarene.”
 <small><sub>**Literal:**</sub></small>
 and having come he dwelt in a city being named Nazareth, so that it may be fulfilled that having been spoken through the prophets that A Nazarene He will be called.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.22|<< Matthew 2:22]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.1|Matthew 3:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 2:23** is...
+> $\quad$ referencing: [[LXX.Judg.13.5|Judg 13:5]] ☩ [[LXX.Isa.11.1|Isa 11:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

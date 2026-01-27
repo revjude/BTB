@@ -5,6 +5,10 @@ The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of 
 The joyful tambourines have ceased; the noise of revelers has stopped; the joyful harp is silent.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.7|<< Isaiah 24:7]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.9|Isaiah 24:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 24:8** is...
+> $\quad$ referenced by: [[Rev.18.22|Rev 18:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

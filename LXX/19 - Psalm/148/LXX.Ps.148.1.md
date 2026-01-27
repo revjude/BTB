@@ -11,6 +11,10 @@ Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heigh
 <small><sub>**BSB:**</sub></small>
 Hallelujah! Praise the LORD from the heavens; praise Him in the highest places.<small><sub>**MT:**</sub></small>
 [[Ps.148.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.20|<< Psalm 147:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.2|Psalm 148:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 148:1** is...
+> $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Mark.11.10|Mark 11:10]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

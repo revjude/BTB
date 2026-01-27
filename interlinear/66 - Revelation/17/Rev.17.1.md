@@ -5,6 +5,10 @@ And there came one of the seven angels which had the seven vials, and talked wit
 Then one of the seven angels with the seven bowls came and said to me, “Come, I will show you the punishment of the great prostitute, who sits on many waters.
 <small><sub>**Literal:**</sub></small>
 And came one of the seven angels those having the seven bowls and spoke with me saying to me: Come here, I will show you the punishment of the prostitute <the> great who is sitting upon <the> waters <the> many,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.21|<< Revelation 16:21]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.2|Revelation 17:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 17:1** is...
+> $\quad$ alluding to: [[LXX.Jer.51.13|Jer 51:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

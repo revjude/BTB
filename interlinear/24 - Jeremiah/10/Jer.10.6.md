@@ -5,6 +5,10 @@ Forasmuch as [there is] none like unto thee, O LORD; thou [art] great, and thy n
 There is none like You, O LORD. You are great, and Your name is mighty in power.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.5|<< Jeremiah 10:5]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.7|Jeremiah 10:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 10:6** is...
+> $\quad$ referenced by: [[Rev.15.3|Rev 15:3-4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

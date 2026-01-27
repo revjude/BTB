@@ -5,6 +5,10 @@ For the zeal of thine house hath eaten me up; and the reproaches of them that re
 because zeal for Your house has consumed me, and the insults of those who insult You have fallen on me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.8|<< Psalms 69:8]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.10|Psalms 69:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 69:9** is...
+> $\quad$ referenced by: [[John.2.17|John 2:17]] ☩ [[Rom.15.3|Rom 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

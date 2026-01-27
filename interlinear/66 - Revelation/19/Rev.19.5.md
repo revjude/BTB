@@ -5,6 +5,10 @@ And a voice came out of the throne, saying, Praise our God, all ye his servants,
 Then a voice came from the throne, saying: “Praise our God, all you who serve Him, and those who fear Him, small and great alike!”
 <small><sub>**Literal:**</sub></small>
 And a voice from the throne came forth saying: do praise to the God of us all you who [are] servants of Him and you who [are] fearing Him, and you small and you great!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.4|<< Revelation 19:4]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.6|Revelation 19:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:5** is...
+> $\quad$ alluding to: [[LXX.Ps.115.13|Ps 115:13]] ☩ [[LXX.Ps.135.1|Ps 135:1]] ☩ [[LXX.Ps.135.20|Ps 135:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

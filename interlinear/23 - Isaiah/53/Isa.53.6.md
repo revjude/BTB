@@ -5,6 +5,10 @@ All we like sheep have gone astray; we have turned every one to his own way; and
 We all like sheep have gone astray, each one has turned to his own way; and the LORD has laid upon Him the iniquity of us all.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.5|<< Isaiah 53:5]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.7|Isaiah 53:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 53:6** is...
+> $\quad$ referenced by: [[1Pet.2.25|1Pet 2:25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

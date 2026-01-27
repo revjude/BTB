@@ -5,6 +5,11 @@ And will be a Father unto you, and ye shall be my sons and daughters, saith the 
 And: “I will be a Father to you, and you will be My sons and daughters, says the Lord Almighty.”
 <small><sub>**Literal:**</sub></small>
 and I will be to you for a father and you yourselves will be to Me for sons and daughters, says [the] Lord Almighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.17|<< 2 Corinthians 6:17]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.1|2 Corinthians 7:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 6:18** is...
+> $\quad$ referencing: [[LXX.2Sam.7.8|2Sam 7:8]] ☩ [[LXX.2Sam.7.14|2Sam 7:14]] ☩ [[LXX.Isa.52.11|Isa 52:11-12]] ☩ [[LXX.Jer.31.9|Jer 31:9]]
+> $\quad$ alluding to: [[LXX.Isa.43.6|Isa 43:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

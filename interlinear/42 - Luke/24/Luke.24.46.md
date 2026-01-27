@@ -5,6 +5,11 @@ And said unto them, Thus it is written, and thus it behoved Christ to suffer, an
 And He told them, “This is what is written: The Christ will suffer and rise from the dead on the third day,
 <small><sub>**Literal:**</sub></small>
 And He said to them that Thus it has been written and thus it was necessary for Was to suffer the Christ and to rise out from [the] dead on the third day<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.45|<< Luke 24:45]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.47|Luke 24:47 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 24:46** is...
+> $\quad$ referencing: [[LXX.Ps.16.8|Ps 16:8-11]] ☩ [[LXX.Isa.53.5|Isa 53:5]]
+> $\quad$ alluding to: [[LXX.Hos.6.2|Hos 6:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And Samuel said, Hath the LORD [as great] delight in burnt offerings and sacrifi
 <small><sub>**BSB:**</sub></small>
 But Samuel declared: “Does the LORD delight in burnt offerings and sacrifices as much as in obedience to His voice? Behold, obedience is better than sacrifice, and attentiveness is better than the fat of rams.<small><sub>**MT:**</sub></small>
 [[1Sam.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.21|<< 1 Samuel 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.23|1 Samuel 15:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 15:22** is...
+> $\quad$ referenced by: [[Mark.12.33|Mark 12:33]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

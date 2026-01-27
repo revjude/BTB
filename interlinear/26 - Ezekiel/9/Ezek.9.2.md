@@ -5,6 +5,10 @@ And, behold, six men came from the way of the higher gate, which lieth toward th
 And I saw six men coming from the direction of the Upper Gate, which faces north, each with a weapon of slaughter in his hand. With them was another man clothed in linen who had a writing kit at his side. And they came in and stood beside the bronze altar.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.1|<< Ezekiel 9:1]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.3|Ezekiel 9:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 9:2** is...
+> $\quad$ referenced by: [[Rev.7.2|Rev 7:2-3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

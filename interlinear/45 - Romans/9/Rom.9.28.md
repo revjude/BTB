@@ -5,6 +5,10 @@ For he will finish the work, and cut [it] short in righteousness: because a shor
 For the Lord will carry out His sentence on the earth thoroughly and decisively.”
 <small><sub>**Literal:**</sub></small>
 [The] sentence for concluding and bringing swiftly in righteousness for word brought swiftly will perform [the] Lord upon the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.27|<< Romans 9:27]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.29|Romans 9:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:28** is...
+> $\quad$ referencing: [[LXX.Isa.10.22|Isa 10:22-23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

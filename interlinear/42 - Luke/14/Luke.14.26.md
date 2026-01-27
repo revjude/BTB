@@ -5,6 +5,10 @@ If any [man] come to me, and hate not his father, and mother, and wife, and chil
 “If anyone comes to Me and does not hate his father and mother and wife and children and brothers and sisters—yes, even his own life—he cannot be My disciple.
 <small><sub>**Literal:**</sub></small>
 If anyone comes to Me and not he hates the father of himself and the mother and the wife and the children and the brothers and the sisters yes and even the life his own not he is able to be My disciple.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.25|<< Luke 14:25]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.27|Luke 14:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 14:26** is...
+> $\quad$ alluding to: [[LXX.Mic.7.6|Mic 7:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

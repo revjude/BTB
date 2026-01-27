@@ -6,6 +6,10 @@ Behold, Hanameel the son of Shallum thine uncle shall come unto thee, saying, Bu
 <small><sub>**BSB:**</sub></small>
 Behold! Hanamel, the son of your uncle Shallum, is coming to you to say, ‘Buy for yourself my field in Anathoth, for you have the right of redemption to buy it.’<small><sub>**MT:**</sub></small>
 [[Jer.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.6|<< Jeremiah 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.8|Jeremiah 32:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 32:7** is...
+> $\quad$ referenced by: [[Matt.27.9|Matt 27:9-10]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

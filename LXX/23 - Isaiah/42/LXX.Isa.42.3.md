@@ -6,6 +6,10 @@ A bruised reed shall he not break, and the smoking flax shall he not quench: he 
 <small><sub>**BSB:**</sub></small>
 A bruised reed He will not break and a smoldering wick He will not extinguish; He will faithfully bring forth justice.<small><sub>**MT:**</sub></small>
 [[Isa.42.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.2|<< Isaiah 42:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.4|Isaiah 42:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 42:3** is...
+> $\quad$ referenced by: [[Matt.12.18|Matt 12:18-21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

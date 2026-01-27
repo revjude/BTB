@@ -5,6 +5,10 @@ For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox
 For it is written in the Law of Moses: “Do not muzzle an ox while it is treading out the grain.” Is it about oxen that God is concerned?
 <small><sub>**Literal:**</sub></small>
 In for the of Moses law it has been written: Not you will muzzle an ox treading out grain. Surely not for the oxen is there care <the> with God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.8|<< 1 Corinthians 9:8]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.10|1 Corinthians 9:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 9:9** is...
+> $\quad$ referencing: [[LXX.Deut.25.4|Deut 25:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ Ye shall not add unto the word which I command you, neither shall ye diminish [o
 <small><sub>**BSB:**</sub></small>
 You must not add to or subtract from what I command you, so that you may keep the commandments of the LORD your God that I am giving you.<small><sub>**MT:**</sub></small>
 [[Deut.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.1|<< Deuteronomy 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.3|Deuteronomy 4:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 4:2** is...
+> $\quad$ referenced by: [[Rev.22.18|Rev 22:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

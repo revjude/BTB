@@ -5,6 +5,10 @@ And Ephraim said, Yet I am become rich, I have found me out substance: [in] all 
 And Ephraim boasts: “How rich I have become! I have found wealth for myself. In all my labors, they can find in me no iniquity that is sinful.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.7|<< Hosea 12:7]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.9|Hosea 12:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 12:8** is...
+> $\quad$ referenced by: [[Rev.3.17|Rev 3:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

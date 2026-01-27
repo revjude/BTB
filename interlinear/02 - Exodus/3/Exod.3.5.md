@@ -5,6 +5,10 @@ And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the 
 “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.4|<< Exodus 3:4]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.6|Exodus 3:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 3:5** is...
+> $\quad$ referenced by: [[Acts.7.33|Acts 7:33]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

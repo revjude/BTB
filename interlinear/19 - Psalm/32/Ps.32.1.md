@@ -5,6 +5,10 @@
 Of David. A Maskil. Blessed is he whose transgressions are forgiven, whose sins are covered.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.0|<< Psalms 32:0]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.2|Psalms 32:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 32:1** is...
+> $\quad$ referenced by: [[Rom.4.7|Rom 4:7-8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

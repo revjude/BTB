@@ -5,6 +5,10 @@ It is also written in your law, that the testimony of two men is true.
 Even in your own Law it is written that the testimony of two men is valid.
 <small><sub>**Literal:**</sub></small>
 And in the law also <the> of you it has been written that of two men the testimony true is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.16|<< John 8:16]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.18|John 8:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 8:17** is...
+> $\quad$ referencing: [[LXX.Deut.19.15|Deut 19:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

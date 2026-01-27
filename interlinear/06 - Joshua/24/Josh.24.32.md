@@ -5,6 +5,10 @@ And the bones of Joseph, which the children of Israel brought up out of Egypt, b
 And the bones of Joseph, which the Israelites had brought up out of Egypt, were buried at Shechem in the plot of land that Jacob had purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver. So it became an inheritance for Joseph’s descendants.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.31|<< Joshua 24:31]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.33|Joshua 24:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joshua 24:32** is...
+> $\quad$ referenced by: [[Acts.7.16|Acts 7:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

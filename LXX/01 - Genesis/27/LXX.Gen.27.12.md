@@ -6,6 +6,10 @@ My father peradventure will feel me, and I shall seem to him as a deceiver; and 
 <small><sub>**BSB:**</sub></small>
 What if my father touches me? Then I would be revealed to him as a deceiver, and I would bring upon myself a curse rather than a blessing.”<small><sub>**MT:**</sub></small>
 [[Gen.27.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.11|<< Genesis 27:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.13|Genesis 27:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 27:12** is...
+> $\quad$ referenced by: [[Heb.11.9|Heb 11:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

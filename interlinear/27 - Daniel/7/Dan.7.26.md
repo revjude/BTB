@@ -5,6 +5,10 @@ But the judgment shall sit, and they shall take away his dominion, to consume an
 But the court will convene, and his dominion will be taken away and completely destroyed forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.25|<< Daniel 7:25]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.27|Daniel 7:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 7:26** is...
+> $\quad$ referenced by: [[Rev.19.20|Rev 19:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

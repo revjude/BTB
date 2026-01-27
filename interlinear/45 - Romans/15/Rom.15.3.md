@@ -5,6 +5,10 @@ For even Christ pleased not himself; but, as it is written, The reproaches of th
 For even Christ did not please Himself, but as it is written: “The insults of those who insult You have fallen on Me.”
 <small><sub>**Literal:**</sub></small>
 Even for <the> Christ not Himself pleased but even as it has been written: The reproaches of those reproaching You fell on Me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.2|<< Romans 15:2]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.4|Romans 15:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 15:3** is...
+> $\quad$ referencing: [[LXX.Ps.69.9|Ps 69:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

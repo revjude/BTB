@@ -5,6 +5,10 @@ But the word of the Lord endureth for ever. And this is the word which by the go
 but the word of the Lord stands forever.” And this is the word that was proclaimed to you.
 <small><sub>**Literal:**</sub></small>
 <the> but the declaration of [the] Lord abides to the age. This now is the declaration which having been evangelised to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.24|<< 1 Peter 1:24]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.1|1 Peter 2:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 1:25** is...
+> $\quad$ referencing: [[LXX.Isa.40.6|Isa 40:6-8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

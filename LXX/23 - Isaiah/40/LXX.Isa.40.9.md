@@ -6,6 +6,10 @@ O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusa
 <small><sub>**BSB:**</sub></small>
 Go up on a high mountain, O Zion, herald of good news. Raise your voice loudly, O Jerusalem, herald of good news. Lift it up, do not be afraid! Say to the cities of Judah, “Here is your God!”<small><sub>**MT:**</sub></small>
 [[Isa.40.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.8|<< Isaiah 40:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.10|Isaiah 40:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 40:9** is...
+> $\quad$ referenced by: [[John.12.15|John 12:15]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

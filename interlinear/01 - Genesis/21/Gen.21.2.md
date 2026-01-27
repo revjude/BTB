@@ -5,6 +5,10 @@ For Sarah conceived, and bare Abraham a son in his old age, at the set time of w
 So Sarah conceived and bore a son to Abraham in his old age, at the very time God had promised.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.1|<< Genesis 21:1]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.3|Genesis 21:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 21:2** is...
+> $\quad$ referenced by: [[Gal.4.22|Gal 4:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

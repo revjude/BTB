@@ -5,6 +5,10 @@ And there shall come forth a rod out of the stem of Jesse, and a Branch shall gr
 Then a shoot will spring up from the stump of Jesse, and a Branch from his roots will bear fruit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.34|<< Isaiah 10:34]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.2|Isaiah 11:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 11:1** is...
+> $\quad$ referenced by: [[Matt.2.23|Matt 2:23]] ☩ [[Rom.15.12|Rom 15:12]] ☩ [[Rev.22.16|Rev 22:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

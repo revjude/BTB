@@ -5,6 +5,10 @@ This people draweth nigh unto me with their mouth, and honoureth me with [their]
 ‘These people honor Me with their lips, but their hearts are far from Me.
 <small><sub>**Literal:**</sub></small>
 draws near to me <the> people this with the mouth of them and with the lips Me it honors, the however heart of them far away is kept from Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.7|<< Matthew 15:7]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.9|Matthew 15:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 15:8** is...
+> $\quad$ referencing: [[LXX.Isa.29.13|Isa 29:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

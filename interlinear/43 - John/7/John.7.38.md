@@ -5,6 +5,10 @@ He that believeth on me, as the scripture hath said, out of his belly shall flow
 Whoever believes in Me, as the Scripture has said: ‘Streams of living water will flow from within him.’”
 <small><sub>**Literal:**</sub></small>
 The [one] believing in Me myself, even as has said the Scripture: Rivers out of the belly of him will flow of water living.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.37|<< John 7:37]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.39|John 7:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 7:38** is...
+> $\quad$ alluding to: [[LXX.Prov.18.4|Prov 18:4]] ☩ [[LXX.Isa.12.3|Isa 12:3]] ☩ [[LXX.Isa.44.3|Isa 44:3]] ☩ [[LXX.Isa.55.1|Isa 55:1]] ☩ [[LXX.Isa.58.11|Isa 58:11]] ☩ [[LXX.Zech.13.1|Zech 13:1]] ☩ [[LXX.Zech.14.8|Zech 14:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Remove out of the midst of Babylon, and go forth out of the land of the Chaldean
 Flee from the midst of Babylon; depart from the land of the Chaldeans; be like the he-goats that lead the flock.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.7|<< Jeremiah 50:7]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.9|Jeremiah 50:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 50:8** is...
+> $\quad$ referenced by: [[Rev.18.4|Rev 18:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

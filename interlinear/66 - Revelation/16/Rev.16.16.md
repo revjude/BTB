@@ -5,6 +5,10 @@ And he gathered them together into a place called in the Hebrew tongue Armageddo
 And they assembled the kings in the place that in Hebrew is called Armageddon.
 <small><sub>**Literal:**</sub></small>
 And he gathered together them unto the place which is being called in Hebrew Armageddon.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.15|<< Revelation 16:15]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.17|Revelation 16:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 16:16** is...
+> $\quad$ possibly alluding to: [[LXX.Joel.3.2|Joel 3:2]] ☩ [[LXX.Zeph.3.8|Zeph 3:8]] ☩ [[LXX.Zech.14.2|Zech 14:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

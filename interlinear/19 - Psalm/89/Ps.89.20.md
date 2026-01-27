@@ -5,6 +5,10 @@ I have found David my servant; with my holy oil have I anointed him:
 I have found My servant David; with My sacred oil I have anointed him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.19|<< Psalms 89:19]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.21|Psalms 89:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 89:20** is...
+> $\quad$ referenced by: [[Acts.13.22|Acts 13:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

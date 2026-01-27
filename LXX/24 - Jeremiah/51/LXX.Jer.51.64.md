@@ -6,6 +6,10 @@ And thou shalt say, Thus shall Babylon sink, and shall not rise from the evil th
 <small><sub>**BSB:**</sub></small>
 Then you are to say, ‘In the same way Babylon will sink and never rise again, because of the disaster I will bring upon her. And her people will grow weary.’” Here end the words of Jeremiah.<small><sub>**MT:**</sub></small>
 [[Jer.51.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.63|<< Jeremiah 51:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.1|Jeremiah 52:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 51:64** is...
+> $\quad$ referenced by: [[Rev.18.21|Rev 18:21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

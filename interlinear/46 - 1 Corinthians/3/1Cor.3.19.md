@@ -5,6 +5,10 @@ For the wisdom of this world is foolishness with God. For it is written, He take
 For the wisdom of this world is foolishness in God’s sight. As it is written: “He catches the wise in their craftiness.”
 <small><sub>**Literal:**</sub></small>
 The for wisdom of the world this foolishness with <the> God is. It has been written for: [He is] the [One] catching the wise in the craftiness of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.18|<< 1 Corinthians 3:18]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.20|1 Corinthians 3:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 3:19** is...
+> $\quad$ referencing: [[LXX.Job.5.12|Job 5:12-13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

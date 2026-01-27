@@ -5,6 +5,10 @@ For he that said, Do not commit adultery, said also, Do not kill. Now if thou co
 For He who said, “Do not commit adultery,” also said, “Do not murder.” If you do not commit adultery, but do commit murder, you have become a lawbreaker.
 <small><sub>**Literal:**</sub></small>
 The [One] for having said Not you may commit adultery, said also Not you may murder. If however not you do commit adultery do commit murder however, you have become a transgressor of [the] law.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.10|<< James 2:10]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.12|James 2:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 2:11** is...
+> $\quad$ referencing: [[LXX.Exod.20.13|Exod 20:13-14]] ☩ [[LXX.Deut.5.17|Deut 5:17]][[LXX.Deut.5.18|, 18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

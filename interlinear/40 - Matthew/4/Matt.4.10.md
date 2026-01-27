@@ -5,6 +5,10 @@ Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt 
 “Away from Me, Satan!” Jesus told him. “For it is written: ‘Worship the Lord your God and serve Him only.’”
 <small><sub>**Literal:**</sub></small>
 Then says to him <the> Jesus; do go away behind me Satan; it has been written for: [The] Lord the God of you you will worship and Him alone will you serve.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.9|<< Matthew 4:9]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.11|Matthew 4:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 4:10** is...
+> $\quad$ referencing: [[LXX.Deut.6.13|Deut 6:13]] ☩ [[LXX.Deut.10.20|Deut 10:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

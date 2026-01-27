@@ -5,6 +5,10 @@ Slay utterly old [and] young, both maids, and little children, and women: but co
 Slaughter the old men, the young men and maidens, the women and children; but do not go near anyone who has the mark. Now begin at My sanctuary.” So they began with the elders who were before the temple.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.5|<< Ezekiel 9:5]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.7|Ezekiel 9:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 9:6** is...
+> $\quad$ referenced by: [[Rev.9.4|Rev 9:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

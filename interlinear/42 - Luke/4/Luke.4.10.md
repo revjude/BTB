@@ -5,6 +5,10 @@ For it is written, He shall give his angels charge over thee, to keep thee:
 For it is written: ‘He will command His angels concerning You to guard You carefully,
 <small><sub>**Literal:**</sub></small>
 It has been written for that To the angels of Him He will give orders concerning You <the> to guard You;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.9|<< Luke 4:9]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.11|Luke 4:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 4:10** is...
+> $\quad$ referencing: [[LXX.Ps.91.11|Ps 91:11-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

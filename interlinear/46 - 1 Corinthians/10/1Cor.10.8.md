@@ -5,6 +5,10 @@ Neither let us commit fornication, as some of them committed, and fell in one da
 We should not commit sexual immorality, as some of them did, and in one day twenty-three thousand of them died.
 <small><sub>**Literal:**</sub></small>
 Neither shall we commit sexual immorality even as some of them committed sexual immorality, and fell in one day twenty three thousand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.7|<< 1 Corinthians 10:7]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.9|1 Corinthians 10:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 10:8** is...
+> $\quad$ alluding to: [[LXX.Num.25.1|Num 25:1]][[LXX.Num.25.9|, 9]] ☩ [[LXX.Ps.106.14|Ps 106:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

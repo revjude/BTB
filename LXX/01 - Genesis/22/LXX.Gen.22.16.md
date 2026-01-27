@@ -6,6 +6,10 @@ And said, By myself have I sworn, saith the LORD, for because thou hast done thi
 <small><sub>**BSB:**</sub></small>
 saying, “By Myself I have sworn, declares the LORD, that because you have done this and have not withheld your only son,<small><sub>**MT:**</sub></small>
 [[Gen.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.15|<< Genesis 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.17|Genesis 22:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 22:16** is...
+> $\quad$ referenced by: [[Luke.1.73|Luke 1:73]] ☩ [[Heb.6.13|Heb 6:13-14]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

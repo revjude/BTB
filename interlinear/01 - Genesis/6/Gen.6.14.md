@@ -5,6 +5,10 @@ Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pit
 Make for yourself an ark of gopher wood; make rooms in the ark and coat it with pitch inside and out.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.13|<< Genesis 6:13]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.15|Genesis 6:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 6:14** is...
+> $\quad$ referenced by: [[Heb.11.7|Heb 11:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

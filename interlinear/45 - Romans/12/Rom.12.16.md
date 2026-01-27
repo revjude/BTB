@@ -5,6 +5,11 @@
 Live in harmony with one another. Do not be proud, but associate with the lowly. Do not be conceited.
 <small><sub>**Literal:**</sub></small>
 the same thing toward one another minding, not the [things] haughty minding, but with the lowly going along. Not do be wise in yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.15|<< Romans 12:15]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.17|Romans 12:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 12:16** is...
+> $\quad$ referencing: [[LXX.Prov.3.7|Prov 3:7]]
+> $\quad$ alluding to: [[LXX.Isa.5.21|Isa 5:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

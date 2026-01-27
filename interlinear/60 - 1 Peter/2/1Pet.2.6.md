@@ -5,6 +5,10 @@ Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief c
 For it stands in Scripture: “See, I lay in Zion a stone, a chosen and precious cornerstone; and the one who believes in Him will never be put to shame.”
 <small><sub>**Literal:**</sub></small>
 Therefore it is contained in <the> Scripture: Behold I lay in Zion a stone cornerstone a chosen precious, and the [one] who is believing on Him certainly not may be put to shame.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.5|<< 1 Peter 2:5]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.7|1 Peter 2:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 2:6** is...
+> $\quad$ referencing: [[LXX.Isa.28.16|Isa 28:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

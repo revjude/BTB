@@ -5,6 +5,10 @@ Stand in awe, and sin not: commune with your own heart upon your bed, and be sti
 Be angry, yet do not sin; on your bed, search your heart and be still. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.3|<< Psalms 4:3]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.5|Psalms 4:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 4:4** is...
+> $\quad$ referenced by: [[Eph.4.26|Eph 4:26]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

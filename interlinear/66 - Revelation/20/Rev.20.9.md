@@ -5,6 +5,10 @@ And they went up on the breadth of the earth, and compassed the camp of the sain
 And they marched across the broad expanse of the earth and surrounded the camp of the saints and the beloved city. But fire came down from heaven and consumed them.
 <small><sub>**Literal:**</sub></small>
 And they marched up over the breadth of the earth and encircled the camp of the saints and the city which beloved. But came down fire from <the> God out of <the> heaven and devoured them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.8|<< Revelation 20:8]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.10|Revelation 20:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 20:9** is...
+> $\quad$ referencing: [[LXX.2Kgs.1.10|2Kgs 1:10]][[LXX.2Kgs.1.12|, 12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

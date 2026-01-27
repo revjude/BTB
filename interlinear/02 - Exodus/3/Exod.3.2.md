@@ -5,6 +5,10 @@ And the angel of the LORD appeared unto him in a flame of fire out of the midst 
 There the angel of the LORD appeared to him in a blazing fire from within a bush. Moses saw the bush ablaze with fire, but it was not consumed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.1|<< Exodus 3:1]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.3|Exodus 3:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 3:2** is...
+> $\quad$ referenced by: [[Acts.7.30|Acts 7:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

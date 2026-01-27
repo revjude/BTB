@@ -6,6 +6,10 @@ Thou [art] the LORD the God, who didst choose Abram, and broughtest him forth ou
 <small><sub>**BSB:**</sub></small>
 You are the LORD, the God who chose Abram, who brought him out of Ur of the Chaldeans and gave him the name Abraham.<small><sub>**MT:**</sub></small>
 [[Neh.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.6|<< Nehemiah 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.8|Nehemiah 9:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Nehemiah 9:7** is...
+> $\quad$ referenced by: [[Acts.7.2|Acts 7:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ I beheld then because of the voice of the great words which the horn spake: I be
 Then I kept watching because of the arrogant words the horn was speaking. As I continued to watch, the beast was slain, and its body was destroyed and thrown into the blazing fire.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.10|<< Daniel 7:10]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.12|Daniel 7:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 7:11** is...
+> $\quad$ referenced by: [[Rev.17.8|Rev 17:8]] ☩ [[Rev.19.20|Rev 19:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

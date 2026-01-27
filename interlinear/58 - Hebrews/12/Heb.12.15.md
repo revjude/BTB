@@ -5,6 +5,10 @@ Looking diligently lest any man fail of the grace of God; lest any root of bitte
 See to it that no one falls short of the grace of God, and that no root of bitterness springs up to cause trouble and defile many.
 <small><sub>**Literal:**</sub></small>
 observing lest any be failing of the grace <the> of God, lest any root of bitterness up springing may trouble [you], and through this may be defiled <the> many;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.14|<< Hebrews 12:14]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.16|Hebrews 12:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:15** is...
+> $\quad$ referencing: [[LXX.Deut.29.18|Deut 29:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

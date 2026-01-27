@@ -6,6 +6,10 @@ And the LORD appeared unto Abram, and said, Unto thy seed will I give this land:
 <small><sub>**BSB:**</sub></small>
 Then the LORD appeared to Abram and said, “I will give this land to your offspring.” So Abram built an altar there to the LORD, who had appeared to him.<small><sub>**MT:**</sub></small>
 [[Gen.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.6|<< Genesis 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.8|Genesis 12:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 12:7** is...
+> $\quad$ referenced by: [[Acts.7.5|Acts 7:5]] ☩ [[Gal.3.16|Gal 3:16]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

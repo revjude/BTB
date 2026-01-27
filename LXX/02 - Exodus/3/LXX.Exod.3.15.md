@@ -6,6 +6,10 @@ And God said moreover unto Moses, Thus shalt thou say unto the children of Israe
 <small><sub>**BSB:**</sub></small>
 God also told Moses, “Say to the Israelites, ‘The LORD, the God of your fathers—the God of Abraham, the God of Isaac, and the God of Jacob—has sent me to you.’ This is My name forever, and this is how I am to be remembered in every generation.<small><sub>**MT:**</sub></small>
 [[Exod.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.14|<< Exodus 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.16|Exodus 3:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 3:15** is...
+> $\quad$ referenced by: [[Matt.22.32|Matt 22:32]] ☩ [[Mark.12.26|Mark 12:26]] ☩ [[Luke.20.37|Luke 20:37]] ☩ [[Acts.3.13|Acts 3:13]] ☩ [[Acts.7.32|Acts 7:32]] ☩ [[Acts.7.35|Acts 7:35]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ So the people of Nineveh believed God, and proclaimed a fast, and put on sackclo
 And the Ninevites believed God. They proclaimed a fast and dressed in sackcloth, from the greatest of them to the least.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.3.4|<< Jonah 3:4]]</td><td align="center" style="border:none;">[[Jonah.3|Jonah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.3.6|Jonah 3:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jonah 3:5** is...
+> $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

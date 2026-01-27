@@ -5,6 +5,10 @@ His mouth is full of cursing and deceit and fraud: under his tongue [is] mischie
 His mouth is full of cursing, deceit, and violence; trouble and malice are under his tongue.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.6|<< Psalms 10:6]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.8|Psalms 10:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 10:7** is...
+> $\quad$ referenced by: [[Rom.3.14|Rom 3:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

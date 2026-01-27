@@ -5,6 +5,10 @@ I Jesus have sent mine angel to testify unto you these things in the churches. I
 “I, Jesus, have sent My angel to give you this testimony for the churches. I am the Root and the Offspring of David, the bright Morning Star.”
 <small><sub>**Literal:**</sub></small>
 I myself Jesus sent the angel of Mine to testify to you these things in the churches. I myself am the root and the offspring <the> of David, the star the bright the morning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.15|<< Revelation 22:15]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.17|Revelation 22:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 22:16** is...
+> $\quad$ alluding to: [[LXX.Isa.11.1|Isa 11:1]] ☩ [[LXX.Isa.11.10|Isa 11:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

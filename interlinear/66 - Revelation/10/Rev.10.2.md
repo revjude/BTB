@@ -5,6 +5,10 @@ And he had in his hand a little book open: and he set his right foot upon the se
 He held in his hand a small scroll, which lay open. He placed his right foot on the sea and his left foot on the land.
 <small><sub>**Literal:**</sub></small>
 and having in the hand of him a little scroll opened And he placed the foot of him <the> right upon the sea, the and left upon the earth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.1|<< Revelation 10:1]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.3|Revelation 10:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 10:2** is...
+> $\quad$ alluding to: [[LXX.Ezek.2.9|Ezek 2:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

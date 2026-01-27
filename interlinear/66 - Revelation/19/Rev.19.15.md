@@ -5,6 +5,10 @@ And out of his mouth goeth a sharp sword, that with it he should smite the natio
 And from His mouth proceeds a sharp sword with which to strike down the nations, and He will rule them with an iron scepter. He treads the winepress of the fury of the wrath of God the Almighty.
 <small><sub>**Literal:**</sub></small>
 And out of the mouth of Him goes forth a sword two-edged sharp, so that with it He may strike down the nations. and He himself will shepherd them with a rod of iron And He himself treads the press of the wine of the fury and of the wrath <the> of God the Almighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.14|<< Revelation 19:14]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.16|Revelation 19:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:15** is...
+> $\quad$ alluding to: [[LXX.Ps.2.9|Ps 2:9]] ☩ [[LXX.Isa.63.3|Isa 63:3]] ☩ [[LXX.Lam.1.15|Lam 1:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

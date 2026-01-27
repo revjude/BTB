@@ -5,6 +5,10 @@ And changed the glory of the uncorruptible God into an image made like to corrup
 and exchanged the glory of the immortal God for images of mortal man and birds and animals and reptiles.
 <small><sub>**Literal:**</sub></small>
 and they changed the glory of the immortal God into a likeness of an image of mortal man and birds and quadrupeds and creeping things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.22|<< Romans 1:22]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.24|Romans 1:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 1:23** is...
+> $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]] ☩ [[LXX.Ps.106.20|Ps 106:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

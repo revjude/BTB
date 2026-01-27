@@ -5,6 +5,10 @@ In whom the god of this world hath blinded the minds of them which believe not, 
 The god of this age has blinded the minds of unbelievers, so they cannot see the light of the gospel of the glory of Christ, who is the image of God.
 <small><sub>**Literal:**</sub></small>
 in whom the god of the age this has blinded the minds of the unbelieving so as for <the> not to beam forth to them the illumination of the gospel of the glory <the> of Christ, who is [the] image <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.3|<< 2 Corinthians 4:3]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.5|2 Corinthians 4:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 4:4** is...
+> $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

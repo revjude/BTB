@@ -5,6 +5,10 @@ He also [shall be] my salvation: for an hypocrite shall not come before him.
 Moreover, this will be my salvation, for no godless man can appear before Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.15|<< Job 13:15]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.17|Job 13:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Job 13:16** is...
+> $\quad$ referenced by: [[Phil.1.19|Phil 1:19]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

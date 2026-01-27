@@ -5,6 +5,10 @@ Every man according as he purposeth in his heart, [so let him give]; not grudgin
 Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver.
 <small><sub>**Literal:**</sub></small>
 each even as he himself has purposed in the heart, not out of regret or of necessity; a cheerful for giver loves <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.6|<< 2 Corinthians 9:6]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.8|2 Corinthians 9:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 9:7** is...
+> $\quad$ referencing: [[LXX.Prov.22.8|Prov 22:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

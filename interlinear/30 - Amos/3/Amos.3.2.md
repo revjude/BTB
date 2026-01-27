@@ -5,6 +5,10 @@ You only have I known of all the families of the earth: therefore I will punish 
 “Only you have I known from all the families of the earth; therefore I will punish you for all your iniquities.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.1|<< Amos 3:1]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.3|Amos 3:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Amos 3:2** is...
+> $\quad$ related to: [[Ps.147.20|Ps 147:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

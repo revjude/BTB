@@ -5,6 +5,10 @@ Therefore will I cause you to go into captivity beyond Damascus, saith the LORD,
 Therefore I will send you into exile beyond Damascus,” says the LORD, whose name is the God of Hosts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.26|<< Amos 5:26]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.1|Amos 6:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Amos 5:27** is...
+> $\quad$ referenced by: [[Acts.7.42|Acts 7:42-43]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

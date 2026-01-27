@@ -5,6 +5,10 @@ Was not Abraham our father justified by works, when he had offered Isaac his son
 Was not our father Abraham justified by what he did when he offered his son Isaac on the altar?
 <small><sub>**Literal:**</sub></small>
 Abraham the father of us not by works was justified having offered Isaac the son of him upon the altar?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.20|<< James 2:20]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.22|James 2:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 2:21** is...
+> $\quad$ alluding to: [[LXX.Gen.22.9|Gen 22:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

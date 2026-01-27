@@ -5,6 +5,10 @@ He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.
 He who sows injustice will reap disaster, and the rod of his fury will be destroyed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.7|<< Proverbs 22:7]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.9|Proverbs 22:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 22:8** is...
+> $\quad$ referenced by: [[2Cor.9.7|2Cor 9:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

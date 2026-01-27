@@ -5,6 +5,10 @@ Then saith Jesus unto them, All ye shall be offended because of me this night: f
 Then Jesus said to them, “This very night you will all fall away on account of Me. For it is written: ‘I will strike the Shepherd, and the sheep of the flock will be scattered.’
 <small><sub>**Literal:**</sub></small>
 Then says to them <the> Jesus; All you yourselves will fall away because of Me myself during <the> night this; It has been written for: I will strike the shepherd, and they will be scattered the sheep of the flock.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.30|<< Matthew 26:30]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.32|Matthew 26:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 26:31** is...
+> $\quad$ referencing: [[LXX.Zech.13.7|Zech 13:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

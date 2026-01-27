@@ -5,6 +5,10 @@ Therefore thus saith the Lord GOD, Behold, I lay in Zion for a foundation a ston
 So this is what the Lord GOD says: “See, I lay a stone in Zion, a tested stone, a precious cornerstone, a sure foundation; the one who believes will never be shaken.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.15|<< Isaiah 28:15]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.17|Isaiah 28:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 28:16** is...
+> $\quad$ referenced by: [[Acts.4.11|Acts 4:11]] ☩ [[Rom.10.11|Rom 10:11]] ☩ [[1Pet.2.6|1Pet 2:6]] ☩ [[Rom.9.33|Rom 9:33]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

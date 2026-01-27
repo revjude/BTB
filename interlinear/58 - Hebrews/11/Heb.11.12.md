@@ -5,6 +5,10 @@ Therefore sprang there even of one, and him as good as dead, [so many] as the st
 And so from one man, and he as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore.
 <small><sub>**Literal:**</sub></small>
 Therefore also from one man were born, and he as good as dead, even as the stars <the> of heaven <the> in multitude and as the sand <the> by the shore of the sea <the> countless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.11|<< Hebrews 11:11]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.13|Hebrews 11:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:12** is...
+> $\quad$ alluding to: [[LXX.Gen.22.17|Gen 22:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

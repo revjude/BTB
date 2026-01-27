@@ -5,6 +5,10 @@ And all Israel from Dan even to Beersheba knew that Samuel [was] established [to
 So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.19|<< 1 Samuel 3:19]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.21|1 Samuel 3:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 3:20** is...
+> $\quad$ referenced by: [[Acts.13.20|Acts 13:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

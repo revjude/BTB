@@ -6,6 +6,10 @@ For, lo, thou shalt conceive, and bear a son; and no rasor shall come on his hea
 <small><sub>**BSB:**</sub></small>
 For behold, you will conceive and give birth to a son. And no razor shall touch his head, because the boy will be a Nazirite to God from the womb, and he will begin the deliverance of Israel from the hand of the Philistines.”<small><sub>**MT:**</sub></small>
 [[Judg.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.4|<< Judges 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.6|Judges 13:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Judges 13:5** is...
+> $\quad$ referenced by: [[Matt.2.23|Matt 2:23]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

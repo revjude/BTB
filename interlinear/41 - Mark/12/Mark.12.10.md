@@ -5,6 +5,10 @@ And have ye not read this scripture; The stone which the builders rejected is be
 Have you never read this Scripture: ‘The stone the builders rejected has become the cornerstone.
 <small><sub>**Literal:**</sub></small>
 Not even <the> Scripture this have you read: [The] stone which rejected those building, this has become the chief of [the] corner;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.9|<< Mark 12:9]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.11|Mark 12:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 12:10** is...
+> $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22-23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

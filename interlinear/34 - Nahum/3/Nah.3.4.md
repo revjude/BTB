@@ -5,6 +5,10 @@ Because of the multitude of the whoredoms of the wellfavoured harlot, the mistre
 because of the many harlotries of the harlot, the seductive mistress of sorcery, who betrays nations by her prostitution and clans by her witchcraft.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.3|<< Nahum 3:3]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.5|Nahum 3:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Nahum 3:4** is...
+> $\quad$ referenced by: [[Rev.18.3|Rev 18:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

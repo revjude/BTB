@@ -5,6 +5,10 @@ And I beheld, and, lo, in the midst of the throne and of the four beasts, and in
 Then I saw a Lamb who appeared to have been slain, standing in the center of the throne, encircled by the four living creatures and the elders. The Lamb had seven horns and seven eyes, which represent the seven spirits of God sent out into all the earth.
 <small><sub>**Literal:**</sub></small>
 And I saw and behold in [the] midst of the throne and of the four living creatures and in [the] midst of the elders a Lamb standing as slain having horns seven and eyes seven which are the seven Spirits <the> of God which sent out into all the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.5|<< Revelation 5:5]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.7|Revelation 5:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 5:6** is...
+> $\quad$ possibly alluding to: [[LXX.2Chr.16.9|2Chr 16:9]] ☩ [[LXX.Isa.53.7|Isa 53:7]] ☩ [[LXX.Zech.4.10|Zech 4:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

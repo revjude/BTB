@@ -5,6 +5,10 @@ Therefore if any man [be] in Christ, [he is] a new creature: old things are pass
 Therefore if anyone is in Christ, he is a new creation. The old has passed away. Behold, the new has come!
 <small><sub>**Literal:**</sub></small>
 Therefore if anyone [is] in Christ, [he is] a new creation; The old things have passed away, behold has come into being new <the> all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.16|<< 2 Corinthians 5:16]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.18|2 Corinthians 5:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 5:17** is...
+> $\quad$ referencing: [[LXX.Isa.43.18|Isa 43:18-19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

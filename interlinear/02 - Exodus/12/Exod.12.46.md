@@ -5,6 +5,10 @@ In one house shall it be eaten; thou shalt not carry forth ought of the flesh ab
 It must be eaten inside one house. You are not to take any of the meat outside the house, and you may not break any of the bones.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.45|<< Exodus 12:45]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.47|Exodus 12:47 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 12:46** is...
+> $\quad$ referenced by: [[John.19.36|John 19:36]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

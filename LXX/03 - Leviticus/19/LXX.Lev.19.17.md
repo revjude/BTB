@@ -6,6 +6,10 @@ Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke th
 <small><sub>**BSB:**</sub></small>
 You must not harbor hatred against your brother in your heart. Directly rebuke your neighbor, so that you will not incur guilt on account of him.<small><sub>**MT:**</sub></small>
 [[Lev.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.16|<< Leviticus 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.18|Leviticus 19:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 19:17** is...
+> $\quad$ referenced by: [[Matt.18.15|Matt 18:15]] ☩ [[Luke.17.3|Luke 17:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,11 @@ By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshi
 By faith Jacob, when he was dying, blessed each of Joseph’s sons and worshiped as he leaned on the top of his staff.
 <small><sub>**Literal:**</sub></small>
 By faith Jacob dying each of the sons of Joseph blessed and worshiped on the top of the staff of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.20|<< Hebrews 11:20]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.22|Hebrews 11:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:21** is...
+> $\quad$ referencing: [[LXX.Gen.47.31|Gen 47:31]]
+> $\quad$ alluding to: [[LXX.Gen.48.15|Gen 48:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

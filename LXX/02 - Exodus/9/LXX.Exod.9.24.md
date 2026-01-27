@@ -6,6 +6,10 @@ So there was hail, and fire mingled with the hail, very grievous, such as there 
 <small><sub>**BSB:**</sub></small>
 The hail fell and the lightning continued flashing through it. The hail was so severe that nothing like it had ever been seen in all the land of Egypt from the time it became a nation.<small><sub>**MT:**</sub></small>
 [[Exod.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.23|<< Exodus 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.25|Exodus 9:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 9:24** is...
+> $\quad$ referenced by: [[Rev.16.21|Rev 16:21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

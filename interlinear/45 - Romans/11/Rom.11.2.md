@@ -5,6 +5,10 @@ God hath not cast away his people which he foreknew. Wot ye not what the scriptu
 God did not reject His people, whom He foreknew. Do you not know what the Scripture says about Elijah, how he appealed to God against Israel:
 <small><sub>**Literal:**</sub></small>
 Not did reject <the> God the people of Him whom He foreknew. Or not know you in Elijah what says the Scripture, how he pleads <the> with God against <the> Israel saying<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.1|<< Romans 11:1]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.3|Romans 11:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 11:2** is...
+> $\quad$ referencing: [[LXX.1Sam.12.22|1Sam 12:22]] ☩ [[LXX.Ps.94.14|Ps 94:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ If we say that we have no sin, we deceive ourselves, and the truth is not in us.
 If we say we have no sin, we deceive ourselves, and the truth is not in us.
 <small><sub>**Literal:**</sub></small>
 If we shall say that sin not we have, ourselves we deceive and the truth not is in us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.7|<< 1 John 1:7]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.9|1 John 1:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 John 1:8** is...
+> $\quad$ alluding to: [[LXX.Prov.20.9|Prov 20:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

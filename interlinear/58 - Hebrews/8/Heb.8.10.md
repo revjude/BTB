@@ -5,6 +5,10 @@ For this [is] the covenant that I will make with the house of Israel after those
 For this is the covenant I will make with the house of Israel after those days, declares the Lord. I will put My laws in their minds and inscribe them on their hearts. And I will be their God, and they will be My people.
 <small><sub>**Literal:**</sub></small>
 For this [is] the covenant that I will make with the house of Israel after the days those, says [the] Lord, putting Laws of Mine into the mind of them and upon hearts of them I will inscribe them; and I will be to them for God, and they themselves will be to Me for a people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.9|<< Hebrews 8:9]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.11|Hebrews 8:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 8:10** is...
+> $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

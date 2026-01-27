@@ -6,6 +6,10 @@ Let my prayer be set forth before thee [as] incense; [and] the lifting up of my 
 <small><sub>**BSB:**</sub></small>
 May my prayer be set before You like incense; my uplifted hands, like the evening offering.<small><sub>**MT:**</sub></small>
 [[Ps.141.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.1|<< Psalm 141:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.3|Psalm 141:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 141:2** is...
+> $\quad$ referenced by: [[Rev.5.8|Rev 5:8]] ☩ [[Rev.8.3|Rev 8:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

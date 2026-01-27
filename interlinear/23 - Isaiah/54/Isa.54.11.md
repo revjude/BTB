@@ -5,6 +5,10 @@ O thou afflicted, tossed with tempest, [and] not comforted, behold, I will lay t
 “O afflicted city, lashed by storms, without solace, surely I will set your stones in antimony and lay your foundations with sapphires.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.10|<< Isaiah 54:10]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.12|Isaiah 54:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 54:11** is...
+> $\quad$ referenced by: [[Rev.21.19|Rev 21:19]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

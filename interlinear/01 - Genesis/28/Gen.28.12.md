@@ -5,6 +5,10 @@ And he dreamed, and behold a ladder set up on the earth, and the top of it reach
 And Jacob had a dream about a ladder that rested on the earth with its top reaching up to heaven, and God’s angels were going up and down the ladder.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.11|<< Genesis 28:11]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.13|Genesis 28:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 28:12** is...
+> $\quad$ referenced by: [[John.1.51|John 1:51]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ Also in time past, when Saul was king over us, thou wast he that leddest out and
 <small><sub>**BSB:**</sub></small>
 Even in times past, while Saul was king over us, you were the one who led Israel out and brought them back. And to you the LORD said, ‘You will shepherd My people Israel, and you will be ruler over them.’”<small><sub>**MT:**</sub></small>
 [[2Sam.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.1|<< 2 Samuel 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.3|2 Samuel 5:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Samuel 5:2** is...
+> $\quad$ referenced by: [[Matt.2.6|Matt 2:6]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

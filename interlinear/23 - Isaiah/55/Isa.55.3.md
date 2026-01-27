@@ -5,6 +5,10 @@ Incline your ear, and come unto me: hear, and your soul shall live; and I will m
 Incline your ear and come to Me; listen, so that your soul may live. I will make with you an everlasting covenant—My loving devotion promised to David.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.2|<< Isaiah 55:2]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.4|Isaiah 55:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 55:3** is...
+> $\quad$ referenced by: [[Acts.13.34|Acts 13:34]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

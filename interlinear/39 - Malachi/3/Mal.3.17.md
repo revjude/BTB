@@ -5,6 +5,10 @@ And they shall be mine, saith the LORD of hosts, in that day when I make up my j
 “They will be Mine,” says the LORD of Hosts, “on the day when I prepare My treasured possession. And I will spare them as a man spares his own son who serves him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.16|<< Malachi 3:16]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.18|Malachi 3:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Malachi 3:17** is...
+> $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

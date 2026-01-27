@@ -6,6 +6,10 @@ And I will establish my covenant between me and thee and thy seed after thee in 
 <small><sub>**BSB:**</sub></small>
 I will establish My covenant as an everlasting covenant between Me and you and your descendants after you, to be your God and the God of your descendants after you.<small><sub>**MT:**</sub></small>
 [[Gen.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.6|<< Genesis 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.8|Genesis 17:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 17:7** is...
+> $\quad$ referenced by: [[Gal.3.16|Gal 3:16-17]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

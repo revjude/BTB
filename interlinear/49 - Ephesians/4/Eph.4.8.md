@@ -5,6 +5,10 @@ Wherefore he saith, When he ascended up on high, he led captivity captive, and g
 This is why it says: “When He ascended on high, He led captives away, and gave gifts to men.”
 <small><sub>**Literal:**</sub></small>
 Therefore it says: Having ascended on high He led captive captivity, and he gave gifts <the> to men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.7|<< Ephesians 4:7]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.9|Ephesians 4:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 4:8** is...
+> $\quad$ referencing: [[LXX.Ps.68.18|Ps 68:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

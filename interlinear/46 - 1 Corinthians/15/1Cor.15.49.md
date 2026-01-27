@@ -5,6 +5,10 @@ And as we have borne the image of the earthy, we shall also bear the image of th
 And just as we have borne the likeness of the earthly man, so also shall we bear the likeness of the heavenly man.
 <small><sub>**Literal:**</sub></small>
 And even as we have born the image of the earthly, we will bear also the image of the heavenly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.48|<< 1 Corinthians 15:48]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.50|1 Corinthians 15:50 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 15:49** is...
+> $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

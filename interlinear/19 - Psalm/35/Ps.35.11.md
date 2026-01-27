@@ -5,6 +5,10 @@ False witnesses did rise up; they laid to my charge [things] that I knew not.
 Hostile witnesses come forward; they make charges I know nothing about.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.10|<< Psalms 35:10]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.12|Psalms 35:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 35:11** is...
+> $\quad$ referenced by: [[Matt.26.60|Matt 26:60]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

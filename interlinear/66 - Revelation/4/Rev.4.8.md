@@ -5,6 +5,10 @@ And the four beasts had each of them six wings about [him]; and [they were] full
 And each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying: “Holy, Holy, Holy, is the Lord God Almighty, who was and is and is to come!”
 <small><sub>**Literal:**</sub></small>
 And the four living creatures, one for one of them he having respectively wings six around and within full of eyes and rest not they have by day and night saying: Holy Holy Holy Lord <the> God <the> Almighty, who was being and who is being and who is coming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.7|<< Revelation 4:7]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.9|Revelation 4:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 4:8** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.6.2|Isa 6:2-3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

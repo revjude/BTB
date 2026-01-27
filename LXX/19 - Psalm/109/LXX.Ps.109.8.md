@@ -6,6 +6,10 @@ Let his days be few; [and] let another take his office.
 <small><sub>**BSB:**</sub></small>
 May his days be few; may another take his position.<small><sub>**MT:**</sub></small>
 [[Ps.109.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.7|<< Psalm 109:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.9|Psalm 109:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 109:8** is...
+> $\quad$ referenced by: [[John.17.12|John 17:12]] ☩ [[Acts.1.20|Acts 1:20]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

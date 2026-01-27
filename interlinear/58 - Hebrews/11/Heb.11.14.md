@@ -5,6 +5,10 @@ For they that say such things declare plainly that they seek a country.
 Now those who say such things show that they are seeking a country of their own.
 <small><sub>**Literal:**</sub></small>
 Those for such things saying make manifest that their country they are seeking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.13|<< Hebrews 11:13]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.15|Hebrews 11:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:14** is...
+> $\quad$ possibly alluding to: [[LXX.Hos.14.2|Hos 14:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And a stone of stumbling, and a rock of offence, [even to them] which stumble at
 and, “A stone of stumbling and a rock of offense.” They stumble because they disobey the word—and to this they were appointed.
 <small><sub>**Literal:**</sub></small>
 and A stone of stumbling and a rock of offense, [They] stumble at on the word being disobedient, to which also they were appointed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.7|<< 1 Peter 2:7]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.9|1 Peter 2:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 2:8** is...
+> $\quad$ referencing: [[LXX.Isa.8.14|Isa 8:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

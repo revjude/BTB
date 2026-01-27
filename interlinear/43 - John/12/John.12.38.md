@@ -5,6 +5,10 @@ That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, 
 This was to fulfill the word of Isaiah the prophet: “Lord, who has believed our message? And to whom has the arm of the Lord been revealed?”
 <small><sub>**Literal:**</sub></small>
 so that the word of Isaiah the prophet may be fulfilled that said: Lord, who has believed in the report of us? And the arm of [the] Lord to whom has been revealed?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.37|<< John 12:37]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.39|John 12:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 12:38** is...
+> $\quad$ referencing: [[LXX.Isa.53.1|Isa 53:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

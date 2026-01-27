@@ -5,6 +5,10 @@ And in thy seed shall all the nations of the earth be blessed; because thou hast
 And through your offspring all nations of the earth will be blessed, because you have obeyed My voice.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.17|<< Genesis 22:17]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.19|Genesis 22:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 22:18** is...
+> $\quad$ referenced by: [[Luke.1.55|Luke 1:55]] ☩ [[Acts.3.25|Acts 3:25]] ☩ [[Gal.3.8|Gal 3:8]] ☩ [[Gal.3.16|Gal 3:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

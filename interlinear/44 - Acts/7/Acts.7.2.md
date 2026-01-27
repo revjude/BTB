@@ -5,6 +5,10 @@ And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto
 And Stephen declared: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran,
 <small><sub>**Literal:**</sub></small>
 <the> And he was speaking: Men brothers and fathers, do listen. The God <the> of glory appeared to the father of us Abraham being in <the> Mesopotamia before than dwelling of his in Haran,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.1|<< Acts 7:1]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.3|Acts 7:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:2** is...
+> $\quad$ alluding to: [[LXX.Gen.15.7|Gen 15:7]] ☩ [[LXX.Neh.9.7|Neh 9:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

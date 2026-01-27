@@ -6,6 +6,10 @@ Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath a
 <small><sub>**BSB:**</sub></small>
 You have loved righteousness and hated wickedness; therefore God, your God, has anointed you above your companions with the oil of joy.<small><sub>**MT:**</sub></small>
 [[Ps.45.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.6|<< Psalm 45:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.8|Psalm 45:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 45:7** is...
+> $\quad$ referenced by: [[Heb.1.8|Heb 1:8-9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

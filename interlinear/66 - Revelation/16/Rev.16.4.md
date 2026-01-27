@@ -5,6 +5,10 @@ And the third angel poured out his vial upon the rivers and fountains of waters;
 And the third angel poured out his bowl into the rivers and springs of water, and they turned to blood.
 <small><sub>**Literal:**</sub></small>
 And the third angel poured out the bowl of him into the rivers and into the springs of the waters, and they became blood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.3|<< Revelation 16:3]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.5|Revelation 16:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 16:4** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.7.19|Exod 7:19-20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ For I delight in the law of God after the inward man:
 For in my inner being I delight in God’s law.
 <small><sub>**Literal:**</sub></small>
 I delight for in the law <the> of God according to the inward man,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.21|<< Romans 7:21]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.23|Romans 7:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 7:22** is...
+> $\quad$ referencing: [[LXX.Ps.40.8|Ps 40:8]] ☩ [[Heb.8.10|Heb 8:10]] ☩ [[Heb.10.5|Heb 10:5-7]] ☩ [[Heb.10.16|Heb 10:16-17]]
+> $\quad$ alluding to: [[LXX.Jer.31.33|Jer 31:33]] ☩ [[John.6.45|John 6:45]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

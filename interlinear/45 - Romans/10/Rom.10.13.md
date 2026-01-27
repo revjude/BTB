@@ -5,6 +5,10 @@ For whosoever shall call upon the name of the Lord shall be saved.
 for, “Everyone who calls on the name of the Lord will be saved.”
 <small><sub>**Literal:**</sub></small>
 Whoever for that maybe may call upon the name of [the] Lord will be saved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.12|<< Romans 10:12]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.14|Romans 10:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:13** is...
+> $\quad$ referencing: [[LXX.Joel.2.31|Joel 2:31-32]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

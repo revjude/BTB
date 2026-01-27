@@ -5,6 +5,11 @@ Having eyes, see ye not? and having ears, hear ye not? and do ye not remember?
 ‘Having eyes, do you not see? And having ears, do you not hear?’ And do you not remember?
 <small><sub>**Literal:**</sub></small>
 Eyes having not do you see? And ears having not do you hear? And not do you remember?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.17|<< Mark 8:17]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.19|Mark 8:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 8:18** is...
+> $\quad$ referencing: [[LXX.Jer.5.21|Jer 5:21]]
+> $\quad$ alluding to: [[LXX.Ezek.12.2|Ezek 12:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

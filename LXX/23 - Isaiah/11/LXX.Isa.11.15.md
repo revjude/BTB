@@ -6,6 +6,10 @@ And the LORD shall utterly destroy the tongue of the Egyptian sea; and with his 
 <small><sub>**BSB:**</sub></small>
 The LORD will devote to destruction the gulf of the Sea of Egypt; with a scorching wind He will sweep His hand over the Euphrates. He will split it into seven streams for men to cross with dry sandals.<small><sub>**MT:**</sub></small>
 [[Isa.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.14|<< Isaiah 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.16|Isaiah 11:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 11:15** is...
+> $\quad$ referenced by: [[Rev.16.12|Rev 16:12]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

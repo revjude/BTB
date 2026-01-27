@@ -5,6 +5,10 @@ And he carried me away in the spirit to a great and high mountain, and shewed me
 And he carried me away in the Spirit to a mountain great and high, and showed me the holy city of Jerusalem coming down out of heaven from God,
 <small><sub>**Literal:**</sub></small>
 And he carried away me in [the] Spirit to a mountain great and high and he showed me the city <the> great <the> holy Jerusalem descending out of <the> heaven from <the> God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.9|<< Revelation 21:9]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.11|Revelation 21:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:10** is...
+> $\quad$ alluding to: [[LXX.Ezek.40.2|Ezek 40:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

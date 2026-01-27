@@ -5,6 +5,10 @@ What? know ye not that he which is joined to an harlot is one body? for two, sai
 Or don’t you know that he who unites himself with a prostitute is one with her in body? For it is said, “The two will become one flesh.”
 <small><sub>**Literal:**</sub></small>
 Or surely you know that who is being joined to the prostitute one body is? Will become for it says the two into flesh one;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.15|<< 1 Corinthians 6:15]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.17|1 Corinthians 6:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 6:16** is...
+> $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

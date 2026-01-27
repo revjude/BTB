@@ -5,6 +5,10 @@ And delivered him out of all his afflictions, and gave him favour and wisdom in 
 and rescued him from all his troubles. He granted Joseph favor and wisdom in the sight of Pharaoh king of Egypt, who appointed him ruler over Egypt and all his household.
 <small><sub>**Literal:**</sub></small>
 and rescued him out of all the tribulations of him and gave to him favor and wisdom before Pharaoh king of Egypt and he appointed him ruler over Egypt and over all the house of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.9|<< Acts 7:9]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.11|Acts 7:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:10** is...
+> $\quad$ alluding to: [[LXX.Gen.41.37|Gen 41:37]] ☩ [[LXX.Gen.41.40|Gen 41:40]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

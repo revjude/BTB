@@ -5,6 +5,10 @@ And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will se
 And when your days are fulfilled and you rest with your fathers, I will raise up your descendant after you, who will come from your own body, and I will establish his kingdom.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.11|<< 2 Samuel 7:11]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.13|2 Samuel 7:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Samuel 7:12** is...
+> $\quad$ referenced by: [[John.7.42|John 7:42]] ☩ [[Acts.2.30|Acts 2:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

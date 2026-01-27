@@ -5,6 +5,10 @@ And ye shall not swear by my name falsely, neither shalt thou profane the name o
 You must not swear falsely by My name and so profane the name of your God. I am the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.11|<< Leviticus 19:11]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.13|Leviticus 19:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 19:12** is...
+> $\quad$ referenced by: [[Matt.5.33|Matt 5:33]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ But when the time of the promise drew nigh, which God had sworn to Abraham, the 
 As the time drew near for God to fulfill His promise to Abraham, our people in Egypt increased greatly in number.
 <small><sub>**Literal:**</sub></small>
 Even as now was drawing near the time of the promise that he agreed <the> God <the> to Abraham, increased the people and multiplied in Egypt<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.16|<< Acts 7:16]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.18|Acts 7:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:17** is...
+> $\quad$ alluding to: [[LXX.Exod.1.7|Exod 1:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

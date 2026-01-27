@@ -5,6 +5,10 @@ Carry neither purse, nor scrip, nor shoes: and salute no man by the way.
 Carry no purse or bag or sandals. Do not greet anyone along the road.
 <small><sub>**Literal:**</sub></small>
 Neither do carry purse nor bag nor sandals, and no one on the road may greet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.3|<< Luke 10:3]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.5|Luke 10:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 10:4** is...
+> $\quad$ alluding to: [[LXX.2Kgs.4.29|2Kgs 4:29]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And Jonah began to enter into the city a day’s journey, and he cried, and said
 On the first day of his journey, Jonah set out into the city and proclaimed, “Forty more days and Nineveh will be overturned!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.3.3|<< Jonah 3:3]]</td><td align="center" style="border:none;">[[Jonah.3|Jonah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.3.5|Jonah 3:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jonah 3:4** is...
+> $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

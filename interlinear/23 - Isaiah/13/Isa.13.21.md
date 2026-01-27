@@ -5,6 +5,10 @@ But wild beasts of the desert shall lie there; and their houses shall be full of
 But desert creatures will lie down there, and howling creatures will fill her houses. Ostriches will dwell there, and wild goats will leap about.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.20|<< Isaiah 13:20]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.22|Isaiah 13:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 13:21** is...
+> $\quad$ referenced by: [[Rev.18.2|Rev 18:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

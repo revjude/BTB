@@ -5,6 +5,10 @@ That frustrateth the tokens of the liars, and maketh diviners mad; that turneth 
 who foils the signs of false prophets and makes fools of diviners, who confounds the wise and turns their knowledge into nonsense,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.24|<< Isaiah 44:24]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.26|Isaiah 44:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 44:25** is...
+> $\quad$ referenced by: [[1Cor.1.20|1Cor 1:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

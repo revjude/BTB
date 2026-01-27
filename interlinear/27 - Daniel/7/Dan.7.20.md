@@ -5,6 +5,10 @@ And of the ten horns that [were] in his head, and [of] the other which came up, 
 I also wanted to know about the ten horns on its head and the other horn that came up, before which three of them fell—the horn whose appearance was more imposing than the others, with eyes and with a mouth that spoke words of arrogance.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.19|<< Daniel 7:19]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.21|Daniel 7:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 7:20** is...
+> $\quad$ referenced by: [[Rev.17.12|Rev 17:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And your covenant with death shall be disannulled, and your agreement with hell 
 Your covenant with death will be dissolved, and your agreement with Sheol will not stand. When the overwhelming scourge passes through, you will be trampled by it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.17|<< Isaiah 28:17]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.19|Isaiah 28:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 28:18** is...
+> $\quad$ related to: [[Rom.8.22|Rom 8:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

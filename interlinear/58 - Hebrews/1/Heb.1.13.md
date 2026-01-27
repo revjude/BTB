@@ -5,6 +5,10 @@ But to which of the angels said he at any time, Sit on my right hand, until I ma
 Yet to which of the angels did God ever say: “Sit at My right hand until I make Your enemies a footstool for Your feet”?
 <small><sub>**Literal:**</sub></small>
 To which now of the angels has He said ever: do sit at [the] right hand of Me until when I may place the enemies of You [as] a footstool for the feet of You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.12|<< Hebrews 1:12]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.14|Hebrews 1:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 1:13** is...
+> $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

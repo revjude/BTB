@@ -6,6 +6,10 @@ They gave me also gall for my meat; and in my thirst they gave me vinegar to dri
 <small><sub>**BSB:**</sub></small>
 They poisoned my food with gall and gave me vinegar to quench my thirst.<small><sub>**MT:**</sub></small>
 [[Ps.69.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.20|<< Psalm 69:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.22|Psalm 69:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 69:21** is...
+> $\quad$ referenced by: [[Matt.27.48|Matt 27:48]] ☩ [[Mark.15.36|Mark 15:36]] ☩ [[John.19.28|John 19:28-29]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

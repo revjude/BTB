@@ -5,6 +5,10 @@ And in that day there shall be a root of Jesse, which shall stand for an ensign 
 On that day the Root of Jesse will stand as a banner for the peoples. The nations will seek Him, and His place of rest will be glorious.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.9|<< Isaiah 11:9]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.11|Isaiah 11:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 11:10** is...
+> $\quad$ referenced by: [[Rom.15.12|Rom 15:12]] ☩ [[Rev.22.16|Rev 22:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

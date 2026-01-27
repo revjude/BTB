@@ -5,6 +5,10 @@ And had a wall great and high, [and] had twelve gates, and at the gates twelve a
 The city had a great and high wall with twelve gates inscribed with the names of the twelve tribes of Israel, and twelve angels at the gates.
 <small><sub>**Literal:**</sub></small>
 having then a wall great and high, having gates twelve and at the gates angels twelve, and names inscribed, which are the names of the twelve tribes of the of [the] sons of Israel;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.11|<< Revelation 21:11]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.13|Revelation 21:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:12** is...
+> $\quad$ alluding to: [[LXX.Ezek.48.31|Ezek 48:31]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And he shewed me a pure river of water of life, clear as crystal, proceeding out
 Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb
 <small><sub>**Literal:**</sub></small>
 And he showed me a river pure of water of life, clear as crystal, flowing out of the throne <the> of God and of the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.27|<< Revelation 21:27]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.2|Revelation 22:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 22:1** is...
+> $\quad$ alluding to: [[LXX.Ezek.47.1|Ezek 47:1]] ☩ [[LXX.Ezek.47.7|Ezek 47:7]] ☩ [[LXX.Ezek.47.12|Ezek 47:12]] ☩ [[LXX.Zech.14.8|Zech 14:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

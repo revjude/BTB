@@ -5,6 +5,10 @@ Keep thy tongue from evil, and thy lips from speaking guile.
 Keep your tongue from evil and your lips from deceitful speech.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.12|<< Psalms 34:12]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.14|Psalms 34:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 34:13** is...
+> $\quad$ referenced by: [[1Pet.3.10|1Pet 3:10-12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

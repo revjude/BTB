@@ -5,6 +5,10 @@ But when Jacob heard that there was corn in Egypt, he sent out our fathers first
 When Jacob heard that there was grain in Egypt, he sent our fathers on their first visit.
 <small><sub>**Literal:**</sub></small>
 Having heard now Jacob [there] is grain in Egypt he sent forth the fathers of us first,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.11|<< Acts 7:11]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.13|Acts 7:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:12** is...
+> $\quad$ alluding to: [[LXX.Gen.42.2|Gen 42:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

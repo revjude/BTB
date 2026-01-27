@@ -5,6 +5,10 @@ Behold, God [is] my salvation; I will trust, and not be afraid: for the LORD JEH
 Surely God is my salvation; I will trust and not be afraid. For the LORD GOD is my strength and my song, and He also has become my salvation.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.12.1|<< Isaiah 12:1]]</td><td align="center" style="border:none;">[[Isa.12|Isaiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.12.3|Isaiah 12:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 12:2** is...
+> $\quad$ referenced by: [[Exod.15.2|Exod 15:2]] ☩ [[Ps.118.14|Ps 118:14]] ☩ [[Heb.2.13|Heb 2:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

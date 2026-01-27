@@ -5,6 +5,10 @@ But unto you that fear my name shall the Sun of righteousness arise with healing
 “But for you who fear My name, the sun of righteousness will rise with healing in its wings, and you will go out and leap like calves from the stall.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.1|<< Malachi 4:1]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.3|Malachi 4:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Malachi 4:2** is...
+> $\quad$ referenced by: [[Luke.1.78|Luke 1:78]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And while he lingered, the men laid hold upon his hand, and upon the hand of his
 But when Lot hesitated, the men grabbed his hand and the hands of his wife and his two daughters. And they led them safely out of the city, because of the LORD’s compassion for them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.15|<< Genesis 19:15]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.17|Genesis 19:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 19:16** is...
+> $\quad$ referenced by: [[Luke.17.29|Luke 17:29]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Against thee, thee only, have I sinned, and done [this] evil in thy sight: that 
 Against You, You only, have I sinned and done what is evil in Your sight, so that You may be proved right when You speak and blameless when You judge.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.3|<< Psalms 51:3]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.5|Psalms 51:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 51:4** is...
+> $\quad$ referenced by: [[Rom.3.4|Rom 3:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Now therefore, behold, the Lord bringeth up upon them the waters of the river, s
 the Lord will surely bring against them the mighty floodwaters of the Euphrates—the king of Assyria and all his pomp. It will overflow its channels and overrun its banks.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.6|<< Isaiah 8:6]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.8|Isaiah 8:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 8:7** is...
+> $\quad$ referenced by: [[Rev.17.15|Rev 17:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

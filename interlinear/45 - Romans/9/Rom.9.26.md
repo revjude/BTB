@@ -5,6 +5,10 @@ And it shall come to pass, [that] in the place where it was said unto them, Ye [
 and, “It will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’”
 <small><sub>**Literal:**</sub></small>
 and It will happen that in the place where it was said to them; Not people of Mine [are] You yourselves, there they will be called sons of God [the] living.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.25|<< Romans 9:25]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.27|Romans 9:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:26** is...
+> $\quad$ referencing: [[LXX.Hos.1.10|Hos 1:10]] ☩ [[LXX.Hos.2.1|Hos 2:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

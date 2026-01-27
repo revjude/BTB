@@ -6,6 +6,10 @@ And it shall come to pass, [that] he who fleeth from the noise of the fear shall
 <small><sub>**BSB:**</sub></small>
 Whoever flees the sound of panic will fall into the pit, and whoever climbs from the pit will be caught in the snare. For the windows of heaven are open, and the foundations of the earth are shaken.<small><sub>**MT:**</sub></small>
 [[Isa.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.17|<< Isaiah 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.19|Isaiah 24:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 24:18** is...
+> $\quad$ referenced by: [[Rev.6.12|Rev 6:12-13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

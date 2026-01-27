@@ -5,6 +5,10 @@ The LORD hath made known his salvation: his righteousness hath he openly shewed 
 The LORD has proclaimed His salvation and revealed His righteousness to the nations.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.98.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.1|<< Psalms 98:1]]</td><td align="center" style="border:none;">[[Ps.98|Psalms 98]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.98.3|Psalms 98:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 98:2** is...
+> $\quad$ referenced by: [[Acts.28.28|Acts 28:28]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

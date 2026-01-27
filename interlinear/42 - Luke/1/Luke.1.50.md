@@ -5,6 +5,10 @@ And his mercy [is] on them that fear him from generation to generation.
 His mercy extends to those who fear Him, from generation to generation.
 <small><sub>**Literal:**</sub></small>
 And the mercy of Him [is] to generations and generations to those fearing Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.49|<< Luke 1:49]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.51|Luke 1:51 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:50** is...
+> $\quad$ alluding to: [[LXX.Ps.103.17|Ps 103:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

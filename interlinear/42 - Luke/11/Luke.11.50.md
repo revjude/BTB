@@ -5,6 +5,11 @@ That the blood of all the prophets, which was shed from the foundation of the wo
 As a result, this generation will be charged with the blood of all the prophets that has been shed since the foundation of the world,
 <small><sub>**Literal:**</sub></small>
 so that may be charged the blood of all the prophets which poured out from [the] foundation of [the] world against <the> generation this,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.49|<< Luke 11:49]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.51|Luke 11:51 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 11:50** is...
+> $\quad$ referencing: [[LXX.Ps.44.22|Ps 44:22]]
+> $\quad$ alluding to: [[LXX.Ezek.34.8|Ezek 34:8-10]] ☩ [[LXX.Zech.11.7|Zech 11:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ O LORD God, turn not away the face of thine anointed: remember the mercies of Da
 O LORD God, do not reject Your anointed one. Remember Your loving devotion to Your servant David.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.41|<< 2 Chronicles 6:41]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.1|2 Chronicles 7:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Chronicles 6:42** is...
+> $\quad$ referencing: [[Ps.132.10|Ps 132:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

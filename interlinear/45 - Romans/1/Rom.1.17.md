@@ -5,6 +5,10 @@ For therein is the righteousness of God revealed from faith to faith: as it is w
 For the gospel reveals the righteousness of God that comes by faith from start to finish, just as it is written: “The righteous will live by faith.”
 <small><sub>**Literal:**</sub></small>
 [The] righteousness for of God in it is revealed from faith to faith even as it has been written: <the> And the righteous by faith will live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.16|<< Romans 1:16]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.18|Romans 1:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 1:17** is...
+> $\quad$ referencing: [[LXX.Hab.2.4|Hab 2:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

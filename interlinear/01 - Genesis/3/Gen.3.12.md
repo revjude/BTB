@@ -5,6 +5,10 @@ And the man said, The woman whom thou gavest [to be] with me, she gave me of the
 And the man answered, “The woman whom You gave me, she gave me fruit from the tree, and I ate it.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.11|<< Genesis 3:11]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.13|Genesis 3:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 3:12** is...
+> $\quad$ referenced by: [[1Tim.2.14|1Tim 2:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

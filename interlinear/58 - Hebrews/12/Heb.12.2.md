@@ -5,6 +5,10 @@ Looking unto Jesus the author and finisher of [our] faith; who for the joy that 
 Let us fix our eyes on Jesus, the author and perfecter of our faith, who for the joy set before Him endured the cross, scorning its shame, and sat down at the right hand of the throne of God.
 <small><sub>**Literal:**</sub></small>
 looking to the <the> of [our] faith founder and perfecter Jesus, who in view of what  is lying before Him joy endured [the] cross [its] shame having despised, at right hand and of the throne <the> of God has sat down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.1|<< Hebrews 12:1]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.3|Hebrews 12:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:2** is...
+> $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

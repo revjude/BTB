@@ -5,6 +5,10 @@ For this is he that was spoken of by the prophet Esaias, saying, The voice of on
 This is he who was spoken of through the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’”
 <small><sub>**Literal:**</sub></small>
 This for is the [One] having been spoken of through Isaiah the prophet saying; [The] voice of one crying in the wilderness do prepare the way of [the] Lord, straight do make the paths of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.2|<< Matthew 3:2]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.4|Matthew 3:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 3:3** is...
+> $\quad$ referencing: [[LXX.Isa.40.3|Isa 40:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

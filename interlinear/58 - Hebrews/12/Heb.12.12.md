@@ -5,6 +5,10 @@ Wherefore lift up the hands which hang down, and the feeble knees;
 Therefore strengthen your limp hands and weak knees.
 <small><sub>**Literal:**</sub></small>
 Therefore the drooped hands and the enfeebled knees do lift up,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.11|<< Hebrews 12:11]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.13|Hebrews 12:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:12** is...
+> $\quad$ alluding to: [[LXX.Isa.35.3|Isa 35:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

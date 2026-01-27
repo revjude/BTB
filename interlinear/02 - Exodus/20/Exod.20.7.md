@@ -5,6 +5,10 @@ Thou shalt not take the name of the LORD thy God in vain; for the LORD will not 
 You shall not take the name of the LORD your God in vain, for the LORD will not leave anyone unpunished who takes His name in vain.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.6|<< Exodus 20:6]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.8|Exodus 20:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 20:7** is...
+> $\quad$ referenced by: [[Matt.5.33|Matt 5:33]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

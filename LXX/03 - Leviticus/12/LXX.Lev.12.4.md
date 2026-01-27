@@ -6,6 +6,10 @@ And she shall then continue in the blood of her purifying three and thirty days;
 <small><sub>**BSB:**</sub></small>
 The woman shall continue in purification from her bleeding for thirty-three days. She must not touch anything sacred or go into the sanctuary until the days of her purification are complete.<small><sub>**MT:**</sub></small>
 [[Lev.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.3|<< Leviticus 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.5|Leviticus 12:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 12:4** is...
+> $\quad$ referenced by: [[Luke.2.21|Luke 2:21-22]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,11 @@ Hear another parable: There was a certain householder, which planted a vineyard,
 Listen to another parable: There was a landowner who planted a vineyard. He put a wall around it, dug a winepress in it, and built a tower. Then he rented it out to some tenants and went away on a journey.
 <small><sub>**Literal:**</sub></small>
 Another parable do hear: A man who there was a master of a house who planted a vineyard and a fence around it placed and he dug in it a winepress and he built a tower and he rented out it to farmers and he traveled abroad.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.32|<< Matthew 21:32]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.34|Matthew 21:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 21:33** is...
+> $\quad$ alluding to: [[LXX.Isa.5.1|Isa 5:1]]
+> $\quad$ referencing: [[LXX.Isa.5.2|Isa 5:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

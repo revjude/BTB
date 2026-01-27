@@ -5,6 +5,10 @@ How beautiful upon the mountains are the feet of him that bringeth good tidings,
 How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim salvation, who say to Zion, “Your God reigns!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.6|<< Isaiah 52:6]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.8|Isaiah 52:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 52:7** is...
+> $\quad$ referenced by: [[Rom.10.15|Rom 10:15]] ☩ [[Eph.6.15|Eph 6:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

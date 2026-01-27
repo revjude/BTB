@@ -5,6 +5,10 @@ Knowing that a man is not justified by the works of the law, but by the faith of
 know that a man is not justified by works of the law, but by faith in Jesus Christ. So we, too, have believed in Christ Jesus, that we may be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.
 <small><sub>**Literal:**</sub></small>
 knowing then that not is justified a man by works of law only except through faith from Jesus Christ even we ourselves in Christ Jesus believed, that we may be justified by faith from Christ and not by works of the Law; since by works of the Law not will be justified any flesh.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.15|<< Galatians 2:15]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.17|Galatians 2:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 2:16** is...
+> $\quad$ alluding to: [[LXX.Ps.143.2|Ps 143:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

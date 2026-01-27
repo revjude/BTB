@@ -5,6 +5,11 @@ Not as Cain, [who] was of that wicked one, and slew his brother. And wherefore s
 Do not be like Cain, who belonged to the evil one and murdered his brother. And why did Cain slay him? Because his own deeds were evil, while those of his brother were righteous.
 <small><sub>**Literal:**</sub></small>
 not even as Cain  [who] of the evil [one] was and he slew the brother of him; And because of what he slayed him? Because the works of him evil were, those however of the brother of him righteous.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.11|<< 1 John 3:11]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.13|1 John 3:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 John 3:12** is...
+> $\quad$ alluding to: [[LXX.Gen.4.8|Gen 4:8]] ☩ [[LXX.Num.16.1|Num 16:1]] ☩ [[LXX.Num.16.31|Num 16:31]]
+> $\quad$ possibly alluding to: [[LXX.Num.22.41|Num 22:41]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

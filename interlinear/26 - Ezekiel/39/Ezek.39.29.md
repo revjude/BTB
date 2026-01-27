@@ -5,6 +5,10 @@ Neither will I hide my face any more from them: for I have poured out my spirit 
 And I will no longer hide My face from them, for I will pour out My Spirit on the house of Israel, declares the Lord GOD.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.28|<< Ezekiel 39:28]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.1|Ezekiel 40:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 39:29** is...
+> $\quad$ referenced by: [[Joel.2.27|Joel 2:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

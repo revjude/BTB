@@ -5,6 +5,10 @@ For thou shalt heap coals of fire upon his head, and the LORD shall reward thee.
 For in so doing, you will heap burning coals on his head, and the LORD will reward you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.21|<< Proverbs 25:21]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.23|Proverbs 25:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 25:22** is...
+> $\quad$ referenced by: [[Rom.12.20|Rom 12:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

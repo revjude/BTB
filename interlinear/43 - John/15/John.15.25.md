@@ -5,6 +5,10 @@ But [this cometh to pass], that the word might be fulfilled that is written in t
 But this is to fulfill what is written in their Law: ‘They hated Me without reason.’
 <small><sub>**Literal:**</sub></small>
 But [this is] that may be fulfilled the word <the> in the law of them written that They hated Me without cause.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.24|<< John 15:24]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.26|John 15:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 15:25** is...
+> $\quad$ referencing: [[LXX.Ps.35.19|Ps 35:19]] ☩ [[LXX.Ps.69.4|Ps 69:4]] ☩ [[LXX.Ps.109.3|Ps 109:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

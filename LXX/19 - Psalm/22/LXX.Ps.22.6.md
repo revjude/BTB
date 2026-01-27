@@ -6,6 +6,10 @@ But I [am] a worm, and no man; a reproach of men, and despised of the people.
 <small><sub>**BSB:**</sub></small>
 But I am a worm and not a man, scorned by men and despised by the people.<small><sub>**MT:**</sub></small>
 [[Ps.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.5|<< Psalm 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.7|Psalm 22:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 22:6** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

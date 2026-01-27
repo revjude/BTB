@@ -5,6 +5,10 @@ And turning the cities of Sodom and Gomorrha into ashes condemned [them] with an
 if He condemned the cities of Sodom and Gomorrah to destruction, reducing them to ashes as an example of what is coming on the ungodly;
 <small><sub>**Literal:**</sub></small>
 and [the] cities of Sodom and Gomorrah having reduced to ashes to destruction He condemned [them] an example of what is coming on ungodly having set<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.5|<< 2 Peter 2:5]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.7|2 Peter 2:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 2:6** is...
+> $\quad$ alluding to: [[LXX.Gen.19.29|Gen 19:29]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

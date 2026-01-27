@@ -5,6 +5,10 @@ Who his own self bare our sins in his own body on the tree, that we, being dead 
 He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. “By His stripes you are healed.”
 <small><sub>**Literal:**</sub></small>
 Who the sins of us Himself bore in the body of Him on the tree so that <the> to sins having been dead <the> to righteousness we may live; Of whom by the wounds of him you have been healed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.23|<< 1 Peter 2:23]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.25|1 Peter 2:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 2:24** is...
+> $\quad$ referencing: [[LXX.Isa.53.4|Isa 53:4-5]] ☩ [[LXX.Isa.53.12|Isa 53:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

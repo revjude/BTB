@@ -6,6 +6,10 @@ And he humbled thee, and suffered thee to hunger, and fed thee with manna, which
 <small><sub>**BSB:**</sub></small>
 He humbled you, and in your hunger He gave you manna to eat, which neither you nor your fathers had known, so that you might understand that man does not live on bread alone, but on every word that comes from the mouth of the LORD.<small><sub>**MT:**</sub></small>
 [[Deut.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.2|<< Deuteronomy 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.4|Deuteronomy 8:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 8:3** is...
+> $\quad$ referenced by: [[Matt.4.4|Matt 4:4]] ☩ [[Luke.4.4|Luke 4:4]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

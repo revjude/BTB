@@ -5,6 +5,10 @@ Or, Who shall descend into the deep? (that is, to bring up Christ again from the
 or, ‘Who will descend into the Abyss?’ (that is, to bring Christ up from the dead).”
 <small><sub>**Literal:**</sub></small>
 or Who will descend into the abyss?’ That is Christ out from [the] dead to bring up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.6|<< Romans 10:6]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.8|Romans 10:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:7** is...
+> $\quad$ referencing: [[LXX.Deut.30.13|Deut 30:13]] ☩ [[LXX.Ps.107.26|Ps 107:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

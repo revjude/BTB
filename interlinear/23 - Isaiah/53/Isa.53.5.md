@@ -5,6 +5,10 @@ But he [was] wounded for our transgressions, [he was] bruised for our iniquities
 But He was pierced for our transgressions, He was crushed for our iniquities; the punishment that brought us peace was upon Him, and by His stripes we are healed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.4|<< Isaiah 53:4]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.6|Isaiah 53:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 53:5** is...
+> $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[1Pet.2.24|1Pet 2:24]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

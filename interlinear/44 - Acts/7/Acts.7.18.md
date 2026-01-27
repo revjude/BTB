@@ -5,6 +5,10 @@ Till another king arose, which knew not Joseph.
 Then another king, who knew nothing of Joseph, arose over Egypt.
 <small><sub>**Literal:**</sub></small>
 until that there arose king another over Egypt who not knew <the> Joseph.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.17|<< Acts 7:17]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.19|Acts 7:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:18** is...
+> $\quad$ referencing: [[LXX.Exod.1.8|Exod 1:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

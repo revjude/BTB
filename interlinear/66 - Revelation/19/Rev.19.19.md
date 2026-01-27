@@ -5,6 +5,10 @@ And I saw the beast, and the kings of the earth, and their armies, gathered toge
 Then I saw the beast and the kings of the earth with their armies assembled to wage war against the One seated on the horse, and against His army.
 <small><sub>**Literal:**</sub></small>
 And I saw the beast and the kings of the earth and the armies of them gathered together to make <the> war with the [One] sitting on the horse and with the army of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.18|<< Revelation 19:18]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.20|Revelation 19:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:19** is...
+> $\quad$ alluding to: [[LXX.Ps.2.2|Ps 2:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

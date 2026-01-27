@@ -5,6 +5,10 @@ Depart ye, depart ye, go ye out from thence, touch no unclean [thing]; go ye out
 Depart, depart, go out from there! Touch no unclean thing; come out from it, purify yourselves, you who carry the vessels of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.10|<< Isaiah 52:10]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.12|Isaiah 52:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 52:11** is...
+> $\quad$ referenced by: [[Rev.18.4|Rev 18:4]] ☩ [[2Cor.6.16|2Cor 6:16-18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

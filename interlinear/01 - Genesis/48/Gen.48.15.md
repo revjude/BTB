@@ -5,6 +5,10 @@ And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac d
 Then he blessed Joseph and said: “May the God before whom my fathers Abraham and Isaac walked, the God who has been my shepherd all my life to this day,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.14|<< Genesis 48:14]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.16|Genesis 48:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 48:15** is...
+> $\quad$ referenced by: [[Heb.11.21|Heb 11:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

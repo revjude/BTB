@@ -5,6 +5,10 @@ Who hath prevented me, that I should repay [him? whatsoever is] under the whole 
 Who has given to Me that I should repay him? Everything under heaven is Mine.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.10|<< Job 41:10]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.12|Job 41:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Job 41:11** is...
+> $\quad$ referenced by: [[Rom.11.35|Rom 11:35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

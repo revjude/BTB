@@ -5,6 +5,10 @@ But I say unto you, Swear not at all; neither by heaven; for it is God’s thron
 But I tell you not to swear at all: either by heaven, for it is God’s throne;
 <small><sub>**Literal:**</sub></small>
 I myself however say to you not to swear at all, neither [swear] by <the> heaven because [the] throne it is <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.33|<< Matthew 5:33]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.35|Matthew 5:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 5:34** is...
+> $\quad$ referencing: [[LXX.Isa.66.1|Isa 66:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

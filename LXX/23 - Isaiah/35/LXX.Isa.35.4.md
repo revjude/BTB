@@ -6,6 +6,10 @@ Say to them [that are] of a fearful heart, Be strong, fear not: behold, your God
 <small><sub>**BSB:**</sub></small>
 Say to those with anxious hearts: “Be strong, do not fear! Behold, your God will come with vengeance. With divine retribution He will come to save you.”<small><sub>**MT:**</sub></small>
 [[Isa.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.3|<< Isaiah 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.5|Isaiah 35:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 35:4** is...
+> $\quad$ referenced by: [[John.12.15|John 12:15]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

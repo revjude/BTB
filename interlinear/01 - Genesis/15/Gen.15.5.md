@@ -5,6 +5,10 @@ And he brought him forth abroad, and said, Look now toward heaven, and tell the 
 And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.4|<< Genesis 15:4]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.6|Genesis 15:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 15:5** is...
+> $\quad$ referenced by: [[Rom.4.18|Rom 4:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

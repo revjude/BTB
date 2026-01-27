@@ -5,6 +5,10 @@ And the heaven departed as a scroll when it is rolled together; and every mounta
 The sky receded like a scroll being rolled up, and every mountain and island was moved from its place.
 <small><sub>**Literal:**</sub></small>
 And <the> heaven departed like a scroll being rolled up, and every mountain and island out of the places of them were moved,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.13|<< Revelation 6:13]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.15|Revelation 6:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 6:14** is...
+> $\quad$ alluding to: [[LXX.Ps.102.26|Ps 102:26]] ☩ [[LXX.Isa.34.4|Isa 34:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

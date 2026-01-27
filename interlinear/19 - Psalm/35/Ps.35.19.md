@@ -5,6 +5,10 @@ Let not them that are mine enemies wrongfully rejoice over me: [neither] let the
 Let not my enemies gloat over me without cause, nor those who hate me without reason wink in malice.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.18|<< Psalms 35:18]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.20|Psalms 35:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 35:19** is...
+> $\quad$ referenced by: [[John.15.25|John 15:25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

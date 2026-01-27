@@ -5,6 +5,10 @@ And Jeremiah said, The word of the LORD came unto me, saying,
 Jeremiah replied, “The word of the LORD came to me, saying:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.5|<< Jeremiah 32:5]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.7|Jeremiah 32:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 32:6** is...
+> $\quad$ referenced by: [[Matt.27.9|Matt 27:9-10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

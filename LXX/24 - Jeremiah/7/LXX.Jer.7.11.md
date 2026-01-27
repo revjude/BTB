@@ -6,6 +6,10 @@ Is this house, which is called by my name, become a den of robbers in your eyes?
 <small><sub>**BSB:**</sub></small>
 Has this house, which bears My Name, become a den of robbers in your sight? Yes, I too have seen it, declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.10|<< Jeremiah 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.12|Jeremiah 7:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 7:11** is...
+> $\quad$ referenced by: [[Matt.21.13|Matt 21:13]] ☩ [[Mark.11.17|Mark 11:17]] ☩ [[Luke.19.46|Luke 19:46]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

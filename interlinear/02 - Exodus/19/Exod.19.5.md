@@ -5,6 +5,10 @@ Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye sh
 Now if you will indeed obey My voice and keep My covenant, you will be My treasured possession out of all the nations—for the whole earth is Mine.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.4|<< Exodus 19:4]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.6|Exodus 19:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 19:5** is...
+> $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

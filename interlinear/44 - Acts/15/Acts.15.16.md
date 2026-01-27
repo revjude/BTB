@@ -5,6 +5,10 @@ After this I will return, and will build again the tabernacle of David, which is
 ‘After this I will return and rebuild the fallen tent of David. Its ruins I will rebuild, and I will restore it,
 <small><sub>**Literal:**</sub></small>
 After these things I will return and will rebuild the tabernacle of David which having fallen and the ruined of it I will rebuild and I will set upright it;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.15|<< Acts 15:15]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.17|Acts 15:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 15:16** is...
+> $\quad$ referencing: [[LXX.Jer.12.15|Jer 12:15]] ☩ [[LXX.Amos.9.11|Amos 9:11-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

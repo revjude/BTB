@@ -5,6 +5,10 @@ And at that time shall Michael stand up, the great prince which standeth for the
 “At that time Michael, the great prince who stands watch over your people, will rise up. There will be a time of distress, the likes of which will not have occurred from the beginning of nations until that time. But at that time your people—everyone whose name is found written in the book—will be delivered.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.45|<< Daniel 11:45]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.2|Daniel 12:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 12:1** is...
+> $\quad$ referenced by: [[Rev.12.7|Rev 12:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

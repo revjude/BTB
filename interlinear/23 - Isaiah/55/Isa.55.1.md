@@ -5,6 +5,10 @@ Ho, every one that thirsteth, come ye to the waters, and he that hath no money; 
 “Come, all you who are thirsty, come to the waters; and you without money, come, buy, and eat! Come, buy wine and milk without money and without cost!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.17|<< Isaiah 54:17]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.2|Isaiah 55:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 55:1** is...
+> $\quad$ referenced by: [[John.7.38|John 7:38]] ☩ [[Rev.21.6|Rev 21:6]] ☩ [[Rev.22.17|Rev 22:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

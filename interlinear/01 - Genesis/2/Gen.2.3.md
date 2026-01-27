@@ -5,6 +5,10 @@ And God blessed the seventh day, and sanctified it: because that in it he had re
 Then God blessed the seventh day and sanctified it, because on that day He rested from all the work of creation that He had accomplished.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.2|<< Genesis 2:2]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.4|Genesis 2:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 2:3** is...
+> $\quad$ referenced by: [[Heb.4.4|Heb 4:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ But the righteousness which is of faith speaketh on this wise, Say not in thine 
 But the righteousness that is by faith says: “Do not say in your heart, ‘Who will ascend into heaven?’ (that is, to bring Christ down)
 <small><sub>**Literal:**</sub></small>
 The however of faith righteousness thus speaks: Not you may say in the heart of you; Who will ascend into <the> heaven?’ That is Christ to bring down;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.5|<< Romans 10:5]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.7|Romans 10:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:6** is...
+> $\quad$ referencing: [[LXX.Deut.9.4|Deut 9:4]] ☩ [[LXX.Deut.30.12|Deut 30:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

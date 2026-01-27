@@ -5,6 +5,10 @@ After this I beheld, and lo another, like a leopard, which had upon the back of 
 Next, as I watched, suddenly another beast appeared. It was like a leopard, and on its back it had four wings like those of a bird. The beast also had four heads, and it was given authority to rule.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.5|<< Daniel 7:5]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.7|Daniel 7:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 7:6** is...
+> $\quad$ referenced by: [[Rev.13.2|Rev 13:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ He hath blinded their eyes, and hardened their heart; that they should not see w
 “He has blinded their eyes and hardened their hearts, so that they cannot see with their eyes, and understand with their hearts, and turn, and I would heal them.”
 <small><sub>**Literal:**</sub></small>
 He has blinded of them the eyes and has hardened of them the heart, that not they may see with the eyes and may understand with the heart and may turn and I will heal them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.39|<< John 12:39]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.41|John 12:41 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 12:40** is...
+> $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

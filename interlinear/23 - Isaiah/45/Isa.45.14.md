@@ -5,6 +5,10 @@ Thus saith the LORD, The labour of Egypt, and merchandise of Ethiopia and of the
 This is what the LORD says: “The products of Egypt and the merchandise of Cush, along with the Sabeans, men of stature, will come over to you and will be yours; they will trudge behind you; they will come over in chains and bow down to you. They will confess to you: ‘God is indeed with you, and there is no other; there is no other God.’”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.13|<< Isaiah 45:13]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.15|Isaiah 45:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 45:14** is...
+> $\quad$ referenced by: [[1Cor.14.25|1Cor 14:25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

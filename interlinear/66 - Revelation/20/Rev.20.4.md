@@ -5,6 +5,10 @@ And I saw thrones, and they sat upon them, and judgment was given unto them: and
 Then I saw the thrones, and those seated on them had been given authority to judge. And I saw the souls of those who had been beheaded for their testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or hands. And they came to life and reigned with Christ for a thousand years.
 <small><sub>**Literal:**</sub></small>
 And I saw thrones, and they sat upon them and judgment was given to them, and the souls of those beheaded because of the testimony of Jesus and because of the word <the> of God, and those who not did worship the beast nor the image of him and not did take the mark upon the forehead of them and upon the hand of them, And they lived and they reigned with <the> Christ the thousand years.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.3|<< Revelation 20:3]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.5|Revelation 20:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 20:4** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.9.22|Dan 9:22]] ☩ [[LXX.Dan.9.27|Dan 9:27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

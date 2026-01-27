@@ -6,6 +6,10 @@ Let all those that seek thee rejoice and be glad in thee: let such as love thy s
 <small><sub>**BSB:**</sub></small>
 May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “The LORD be magnified!”<small><sub>**MT:**</sub></small>
 [[Ps.40.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.15|<< Psalm 40:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.17|Psalm 40:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 40:16** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

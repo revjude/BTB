@@ -5,6 +5,10 @@ And he beheld them, and said, What is this then that is written, The stone which
 But Jesus looked directly at them and said, “Then what is the meaning of that which is written: ‘The stone the builders rejected has become the cornerstone’?
 <small><sub>**Literal:**</sub></small>
 <the> But having looked at them He said; What then is that written this: [The] stone which rejected those building, this has become into [the] head of [the] corner’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.16|<< Luke 20:16]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.18|Luke 20:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 20:17** is...
+> $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22-23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

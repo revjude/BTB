@@ -5,6 +5,10 @@ But thou, son of man, hear what I say unto thee; Be not thou rebellious like tha
 And you, son of man, listen to what I tell you. Do not be rebellious like that rebellious house. Open your mouth and eat what I give you.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.7|<< Ezekiel 2:7]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2.9|Ezekiel 2:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 2:8** is...
+> $\quad$ referenced by: [[Rev.10.8|Rev 10:8-11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

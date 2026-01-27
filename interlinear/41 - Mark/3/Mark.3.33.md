@@ -5,6 +5,10 @@ And he answered them, saying, Who is my mother, or my brethren?
 But Jesus replied, “Who are My mother and My brothers?”
 <small><sub>**Literal:**</sub></small>
 And answering them He says; Who are the mother of Mine and the brothers of Mine?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.32|<< Mark 3:32]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.34|Mark 3:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 3:33** is...
+> $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

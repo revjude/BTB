@@ -5,6 +5,10 @@ Behold ye among the heathen, and regard, and wonder marvellously: for [I] will w
 “Look at the nations and observe—be utterly astounded! For I am doing a work in your days that you would never believe even if someone told you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.4|<< Habakkuk 1:4]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.6|Habakkuk 1:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Habakkuk 1:5** is...
+> $\quad$ referenced by: [[Acts.13.41|Acts 13:41]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

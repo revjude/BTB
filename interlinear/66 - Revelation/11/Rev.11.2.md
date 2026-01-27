@@ -5,6 +5,10 @@ But the court which is without the temple leave out, and measure it not; for it 
 But exclude the courtyard outside the temple. Do not measure it, because it has been given over to the nations, and they will trample the holy city for 42 months.
 <small><sub>**Literal:**</sub></small>
 And the courtyard <the> outside the temple do leave outside, and not it may measure, because it has been given [up] to the nations; and the city <the> holy they will trample upon months forty and two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.1|<< Revelation 11:1]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.3|Revelation 11:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 11:2** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.7.25|Dan 7:25]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Stand therefore, having your loins girt about with truth, and having on the brea
 Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness arrayed,
 <small><sub>**Literal:**</sub></small>
 do stand therefore having girded the loins of you with truth and having put on the breastplate <the> of righteousness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.13|<< Ephesians 6:13]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.15|Ephesians 6:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 6:14** is...
+> $\quad$ alluding to: [[LXX.Isa.11.5|Isa 11:5]] ☩ [[LXX.Isa.59.17|Isa 59:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

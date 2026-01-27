@@ -5,6 +5,10 @@ And there was given me a reed like unto a rod: and the angel stood, saying, Rise
 Then I was given a measuring rod like a staff and was told, “Go and measure the temple of God and the altar, and count the number of worshipers there.
 <small><sub>**Literal:**</sub></small>
 And was given to me a measuring rod like as a staff saying; do rise and do measure the temple <the> of God and the altar, and those worshiping in it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.11|<< Revelation 10:11]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.2|Revelation 11:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 11:1** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.40.3|Ezek 40:3]] ☩ [[LXX.Ezek.40.47|Ezek 40:47]] ☩ [[LXX.Ezek.41.13|Ezek 41:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

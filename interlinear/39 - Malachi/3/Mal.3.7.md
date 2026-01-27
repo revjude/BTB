@@ -5,6 +5,10 @@ Even from the days of your fathers ye are gone away from mine ordinances, and ha
 Yet from the days of your fathers, you have turned away from My statutes and have not kept them. Return to Me, and I will return to you,” says the LORD of Hosts. “But you ask, ‘How can we return?’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.6|<< Malachi 3:6]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.8|Malachi 3:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Malachi 3:7** is...
+> $\quad$ referenced by: [[Luke.3.10|Luke 3:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For he shall be great in the sight of the Lord, and shall drink neither wine nor
 for he will be great in the sight of the Lord. He shall never take wine or strong drink, and he will be filled with the Holy Spirit even from his mother’s womb.
 <small><sub>**Literal:**</sub></small>
 He will be for great before the Lord, and wine and strong drink certainly not shall he drink, and [of the] Spirit Holy he will be filled even from [the] womb of [the] mother of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.14|<< Luke 1:14]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.16|Luke 1:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:15** is...
+> $\quad$ referencing: [[LXX.Lev.10.9|Lev 10:9]] ☩ [[LXX.Num.6.3|Num 6:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And she conceived again, and bare a daughter. And [God] said unto him, Call her 
 Gomer again conceived and gave birth to a daughter, and the LORD said to Hosea, “Name her Lo-ruhamah, for I will no longer have compassion on the house of Israel, that I should ever forgive them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.5|<< Hosea 1:5]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1.7|Hosea 1:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 1:6** is...
+> $\quad$ referenced by: [[1Pet.2.10|1Pet 2:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

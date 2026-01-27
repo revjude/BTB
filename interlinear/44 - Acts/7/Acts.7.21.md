@@ -5,6 +5,10 @@ And when he was cast out, Pharaoh’s daughter took him up, and nourished him fo
 When he was set outside, Pharaoh’s daughter took him and brought him up as her own son.
 <small><sub>**Literal:**</sub></small>
 When was being exposed then he took up him the daughter of Pharaoh and brought up him for herself for a son.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.20|<< Acts 7:20]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.22|Acts 7:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:21** is...
+> $\quad$ alluding to: [[LXX.Exod.2.3|Exod 2:3-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

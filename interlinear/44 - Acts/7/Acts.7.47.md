@@ -5,6 +5,10 @@ But Solomon built him an house.
 But it was Solomon who built the house for Him.
 <small><sub>**Literal:**</sub></small>
 Solomon however built for Him [the] house.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.46|<< Acts 7:46]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.48|Acts 7:48 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:47** is...
+> $\quad$ alluding to: [[LXX.1Kgs.8.13|1Kgs 8:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And when he had taken him, and brought him to his mother, he sat on her knees ti
 After the servant had picked him up and carried him to his mother, the boy sat on her lap until noon, and then he died.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.19|<< 2 Kings 4:19]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.21|2 Kings 4:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Kings 4:20** is...
+> $\quad$ referenced by: [[Heb.11.35|Heb 11:35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

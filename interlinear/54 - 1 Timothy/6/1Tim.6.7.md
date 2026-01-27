@@ -5,6 +5,11 @@ For we brought nothing into [this] world, [and it is] certain we can carry nothi
 For we brought nothing into the world, so we cannot carry anything out of it.
 <small><sub>**Literal:**</sub></small>
 No [thing] for we brought into the world, evident because neither to carry out anything are we able;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.6|<< 1 Timothy 6:6]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.8|1 Timothy 6:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Timothy 6:7** is...
+> $\quad$ alluding to: [[LXX.Job.1.21|Job 1:21]] ☩ [[LXX.Eccl.5.14|Eccl 5:14]]
+> $\quad$ possibly alluding to: [[LXX.Ps.49.18|Ps 49:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

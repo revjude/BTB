@@ -5,6 +5,11 @@ Therefore being a prophet, and knowing that God had sworn with an oath to him, t
 But he was a prophet and knew that God had promised him on oath that He would place one of his descendants on his throne.
 <small><sub>**Literal:**</sub></small>
 A prophet therefore being and knowing that with an oath swore to him <the> God out of [the] fruit of the loins of him <the> according to flesh going to raise up the Christ to set upon the throne of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.29|<< Acts 2:29]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.31|Acts 2:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 2:30** is...
+> $\quad$ alluding to: [[LXX.2Sam.7.12|2Sam 7:12]]
+> $\quad$ referencing: [[LXX.Ps.89.3|Ps 89:3-4]] ☩ [[LXX.Ps.132.11|Ps 132:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ The voice said, Cry. And he said, What shall I cry? All flesh [is] grass, and al
 A voice says, “Cry out!” And I asked, “What should I cry out?” “All flesh is like grass, and all its glory like the flowers of the field.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.5|<< Isaiah 40:5]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.7|Isaiah 40:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 40:6** is...
+> $\quad$ referenced by: [[Jas.1.10|Jas 1:10-11]] ☩ [[1Pet.1.24|1Pet 1:24-25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

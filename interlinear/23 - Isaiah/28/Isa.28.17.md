@@ -5,6 +5,10 @@ Judgment also will I lay to the line, and righteousness to the plummet: and the 
 I will make justice the measuring line and righteousness the level. Hail will sweep away your refuge of lies, and water will flood your hiding place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.16|<< Isaiah 28:16]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.18|Isaiah 28:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 28:17** is...
+> $\quad$ related to: [[Rom.8.22|Rom 8:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

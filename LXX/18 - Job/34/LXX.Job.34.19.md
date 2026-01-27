@@ -6,6 +6,10 @@ who was not feeling of respect for \[the\] person of honor, nor knows to appoint
 <small><sub>**BSB:**</sub></small>
 who is not partial to princes and does not favor rich over poor? For they are all the work of His hands.<small><sub>**MT:**</sub></small>
 [[Job.34.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.18|<< Job 34:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.20|Job 34:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Job 34:19** is...
+> $\quad$ referenced by: [[Acts.10.34|Acts 10:34]] ☩ [[Rom.2.11|Rom 2:11]] ☩ [[Eph.6.9|Eph 6:9]] ☩ [[Col.3.25|Col 3:25]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And the angel took the censer, and filled it with fire of the altar, and cast [i
 Then the angel took the censer, filled it with fire from the altar, and hurled it to the earth; and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.
 <small><sub>**Literal:**</sub></small>
 And has taken the angel the censer and filled it from the fire of the altar and cast [it] to the earth. and there were thunders and sounds and flashes of lightning and an earthquake.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.4|<< Revelation 8:4]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.6|Revelation 8:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 8:5** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.10.2|Ezek 10:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

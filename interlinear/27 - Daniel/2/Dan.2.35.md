@@ -5,6 +5,10 @@ Then was the iron, the clay, the brass, the silver, and the gold, broken to piec
 Then the iron, clay, bronze, silver, and gold were shattered and became like chaff on the threshing floor in summer. The wind carried them away, and not a trace of them could be found. But the stone that had struck the statue became a great mountain and filled the whole earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.34|<< Daniel 2:34]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.36|Daniel 2:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 2:35** is...
+> $\quad$ referenced by: [[Matt.21.44|Matt 21:44]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

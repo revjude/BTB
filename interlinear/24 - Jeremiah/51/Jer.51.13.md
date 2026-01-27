@@ -5,6 +5,10 @@ O thou that dwellest upon many waters, abundant in treasures, thine end is come,
 You who dwell by many waters, rich in treasures, your end has come; the thread of your life is cut.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.12|<< Jeremiah 51:12]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.14|Jeremiah 51:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 51:13** is...
+> $\quad$ referenced by: [[Rev.17.1|Rev 17:1]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

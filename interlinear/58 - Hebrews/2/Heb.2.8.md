@@ -5,6 +5,10 @@ Thou hast put all things in subjection under his feet. For in that he put all in
 and placed everything under his feet.” When God subjected all things to him, He left nothing outside of his control. Yet at present we do not see everything subject to him.
 <small><sub>**Literal:**</sub></small>
 all things You have put in subjection under the feet of him. In <the> for subjecting to him <the> all things no [thing] He left to him unsubject; At present however not yet do we see to Him <the> all things subjected.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.7|<< Hebrews 2:7]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.9|Hebrews 2:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 2:8** is...
+> $\quad$ referencing: [[LXX.Ps.8.4|Ps 8:4-6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

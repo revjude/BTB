@@ -5,6 +5,10 @@ And he said unto him, Thou hast answered right: this do, and thou shalt live.
 “You have answered correctly,” Jesus said. “Do this and you will live.”
 <small><sub>**Literal:**</sub></small>
 He said then to him; Correctly you have answered; This do perform and you will live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.27|<< Luke 10:27]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.29|Luke 10:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 10:28** is...
+> $\quad$ alluding to: [[LXX.Lev.18.5|Lev 18:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

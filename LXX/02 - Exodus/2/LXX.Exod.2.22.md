@@ -6,6 +6,10 @@ And she bare [him] a son, and he called his name Gershom: for he said, I have be
 <small><sub>**BSB:**</sub></small>
 And she gave birth to a son, and Moses named him Gershom, saying, “I have become a foreigner in a foreign land.”<small><sub>**MT:**</sub></small>
 [[Exod.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.21|<< Exodus 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.23|Exodus 2:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:22** is...
+> $\quad$ referenced by: [[Acts.7.6|Acts 7:6]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -6,6 +6,10 @@ Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour
 <small><sub>**BSB:**</sub></small>
 You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, or his manservant or maidservant, or his ox or donkey, or anything that belongs to your neighbor.”<small><sub>**MT:**</sub></small>
 [[Exod.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.16|<< Exodus 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.18|Exodus 20:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 20:17** is...
+> $\quad$ referenced by: [[Rom.7.7|Rom 7:7]] ☩ [[Rom.13.9|Rom 13:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

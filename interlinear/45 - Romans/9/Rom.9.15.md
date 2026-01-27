@@ -5,6 +5,10 @@ For he saith to Moses, I will have mercy on whom I will have mercy, and I will h
 For He says to Moses: “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”
 <small><sub>**Literal:**</sub></small>
 <the> To Moses for He says: I will show mercy to whom maybe I may show mercy and I will have compassion on whom maybe I may have compassion.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.14|<< Romans 9:14]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.16|Romans 9:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:15** is...
+> $\quad$ referencing: [[LXX.Exod.33.19|Exod 33:19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Now there came a dearth over all the land of Egypt and Chanaan, and great afflic
 Then famine and great suffering swept across Egypt and Canaan, and our fathers could not find food.
 <small><sub>**Literal:**</sub></small>
 Came then a famine upon all the land of Egypt and Canaan and affliction great and not were finding sustenance the fathers of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.10|<< Acts 7:10]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.12|Acts 7:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:11** is...
+> $\quad$ alluding to: [[LXX.Gen.41.54|Gen 41:54]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

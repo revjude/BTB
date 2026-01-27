@@ -6,6 +6,10 @@ Speak unto all the congregation of the children of Israel, and say unto them, Ye
 <small><sub>**BSB:**</sub></small>
 “Speak to the whole congregation of Israel and tell them: Be holy because I, the LORD your God, am holy.<small><sub>**MT:**</sub></small>
 [[Lev.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.1|<< Leviticus 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.3|Leviticus 19:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 19:2** is...
+> $\quad$ referenced by: [[1Pet.1.16|1Pet 1:16]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

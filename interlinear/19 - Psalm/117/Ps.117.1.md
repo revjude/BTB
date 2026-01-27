@@ -5,6 +5,10 @@ O praise the LORD, all ye nations: praise him, all ye people.
 Praise the LORD, all you nations! Extol Him, all you peoples!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.117.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.19|<< Psalms 116:19]]</td><td align="center" style="border:none;">[[Ps.117|Psalms 117]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.117.2|Psalms 117:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 117:1** is...
+> $\quad$ referenced by: [[Rom.15.11|Rom 15:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ So Christ was once offered to bear the sins of many; and unto them that look for
 so also Christ was offered once to bear the sins of many; and He will appear a second time, not to bear sin, but to bring salvation to those who eagerly await Him.
 <small><sub>**Literal:**</sub></small>
 so also <the> Christ once having been offered in order <the> of many to bear [the] sins for a second time apart from sin will appear to those Him awaiting for salvation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.27|<< Hebrews 9:27]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.1|Hebrews 10:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 9:28** is...
+> $\quad$ referencing: [[LXX.Isa.53.12|Isa 53:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

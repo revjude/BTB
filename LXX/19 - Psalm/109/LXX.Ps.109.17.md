@@ -6,6 +6,10 @@ As he loved cursing, so let it come unto him: as he delighted not in blessing, s
 <small><sub>**BSB:**</sub></small>
 The cursing that he loved, may it fall on him; the blessing in which he refused to delight, may it be far from him.<small><sub>**MT:**</sub></small>
 [[Ps.109.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.16|<< Psalm 109:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.18|Psalm 109:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 109:17** is...
+> $\quad$ referenced by: [[John.17.12|John 17:12]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

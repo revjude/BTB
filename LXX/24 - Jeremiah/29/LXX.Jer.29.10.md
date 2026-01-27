@@ -6,6 +6,10 @@ For thus saith the LORD, That after seventy years be accomplished at Babylon I w
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: “When Babylon’s seventy years are complete, I will attend to you and confirm My promise to restore you to this place.<small><sub>**MT:**</sub></small>
 [[Jer.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.9|<< Jeremiah 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.11|Jeremiah 29:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 29:10** is...
+> $\quad$ referenced by: [[LXX.Dan.9.2|Dan 9:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

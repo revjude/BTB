@@ -5,6 +5,10 @@ Which have forsaken the right way, and are gone astray, following the way of Bal
 They have left the straight way and wandered off to follow the way of Balaam son of Beor, who loved the wages of wickedness.
 <small><sub>**Literal:**</sub></small>
 leaving the straight way they have gone astray, having followed in the way <the> of Balaam <the> [son] of Bosor, who [the] wage of unrighteousness loved,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.14|<< 2 Peter 2:14]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.16|2 Peter 2:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 2:15** is...
+> $\quad$ alluding to: [[LXX.Num.22.28|Num 22:28]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

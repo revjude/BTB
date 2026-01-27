@@ -6,6 +6,10 @@ All we like sheep have gone astray; we have turned every one to his own way; and
 <small><sub>**BSB:**</sub></small>
 We all like sheep have gone astray, each one has turned to his own way; and the LORD has laid upon Him the iniquity of us all.<small><sub>**MT:**</sub></small>
 [[Isa.53.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.5|<< Isaiah 53:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.7|Isaiah 53:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 53:6** is...
+> $\quad$ referenced by: [[1Pet.2.25|1Pet 2:25]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

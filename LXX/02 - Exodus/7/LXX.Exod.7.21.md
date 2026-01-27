@@ -6,6 +6,10 @@ And the fish that [was] in the river died; and the river stank, and the Egyptian
 <small><sub>**BSB:**</sub></small>
 The fish in the Nile died, and the river smelled so bad that the Egyptians could not drink its water. And there was blood throughout the land of Egypt.<small><sub>**MT:**</sub></small>
 [[Exod.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.20|<< Exodus 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.22|Exodus 7:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 7:21** is...
+> $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]] ☩ [[Rev.16.6|Rev 16:6]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

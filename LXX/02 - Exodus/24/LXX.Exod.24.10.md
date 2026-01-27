@@ -6,6 +6,10 @@ And they saw the God of Israel: and [there was] under his feet as it were a pave
 <small><sub>**BSB:**</sub></small>
 and they saw the God of Israel. Under His feet was a work like a pavement made of sapphire, as clear as the sky itself.<small><sub>**MT:**</sub></small>
 [[Exod.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.9|<< Exodus 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.11|Exodus 24:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 24:10** is...
+> $\quad$ referenced by: [[Rev.4.6|Rev 4:6]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

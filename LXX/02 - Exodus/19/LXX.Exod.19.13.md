@@ -6,6 +6,10 @@ There shall not an hand touch it, but he shall surely be stoned, or shot through
 <small><sub>**BSB:**</sub></small>
 No hand shall touch him, but he shall surely be stoned or shot with arrows—whether man or beast, he must not live.’ Only when the ram’s horn sounds a long blast may they approach the mountain.”<small><sub>**MT:**</sub></small>
 [[Exod.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.12|<< Exodus 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.14|Exodus 19:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 19:13** is...
+> $\quad$ referenced by: [[Heb.12.20|Heb 12:20]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

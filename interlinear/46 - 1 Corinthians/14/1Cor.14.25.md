@@ -5,6 +5,10 @@ And thus are the secrets of his heart made manifest; and so falling down on [his
 and the secrets of his heart will be made known. So he will fall facedown and worship God, proclaiming, “God is truly among you!”
 <small><sub>**Literal:**</sub></small>
 and thus the secrets of the heart of him manifest become, And thus having fallen upon [his] face he will worship <the> God declaring that certainly <the> God among you is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.24|<< 1 Corinthians 14:24]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.26|1 Corinthians 14:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 14:25** is...
+> $\quad$ referencing: [[LXX.Isa.45.14|Isa 45:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

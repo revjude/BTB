@@ -5,6 +5,10 @@ And the merchants of the earth shall weep and mourn over her; for no man buyeth 
 And the merchants of the earth will weep and mourn over her, because there is no one left to buy their cargo—
 <small><sub>**Literal:**</sub></small>
 And the merchants of the earth weep and they mourn for her, because the cargo of them no [one] buys no longer<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.10|<< Revelation 18:10]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.12|Revelation 18:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:11** is...
+> $\quad$ alluding to: [[LXX.Isa.23.8|Isa 23:8]] ☩ [[LXX.Ezek.27.3|Ezek 27:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

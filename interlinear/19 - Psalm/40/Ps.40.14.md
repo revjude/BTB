@@ -5,6 +5,10 @@ Let them be ashamed and confounded together that seek after my soul to destroy i
 May those who seek my life be ashamed and confounded; may those who wish me harm be repelled and humiliated.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.13|<< Psalms 40:13]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.15|Psalms 40:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 40:14** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

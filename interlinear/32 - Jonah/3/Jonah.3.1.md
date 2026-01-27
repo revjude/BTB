@@ -5,6 +5,10 @@ And the word of the LORD came unto Jonah the second time, saying,
 Then the word of the LORD came to Jonah a second time:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.10|<< Jonah 2:10]]</td><td align="center" style="border:none;">[[Jonah.3|Jonah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.3.2|Jonah 3:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jonah 3:1** is...
+> $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

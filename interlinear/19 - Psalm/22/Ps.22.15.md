@@ -5,6 +5,10 @@ My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and 
 My strength is dried up like a potsherd, and my tongue sticks to the roof of my mouth. You lay me in the dust of death.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.14|<< Psalms 22:14]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.16|Psalms 22:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 22:15** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Elias was a man subject to like passions as we are, and he prayed earnestly that
 Elijah was a man just like us. He prayed earnestly that it would not rain, and it did not rain on the land for three and a half years.
 <small><sub>**Literal:**</sub></small>
 Elijah a man was of like nature to us and with fervent prayer he prayed [for it] <the> not to rain; and not it did rain upon the earth years three and months six;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.16|<< James 5:16]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.18|James 5:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 5:17** is...
+> $\quad$ alluding to: [[LXX.1Kgs.17.1|1Kgs 17:1]] ☩ [[LXX.1Kgs.18.41|1Kgs 18:41]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

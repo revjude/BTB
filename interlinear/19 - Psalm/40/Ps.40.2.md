@@ -5,6 +5,10 @@ He brought me up also out of an horrible pit, out of the miry clay, and set my f
 He lifted me up from the pit of despair, out of the miry clay; He set my feet upon a rock, and made my footsteps firm.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.1|<< Psalms 40:1]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.3|Psalms 40:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 40:2** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

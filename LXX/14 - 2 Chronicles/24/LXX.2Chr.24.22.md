@@ -6,6 +6,10 @@ Thus Joash the king remembered not the kindness which Jehoiada his father had do
 <small><sub>**BSB:**</sub></small>
 Thus King Joash failed to remember the kindness that Zechariah’s father Jehoiada had extended to him. Instead, Joash killed Jehoiada’s son. As he lay dying, Zechariah said, “May the LORD see this and call you to account.”<small><sub>**MT:**</sub></small>
 [[2Chr.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.21|<< 2 Chronicles 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.23|2 Chronicles 24:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Chronicles 24:22** is...
+> $\quad$ referenced by: [[Matt.23.35|Matt 23:35]] ☩ [[Luke.11.51|Luke 11:51]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

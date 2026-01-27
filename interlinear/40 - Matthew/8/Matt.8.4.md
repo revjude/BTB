@@ -5,6 +5,10 @@ And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to 
 Then Jesus instructed him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift prescribed by Moses, as a testimony to them.”
 <small><sub>**Literal:**</sub></small>
 And says to him <the> Jesus; do see that to no one may you tell, But do go yourself do show to the priest and do offer the gift that commanded Moses for a testimony to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.3|<< Matthew 8:3]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.5|Matthew 8:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 8:4** is...
+> $\quad$ referencing: [[LXX.Lev.14.2|Lev 14:2-3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

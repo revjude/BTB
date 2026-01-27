@@ -6,6 +6,10 @@ For every one that curseth his father or his mother shall be surely put to death
 <small><sub>**BSB:**</sub></small>
 If anyone curses his father or mother, he must be put to death. He has cursed his father or mother; his blood shall be upon him.<small><sub>**MT:**</sub></small>
 [[Lev.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.8|<< Leviticus 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.10|Leviticus 20:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 20:9** is...
+> $\quad$ referenced by: [[Matt.15.4|Matt 15:4]] ☩ [[Mark.7.10|Mark 7:10]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

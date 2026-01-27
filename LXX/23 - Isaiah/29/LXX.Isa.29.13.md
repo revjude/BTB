@@ -6,6 +6,10 @@ Wherefore the Lord said, Forasmuch as this people draw near [me] with their mout
 <small><sub>**BSB:**</sub></small>
 Therefore the Lord said: “These people draw near to Me with their mouths and honor Me with their lips, but their hearts are far from Me. Their worship of Me is but rules taught by men.<small><sub>**MT:**</sub></small>
 [[Isa.29.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.12|<< Isaiah 29:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.14|Isaiah 29:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 29:13** is...
+> $\quad$ referenced by: [[Matt.15.8|Matt 15:8-9]] ☩ [[Mark.7.6|Mark 7:6-7]] ☩ [[Col.2.22|Col 2:22]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

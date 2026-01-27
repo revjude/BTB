@@ -6,6 +6,10 @@ Tell ye, and bring [them] near; yea, let them take counsel together: who hath de
 <small><sub>**BSB:**</sub></small>
 Speak up and present your case—yes, let them take counsel together. Who foretold this long ago? Who announced it from ancient times? Was it not I, the LORD? There is no other God but Me, a righteous God and Savior; there is none but Me.<small><sub>**MT:**</sub></small>
 [[Isa.45.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.20|<< Isaiah 45:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.22|Isaiah 45:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 45:21** is...
+> $\quad$ referenced by: [[Mark.12.32|Mark 12:32]] ☩ [[Acts.15.18|Acts 15:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

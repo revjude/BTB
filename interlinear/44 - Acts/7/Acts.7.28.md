@@ -5,6 +5,10 @@ Wilt thou kill me, as thou diddest the Egyptian yesterday?
 Do you want to kill me as you killed the Egyptian yesterday?’
 <small><sub>**Literal:**</sub></small>
 Surely not to execute me you yourself desire [the] same way you executed yesterday the Egyptian?’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.27|<< Acts 7:27]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.29|Acts 7:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:28** is...
+> $\quad$ referencing: [[LXX.Exod.2.13|Exod 2:13-15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

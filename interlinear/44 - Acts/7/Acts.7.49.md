@@ -5,6 +5,10 @@ Heaven [is] my throne, and earth [is] my footstool: what house will ye build me?
 ‘Heaven is My throne and the earth is My footstool. What kind of house will you build for Me, says the Lord, or where will My place of repose be?
 <small><sub>**Literal:**</sub></small>
 <the> Heaven [is] to Me a throne, <the> and the earth a footstool of the feet of Mine; What kind of house will you build Me? says [the] Lord, or what [is] [the] place of the rest of Mine?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.48|<< Acts 7:48]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.50|Acts 7:50 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:49** is...
+> $\quad$ referencing: [[LXX.Isa.66.1|Isa 66:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

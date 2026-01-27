@@ -5,6 +5,10 @@ And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the 
 Enoch, the seventh from Adam, also prophesied about them: “Behold, the Lord is coming with myriads of His holy ones
 <small><sub>**Literal:**</sub></small>
 He prophesied then also to these [the] seventh from Adam Enoch saying: Behold has come [the] Lord amidst holy [ones] myriads of His<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.13|<< Jude 1:13]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.15|Jude 1:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jude 1:14** is...
+> $\quad$ alluding to: [[LXX.Gen.5.18|Gen 5:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

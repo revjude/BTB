@@ -6,6 +6,10 @@ I said in my haste, All men [are] liars.
 <small><sub>**BSB:**</sub></small>
 In my alarm I said, “All men are liars!”<small><sub>**MT:**</sub></small>
 [[Ps.116.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.10|<< Psalm 116:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.12|Psalm 116:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 116:11** is...
+> $\quad$ referenced by: [[Rom.3.4|Rom 3:4]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

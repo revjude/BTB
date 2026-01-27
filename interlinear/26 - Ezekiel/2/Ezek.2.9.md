@@ -5,6 +5,10 @@ And when I looked, behold, an hand [was] sent unto me; and, lo, a roll of a book
 Then I looked and saw a hand reaching out to me, and in it was a scroll,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.8|<< Ezekiel 2:8]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2.10|Ezekiel 2:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 2:9** is...
+> $\quad$ referenced by: [[Rev.10.2|Rev 10:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

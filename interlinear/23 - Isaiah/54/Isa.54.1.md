@@ -5,6 +5,10 @@ Sing, O barren, thou [that] didst not bear; break forth into singing, and cry al
 “Shout for joy, O barren woman, who bears no children; break forth in song and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband,” says the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.12|<< Isaiah 53:12]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.2|Isaiah 54:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 54:1** is...
+> $\quad$ referenced by: [[Luke.23.29|Luke 23:29]] ☩ [[Gal.4.27|Gal 4:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

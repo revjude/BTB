@@ -5,6 +5,10 @@ For verily he took not on [him the nature of] angels; but he took on [him] the s
 For surely it is not the angels He helps, but the descendants of Abraham.
 <small><sub>**Literal:**</sub></small>
 Not for surely somewhere [the] angels He helps, but [the] seed of Abraham He helps.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.15|<< Hebrews 2:15]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.17|Hebrews 2:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 2:16** is...
+> $\quad$ alluding to: [[LXX.Isa.41.8|Isa 41:8-9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

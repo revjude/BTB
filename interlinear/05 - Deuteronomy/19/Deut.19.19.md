@@ -5,6 +5,10 @@ Then shall ye do unto him, as he had thought to have done unto his brother: so s
 you must do to him as he intended to do to his brother. So you must purge the evil from among you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.18|<< Deuteronomy 19:18]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.20|Deuteronomy 19:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 19:19** is...
+> $\quad$ referenced by: [[1Cor.5.13|1Cor 5:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

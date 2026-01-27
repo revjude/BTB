@@ -5,6 +5,10 @@ My people, go ye out of the midst of her, and deliver ye every man his soul from
 Come out of her, My people! Save your lives, each of you, from the fierce anger of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.44|<< Jeremiah 51:44]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.46|Jeremiah 51:46 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 51:45** is...
+> $\quad$ referenced by: [[2Cor.6.17|2Cor 6:17]] ☩ [[Rev.18.4|Rev 18:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

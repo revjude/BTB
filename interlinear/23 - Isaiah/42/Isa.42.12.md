@@ -5,6 +5,10 @@ Let them give glory unto the LORD, and declare his praise in the islands.
 Let them give glory to the LORD and declare His praise in the islands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.11|<< Isaiah 42:11]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.13|Isaiah 42:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 42:12** is...
+> $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Thou wilt shew me the path of life: in thy presence [is] fulness of joy; at thy 
 You have made known to me the path of life; You will fill me with joy in Your presence, with eternal pleasures at Your right hand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.10|<< Psalms 16:10]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.0|Psalms 17:0 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 16:11** is...
+> $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[Acts.2.25|Acts 2:25-28]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

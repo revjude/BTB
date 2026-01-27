@@ -5,6 +5,10 @@ God hath fulfilled the same unto us their children, in that he hath raised up Je
 He has fulfilled for us, their children, by raising up Jesus. As it is written in the second Psalm: ‘You are My Son; today I have become Your Father.’
 <small><sub>**Literal:**</sub></small>
 that this <the> God has fulfilled to the children of them to us having raised up Jesus, as also in the psalm it has been written in the second Son of Mine are You yourself, I myself today have begotten you.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.32|<< Acts 13:32]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.34|Acts 13:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:33** is...
+> $\quad$ referencing: [[LXX.Ps.2.7|Ps 2:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

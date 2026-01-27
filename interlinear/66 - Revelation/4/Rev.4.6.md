@@ -5,6 +5,10 @@ And before the throne [there was] a sea of glass like unto crystal: and in the m
 And before the throne was something like a sea of glass, as clear as crystal. In the center, around the throne, were four living creatures, covered with eyes in front and back.
 <small><sub>**Literal:**</sub></small>
 And before the throne [was something] like a sea of glass, like as crystal, And in [the] midst of the throne and around the throne [were] four living creatures being full of eyes in front and behind.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.5|<< Revelation 4:5]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.7|Revelation 4:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 4:6** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.24.10|Exod 24:10]] ☩ [[LXX.Ezek.1.5|Ezek 1:5]] ☩ [[LXX.Ezek.1.22|Ezek 1:22]] ☩ [[LXX.Ezek.10.12|Ezek 10:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

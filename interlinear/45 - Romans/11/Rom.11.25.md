@@ -5,6 +5,10 @@ For I would not, brethren, that ye should be ignorant of this mystery, lest ye s
 I do not want you to be ignorant of this mystery, brothers, so that you will not be conceited: A hardening in part has come to Israel, until the full number of the Gentiles has come in.
 <small><sub>**Literal:**</sub></small>
 Not for I want you to be ignorant, brothers, of the mystery this, that not you may be beside yourselves wise, that a hardening in part <the> to Israel has happened until that the fullness of the Gentiles may come in,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.24|<< Romans 11:24]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.26|Romans 11:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 11:25** is...
+> $\quad$ referencing: [[LXX.Gen.17.4|Gen 17:4-5]] ☩ [[LXX.Gen.48.19|Gen 48:19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

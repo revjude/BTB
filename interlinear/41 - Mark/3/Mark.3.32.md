@@ -5,6 +5,10 @@ And the multitude sat about him, and they said unto him, Behold, thy mother and 
 and a crowd was sitting around Him. “Look,” He was told, “Your mother and brothers are outside, asking for You.”
 <small><sub>**Literal:**</sub></small>
 And was sitting around Him a crowd And they speak now to Him; Behold the mother of You and the brothers of You and the sisters of you outside are seeking You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.31|<< Mark 3:31]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.33|Mark 3:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 3:32** is...
+> $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

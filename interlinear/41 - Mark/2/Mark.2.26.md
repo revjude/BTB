@@ -5,6 +5,10 @@ How he went into the house of God in the days of Abiathar the high priest, and d
 During the high priesthood of Abiathar, he entered the house of God and ate the consecrated bread, which was lawful only for the priests. And he gave some to his companions as well.”
 <small><sub>**Literal:**</sub></small>
 How he entered into the house <the> of God in [the days of] Abiathar the high priest and the loaves of the presentation ate which not it is lawful to eat only except for the priests, And he gave even to those with him being?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.25|<< Mark 2:25]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.27|Mark 2:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 2:26** is...
+> $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

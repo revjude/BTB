@@ -6,6 +6,10 @@ And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call h
 <small><sub>**BSB:**</sub></small>
 But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him.<small><sub>**MT:**</sub></small>
 [[Gen.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.18|<< Genesis 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.20|Genesis 17:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 17:19** is...
+> $\quad$ referenced by: [[Luke.1.55|Luke 1:55]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

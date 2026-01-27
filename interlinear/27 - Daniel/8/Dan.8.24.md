@@ -5,6 +5,10 @@ And his power shall be mighty, but not by his own power: and he shall destroy wo
 His power will be great, but it will not be his own. He will cause terrible destruction and succeed in whatever he does. He will destroy the mighty men along with the holy people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.23|<< Daniel 8:23]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.25|Daniel 8:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 8:24** is...
+> $\quad$ referenced by: [[Rev.13.7|Rev 13:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

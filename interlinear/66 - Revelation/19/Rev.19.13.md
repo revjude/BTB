@@ -5,6 +5,10 @@ And he [was] clothed with a vesture dipped in blood: and his name is called The 
 He is dressed in a robe dipped in blood, and His name is The Word of God.
 <small><sub>**Literal:**</sub></small>
 and having clothed themselves with a garment dipped in blood, And has been called the name of Him The Word <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.12|<< Revelation 19:12]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.14|Revelation 19:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:13** is...
+> $\quad$ alluding to: [[LXX.Isa.63.1|Isa 63:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ But if the ministration of death, written [and] engraven in stones, was glorious
 Now if the ministry of death, which was engraved in letters on stone, came with such glory that the Israelites could not gaze at the face of Moses because of its fleeting glory,
 <small><sub>**Literal:**</sub></small>
 If now the ministry <the> of death in letters engraved in stones was produced in glory, so as for not to be able to look intently the sons of Israel into the face of Moses on account of the glory of the face of him which is fading,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.6|<< 2 Corinthians 3:6]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.8|2 Corinthians 3:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 3:7** is...
+> $\quad$ referencing: [[LXX.Exod.34.35|Exod 34:35]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

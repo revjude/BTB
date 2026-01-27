@@ -5,6 +5,10 @@ And one ran and filled a spunge full of vinegar, and put [it] on a reed, and gav
 And someone ran and filled a sponge with sour wine. He put it on a reed and held it up for Jesus to drink, saying, “Leave Him alone. Let us see if Elijah comes to take Him down.”
 <small><sub>**Literal:**</sub></small>
 Having run then someone and having filled a sponge with vinegar, having put both on a reed was giving to drink him saying; Wait! let us see if comes Elijah to take down him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.35|<< Mark 15:35]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.37|Mark 15:37 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 15:36** is...
+> $\quad$ referencing: [[LXX.Ps.69.21|Ps 69:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

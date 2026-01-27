@@ -5,6 +5,10 @@ And Adam was not deceived, but the woman being deceived was in the transgression
 And it was not Adam who was deceived, but the woman who was deceived and fell into transgression.
 <small><sub>**Literal:**</sub></small>
 And Adam not was deceived, <the> but the woman having been deceived into transgression has come;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.13|<< 1 Timothy 2:13]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.15|1 Timothy 2:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Timothy 2:14** is...
+> $\quad$ alluding to: [[LXX.Gen.3.6|Gen 3:6]] ☩ [[LXX.Gen.3.12|Gen 3:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

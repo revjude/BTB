@@ -5,6 +5,10 @@ Put not forth thyself in the presence of the king, and stand not in the place of
 Do not exalt yourself in the presence of the king, and do not stand in the place of great men;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.5|<< Proverbs 25:5]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.7|Proverbs 25:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 25:6** is...
+> $\quad$ referenced by: [[Luke.14.8|Luke 14:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

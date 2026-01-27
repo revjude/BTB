@@ -6,6 +6,10 @@ But if thou shalt indeed obey his voice, and do all that I speak; then I will be
 <small><sub>**BSB:**</sub></small>
 But if you will listen carefully to his voice and do everything I say, I will be an enemy to your enemies and a foe to your foes.<small><sub>**MT:**</sub></small>
 [[Exod.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.21|<< Exodus 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.23|Exodus 23:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 23:22** is...
+> $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

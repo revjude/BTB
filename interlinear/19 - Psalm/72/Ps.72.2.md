@@ -5,6 +5,10 @@ He shall judge thy people with righteousness, and thy poor with judgment.
 May he judge Your people with righteousness and Your afflicted with justice.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.1|<< Psalms 72:1]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.3|Psalms 72:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 72:2** is...
+> $\quad$ referenced by: [[Rev.19.11|Rev 19:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

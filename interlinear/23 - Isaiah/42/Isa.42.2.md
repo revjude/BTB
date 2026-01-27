@@ -5,6 +5,10 @@ He shall not cry, nor lift up, nor cause his voice to be heard in the street.
 He will not cry out or raise His voice, nor make His voice heard in the streets.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.1|<< Isaiah 42:1]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.3|Isaiah 42:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 42:2** is...
+> $\quad$ referenced by: [[Matt.12.18|Matt 12:18-21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Therefore shall a man leave his father and his mother, and shall cleave unto his
 For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.23|<< Genesis 2:23]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.25|Genesis 2:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 2:24** is...
+> $\quad$ referenced by: [[Matt.19.5|Matt 19:5]] ☩ [[Mark.10.7|Mark 10:7-8]] ☩ [[1Cor.6.16|1Cor 6:16]] ☩ [[1Cor.6.17|1Cor 6:17]] ☩ [[Eph.5.31|Eph 5:31]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

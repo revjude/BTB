@@ -5,6 +5,10 @@ Now is my soul troubled; and what shall I say? Father, save me from this hour: b
 Now My soul is troubled, and what shall I say? ‘Father, save Me from this hour’? No, it is for this purpose that I have come to this hour.
 <small><sub>**Literal:**</sub></small>
 Now the soul of Mine has been troubled, and what shall I say? Father, do save Me from <the> hour this.’? But on account of this I came to <the> hour this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.26|<< John 12:26]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.28|John 12:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 12:27** is...
+> $\quad$ referencing: [[LXX.Ps.6.3|Ps 6:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

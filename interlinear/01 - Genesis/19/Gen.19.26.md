@@ -5,6 +5,10 @@ But his wife looked back from behind him, and she became a pillar of salt.
 But Lot’s wife looked back, and she became a pillar of salt.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.25|<< Genesis 19:25]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.27|Genesis 19:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 19:26** is...
+> $\quad$ referenced by: [[Luke.17.32|Luke 17:32]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

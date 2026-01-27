@@ -5,6 +5,10 @@ And I John saw the holy city, new Jerusalem, coming down from God out of heaven,
 I saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.
 <small><sub>**Literal:**</sub></small>
 And I myself John the city <the> holy Jerusalem new I saw coming down out of <the> heaven from <the> God prepared as a bride adorned for the husband of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.1|<< Revelation 21:1]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.3|Revelation 21:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:2** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.40.1|Ezek 40:1]] ☩ [[LXX.Ezek.48.1|Ezek 48:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

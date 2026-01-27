@@ -5,6 +5,10 @@ And when I saw him, I fell at his feet as dead. And he laid his right hand upon 
 When I saw Him, I fell at His feet like a dead man. But He placed His right hand on me and said, “Do not be afraid. I am the First and the Last,
 <small><sub>**Literal:**</sub></small>
 And when I saw Him, I fell at the feet of Him as though dead, And He placed the right of Him hand upon me myself saying to me: Not do fear. I myself am the First and the Last<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.16|<< Revelation 1:16]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.18|Revelation 1:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 1:17** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.8.17|Dan 8:17]] ☩ [[LXX.Dan.10.8|Dan 10:8]] ☩ [[LXX.Isa.44.6|Isa 44:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

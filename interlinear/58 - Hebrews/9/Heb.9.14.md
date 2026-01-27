@@ -5,6 +5,10 @@ How much more shall the blood of Christ, who through the eternal Spirit offered 
 how much more will the blood of Christ, who through the eternal Spirit offered Himself unblemished to God, purify our consciences from works of death, so that we may serve the living God!
 <small><sub>**Literal:**</sub></small>
 how much more the blood <the> of Christ, who through [the] Spirit eternal Himself offered unblemished <the> to God, will purify the conscience of us from dead works in order <the> to serve God [the] living?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.13|<< Hebrews 9:13]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.15|Hebrews 9:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 9:14** is...
+> $\quad$ possibly alluding to: [[LXX.Num.14.36|Num 14:36]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ I will declare thy name unto my brethren: in the midst of the congregation will 
 I will proclaim Your name to my brothers; I will praise You in the assembly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.21|<< Psalms 22:21]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.23|Psalms 22:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 22:22** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[John.20.17|John 20:17]] ☩ [[Heb.2.12|Heb 2:12]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

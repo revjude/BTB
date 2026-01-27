@@ -6,6 +6,10 @@ The eyes of the LORD [are] upon the righteous, and his ears [are open] unto thei
 <small><sub>**BSB:**</sub></small>
 The eyes of the LORD are on the righteous, and His ears are inclined to their cry.<small><sub>**MT:**</sub></small>
 [[Ps.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.14|<< Psalm 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.16|Psalm 34:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 34:15** is...
+> $\quad$ referenced by: [[1Pet.3.10|1Pet 3:10-12]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

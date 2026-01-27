@@ -5,6 +5,10 @@ But it is happened unto them according to the true proverb, The dog [is] turned 
 Of them the proverbs are true: “A dog returns to its vomit,” and, “A sow that is washed goes back to her wallowing in the mud.”
 <small><sub>**Literal:**</sub></small>
 Has happened now to them the [thing] of the true proverb: A dog having returned to <the> [its] own vomit; and A sow having washed to [her] rolling place in [the] mire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.21|<< 2 Peter 2:21]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.1|2 Peter 3:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 2:22** is...
+> $\quad$ referencing: [[LXX.Prov.26.11|Prov 26:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

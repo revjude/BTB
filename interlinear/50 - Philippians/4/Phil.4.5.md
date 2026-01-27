@@ -5,6 +5,11 @@ Let your moderation be known unto all men. The Lord [is] at hand.
 Let your gentleness be apparent to all. The Lord is near.
 <small><sub>**Literal:**</sub></small>
 The gentleness of you should be known to all men. The Lord [is] near.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.4|<< Philippians 4:4]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.6|Philippians 4:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Philippians 4:5** is...
+> $\quad$ possibly alluding to: [[LXX.Ps.119.1|Ps 119:1]] ☩ [[LXX.Ps.141.1|Ps 141:1]]
+> $\quad$ alluding to: [[LXX.Ps.145.18|Ps 145:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

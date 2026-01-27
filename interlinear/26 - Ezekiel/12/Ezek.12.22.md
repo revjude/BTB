@@ -5,6 +5,10 @@ Son of man, what [is] that proverb [that] ye have in the land of Israel, saying,
 “Son of man, what is this proverb that you have in the land of Israel: ‘The days go by, and every vision fails’?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.21|<< Ezekiel 12:21]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.23|Ezekiel 12:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 12:22** is...
+> $\quad$ referenced by: [[2Pet.3.4|2Pet 3:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

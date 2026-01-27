@@ -5,6 +5,10 @@ And to the woman were given two wings of a great eagle, that she might fly into 
 But the woman was given two wings of a great eagle to fly from the presence of the serpent to her place in the wilderness, where she was nourished for a time, and times, and half a time.
 <small><sub>**Literal:**</sub></small>
 And were given to the woman the two wings of the eagle <the> great, so that she may fly into the wilderness into the place of her where she is nourished there a time and times and half a time from [the] face of the serpent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.13|<< Revelation 12:13]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.15|Revelation 12:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 12:14** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.7.25|Dan 7:25]] ☩ [[LXX.Dan.12.7|Dan 12:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

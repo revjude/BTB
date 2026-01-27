@@ -5,6 +5,11 @@ This is the stone which was set at nought of you builders, which is become the h
 This Jesus is ‘the stone you builders rejected, which has become the cornerstone.’
 <small><sub>**Literal:**</sub></small>
 This is the stone which having been rejected by you the builders, which has become into head of [the] corner.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.10|<< Acts 4:10]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.12|Acts 4:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 4:11** is...
+> $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22-23]]
+> $\quad$ alluding to: [[LXX.Isa.28.16|Isa 28:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

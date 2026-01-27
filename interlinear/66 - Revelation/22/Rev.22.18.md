@@ -5,6 +5,10 @@ For I testify unto every man that heareth the words of the prophecy of this book
 I testify to everyone who hears the words of prophecy in this book: If anyone adds to them, God will add to him the plagues described in this book.
 <small><sub>**Literal:**</sub></small>
 Testify I myself to everyone who is hearing the words of the prophecy of the book this: If anyone shall add to these things, will add <the> God unto him the plagues which written in <the> book this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.17|<< Revelation 22:17]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.19|Revelation 22:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 22:18** is...
+> $\quad$ alluding to: [[LXX.Deut.4.2|Deut 4:2]] ☩ [[LXX.Deut.12.32|Deut 12:32]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

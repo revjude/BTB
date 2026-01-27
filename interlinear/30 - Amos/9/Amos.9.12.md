@@ -5,6 +5,10 @@ That they may possess the remnant of Edom, and of all the heathen, which are cal
 that they may possess the remnant of Edom and all the nations that bear My name,” declares the LORD, who will do this.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.11|<< Amos 9:11]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.13|Amos 9:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Amos 9:12** is...
+> $\quad$ referenced by: [[Acts.15.16|Acts 15:16-17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

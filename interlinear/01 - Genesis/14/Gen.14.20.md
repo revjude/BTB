@@ -5,6 +5,10 @@ And blessed be the most high God, which hath delivered thine enemies into thy ha
 and blessed be God Most High, who has delivered your enemies into your hand.” Then Abram gave Melchizedek a tenth of everything.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.19|<< Genesis 14:19]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.21|Genesis 14:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 14:20** is...
+> $\quad$ referenced by: [[Heb.7.1|Heb 7:1-2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

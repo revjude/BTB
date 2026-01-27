@@ -5,6 +5,10 @@ Our fathers trusted in thee: they trusted, and thou didst deliver them.
 In You our fathers trusted; they trusted and You delivered them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.3|<< Psalms 22:3]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.5|Psalms 22:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 22:4** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

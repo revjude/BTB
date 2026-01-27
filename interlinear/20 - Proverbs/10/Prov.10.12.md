@@ -5,6 +5,10 @@ Hatred stirreth up strifes: but love covereth all sins.
 Hatred stirs up dissension, but love covers all transgressions.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.11|<< Proverbs 10:11]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.13|Proverbs 10:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 10:12** is...
+> $\quad$ referenced by: [[Jas.5.20|Jas 5:20]] ☩ [[1Pet.4.8|1Pet 4:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

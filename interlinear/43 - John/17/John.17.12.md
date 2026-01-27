@@ -5,6 +5,10 @@ While I was with them in the world, I kept them in thy name: those that thou gav
 While I was with them, I protected and preserved them by Your name, the name You gave Me. Not one of them has been lost, except the son of destruction, so that the Scripture would be fulfilled.
 <small><sub>**Literal:**</sub></small>
 When I was with them in <the> world I myself was keeping them in the name of You which [name] You have given to Me And I guarded [them], and none of them has perished only except the son <the> of destruction, that the Scripture may be fulfilled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.11|<< John 17:11]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.13|John 17:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 17:12** is...
+> $\quad$ alluding to: [[LXX.Ps.41.10|Ps 41:10]] ☩ [[LXX.Ps.109.8|Ps 109:8]] ☩ [[LXX.Ps.109.17|Ps 109:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

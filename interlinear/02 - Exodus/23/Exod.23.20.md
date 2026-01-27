@@ -5,6 +5,10 @@ Behold, I send an Angel before thee, to keep thee in the way, and to bring thee 
 Behold, I am sending an angel before you to protect you along the way and to bring you to the place I have prepared.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.19|<< Exodus 23:19]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.21|Exodus 23:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 23:20** is...
+> $\quad$ referenced by: [[Matt.11.10|Matt 11:10]] ☩ [[Mark.1.2|Mark 1:2]] ☩ [[Luke.7.27|Luke 7:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

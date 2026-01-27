@@ -5,6 +5,10 @@ Therefore with joy shall ye draw water out of the wells of salvation.
 With joy you will draw water from the springs of salvation,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.12.2|<< Isaiah 12:2]]</td><td align="center" style="border:none;">[[Isa.12|Isaiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.12.4|Isaiah 12:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 12:3** is...
+> $\quad$ referenced by: [[John.7.38|John 7:38]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

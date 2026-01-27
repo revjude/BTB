@@ -5,6 +5,10 @@ Heaven and earth shall pass away: but my words shall not pass away.
 Heaven and earth will pass away, but My words will never pass away.
 <small><sub>**Literal:**</sub></small>
 The heaven and the earth will pass away, <the> but the words of Mine certainly not will pass away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.30|<< Mark 13:30]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.32|Mark 13:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 13:31** is...
+> $\quad$ alluding to: [[LXX.Isa.40.8|Isa 40:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

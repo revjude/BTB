@@ -5,6 +5,10 @@ For the Lamb which is in the midst of the throne shall feed them, and shall lead
 For the Lamb in the center of the throne will be their shepherd. ‘He will lead them to springs of living water,’ and ‘God will wipe away every tear from their eyes.’”
 <small><sub>**Literal:**</sub></small>
 because the Lamb <the> in the center of the throne will shepherd them and He will lead them to of life fountains of waters, and will wipe away <the> God every tear from the eyes of them.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.16|<< Revelation 7:16]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.1|Revelation 8:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 7:17** is...
+> $\quad$ referencing: [[LXX.Isa.25.8|Isa 25:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

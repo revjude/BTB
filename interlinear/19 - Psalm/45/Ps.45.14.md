@@ -5,6 +5,10 @@ She shall be brought unto the king in raiment of needlework: the virgins her com
 In colorful garments she is led to the king; her virgin companions are brought before you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.13|<< Psalms 45:13]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.15|Psalms 45:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 45:14** is...
+> $\quad$ referenced by: [[Rev.19.8|Rev 19:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

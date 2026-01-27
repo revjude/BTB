@@ -6,6 +6,10 @@ And he said, I have been very jealous for the LORD God of hosts: for the childre
 <small><sub>**BSB:**</sub></small>
 “I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.”<small><sub>**MT:**</sub></small>
 [[1Kgs.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.9|<< 1 Kings 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.11|1 Kings 19:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 19:10** is...
+> $\quad$ referenced by: [[Rom.11.3|Rom 11:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

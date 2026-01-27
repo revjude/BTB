@@ -5,6 +5,10 @@ Confounded be all they that serve graven images, that boast themselves of idols:
 All worshipers of images are put to shame—those who boast in idols. Worship Him, all you gods!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.6|<< Psalms 97:6]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.8|Psalms 97:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 97:7** is...
+> $\quad$ referenced by: [[Heb.1.6|Heb 1:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

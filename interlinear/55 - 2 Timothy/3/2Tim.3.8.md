@@ -5,6 +5,10 @@ Now as Jannes and Jambres withstood Moses, so do these also resist the truth: me
 Just as Jannes and Jambres opposed Moses, so also these men oppose the truth. They are depraved in mind and disqualified from the faith.
 <small><sub>**Literal:**</sub></small>
 By which way now Jannes and Jambres opposed to Moses, so also these oppose to the truth, men depraved <the> in mind, disqualified regarding the faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.7|<< 2 Timothy 3:7]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.9|2 Timothy 3:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Timothy 3:8** is...
+> $\quad$ referencing: [[LXX.Exod.7.11|Exod 7:11-22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

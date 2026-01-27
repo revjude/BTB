@@ -5,6 +5,10 @@ Babylon [hath been] a golden cup in the LORD’S hand, that made all the earth d
 Babylon was a gold cup in the hand of the LORD, making the whole earth drunk. The nations drank her wine; therefore the nations have gone mad.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.6|<< Jeremiah 51:6]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.8|Jeremiah 51:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 51:7** is...
+> $\quad$ referenced by: [[Rev.17.2|Rev 17:2]] ☩ [[Rev.17.4|Rev 17:4]] ☩ [[Rev.18.3|Rev 18:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

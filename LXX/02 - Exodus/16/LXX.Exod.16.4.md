@@ -6,6 +6,10 @@ Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; an
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Behold, I will rain down bread from heaven for you. Each day the people are to go out and gather enough for that day. In this way I will test whether or not they will follow My instructions.<small><sub>**MT:**</sub></small>
 [[Exod.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.3|<< Exodus 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.5|Exodus 16:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 16:4** is...
+> $\quad$ referenced by: [[John.6.31|John 6:31]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

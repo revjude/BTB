@@ -5,6 +5,10 @@ After this I saw in the night visions, and behold a fourth beast, dreadful and t
 After this, as I watched in my vision in the night, suddenly a fourth beast appeared, and it was terrifying—dreadful and extremely strong—with large iron teeth. It devoured and crushed; then it trampled underfoot whatever was left. It was different from all the beasts before it, and it had ten horns.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.6|<< Daniel 7:6]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.8|Daniel 7:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 7:7** is...
+> $\quad$ referenced by: [[Rev.12.3|Rev 12:3]] ☩ [[Rev.13.1|Rev 13:1]] ☩ [[Rev.17.3|Rev 17:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

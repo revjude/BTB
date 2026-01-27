@@ -6,6 +6,10 @@ But the word [is] very nigh unto thee, in thy mouth, and in thy heart, that thou
 <small><sub>**BSB:**</sub></small>
 But the word is very near you; it is in your mouth and in your heart, so that you may obey it.<small><sub>**MT:**</sub></small>
 [[Deut.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.13|<< Deuteronomy 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.15|Deuteronomy 30:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 30:14** is...
+> $\quad$ referenced by: [[Rom.10.8|Rom 10:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

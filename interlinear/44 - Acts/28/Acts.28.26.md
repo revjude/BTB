@@ -5,6 +5,10 @@ Saying, Go unto this people, and say, Hearing ye shall hear, and shall not under
 ‘Go to this people and say, “You will be ever hearing but never understanding; you will be ever seeing but never perceiving.”
 <small><sub>**Literal:**</sub></small>
 he is saying: do go to <the> people this and do say; In hearing you will hear and certainly not may understand, and in looking you will look and certainly not may perceive;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.25|<< Acts 28:25]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.27|Acts 28:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 28:26** is...
+> $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

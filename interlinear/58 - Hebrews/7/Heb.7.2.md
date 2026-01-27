@@ -5,6 +5,10 @@ To whom also Abraham gave a tenth part of all; first being by interpretation Kin
 and Abraham apportioned to him a tenth of everything. First, his name means “king of righteousness.” Then also, “king of Salem” means “king of peace.”
 <small><sub>**Literal:**</sub></small>
 to whom also a tenth of all apportioned Abraham, first indeed being translated king of righteousness then however also king of Salem, which is king of peace,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.1|<< Hebrews 7:1]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.3|Hebrews 7:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 7:2** is...
+> $\quad$ referencing: [[LXX.Gen.14.17|Gen 14:17-20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Why art thou cast down, O my soul? and why art thou disquieted within me? hope t
 Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.10|<< Psalms 42:10]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.1|Psalms 43:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 42:11** is...
+> $\quad$ referenced by: [[Matt.26.38|Matt 26:38]] ☩ [[Mark.14.34|Mark 14:34]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

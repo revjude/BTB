@@ -5,6 +5,10 @@ O [ye] Corinthians, our mouth is open unto you, our heart is enlarged.
 We have spoken freely to you, Corinthians. Our hearts are open wide.
 <small><sub>**Literal:**</sub></small>
 The mouth of us has been opened to you, Corinthians, the heart of us has been expanded;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.10|<< 2 Corinthians 6:10]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.12|2 Corinthians 6:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 6:11** is...
+> $\quad$ referencing: [[LXX.Ps.119.32|Ps 119:32]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

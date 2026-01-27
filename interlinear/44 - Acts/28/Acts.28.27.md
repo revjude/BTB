@@ -5,6 +5,10 @@ For the heart of this people is waxed gross, and their ears are dull of hearing,
 For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.’
 <small><sub>**Literal:**</sub></small>
 Has grown dull for the heart of the people this, and with the ears barely they hear and the eyes of them they have closed; otherwise they may see with the eyes and with the ears they may hear and with the heart they may understand and may turn and I will heal them.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.26|<< Acts 28:26]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.28|Acts 28:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 28:27** is...
+> $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

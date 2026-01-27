@@ -5,6 +5,10 @@ And have put on the new [man], which is renewed in knowledge after the image of 
 and have put on the new self, which is being renewed in knowledge in the image of its Creator.
 <small><sub>**Literal:**</sub></small>
 and having put on the new, which is being renewed in knowledge according to [the] image of the [one who] having created him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.9|<< Colossians 3:9]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.11|Colossians 3:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Colossians 3:10** is...
+> $\quad$ alluding to: [[LXX.Gen.1.26|Gen 1:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

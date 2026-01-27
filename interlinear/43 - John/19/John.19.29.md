@@ -5,6 +5,10 @@ Now there was set a vessel full of vinegar: and they filled a spunge with vinega
 A jar of sour wine was sitting there. So they soaked a sponge in the wine, put it on a stalk of hyssop, and lifted it to His mouth.
 <small><sub>**Literal:**</sub></small>
 A vessel therefore was set [there] of sour wine full. a sponge therefore full of the sour wine and on a hyssop stalk having put they brought it to the mouth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.28|<< John 19:28]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.30|John 19:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 19:29** is...
+> $\quad$ alluding to: [[LXX.Ps.69.21|Ps 69:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the spirit of the LORD shall rest upon him, the spirit of wisdom and underst
 The Spirit of the LORD will rest on Him—the Spirit of wisdom and understanding, the Spirit of counsel and strength, the Spirit of knowledge and fear of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.1|<< Isaiah 11:1]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.3|Isaiah 11:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 11:2** is...
+> $\quad$ referenced by: [[1Pet.4.14|1Pet 4:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

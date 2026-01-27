@@ -5,6 +5,10 @@ Again, ye have heard that it hath been said by them of old time, Thou shalt not 
 Again, you have heard that it was said to the ancients, ‘Do not break your oath, but fulfill your vows to the Lord.’
 <small><sub>**Literal:**</sub></small>
 Again you have heard that it was said to the ancients; Not will you swear falsely, you will keep now to the Lord the oaths of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.32|<< Matthew 5:32]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.34|Matthew 5:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 5:33** is...
+> $\quad$ referencing: [[LXX.Exod.20.7|Exod 20:7]] ☩ [[LXX.Lev.19.12|Lev 19:12]] ☩ [[LXX.Num.30.2|Num 30:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

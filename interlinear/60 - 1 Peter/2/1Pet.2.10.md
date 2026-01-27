@@ -5,6 +5,11 @@ Which in time past [were] not a people, but [are] now the people of God: which h
 Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.
 <small><sub>**Literal:**</sub></small>
 who once [were] not a people, now however [the] people of God, those [who] not received mercy, now however having received mercy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.9|<< 1 Peter 2:9]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.11|1 Peter 2:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 2:10** is...
+> $\quad$ referencing: [[LXX.Hos.1.6|Hos 1:6]] ☩ [[LXX.Hos.1.9|Hos 1:9]]
+> $\quad$ alluding to: [[LXX.Hos.2.23|Hos 2:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

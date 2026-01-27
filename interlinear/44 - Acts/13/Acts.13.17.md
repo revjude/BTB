@@ -5,6 +5,10 @@ The God of this people of Israel chose our fathers, and exalted the people when 
 The God of the people of Israel chose our fathers. He made them into a great people during their stay in Egypt, and with an uplifted arm He led them out of that land.
 <small><sub>**Literal:**</sub></small>
 The God of the people this of Israel chose the fathers of us and the people exalted in the sojourn in [the] land of Egypt and with arm uplifted brought them out of it;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.16|<< Acts 13:16]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.18|Acts 13:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:17** is...
+> $\quad$ alluding to: [[LXX.Exod.12.37|Exod 12:37]] ☩ [[LXX.Isa.1.2|Isa 1:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

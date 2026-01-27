@@ -5,6 +5,10 @@ Eye for eye, tooth for tooth, hand for hand, foot for foot,
 eye for eye, tooth for tooth, hand for hand, foot for foot,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.23|<< Exodus 21:23]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.25|Exodus 21:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 21:24** is...
+> $\quad$ referenced by: [[Matt.5.38|Matt 5:38]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

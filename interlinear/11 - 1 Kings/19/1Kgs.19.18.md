@@ -5,6 +5,10 @@ Yet I have left [me] seven thousand in Israel, all the knees which have not bowe
 Nevertheless, I have reserved seven thousand in Israel—all whose knees have not bowed to Baal and whose mouths have not kissed him.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.17|<< 1 Kings 19:17]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.19|1 Kings 19:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 19:18** is...
+> $\quad$ referenced by: [[Rom.11.4|Rom 11:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Through faith he kept the passover, and the sprinkling of blood, lest he that de
 By faith he kept the Passover and the sprinkling of blood, so that the destroyer of the firstborn would not touch Israel’s own firstborn.
 <small><sub>**Literal:**</sub></small>
 By faith he has kept the Passover and the sprinkling of the blood, so that not the [one] destroying the firstborn may touch them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.27|<< Hebrews 11:27]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.29|Hebrews 11:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:28** is...
+> $\quad$ alluding to: [[LXX.Exod.12.11|Exod 12:11]] ☩ [[LXX.Exod.12.18|Exod 12:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

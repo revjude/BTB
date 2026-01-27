@@ -9,6 +9,10 @@ And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the L
 <small><sub>**BSB:**</sub></small>
 Then Samuel said, “Gather all Israel to Mizpah, and I will pray to the LORD on your behalf.”<small><sub>**MT:**</sub></small>
 [[1Sam.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.4|<< 1 Samuel 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.6|1 Samuel 7:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 7:5** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

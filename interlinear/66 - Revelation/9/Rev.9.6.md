@@ -5,6 +5,10 @@ And in those days shall men seek death, and shall not find it; and shall desire 
 In those days men will seek death and will not find it; they will long to die, but death will escape them.
 <small><sub>**Literal:**</sub></small>
 And in the days those will seek <the> men <the> death and certainly no more will find it; and they will long to die, and he flees <the> death from them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.5|<< Revelation 9:5]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.7|Revelation 9:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 9:6** is...
+> $\quad$ alluding to: [[LXX.Jer.8.3|Jer 8:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

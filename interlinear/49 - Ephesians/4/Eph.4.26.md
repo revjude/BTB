@@ -5,6 +5,10 @@ Be ye angry, and sin not: let not the sun go down upon your wrath:
 “Be angry, yet do not sin.” Do not let the sun set upon your anger,
 <small><sub>**Literal:**</sub></small>
 do be angry and yet not do sin; The sun not should set upon the anger of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.25|<< Ephesians 4:25]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.27|Ephesians 4:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 4:26** is...
+> $\quad$ referencing: [[LXX.Ps.4.4|Ps 4:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For the scripture saith unto Pharaoh, Even for this same purpose have I raised t
 For the Scripture says to Pharaoh: “I raised you up for this very purpose, that I might display My power in you, and that My name might be proclaimed in all the earth.”
 <small><sub>**Literal:**</sub></small>
 Says for the Scripture <the> to Pharaoh that For this very therefore I have raised up you so that I may show in you the power of Mine and that may be declared the name of Me in all the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.16|<< Romans 9:16]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.18|Romans 9:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:17** is...
+> $\quad$ referencing: [[LXX.Exod.9.16|Exod 9:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

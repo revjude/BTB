@@ -5,6 +5,10 @@ They gave me also gall for my meat; and in my thirst they gave me vinegar to dri
 They poisoned my food with gall and gave me vinegar to quench my thirst.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.20|<< Psalms 69:20]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.22|Psalms 69:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 69:21** is...
+> $\quad$ referenced by: [[Matt.27.48|Matt 27:48]] ☩ [[Mark.15.36|Mark 15:36]] ☩ [[John.19.28|John 19:28-29]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the shapes of the locusts [were] like unto horses prepared unto battle; and 
 And the locusts looked like horses prepared for battle, with something like crowns of gold on their heads; and their faces were like the faces of men.
 <small><sub>**Literal:**</sub></small>
 And the appearance of the locusts [was] like as horses prepared for battle, and upon the heads of them [were something] like crowns like as gold, and the faces of them like [the] faces of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.6|<< Revelation 9:6]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.8|Revelation 9:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 9:7** is...
+> $\quad$ alluding to: [[LXX.Joel.1.6|Joel 1:6]] ☩ [[LXX.Joel.2.4|Joel 2:4]] ☩ [[LXX.Joel.2.5|Joel 2:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

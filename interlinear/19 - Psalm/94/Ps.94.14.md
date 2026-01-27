@@ -5,6 +5,10 @@ For the LORD will not cast off his people, neither will he forsake his inheritan
 For the LORD will not forsake His people; He will never abandon His heritage.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.13|<< Psalms 94:13]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.15|Psalms 94:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 94:14** is...
+> $\quad$ referenced by: [[Rom.11.1|Rom 11:1-2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

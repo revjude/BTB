@@ -5,6 +5,10 @@ And Moses stretched out his hand over the sea; and the LORD caused the sea to go
 Then Moses stretched out his hand over the sea, and all that night the LORD drove back the sea with a strong east wind that turned it into dry land. So the waters were divided,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.20|<< Exodus 14:20]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.22|Exodus 14:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 14:21** is...
+> $\quad$ referenced by: [[Acts.7.36|Acts 7:36]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

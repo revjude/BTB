@@ -5,6 +5,10 @@ He said, I [am] the voice of one crying in the wilderness, Make straight the way
 John replied in the words of Isaiah the prophet: “I am a voice of one calling in the wilderness, ‘Make straight the way for the Lord.’”
 <small><sub>**Literal:**</sub></small>
 He was saying; I myself [am] a voice crying in the wilderness; do make straight the way of [the] Lord; even as said Isaiah the prophet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.22|<< John 1:22]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.24|John 1:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 1:23** is...
+> $\quad$ referencing: [[LXX.Isa.40.3|Isa 40:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

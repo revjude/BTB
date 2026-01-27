@@ -5,6 +5,10 @@ To give light to them that sit in darkness and [in] the shadow of death, to guid
 to shine on those who live in darkness and in the shadow of death, to guide our feet into the path of peace.”
 <small><sub>**Literal:**</sub></small>
 to shine upon those in darkness and in [the] shadow of death sitting, <the> to direct the feet of us into [the] way of peace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.78|<< Luke 1:78]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.80|Luke 1:80 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:79** is...
+> $\quad$ alluding to: [[LXX.Isa.9.2|Isa 9:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

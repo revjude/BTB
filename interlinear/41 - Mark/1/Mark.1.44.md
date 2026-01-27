@@ -5,6 +5,10 @@ And saith unto him, See thou say nothing to any man: but go thy way, shew thysel
 “See that you don’t tell anyone. But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”
 <small><sub>**Literal:**</sub></small>
 And He says to him; do see [that] nothing to none may you speak; But do go, yourself do show to the priest and do offer for the cleansing of you what commanded Moses for a testimony to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.43|<< Mark 1:43]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.45|Mark 1:45 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 1:44** is...
+> $\quad$ alluding to: [[LXX.Lev.14.2|Lev 14:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Let all those that seek thee rejoice and be glad in thee: let such as love thy s
 May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “The LORD be magnified!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.15|<< Psalms 40:15]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.17|Psalms 40:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 40:16** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And there shall in no wise enter into it any thing that defileth, neither [whats
 But nothing unclean will ever enter it, nor anyone who practices an abomination or a lie, but only those whose names are written in the Lamb’s Book of Life.
 <small><sub>**Literal:**</sub></small>
 And certainly not may enter into it anything unsanctified and the [one] practicing abomination and a lie only except those written in the book <the> of life of the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.26|<< Revelation 21:26]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.1|Revelation 22:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:27** is...
+> $\quad$ alluding to: [[LXX.Isa.52.1|Isa 52:1]] ☩ [[LXX.Ezek.44.9|Ezek 44:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

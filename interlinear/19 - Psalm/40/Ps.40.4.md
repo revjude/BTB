@@ -5,6 +5,10 @@ Blessed [is] that man that maketh the LORD his trust, and respecteth not the pro
 Blessed is the man who has made the LORD his trust, who has not turned to the proud, nor to those who lapse into falsehood.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.3|<< Psalms 40:3]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.5|Psalms 40:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 40:4** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

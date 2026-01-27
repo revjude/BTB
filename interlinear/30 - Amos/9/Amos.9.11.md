@@ -5,6 +5,10 @@ In that day will I raise up the tabernacle of David that is fallen, and close up
 “In that day I will restore the fallen tent of David. I will repair its gaps, restore its ruins, and rebuild it as in the days of old,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.10|<< Amos 9:10]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.12|Amos 9:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Amos 9:11** is...
+> $\quad$ referenced by: [[Acts.15.16|Acts 15:16-17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Again also he sent unto him another captain of fifty with his fifty. And he answ
 So the king sent to Elijah another captain with his fifty men. And the captain said to Elijah, “Man of God, the king declares, ‘Come down at once!’”
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.10|<< 2 Kings 1:10]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.12|2 Kings 1:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Kings 1:11** is...
+> $\quad$ referenced by: [[Rev.11.5|Rev 11:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And straightway one of them ran, and took a spunge, and filled [it] with vinegar
 One of them quickly ran and brought a sponge. He filled it with sour wine, put it on a reed, and held it up for Jesus to drink.
 <small><sub>**Literal:**</sub></small>
 And immediately having run one of them and having taken a sponge, having filled [it] and with vinegar and having put [it] on a reed were giving to drink Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.47|<< Matthew 27:47]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.49|Matthew 27:49 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 27:48** is...
+> $\quad$ referencing: [[LXX.Ps.69.21|Ps 69:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

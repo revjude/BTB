@@ -5,6 +5,10 @@ And Jesus saith unto them, All ye shall be offended because of me this night: fo
 Then Jesus said to them, “You will all fall away, for it is written: ‘I will strike the Shepherd, and the sheep will be scattered.’
 <small><sub>**Literal:**</sub></small>
 And says to them <the> Jesus that All you will fall away in to me myself in <the> night this for it has been written: I will strike the shepherd, and the sheep will be scattered.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.26|<< Mark 14:26]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.28|Mark 14:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 14:27** is...
+> $\quad$ referencing: [[LXX.Zech.13.7|Zech 13:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

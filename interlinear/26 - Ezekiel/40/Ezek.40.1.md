@@ -5,6 +5,10 @@ In the five and twentieth year of our captivity, in the beginning of the year, i
 In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month—in the fourteenth year after Jerusalem had been struck down—on that very day the hand of the LORD was upon me, and He took me there.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.29|<< Ezekiel 39:29]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.2|Ezekiel 40:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 40:1** is...
+> $\quad$ referenced by: [[Rev.21.2|Rev 21:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

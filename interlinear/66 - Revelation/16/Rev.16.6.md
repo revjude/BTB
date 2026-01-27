@@ -5,6 +5,10 @@ For they have shed the blood of saints and prophets, and thou hast given them bl
 For they have spilled the blood of saints and prophets, and You have given them blood to drink, as they deserve.”
 <small><sub>**Literal:**</sub></small>
 because [the] blood of saints and of prophets they have poured out, and blood to them You have given to drink; worthy for they are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.5|<< Revelation 16:5]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.7|Revelation 16:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 16:6** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.7.21|Exod 7:21]] ☩ [[LXX.Ezek.16.38|Ezek 16:38]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

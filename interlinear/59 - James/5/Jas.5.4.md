@@ -5,6 +5,11 @@ Behold, the hire of the labourers who have reaped down your fields, which is of 
 Look, the wages you withheld from the workmen who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of the Lord of Hosts.
 <small><sub>**Literal:**</sub></small>
 Behold the wage of the workmen who having harvested the fields of you which kept back by you cries out and the cries of those having harvested into the ears of [the] Lord of Hosts have entered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.3|<< James 5:3]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.5|James 5:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 5:4** is...
+> $\quad$ referencing: [[LXX.Deut.24.15|Deut 24:15]]
+> $\quad$ alluding to: [[LXX.Isa.5.9|Isa 5:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

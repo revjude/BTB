@@ -5,6 +5,10 @@ Cursed [be] he that confirmeth not [all] the words of this law to do them. And a
 ‘Cursed is he who does not put the words of this law into practice.’ And let all the people say, ‘Amen!’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.25|<< Deuteronomy 27:25]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.1|Deuteronomy 28:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 27:26** is...
+> $\quad$ referenced by: [[Gal.3.10|Gal 3:10]] ☩ [[Gal.3.13|Gal 3:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

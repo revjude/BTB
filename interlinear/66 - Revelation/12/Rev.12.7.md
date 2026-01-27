@@ -5,6 +5,10 @@ And there was war in heaven: Michael and his angels fought against the dragon; a
 Then a war broke out in heaven: Michael and his angels fought against the dragon, and the dragon and his angels fought back.
 <small><sub>**Literal:**</sub></small>
 And there was war in <the> heaven: <the> Michael and the angels of him <the> to war against the dragon. and the dragon warred [back] and the angels of him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.6|<< Revelation 12:6]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.8|Revelation 12:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 12:7** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.10.13|Dan 10:13]] ☩ [[LXX.Dan.10.21|Dan 10:21]] ☩ [[LXX.Dan.12.1|Dan 12:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And it shall come to pass, [that] whosoever shall call on the name of the Lord s
 And everyone who calls on the name of the Lord will be saved.’
 <small><sub>**Literal:**</sub></small>
 And it will be, everyone who when they shall call upon the name of [the] Lord will be saved.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.20|<< Acts 2:20]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.22|Acts 2:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 2:21** is...
+> $\quad$ referencing: [[LXX.Joel.2.28|Joel 2:28-32]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

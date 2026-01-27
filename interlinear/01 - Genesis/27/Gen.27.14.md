@@ -5,6 +5,10 @@ And he went, and fetched, and brought [them] to his mother: and his mother made 
 So Jacob went and got two goats and brought them to his mother, who made the tasty food his father loved.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.13|<< Genesis 27:13]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.15|Genesis 27:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 27:14** is...
+> $\quad$ referenced by: [[Heb.11.9|Heb 11:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

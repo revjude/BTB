@@ -6,6 +6,10 @@ Thus saith the LORD, In an acceptable time have I heard thee, and in a day of sa
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “In the time of favor I will answer You, and in the day of salvation I will help You; I will keep You and appoint You to be a covenant for the people, to restore the land, to apportion its desolate inheritances,<small><sub>**MT:**</sub></small>
 [[Isa.49.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.7|<< Isaiah 49:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.9|Isaiah 49:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 49:8** is...
+> $\quad$ referenced by: [[2Cor.6.2|2Cor 6:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

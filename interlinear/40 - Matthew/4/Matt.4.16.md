@@ -5,6 +5,10 @@ The people which sat in darkness saw great light; and to them which sat in the r
 the people living in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.”
 <small><sub>**Literal:**</sub></small>
 The nation the [one] sitting in darkness light have seen great, and to those sitting in [the] land and in a shadow of death a light has dawned on them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.15|<< Matthew 4:15]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.17|Matthew 4:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 4:16** is...
+> $\quad$ referencing: [[LXX.Isa.9.1|Isa 9:1-2]] ☩ [[LXX.Isa.42.7|Isa 42:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

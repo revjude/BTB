@@ -5,6 +5,10 @@ Then said [God], Call his name Loammi: for ye [are] not my people, and I will no
 And the LORD said, “Name him Lo-ammi, for you are not My people, and I am not your God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.8|<< Hosea 1:8]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1.10|Hosea 1:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 1:9** is...
+> $\quad$ referenced by: [[1Pet.2.10|1Pet 2:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

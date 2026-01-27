@@ -5,6 +5,10 @@ And they said, Moses suffered to write a bill of divorcement, and to put [her] a
 They answered, “Moses permitted a man to write his wife a certificate of divorce and send her away.”
 <small><sub>**Literal:**</sub></small>
 <the> And they said; Permitted Moses a roll of divorce to write and to send [her] away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.3|<< Mark 10:3]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.5|Mark 10:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 10:4** is...
+> $\quad$ referencing: [[LXX.Deut.24.1|Deut 24:1]][[LXX.Deut.24.3|, 3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

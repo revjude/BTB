@@ -5,6 +5,10 @@ And were carried over into Sychem, and laid in the sepulchre that Abraham bought
 Their bones were carried back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a price he paid in silver.
 <small><sub>**Literal:**</sub></small>
 and they were carried over into Shechem and were placed in the tomb which bought Abraham for a sum of silver from the sons of Hamor in Shechem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.15|<< Acts 7:15]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.17|Acts 7:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:16** is...
+> $\quad$ alluding to: [[LXX.Josh.24.32|Josh 24:32]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For as the rain cometh down, and the snow from heaven, and returneth not thither
 For just as rain and snow fall from heaven and do not return without watering the earth, making it bud and sprout, and providing seed to sow and food to eat,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.9|<< Isaiah 55:9]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.11|Isaiah 55:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 55:10** is...
+> $\quad$ referenced by: [[2Cor.9.10|2Cor 9:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

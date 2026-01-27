@@ -6,6 +6,10 @@ And it shall come to pass, when seventy years are accomplished, [that] I will pu
 <small><sub>**BSB:**</sub></small>
 But when seventy years are complete, I will punish the king of Babylon and that nation, the land of the Chaldeans, for their guilt, declares the LORD, and I will make it an everlasting desolation.<small><sub>**MT:**</sub></small>
 [[Jer.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.11|<< Jeremiah 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.13|Jeremiah 25:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 25:12** is...
+> $\quad$ referenced by: [[LXX.Dan.9.2|Dan 9:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

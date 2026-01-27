@@ -5,6 +5,10 @@ And hath put all [things] under his feet, and gave him [to be] the head over all
 And God put everything under His feet and made Him head over everything for the church,
 <small><sub>**Literal:**</sub></small>
 And all things He put under the feet of Him and Him gave [to be] head over all things to the church<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.21|<< Ephesians 1:21]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.23|Ephesians 1:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 1:22** is...
+> $\quad$ referencing: [[LXX.Ps.8.6|Ps 8:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

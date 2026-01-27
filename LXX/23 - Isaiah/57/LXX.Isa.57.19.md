@@ -6,6 +6,10 @@ I create the fruit of the lips; Peace, peace to [him that is] far off, and to [h
 <small><sub>**BSB:**</sub></small>
 bringing praise to their lips. Peace, peace to those far and near,” says the LORD, “and I will heal them.”<small><sub>**MT:**</sub></small>
 [[Isa.57.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.18|<< Isaiah 57:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.20|Isaiah 57:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 57:19** is...
+> $\quad$ referenced by: [[Eph.2.17|Eph 2:17]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

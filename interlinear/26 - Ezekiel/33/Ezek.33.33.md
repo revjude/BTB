@@ -5,6 +5,10 @@ And when this cometh to pass, (lo, it will come,) then shall they know that a pr
 So when it comes to pass—and surely it will come—then they will know that a prophet has been among them.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.32|<< Ezekiel 33:32]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.1|Ezekiel 34:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 33:33** is...
+> $\quad$ fulfilled in: [[Mark.3.32|Mark 3:32-35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

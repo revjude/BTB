@@ -5,6 +5,10 @@ They also went down into hell with him unto [them that be] slain with the sword;
 They too descended with it to Sheol, to those slain by the sword. As its allies they had lived in its shade among the nations.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.16|<< Ezekiel 31:16]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.18|Ezekiel 31:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 31:17** is...
+> $\quad$ related to: [[Isa.14.8|Isa 14:8-9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

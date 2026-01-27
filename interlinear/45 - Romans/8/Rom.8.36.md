@@ -5,6 +5,10 @@ As it is written, For thy sake we are killed all the day long; we are accounted 
 As it is written: “For Your sake we face death all day long; we are considered as sheep to be slaughtered.”
 <small><sub>**Literal:**</sub></small>
 Even as it has been written that For the sake of you we face death all the day, we were regarded as sheep of slaughter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.35|<< Romans 8:35]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.37|Romans 8:37 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 8:36** is...
+> $\quad$ referencing: [[LXX.Ps.44.22|Ps 44:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

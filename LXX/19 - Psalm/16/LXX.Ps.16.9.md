@@ -6,6 +6,10 @@ Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in 
 <small><sub>**BSB:**</sub></small>
 Therefore my heart is glad and my tongue rejoices; my body also will dwell securely.<small><sub>**MT:**</sub></small>
 [[Ps.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.8|<< Psalm 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.10|Psalm 16:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 16:9** is...
+> $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[Acts.2.25|Acts 2:25-28]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

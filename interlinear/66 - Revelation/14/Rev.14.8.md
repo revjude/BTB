@@ -5,6 +5,11 @@ And there followed another angel, saying, Babylon is fallen, is fallen, that gre
 Then a second angel followed, saying, “Fallen, fallen is Babylon the great, who has made all the nations drink the wine of the passion of her immorality.”
 <small><sub>**Literal:**</sub></small>
 And another angel a second followed saying; Fallen Fallen is Babylon the city the great who of the wine <the> of wrath for the immorality of her she has given to drink all the Gentiles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.7|<< Revelation 14:7]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.9|Revelation 14:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 14:8** is...
+> $\quad$ alluding to: [[LXX.Isa.21.9|Isa 21:9]] ☩ [[LXX.Jer.51.8|Jer 51:8]]
+> $\quad$ possibly alluding to: [[LXX.Dan.4.27|Dan 4:27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

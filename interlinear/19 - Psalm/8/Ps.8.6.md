@@ -5,6 +5,10 @@ Thou madest him to have dominion over the works of thy hands; thou hast put all 
 You made him ruler of the works of Your hands; You have placed everything under his feet:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.5|<< Psalms 8:5]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.7|Psalms 8:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 8:6** is...
+> $\quad$ referenced by: [[Matt.22.44|Matt 22:44]] ☩ [[1Cor.15.27|1Cor 15:27]] ☩ [[Eph.1.22|Eph 1:22]] ☩ [[Heb.2.6|Heb 2:6-8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

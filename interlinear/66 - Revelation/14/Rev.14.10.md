@@ -5,6 +5,11 @@ The same shall drink of the wine of the wrath of God, which is poured out withou
 he too will drink the wine of God’s anger, poured undiluted into the cup of His wrath. And he will be tormented in fire and sulfur in the presence of the holy angels and of the Lamb.
 <small><sub>**Literal:**</sub></small>
 also he himself will drink of the wine of the anger <the> of God which mixed undiluted in the cup of the wrath of Him and he will be tormented in fire and brimstone before of the angels holy and before the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.9|<< Revelation 14:9]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.11|Revelation 14:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 14:10** is...
+> $\quad$ possibly alluding to: [[LXX.Ps.75.9|Ps 75:9]]
+> $\quad$ alluding to: [[LXX.Isa.51.22|Isa 51:22]] ☩ [[LXX.Jer.25.15|Jer 25:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

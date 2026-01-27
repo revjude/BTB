@@ -5,6 +5,10 @@ And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom beg
 Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.
 <small><sub>**Literal:**</sub></small>
 Judah then begat <the> Perez and <the> Zerah out of <the> Tamar; Perez then begat <the> Hezron; Hezron then begat <the> Ram;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.2|<< Matthew 1:2]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.4|Matthew 1:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 1:3** is...
+> $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

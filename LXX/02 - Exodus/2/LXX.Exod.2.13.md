@@ -6,6 +6,10 @@ And when he went out the second day, behold, two men of the Hebrews strove toget
 <small><sub>**BSB:**</sub></small>
 The next day Moses went out and saw two Hebrews fighting. He asked the one in the wrong, “Why are you attacking your companion?”<small><sub>**MT:**</sub></small>
 [[Exod.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.12|<< Exodus 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.14|Exodus 2:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:13** is...
+> $\quad$ referenced by: [[Acts.7.26|Acts 7:26]] ☩ [[Acts.7.27|Acts 7:27-29]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

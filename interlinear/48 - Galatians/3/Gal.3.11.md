@@ -5,6 +5,10 @@ But that no man is justified by the law in the sight of God, [it is] evident: fo
 Now it is clear that no one is justified before God by the law, because, “The righteous will live by faith.”
 <small><sub>**Literal:**</sub></small>
 for now by [the] law no [one] is justified before <the> God [is] evident, because The righteous by faith will live;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.10|<< Galatians 3:10]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.12|Galatians 3:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 3:11** is...
+> $\quad$ referencing: [[LXX.Hab.2.4|Hab 2:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

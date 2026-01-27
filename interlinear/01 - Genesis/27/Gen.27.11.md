@@ -5,6 +5,10 @@ And Jacob said to Rebekah his mother, Behold, Esau my brother [is] a hairy man, 
 Jacob answered his mother Rebekah, “Look, my brother Esau is a hairy man, but I am smooth-skinned.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.10|<< Genesis 27:10]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.12|Genesis 27:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 27:11** is...
+> $\quad$ referenced by: [[Heb.11.9|Heb 11:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

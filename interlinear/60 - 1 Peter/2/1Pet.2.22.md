@@ -5,6 +5,10 @@ Who did no sin, neither was guile found in his mouth:
 “He committed no sin, and no deceit was found in His mouth.”
 <small><sub>**Literal:**</sub></small>
 Who sin not committed, neither was found trickery in the mouth of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.21|<< 1 Peter 2:21]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.23|1 Peter 2:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 2:22** is...
+> $\quad$ referencing: [[LXX.Isa.53.9|Isa 53:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

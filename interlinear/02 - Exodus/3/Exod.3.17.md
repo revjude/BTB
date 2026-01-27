@@ -5,6 +5,10 @@ And I have said, I will bring you up out of the affliction of Egypt unto the lan
 And I have promised to bring you up out of your affliction in Egypt, into the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites—a land flowing with milk and honey.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.16|<< Exodus 3:16]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.18|Exodus 3:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 3:17** is...
+> $\quad$ referenced by: [[Acts.7.35|Acts 7:35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

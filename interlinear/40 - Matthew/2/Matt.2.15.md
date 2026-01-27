@@ -5,6 +5,10 @@ And was there until the death of Herod: that it might be fulfilled which was spo
 where he stayed until the death of Herod. This fulfilled what the Lord had spoken through the prophet: “Out of Egypt I called My Son.”
 <small><sub>**Literal:**</sub></small>
 and he was remaining there until the death of Herod, so that it may be fulfilled that having been spoken by the Lord through the prophet saying; Out of Egypt I called the Son of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.14|<< Matthew 2:14]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.16|Matthew 2:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 2:15** is...
+> $\quad$ referencing: [[LXX.Hos.11.1|Hos 11:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

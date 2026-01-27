@@ -6,6 +6,10 @@ And all the host of heaven shall be dissolved, and the heavens shall be rolled t
 <small><sub>**BSB:**</sub></small>
 All the stars of heaven will be dissolved. The skies will be rolled up like a scroll, and all their stars will fall like withered leaves from the vine, like foliage from the fig tree.<small><sub>**MT:**</sub></small>
 [[Isa.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.3|<< Isaiah 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.5|Isaiah 34:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 34:4** is...
+> $\quad$ referenced by: [[Matt.24.29|Matt 24:29]] ☩ [[Mark.13.24|Mark 13:24]] ☩ [[Luke.21.26|Luke 21:26]] ☩ [[Rev.6.12|Rev 6:12-13]] ☩ [[Rev.6.14|Rev 6:14]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

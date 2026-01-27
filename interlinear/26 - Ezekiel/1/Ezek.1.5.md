@@ -5,6 +5,10 @@ Also out of the midst thereof [came] the likeness of four living creatures. And 
 and within it was the form of four living creatures. And this was their appearance: They had a human form,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.4|<< Ezekiel 1:4]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.6|Ezekiel 1:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 1:5** is...
+> $\quad$ referenced by: [[Rev.4.6|Rev 4:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

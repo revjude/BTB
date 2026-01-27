@@ -5,6 +5,10 @@ So he carried me away in the spirit into the wilderness: and I saw a woman sit u
 And the angel carried me away in the Spirit into a wilderness, where I saw a woman sitting on a scarlet beast that was covered with blasphemous names and had seven heads and ten horns.
 <small><sub>**Literal:**</sub></small>
 and he carried away me into a wilderness in [the] Spirit. and I saw a woman sitting upon a beast scarlet being full of the names of blasphemy, having heads seven and horns ten.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.2|<< Revelation 17:2]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.4|Revelation 17:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 17:3** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.7.7|Dan 7:7-8]] ☩ [[LXX.Dan.7.25|Dan 7:25]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

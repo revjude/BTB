@@ -5,6 +5,10 @@ Take with you words, and turn to the LORD: say unto him, Take away all iniquity,
 Bring your confessions and return to the LORD. Say to Him: “Take away all our iniquity and receive us graciously, that we may present the fruit of our lips.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.1|<< Hosea 14:1]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.3|Hosea 14:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 14:2** is...
+> $\quad$ referenced by: [[Heb.11.14|Heb 11:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

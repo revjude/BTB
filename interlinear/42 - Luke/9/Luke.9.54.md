@@ -5,6 +5,10 @@ And when his disciples James and John saw [this], they said, Lord, wilt thou tha
 When the disciples James and John saw this, they asked, “Lord, do You want us to call down fire from heaven to consume them?”
 <small><sub>**Literal:**</sub></small>
 Having seen [it] now the disciples of him James and John said; Lord, do you want [that] we may call fire to come down from <the> heaven and to consume them as and Elijah did?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.53|<< Luke 9:53]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.55|Luke 9:55 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 9:54** is...
+> $\quad$ referencing: [[LXX.2Kgs.1.10|2Kgs 1:10]] ☩ [[LXX.2Kgs.1.12|2Kgs 1:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

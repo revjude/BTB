@@ -5,6 +5,10 @@ For God, who commanded the light to shine out of darkness, hath shined in our he
 For God, who said, “Let light shine out of darkness,” made His light shine in our hearts to give us the light of the knowledge of the glory of God in the face of Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 For [it is] <the> God <the> having said Out of darkness light will shine, who shone in the hearts of us for [the] radiance of the knowledge of the glory <the> of God in [the] face of Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.5|<< 2 Corinthians 4:5]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.7|2 Corinthians 4:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 4:6** is...
+> $\quad$ referencing: [[LXX.Gen.1.3|Gen 1:3-4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

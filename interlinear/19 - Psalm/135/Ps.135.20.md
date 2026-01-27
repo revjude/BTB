@@ -5,6 +5,10 @@ Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD.
 O house of Levi, bless the LORD; you who fear the LORD, bless the LORD!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.19|<< Psalms 135:19]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.21|Psalms 135:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 135:20** is...
+> $\quad$ referenced by: [[Rev.19.5|Rev 19:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

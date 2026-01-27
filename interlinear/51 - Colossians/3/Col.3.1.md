@@ -5,6 +5,10 @@ If ye then be risen with Christ, seek those things which are above, where Christ
 Therefore, since you have been raised with Christ, strive for the things above, where Christ is seated at the right hand of God.
 <small><sub>**Literal:**</sub></small>
 If then you have been raised with <the> Christ, the [things] above do seek, where <the> Christ is at [the] right hand <the> of God sitting;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.23|<< Colossians 2:23]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.2|Colossians 3:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Colossians 3:1** is...
+> $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

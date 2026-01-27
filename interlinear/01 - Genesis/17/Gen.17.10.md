@@ -5,6 +5,10 @@ This [is] my covenant, which ye shall keep, between me and you and thy seed afte
 This is My covenant with you and your descendants after you, which you are to keep: Every male among you must be circumcised.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.9|<< Genesis 17:9]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.11|Genesis 17:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 17:10** is...
+> $\quad$ referenced by: [[Acts.7.8|Acts 7:8]] ☩ [[Rom.4.11|Rom 4:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

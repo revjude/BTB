@@ -5,6 +5,10 @@ For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on 
 Speaking by the Holy Spirit, David himself declared: ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’
 <small><sub>**Literal:**</sub></small>
 Himself for David said by the Spirit <the> Holy: Said the Lord to the Lord of me; do sit at [the] right hand of Me until when I may place of the enemies of You under of the feet of You.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.35|<< Mark 12:35]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.37|Mark 12:37 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 12:36** is...
+> $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

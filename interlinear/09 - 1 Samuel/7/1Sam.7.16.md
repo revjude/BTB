@@ -5,6 +5,10 @@ And he went from year to year in circuit to Bethel, and Gilgal, and Mizpeh, and 
 Every year he would go on a circuit from Bethel to Gilgal to Mizpah, judging Israel in all these places.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.15|<< 1 Samuel 7:15]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.17|1 Samuel 7:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 7:16** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

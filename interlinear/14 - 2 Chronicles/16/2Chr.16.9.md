@@ -5,6 +5,10 @@ For the eyes of the LORD run to and fro throughout the whole earth, to shew hims
 For the eyes of the LORD roam to and fro over all the earth, to show Himself strong on behalf of those whose hearts are fully devoted to Him. You have acted foolishly in this matter. From now on, therefore, you will be at war.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.8|<< 2 Chronicles 16:8]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.10|2 Chronicles 16:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Chronicles 16:9** is...
+> $\quad$ referenced by: [[Rev.5.6|Rev 5:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

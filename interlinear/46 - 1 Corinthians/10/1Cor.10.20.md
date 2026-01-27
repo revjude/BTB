@@ -5,6 +5,10 @@ But [I say], that the things which the Gentiles sacrifice, they sacrifice to dev
 No, but the sacrifices of pagans are offered to demons, not to God. And I do not want you to be participants with demons.
 <small><sub>**Literal:**</sub></small>
 Rather that what they sacrifice the gentiles to demons and not to God they sacrifice; Not I do wish now you fellow partakers <the> with demons to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.19|<< 1 Corinthians 10:19]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.21|1 Corinthians 10:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 10:20** is...
+> $\quad$ referencing: [[LXX.Deut.32.17|Deut 32:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

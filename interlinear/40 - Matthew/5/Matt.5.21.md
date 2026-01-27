@@ -5,6 +5,10 @@ Ye have heard that it was said by them of old time, Thou shalt not kill; and who
 You have heard that it was said to the ancients, ‘Do not murder’ and ‘Anyone who murders will be subject to judgment.’
 <small><sub>**Literal:**</sub></small>
 You have heard that it was said to the ancients; Not you will murder; who[ever] now maybe may murder, liable will be to the judgment;’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.20|<< Matthew 5:20]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.22|Matthew 5:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 5:21** is...
+> $\quad$ referencing: [[LXX.Exod.20.13|Exod 20:13]] ☩ [[LXX.Deut.5.17|Deut 5:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

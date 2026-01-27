@@ -5,6 +5,10 @@ For a nation is come up upon my land, strong, and without number, whose teeth [a
 For a nation has invaded My land, powerful and without number; its teeth are the teeth of a lion, and its fangs are the fangs of a lioness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.5|<< Joel 1:5]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.7|Joel 1:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 1:6** is...
+> $\quad$ referenced by: [[Rev.9.7|Rev 9:7-9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

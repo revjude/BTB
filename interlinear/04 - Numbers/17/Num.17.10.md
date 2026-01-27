@@ -5,6 +5,10 @@ And the LORD said unto Moses, Bring Aaron’s rod again before the testimony, to
 The LORD said to Moses, “Put Aaron’s staff back in front of the Testimony, to be kept as a sign for the rebellious, so that you may put an end to their grumbling against Me, lest they die.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.9|<< Numbers 17:9]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.11|Numbers 17:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 17:10** is...
+> $\quad$ referenced by: [[Heb.9.2|Heb 9:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

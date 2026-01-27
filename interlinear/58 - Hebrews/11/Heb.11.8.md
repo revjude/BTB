@@ -5,6 +5,10 @@ By faith Abraham, when he was called to go out into a place which he should afte
 By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going.
 <small><sub>**Literal:**</sub></small>
 By faith the [one] being called Abraham obeyed to go out into <the> a place that he was going to receive for an inheritance and went out not knowing where he is going.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.7|<< Hebrews 11:7]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.9|Hebrews 11:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:8** is...
+> $\quad$ alluding to: [[LXX.Gen.12.1|Gen 12:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

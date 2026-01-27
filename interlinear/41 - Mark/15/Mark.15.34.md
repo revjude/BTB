@@ -5,6 +5,10 @@ And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sa
 At the ninth hour, Jesus cried out in a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”
 <small><sub>**Literal:**</sub></small>
 And on the ninth <the> hour cried out <the> Jesus in a voice loud saying: Eloi Eloi, lema sabachthani? Which is being translated; O God of Mine O God of Mine, to why have You forsaken Me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.33|<< Mark 15:33]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.35|Mark 15:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 15:34** is...
+> $\quad$ referencing: [[LXX.Ps.22.1|Ps 22:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

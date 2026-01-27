@@ -5,6 +5,10 @@ And they rose up early on the morrow, and offered burnt offerings, and brought p
 So the next day they arose, offered burnt offerings, and presented peace offerings. And the people sat down to eat and drink and got up to indulge in revelry.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.5|<< Exodus 32:5]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.7|Exodus 32:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 32:6** is...
+> $\quad$ referenced by: [[1Cor.10.7|1Cor 10:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

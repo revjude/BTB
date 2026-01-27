@@ -6,6 +6,10 @@ Now this [is that] which thou shalt offer upon the altar; two lambs of the first
 <small><sub>**BSB:**</sub></small>
 This is what you are to offer regularly on the altar, each day: two lambs that are a year old.<small><sub>**MT:**</sub></small>
 [[Exod.29.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.37|<< Exodus 29:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.39|Exodus 29:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 29:38** is...
+> $\quad$ referenced by: [[Heb.10.11|Heb 10:11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

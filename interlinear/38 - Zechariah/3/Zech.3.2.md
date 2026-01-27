@@ -5,6 +5,10 @@ And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that 
 And the LORD said to Satan: “The LORD rebukes you, Satan! Indeed, the LORD, who has chosen Jerusalem, rebukes you! Is not this man a firebrand snatched from the fire?”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.3.1|<< Zechariah 3:1]]</td><td align="center" style="border:none;">[[Zech.3|Zechariah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.3.3|Zechariah 3:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 3:2** is...
+> $\quad$ referenced by: [[Jude.1.9|Jude 1:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

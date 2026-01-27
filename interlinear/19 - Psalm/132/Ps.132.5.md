@@ -5,6 +5,10 @@ Until I find out a place for the LORD, an habitation for the mighty [God] of Jac
 until I find a place for the LORD, a dwelling for the Mighty One of Jacob.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.4|<< Psalms 132:4]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.6|Psalms 132:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 132:5** is...
+> $\quad$ referenced by: [[Acts.7.46|Acts 7:46]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

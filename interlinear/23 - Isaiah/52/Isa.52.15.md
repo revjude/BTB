@@ -5,6 +5,10 @@ So shall he sprinkle many nations; the kings shall shut their mouths at him: for
 so He will sprinkle many nations. Kings will shut their mouths because of Him. For they will see what they have not been told, and they will understand what they have not heard.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.14|<< Isaiah 52:14]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.1|Isaiah 53:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 52:15** is...
+> $\quad$ referenced by: [[Rom.15.21|Rom 15:21]] ☩ [[1Cor.2.9|1Cor 2:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

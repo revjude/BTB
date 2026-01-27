@@ -5,6 +5,10 @@ They said therefore among themselves, Let us not rend it, but cast lots for it, 
 So they said to one another, “Let us not tear it. Instead, let us cast lots to see who will get it.” This was to fulfill the Scripture: “They divided My garments among them, and cast lots for My clothing.” So that is what the soldiers did.
 <small><sub>**Literal:**</sub></small>
 They said therefore to one another; Not let us tear up it, but let us cast lots for it whose it will be; that the Scripture may be fulfilled what is being spoken: They divided the garments of Mine among themselves and for the clothing of Mine they cast a lot. The indeed therefore soldiers these things did,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.23|<< John 19:23]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.25|John 19:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 19:24** is...
+> $\quad$ referencing: [[LXX.Ps.22.18|Ps 22:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

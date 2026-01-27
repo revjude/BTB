@@ -5,6 +5,10 @@ Whose voice then shook the earth: but now he hath promised, saying, Yet once mor
 At that time His voice shook the earth, but now He has promised, “Once more I will shake not only the earth, but heaven as well.”
 <small><sub>**Literal:**</sub></small>
 whose <the> voice the earth shook at that time, now however He has promised saying; Yet once [more] I myself will shake not only the earth but also <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.25|<< Hebrews 12:25]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.27|Hebrews 12:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:26** is...
+> $\quad$ referencing: [[LXX.Hag.2.6|Hag 2:6]] ☩ [[LXX.Hag.2.21|Hag 2:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

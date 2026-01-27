@@ -5,6 +5,12 @@ And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pl
 And a voice from heaven said, “This is My beloved Son, in whom I am well pleased!”
 <small><sub>**Literal:**</sub></small>
 And behold a voice out of the heavens saying; This is the Son of Mine the beloved in whom I was well pleased.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.16|<< Matthew 3:16]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.1|Matthew 4:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 3:17** is...
+> $\quad$ possibly alluding to: [[LXX.Gen.22.2|Gen 22:2]]
+> $\quad$ referencing: [[LXX.Ps.2.7|Ps 2:7]]
+> $\quad$ alluding to: [[LXX.Isa.42.1|Isa 42:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

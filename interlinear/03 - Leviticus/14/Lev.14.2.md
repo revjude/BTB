@@ -5,6 +5,10 @@ This shall be the law of the leper in the day of his cleansing: He shall be brou
 “This is the law for the one afflicted with a skin disease on the day of his cleansing, when he is brought to the priest.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.1|<< Leviticus 14:1]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.3|Leviticus 14:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 14:2** is...
+> $\quad$ referenced by: [[Matt.8.4|Matt 8:4]] ☩ [[Mark.1.44|Mark 1:44]] ☩ [[Luke.5.14|Luke 5:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Every one of them is gone back: they are altogether become filthy; [there is] no
 All have turned away, they have together become corrupt; there is no one who does good, not even one.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.53.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53.2|<< Psalms 53:2]]</td><td align="center" style="border:none;">[[Ps.53|Psalms 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.53.4|Psalms 53:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 53:3** is...
+> $\quad$ referenced by: [[Rom.3.10|Rom 3:10-12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

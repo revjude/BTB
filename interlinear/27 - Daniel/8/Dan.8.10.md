@@ -5,6 +5,10 @@ And it waxed great, [even] to the host of heaven; and it cast down [some] of the
 It grew as high as the host of heaven, and it cast down some of the host and some of the stars to the earth and trampled them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.9|<< Daniel 8:9]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.11|Daniel 8:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 8:10** is...
+> $\quad$ referenced by: [[Rev.12.4|Rev 12:4]] ☩ [[Rev.13.7|Rev 13:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

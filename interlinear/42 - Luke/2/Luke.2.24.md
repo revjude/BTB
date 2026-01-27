@@ -5,6 +5,10 @@ And to offer a sacrifice according to that which is said in the law of the Lord,
 and to offer the sacrifice specified in the Law of the Lord: “A pair of turtledoves or two young pigeons.”
 <small><sub>**Literal:**</sub></small>
 and <the> to offer a sacrifice according to that said in the law of [the] Lord; A pair of turtle doves or two young pigeons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.23|<< Luke 2:23]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.25|Luke 2:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 2:24** is...
+> $\quad$ referencing: [[LXX.Lev.12.8|Lev 12:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

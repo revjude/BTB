@@ -6,6 +6,10 @@ And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwell
 <small><sub>**BSB:**</sub></small>
 And Hezekiah prayed before the LORD: “O LORD, God of Israel, enthroned between the cherubim, You alone are God over all the kingdoms of the earth. You made the heavens and the earth.<small><sub>**MT:**</sub></small>
 [[2Kgs.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.14|<< 2 Kings 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.16|2 Kings 19:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Kings 19:15** is...
+> $\quad$ referenced by: [[Acts.4.24|Acts 4:24]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

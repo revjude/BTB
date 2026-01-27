@@ -5,6 +5,11 @@ Yea, for thy sake are we killed all the day long; we are counted as sheep for th
 Yet for Your sake we face death all day long; we are considered as sheep to be slaughtered.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.21|<< Psalms 44:21]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.23|Psalms 44:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 44:22** is...
+> $\quad$ related to: [[Ezek.34.8|Ezek 34:8-10]] ☩ [[Zech.11.7|Zech 11:7]]
+> $\quad$ referenced by: [[Luke.11.49|Luke 11:49-50]] ☩ [[Rom.8.36|Rom 8:36]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

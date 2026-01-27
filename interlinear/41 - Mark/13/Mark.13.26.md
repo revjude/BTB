@@ -5,6 +5,10 @@ And then shall they see the Son of man coming in the clouds with great power and
 At that time they will see the Son of Man coming in the clouds with great power and glory.
 <small><sub>**Literal:**</sub></small>
 And then will they behold the Son <the> of Man coming in [the] clouds with power great and glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.25|<< Mark 13:25]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.27|Mark 13:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 13:26** is...
+> $\quad$ referencing: [[LXX.Dan.7.13|Dan 7:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

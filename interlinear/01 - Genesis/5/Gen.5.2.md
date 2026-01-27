@@ -5,6 +5,10 @@ Male and female created he them; and blessed them, and called their name Adam, i
 Male and female He created them, and He blessed them. And in the day they were created, He called them “man.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.1|<< Genesis 5:1]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.3|Genesis 5:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 5:2** is...
+> $\quad$ referenced by: [[Matt.19.4|Matt 19:4]] ☩ [[Mark.10.6|Mark 10:6]] ☩ [[Jas.3.9|Jas 3:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

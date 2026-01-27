@@ -5,6 +5,10 @@ Woe unto them! for they have gone in the way of Cain, and ran greedily after the
 Woe to them! They have traveled the path of Cain; they have rushed for profit into the error of Balaam; they have perished in Korah’s rebellion.
 <small><sub>**Literal:**</sub></small>
 Woe to them, because in the way <the> of Cain they went and to the error <the> of Balaam for reward they rushed and in the rebellion <the> of Korah they perished.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.10|<< Jude 1:10]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.12|Jude 1:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jude 1:11** is...
+> $\quad$ alluding to: [[LXX.Gen.4.8|Gen 4:8]] ☩ [[LXX.Num.22.7|Num 22:7]] ☩ [[LXX.Num.16.32|Num 16:32]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

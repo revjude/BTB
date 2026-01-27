@@ -5,6 +5,10 @@ And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get
 “Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.1|<< Genesis 22:1]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.3|Genesis 22:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 22:2** is...
+> $\quad$ referenced by: [[Matt.3.17|Matt 3:17]] ☩ [[Matt.17.5|Matt 17:5]] ☩ [[Mark.1.11|Mark 1:11]] ☩ [[Mark.9.7|Mark 9:7]] ☩ [[Luke.3.22|Luke 3:22]] ☩ [[John.1.14|John 1:14]] ☩ [[2Pet.1.17|2Pet 1:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

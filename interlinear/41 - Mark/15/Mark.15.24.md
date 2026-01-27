@@ -5,6 +5,10 @@ And when they had crucified him, they parted his garments, casting lots upon the
 And they crucified Him. They also divided His garments by casting lots to decide what each of them would take.
 <small><sub>**Literal:**</sub></small>
 And having crucified Him also they divide for themselves the garments of Him casting lots for them, who what may take.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.23|<< Mark 15:23]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.25|Mark 15:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 15:24** is...
+> $\quad$ referencing: [[LXX.Ps.22.18|Ps 22:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

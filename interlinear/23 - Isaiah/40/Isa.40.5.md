@@ -5,6 +5,10 @@ And the glory of the LORD shall be revealed, and all flesh shall see [it] togeth
 And the glory of the LORD will be revealed, and all humanity together will see it.” For the mouth of the LORD has spoken.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.4|<< Isaiah 40:4]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.6|Isaiah 40:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 40:5** is...
+> $\quad$ referenced by: [[Luke.3.4|Luke 3:4-6]] ☩ [[Rev.1.7|Rev 1:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the man that committeth adultery with [another] man’s wife, [even he] that
 If a man commits adultery with another man’s wife—with the wife of his neighbor—both the adulterer and the adulteress must surely be put to death.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.9|<< Leviticus 20:9]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.11|Leviticus 20:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 20:10** is...
+> $\quad$ referenced by: [[John.8.5|John 8:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

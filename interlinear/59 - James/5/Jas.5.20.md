@@ -5,6 +5,10 @@ Let him know, that he which converteth the sinner from the error of his way shal
 consider this: Whoever turns a sinner from the error of his way will save his soul from death and cover over a multitude of sins.
 <small><sub>**Literal:**</sub></small>
 he should know that the [one] having brought back a sinner from [the] error of the way of him will save [the] soul of him from death and will cover over a multitude of sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.19|<< James 5:19]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.1|1 Peter 1:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 5:20** is...
+> $\quad$ referencing: [[LXX.Prov.10.12|Prov 10:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

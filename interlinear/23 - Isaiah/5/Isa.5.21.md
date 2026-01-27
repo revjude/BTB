@@ -5,6 +5,10 @@ Woe unto [them that are] wise in their own eyes, and prudent in their own sight!
 Woe to those who are wise in their own eyes and clever in their own sight.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.20|<< Isaiah 5:20]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.22|Isaiah 5:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 5:21** is...
+> $\quad$ referenced by: [[Rom.12.16|Rom 12:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And gave them for the potter’s field, as the Lord appointed me.
 and they gave them for the potter’s field, as the Lord had commanded me.”
 <small><sub>**Literal:**</sub></small>
 and they gave them for the field of the potter, as directed me [the] Lord<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.9|<< Matthew 27:9]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.11|Matthew 27:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 27:10** is...
+> $\quad$ referencing: [[LXX.Jer.32.6|Jer 32:6-9]] ☩ [[LXX.Zech.11.12|Zech 11:12-13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

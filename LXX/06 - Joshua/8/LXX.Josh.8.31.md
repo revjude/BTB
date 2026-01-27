@@ -6,6 +6,10 @@ As Moses the servant of the LORD commanded the children of Israel, as it is writ
 <small><sub>**BSB:**</sub></small>
 just as Moses the servant of the LORD had commanded the Israelites. He built it according to what is written in the Book of the Law of Moses: “an altar of uncut stones on which no iron tool has been used.” And on it they offered burnt offerings to the LORD, and they sacrificed peace offerings.<small><sub>**MT:**</sub></small>
 [[Josh.8.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.30|<< Joshua 8:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.32|Joshua 8:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joshua 8:31** is...
+> $\quad$ referenced by: [[LXX.Deut.27.5|Deut 27:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

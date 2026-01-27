@@ -5,6 +5,10 @@ Through the tender mercy of our God; whereby the dayspring from on high hath vis
 because of the tender mercy of our God, by which the Dawn will visit us from on high,
 <small><sub>**Literal:**</sub></small>
 through [the] affections of compassion of God of us in which will visit us [the] Sunrise from on high,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.77|<< Luke 1:77]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.79|Luke 1:79 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:78** is...
+> $\quad$ alluding to: [[LXX.Num.24.17|Num 24:17]] ☩ [[LXX.Mal.4.2|Mal 4:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

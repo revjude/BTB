@@ -5,6 +5,10 @@ And said unto him, Get thee out of thy country, and from thy kindred, and come i
 and told him, ‘Leave your country and your kindred and go to the land I will show you.’
 <small><sub>**Literal:**</sub></small>
 and He said to him; do go out from the country of you and from the kindred of you and come into the land which then to you I may show.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.2|<< Acts 7:2]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.4|Acts 7:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:3** is...
+> $\quad$ referencing: [[LXX.Gen.12.1|Gen 12:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

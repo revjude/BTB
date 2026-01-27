@@ -6,6 +6,10 @@ They shall come with weeping, and with supplications will I lead them: I will ca
 <small><sub>**BSB:**</sub></small>
 They will come with weeping, and by their supplication I will lead them; I will make them walk beside streams of waters, on a level path where they will not stumble. For I am Israel’s Father, and Ephraim is My firstborn.”<small><sub>**MT:**</sub></small>
 [[Jer.31.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.8|<< Jeremiah 31:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.10|Jeremiah 31:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 31:9** is...
+> $\quad$ referenced by: [[2Cor.6.16|2Cor 6:16-18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

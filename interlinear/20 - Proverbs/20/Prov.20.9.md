@@ -5,6 +5,10 @@ Who can say, I have made my heart clean, I am pure from my sin?
 Who can say, “I have kept my heart pure; I am cleansed from my sin”?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.8|<< Proverbs 20:8]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.10|Proverbs 20:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 20:9** is...
+> $\quad$ referenced by: [[1John.1.8|1John 1:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

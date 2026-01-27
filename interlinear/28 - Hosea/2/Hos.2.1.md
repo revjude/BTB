@@ -5,6 +5,10 @@ Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.
 “Say of your brothers, ‘My people,’ and of your sisters, ‘My loved one.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.11|<< Hosea 1:11]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.2|Hosea 2:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 2:1** is...
+> $\quad$ referenced by: [[Rom.9.26|Rom 9:26-27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

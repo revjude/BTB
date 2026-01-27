@@ -5,6 +5,10 @@ It shall not be quenched night nor day; the smoke thereof shall go up for ever: 
 It will not be quenched—day or night. Its smoke will ascend forever. From generation to generation it will lie desolate; no one will ever again pass through it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.9|<< Isaiah 34:9]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.11|Isaiah 34:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 34:10** is...
+> $\quad$ referenced by: [[Rev.14.11|Rev 14:11]] ☩ [[Rev.18.18|Rev 18:18]] ☩ [[Rev.19.3|Rev 19:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

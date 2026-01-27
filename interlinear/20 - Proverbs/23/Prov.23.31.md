@@ -5,6 +5,10 @@ Look not thou upon the wine when it is red, when it giveth his colour in the cup
 Do not gaze at wine while it is red, when it sparkles in the cup and goes down smoothly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.30|<< Proverbs 23:30]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.32|Proverbs 23:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 23:31** is...
+> $\quad$ referenced by: [[Eph.5.18|Eph 5:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

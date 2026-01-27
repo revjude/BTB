@@ -9,6 +9,10 @@ Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from 
 <small><sub>**BSB:**</sub></small>
 When Pharaoh heard about this matter, he sought to kill Moses. But Moses fled from Pharaoh and settled in the land of Midian, where he sat down beside a well.<small><sub>**MT:**</sub></small>
 [[Exod.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.14|<< Exodus 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.16|Exodus 2:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:15** is...
+> $\quad$ referenced by: [[Acts.7.27|Acts 7:27-29]] ☩ [[Heb.11.27|Heb 11:27]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And in [their] hands they shall bear thee up, lest at any time thou dash thy foo
 and they will lift You up in their hands, so that You will not strike Your foot against a stone.’”
 <small><sub>**Literal:**</sub></small>
 and that in [their] hands will they bear You, otherwise You may strike against a stone the foot of You.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.10|<< Luke 4:10]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.12|Luke 4:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 4:11** is...
+> $\quad$ referencing: [[LXX.Ps.91.11|Ps 91:11-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glo
 The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified His servant Jesus. You handed Him over and rejected Him before Pilate, even though he had decided to release Him.
 <small><sub>**Literal:**</sub></small>
 The God of Abraham and the God of Isaac and the God of Jacob, the God of the fathers of us, has glorified the servant of Him Jesus whom you yourselves indeed delivered up and disowned him in [the] presence of Pilate having adjudged that one to release;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.12|<< Acts 3:12]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.14|Acts 3:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 3:13** is...
+> $\quad$ referencing: [[LXX.Exod.3.6|Exod 3:6]] ☩ [[LXX.Exod.3.15|Exod 3:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

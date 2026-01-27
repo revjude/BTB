@@ -5,6 +5,11 @@ I have seen, I have seen the affliction of my people which is in Egypt, and I ha
 I have indeed seen the oppression of My people in Egypt. I have heard their groaning and have come down to deliver them. Now come, I will send you back to Egypt.’
 <small><sub>**Literal:**</sub></small>
 Having seen I saw the oppression of the people of Mine <the> in Egypt and the groans of them I have heard; and I have come down to deliver them; and now come I may send you to Egypt.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.33|<< Acts 7:33]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.35|Acts 7:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:34** is...
+> $\quad$ referencing: [[LXX.Exod.2.24|Exod 2:24]]
+> $\quad$ alluding to: [[LXX.Exod.3.7|Exod 3:7-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

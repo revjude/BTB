@@ -5,6 +5,10 @@ And the nation to whom they shall be in bondage will I judge, said God: and afte
 ‘But I will punish the nation that enslaves them,’ God said, ‘and afterward they will come forth and worship Me in this place.’
 <small><sub>**Literal:**</sub></small>
 And the nation to which then they will be in bondage, will judge I myself, <the> God said and after these things they will come forth and they will serve Me in <the> place this.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.6|<< Acts 7:6]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.8|Acts 7:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:7** is...
+> $\quad$ referencing: [[LXX.Gen.15.13|Gen 15:13-14]] ☩ [[LXX.Exod.3.12|Exod 3:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

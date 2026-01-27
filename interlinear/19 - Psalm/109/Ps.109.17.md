@@ -5,6 +5,10 @@ As he loved cursing, so let it come unto him: as he delighted not in blessing, s
 The cursing that he loved, may it fall on him; the blessing in which he refused to delight, may it be far from him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.16|<< Psalms 109:16]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.18|Psalms 109:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 109:17** is...
+> $\quad$ referenced by: [[John.17.12|John 17:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

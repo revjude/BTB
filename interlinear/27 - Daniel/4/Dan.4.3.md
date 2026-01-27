@@ -5,6 +5,10 @@ How great [are] his signs! and how mighty [are] his wonders! his kingdom [is] an
 How great are His signs, how mighty His wonders! His kingdom is an eternal kingdom; His dominion endures from generation to generation.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.2|<< Daniel 4:2]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.4|Daniel 4:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 4:3** is...
+> $\quad$ referenced by: [[Luke.1.33|Luke 1:33]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

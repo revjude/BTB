@@ -5,6 +5,10 @@ Neither murmur ye, as some of them also murmured, and were destroyed of the dest
 And do not complain, as some of them did, and were killed by the destroying angel.
 <small><sub>**Literal:**</sub></small>
 Neither do grumble just as and some of them grumbled, and perished by the Destroyer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.9|<< 1 Corinthians 10:9]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.11|1 Corinthians 10:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 10:10** is...
+> $\quad$ alluding to: [[LXX.Num.14.2|Num 14:2]] ☩ [[LXX.Num.14.36|Num 14:36]] ☩ [[LXX.Num.21.5|Num 21:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Now therefore, behold, the cry of the children of Israel is come unto me: and I 
 And now the cry of the Israelites has reached Me, and I have seen how severely the Egyptians are oppressing them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.8|<< Exodus 3:8]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.10|Exodus 3:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 3:9** is...
+> $\quad$ referenced by: [[Acts.7.34|Acts 7:34]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

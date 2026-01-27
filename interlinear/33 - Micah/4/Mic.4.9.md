@@ -5,6 +5,10 @@ Now why dost thou cry out aloud? [is there] no king in thee? is thy counseller p
 Why do you now cry aloud? Is there no king among you? Has your counselor perished so that anguish grips you like a woman in labor?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.8|<< Micah 4:8]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.10|Micah 4:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Micah 4:9** is...
+> $\quad$ referenced by: [[Rev.12.1|Rev 12:1-2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For these things were done, that the scripture should be fulfilled, A bone of hi
 Now these things happened so that the Scripture would be fulfilled: “Not one of His bones will be broken.”
 <small><sub>**Literal:**</sub></small>
 Took place for these things so that the Scripture may be fulfilled: Bone not one will be broken from of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.35|<< John 19:35]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.37|John 19:37 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 19:36** is...
+> $\quad$ referencing: [[LXX.Exod.12.46|Exod 12:46]] ☩ [[LXX.Num.9.12|Num 9:12]] ☩ [[LXX.Ps.34.20|Ps 34:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And sware by him that liveth for ever and ever, who created heaven, and the thin
 And he swore by Him who lives forever and ever, who created heaven and everything in it, the earth and everything in it, and the sea and everything in it: “There will be no more delay!
 <small><sub>**Literal:**</sub></small>
 and he swore by the [One] living to the ages of the ages, who created <the> heaven and the [things] in it and the earth and the [things] in it and the sea and the [things] in it that Delay no longer will there be!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.5|<< Revelation 10:5]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.7|Revelation 10:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 10:6** is...
+> $\quad$ alluding to: [[LXX.Exod.20.11|Exod 20:11]] ☩ [[LXX.Ps.146.6|Ps 146:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

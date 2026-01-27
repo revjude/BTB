@@ -5,6 +5,10 @@ And Cain talked with Abel his brother: and it came to pass, when they were in th
 Then Cain said to his brother Abel, “Let us go out to the field.” And while they were in the field, Cain rose up against his brother Abel and killed him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.7|<< Genesis 4:7]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.9|Genesis 4:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 4:8** is...
+> $\quad$ referenced by: [[Matt.23.35|Matt 23:35]] ☩ [[Luke.11.51|Luke 11:51]] ☩ [[1John.3.12|1John 3:12]] ☩ [[Jude.1.11|Jude 1:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

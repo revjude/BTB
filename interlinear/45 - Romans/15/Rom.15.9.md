@@ -5,6 +5,10 @@ And that the Gentiles might glorify God for [his] mercy; as it is written, For t
 so that the Gentiles may glorify God for His mercy. As it is written: “Therefore I will praise You among the Gentiles; I will sing hymns to Your name.”
 <small><sub>**Literal:**</sub></small>
 <the> and [for] the Gentiles for mercy to glorify <the> God even as it has been written: Because of this I will praise You among [the] Gentiles and to the name of You will I sing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.8|<< Romans 15:8]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.10|Romans 15:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 15:9** is...
+> $\quad$ referencing: [[LXX.2Sam.22.50|2Sam 22:50]] ☩ [[LXX.Ps.18.49|Ps 18:49]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

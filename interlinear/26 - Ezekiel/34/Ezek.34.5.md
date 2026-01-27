@@ -5,6 +5,10 @@ And they were scattered, because [there is] no shepherd: and they became meat to
 They were scattered for lack of a shepherd, and when they were scattered they became food for all the wild beasts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.4|<< Ezekiel 34:4]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.6|Ezekiel 34:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 34:5** is...
+> $\quad$ referenced by: [[Mark.6.34|Mark 6:34]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

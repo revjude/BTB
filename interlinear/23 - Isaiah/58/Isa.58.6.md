@@ -5,6 +5,10 @@
 Isn’t this the fast that I have chosen: to break the chains of wickedness, to untie the cords of the yoke, to set the oppressed free and tear off every yoke?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.5|<< Isaiah 58:5]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.7|Isaiah 58:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 58:6** is...
+> $\quad$ referenced by: [[Luke.4.18|Luke 4:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

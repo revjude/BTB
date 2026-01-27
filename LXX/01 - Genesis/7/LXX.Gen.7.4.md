@@ -6,6 +6,10 @@ For yet seven days, and I will cause it to rain upon the earth forty days and fo
 <small><sub>**BSB:**</sub></small>
 For seven days from now I will send rain on the earth for forty days and forty nights, and I will wipe from the face of the earth every living thing I have made.”<small><sub>**MT:**</sub></small>
 [[Gen.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.3|<< Genesis 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.5|Genesis 7:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 7:4** is...
+> $\quad$ referenced by: [[Matt.24.37|Matt 24:37]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

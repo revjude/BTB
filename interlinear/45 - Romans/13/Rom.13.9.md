@@ -5,6 +5,10 @@ For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not st
 The commandments “Do not commit adultery,” “Do not murder,” “Do not steal,” “Do not covet,” and any other commandments, are summed up in this one decree: “Love your neighbor as yourself.”
 <small><sub>**Literal:**</sub></small>
 <the> For Not you will commit adultery, Not you will murder, Not you will steal not will you bear false witness Not you will covet, and if any other commandment, in <the> word this it is summed up, in the [saying] You will love the neighbour of you as yourself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.8|<< Romans 13:8]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.10|Romans 13:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 13:9** is...
+> $\quad$ referencing: [[LXX.Exod.20.13|Exod 20:13-15]] ☩ [[LXX.Exod.20.17|Exod 20:17]] ☩ [[LXX.Deut.5.16|Deut 5:16-21]] ☩ [[LXX.Lev.19.18|Lev 19:18]] ☩ [[LXX.Deut.5.17|Deut 5:17-19]] ☩ [[LXX.Deut.5.21|Deut 5:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

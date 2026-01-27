@@ -5,6 +5,10 @@ He which testifieth these things saith, Surely I come quickly. Amen. Even so, co
 He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus!
 <small><sub>**Literal:**</sub></small>
 Says the [One] testifying these things; Yes I am coming quickly; Amen. yes do come, Lord Jesus!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.19|<< Revelation 22:19]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.21|Revelation 22:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 22:20** is...
+> $\quad$ possibly alluding to: [[LXX.Hab.2.3|Hab 2:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

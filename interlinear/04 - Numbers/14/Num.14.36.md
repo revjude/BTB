@@ -5,6 +5,10 @@ And the men, which Moses sent to search the land, who returned, and made all the
 So the men Moses had sent to spy out the land, who had returned and made the whole congregation grumble against him by bringing out a bad report about the land—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.35|<< Numbers 14:35]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.37|Numbers 14:37 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 14:36** is...
+> $\quad$ referenced by: [[1Cor.10.10|1Cor 10:10]] ☩ [[Heb.9.14|Heb 9:14]] ☩ [[Heb.3.17|Heb 3:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ But the same day that Lot went out of Sodom it rained fire and brimstone from he
 But on the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all.
 <small><sub>**Literal:**</sub></small>
 in that then day went out Lot from Sodom, it rained fire and brimstone from heaven and destroyed all;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.28|<< Luke 17:28]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.30|Luke 17:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 17:29** is...
+> $\quad$ alluding to: [[LXX.Gen.19.16|Gen 19:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

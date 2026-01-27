@@ -5,6 +5,10 @@ Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed 
 “Do not harm the land or sea or trees until we have placed a seal on the foreheads of the servants of our God.”
 <small><sub>**Literal:**</sub></small>
 saying; Not may harm the earth nor the sea nor the trees until when we may have sealed the servants of the God of us on the foreheads of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.2|<< Revelation 7:2]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.4|Revelation 7:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 7:3** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.9.2|Ezek 9:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And he spake unto Korah and unto all his company, saying, Even to morrow the LOR
 Then he said to Korah and all his followers, “Tomorrow morning the LORD will reveal who belongs to Him and who is holy, and He will bring that person near to Himself. The one He chooses He will bring near to Himself.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.4|<< Numbers 16:4]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.6|Numbers 16:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 16:5** is...
+> $\quad$ referenced by: [[2Tim.2.19|2Tim 2:19]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

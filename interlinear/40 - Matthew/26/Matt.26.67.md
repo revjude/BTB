@@ -5,6 +5,10 @@ Then did they spit in his face, and buffeted him; and others smote [him] with th
 Then they spit in His face and struck Him. Others slapped Him
 <small><sub>**Literal:**</sub></small>
 Then they spat in the face of Him and struck Him. Others then slapped [Him]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.66|<< Matthew 26:66]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.68|Matthew 26:68 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 26:67** is...
+> $\quad$ alluding to: [[LXX.Isa.50.6|Isa 50:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

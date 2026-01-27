@@ -6,6 +6,10 @@ For all the land which thou seest, to thee will I give it, and to thy seed for e
 <small><sub>**BSB:**</sub></small>
 for all the land that you see, I will give to you and your offspring forever.<small><sub>**MT:**</sub></small>
 [[Gen.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.14|<< Genesis 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.16|Genesis 13:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 13:15** is...
+> $\quad$ referenced by: [[Acts.7.5|Acts 7:5]] ☩ [[Gal.3.16|Gal 3:16]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

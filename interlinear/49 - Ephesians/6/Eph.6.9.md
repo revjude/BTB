@@ -5,6 +5,10 @@ And, ye masters, do the same things unto them, forbearing threatening: knowing t
 And masters, do the same for your slaves. Give up your use of threats, because you know that He who is both their Master and yours is in heaven, and there is no favoritism with Him.
 <small><sub>**Literal:**</sub></small>
 And you who [are] masters, the [same things] them do perform toward them giving up the threatening, knowing that also of them and of you the master is in [the] heavens and partiality not there is with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.8|<< Ephesians 6:8]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.10|Ephesians 6:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 6:9** is...
+> $\quad$ alluding to: [[LXX.Deut.10.17|Deut 10:17]] ☩ [[LXX.Job.34.19|Job 34:19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

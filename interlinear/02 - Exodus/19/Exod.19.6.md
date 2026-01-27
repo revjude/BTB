@@ -5,6 +5,10 @@ And ye shall be unto me a kingdom of priests, and an holy nation. These [are] th
 And unto Me you shall be a kingdom of priests and a holy nation.’ These are the words that you are to speak to the Israelites.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.5|<< Exodus 19:5]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.7|Exodus 19:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 19:6** is...
+> $\quad$ referenced by: [[Rev.1.6|Rev 1:6]] ☩ [[1Pet.2.9|1Pet 2:9]] ☩ [[Rev.5.10|Rev 5:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

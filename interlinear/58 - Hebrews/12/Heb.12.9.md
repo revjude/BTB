@@ -5,6 +5,10 @@ Furthermore we have had fathers of our flesh which corrected [us], and we gave [
 Furthermore, we have all had earthly fathers who disciplined us, and we respected them. Should we not much more submit to the Father of our spirits and live?
 <small><sub>**Literal:**</sub></small>
 Furthermore <the> indeed of the flesh of us fathers we were having correctors and we were respecting [them]; not much however more will we be in subjection to the Father <the> of spirits and will live?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.8|<< Hebrews 12:8]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.10|Hebrews 12:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:9** is...
+> $\quad$ possibly alluding to: [[LXX.Num.27.16|Num 27:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

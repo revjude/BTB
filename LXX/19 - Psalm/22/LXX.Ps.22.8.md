@@ -6,6 +6,10 @@ He trusted on the LORD [that] he would deliver him: let him deliver him, seeing 
 <small><sub>**BSB:**</sub></small>
 “He trusts in the LORD, let the LORD deliver him; let the LORD rescue him, since He delights in him.”<small><sub>**MT:**</sub></small>
 [[Ps.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.7|<< Psalm 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.9|Psalm 22:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 22:8** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.43|Matt 27:43]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

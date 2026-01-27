@@ -5,6 +5,10 @@ So he measured the house, an hundred cubits long; and the separate place, and th
 Then he measured the temple to be a hundred cubits long, and the temple courtyard and the building with its walls were also a hundred cubits long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.12|<< Ezekiel 41:12]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.14|Ezekiel 41:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 41:13** is...
+> $\quad$ referenced by: [[Rev.11.1|Rev 11:1]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

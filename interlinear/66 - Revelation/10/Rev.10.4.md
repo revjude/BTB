@@ -5,6 +5,10 @@ And when the seven thunders had uttered their voices, I was about to write: and 
 When the seven thunders had spoken, I was about to put it in writing. But I heard a voice from heaven saying, “Seal up what the seven thunders have said, and do not write it down.”
 <small><sub>**Literal:**</sub></small>
 And when spoke the seven thunders, the voices of themselves I was about to write. But I heard a voice out of <the> heaven saying to me do seal what spoke the seven thunders, and not them may write.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.3|<< Revelation 10:3]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.5|Revelation 10:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 10:4** is...
+> $\quad$ alluding to: [[LXX.Dan.12.4|Dan 12:4]] ☩ [[LXX.Dan.7|Dan 7]] ☩ [[LXX.Dan.9|Dan 9]] ☩ [[LXX.Dan.8.26|Dan 8:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

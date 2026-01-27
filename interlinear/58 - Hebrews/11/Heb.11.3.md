@@ -5,6 +5,10 @@ Through faith we understand that the worlds were framed by the word of God, so t
 By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.
 <small><sub>**Literal:**</sub></small>
 By faith we understand to have been formed the ages by declaration of God so that which not out of [things] being visible the [thing] being seen becoming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.2|<< Hebrews 11:2]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.4|Hebrews 11:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:3** is...
+> $\quad$ alluding to: [[LXX.Gen.1.1|Gen 1:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

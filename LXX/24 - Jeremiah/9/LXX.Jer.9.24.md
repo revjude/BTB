@@ -6,6 +6,10 @@ But let him that glorieth glory in this, that he understandeth and knoweth me, t
 <small><sub>**BSB:**</sub></small>
 But let him who boasts boast in this, that he understands and knows Me, that I am the LORD, who exercises loving devotion, justice and righteousness on the earth—for I delight in these things,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.23|<< Jeremiah 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.25|Jeremiah 9:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 9:24** is...
+> $\quad$ referenced by: [[1Cor.1.31|1Cor 1:31]] ☩ [[2Cor.10.17|2Cor 10:17]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And when the Philistines heard that the children of Israel were gathered togethe
 When the Philistines heard that the Israelites had gathered at Mizpah, their rulers marched up toward Israel. And when the Israelites learned of this, they feared the Philistines
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.6|<< 1 Samuel 7:6]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.8|1 Samuel 7:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 7:7** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ For the LORD thy God [is] a consuming fire, [even] a jealous God.
 <small><sub>**BSB:**</sub></small>
 For the LORD your God is a consuming fire, a jealous God.<small><sub>**MT:**</sub></small>
 [[Deut.4.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.23|<< Deuteronomy 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.25|Deuteronomy 4:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 4:24** is...
+> $\quad$ referenced by: [[Heb.12.29|Heb 12:29]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

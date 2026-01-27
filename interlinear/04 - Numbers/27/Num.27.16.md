@@ -5,6 +5,10 @@ Let the LORD, the God of the spirits of all flesh, set a man over the congregati
 “May the LORD, the God of the spirits of all flesh, appoint a man over the congregation
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.15|<< Numbers 27:15]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.17|Numbers 27:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 27:16** is...
+> $\quad$ referenced by: [[Heb.12.9|Heb 12:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And all the souls that came out of the loins of Jacob were seventy souls: for Jo
 <small><sub>**BSB:**</sub></small>
 The descendants of Jacob numbered seventy in all, including Joseph, who was already in Egypt.<small><sub>**MT:**</sub></small>
 [[Exod.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.4|<< Exodus 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.6|Exodus 1:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 1:5** is...
+> $\quad$ referenced by: [[Acts.7.14|Acts 7:14]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

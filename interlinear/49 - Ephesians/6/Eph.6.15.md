@@ -5,6 +5,10 @@ And your feet shod with the preparation of the gospel of peace;
 and with your feet fitted with the readiness of the gospel of peace.
 <small><sub>**Literal:**</sub></small>
 and having shod the feet with [the] readiness of the gospel <the> of peace;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.14|<< Ephesians 6:14]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.16|Ephesians 6:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 6:15** is...
+> $\quad$ alluding to: [[LXX.Isa.52.7|Isa 52:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

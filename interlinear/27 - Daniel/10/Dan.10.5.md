@@ -5,6 +5,10 @@ Then I lifted up mine eyes, and looked, and behold a certain man clothed in line
 I lifted up my eyes, and behold, there was a certain man dressed in linen, with a belt of fine gold from Uphaz around his waist.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.4|<< Daniel 10:4]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.6|Daniel 10:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 10:5** is...
+> $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And it shall be in that day, [that] living waters shall go out from Jerusalem; h
 And on that day living water will flow out from Jerusalem, half of it toward the Eastern Sea and the other half toward the Western Sea, in summer and winter alike.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.7|<< Zechariah 14:7]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.9|Zechariah 14:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 14:8** is...
+> $\quad$ referenced by: [[John.7.38|John 7:38]] ☩ [[Rev.22.1|Rev 22:1-2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

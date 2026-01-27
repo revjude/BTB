@@ -5,6 +5,10 @@ Behold, the LORD hath proclaimed unto the end of the world, Say ye to the daught
 Behold, the LORD has proclaimed to the ends of the earth, “Say to Daughter Zion: See, your Savior comes! Look, His reward is with Him, and His recompense goes before Him.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.62.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.10|<< Isaiah 62:10]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.12|Isaiah 62:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 62:11** is...
+> $\quad$ referenced by: [[Matt.21.5|Matt 21:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

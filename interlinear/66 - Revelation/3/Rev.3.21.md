@@ -5,6 +5,10 @@ To him that overcometh will I grant to sit with me in my throne, even as I also 
 To the one who overcomes, I will grant the right to sit with Me on My throne, just as I overcame and sat down with My Father on His throne.
 <small><sub>**Literal:**</sub></small>
 The [one] overcoming, I will give to him to sit with Me on the throne of Mine as I myself also overcame and I sat down with the Father of Mine on the throne of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.20|<< Revelation 3:20]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.22|Revelation 3:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 3:21** is...
+> $\quad$ possibly alluding to: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

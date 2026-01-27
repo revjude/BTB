@@ -5,6 +5,10 @@ A Psalm of David. The LORD said unto my Lord, Sit thou at my right hand, until I
 A Psalm of David. The LORD said to my Lord: “Sit at My right hand until I make Your enemies a footstool for Your feet.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.110.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110.0|<< Psalms 110:0]]</td><td align="center" style="border:none;">[[Ps.110|Psalms 110]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110.2|Psalms 110:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 110:1** is...
+> $\quad$ referenced by: [[Matt.22.44|Matt 22:44]] ☩ [[Matt.26.64|Matt 26:64]] ☩ [[Mark.12.36|Mark 12:36]] ☩ [[Mark.14.62|Mark 14:62]] ☩ [[Mark.16.19|Mark 16:19]] ☩ [[Luke.20.42|Luke 20:42-43]] ☩ [[Luke.22.69|Luke 22:69]] ☩ [[Acts.2.34|Acts 2:34-35]] ☩ [[1Cor.15.25|1Cor 15:25]] ☩ [[Eph.1.20|Eph 1:20]] ☩ [[Col.3.1|Col 3:1]] ☩ [[Heb.1.3|Heb 1:3]] ☩ [[Heb.1.13|Heb 1:13]] ☩ [[Heb.10.12|Heb 10:12-13]] ☩ [[Heb.8.1|Heb 8:1]] ☩ [[Heb.12.2|Heb 12:2]] ☩ [[Rev.3.21|Rev 3:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

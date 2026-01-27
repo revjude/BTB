@@ -5,6 +5,10 @@ It hath been said, Whosoever shall put away his wife, let him give her a writing
 It has also been said, ‘Whoever divorces his wife must give her a certificate of divorce.’
 <small><sub>**Literal:**</sub></small>
 It was said also that: Who[ever] maybe may divorce the wife of him, he should give to her a letter of divorce.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.30|<< Matthew 5:30]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.32|Matthew 5:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 5:31** is...
+> $\quad$ referencing: [[LXX.Deut.24.1|Deut 24:1]][[LXX.Deut.24.3|, 3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

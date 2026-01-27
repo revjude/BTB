@@ -5,6 +5,10 @@ And thou, child, shalt be called the prophet of the Highest: for thou shalt go b
 And you, child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for Him,
 <small><sub>**Literal:**</sub></small>
 And you yourself now, child, prophet of [the] Most High will be called; you will go for in front of [the] face of [the] Lord to prepare ways of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.75|<< Luke 1:75]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.77|Luke 1:77 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:76** is...
+> $\quad$ alluding to: [[LXX.Mal.3.1|Mal 3:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

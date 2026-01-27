@@ -5,6 +5,10 @@ The Spirit of the Lord [is] upon me, because he hath anointed me to preach the g
 “The Spirit of the Lord is on Me, because He has anointed Me to preach good news to the poor. He has sent Me to proclaim liberty to the captives and recovery of sight to the blind, to release the oppressed,
 <small><sub>**Literal:**</sub></small>
 [The] Spirit of [the] Lord [is] upon Me myself, of which because He has anointed Me to evangelise to [the] poor, He has sent Me to heal the bruised <the> heart to proclaim to [the] captives deliverance and to [the] blind recovery of sight, to send forth [the] oppressed in deliverance,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.17|<< Luke 4:17]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.19|Luke 4:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 4:18** is...
+> $\quad$ referencing: [[LXX.Isa.58.6|Isa 58:6]] ☩ [[LXX.Isa.61.1|Isa 61:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

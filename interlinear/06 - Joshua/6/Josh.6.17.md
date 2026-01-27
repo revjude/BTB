@@ -5,6 +5,10 @@ And the city shall be accursed, [even] it, and all that [are] therein, to the LO
 Now the city and everything in it must be devoted to the LORD for destruction. Only Rahab the prostitute and all those with her in her house will live, because she hid the spies we sent.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.16|<< Joshua 6:16]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.18|Joshua 6:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joshua 6:17** is...
+> $\quad$ referenced by: [[Heb.11.31|Heb 11:31]] ☩ [[Jas.2.25|Jas 2:25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

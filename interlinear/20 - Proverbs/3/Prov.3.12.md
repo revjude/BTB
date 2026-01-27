@@ -5,6 +5,10 @@ For whom the LORD loveth he correcteth; even as a father the son [in whom] he de
 for the LORD disciplines the one He loves, as does a father the son in whom he delights.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.11|<< Proverbs 3:11]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.13|Proverbs 3:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 3:12** is...
+> $\quad$ referenced by: [[Heb.12.5|Heb 12:5-6]] ☩ [[Rev.3.19|Rev 3:19]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

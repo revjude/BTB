@@ -9,6 +9,10 @@ And Israel abode in Shittim, and the people began to commit whoredom with the da
 <small><sub>**BSB:**</sub></small>
 While Israel was staying in Shittim, the men began to indulge in sexual immorality with the daughters of Moab,<small><sub>**MT:**</sub></small>
 [[Num.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.25|<< Numbers 24:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.2|Numbers 25:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 25:1** is...
+> $\quad$ referenced by: [[1Cor.10.8|1Cor 10:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

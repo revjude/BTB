@@ -5,6 +5,10 @@ Thus saith the LORD, The heaven [is] my throne, and the earth [is] my footstool:
 This is what the LORD says: “Heaven is My throne, and earth is My footstool. What kind of house will you build for Me? Or where will My place of repose be?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.25|<< Isaiah 65:25]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.2|Isaiah 66:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 66:1** is...
+> $\quad$ referenced by: [[Matt.5.34|Matt 5:34-35]] ☩ [[Acts.7.49|Acts 7:49-50]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

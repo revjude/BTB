@@ -5,6 +5,10 @@ Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heigh
 Hallelujah! Praise the LORD from the heavens; praise Him in the highest places.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.20|<< Psalms 147:20]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.2|Psalms 148:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 148:1** is...
+> $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Mark.11.10|Mark 11:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

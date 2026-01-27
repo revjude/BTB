@@ -5,6 +5,10 @@ And he shall take of the blood of the bullock, and sprinkle [it] with his finger
 And he is to take some of the bull’s blood and sprinkle it with his finger on the east side of the mercy seat; then he shall sprinkle some of it with his finger seven times before the mercy seat.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.13|<< Leviticus 16:13]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.15|Leviticus 16:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 16:14** is...
+> $\quad$ referenced by: [[Heb.9.13|Heb 9:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

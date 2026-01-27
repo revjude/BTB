@@ -5,6 +5,10 @@ By faith Moses, when he was born, was hid three months of his parents, because t
 By faith Moses’ parents hid him for three months after his birth, because they saw that he was a beautiful child, and they were unafraid of the king’s edict.
 <small><sub>**Literal:**</sub></small>
 By faith Moses having been born he was hidden three months by the parents of him because they saw [was] beautiful the little child and not they did fear the edict of the king.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.22|<< Hebrews 11:22]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.24|Hebrews 11:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:23** is...
+> $\quad$ alluding to: [[LXX.Exod.2.2|Exod 2:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

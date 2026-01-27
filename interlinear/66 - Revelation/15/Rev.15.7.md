@@ -5,6 +5,10 @@ And one of the four beasts gave unto the seven angels seven golden vials full of
 Then one of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.
 <small><sub>**Literal:**</sub></small>
 And one of the four living creatures gave to the seven angels seven bowls golden full of the wrath <the> of God who is living to the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.6|<< Revelation 15:6]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.8|Revelation 15:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 15:7** is...
+> $\quad$ alluding to: [[LXX.Ezek.10.7|Ezek 10:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

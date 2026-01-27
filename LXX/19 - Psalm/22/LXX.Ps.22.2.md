@@ -6,6 +6,10 @@ O my God, I cry in the daytime, but thou hearest not; and in the night season, a
 <small><sub>**BSB:**</sub></small>
 I cry out by day, O my God, but You do not answer, and by night, but I have no rest.<small><sub>**MT:**</sub></small>
 [[Ps.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.1|<< Psalm 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.3|Psalm 22:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 22:2** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

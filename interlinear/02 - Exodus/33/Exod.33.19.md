@@ -5,6 +5,10 @@ And he said, I will make all my goodness pass before thee, and I will proclaim t
 “I will cause all My goodness to pass before you,” the LORD replied, “and I will proclaim My name—the LORD—in your presence. I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.18|<< Exodus 33:18]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.20|Exodus 33:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 33:19** is...
+> $\quad$ referenced by: [[Rom.9.15|Rom 9:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

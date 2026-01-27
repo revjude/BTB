@@ -5,6 +5,10 @@ If ye fulfil the royal law according to the scripture, Thou shalt love thy neigh
 If you really fulfill the royal law stated in Scripture, “Love your neighbor as yourself,” you are doing well.
 <small><sub>**Literal:**</sub></small>
 If indeed [the] law you keep royal according to the Scripture; You will love the neighbour of you as yourself, well you are doing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.7|<< James 2:7]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.9|James 2:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 2:8** is...
+> $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

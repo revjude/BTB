@@ -5,6 +5,10 @@ Save now, I beseech thee, O LORD: O LORD, I beseech thee, send now prosperity.
 O LORD, save us, we pray. We beseech You, O LORD, cause us to prosper!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.24|<< Psalms 118:24]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.26|Psalms 118:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 118:25** is...
+> $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Mark.11.9|Mark 11:9-10]] ☩ [[John.12.13|John 12:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

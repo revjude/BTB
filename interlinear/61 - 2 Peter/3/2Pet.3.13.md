@@ -5,6 +5,10 @@ Nevertheless we, according to his promise, look for new heavens and a new earth,
 But in keeping with God’s promise, we are looking forward to a new heaven and a new earth, where righteousness dwells.
 <small><sub>**Literal:**</sub></small>
 New however heavens and earth a new according to the promise of Him we are awaiting, in which righteousness dwells.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.12|<< 2 Peter 3:12]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.14|2 Peter 3:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 3:13** is...
+> $\quad$ referencing: [[LXX.Isa.65.17|Isa 65:17]] ☩ [[LXX.Isa.66.22|Isa 66:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

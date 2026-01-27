@@ -5,6 +5,10 @@ And when the queen of Sheba heard of the fame of Solomon concerning the name of 
 Now when the queen of Sheba heard about the fame of Solomon concerning the name of the LORD, she came to test him with difficult questions.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.28|<< 1 Kings 9:28]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.2|1 Kings 10:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 10:1** is...
+> $\quad$ referenced by: [[Matt.12.42|Matt 12:42]] ☩ [[Luke.11.31|Luke 11:31]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

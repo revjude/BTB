@@ -5,6 +5,10 @@ And Jacob said, Sell me this day thy birthright.
 “First sell me your birthright,” Jacob replied.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.30|<< Genesis 25:30]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.32|Genesis 25:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 25:31** is...
+> $\quad$ referenced by: [[Heb.12.16|Heb 12:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

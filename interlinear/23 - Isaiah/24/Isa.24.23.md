@@ -5,6 +5,10 @@ Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts s
 The moon will be confounded and the sun will be ashamed; for the LORD of Hosts will reign on Mount Zion and in Jerusalem, and before His elders with great glory.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.22|<< Isaiah 24:22]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.1|Isaiah 25:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 24:23** is...
+> $\quad$ referenced by: [[Rev.6.12|Rev 6:12-13]] ☩ [[Rev.22.5|Rev 22:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

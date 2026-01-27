@@ -5,6 +5,10 @@ And again, when he bringeth in the firstbegotten into the world, he saith, And l
 And again, when God brings His firstborn into the world, He says: “Let all God’s angels worship Him.”
 <small><sub>**Literal:**</sub></small>
 When then again He may bring the Firstborn into the world He says: And should worship Him all [the] angels of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.5|<< Hebrews 1:5]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.7|Hebrews 1:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 1:6** is...
+> $\quad$ referencing: [[LXX.Deut.32.43|Deut 32:43]] ☩ [[LXX.Ps.97.7|Ps 97:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

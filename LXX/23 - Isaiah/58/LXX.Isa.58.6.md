@@ -6,6 +6,10 @@ choose I not such a fast, says \[the\] <span class="smallcaps">lord</span>. But 
 <small><sub>**BSB:**</sub></small>
 Isn’t this the fast that I have chosen: to break the chains of wickedness, to untie the cords of the yoke, to set the oppressed free and tear off every yoke?<small><sub>**MT:**</sub></small>
 [[Isa.58.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.5|<< Isaiah 58:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.7|Isaiah 58:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 58:6** is...
+> $\quad$ referenced by: [[Luke.4.18|Luke 4:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

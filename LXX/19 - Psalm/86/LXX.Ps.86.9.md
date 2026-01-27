@@ -6,6 +6,10 @@ All nations whom thou hast made shall come and worship before thee, O Lord; and 
 <small><sub>**BSB:**</sub></small>
 All the nations You have made will come and bow before You, O Lord, and they will glorify Your name.<small><sub>**MT:**</sub></small>
 [[Ps.86.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.8|<< Psalm 86:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.10|Psalm 86:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 86:9** is...
+> $\quad$ referenced by: [[Rev.15.4|Rev 15:4]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

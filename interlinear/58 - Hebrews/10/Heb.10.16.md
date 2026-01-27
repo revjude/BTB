@@ -5,6 +5,10 @@ This [is] the covenant that I will make with them after those days, saith the Lo
 “This is the covenant I will make with them after those days, declares the Lord. I will put My laws in their hearts and inscribe them on their minds.”
 <small><sub>**Literal:**</sub></small>
 This [is] the covenant that I will make with them after the days those, says [the] Lord, putting [the] laws of Mine into [the] hearts of them and into the mind of them I will inscribe them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.15|<< Hebrews 10:15]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.17|Hebrews 10:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:16** is...
+> $\quad$ referencing: [[LXX.Jer.31.33|Jer 31:33-34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

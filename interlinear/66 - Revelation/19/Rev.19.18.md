@@ -5,6 +5,11 @@ That ye may eat the flesh of kings, and the flesh of captains, and the flesh of 
 so that you may eat the flesh of kings and commanders and mighty men, of horses and riders, of everyone slave and free, small and great.”
 <small><sub>**Literal:**</sub></small>
 so that you may eat [the] flesh of kings and [the] flesh of commanders and [the] flesh of mighty [men] and [the] flesh of horses and of those sitting on them and [the] flesh of all, free both and slaves and small both and great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.17|<< Revelation 19:17]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.19|Revelation 19:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:18** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.34.6|Isa 34:6]]
+> $\quad$ alluding to: [[LXX.Ezek.39.17|Ezek 39:17-20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

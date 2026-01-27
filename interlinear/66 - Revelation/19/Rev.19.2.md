@@ -5,6 +5,10 @@ For true and righteous [are] his judgments: for he hath judged the great whore, 
 For His judgments are true and just. He has judged the great prostitute who corrupted the earth with her immorality. He has avenged the blood of His servants that was poured out by her hand.”
 <small><sub>**Literal:**</sub></small>
 For true and righteous [are] the judgments of Him, because He has judged the prostitute <the> great who was corrupting the earth with the sexual immorality of her, and He has avenged the blood of the servants of Him out of the hand of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.1|<< Revelation 19:1]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.3|Revelation 19:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:2** is...
+> $\quad$ alluding to: [[LXX.Deut.32.4|Deut 32:4]] ☩ [[LXX.Deut.32.43|Deut 32:43]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

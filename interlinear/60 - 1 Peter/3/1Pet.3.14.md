@@ -5,6 +5,10 @@ But and if ye suffer for righteousness’ sake, happy [are ye]: and be not afrai
 But even if you should suffer for what is right, you are blessed. “Do not fear what they fear; do not be shaken.”
 <small><sub>**Literal:**</sub></small>
 But if even you would suffer because of righteousness, [you are] blessed. <the> And the threats of them not shall you be afraid of neither shall you be troubled;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.13|<< 1 Peter 3:13]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.15|1 Peter 3:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 3:14** is...
+> $\quad$ referencing: [[LXX.Isa.8.12|Isa 8:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

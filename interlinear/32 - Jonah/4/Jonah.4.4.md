@@ -5,6 +5,10 @@ Then said the LORD, Doest thou well to be angry?
 But the LORD replied, “Have you any right to be angry?”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.3|<< Jonah 4:3]]</td><td align="center" style="border:none;">[[Jonah.4|Jonah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.4.5|Jonah 4:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jonah 4:4** is...
+> $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

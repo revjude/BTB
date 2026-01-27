@@ -9,6 +9,10 @@ And the LORD sent fiery serpents among the people, and they bit the people; and 
 <small><sub>**BSB:**</sub></small>
 So the LORD sent venomous snakes among the people, and many of the Israelites were bitten and died.<small><sub>**MT:**</sub></small>
 [[Num.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.5|<< Numbers 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.7|Numbers 21:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 21:6** is...
+> $\quad$ referenced by: [[1Cor.10.9|1Cor 10:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

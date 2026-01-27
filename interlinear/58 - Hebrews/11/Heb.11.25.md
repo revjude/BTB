@@ -5,6 +5,10 @@ Choosing rather to suffer affliction with the people of God, than to enjoy the p
 He chose to suffer oppression with God’s people rather than to experience the fleeting enjoyment of sin.
 <small><sub>**Literal:**</sub></small>
 rather having chosen to suffer affliction with the people <the> of God than [the] temporary to have of sin enjoyment;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.24|<< Hebrews 11:24]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.26|Hebrews 11:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:25** is...
+> $\quad$ alluding to: [[LXX.Exod.2.11|Exod 2:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

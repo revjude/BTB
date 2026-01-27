@@ -5,6 +5,10 @@ Now he that ministereth seed to the sower both minister bread for [your] food, a
 Now He who supplies seed to the sower and bread for food will supply and multiply your store of seed and will increase the harvest of your righteousness.
 <small><sub>**Literal:**</sub></small>
 The [One] now supplying seed to him sowing and bread for food will supply and will multiply the seed for sowing of you and will increase the fruits of the righteousness of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.9|<< 2 Corinthians 9:9]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.11|2 Corinthians 9:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 9:10** is...
+> $\quad$ referencing: [[LXX.Isa.55.10|Isa 55:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

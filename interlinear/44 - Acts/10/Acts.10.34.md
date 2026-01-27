@@ -5,6 +5,10 @@ Then Peter opened [his] mouth, and said, Of a truth I perceive that God is no re
 Then Peter began to speak: “I now truly understand that God does not show favoritism,
 <small><sub>**Literal:**</sub></small>
 Having opened then Peter the mouth he said; Of a truth I grasped that not is One who shows partiality <the> God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.33|<< Acts 10:33]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.35|Acts 10:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 10:34** is...
+> $\quad$ alluding to: [[LXX.Deut.10.17|Deut 10:17]] ☩ [[LXX.Job.34.19|Job 34:19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

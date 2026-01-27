@@ -5,6 +5,10 @@ And Jacob said unto Pharaoh, The days of the years of my pilgrimage [are] an hun
 “My travels have lasted 130 years,” Jacob replied. “My years have been few and hard, and they have not matched the years of the travels of my fathers.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.8|<< Genesis 47:8]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.10|Genesis 47:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 47:9** is...
+> $\quad$ referenced by: [[Heb.11.13|Heb 11:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

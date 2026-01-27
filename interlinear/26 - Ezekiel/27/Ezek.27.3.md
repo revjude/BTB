@@ -5,6 +5,10 @@ And say unto Tyrus, O thou that art situate at the entry of the sea, [which art]
 Tell Tyre, who dwells at the gateway to the sea, merchant of the peoples on many coasts, that this is what the Lord GOD says: You have said, O Tyre, ‘I am perfect in beauty.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.2|<< Ezekiel 27:2]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.4|Ezekiel 27:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 27:3** is...
+> $\quad$ referenced by: [[Rev.18.11|Rev 18:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

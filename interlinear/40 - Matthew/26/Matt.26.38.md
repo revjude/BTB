@@ -5,6 +5,10 @@ Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry 
 Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch with Me.”
 <small><sub>**Literal:**</sub></small>
 Then He says to them <the> Jesus: Very sorrowful is the soul of Mine until death; do remain here and do watch with Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.37|<< Matthew 26:37]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.39|Matthew 26:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 26:38** is...
+> $\quad$ referencing: [[LXX.Ps.42.5|Ps 42:5]][[LXX.Ps.42.11|, 11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And many lepers were in Israel in the time of Eliseus the prophet; and none of t
 And there were many lepers in Israel in the time of Elisha the prophet. Yet not one of them was cleansed—only Naaman the Syrian.”
 <small><sub>**Literal:**</sub></small>
 And many lepers were in <the> Israel in the time of Elisha the prophet; and none of them was cleansed only except Naaman the Syrian.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.26|<< Luke 4:26]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.28|Luke 4:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 4:27** is...
+> $\quad$ alluding to: [[LXX.2Kgs.5.14|2Kgs 5:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

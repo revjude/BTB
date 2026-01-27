@@ -5,6 +5,10 @@ He shall not strive, nor cry; neither shall any man hear his voice in the street
 He will not quarrel or cry out; no one will hear His voice in the streets.
 <small><sub>**Literal:**</sub></small>
 Not will He quarrel nor will he cry out, nor will hear anyone in the streets the voice of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.18|<< Matthew 12:18]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.20|Matthew 12:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 12:19** is...
+> $\quad$ referencing: [[LXX.Isa.42.1|Isa 42:1-4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

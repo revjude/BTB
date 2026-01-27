@@ -5,6 +5,10 @@ That it might be fulfilled which was spoken by Esaias the prophet, saying, Himse
 This was to fulfill what was spoken through the prophet Isaiah: “He took up our infirmities and carried our diseases.”
 <small><sub>**Literal:**</sub></small>
 so that it may be fulfilled that having been spoken through Isaiah the prophet saying; Himself the infirmities of us He took and <the> [our] diseases bore.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.16|<< Matthew 8:16]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.18|Matthew 8:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 8:17** is...
+> $\quad$ referencing: [[LXX.Isa.53.4|Isa 53:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

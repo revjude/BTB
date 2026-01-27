@@ -5,6 +5,10 @@ Hereafter shall the Son of man sit on the right hand of the power of God.
 But from now on the Son of Man will be seated at the right hand of the power of God.”
 <small><sub>**Literal:**</sub></small>
 From <the> now on also will be the Son <the> of Man sitting at [the] right hand of the power <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.68|<< Luke 22:68]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.70|Luke 22:70 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 22:69** is...
+> $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]] ☩ [[LXX.Dan.7.13|Dan 7:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

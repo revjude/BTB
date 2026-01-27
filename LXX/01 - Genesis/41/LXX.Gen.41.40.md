@@ -6,6 +6,10 @@ Thou shalt be over my house, and according unto thy word shall all my people be 
 <small><sub>**BSB:**</sub></small>
 You shall be in charge of my house, and all my people are to obey your commands. Only with regard to the throne will I be greater than you.”<small><sub>**MT:**</sub></small>
 [[Gen.41.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.39|<< Genesis 41:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.41|Genesis 41:41 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 41:40** is...
+> $\quad$ referenced by: [[Acts.7.10|Acts 7:10]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

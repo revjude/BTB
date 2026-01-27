@@ -6,6 +6,10 @@ I have sworn by myself, the word is gone out of my mouth [in] righteousness, and
 <small><sub>**BSB:**</sub></small>
 By Myself I have sworn; truth has gone out from My mouth, a word that will not be revoked: Every knee will bow before Me, every tongue will swear allegiance.<small><sub>**MT:**</sub></small>
 [[Isa.45.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.22|<< Isaiah 45:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.24|Isaiah 45:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 45:23** is...
+> $\quad$ referenced by: [[Rom.14.11|Rom 14:11]] ☩ [[Phil.2.10|Phil 2:10]] ☩ [[Phil.2.11|Phil 2:11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

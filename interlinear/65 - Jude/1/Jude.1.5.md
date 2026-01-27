@@ -5,6 +5,10 @@ I will therefore put you in remembrance, though ye once knew this, how that the 
 Although you are fully aware of this, I want to remind you that after Jesus had delivered His people out of the land of Egypt, He destroyed those who did not believe.
 <small><sub>**Literal:**</sub></small>
 To remind now you I want, knowing you everything, that <the> Lord once a people out of [the] land of Egypt having saved <the> afterward those not having believed He destroyed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.4|<< Jude 1:4]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.6|Jude 1:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jude 1:5** is...
+> $\quad$ alluding to: [[LXX.Exod.12.41|Exod 12:41]] ☩ [[LXX.Num.14.32|Num 14:32]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

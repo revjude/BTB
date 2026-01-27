@@ -5,6 +5,10 @@ And the fifth angel poured out his vial upon the seat of the beast; and his king
 And the fifth angel poured out his bowl on the throne of the beast, and its kingdom was plunged into darkness, and men began to gnaw their tongues in anguish
 <small><sub>**Literal:**</sub></small>
 And the fifth angel poured out the bowl of him upon the throne of the beast, and became the kingdom of it darkened, and they were gnawing the tongues of them for the distress<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.9|<< Revelation 16:9]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.11|Revelation 16:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 16:10** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.10.22|Exod 10:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

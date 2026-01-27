@@ -5,6 +5,10 @@ And Moses took the blood, and sprinkled [it] on the people, and said, Behold the
 So Moses took the blood, splattered it on the people, and said, “This is the blood of the covenant that the LORD has made with you in accordance with all these words.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.7|<< Exodus 24:7]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.9|Exodus 24:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 24:8** is...
+> $\quad$ referenced by: [[Heb.9.20|Heb 9:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ As a dog returneth to his vomit, [so] a fool returneth to his folly.
 As a dog returns to its vomit, so a fool repeats his folly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.10|<< Proverbs 26:10]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.12|Proverbs 26:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 26:11** is...
+> $\quad$ referenced by: [[2Pet.2.22|2Pet 2:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Oh that thou wouldest rend the heavens, that thou wouldest come down, that the m
 If only You would rend the heavens and come down, so that mountains would quake at Your presence,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.19|<< Isaiah 63:19]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.2|Isaiah 64:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 64:1** is...
+> $\quad$ referenced by: [[Heb.10.27|Heb 10:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

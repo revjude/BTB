@@ -5,6 +5,10 @@ From henceforth expecting till his enemies be made his footstool.
 Since that time, He waits for His enemies to be made a footstool for His feet,
 <small><sub>**Literal:**</sub></small>
 the henceforth awaiting until may be placed the enemies of Him [as] a footstool for the feet of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.12|<< Hebrews 10:12]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.14|Hebrews 10:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:13** is...
+> $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

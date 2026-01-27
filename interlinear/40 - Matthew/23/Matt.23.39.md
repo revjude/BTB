@@ -5,6 +5,10 @@ For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed [
 For I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”
 <small><sub>**Literal:**</sub></small>
 I say for to you; certainly not Me shall you see from now until when you may say; Blessed [is] the [One] coming in [the] name of [the] Lord.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.38|<< Matthew 23:38]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.1|Matthew 24:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 23:39** is...
+> $\quad$ alluding to: [[LXX.Ps.118.26|Ps 118:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

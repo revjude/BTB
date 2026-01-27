@@ -5,6 +5,10 @@ Awake, O sword, against my shepherd, and against the man [that is] my fellow, sa
 Awake, O sword, against My Shepherd, against the man who is My Companion, declares the LORD of Hosts. Strike the Shepherd, and the sheep will be scattered, and I will turn My hand against the little ones.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.13.6|<< Zechariah 13:6]]</td><td align="center" style="border:none;">[[Zech.13|Zechariah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.13.8|Zechariah 13:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 13:7** is...
+> $\quad$ referenced by: [[Matt.26.31|Matt 26:31]] ☩ [[Mark.14.27|Mark 14:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

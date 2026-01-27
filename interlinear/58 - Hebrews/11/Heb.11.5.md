@@ -5,6 +5,10 @@ By faith Enoch was translated that he should not see death; and was not found, b
 By faith Enoch was taken up so that he did not see death: “He could not be found, because God had taken him away.” For before he was taken, he was commended as one who pleased God.
 <small><sub>**Literal:**</sub></small>
 By faith Enoch was translated <the> not to see death and not was he found because took up him <the> God; Before for the translation of him he has been commended to have pleased <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.4|<< Hebrews 11:4]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.6|Hebrews 11:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:5** is...
+> $\quad$ referencing: [[LXX.Gen.5.24|Gen 5:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

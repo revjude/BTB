@@ -5,6 +5,10 @@ Nevertheless the foundation of God standeth sure, having this seal, The Lord kno
 Nevertheless, God’s firm foundation stands, bearing this seal: “The Lord knows those who are His,” and, “Everyone who calls on the name of the Lord must turn away from iniquity.”
 <small><sub>**Literal:**</sub></small>
 <the> Nevertheless the firm foundation <the> of God has stood having <the> seal this: Knows [the] Lord those being His, and should depart from iniquity everyone who is naming the name of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.18|<< 2 Timothy 2:18]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.20|2 Timothy 2:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Timothy 2:19** is...
+> $\quad$ referencing: [[LXX.Num.16.5|Num 16:5]] ☩ [[LXX.Isa.26.13|Isa 26:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

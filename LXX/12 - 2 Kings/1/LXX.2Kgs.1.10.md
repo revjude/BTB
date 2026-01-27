@@ -6,6 +6,10 @@ And Elijah answered and said to the captain of fifty, If I [be] a man of God, th
 <small><sub>**BSB:**</sub></small>
 Elijah answered the captain, “If I am a man of God, may fire come down from heaven and consume you and your fifty men.” And fire came down from heaven and consumed the captain and his fifty men.<small><sub>**MT:**</sub></small>
 [[2Kgs.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.9|<< 2 Kings 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.11|2 Kings 1:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Kings 1:10** is...
+> $\quad$ referenced by: [[Luke.9.54|Luke 9:54]] ☩ [[Rev.11.5|Rev 11:5]] ☩ [[Rev.20.9|Rev 20:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

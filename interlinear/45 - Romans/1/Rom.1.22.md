@@ -5,6 +5,11 @@ Professing themselves to be wise, they became fools,
 Although they claimed to be wise, they became fools,
 <small><sub>**Literal:**</sub></small>
 Professing to be wise they became fools<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.21|<< Romans 1:21]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.23|Romans 1:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 1:22** is...
+> $\quad$ referencing: [[LXX.Ps.26.12|Ps 26:12]]
+> $\quad$ alluding to: [[LXX.Jer.10.14|Jer 10:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ The queen of the south shall rise up in the judgment with this generation, and s
 The Queen of the South will rise at the judgment with this generation and condemn it; for she came from the ends of the earth to hear the wisdom of Solomon, and now One greater than Solomon is here.
 <small><sub>**Literal:**</sub></small>
 [The] queen of [the] south will rise up in the judgment with <the> generation this and will condemn it, for she came from the ends of the earth to hear the wisdom of Solomon; and behold greater than Solomon here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.41|<< Matthew 12:41]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.43|Matthew 12:43 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 12:42** is...
+> $\quad$ alluding to: [[LXX.1Kgs.10.1|1Kgs 10:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

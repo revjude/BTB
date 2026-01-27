@@ -5,6 +5,10 @@ Lord, they have killed thy prophets, and digged down thine altars; and I am left
 “Lord, they have killed Your prophets and torn down Your altars. I am the only one left, and they are seeking my life as well”?
 <small><sub>**Literal:**</sub></small>
 Lord, the prophets of You they have killed, and the altars of You they have torn down, and I myself were left alone, and they are seeking the life of me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.2|<< Romans 11:2]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.4|Romans 11:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 11:3** is...
+> $\quad$ referencing: [[LXX.1Kgs.19.10|1Kgs 19:10]] ☩ [[LXX.1Kgs.19.14|1Kgs 19:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

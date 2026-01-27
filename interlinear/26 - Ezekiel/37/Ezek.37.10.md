@@ -5,6 +5,10 @@ So I prophesied as he commanded me, and the breath came into them, and they live
 So I prophesied as He had commanded me, and the breath entered them, and they came to life and stood on their feet—a vast army.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.9|<< Ezekiel 37:9]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.11|Ezekiel 37:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 37:10** is...
+> $\quad$ referenced by: [[Rev.11.11|Rev 11:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

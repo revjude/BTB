@@ -6,6 +6,10 @@ And thou shalt put therein the ark of the testimony, and cover the ark with the 
 <small><sub>**BSB:**</sub></small>
 Put the ark of the Testimony in it and screen off the ark with the veil.<small><sub>**MT:**</sub></small>
 [[Exod.40.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.2|<< Exodus 40:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.4|Exodus 40:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 40:3** is...
+> $\quad$ referenced by: [[Heb.9.2|Heb 9:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ Yet the LORD hath not given you an heart to perceive, and eyes to see, and ears 
 Yet to this day the LORD has not given you a mind to understand, eyes to see, or ears to hear.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.3|<< Deuteronomy 29:3]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.5|Deuteronomy 29:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 29:4** is...
+> $\quad$ referenced by: [[Rom.11.8|Rom 11:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

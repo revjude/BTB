@@ -5,6 +5,10 @@ And Samuel spake unto all the house of Israel, saying, If ye do return unto the 
 Then Samuel said to all the house of Israel, “If you are returning to the LORD with all your hearts, then put away the foreign gods and Ashtoreths among you, prepare your hearts for the LORD, and serve Him only. And He will deliver you from the hand of the Philistines.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.2|<< 1 Samuel 7:2]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.4|1 Samuel 7:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 7:3** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

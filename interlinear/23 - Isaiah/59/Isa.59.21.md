@@ -5,6 +5,10 @@ As for me, this [is] my covenant with them, saith the LORD; My spirit that [is] 
 “As for Me, this is My covenant with them,” says the LORD. “My Spirit will not depart from you, and My words that I have put in your mouth will not depart from your mouth or from the mouths of your children and grandchildren, from now on and forevermore,” says the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.20|<< Isaiah 59:20]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.1|Isaiah 60:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 59:21** is...
+> $\quad$ referenced by: [[Rom.11.26|Rom 11:26-27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

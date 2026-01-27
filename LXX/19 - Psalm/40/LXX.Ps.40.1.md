@@ -11,6 +11,10 @@ To the chief Musician, A Psalm of David. I waited patiently for the LORD; and he
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. I waited patiently for the LORD; He inclined to me and heard my cry.<small><sub>**MT:**</sub></small>
 [[Ps.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.13|<< Psalm 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.2|Psalm 40:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 40:1** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

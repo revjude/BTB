@@ -6,6 +6,10 @@ I have preached righteousness in the great congregation: lo, I have not refraine
 <small><sub>**BSB:**</sub></small>
 I proclaim righteousness in the great assembly; behold, I do not seal my lips, as You, O LORD, do know.<small><sub>**MT:**</sub></small>
 [[Ps.40.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.8|<< Psalm 40:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.10|Psalm 40:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 40:9** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

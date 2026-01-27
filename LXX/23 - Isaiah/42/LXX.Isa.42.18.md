@@ -9,6 +9,10 @@ Hear, ye deaf; and look, ye blind, that ye may see.
 <small><sub>**BSB:**</sub></small>
 Listen, you deaf ones; look, you blind ones, that you may see!<small><sub>**MT:**</sub></small>
 [[Isa.42.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.17|<< Isaiah 42:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.19|Isaiah 42:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 42:18** is...
+> $\quad$ referenced by: [[Matt.11.5|Matt 11:5]] ☩ [[Luke.7.22|Luke 7:22]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

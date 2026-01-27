@@ -6,6 +6,10 @@ But be not thou far from me, O LORD: O my strength, haste thee to help me.
 <small><sub>**BSB:**</sub></small>
 But You, O LORD, be not far off; O my Strength, come quickly to help me.<small><sub>**MT:**</sub></small>
 [[Ps.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.18|<< Psalm 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.20|Psalm 22:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 22:19** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

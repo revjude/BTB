@@ -5,6 +5,11 @@
 ‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look.
 <small><sub>**Literal:**</sub></small>
 I myself [am] the God of the Fathers of you, the God of Abraham and the God of Isaac and the God of Jacob.’ Terrified then having become Moses not he was daring to look.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.31|<< Acts 7:31]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.33|Acts 7:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:32** is...
+> $\quad$ referencing: [[LXX.Exod.3.6|Exod 3:6]]
+> $\quad$ alluding to: [[LXX.Exod.3.15|Exod 3:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

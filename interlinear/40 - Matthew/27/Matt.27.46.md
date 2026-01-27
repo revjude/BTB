@@ -5,6 +5,10 @@ And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama s
 About the ninth hour Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”
 <small><sub>**Literal:**</sub></small>
 About then the ninth hour cried out <the> Jesus in a voice loud saying; Eli Eli, lema sabachthani? That is: God of Mine God of Mine, so why Me have you forsaken?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.45|<< Matthew 27:45]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.47|Matthew 27:47 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 27:46** is...
+> $\quad$ referencing: [[LXX.Ps.22.1|Ps 22:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

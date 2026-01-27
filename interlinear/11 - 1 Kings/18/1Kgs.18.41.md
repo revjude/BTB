@@ -5,6 +5,10 @@ And Elijah said unto Ahab, Get thee up, eat and drink; for [there is] a sound of
 And Elijah said to Ahab, “Go up, eat and drink, for there is the sound of a heavy rain.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.40|<< 1 Kings 18:40]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.42|1 Kings 18:42 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 18:41** is...
+> $\quad$ referenced by: [[Jas.5.17|Jas 5:17-18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ This is that Moses, which said unto the children of Israel, A prophet shall the 
 This is the same Moses who told the Israelites, ‘God will raise up for you a prophet like me from among your brothers.’
 <small><sub>**Literal:**</sub></small>
 This is the Moses <the> having said to the sons of Israel; A prophet for you will raise up [the] Lord <the> God of you out from the brothers of you like me myself of him you will listen to.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.36|<< Acts 7:36]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.38|Acts 7:38 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:37** is...
+> $\quad$ referencing: [[LXX.Deut.18.15|Deut 18:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ But what saith the answer of God unto him? I have reserved to myself seven thous
 And what was the divine reply to him? “I have reserved for Myself seven thousand men who have not bowed the knee to Baal.”
 <small><sub>**Literal:**</sub></small>
 But what [was] spoken to him the divine answer? I have left to Myself seven thousand men who not bowed [the] knee <the> to Baal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.3|<< Romans 11:3]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.5|Romans 11:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 11:4** is...
+> $\quad$ referencing: [[LXX.1Kgs.19.18|1Kgs 19:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For I say unto you, that this that is written must yet be accomplished in me, An
 For I tell you that this Scripture must be fulfilled in Me: ‘And He was numbered with the transgressors.’ For what is written about Me is reaching its fulfillment.”
 <small><sub>**Literal:**</sub></small>
 I say for to you that still this which [was] written it behooves to be accomplished in Me myself, <the> And with [the] lawless He was reckoned.’ And for the [thing] concerning Me an end have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.36|<< Luke 22:36]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.38|Luke 22:38 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 22:37** is...
+> $\quad$ referencing: [[LXX.Isa.53.12|Isa 53:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

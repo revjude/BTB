@@ -5,6 +5,10 @@ His head and [his] hairs [were] white like wool, as white as snow; and his eyes 
 The hair of His head was white like wool, as white as snow, and His eyes were like a blazing fire.
 <small><sub>**Literal:**</sub></small>
 <the> And the head of Him and the hairs [are] white as if wool white as snow and the eyes of Him [are] like a flame of fire<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.13|<< Revelation 1:13]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.15|Revelation 1:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 1:14** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.7.9|Dan 7:9]] ☩ [[LXX.Dan.10.5|Dan 10:5-6]] ☩ [[LXX.Ezek.1.27|Ezek 1:27]] ☩ [[LXX.Ezek.8.2|Ezek 8:2]] ☩ [[LXX.Ezek.43.2|Ezek 43:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

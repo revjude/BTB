@@ -5,6 +5,10 @@ And then shall appear the sign of the Son of man in heaven: and then shall all t
 At that time the sign of the Son of Man will appear in heaven, and all the tribes of the earth will mourn. They will see the Son of Man coming on the clouds of heaven with power and great glory.
 <small><sub>**Literal:**</sub></small>
 And then will appear the sign of the Son <the> of Man in <the> heaven; and then will mourn all the tribes of the earth and they will behold the Son <the> of Man coming on the clouds <the> of heaven with power and glory great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.29|<< Matthew 24:29]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.31|Matthew 24:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 24:30** is...
+> $\quad$ referencing: [[LXX.Dan.7.13|Dan 7:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

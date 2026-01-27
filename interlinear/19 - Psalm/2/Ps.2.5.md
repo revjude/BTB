@@ -5,6 +5,10 @@ Then shall he speak unto them in his wrath, and vex them in his sore displeasure
 Then He rebukes them in His anger, and terrifies them in His fury:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.4|<< Psalms 2:4]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.6|Psalms 2:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 2:5** is...
+> $\quad$ referenced by: [[Rev.11.18|Rev 11:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

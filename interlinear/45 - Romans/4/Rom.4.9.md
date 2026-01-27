@@ -5,6 +5,10 @@
 Is this blessing only on the circumcised, or also on the uncircumcised? We have been saying that Abraham’s faith was credited to him as righteousness.
 <small><sub>**Literal:**</sub></small>
 [Is] the blessing then this on the circumcision or also on the uncircumcision? We are saying for that: was credited <the> to Abraham the faith as righteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.8|<< Romans 4:8]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.10|Romans 4:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 4:9** is...
+> $\quad$ referencing: [[LXX.Gen.15.6|Gen 15:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

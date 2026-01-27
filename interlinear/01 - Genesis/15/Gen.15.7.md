@@ -5,6 +5,10 @@ And he said unto him, I [am] the LORD that brought thee out of Ur of the Chaldee
 The LORD also told him, “I am the LORD, who brought you out of Ur of the Chaldeans to give you this land to possess.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.6|<< Genesis 15:6]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.8|Genesis 15:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 15:7** is...
+> $\quad$ referenced by: [[Acts.7.2|Acts 7:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

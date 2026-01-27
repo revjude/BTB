@@ -5,6 +5,10 @@ And Jesus answering them said, Have ye not read so much as this, what David did,
 Jesus replied, “Have you not read what David did when he and his companions were hungry?
 <small><sub>**Literal:**</sub></small>
 And answering to them said <the> Jesus; Surely this have you read what did David, when was hungry he himself and those who with him being?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.2|<< Luke 6:2]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.4|Luke 6:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 6:3** is...
+> $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

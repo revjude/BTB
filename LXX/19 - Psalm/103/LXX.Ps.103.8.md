@@ -6,6 +6,10 @@ The LORD [is] merciful and gracious, slow to anger, and plenteous in mercy.
 <small><sub>**BSB:**</sub></small>
 The LORD is compassionate and gracious, slow to anger, abounding in loving devotion.<small><sub>**MT:**</sub></small>
 [[Ps.103.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.7|<< Psalm 103:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.9|Psalm 103:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 103:8** is...
+> $\quad$ referenced by: [[Jas.5.11|Jas 5:11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

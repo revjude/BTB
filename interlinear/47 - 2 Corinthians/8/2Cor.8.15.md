@@ -5,6 +5,10 @@ As it is written, He that [had gathered] much had nothing over; and he that [had
 As it is written: “He who gathered much had no excess, and he who gathered little had no shortfall.”
 <small><sub>**Literal:**</sub></small>
 Even as it has been written: He the much not did abound and he the little not lacked.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.14|<< 2 Corinthians 8:14]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.16|2 Corinthians 8:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 8:15** is...
+> $\quad$ referencing: [[LXX.Exod.16.18|Exod 16:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

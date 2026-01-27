@@ -6,6 +6,10 @@ And God said unto Abraham, Let it not be grievous in thy sight because of the la
 <small><sub>**BSB:**</sub></small>
 But God said to Abraham, “Do not be distressed about the boy and your maidservant. Listen to everything that Sarah tells you, for through Isaac your offspring will be reckoned.<small><sub>**MT:**</sub></small>
 [[Gen.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.11|<< Genesis 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.13|Genesis 21:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 21:12** is...
+> $\quad$ referenced by: [[Rom.9.7|Rom 9:7]] ☩ [[Heb.11.18|Heb 11:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

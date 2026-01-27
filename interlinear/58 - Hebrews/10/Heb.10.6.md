@@ -5,6 +5,10 @@ In burnt offerings and [sacrifices] for sin thou hast had no pleasure.
 In burnt offerings and sin offerings You took no delight.
 <small><sub>**Literal:**</sub></small>
 Burnt offerings and [offerings] for sin not You have delighted in;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.5|<< Hebrews 10:5]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.7|Hebrews 10:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:6** is...
+> $\quad$ referencing: [[LXX.Ps.40.6|Ps 40:6-8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

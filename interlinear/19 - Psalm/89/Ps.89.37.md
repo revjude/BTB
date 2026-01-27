@@ -5,6 +5,10 @@ It shall be established for ever as the moon, and [as] a faithful witness in hea
 like the moon, established forever, a faithful witness in the sky.” Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.36|<< Psalms 89:36]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.38|Psalms 89:38 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 89:37** is...
+> $\quad$ referenced by: [[John.12.34|John 12:34]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

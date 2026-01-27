@@ -5,6 +5,10 @@ Likewise, ye husbands, dwell with [them] according to knowledge, giving honour u
 Husbands, in the same way, treat your wives with consideration as a delicate vessel, and with honor as fellow heirs of the gracious gift of life, so that your prayers will not be hindered.
 <small><sub>**Literal:**</sub></small>
 you who [are] Husbands likewise, dwelling with [them] according to knowledge as with a weaker vessel with the female rendering honor since [they are] also joint-heirs of [the] grace of life so as this not [cause to] be impeded the prayers of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.6|<< 1 Peter 3:6]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.8|1 Peter 3:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 3:7** is...
+> $\quad$ possibly alluding to: [[LXX.Prov.17.13|Prov 17:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

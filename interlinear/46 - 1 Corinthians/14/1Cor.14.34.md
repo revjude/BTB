@@ -5,6 +5,10 @@ Let your women keep silence in the churches: for it is not permitted unto them t
 Women are to be silent in the churches. They are not permitted to speak, but must be in submission, as the law says.
 <small><sub>**Literal:**</sub></small>
 the women of you in the churches they should be silent; Not for it is allowed to them to speak, but they should be submitted even as also the law says.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.33|<< 1 Corinthians 14:33]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.35|1 Corinthians 14:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 14:34** is...
+> $\quad$ alluding to: [[LXX.Gen.3.16|Gen 3:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

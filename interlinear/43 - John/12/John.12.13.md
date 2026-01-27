@@ -5,6 +5,10 @@ Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Ble
 They took palm branches and went out to meet Him, shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!” “Blessed is the King of Israel!”
 <small><sub>**Literal:**</sub></small>
 took the branches of the palm trees and went out to meet Him and were shouting: Hosanna! Blessed [is] the [One] coming in [the] name of [the] Lord! And the King <the> of Israel!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.12|<< John 12:12]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.14|John 12:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 12:13** is...
+> $\quad$ referencing: [[LXX.Ps.118.25|Ps 118:25-26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

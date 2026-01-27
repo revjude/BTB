@@ -5,6 +5,10 @@ And he believed in the LORD; and he counted it to him for righteousness.
 Abram believed the LORD, and it was credited to him as righteousness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.5|<< Genesis 15:5]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.7|Genesis 15:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 15:6** is...
+> $\quad$ referenced by: [[Rom.4.3|Rom 4:3]] ☩ [[Rom.4.9|Rom 4:9]] ☩ [[Rom.4.22|Rom 4:22]] ☩ [[Gal.3.6|Gal 3:6]] ☩ [[Jas.2.23|Jas 2:23]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

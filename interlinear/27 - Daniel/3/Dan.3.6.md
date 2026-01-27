@@ -5,6 +5,10 @@ And whoso falleth not down and worshippeth shall the same hour be cast into the 
 And whoever does not fall down and worship will immediately be thrown into the blazing fiery furnace.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.5|<< Daniel 3:5]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.7|Daniel 3:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 3:6** is...
+> $\quad$ referenced by: [[Matt.13.42|Matt 13:42]][[Matt.13.50|, 50]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

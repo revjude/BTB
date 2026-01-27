@@ -5,6 +5,10 @@ Because it is written, Be ye holy; for I am holy.
 for it is written: “Be holy, because I am holy.”
 <small><sub>**Literal:**</sub></small>
 because it has been written: that Holy you will be, because I myself holy am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.15|<< 1 Peter 1:15]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.17|1 Peter 1:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 1:16** is...
+> $\quad$ referencing: [[LXX.Lev.11.44|Lev 11:44]] ☩ [[LXX.Lev.19.2|Lev 19:2]] ☩ [[LXX.Lev.20.7|Lev 20:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

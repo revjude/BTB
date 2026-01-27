@@ -5,6 +5,11 @@ And the kings of the earth, and the great men, and the rich men, and the chief c
 Then the kings of the earth, the nobles, the commanders, the rich, the mighty, and every slave and free man hid in the caves and among the rocks of the mountains.
 <small><sub>**Literal:**</sub></small>
 And the kings of the earth and the great ones and the commanders and the rich and the powerful and every slave and everyone free hid themselves in the caves and among the rocks of the mountains<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.14|<< Revelation 6:14]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.16|Revelation 6:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 6:15** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.2.9|Isa 2:9]] ☩ [[LXX.Isa.2.19|Isa 2:19]]
+> $\quad$ alluding to: [[LXX.Ps.110.5|Ps 110:5]] ☩ [[LXX.Isa.13.13|Isa 13:13]] ☩ [[LXX.Hos.10.8|Hos 10:8]] ☩ [[LXX.Joel.2.11|Joel 2:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

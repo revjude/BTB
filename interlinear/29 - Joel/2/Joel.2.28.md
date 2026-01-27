@@ -5,6 +5,10 @@ And it shall come to pass afterward, [that] I will pour out my spirit upon all f
 And afterward, I will pour out My Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.27|<< Joel 2:27]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.29|Joel 2:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 2:28** is...
+> $\quad$ referenced by: [[Acts.2.17|Acts 2:17-21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

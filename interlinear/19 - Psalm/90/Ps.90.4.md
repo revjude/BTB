@@ -5,6 +5,10 @@ For a thousand years in thy sight [are but] as yesterday when it is past, and [a
 For in Your sight a thousand years are but a day that passes, or a watch of the night.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.3|<< Psalms 90:3]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.5|Psalms 90:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 90:4** is...
+> $\quad$ referenced by: [[2Pet.3.8|2Pet 3:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

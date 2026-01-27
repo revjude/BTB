@@ -5,6 +5,10 @@ For who hath despised the day of small things? for they shall rejoice, and shall
 For who has despised the day of small things? But these seven eyes of the LORD, which scan the whole earth, will rejoice when they see the plumb line in the hand of Zerubbabel.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.9|<< Zechariah 4:9]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.11|Zechariah 4:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 4:10** is...
+> $\quad$ referenced by: [[Rev.5.6|Rev 5:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

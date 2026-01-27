@@ -6,6 +6,10 @@ And the magicians of Egypt did so with their enchantments: and Pharaoh’s heart
 <small><sub>**BSB:**</sub></small>
 But the magicians of Egypt did the same things by their magic arts. So Pharaoh’s heart was hardened, and he would not listen to Moses and Aaron, just as the LORD had said.<small><sub>**MT:**</sub></small>
 [[Exod.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.21|<< Exodus 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.23|Exodus 7:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 7:22** is...
+> $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

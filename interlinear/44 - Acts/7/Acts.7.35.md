@@ -5,6 +5,11 @@ This Moses whom they refused, saying, Who made thee a ruler and a judge? the sam
 This Moses, whom they had rejected with the words, ‘Who made you ruler and judge?’ is the one whom God sent to be their ruler and redeemer through the angel who appeared to him in the bush.
 <small><sub>**Literal:**</sub></small>
 This <the> Moses whom they rejected having said; Who you appointed ruler and judge?’ — him [whom] <the> God [as] and ruler and redeemer has sent by [the] hand of [the] angel who having appeared to him in the bush —.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.34|<< Acts 7:34]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.36|Acts 7:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:35** is...
+> $\quad$ referencing: [[LXX.Exod.2.14|Exod 2:14]]
+> $\quad$ alluding to: [[LXX.Exod.3.15|Exod 3:15-18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

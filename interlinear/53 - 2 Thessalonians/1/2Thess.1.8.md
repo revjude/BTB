@@ -5,6 +5,10 @@ In flaming fire taking vengeance on them that know not God, and that obey not th
 in blazing fire, inflicting vengeance on those who do not know God and do not obey the gospel of our Lord Jesus.
 <small><sub>**Literal:**</sub></small>
 in a fire of flame, {8} inflicting vengeance on those not knowing God and on those not obeying the gospel of the Lord of us Jesus Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.7|<< 2 Thessalonians 1:7]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.9|2 Thessalonians 1:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Thessalonians 1:8** is...
+> $\quad$ alluding to: [[LXX.Isa.66.15|Isa 66:15]] ☩ [[LXX.Jer.10.25|Jer 10:25]] ☩ [[LXX.Ps.79.6|Ps 79:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

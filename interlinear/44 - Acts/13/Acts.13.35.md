@@ -5,6 +5,10 @@ Wherefore he saith also in another [psalm], Thou shalt not suffer thine Holy One
 So also, He says in another Psalm: ‘You will not let Your Holy One see decay.’
 <small><sub>**Literal:**</sub></small>
 therefore also in another He says: Not You will allow the Holy One of you to see decay.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.34|<< Acts 13:34]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.36|Acts 13:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:35** is...
+> $\quad$ referencing: [[LXX.Ps.16.10|Ps 16:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

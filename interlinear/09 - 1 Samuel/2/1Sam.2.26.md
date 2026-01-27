@@ -5,6 +5,10 @@ And the child Samuel grew on, and was in favour both with the LORD, and also wit
 And the boy Samuel continued to grow in stature and in favor with the LORD and with man.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.25|<< 1 Samuel 2:25]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.27|1 Samuel 2:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 2:26** is...
+> $\quad$ referenced by: [[Luke.2.52|Luke 2:52]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

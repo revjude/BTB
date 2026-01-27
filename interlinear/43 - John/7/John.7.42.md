@@ -5,6 +5,11 @@ Hath not the scripture said, That Christ cometh of the seed of David, and out of
 Doesn’t the Scripture say that the Christ will come from the line of David and from Bethlehem, the village where David lived?”
 <small><sub>**Literal:**</sub></small>
 Surely the Scripture has said that out of the seed of David and from Bethlehem the village where was David comes the Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.41|<< John 7:41]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.43|John 7:43 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 7:42** is...
+> $\quad$ referencing: [[LXX.Ps.89.4|Ps 89:4]]
+> $\quad$ alluding to: [[LXX.Mic.5.1|Mic 5:1-2]] ☩ [[LXX.Ps.132.11|Ps 132:11]] ☩ [[LXX.2Sam.7.12|2Sam 7:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

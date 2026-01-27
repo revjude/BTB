@@ -5,6 +5,10 @@ O spare me, that I may recover strength, before I go hence, and be no more.
 Turn Your gaze away from me, that I may again be cheered before I depart and am no more.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.12|<< Psalms 39:12]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.0|Psalms 40:0 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 39:13** is...
+> $\quad$ referenced by: [[Heb.11.13|Heb 11:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And I will shew wonders in the heavens and in the earth, blood, and fire, and pi
 I will show wonders in the heavens and on the earth, blood and fire and columns of smoke.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.29|<< Joel 2:29]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.31|Joel 2:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 2:30** is...
+> $\quad$ referenced by: [[Acts.2.17|Acts 2:17-21]] ☩ [[Rev.8.7|Rev 8:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

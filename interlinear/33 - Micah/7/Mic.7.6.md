@@ -5,6 +5,10 @@ For the son dishonoureth the father, the daughter riseth up against her mother, 
 For a son dishonors his father, a daughter rises against her mother, and a daughter-in-law against her mother-in-law. A man’s enemies are the members of his own household.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.5|<< Micah 7:5]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.7|Micah 7:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Micah 7:6** is...
+> $\quad$ referenced by: [[Matt.10.35|Matt 10:35-36]] ☩ [[Mark.13.12|Mark 13:12]] ☩ [[Luke.12.53|Luke 12:53]] ☩ [[Luke.14.26|Luke 14:26]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

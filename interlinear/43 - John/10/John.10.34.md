@@ -5,6 +5,10 @@ Jesus answered them, Is it not written in your law, I said, Ye are gods?
 Jesus replied, “Is it not written in your Law: ‘I have said you are gods’?
 <small><sub>**Literal:**</sub></small>
 Answered to them <the> Jesus; Surely it is written in the law of you that I myself said: gods you are’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.33|<< John 10:33]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.35|John 10:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 10:34** is...
+> $\quad$ referencing: [[LXX.Ps.82.6|Ps 82:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

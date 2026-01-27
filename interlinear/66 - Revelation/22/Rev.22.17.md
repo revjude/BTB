@@ -5,6 +5,10 @@ And the Spirit and the bride say, Come. And let him that heareth say, Come. And 
 The Spirit and the bride say, “Come!” Let the one who hears say, “Come!” And let the one who is thirsty come, and the one who desires the water of life drink freely.
 <small><sub>**Literal:**</sub></small>
 And the Spirit and the bride say; Come! And the [one] hearing he should say; Come! And the [one] thirsting he should come, and the [one] desiring he should take the water of life freely.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.16|<< Revelation 22:16]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.18|Revelation 22:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 22:17** is...
+> $\quad$ alluding to: [[LXX.Isa.55.1|Isa 55:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

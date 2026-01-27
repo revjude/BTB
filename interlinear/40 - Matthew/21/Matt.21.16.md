@@ -5,6 +5,10 @@ And said unto him, Hearest thou what these say? And Jesus saith unto them, Yea; 
 “Do You hear what these children are saying?” they asked. “Yes,” Jesus answered. “Have you never read: ‘From the mouths of children and infants You have ordained praise’?”
 <small><sub>**Literal:**</sub></small>
 and said to Him; Hear you what these say? <the> And Jesus says to them; Yes. surely sometime you did read that Out of [the] mouth of babes and sucklings You have prepared for yourself praise’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.15|<< Matthew 21:15]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.17|Matthew 21:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 21:16** is...
+> $\quad$ referencing: [[LXX.Ps.8.2|Ps 8:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

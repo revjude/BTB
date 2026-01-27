@@ -5,6 +5,10 @@ Thus saith the LORD, Stand ye in the ways, and see, and ask for the old paths, w
 This is what the LORD says: “Stand at the crossroads and look. Ask for the ancient paths: ‘Where is the good way?’ Then walk in it, and you will find rest for your souls. But they said, ‘We will not walk in it!’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.15|<< Jeremiah 6:15]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.17|Jeremiah 6:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 6:16** is...
+> $\quad$ referenced by: [[Matt.11.29|Matt 11:29]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

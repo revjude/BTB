@@ -5,6 +5,10 @@ His eyes [were] as a flame of fire, and on his head [were] many crowns; and he h
 He has eyes like blazing fire, and many royal crowns on His head. He has a name written on Him that only He Himself knows.
 <small><sub>**Literal:**</sub></small>
 <the> And the eyes of Him [are] like a flame of fire and upon the head of Him royal crowns many having names written and a name written which no [one] knows only except He Himself<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.11|<< Revelation 19:11]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.13|Revelation 19:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:12** is...
+> $\quad$ alluding to: [[LXX.Dan.10.6|Dan 10:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

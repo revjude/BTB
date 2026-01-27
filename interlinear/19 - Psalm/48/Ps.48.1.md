@@ -5,6 +5,10 @@ A Song [and] Psalm for the sons of Korah. Great [is] the LORD, and greatly to be
 A song. A Psalm of the sons of Korah. Great is the LORD, and greatly to be praised in the city of our God, His holy mountain.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.0|<< Psalms 48:0]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.2|Psalms 48:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 48:1** is...
+> $\quad$ referenced by: [[Matt.5.35|Matt 5:35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Ye shall not tempt the LORD your God, as ye tempted [him] in Massah.
 Do not test the LORD your God as you tested Him at Massah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.15|<< Deuteronomy 6:15]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.17|Deuteronomy 6:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 6:16** is...
+> $\quad$ referenced by: [[Matt.4.7|Matt 4:7]] ☩ [[Luke.4.12|Luke 4:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

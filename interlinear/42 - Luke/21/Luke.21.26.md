@@ -5,6 +5,10 @@ Men’s hearts failing them for fear, and for looking after those things which a
 Men will faint from fear and anxiety over what is coming upon the earth, for the powers of the heavens will be shaken.
 <small><sub>**Literal:**</sub></small>
 when are fainting men from fear and expectation of that which is coming on the earth; <the> for the powers of the heavens will be shaken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.25|<< Luke 21:25]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.27|Luke 21:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 21:26** is...
+> $\quad$ referencing: [[LXX.Isa.34.4|Isa 34:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Thus saith the Lord GOD; No stranger, uncircumcised in heart, nor uncircumcised 
 This is what the Lord GOD says: No foreigner uncircumcised in heart and flesh may enter My sanctuary—not even a foreigner who lives among the Israelites.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.8|<< Ezekiel 44:8]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.10|Ezekiel 44:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 44:9** is...
+> $\quad$ referenced by: [[Rev.21.27|Rev 21:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

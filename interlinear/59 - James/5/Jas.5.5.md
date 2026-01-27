@@ -5,6 +5,10 @@ Ye have lived in pleasure on the earth, and been wanton; ye have nourished your 
 You have lived on earth in luxury and self-indulgence. You have fattened your hearts in the day of slaughter.
 <small><sub>**Literal:**</sub></small>
 You lived in luxury upon the earth and lived in self-indulgence, You have fattened the hearts of you as in [the] day of slaughter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.4|<< James 5:4]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.6|James 5:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 5:5** is...
+> $\quad$ referencing: [[LXX.Jer.12.3|Jer 12:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

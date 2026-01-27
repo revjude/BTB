@@ -5,6 +5,10 @@ Honour thy father and thy mother, as the LORD thy God hath commanded thee; that 
 Honor your father and your mother, as the LORD your God has commanded you, so that your days may be long and that it may go well with you in the land that the LORD your God is giving you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.15|<< Deuteronomy 5:15]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.17|Deuteronomy 5:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 5:16** is...
+> $\quad$ referenced by: [[Matt.15.4|Matt 15:4]] ☩ [[Matt.19.18|Matt 19:18-19]] ☩ [[Mark.7.10|Mark 7:10]] ☩ [[Mark.10.19|Mark 10:19]] ☩ [[Luke.18.20|Luke 18:20]] ☩ [[Rom.13.9|Rom 13:9]] ☩ [[Eph.6.2|Eph 6:2-3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

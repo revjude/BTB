@@ -5,6 +5,11 @@ And what shall I more say? for the time would fail me to tell of Gedeon, and [of
 And what more shall I say? Time will not allow me to tell of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets,
 <small><sub>**Literal:**</sub></small>
 And what more shall I say? Will fail me for telling the time of Gideon, Barak, both and Samson, and Jephthah, David also and Samuel and the prophets;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.31|<< Hebrews 11:31]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.33|Hebrews 11:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:32** is...
+> $\quad$ alluding to: [[LXX.Judg.6.4|Judg 6:4]] ☩ [[LXX.Judg.6.11|Judg 6:11]] ☩ [[LXX.Judg.6.15|Judg 6:15]]
+> $\quad$ possibly alluding to: [[LXX.1Sam.7.1|1Sam 7:1-17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ Nevertheless the LORD raised up judges, which delivered them out of the hand of 
 <small><sub>**BSB:**</sub></small>
 Then the LORD raised up judges, who saved them from the hands of those who plundered them.<small><sub>**MT:**</sub></small>
 [[Judg.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.15|<< Judges 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.17|Judges 2:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Judges 2:16** is...
+> $\quad$ referenced by: [[Acts.13.20|Acts 13:20]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

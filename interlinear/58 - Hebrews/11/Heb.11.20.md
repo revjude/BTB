@@ -5,6 +5,10 @@ By faith Isaac blessed Jacob and Esau concerning things to come.
 By faith Isaac blessed Jacob and Esau concerning the future.
 <small><sub>**Literal:**</sub></small>
 By faith also concerning [the things] coming blessed Isaac <the> Jacob and <the> Esau.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.19|<< Hebrews 11:19]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.21|Hebrews 11:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:20** is...
+> $\quad$ alluding to: [[LXX.Gen.27.28|Gen 27:28]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For the scripture saith, Whosoever believeth on him shall not be ashamed.
 It is just as the Scripture says: “Anyone who believes in Him will never be put to shame.”
 <small><sub>**Literal:**</sub></small>
 Says for the Scripture; Everyone who is believing on Him not will be put to shame.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.10|<< Romans 10:10]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.12|Romans 10:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:11** is...
+> $\quad$ referencing: [[LXX.Isa.28.16|Isa 28:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

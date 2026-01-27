@@ -5,6 +5,10 @@ I saw in the night visions, and, behold, [one] like the Son of man came with the
 In my vision in the night I continued to watch, and I saw One like the Son of Man coming with the clouds of heaven. He approached the Ancient of Days and was led into His presence.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.12|<< Daniel 7:12]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.14|Daniel 7:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 7:13** is...
+> $\quad$ referenced by: [[Matt.24.30|Matt 24:30]] ☩ [[Matt.26.64|Matt 26:64]] ☩ [[Mark.13.26|Mark 13:26]] ☩ [[Mark.14.62|Mark 14:62]] ☩ [[Luke.21.27|Luke 21:27]] ☩ [[Luke.22.69|Luke 22:69]] ☩ [[Rev.1.13|Rev 1:13]] ☩ [[Rev.14.14|Rev 14:14]] ☩ [[Rev.1.7|Rev 1:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

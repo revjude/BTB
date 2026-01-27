@@ -5,6 +5,10 @@ And thine eye shall not pity; [but] life [shall go] for life, eye for eye, tooth
 You must show no pity: life for life, eye for eye, tooth for tooth, hand for hand, and foot for foot.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.20|<< Deuteronomy 19:20]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.1|Deuteronomy 20:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 19:21** is...
+> $\quad$ referenced by: [[Matt.5.38|Matt 5:38]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

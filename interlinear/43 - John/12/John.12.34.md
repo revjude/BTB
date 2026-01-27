@@ -5,6 +5,11 @@ The people answered him, We have heard out of the law that Christ abideth for ev
 The crowd replied, “We have heard from the Law that the Christ will remain forever. So how can You say that the Son of Man must be lifted up? Who is this Son of Man?”
 <small><sub>**Literal:**</sub></small>
 Answered therefore to Him the crowd; We ourselves heard from the law that the Christ abides to the age, and how say you yourself that it behooves to be lifted up the Son <the> of Man? Who is this <the> Son <the> of Man?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.33|<< John 12:33]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.35|John 12:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 12:34** is...
+> $\quad$ alluding to: [[LXX.2Sam.7.13|2Sam 7:13]] ☩ [[LXX.Ps.89.30|Ps 89:30]] ☩ [[LXX.Ps.110.4|Ps 110:4]] ☩ [[LXX.Isa.9.7|Isa 9:7]]
+> $\quad$ referencing: [[LXX.Ps.89.36|Ps 89:36-37]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

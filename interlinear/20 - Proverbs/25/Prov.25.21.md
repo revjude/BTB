@@ -5,6 +5,10 @@ If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him 
 If your enemy is hungry, give him food to eat, and if he is thirsty, give him water to drink.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.20|<< Proverbs 25:20]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.22|Proverbs 25:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 25:21** is...
+> $\quad$ referenced by: [[Rom.12.20|Rom 12:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

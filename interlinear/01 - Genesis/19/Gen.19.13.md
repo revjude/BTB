@@ -5,6 +5,10 @@ For we will destroy this place, because the cry of them is waxen great before th
 because we are about to destroy this place. For the outcry to the LORD against its people is so great that He has sent us to destroy it.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.12|<< Genesis 19:12]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.14|Genesis 19:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 19:13** is...
+> $\quad$ referenced by: [[Jude.1.7|Jude 1:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

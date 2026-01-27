@@ -5,6 +5,10 @@ I will run the way of thy commandments, when thou shalt enlarge my heart.
 I run in the path of Your commandments, for You will enlarge my heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.31|<< Psalms 119:31]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.33|Psalms 119:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 119:32** is...
+> $\quad$ referenced by: [[2Cor.6.11|2Cor 6:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

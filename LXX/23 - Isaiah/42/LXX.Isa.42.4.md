@@ -6,6 +6,10 @@ He shall not fail nor be discouraged, till he have set judgment in the earth: an
 <small><sub>**BSB:**</sub></small>
 He will not grow weak or discouraged before He has established justice on the earth. In His law the islands will put their hope.”<small><sub>**MT:**</sub></small>
 [[Isa.42.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.3|<< Isaiah 42:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.5|Isaiah 42:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 42:4** is...
+> $\quad$ referenced by: [[Matt.12.18|Matt 12:18-21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

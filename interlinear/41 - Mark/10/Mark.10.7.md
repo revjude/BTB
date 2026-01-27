@@ -5,6 +5,10 @@ For this cause shall a man leave his father and mother, and cleave to his wife;
 ‘For this reason a man will leave his father and mother and be united to his wife,
 <small><sub>**Literal:**</sub></small>
 On account of this will leave a man the father of him and <the> mother and will be joined to <the> wife of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.6|<< Mark 10:6]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.8|Mark 10:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 10:7** is...
+> $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

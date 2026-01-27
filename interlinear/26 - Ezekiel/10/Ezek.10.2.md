@@ -5,6 +5,10 @@ And he spake unto the man clothed with linen, and said, Go in between the wheels
 And the LORD said to the man clothed in linen, “Go inside the wheelwork beneath the cherubim. Fill your hands with burning coals from among the cherubim and scatter them over the city.” And as I watched, he went in.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.1|<< Ezekiel 10:1]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.3|Ezekiel 10:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 10:2** is...
+> $\quad$ referenced by: [[Rev.8.5|Rev 8:5]] ☩ [[Rev.16.2|Rev 16:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

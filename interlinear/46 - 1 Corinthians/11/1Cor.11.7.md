@@ -5,6 +5,10 @@ For a man indeed ought not to cover [his] head, forasmuch as he is the image and
 A man ought not to cover his head, since he is the image and glory of God; but the woman is the glory of man.
 <small><sub>**Literal:**</sub></small>
 A man indeed for not ought to cover the head image and glory of God being; the woman however [the] glory of man is;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.6|<< 1 Corinthians 11:6]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.8|1 Corinthians 11:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 11:7** is...
+> $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

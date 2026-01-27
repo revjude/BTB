@@ -5,6 +5,10 @@ The blind receive their sight, and the lame walk, the lepers are cleansed, and t
 The blind receive sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the good news is preached to the poor.
 <small><sub>**Literal:**</sub></small>
 Blind receive sight, and lame walk, lepers are cleansed, and deaf hear, and dead are raised, and poor are evangelised;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.4|<< Matthew 11:4]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.6|Matthew 11:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 11:5** is...
+> $\quad$ referencing: [[LXX.Isa.26.19|Isa 26:19]] ☩ [[LXX.Isa.29.18|Isa 29:18]] ☩ [[LXX.Isa.35.5|Isa 35:5]] ☩ [[LXX.Isa.42.18|Isa 42:18]] ☩ [[LXX.Isa.61.1|Isa 61:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

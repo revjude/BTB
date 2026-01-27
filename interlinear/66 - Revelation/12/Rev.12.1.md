@@ -5,6 +5,10 @@ And there appeared a great wonder in heaven; a woman clothed with the sun, and t
 And a great sign appeared in heaven: a woman clothed in the sun, with the moon under her feet and a crown of twelve stars on her head.
 <small><sub>**Literal:**</sub></small>
 And a sign great appeared in <the> heaven: a woman having been clothed with the sun, and the moon under the feet of her and on the head of her a crown of stars twelve,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.19|<< Revelation 11:19]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.2|Revelation 12:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 12:1** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.66.7|Isa 66:7]] ☩ [[LXX.Mic.4.9|Mic 4:9-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

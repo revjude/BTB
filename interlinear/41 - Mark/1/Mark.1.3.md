@@ -5,6 +5,10 @@ The voice of one crying in the wilderness, Prepare ye the way of the Lord, make 
 “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’”
 <small><sub>**Literal:**</sub></small>
 [The] voice of one crying in the wilderness do prepare the way of [the] Lord, straight do make the paths of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.2|<< Mark 1:2]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.4|Mark 1:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 1:3** is...
+> $\quad$ referencing: [[LXX.Isa.40.3|Isa 40:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

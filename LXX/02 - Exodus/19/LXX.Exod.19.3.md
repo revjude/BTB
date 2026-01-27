@@ -6,6 +6,10 @@ And Moses went up unto God, and the LORD called unto him out of the mountain, sa
 <small><sub>**BSB:**</sub></small>
 Then Moses went up to God, and the LORD called to him from the mountain, “This is what you are to tell the house of Jacob and explain to the sons of Israel:<small><sub>**MT:**</sub></small>
 [[Exod.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.2|<< Exodus 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.4|Exodus 19:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 19:3** is...
+> $\quad$ referenced by: [[Acts.7.38|Acts 7:38]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

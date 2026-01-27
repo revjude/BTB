@@ -5,6 +5,10 @@ He answered and said unto them, Well hath Esaias prophesied of you hypocrites, a
 Jesus answered them, “Isaiah prophesied correctly about you hypocrites, as it is written: ‘These people honor Me with their lips, but their hearts are far from Me.
 <small><sub>**Literal:**</sub></small>
 <the> And answering He said to them that: Rightly prophesied Isaiah concerning you <the> hypocrites, as it has been written that This <the> people with the lips Me honors, <the> but the heart of them far away is kept from Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.5|<< Mark 7:5]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.7|Mark 7:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 7:6** is...
+> $\quad$ referencing: [[LXX.Isa.29.13|Isa 29:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ There shall not any man be able to stand before thee all the days of thy life: a
 No one shall stand against you all the days of your life. As I was with Moses, so will I be with you; I will never leave you nor forsake you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.4|<< Joshua 1:4]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.6|Joshua 1:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joshua 1:5** is...
+> $\quad$ referenced by: [[Heb.13.5|Heb 13:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

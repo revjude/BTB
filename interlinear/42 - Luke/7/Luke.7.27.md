@@ -5,6 +5,10 @@ This is [he], of whom it is written, Behold, I send my messenger before thy face
 This is the one about whom it is written: ‘Behold, I will send My messenger ahead of You, who will prepare Your way before You.’
 <small><sub>**Literal:**</sub></small>
 This is he concerning whom it has been written: Behold I myself I send the messenger of Mine before [the] face of you who will prepare the way of You before You.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.26|<< Luke 7:26]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.28|Luke 7:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 7:27** is...
+> $\quad$ referencing: [[LXX.Exod.23.20|Exod 23:20]] ☩ [[LXX.Mal.3.1|Mal 3:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

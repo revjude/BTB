@@ -6,6 +6,10 @@ And his father refused, and said, I know [it], my son, I know [it]: he also shal
 <small><sub>**BSB:**</sub></small>
 But his father refused. “I know, my son, I know!” he said. “He too shall become a people, and he too shall be great; nevertheless, his younger brother shall be greater than he, and his offspring shall become a multitude of nations.”<small><sub>**MT:**</sub></small>
 [[Gen.48.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.18|<< Genesis 48:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.20|Genesis 48:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 48:19** is...
+> $\quad$ referenced by: [[Rom.11.25|Rom 11:25]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And ye shall know that I [am] in the midst of Israel, and [that] I [am] the LORD
 Then you will know that I am present in Israel and that I am the LORD your God, and there is no other. My people will never again be put to shame.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.26|<< Joel 2:26]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.28|Joel 2:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 2:27** is...
+> $\quad$ referenced by: [[Ezek.39.28|Ezek 39:28-29]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ Behold, he cometh with clouds; and every eye shall see him, and they [also] whic
 Behold, He is coming with the clouds, and every eye will see Him—even those who pierced Him. And all the tribes of the earth will mourn because of Him. So shall it be! Amen.
 <small><sub>**Literal:**</sub></small>
 Behold He is coming with the clouds, and will behold Him every eye and those who Him pierced; and will wail because of Him all the tribes of the earth, Yes Amen!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.6|<< Revelation 1:6]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.8|Revelation 1:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 1:7** is...
+> $\quad$ referencing: [[LXX.Gen.12.3|Gen 12:3]] ☩ [[LXX.Gen.28.14|Gen 28:14]]
+> $\quad$ possibly alluding to: [[LXX.Dan.7.13|Dan 7:13]] ☩ [[LXX.Isa.40.5|Isa 40:5]] ☩ [[LXX.Zech.12.10|Zech 12:10-14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

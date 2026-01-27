@@ -5,6 +5,10 @@ For as many as are of the works of the law are under the curse: for it is writte
 All who rely on works of the law are under a curse. For it is written: “Cursed is everyone who does not continue to do everything written in the Book of the Law.”
 <small><sub>**Literal:**</sub></small>
 As many as for of works of [the] Law are, under a curse are; it has been written for that Cursed [is] everyone who not does continue in all things which written in the book of the Law <the> to do them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.9|<< Galatians 3:9]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.11|Galatians 3:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 3:10** is...
+> $\quad$ referencing: [[LXX.Deut.27.26|Deut 27:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

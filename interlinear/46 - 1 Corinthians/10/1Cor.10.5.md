@@ -5,6 +5,10 @@ But with many of them God was not well pleased: for they were overthrown in the 
 Nevertheless, God was not pleased with most of them, for they were struck down in the wilderness.
 <small><sub>**Literal:**</sub></small>
 Nevertheless not with the most of them was well pleased <the> God; they were strewn for in the wilderness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.4|<< 1 Corinthians 10:4]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.6|1 Corinthians 10:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 10:5** is...
+> $\quad$ referencing: [[LXX.Num.14.16|Num 14:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

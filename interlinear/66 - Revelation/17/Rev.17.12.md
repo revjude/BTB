@@ -5,6 +5,10 @@ And the ten horns which thou sawest are ten kings, which have received no kingdo
 The ten horns you saw are ten kings who have not yet received a kingdom, but will receive one hour of authority as kings along with the beast.
 <small><sub>**Literal:**</sub></small>
 And the ten horns which you saw, ten kings are, who a kingdom not yet have received but authority as kings one hour receive along with the beast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.11|<< Revelation 17:11]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.13|Revelation 17:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 17:12** is...
+> $\quad$ alluding to: [[LXX.Dan.7.20|Dan 7:20]] ☩ [[LXX.Dan.7.24|Dan 7:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

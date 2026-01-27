@@ -5,6 +5,10 @@ And spared not the old world, but saved Noah the eighth [person], a preacher of 
 if He did not spare the ancient world when He brought the flood on its ungodly people, but preserved Noah, a preacher of righteousness, among the eight;
 <small><sub>**Literal:**</sub></small>
 and [the] ancient world not He spared, but one of eight Noah of righteousness a herald preserved [the] flood upon [the] world of [the] ungodly having brought in,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.4|<< 2 Peter 2:4]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.6|2 Peter 2:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 2:5** is...
+> $\quad$ alluding to: [[LXX.Gen.7.23|Gen 7:23]] ☩ [[LXX.Gen.8.1|Gen 8:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

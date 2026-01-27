@@ -5,6 +5,10 @@ Now therefore, what have I here, saith the LORD, that my people is taken away fo
 And now what have I here? declares the LORD. For My people have been taken without cause; those who rule them taunt, declares the LORD, and My name is blasphemed continually all day long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.4|<< Isaiah 52:4]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.6|Isaiah 52:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 52:5** is...
+> $\quad$ referenced by: [[Rom.2.24|Rom 2:24]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

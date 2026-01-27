@@ -5,6 +5,10 @@ In that day shall there be a great mourning in Jerusalem, as the mourning of Had
 On that day the wailing in Jerusalem will be as great as the wailing of Hadad-rimmon in the plain of Megiddo.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.10|<< Zechariah 12:10]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.12|Zechariah 12:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 12:11** is...
+> $\quad$ referenced by: [[Rev.1.7|Rev 1:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ I delight to do thy will, O my God: yea, thy law [is] within my heart.
 I delight to do Your will, O my God; Your law is within my heart.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.7|<< Psalms 40:7]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.9|Psalms 40:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 40:8** is...
+> $\quad$ related to: [[Jer.31.33|Jer 31:33]] ☩ [[John.6.45|John 6:45]] ☩ [[Rom.11.27|Rom 11:27]]
+> $\quad$ referenced by: [[Rom.7.22|Rom 7:22]] ☩ [[Heb.8.8|Heb 8:8-12]] ☩ [[Heb.10.5|Heb 10:5-7]] ☩ [[Heb.10.16|Heb 10:16-17]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

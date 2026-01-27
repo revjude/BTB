@@ -5,6 +5,10 @@ And he said, Come. And when Peter was come down out of the ship, he walked on th
 “Come,” said Jesus. Then Peter got down out of the boat, walked on the water, and came toward Jesus.
 <small><sub>**Literal:**</sub></small>
 <the> And He said; do come. And having descended from the boat <the> Peter walked upon the water and came to <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.28|<< Matthew 14:28]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.30|Matthew 14:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 14:29** is...
+> $\quad$ referencing: [[LXX.Job.9.8|Job 9:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

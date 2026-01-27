@@ -5,6 +5,10 @@ But he giveth more grace. Wherefore he saith, God resisteth the proud, but givet
 But He gives us more grace. This is why it says: “God opposes the proud, but gives grace to the humble.”
 <small><sub>**Literal:**</sub></small>
 Greater however He gives grace; Therefore it says: <the> God [the] proud opposes, to [the] humble however gives grace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.5|<< James 4:5]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.7|James 4:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 4:6** is...
+> $\quad$ referencing: [[LXX.Prov.3.34|Prov 3:34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

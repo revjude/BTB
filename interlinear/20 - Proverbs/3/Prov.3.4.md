@@ -5,6 +5,10 @@ So shalt thou find favour and good understanding in the sight of God and man.
 Then you will find favor and high regard in the sight of God and man.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.3|<< Proverbs 3:3]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.5|Proverbs 3:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 3:4** is...
+> $\quad$ referenced by: [[Rom.12.17|Rom 12:17]] ☩ [[2Cor.8.21|2Cor 8:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

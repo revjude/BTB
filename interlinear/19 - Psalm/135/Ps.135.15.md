@@ -5,6 +5,10 @@ The idols of the heathen [are] silver and gold, the work of men’s hands.
 The idols of the nations are silver and gold, made by the hands of men.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.14|<< Psalms 135:14]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.16|Psalms 135:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 135:15** is...
+> $\quad$ referenced by: [[Rev.9.20|Rev 9:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

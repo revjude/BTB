@@ -5,6 +5,10 @@ But I will declare for ever; I will sing praises to the God of Jacob.
 But I will proclaim Him forever; I will sing praise to the God of Jacob.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.8|<< Psalms 75:8]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.10|Psalms 75:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 75:9** is...
+> $\quad$ referenced by: [[Rev.14.10|Rev 14:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

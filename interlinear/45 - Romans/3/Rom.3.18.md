@@ -5,6 +5,10 @@ There is no fear of God before their eyes.
 “There is no fear of God before their eyes.”
 <small><sub>**Literal:**</sub></small>
 Not there is fear of God before the eyes of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.17|<< Romans 3:17]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.19|Romans 3:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 3:18** is...
+> $\quad$ referencing: [[LXX.Ps.36.1|Ps 36:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ He hath dispersed, he hath given to the poor; his righteousness endureth for eve
 He has scattered abroad his gifts to the poor; his righteousness endures forever; his horn will be lifted high in honor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.8|<< Psalms 112:8]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.10|Psalms 112:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 112:9** is...
+> $\quad$ referenced by: [[2Cor.9.9|2Cor 9:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

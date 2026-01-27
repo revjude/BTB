@@ -5,6 +5,10 @@ Jesus answered, Verily, verily, I say unto thee, Except a man be born of water a
 Jesus answered, “Truly, truly, I tell you, no one can enter the kingdom of God unless he is born of water and the Spirit.
 <small><sub>**Literal:**</sub></small>
 Answered <the> Jesus; Amen Amen I say to you, only unless someone shall be born of water and of [the] Spirit, not he is able to enter into the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.4|<< John 3:4]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.6|John 3:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 3:5** is...
+> $\quad$ alluding to: [[LXX.Ezek.36.25|Ezek 36:25-27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

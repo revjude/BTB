@@ -5,6 +5,10 @@ This is he, that was in the church in the wilderness with the angel which spake 
 He was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers. And he received living words to pass on to us.
 <small><sub>**Literal:**</sub></small>
 This is the [one] having been in the congregation in the wilderness with the angel who is speaking to him in the Mount Sinai and of the fathers of us who received oracles living to give to us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.37|<< Acts 7:37]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.39|Acts 7:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:38** is...
+> $\quad$ alluding to: [[LXX.Exod.19.3|Exod 19:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

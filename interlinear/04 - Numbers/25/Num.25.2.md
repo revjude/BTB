@@ -5,6 +5,10 @@ And they called the people unto the sacrifices of their gods: and the people did
 who also invited them to the sacrifices for their gods. And the people ate and bowed down to these gods.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.1|<< Numbers 25:1]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.3|Numbers 25:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 25:2** is...
+> $\quad$ referenced by: [[Rev.2.14|Rev 2:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

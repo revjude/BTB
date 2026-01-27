@@ -28,7 +28,7 @@ Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, bec
 [^4]: ==L== spelled: **<span class="ashebrew"><big>תַֽעַלְז֔יּ</big></span>**
 [^5]: ==K==: **you are skipping about ** | <small><sup>[[H6335A]]</sup></small> <span class="ashebrew"><big>תָפוּשִׁי</big></span>  | ta.fu.shi<small><sup>[[HVqi2fs]]</sup></small> 
 [^6]: ==L== spelled: **<span class="ashebrew"><big>תָפ֙וּשׁיּ֙</big></span>**
-[^7]: ==K==: **so you may neigh ** | <small><sup>[[H6670A]]</sup></small> <span class="ashebrew"><big>תִצְהֲלִי</big></span> <small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[Vqu2fs]]</sup></small> 
-[^8]: ==K==: **so you may neigh ** | <small><sup>[[H6670A]]</sup></small> <span class="ashebrew"><big>תִצְהֲלִי</big></span> <small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[Vqu2fs]]</sup></small> 
+[^7]: ==K==: **so you may neigh ** | <small><sup>[[H6670A]]</sup></small> <span class="ashebrew"><big>תִצְהֲלִי</big></span> <small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[HVqu2fs]]</sup></small> 
+[^8]: ==K==: **so you may neigh ** | <small><sup>[[H6670A]]</sup></small> <span class="ashebrew"><big>תִצְהֲלִי</big></span> <small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[HVqu2fs]]</sup></small> 
 [^9]: ==L== spelled: **<span class="ashebrew"><big>וְתִצְהֲל֖יּ</big></span>**
 

@@ -5,6 +5,11 @@ And in the same house remain, eating and drinking such things as they give: for 
 Stay at the same house, eating and drinking whatever you are offered. For the worker is worthy of his wages. Do not move around from house to house.
 <small><sub>**Literal:**</sub></small>
 In [the] same now <the> house do remain eating and drinking the [things supplied] by them; worthy [is] for the workman of the wages of him is. Not do move from house to house.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.6|<< Luke 10:6]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.8|Luke 10:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 10:7** is...
+> $\quad$ referencing: [[LXX.Deut.25.4|Deut 25:4]]
+> $\quad$ referenced by: [[1Tim.5.18|1Tim 5:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

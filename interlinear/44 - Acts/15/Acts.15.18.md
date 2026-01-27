@@ -5,6 +5,10 @@ Known unto God are all his works from the beginning of the world.
 that have been known for ages.’
 <small><sub>**Literal:**</sub></small>
 known from eternity’ is <the> to God all the works of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.17|<< Acts 15:17]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.19|Acts 15:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 15:18** is...
+> $\quad$ referencing: [[LXX.Isa.45.21|Isa 45:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

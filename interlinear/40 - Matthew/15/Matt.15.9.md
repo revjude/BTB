@@ -5,6 +5,10 @@ But in vain they do worship me, teaching [for] doctrines the commandments of men
 They worship Me in vain; they teach as doctrine the precepts of men.’”
 <small><sub>**Literal:**</sub></small>
 in vain then they worship Me teaching [as] doctrines [the] precepts of men.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.8|<< Matthew 15:8]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.10|Matthew 15:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 15:9** is...
+> $\quad$ referencing: [[LXX.Isa.29.13|Isa 29:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

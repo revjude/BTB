@@ -5,6 +5,11 @@ But as it is written, Eye hath not seen, nor ear heard, neither have entered int
 Rather, as it is written: “No eye has seen, no ear has heard, no heart has imagined, what God has prepared for those who love Him.”
 <small><sub>**Literal:**</sub></small>
 but even as it has been written: What eye not has seen and ear not has heard and into heart of man not has entered, what has prepared <the> God for those loving Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.8|<< 1 Corinthians 2:8]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.10|1 Corinthians 2:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 2:9** is...
+> $\quad$ referencing: [[LXX.Isa.52.15|Isa 52:15]]
+> $\quad$ alluding to: [[LXX.Isa.64.4|Isa 64:4]] ☩ [[LXX.Jer.3.16|Jer 3:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

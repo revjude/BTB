@@ -5,6 +5,10 @@ Now the just shall live by faith: but if [any man] draw back, my soul shall have
 But My righteous one will live by faith; and if he shrinks back, I will take no pleasure in him.”
 <small><sub>**Literal:**</sub></small>
 The one however righteous of Mine by faith will live; and if he shall shrink back, not takes pleasure the soul of Mine in him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.37|<< Hebrews 10:37]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.39|Hebrews 10:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:38** is...
+> $\quad$ referencing: [[LXX.Hab.2.3|Hab 2:3-4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

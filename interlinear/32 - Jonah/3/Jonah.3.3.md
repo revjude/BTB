@@ -5,6 +5,10 @@ So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Ni
 This time Jonah got up and went to Nineveh, in accordance with the word of the LORD. Now Nineveh was an exceedingly great city, requiring a three-day journey.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.3.2|<< Jonah 3:2]]</td><td align="center" style="border:none;">[[Jonah.3|Jonah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.3.4|Jonah 3:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jonah 3:3** is...
+> $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And I will bring you out from the people, and will gather you out of the countri
 With a strong hand, an outstretched arm, and outpoured wrath I will bring you out from the peoples and gather you from the lands to which you have been scattered.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.33|<< Ezekiel 20:33]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.35|Ezekiel 20:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 20:34** is...
+> $\quad$ referenced by: [[2Cor.6.17|2Cor 6:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

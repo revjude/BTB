@@ -9,6 +9,10 @@ As the days wherein the Jews rested from their enemies, and the month which was 
 <small><sub>**BSB:**</sub></small>
 as the days on which the Jews gained rest from their enemies and the month in which their sorrow turned to joy and their mourning into a holiday. He wrote that these were to be days of feasting and joy, of sending gifts to one another and to the poor.<small><sub>**MT:**</sub></small>
 [[Esth.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.21|<< Esther 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.23|Esther 9:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Esther 9:22** is...
+> $\quad$ referenced by: [[Rev.11.10|Rev 11:10]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

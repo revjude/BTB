@@ -5,6 +5,11 @@ And when he had destroyed seven nations in the land of Chanaan, he divided their
 And having vanquished seven nations in Canaan, He gave their land to His people as an inheritance.
 <small><sub>**Literal:**</sub></small>
 and having destroyed nations seven in [the] land of Canaan He gave as an inheritance to them the land of them —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.18|<< Acts 13:18]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.20|Acts 13:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:19** is...
+> $\quad$ referencing: [[LXX.Deut.7.1|Deut 7:1]]
+> $\quad$ alluding to: [[LXX.Josh.14.2|Josh 14:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

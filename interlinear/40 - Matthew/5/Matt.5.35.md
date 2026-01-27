@@ -5,6 +5,11 @@ Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the c
 or by the earth, for it is His footstool; or by Jerusalem, for it is the city of the great King.
 <small><sub>**Literal:**</sub></small>
 nor [swear] by the earth because [the] footstool it is of the feet of Him, nor [swear] by Jerusalem because [the] city it is of the great King,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.34|<< Matthew 5:34]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.36|Matthew 5:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 5:35** is...
+> $\quad$ referencing: [[LXX.Ps.48.1|Ps 48:1-2]]
+> $\quad$ alluding to: [[LXX.Isa.66.1|Isa 66:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

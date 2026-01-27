@@ -5,6 +5,10 @@ They are all gone out of the way, they are together become unprofitable; there i
 All have turned away, they have together become worthless; there is no one who does good, not even one.”
 <small><sub>**Literal:**</sub></small>
 All turned away, together they became worthless; none there is who is practicing good, not there is so much as one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.11|<< Romans 3:11]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.13|Romans 3:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 3:12** is...
+> $\quad$ referencing: [[LXX.Ps.14.3|Ps 14:3]] ☩ [[LXX.Ps.53.1|Ps 53:1-3]] ☩ [[LXX.Eccl.7.20|Eccl 7:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

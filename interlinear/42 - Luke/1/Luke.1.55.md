@@ -5,6 +5,10 @@ As he spake to our fathers, to Abraham, and to his seed for ever.
 as He promised to our fathers, to Abraham and his descendants forever.”
 <small><sub>**Literal:**</sub></small>
 even as He spoke to the fathers of us, <the> to Abraham and to the descendants of him to the age.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.54|<< Luke 1:54]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.56|Luke 1:56 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:55** is...
+> $\quad$ alluding to: [[LXX.Gen.17.19|Gen 17:19]] ☩ [[LXX.Gen.22.18|Gen 22:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

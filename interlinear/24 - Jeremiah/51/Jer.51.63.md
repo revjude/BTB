@@ -5,6 +5,10 @@ And it shall be, when thou hast made an end of reading this book, [that] thou sh
 When you finish reading this scroll, tie a stone to it and cast it into the Euphrates.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.62|<< Jeremiah 51:62]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.64|Jeremiah 51:64 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 51:63** is...
+> $\quad$ referenced by: [[Rev.18.21|Rev 18:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

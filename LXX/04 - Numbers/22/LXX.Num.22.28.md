@@ -6,6 +6,10 @@ And the LORD opened the mouth of the ass, and she said unto Balaam, What have I 
 <small><sub>**BSB:**</sub></small>
 Then the LORD opened the donkey’s mouth, and she said to Balaam, “What have I done to you that you have beaten me these three times?”<small><sub>**MT:**</sub></small>
 [[Num.22.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.27|<< Numbers 22:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.29|Numbers 22:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 22:28** is...
+> $\quad$ referenced by: [[2Pet.2.15|2Pet 2:15-16]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

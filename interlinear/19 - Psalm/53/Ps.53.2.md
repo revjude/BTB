@@ -5,6 +5,10 @@ God looked down from heaven upon the children of men, to see if there were [any]
 God looks down from heaven upon the sons of men to see if any understand, if any seek God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.53.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53.1|<< Psalms 53:1]]</td><td align="center" style="border:none;">[[Ps.53|Psalms 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.53.3|Psalms 53:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 53:2** is...
+> $\quad$ referenced by: [[Rom.3.10|Rom 3:10-12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

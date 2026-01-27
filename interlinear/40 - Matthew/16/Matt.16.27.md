@@ -5,6 +5,10 @@ For the Son of man shall come in the glory of his Father with his angels; and th
 For the Son of Man will come in His Father’s glory with His angels, and then He will repay each one according to what he has done.
 <small><sub>**Literal:**</sub></small>
 Is about for the Son of the man to come in the glory of the Father of Him with the angels of Him and then He will give to each according to the deeds of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.26|<< Matthew 16:26]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.28|Matthew 16:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 16:27** is...
+> $\quad$ referencing: [[LXX.Ps.62.12|Ps 62:12]] ☩ [[LXX.Prov.24.12|Prov 24:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

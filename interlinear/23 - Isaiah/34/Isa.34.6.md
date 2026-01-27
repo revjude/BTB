@@ -5,6 +5,10 @@ The sword of the LORD is filled with blood, it is made fat with fatness, [and] w
 The sword of the LORD is bathed in blood. It drips with fat—with the blood of lambs and goats, with the fat of the kidneys of rams. For the LORD has a sacrifice in Bozrah, a great slaughter in the land of Edom.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.5|<< Isaiah 34:5]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.7|Isaiah 34:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 34:6** is...
+> $\quad$ referenced by: [[Rev.19.17|Rev 19:17-18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

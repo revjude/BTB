@@ -9,6 +9,10 @@ Then went he down, and dipped himself seven times in Jordan, according to the sa
 <small><sub>**BSB:**</sub></small>
 So Naaman went down and dipped himself in the Jordan seven times, according to the word of the man of God, and his flesh was restored and became like that of a little child, and he was clean.<small><sub>**MT:**</sub></small>
 [[2Kgs.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.13|<< 2 Kings 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.15|2 Kings 5:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Kings 5:14** is...
+> $\quad$ referenced by: [[Luke.4.27|Luke 4:27]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

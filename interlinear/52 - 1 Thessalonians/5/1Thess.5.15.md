@@ -5,6 +5,10 @@ See that none render evil for evil unto any [man]; but ever follow that which is
 Make sure that no one repays evil for evil. Always pursue what is good for one another and for all people.
 <small><sub>**Literal:**</sub></small>
 do see that no one evil for evil to anyone may repay, but always the good do pursue also toward one another and toward all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.14|<< 1 Thessalonians 5:14]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.16|1 Thessalonians 5:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Thessalonians 5:15** is...
+> $\quad$ alluding to: [[LXX.Prov.17.13|Prov 17:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ He will swallow up death in victory; and the Lord GOD will wipe away tears from 
 He will swallow up death forever. The Lord GOD will wipe away the tears from every face and remove the disgrace of His people from the whole earth. For the LORD has spoken.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.7|<< Isaiah 25:7]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.9|Isaiah 25:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 25:8** is...
+> $\quad$ referenced by: [[1Cor.15.54|1Cor 15:54]] ☩ [[Rev.7.17|Rev 7:17]] ☩ [[Rev.21.4|Rev 21:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

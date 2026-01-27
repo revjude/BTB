@@ -5,6 +5,10 @@ And I heard the man clothed in linen, which [was] upon the waters of the river, 
 And the man dressed in linen, who was above the waters of the river, raised his right hand and his left hand toward heaven, and I heard him swear by Him who lives forever, saying, “It will be for a time, and times, and half a time. When the power of the holy people has finally been shattered, all these things will be completed.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.6|<< Daniel 12:6]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.8|Daniel 12:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 12:7** is...
+> $\quad$ referenced by: [[Rev.12.14|Rev 12:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

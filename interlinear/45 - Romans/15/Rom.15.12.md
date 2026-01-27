@@ -5,6 +5,10 @@ And again, Esaias saith, There shall be a root of Jesse, and he that shall rise 
 And once more, Isaiah says: “The Root of Jesse will appear, One who will arise to rule over the Gentiles; in Him the Gentiles will put their hope.”
 <small><sub>**Literal:**</sub></small>
 And again Isaiah says: There will be the root <the> of Jesse, and the [One] arising to rule over Gentiles, in Him [the] Gentiles will hope.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.11|<< Romans 15:11]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.13|Romans 15:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 15:12** is...
+> $\quad$ referencing: [[LXX.Isa.11.10|Isa 11:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And Abraham called the name of his son that was born unto him, whom Sarah bare t
 <small><sub>**BSB:**</sub></small>
 And Abraham gave the name Isaac to the son Sarah bore to him.<small><sub>**MT:**</sub></small>
 [[Gen.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.2|<< Genesis 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.4|Genesis 21:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 21:3** is...
+> $\quad$ referenced by: [[Acts.7.8|Acts 7:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

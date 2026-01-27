@@ -9,6 +9,10 @@ So Moses the servant of the LORD died there in the land of Moab, according to th
 <small><sub>**BSB:**</sub></small>
 So Moses the servant of the LORD died there in the land of Moab, as the LORD had said.<small><sub>**MT:**</sub></small>
 [[Deut.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.4|<< Deuteronomy 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.6|Deuteronomy 34:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 34:5** is...
+> $\quad$ referenced by: [[Jude.1.9|Jude 1:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

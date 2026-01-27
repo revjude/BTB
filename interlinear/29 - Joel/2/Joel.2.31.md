@@ -5,6 +5,10 @@ The sun shall be turned into darkness, and the moon into blood, before the great
 The sun will be turned to darkness and the moon to blood before the coming of the great and awesome Day of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.30|<< Joel 2:30]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.32|Joel 2:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 2:31** is...
+> $\quad$ referenced by: [[Acts.2.17|Acts 2:17-21]] ☩ [[Rom.10.13|Rom 10:13]] ☩ [[Rev.6.12|Rev 6:12-13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

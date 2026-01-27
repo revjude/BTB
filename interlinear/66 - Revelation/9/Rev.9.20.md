@@ -5,6 +5,10 @@ And the rest of the men which were not killed by these plagues yet repented not 
 Now the rest of mankind who were not killed by these plagues still did not repent of the works of their hands. They did not stop worshiping demons and idols of gold, silver, bronze, stone, and wood, which cannot see or hear or walk.
 <small><sub>**Literal:**</sub></small>
 And the rest of the men who not were killed by <the> plagues these not even repented of the works of the hands of them, so that not they will worship the demons and the idols <the> golden and <the> silver and <the> bronze and <the> stone and <the> wooden, which neither to see are able nor to hear nor to walk,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.19|<< Revelation 9:19]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.21|Revelation 9:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 9:20** is...
+> $\quad$ alluding to: [[LXX.Ps.115.4|Ps 115:4]] ☩ [[LXX.Ps.135.15|Ps 135:15]] ☩ [[LXX.Dan.5.23|Dan 5:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

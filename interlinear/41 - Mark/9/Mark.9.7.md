@@ -5,6 +5,10 @@ And there was a cloud that overshadowed them: and a voice came out of the cloud,
 Then a cloud appeared and enveloped them, and a voice came from the cloud: “This is My beloved Son. Listen to Him!”
 <small><sub>**Literal:**</sub></small>
 And there came a cloud overshadowing them, and there was a voice out of the cloud saying: This is the Son of Mine the beloved; do listen to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.6|<< Mark 9:6]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.8|Mark 9:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 9:7** is...
+> $\quad$ alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Deut.18.15|Deut 18:15]] ☩ [[LXX.Ps.2.7|Ps 2:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

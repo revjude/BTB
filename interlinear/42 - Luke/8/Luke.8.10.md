@@ -5,6 +5,10 @@ And he said, Unto you it is given to know the mysteries of the kingdom of God: b
 He replied, “The knowledge of the mysteries of the kingdom of God has been given to you, but to others I speak in parables, so that, ‘though seeing, they may not see; though hearing, they may not understand.’
 <small><sub>**Literal:**</sub></small>
 <the> And He said; To you it has been given to know the mysteries of the kingdom <the> of God, to the however rest [it is] in parables so that Seeing not shall they see and hearing not shall they understand.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.9|<< Luke 8:9]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.11|Luke 8:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 8:10** is...
+> $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

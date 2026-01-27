@@ -6,6 +6,10 @@ Be pleased, O LORD, to deliver me: O LORD, make haste to help me.
 <small><sub>**BSB:**</sub></small>
 Be pleased, O LORD, to deliver me; hurry, O LORD, to help me.<small><sub>**MT:**</sub></small>
 [[Ps.40.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.12|<< Psalm 40:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.14|Psalm 40:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 40:13** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

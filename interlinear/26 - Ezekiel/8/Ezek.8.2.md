@@ -5,6 +5,10 @@ Then I beheld, and lo a likeness as the appearance of fire: from the appearance 
 Then I looked and saw a figure like that of a man. From His waist down His appearance was like fire, and from His waist up He was as bright as the gleam of amber.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.1|<< Ezekiel 8:1]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.3|Ezekiel 8:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 8:2** is...
+> $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

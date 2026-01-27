@@ -5,6 +5,10 @@ Seeing that Abraham shall surely become a great and mighty nation, and all the n
 Abraham will surely become a great and powerful nation, and through him all the nations of the earth will be blessed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.17|<< Genesis 18:17]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.19|Genesis 18:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 18:18** is...
+> $\quad$ referenced by: [[Gal.3.8|Gal 3:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

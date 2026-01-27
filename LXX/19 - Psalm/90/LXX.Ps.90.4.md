@@ -6,6 +6,10 @@ For a thousand years in thy sight [are but] as yesterday when it is past, and [a
 <small><sub>**BSB:**</sub></small>
 For in Your sight a thousand years are but a day that passes, or a watch of the night.<small><sub>**MT:**</sub></small>
 [[Ps.90.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.3|<< Psalm 90:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.5|Psalm 90:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 90:4** is...
+> $\quad$ referenced by: [[2Pet.3.8|2Pet 3:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

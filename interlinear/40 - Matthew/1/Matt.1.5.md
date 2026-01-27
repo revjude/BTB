@@ -5,6 +5,10 @@ And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jes
 Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse,
 <small><sub>**Literal:**</sub></small>
 Salmon then begat <the> Boaz out of <the> Rahab; Boaz then begat <the> Obed out of <the> Ruth; Obed then begat <the> Jesse;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.4|<< Matthew 1:4]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.6|Matthew 1:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 1:5** is...
+> $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,11 @@ And they shall teach no more every man his neighbour, and every man his brother,
 <small><sub>**BSB:**</sub></small>
 No longer will each man teach his neighbor or his brother, saying, ‘Know the LORD,’ because they will all know Me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquities and will remember their sins no more.”<small><sub>**MT:**</sub></small>
 [[Jer.31.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.33|<< Jeremiah 31:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.35|Jeremiah 31:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 31:34** is...
+> $\quad$ related to: [[LXX.Ps.40.8|Ps 40:8]]
+> $\quad$ referenced by: [[John.6.45|John 6:45]] ☩ [[Rom.11.27|Rom 11:27]] ☩ [[Heb.10.16|Heb 10:16-17]] ☩ [[Heb.8.8|Heb 8:8-12]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

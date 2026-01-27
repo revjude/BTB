@@ -5,6 +5,10 @@ And they shall go into the holes of the rocks, and into the caves of the earth, 
 Men will flee to caves in the rocks and holes in the ground, away from the terror of the LORD and from the splendor of His majesty, when He rises to shake the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.18|<< Isaiah 2:18]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.20|Isaiah 2:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 2:19** is...
+> $\quad$ referenced by: [[2Thess.1.9|2Thess 1:9]] ☩ [[Rev.6.15|Rev 6:15-16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

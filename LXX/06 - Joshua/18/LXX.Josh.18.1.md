@@ -9,6 +9,10 @@ And the whole congregation of the children of Israel assembled together at Shilo
 <small><sub>**BSB:**</sub></small>
 Then the whole congregation of Israel assembled at Shiloh and set up the Tent of Meeting there. And though the land was subdued before them,<small><sub>**MT:**</sub></small>
 [[Josh.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.18|<< Joshua 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.2|Joshua 18:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joshua 18:1** is...
+> $\quad$ referenced by: [[Acts.7.45|Acts 7:45]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

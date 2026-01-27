@@ -5,6 +5,10 @@ As it is written in the prophets, Behold, I send my messenger before thy face, w
 As it is written in Isaiah the prophet: “Behold, I will send My messenger ahead of You, who will prepare Your way.”
 <small><sub>**Literal:**</sub></small>
 Even as it has been written in <the> Isaiah in the prophet: Behold I myself send the messenger of Mine before face of You, who will prepare the way of You before of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.1|<< Mark 1:1]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.3|Mark 1:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 1:2** is...
+> $\quad$ referencing: [[LXX.Exod.23.20|Exod 23:20]] ☩ [[LXX.Isa.40.3|Isa 40:3]] ☩ [[LXX.Mal.3.1|Mal 3:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

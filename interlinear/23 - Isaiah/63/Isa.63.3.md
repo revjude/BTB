@@ -5,6 +5,10 @@ I have trodden the winepress alone; and of the people [there was] none with me: 
 “I have trodden the winepress alone, and no one from the nations was with Me. I trampled them in My anger and trod them down in My fury; their blood spattered My garments, and all My clothes were stained.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.2|<< Isaiah 63:2]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.4|Isaiah 63:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 63:3** is...
+> $\quad$ referenced by: [[Rev.14.19|Rev 14:19-20]] ☩ [[Rev.19.15|Rev 19:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

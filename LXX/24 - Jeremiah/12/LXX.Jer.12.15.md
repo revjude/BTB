@@ -6,6 +6,10 @@ And it shall come to pass, after that I have plucked them out I will return, and
 <small><sub>**BSB:**</sub></small>
 But after I have uprooted them, I will once again have compassion on them and return each one to his inheritance and to his land.<small><sub>**MT:**</sub></small>
 [[Jer.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.14|<< Jeremiah 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.16|Jeremiah 12:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 12:15** is...
+> $\quad$ referenced by: [[Acts.15.16|Acts 15:16]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

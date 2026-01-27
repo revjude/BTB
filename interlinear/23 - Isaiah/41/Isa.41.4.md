@@ -5,6 +5,10 @@ Who hath wrought and done [it], calling the generations from the beginning? I th
 Who has performed this and carried it out, calling forth the generations from the beginning? I, the LORD—the first and the last—I am He.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.3|<< Isaiah 41:3]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.5|Isaiah 41:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 41:4** is...
+> $\quad$ referenced by: [[Rev.1.8|Rev 1:8]] ☩ [[Rev.22.13|Rev 22:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

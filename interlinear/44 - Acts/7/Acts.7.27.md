@@ -5,6 +5,10 @@ But he that did his neighbour wrong thrust him away, saying, Who made thee a rul
 But the man who was abusing his neighbor pushed Moses aside and said, ‘Who made you ruler and judge over us?
 <small><sub>**Literal:**</sub></small>
 The [one] however mistreating the neighbour pushed away him having said; Who you appointed ruler and judge over us?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.26|<< Acts 7:26]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.28|Acts 7:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:27** is...
+> $\quad$ referencing: [[LXX.Exod.2.13|Exod 2:13-15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

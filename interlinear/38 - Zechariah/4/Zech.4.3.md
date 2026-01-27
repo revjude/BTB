@@ -5,6 +5,10 @@ And two olive trees by it, one upon the right [side] of the bowl, and the other 
 There are also two olive trees beside it, one on the right side of the bowl and the other on its left.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.2|<< Zechariah 4:2]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.4|Zechariah 4:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 4:3** is...
+> $\quad$ referenced by: [[Rev.11.4|Rev 11:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

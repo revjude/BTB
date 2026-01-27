@@ -5,6 +5,10 @@ My brethren, have not the faith of our Lord Jesus Christ, [the Lord] of glory, w
 My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism.
 <small><sub>**Literal:**</sub></small>
 Brothers of Mine, not with partiality do hold the faith of the Lord of us Jesus Christ <the> of glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.27|<< James 1:27]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.2|James 2:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 2:1** is...
+> $\quad$ alluding to: [[LXX.Lev.19.15|Lev 19:15]] ☩ [[LXX.Prov.24.23|Prov 24:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And when ye see [this], your heart shall rejoice, and your bones shall flourish 
 <small><sub>**BSB:**</sub></small>
 When you see, you will rejoice, and you will flourish like grass; then the hand of the LORD will be revealed to His servants, but His wrath will be shown to His enemies.<small><sub>**MT:**</sub></small>
 [[Isa.66.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.13|<< Isaiah 66:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.15|Isaiah 66:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 66:14** is...
+> $\quad$ referenced by: [[John.16.22|John 16:22]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

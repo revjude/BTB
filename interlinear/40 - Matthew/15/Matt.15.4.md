@@ -5,6 +5,11 @@ For God commanded, saying, Honour thy father and mother: and, He that curseth fa
 For God said, ‘Honor your father and mother’ and ‘Anyone who curses his father or mother must be put to death.’
 <small><sub>**Literal:**</sub></small>
 <the> For God commanded saying: 'do honor the Father of you and the mother’, and The [one] speaking evil of father or mother in death should end.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.3|<< Matthew 15:3]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.5|Matthew 15:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 15:4** is...
+> $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12]] ☩ [[LXX.Exod.21.17|Exod 21:17]] ☩ [[LXX.Deut.5.16|Deut 5:16]]
+> $\quad$ alluding to: [[LXX.Lev.20.9|Lev 20:9]] ☩ [[LXX.Prov.20.20|Prov 20:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred f
 Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads.
 <small><sub>**Literal:**</sub></small>
 And I looked and behold the Lamb standing upon <the> Mount Zion and with Him number one hundred forty four thousand having the name of Him and the name of the Father of Him written on the foreheads of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.18|<< Revelation 13:18]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.2|Revelation 14:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 14:1** is...
+> $\quad$ alluding to: [[LXX.Ps.2.6|Ps 2:6]] ☩ [[LXX.Isa.59.20|Isa 59:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -9,6 +9,10 @@ Who [is] this that cometh from Edom, with dyed garments from Bozrah? this [that 
 <small><sub>**BSB:**</sub></small>
 Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is this robed in splendor, marching in the greatness of His strength? “It is I, proclaiming vindication, mighty to save.”<small><sub>**MT:**</sub></small>
 [[Isa.63.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.12|<< Isaiah 62:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.2|Isaiah 63:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 63:1** is...
+> $\quad$ referenced by: [[Rev.19.13|Rev 19:13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

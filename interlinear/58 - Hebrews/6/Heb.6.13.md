@@ -5,6 +5,10 @@ For when God made promise to Abraham, because he could swear by no greater, he s
 When God made His promise to Abraham, since He had no one greater to swear by, He swore by Himself,
 <small><sub>**Literal:**</sub></small>
 <the> For to Abraham having made His promise <the> God, since by no [one] He had greater to swear, He swore by Himself<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.12|<< Hebrews 6:12]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.14|Hebrews 6:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 6:13** is...
+> $\quad$ referencing: [[LXX.Gen.22.16|Gen 22:16-17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the people asked him, saying, What shall we do then?
 The crowds asked him, “What then should we do?”
 <small><sub>**Literal:**</sub></small>
 And were asking him the crowds saying; What then shall we do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.9|<< Luke 3:9]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.11|Luke 3:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 3:10** is...
+> $\quad$ referencing: [[LXX.Mal.3.7|Mal 3:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

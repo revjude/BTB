@@ -5,6 +5,10 @@ And I will bless them that bless thee, and curse him that curseth thee: and in t
 I will bless those who bless you and curse those who curse you; and all the families of the earth will be blessed through you.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.2|<< Genesis 12:2]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.4|Genesis 12:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 12:3** is...
+> $\quad$ referenced by: [[Luke.1.73|Luke 1:73]] ☩ [[Acts.3.25|Acts 3:25]] ☩ [[Gal.3.8|Gal 3:8]] ☩ [[Rev.1.7|Rev 1:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

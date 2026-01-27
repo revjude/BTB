@@ -5,6 +5,10 @@ And that he was buried, and that he rose again the third day according to the sc
 that He was buried, that He was raised on the third day according to the Scriptures,
 <small><sub>**Literal:**</sub></small>
 and that He was buried and that He has been raised on the day the third according to the Scriptures<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.3|<< 1 Corinthians 15:3]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.5|1 Corinthians 15:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 15:4** is...
+> $\quad$ alluding to: [[LXX.Ps.16.10|Ps 16:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And God said, Let there be light: and there was light.
 And God said, “Let there be light,” and there was light.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.2|<< Genesis 1:2]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.4|Genesis 1:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 1:3** is...
+> $\quad$ referenced by: [[2Cor.4.6|2Cor 4:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

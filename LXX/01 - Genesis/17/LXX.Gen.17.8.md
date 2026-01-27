@@ -6,6 +6,10 @@ And I will give unto thee, and to thy seed after thee, the land wherein thou art
 <small><sub>**BSB:**</sub></small>
 And to you and your descendants I will give the land where you are residing—all the land of Canaan—as an eternal possession; and I will be their God.”<small><sub>**MT:**</sub></small>
 [[Gen.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.7|<< Genesis 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.9|Genesis 17:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 17:8** is...
+> $\quad$ referenced by: [[Acts.7.5|Acts 7:5]] ☩ [[Gal.3.16|Gal 3:16-17]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

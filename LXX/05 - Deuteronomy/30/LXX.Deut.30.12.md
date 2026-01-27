@@ -6,6 +6,10 @@ It [is] not in heaven, that thou shouldest say, Who shall go up for us to heaven
 <small><sub>**BSB:**</sub></small>
 It is not in heaven, that you should need to ask, ‘Who will ascend into heaven to get it for us and proclaim it, that we may obey it?’<small><sub>**MT:**</sub></small>
 [[Deut.30.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.11|<< Deuteronomy 30:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.13|Deuteronomy 30:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 30:12** is...
+> $\quad$ referenced by: [[Rom.10.6|Rom 10:6]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

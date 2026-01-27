@@ -5,6 +5,10 @@ For it is written, Rejoice, [thou] barren that bearest not; break forth and cry,
 For it is written: “Rejoice, O barren woman, who bears no children; break forth and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband.”
 <small><sub>**Literal:**</sub></small>
 It has been written for: do rejoice O barren woman you who [are] not bearing, do break forth and do call aloud you who [are] not travailing, because many [are] the children of the desolate woman more than of [her] who having the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.26|<< Galatians 4:26]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.28|Galatians 4:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 4:27** is...
+> $\quad$ referencing: [[LXX.Isa.54.1|Isa 54:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

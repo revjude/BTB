@@ -5,6 +5,10 @@ And the fourth angel sounded, and the third part of the sun was smitten, and the
 Then the fourth angel sounded his trumpet, and a third of the sun and moon and stars were struck. A third of the stars were darkened, a third of the day was without light, and a third of the night as well.
 <small><sub>**Literal:**</sub></small>
 And the fourth angel sounded [his] trumpet, and was struck <the> a third of the sun and <the> a third of the moon and <the> a third of the stars so that may be darkened <the> a third of them, and <the> day not may appear [for] <the> a third of her and the night likewise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.11|<< Revelation 8:11]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.13|Revelation 8:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 8:12** is...
+> $\quad$ alluding to: [[LXX.Ezek.32.7|Ezek 32:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

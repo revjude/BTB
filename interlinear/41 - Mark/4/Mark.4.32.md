@@ -5,6 +5,10 @@ But when it is sown, it groweth up, and becometh greater than all herbs, and sho
 But after it is planted, it grows to be the largest of all garden plants and puts forth great branches, so that the birds of the air nest in its shade.”
 <small><sub>**Literal:**</sub></small>
 and when it may be sown, it grows up and becomes greater than all the garden plants and it produces branches great so that to be able under the shadow of it the birds of the air to perch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.31|<< Mark 4:31]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.33|Mark 4:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 4:32** is...
+> $\quad$ referencing: [[LXX.Ps.104.12|Ps 104:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

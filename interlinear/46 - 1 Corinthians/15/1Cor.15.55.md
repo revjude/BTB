@@ -5,6 +5,10 @@ O death, where [is] thy sting? O grave, where [is] thy victory?
 “Where, O Death, is your victory? Where, O Death, is your sting?”
 <small><sub>**Literal:**</sub></small>
 Where of you, O death, the victory Where of you, O death, the sting<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.54|<< 1 Corinthians 15:54]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.56|1 Corinthians 15:56 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 15:55** is...
+> $\quad$ referencing: [[LXX.Hos.13.14|Hos 13:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And I saw as the colour of amber, as the appearance of fire round about within i
 From what seemed to be His waist up, I saw a gleam like amber, with what looked like fire within it all around. And from what seemed to be His waist down, I saw what looked like fire; and brilliant light surrounded Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.26|<< Ezekiel 1:26]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.28|Ezekiel 1:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 1:27** is...
+> $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

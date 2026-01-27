@@ -5,6 +5,10 @@ And I will put my spirit within you, and cause you to walk in my statutes, and y
 And I will put My Spirit within you and cause you to walk in My statutes and to carefully observe My ordinances.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.26|<< Ezekiel 36:26]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.28|Ezekiel 36:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 36:27** is...
+> $\quad$ related to: [[John.3.5|John 3:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

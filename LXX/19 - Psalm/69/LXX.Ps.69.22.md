@@ -6,6 +6,10 @@ Let their table become a snare before them: and [that which should have been] fo
 <small><sub>**BSB:**</sub></small>
 May their table become a snare; may it be a retribution and a trap.<small><sub>**MT:**</sub></small>
 [[Ps.69.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.21|<< Psalm 69:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.23|Psalm 69:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 69:22** is...
+> $\quad$ referenced by: [[Rom.11.9|Rom 11:9-10]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

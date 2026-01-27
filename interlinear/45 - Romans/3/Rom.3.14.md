@@ -5,6 +5,10 @@ Whose mouth [is] full of cursing and bitterness:
 “Their mouths are full of cursing and bitterness.”
 <small><sub>**Literal:**</sub></small>
 of whom the mouth of cursing and of bitterness is full.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.13|<< Romans 3:13]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.15|Romans 3:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 3:14** is...
+> $\quad$ referencing: [[LXX.Ps.10.7|Ps 10:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

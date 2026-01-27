@@ -5,6 +5,10 @@ And at the second [time] Joseph was made known to his brethren; and Joseph’s k
 On their second visit, Joseph revealed his identity to his brothers, and his family became known to Pharaoh.
 <small><sub>**Literal:**</sub></small>
 and on the second time was recognised by Joseph the to brothers of him, and known became <the> to Pharaoh the family <the> of Joseph.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.12|<< Acts 7:12]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.14|Acts 7:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:13** is...
+> $\quad$ alluding to: [[LXX.Gen.45.1|Gen 45:1]] ☩ [[LXX.Gen.45.9|Gen 45:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

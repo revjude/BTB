@@ -5,6 +5,10 @@ For the LORD thy God walketh in the midst of thy camp, to deliver thee, and to g
 For the LORD your God walks throughout your camp to protect you and deliver your enemies to you. Your camp must be holy, lest He see anything unclean among you and turn away from you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.13|<< Deuteronomy 23:13]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.15|Deuteronomy 23:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 23:14** is...
+> $\quad$ referenced by: [[Rev.2.1|Rev 2:1]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

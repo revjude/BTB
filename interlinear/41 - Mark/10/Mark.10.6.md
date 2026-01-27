@@ -5,6 +5,10 @@ But from the beginning of the creation God made them male and female.
 However, from the beginning of creation, ‘God made them male and female.’
 <small><sub>**Literal:**</sub></small>
 From however [the] beginning of creation Male and female He made them’ <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.5|<< Mark 10:5]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.7|Mark 10:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 10:6** is...
+> $\quad$ referencing: [[LXX.Gen.1.27|Gen 1:27]] ☩ [[LXX.Gen.5.2|Gen 5:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

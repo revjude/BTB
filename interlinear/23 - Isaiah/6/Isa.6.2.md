@@ -5,6 +5,10 @@ Above it stood the seraphims: each one had six wings; with twain he covered his 
 Above Him stood seraphim, each having six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.1|<< Isaiah 6:1]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.3|Isaiah 6:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 6:2** is...
+> $\quad$ referenced by: [[Rev.4.5|Rev 4:5]] ☩ [[Rev.4.8|Rev 4:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

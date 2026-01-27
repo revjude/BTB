@@ -6,6 +6,10 @@ Who maketh his angels spirits; his ministers a flaming fire:
 <small><sub>**BSB:**</sub></small>
 He makes the winds His messengers, flames of fire His servants.<small><sub>**MT:**</sub></small>
 [[Ps.104.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.3|<< Psalm 104:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.5|Psalm 104:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 104:4** is...
+> $\quad$ referenced by: [[Heb.1.7|Heb 1:7]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,11 @@ Therefore I will give thanks unto thee, O LORD, among the heathen, and I will si
 Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.49|<< 2 Samuel 22:49]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.51|2 Samuel 22:51 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Samuel 22:50** is...
+> $\quad$ referencing: [[Ps.18.49|Ps 18:49]]
+> $\quad$ referenced by: [[Rom.15.9|Rom 15:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

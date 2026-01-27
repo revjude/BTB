@@ -6,6 +6,11 @@ But this [shall be] the covenant that I will make with the house of Israel; Afte
 <small><sub>**BSB:**</sub></small>
 “But this is the covenant I will make with the house of Israel after those days, declares the LORD. I will put My law in their minds and inscribe it on their hearts. And I will be their God, and they will be My people.<small><sub>**MT:**</sub></small>
 [[Jer.31.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.32|<< Jeremiah 31:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.34|Jeremiah 31:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 31:33** is...
+> $\quad$ related to: [[LXX.Ps.40.8|Ps 40:8]]
+> $\quad$ referenced by: [[John.6.45|John 6:45]] ☩ [[Rom.11.27|Rom 11:27]] ☩ [[Heb.10.16|Heb 10:16-17]] ☩ [[Heb.8.8|Heb 8:8-12]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

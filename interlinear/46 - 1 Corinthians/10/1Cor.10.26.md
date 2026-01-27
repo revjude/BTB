@@ -5,6 +5,10 @@ For the earth [is] the Lord’s, and the fulness thereof.
 for, “The earth is the Lord’s, and the fullness thereof.”
 <small><sub>**Literal:**</sub></small>
 The Lord’s for [is] the earth and the fullness of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.25|<< 1 Corinthians 10:25]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.27|1 Corinthians 10:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 10:26** is...
+> $\quad$ referencing: [[LXX.Ps.24.1|Ps 24:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies
 ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’
 <small><sub>**Literal:**</sub></small>
 Said the Lord to the Lord of me; do sit on [the] right hand of Me until when I may place the enemies of You [as] a footstool for the feet of You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.43|<< Matthew 22:43]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.45|Matthew 22:45 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 22:44** is...
+> $\quad$ referencing: [[LXX.Ps.8.6|Ps 8:6]]
+> $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

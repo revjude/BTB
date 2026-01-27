@@ -5,6 +5,10 @@ The Son of man indeed goeth, as it is written of him: but woe to that man by who
 The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed! It would be better for him if he had not been born.”
 <small><sub>**Literal:**</sub></small>
 For <the> indeed the Son <the> of Man goes even as it has been written concerning Him, woe however to the man that [one] through whom the Son <the> of Man is betrayed; better was for him if not was born the man that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.20|<< Mark 14:20]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.22|Mark 14:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 14:21** is...
+> $\quad$ referencing: [[LXX.Ps.41.9|Ps 41:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

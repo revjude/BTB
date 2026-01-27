@@ -5,6 +5,10 @@ And four great beasts came up from the sea, diverse one from another.
 Then four great beasts came up out of the sea, each one different from the others:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.2|<< Daniel 7:2]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.4|Daniel 7:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 7:3** is...
+> $\quad$ referenced by: [[Rev.13.1|Rev 13:1]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

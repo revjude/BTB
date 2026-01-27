@@ -5,6 +5,10 @@ And in the midst of the seven candlesticks [one] like unto the Son of man, cloth
 and among the lampstands was One like the Son of Man, dressed in a long robe, with a golden sash around His chest.
 <small><sub>**Literal:**</sub></small>
 and in [the] midst of the seven lampstands [One] like [the] Son of Man having clothed himself to the feet and having girded himself about at the breasts with a sash golden.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.12|<< Revelation 1:12]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.14|Revelation 1:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 1:13** is...
+> $\quad$ referencing: [[LXX.Dan.7.13|Dan 7:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

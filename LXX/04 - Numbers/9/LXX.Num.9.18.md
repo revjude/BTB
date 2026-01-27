@@ -6,6 +6,10 @@ At the commandment of the LORD the children of Israel journeyed, and at the comm
 <small><sub>**BSB:**</sub></small>
 At the LORD’s command the Israelites set out, and at the LORD’s command they camped. As long as the cloud remained over the tabernacle, they remained encamped.<small><sub>**MT:**</sub></small>
 [[Num.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.17|<< Numbers 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.19|Numbers 9:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 9:18** is...
+> $\quad$ referenced by: [[1Cor.10.1|1Cor 10:1]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

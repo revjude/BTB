@@ -5,6 +5,11 @@ And to the angel of the church in Philadelphia write; These things saith he that
 To the angel of the church in Philadelphia write: These are the words of the One who is holy and true, who holds the key of David. What He opens no one can shut, and what He shuts no one can open.
 <small><sub>**Literal:**</sub></small>
 And to the angel of the in Philadelphia church do write: These things says the Holy [One], the True [One], who is having the key <the> of David, who is opening and no [one] will shut it (only except that which is being open); and shutting and no [one] opens;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.6|<< Revelation 3:6]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.8|Revelation 3:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 3:7** is...
+> $\quad$ possibly alluding to: [[LXX.Job.12.14|Job 12:14]]
+> $\quad$ alluding to: [[LXX.Isa.22.22|Isa 22:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

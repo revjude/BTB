@@ -5,6 +5,10 @@ But as it is written, To whom he was not spoken of, they shall see: and they tha
 Rather, as it is written: “Those who were not told about Him will see, and those who have not heard will understand.”
 <small><sub>**Literal:**</sub></small>
 Rather even as it has been written: To whom not it was proclaimed concerning Him they will behold and those that not have heard will understand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.20|<< Romans 15:20]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.22|Romans 15:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 15:21** is...
+> $\quad$ referencing: [[LXX.Isa.52.15|Isa 52:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And God looked upon the earth, and, behold, it was corrupt; for all flesh had co
 And God looked upon the earth and saw that it was corrupt; for all living creatures on the earth had corrupted their ways.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.11|<< Genesis 6:11]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.13|Genesis 6:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 6:12** is...
+> $\quad$ referenced by: [[1Pet.3.20|1Pet 3:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

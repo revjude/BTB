@@ -5,6 +5,10 @@ Whoso rewardeth evil for good, evil shall not depart from his house.
 If anyone returns evil for good, evil will never leave his house.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.12|<< Proverbs 17:12]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.14|Proverbs 17:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 17:13** is...
+> $\quad$ referenced by: [[1Thess.5.15|1Thess 5:15]] ☩ [[1Pet.3.7|1Pet 3:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

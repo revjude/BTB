@@ -5,6 +5,10 @@ Also now, behold, my witness [is] in heaven, and my record [is] on high.
 Even now my witness is in heaven, and my advocate is on high.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.18|<< Job 16:18]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.20|Job 16:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Job 16:19** is...
+> $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Mark.11.10|Mark 11:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

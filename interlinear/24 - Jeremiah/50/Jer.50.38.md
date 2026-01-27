@@ -5,6 +5,10 @@ A drought [is] upon her waters; and they shall be dried up: for it [is] the land
 A drought is upon her waters, and they will be dried up. For it is a land of graven images, and the people go mad over idols.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.37|<< Jeremiah 50:37]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.39|Jeremiah 50:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 50:38** is...
+> $\quad$ referenced by: [[Rev.16.12|Rev 16:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And they asked him, saying, Why say the scribes that Elias must first come?
 And they asked Jesus, “Why do the scribes say that Elijah must come first?”
 <small><sub>**Literal:**</sub></small>
 And they were asking Him saying: that Say the scribes that Elijah it behooves to come first?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.10|<< Mark 9:10]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.12|Mark 9:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 9:11** is...
+> $\quad$ referencing: [[LXX.Mal.4.5|Mal 4:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

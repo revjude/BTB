@@ -5,6 +5,10 @@ And there shalt thou build an altar unto the LORD thy God, an altar of stones: t
 Moreover, you are to build there an altar to the LORD your God, an altar of stones. You must not use any iron tool on them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.4|<< Deuteronomy 27:4]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.6|Deuteronomy 27:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 27:5** is...
+> $\quad$ referenced by: [[Josh.8.31|Josh 8:31]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

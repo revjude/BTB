@@ -6,6 +6,10 @@ An ungodly man diggeth up evil: and in his lips [there is] as a burning fire.
 <small><sub>**BSB:**</sub></small>
 A worthless man digs up evil, and his speech is like a scorching fire.<small><sub>**MT:**</sub></small>
 [[Prov.16.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.26|<< Proverbs 16:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.28|Proverbs 16:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 16:27** is...
+> $\quad$ referenced by: [[Jas.5.3|Jas 5:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

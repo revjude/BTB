@@ -5,6 +5,10 @@ Get thee unto Pharaoh in the morning; lo, he goeth out unto the water; and thou 
 Go to Pharaoh in the morning as you see him walking out to the water. Wait on the bank of the Nile to meet him, and take in your hand the staff that was changed into a snake.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.14|<< Exodus 7:14]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.16|Exodus 7:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 7:15** is...
+> $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

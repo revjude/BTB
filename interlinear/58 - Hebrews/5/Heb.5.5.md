@@ -5,6 +5,10 @@ So also Christ glorified not himself to be made an high priest; but he that said
 So also Christ did not take upon Himself the glory of becoming a high priest, but He was called by the One who said to Him: “You are My Son; today I have become Your Father.”
 <small><sub>**Literal:**</sub></small>
 So also <the> Christ not Himself did glorify to become a high priest but the [One] having said to Him: Son of Mine are You yourself, I myself today have begotten You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.4|<< Hebrews 5:4]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.6|Hebrews 5:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 5:5** is...
+> $\quad$ referencing: [[LXX.Ps.2.7|Ps 2:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

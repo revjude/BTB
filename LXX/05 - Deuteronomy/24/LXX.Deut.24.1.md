@@ -9,6 +9,10 @@ When a man hath taken a wife, and married her, and it come to pass that she find
 <small><sub>**BSB:**</sub></small>
 If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house.<small><sub>**MT:**</sub></small>
 [[Deut.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.25|<< Deuteronomy 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.2|Deuteronomy 24:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 24:1** is...
+> $\quad$ referenced by: [[Matt.5.31|Matt 5:31]] ☩ [[Matt.19.7|Matt 19:7]] ☩ [[Mark.10.4|Mark 10:4]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

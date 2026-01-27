@@ -5,6 +5,10 @@ And the second [is] like, [namely] this, Thou shalt love thy neighbour as thysel
 The second is this: ‘Love your neighbor as yourself.’ No other commandment is greater than these.”
 <small><sub>**Literal:**</sub></small>
 and [The] second like this: You will love the neighbour of you as yourself.’ Greater than these another commandment not there is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.30|<< Mark 12:30]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.32|Mark 12:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 12:31** is...
+> $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

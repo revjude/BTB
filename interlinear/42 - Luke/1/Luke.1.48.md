@@ -5,6 +5,10 @@ For he hath regarded the low estate of his handmaiden: for, behold, from hencefo
 For He has looked with favor on the humble state of His servant. From now on all generations will call me blessed.
 <small><sub>**Literal:**</sub></small>
 For He has looked upon the humiliation of the handmaiden of Him. Behold for from <the> henceforth will count blessed me all the generations<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.47|<< Luke 1:47]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.49|Luke 1:49 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:48** is...
+> $\quad$ alluding to: [[LXX.1Sam.1.11|1Sam 1:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

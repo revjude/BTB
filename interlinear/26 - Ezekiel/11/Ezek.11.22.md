@@ -5,6 +5,10 @@ Then did the cherubims lift up their wings, and the wheels beside them; and the 
 Then the cherubim, with the wheels beside them, spread their wings, and the glory of the God of Israel was above them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.21|<< Ezekiel 11:21]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.23|Ezekiel 11:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 11:22** is...
+> $\quad$ referenced by: [[Rev.4.5|Rev 4:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

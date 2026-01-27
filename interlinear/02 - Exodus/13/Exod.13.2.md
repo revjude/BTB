@@ -5,6 +5,10 @@ Sanctify unto me all the firstborn, whatsoever openeth the womb among the childr
 “Consecrate to Me every firstborn male. The firstborn from every womb among the Israelites belongs to Me, both of man and beast.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.1|<< Exodus 13:1]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.3|Exodus 13:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 13:2** is...
+> $\quad$ referenced by: [[Luke.2.23|Luke 2:23]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

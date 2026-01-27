@@ -5,6 +5,10 @@ For this Melchisedec, king of Salem, priest of the most high God, who met Abraha
 This Melchizedek was king of Salem and priest of God Most High. He met Abraham returning from the slaughter of the kings and blessed him,
 <small><sub>**Literal:**</sub></small>
 This for <the> Melchizedek, king of Salem, priest <the> of God <the> Most High, who having met with Abraham returning from the slaughter of the kings and having blessed him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.20|<< Hebrews 6:20]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.2|Hebrews 7:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 7:1** is...
+> $\quad$ referencing: [[LXX.Gen.14.17|Gen 14:17-20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

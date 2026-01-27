@@ -5,6 +5,10 @@ Whereby the world that then was, being overflowed with water, perished:
 through which the world of that time perished in the flood.
 <small><sub>**Literal:**</sub></small>
 through [means of] those [waters] the at that time world with water having been deluged perished.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.5|<< 2 Peter 3:5]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.7|2 Peter 3:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 3:6** is...
+> $\quad$ alluding to: [[LXX.Gen.1.1|Gen 1:1-2]] ☩ [[LXX.Gen.1.6|Gen 1:6]] ☩ [[LXX.Gen.7.21|Gen 7:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

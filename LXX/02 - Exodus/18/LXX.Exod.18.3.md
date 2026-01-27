@@ -6,6 +6,10 @@ And her two sons; of which the name of the one [was] Gershom; for he said, I hav
 <small><sub>**BSB:**</sub></small>
 along with her two sons. One son was named Gershom, for Moses had said, “I have been a foreigner in a foreign land.”<small><sub>**MT:**</sub></small>
 [[Exod.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.2|<< Exodus 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.4|Exodus 18:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 18:3** is...
+> $\quad$ referenced by: [[Acts.7.29|Acts 7:29]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

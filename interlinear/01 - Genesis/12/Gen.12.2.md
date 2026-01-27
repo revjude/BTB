@@ -5,6 +5,10 @@ And I will make of thee a great nation, and I will bless thee, and make thy name
 I will make you into a great nation, and I will bless you; I will make your name great, so that you will be a blessing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.1|<< Genesis 12:1]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.3|Genesis 12:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 12:2** is...
+> $\quad$ referenced by: [[Heb.11.8|Heb 11:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And he blessed him, and said, Blessed [be] Abram of the most high God, possessor
 and he blessed Abram and said: “Blessed be Abram by God Most High, Creator of heaven and earth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.18|<< Genesis 14:18]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.20|Genesis 14:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 14:19** is...
+> $\quad$ referenced by: [[Heb.7.1|Heb 7:1-2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And if ye will receive [it], this is Elias, which was for to come.
 And if you are willing to accept it, he is the Elijah who was to come.
 <small><sub>**Literal:**</sub></small>
 And if you are willing to receive [it], he himself is Elijah who is being about to come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.13|<< Matthew 11:13]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.15|Matthew 11:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 11:14** is...
+> $\quad$ referencing: [[LXX.Mal.4.5|Mal 4:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

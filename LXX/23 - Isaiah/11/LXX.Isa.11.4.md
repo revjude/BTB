@@ -6,6 +6,10 @@ But with righteousness shall he judge the poor, and reprove with equity for the 
 <small><sub>**BSB:**</sub></small>
 but with righteousness He will judge the poor, and with equity He will decide for the lowly of the earth. He will strike the earth with the rod of His mouth and slay the wicked with the breath of His lips.<small><sub>**MT:**</sub></small>
 [[Isa.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.3|<< Isaiah 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.5|Isaiah 11:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 11:4** is...
+> $\quad$ referenced by: [[Eph.6.17|Eph 6:17]] ☩ [[2Thess.2.8|2Thess 2:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

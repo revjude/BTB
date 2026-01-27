@@ -5,6 +5,10 @@
 He was speaking about the Spirit, whom those who believed in Him were later to receive. For the Spirit had not yet been given, because Jesus had not yet been glorified.
 <small><sub>**Literal:**</sub></small>
 This now He said concerning the Spirit which were about to receive those having believed in Him; not yet for was [the] Spirit Holy given because <the> Jesus not yet was glorified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.38|<< John 7:38]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.40|John 7:40 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 7:39** is...
+> $\quad$ alluding to: [[LXX.Isa.44.3|Isa 44:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

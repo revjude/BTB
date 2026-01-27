@@ -5,6 +5,10 @@ And when he had taken the book, the four beasts and four [and] twenty elders fel
 When He had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb. Each one had a harp, and they were holding golden bowls full of incense, which are the prayers of the saints.
 <small><sub>**Literal:**</sub></small>
 And when He had taken the scroll, the four living creatures and the twenty four elders fell down before the Lamb having each a harp and bowls golden being full of incenses which are the prayers of the saints.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.7|<< Revelation 5:7]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.9|Revelation 5:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 5:8** is...
+> $\quad$ possibly alluding to: [[LXX.Ps.141.2|Ps 141:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

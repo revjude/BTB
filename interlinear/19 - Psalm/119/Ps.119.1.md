@@ -5,6 +5,10 @@ ALEPH. Blessed [are] the undefiled in the way, who walk in the law of the LORD.
 Blessed are those whose way is blameless, who walk in the Law of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.29|<< Psalms 118:29]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.2|Psalms 119:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 119:1** is...
+> $\quad$ referenced by: [[Phil.4.5|Phil 4:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

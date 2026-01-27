@@ -5,6 +5,10 @@ And his tail drew the third part of the stars of heaven, and did cast them to th
 His tail swept a third of the stars from the sky, hurling them to the earth. And the dragon stood before the woman who was about to give birth, ready to devour her child as soon as she gave birth.
 <small><sub>**Literal:**</sub></small>
 And the tail of him drags <the> a third of the stars <the> of heaven and he cast them to the earth. and the dragon has stood before the woman who is being about to bring forth, so that when she may bring forth the child of her he may devour.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.3|<< Revelation 12:3]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.5|Revelation 12:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 12:4** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.8.10|Dan 8:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

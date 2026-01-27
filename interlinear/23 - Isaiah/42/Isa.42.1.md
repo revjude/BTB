@@ -5,6 +5,10 @@ Behold my servant, whom I uphold; mine elect, [in whom] my soul delighteth; I ha
 “Here is My Servant, whom I uphold, My Chosen One, in whom My soul delights. I will put My Spirit on Him, and He will bring justice to the nations.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.29|<< Isaiah 41:29]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.2|Isaiah 42:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 42:1** is...
+> $\quad$ referenced by: [[Matt.3.17|Matt 3:17]] ☩ [[Matt.12.18|Matt 12:18-21]] ☩ [[Matt.17.5|Matt 17:5]] ☩ [[Luke.3.22|Luke 3:22]] ☩ [[Luke.9.35|Luke 9:35]] ☩ [[2Pet.1.17|2Pet 1:17]] ☩ [[Mark.1.11|Mark 1:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

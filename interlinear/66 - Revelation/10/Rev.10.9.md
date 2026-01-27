@@ -5,6 +5,10 @@ And I went unto the angel, and said unto him, Give me the little book. And he sa
 And I went to the angel and said, “Give me the small scroll.” “Take it and eat it,” he said. “It will make your stomach bitter, but in your mouth it will be as sweet as honey.”
 <small><sub>**Literal:**</sub></small>
 And I went to the angel saying to him to give me the little scroll. And he says to me; do take and do eat it. and it will make bitter your <the> stomach, but in the mouth of you it will be sweet as honey.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.8|<< Revelation 10:8]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.10|Revelation 10:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 10:9** is...
+> $\quad$ alluding to: [[LXX.Ezek.2.8|Ezek 2:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

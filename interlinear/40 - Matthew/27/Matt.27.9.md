@@ -5,6 +5,10 @@ Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they
 Then what was spoken through Jeremiah the prophet was fulfilled: “They took the thirty pieces of silver, the price set on Him by the people of Israel,
 <small><sub>**Literal:**</sub></small>
 Then was fulfilled that having been spoken through Jeremiah the prophet saying; And they took the thirty pieces of silver, the price of the [One] priced, whom they set a price on by [the] sons of Israel,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.8|<< Matthew 27:8]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.10|Matthew 27:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 27:9** is...
+> $\quad$ referencing: [[LXX.Jer.32.6|Jer 32:6-9]] ☩ [[LXX.Zech.11.12|Zech 11:12-13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

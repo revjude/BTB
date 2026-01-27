@@ -5,6 +5,10 @@ But that which beareth thorns and briers [is] rejected, and [is] nigh unto cursi
 But land that produces thorns and thistles is worthless, and its curse is imminent. In the end it will be burned.
 <small><sub>**Literal:**</sub></small>
 [That] bringing forth however thorns and thistles [is] worthless and a curse near to, of which the end [is] unto burning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.7|<< Hebrews 6:7]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.9|Hebrews 6:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 6:8** is...
+> $\quad$ alluding to: [[LXX.Gen.3.18|Gen 3:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

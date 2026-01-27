@@ -5,6 +5,10 @@ Behold, I will send you Elijah the prophet before the coming of the great and dr
 Behold, I will send you Elijah the prophet before the coming of the great and awesome Day of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.4|<< Malachi 4:4]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.6|Malachi 4:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Malachi 4:5** is...
+> $\quad$ referenced by: [[Matt.11.14|Matt 11:14]] ☩ [[Matt.17.10|Matt 17:10]] ☩ [[Mark.9.11|Mark 9:11]] ☩ [[Luke.1.17|Luke 1:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

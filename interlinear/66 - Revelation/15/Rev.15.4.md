@@ -5,6 +5,10 @@ Who shall not fear thee, O Lord, and glorify thy name? for [thou] only [art] hol
 Who will not fear You, O Lord, and glorify Your name? For You alone are holy. All nations will come and worship before You, for Your righteous acts have been revealed.”
 <small><sub>**Literal:**</sub></small>
 Who certainly surely may fear you O Lord, and will glorify the name of You? For [You] alone [are] sacred, For all the nations will come and will worship before You, because the righteous acts of You were revealed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.3|<< Revelation 15:3]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.5|Revelation 15:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 15:4** is...
+> $\quad$ referencing: [[LXX.Ps.86.9|Ps 86:9]] ☩ [[LXX.Jer.10.6|Jer 10:6-7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

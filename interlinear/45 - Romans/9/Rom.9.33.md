@@ -5,6 +5,10 @@ As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: an
 as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”
 <small><sub>**Literal:**</sub></small>
 even as it has been written: Behold I lay in Zion a stone of stumbling and a rock of offense, and everyone who is believing on Him never will be put to shame.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.32|<< Romans 9:32]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.1|Romans 10:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:33** is...
+> $\quad$ referencing: [[LXX.Isa.8.14|Isa 8:14]] ☩ [[LXX.Isa.28.16|Isa 28:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

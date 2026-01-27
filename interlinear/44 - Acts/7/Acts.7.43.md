@@ -5,6 +5,10 @@ Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figu
 You have taken along the tabernacle of Molech and the star of your god Rephan, the idols you made to worship. Therefore I will send you into exile beyond Babylon.’
 <small><sub>**Literal:**</sub></small>
 And You took up the tabernacle <the> of Moloch and the star of the god of you Rephan, the images that you made to worship them; and I will remove you beyond Babylon.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.42|<< Acts 7:42]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.44|Acts 7:44 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:43** is...
+> $\quad$ referencing: [[LXX.Amos.5.25|Amos 5:25-27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

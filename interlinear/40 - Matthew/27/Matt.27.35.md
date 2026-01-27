@@ -5,6 +5,10 @@ And they crucified him, and parted his garments, casting lots: that it might be 
 When they had crucified Him, they divided up His garments by casting lots.
 <small><sub>**Literal:**</sub></small>
 having crucified now Him they divided the garments of Him casting lots, so that may be fulfilled which having been spoken by <the> prophet they divided the garments of mine themselves and upon the clothing of mine they cast lots<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.34|<< Matthew 27:34]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.36|Matthew 27:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 27:35** is...
+> $\quad$ referencing: [[LXX.Ps.22.18|Ps 22:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

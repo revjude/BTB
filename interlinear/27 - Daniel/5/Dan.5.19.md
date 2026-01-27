@@ -5,6 +5,10 @@ And for the majesty that he gave him, all people, nations, and languages, trembl
 Because of the greatness that He bestowed on him, the people of every nation and language trembled in fear before him. He killed whom he wished and kept alive whom he wished; he exalted whom he wished and humbled whom he wished.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.18|<< Daniel 5:18]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.20|Daniel 5:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 5:19** is...
+> $\quad$ referenced by: [[Rev.13.7|Rev 13:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

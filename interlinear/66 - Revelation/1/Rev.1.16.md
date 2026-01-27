@@ -5,6 +5,10 @@ And he had in his right hand seven stars: and out of his mouth went a sharp twoe
 He held in His right hand seven stars, and a sharp double-edged sword came from His mouth. His face was like the sun shining at its brightest.
 <small><sub>**Literal:**</sub></small>
 and He is holding in the right hand of Him stars seven and out of the mouth of Him a sword two-edged sharp is going forth and the face of Him [is] like the sun shining in the full strength of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.15|<< Revelation 1:15]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.17|Revelation 1:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 1:16** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.49.2|Isa 49:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

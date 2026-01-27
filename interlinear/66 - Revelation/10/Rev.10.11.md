@@ -5,6 +5,11 @@ And he said unto me, Thou must prophesy again before many peoples, and nations, 
 And they told me, “You must prophesy again about many peoples and nations and tongues and kings.”
 <small><sub>**Literal:**</sub></small>
 And they say to me; It is necessary for you again to prophesy concerning peoples and concerning nations and [concerning] tongues and [concerning] kings many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.10|<< Revelation 10:10]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.1|Revelation 11:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 10:11** is...
+> $\quad$ possibly alluding to: [[LXX.Jer.1.9|Jer 1:9]]
+> $\quad$ alluding to: [[LXX.Ezek.2.8|Ezek 2:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

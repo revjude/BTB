@@ -5,6 +5,10 @@ Neither [is] it beyond the sea, that thou shouldest say, Who shall go over the s
 And it is not beyond the sea, that you should need to ask, ‘Who will cross the sea to get it for us and proclaim it, that we may obey it?’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.12|<< Deuteronomy 30:12]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.14|Deuteronomy 30:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 30:13** is...
+> $\quad$ referenced by: [[Rom.10.7|Rom 10:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

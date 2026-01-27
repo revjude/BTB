@@ -5,6 +5,10 @@ I believed, therefore have I spoken: I was greatly afflicted:
 I believed, therefore I said, “I am greatly afflicted.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.9|<< Psalms 116:9]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.11|Psalms 116:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 116:10** is...
+> $\quad$ referenced by: [[2Cor.4.13|2Cor 4:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

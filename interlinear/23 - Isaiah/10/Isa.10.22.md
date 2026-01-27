@@ -5,6 +5,10 @@ For though thy people Israel be as the sand of the sea, [yet] a remnant of them 
 Though your people, O Israel, be like the sand of the sea, only a remnant will return. Destruction has been decreed, overflowing with righteousness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.21|<< Isaiah 10:21]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.23|Isaiah 10:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 10:22** is...
+> $\quad$ referenced by: [[Rom.9.27|Rom 9:27-28]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

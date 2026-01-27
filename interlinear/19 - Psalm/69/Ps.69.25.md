@@ -5,6 +5,10 @@ Let their habitation be desolate; [and] let none dwell in their tents.
 May their place be deserted; let there be no one to dwell in their tents.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.24|<< Psalms 69:24]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.26|Psalms 69:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 69:25** is...
+> $\quad$ referenced by: [[Matt.23.38|Matt 23:38]] ☩ [[Acts.1.20|Acts 1:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

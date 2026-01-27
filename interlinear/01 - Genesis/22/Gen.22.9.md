@@ -5,6 +5,10 @@ And they came to the place which God had told him of; and Abraham built an altar
 When they arrived at the place God had designated, Abraham built the altar there and arranged the wood. He bound his son Isaac and placed him on the altar, atop the wood.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.8|<< Genesis 22:8]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.10|Genesis 22:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 22:9** is...
+> $\quad$ referenced by: [[Jas.2.21|Jas 2:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ That thou shalt set apart unto the LORD all that openeth the matrix, and every f
 <small><sub>**BSB:**</sub></small>
 you are to present to the LORD the firstborn male of every womb. All the firstborn males of your livestock belong to the LORD.<small><sub>**MT:**</sub></small>
 [[Exod.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.11|<< Exodus 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.13|Exodus 13:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 13:12** is...
+> $\quad$ referenced by: [[Luke.2.23|Luke 2:23]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

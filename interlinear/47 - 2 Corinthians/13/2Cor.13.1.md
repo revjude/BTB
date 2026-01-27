@@ -5,6 +5,10 @@ This [is] the third [time] I am coming to you. In the mouth of two or three witn
 This is the third time I am coming to you. “Every matter must be established by the testimony of two or three witnesses.”
 <small><sub>**Literal:**</sub></small>
 Third this [time] I am coming to you. In [the] mouth of two witnesses or three will be established every declaration.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.21|<< 2 Corinthians 12:21]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.2|2 Corinthians 13:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 13:1** is...
+> $\quad$ referencing: [[LXX.Deut.19.15|Deut 19:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

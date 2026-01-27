@@ -5,6 +5,10 @@ I will open my mouth in a parable: I will utter dark sayings of old:
 I will open my mouth in parables; I will utter things hidden from the beginning,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.1|<< Psalms 78:1]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.3|Psalms 78:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 78:2** is...
+> $\quad$ referenced by: [[Matt.13.35|Matt 13:35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

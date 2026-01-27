@@ -6,6 +6,10 @@ I will declare the decree: the LORD hath said unto me, Thou [art] my Son; this d
 <small><sub>**BSB:**</sub></small>
 I will proclaim the decree spoken to Me by the LORD: “You are My Son; today I have become Your Father.<small><sub>**MT:**</sub></small>
 [[Ps.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.2.6|<< Psalm 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.2.8|Psalm 2:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 2:7** is...
+> $\quad$ referenced by: [[Matt.3.17|Matt 3:17]] ☩ [[Matt.17.5|Matt 17:5]] ☩ [[Mark.1.11|Mark 1:11]] ☩ [[Mark.9.7|Mark 9:7]] ☩ [[Luke.3.22|Luke 3:22]] ☩ [[Luke.9.25|Luke 9:25]] ☩ [[Acts.13.33|Acts 13:33]] ☩ [[Heb.1.5|Heb 1:5]] ☩ [[Heb.5.5|Heb 5:5]] ☩ [[2Pet.1.17|2Pet 1:17]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

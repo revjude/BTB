@@ -5,6 +5,10 @@ Then Jesus answering said unto them, Go your way, and tell John what things ye h
 So He replied, “Go back and report to John what you have seen and heard: The blind receive sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the good news is preached to the poor.
 <small><sub>**Literal:**</sub></small>
 And answering <the> Jesus He said to them; Having gone do relate to John what you have seen and heard: that Blind receive sight, lame walk, lepers are cleansed, and deaf hear, dead are raised, poor are evangelised,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.21|<< Luke 7:21]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.23|Luke 7:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 7:22** is...
+> $\quad$ referencing: [[LXX.Isa.26.19|Isa 26:19]] ☩ [[LXX.Isa.29.18|Isa 29:18]] ☩ [[LXX.Isa.35.5|Isa 35:5-6]] ☩ [[LXX.Isa.42.18|Isa 42:18]] ☩ [[LXX.Isa.61.1|Isa 61:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

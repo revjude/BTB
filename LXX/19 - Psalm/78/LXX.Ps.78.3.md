@@ -6,6 +6,10 @@ Which we have heard and known, and our fathers have told us.
 <small><sub>**BSB:**</sub></small>
 that we have heard and known and our fathers have relayed to us.<small><sub>**MT:**</sub></small>
 [[Ps.78.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.2|<< Psalm 78:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.4|Psalm 78:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 78:3** is...
+> $\quad$ referenced by: [[Matt.13.35|Matt 13:35]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

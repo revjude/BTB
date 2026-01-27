@@ -5,6 +5,10 @@ And it came to pass on the morrow, that Balak took Balaam, and brought him up in
 The next morning, Balak took Balaam and brought him up to Bamoth-baal. From there he could see the outskirts of the camp of the people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.40|<< Numbers 22:40]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.1|Numbers 23:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 22:41** is...
+> $\quad$ referenced by: [[1John.3.12|1John 3:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

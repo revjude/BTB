@@ -5,6 +5,10 @@ It is like a grain of mustard seed, which a man took, and cast into his garden; 
 It is like a mustard seed that a man tossed into his garden. It grew and became a tree, and the birds of the air nested in its branches.”
 <small><sub>**Literal:**</sub></small>
 Like it is to a grain of mustard which having taken a man cast into garden his own, and it grew and it became <into> a tree great and the birds of the air encamped in the branches of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.18|<< Luke 13:18]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.20|Luke 13:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 13:19** is...
+> $\quad$ referencing: [[LXX.Ps.104.12|Ps 104:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

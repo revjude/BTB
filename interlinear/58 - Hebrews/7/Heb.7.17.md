@@ -5,6 +5,10 @@ For he testifieth, Thou [art] a priest for ever after the order of Melchisedec.
 For it is testified: “You are a priest forever in the order of Melchizedek.”
 <small><sub>**Literal:**</sub></small>
 It is testified for that You [are] a priest to the age according to the order of Melchizedek.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.16|<< Hebrews 7:16]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.18|Hebrews 7:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 7:17** is...
+> $\quad$ referencing: [[LXX.Ps.110.4|Ps 110:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

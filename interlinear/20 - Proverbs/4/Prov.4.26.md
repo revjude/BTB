@@ -5,6 +5,10 @@ Ponder the path of thy feet, and let all thy ways be established.
 Make a level path for your feet, and all your ways will be sure.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.25|<< Proverbs 4:25]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.27|Proverbs 4:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 4:26** is...
+> $\quad$ referenced by: [[Heb.12.13|Heb 12:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

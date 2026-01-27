@@ -6,6 +6,10 @@ And it came to pass, as soon as he came nigh unto the camp, that he saw the calf
 <small><sub>**BSB:**</sub></small>
 As Moses approached the camp and saw the calf and the dancing, he burned with anger and threw the tablets out of his hands, shattering them at the base of the mountain.<small><sub>**MT:**</sub></small>
 [[Exod.32.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.18|<< Exodus 32:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.20|Exodus 32:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 32:19** is...
+> $\quad$ referenced by: [[Acts.7.41|Acts 7:41]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

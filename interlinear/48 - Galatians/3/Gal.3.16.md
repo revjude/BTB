@@ -5,6 +5,11 @@ Now to Abraham and his seed were the promises made. He saith not, And to seeds, 
 The promises were spoken to Abraham and to his seed. The Scripture does not say, “and to seeds,” meaning many, but “and to your seed,” meaning One, who is Christ.
 <small><sub>**Literal:**</sub></small>
 <the> And to Abraham were spoken the promises and to the seed of him. Not it does say; and <the> to seeds as of many but as of One; and to the seed of you who is Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.15|<< Galatians 3:15]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.17|Galatians 3:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 3:16** is...
+> $\quad$ referencing: [[LXX.Gen.12.7|Gen 12:7]] ☩ [[LXX.Gen.13.15|Gen 13:15]] ☩ [[LXX.Gen.22.18|Gen 22:18]]
+> $\quad$ alluding to: [[LXX.Gen.17.7|Gen 17:7-8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

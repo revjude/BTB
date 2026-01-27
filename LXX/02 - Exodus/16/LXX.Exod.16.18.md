@@ -6,6 +6,10 @@ And when they did mete [it] with an omer, he that gathered much had nothing over
 <small><sub>**BSB:**</sub></small>
 When they measured it by the omer, he who gathered much had no excess, and he who gathered little had no shortfall. Each one gathered as much as he needed to eat.<small><sub>**MT:**</sub></small>
 [[Exod.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.17|<< Exodus 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.19|Exodus 16:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 16:18** is...
+> $\quad$ referenced by: [[2Cor.8.15|2Cor 8:15]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

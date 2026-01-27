@@ -5,6 +5,11 @@ And another angel came and stood at the altar, having a golden censer; and there
 Then another angel, who had a golden censer, came and stood at the altar. He was given much incense to offer, along with the prayers of all the saints, on the golden altar before the throne.
 <small><sub>**Literal:**</sub></small>
 And another angel came and he stood at the altar having a censer golden. and was given to him incense much that he will give [it] with the prayers of the saints all upon the altar <the> golden <the> before the throne.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.2|<< Revelation 8:2]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.4|Revelation 8:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 8:3** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.30.8|Exod 30:8]]
+> $\quad$ alluding to: [[LXX.Lev.16.12|Lev 16:12]] ☩ [[LXX.Ps.141.2|Ps 141:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And he shall turn the heart of the fathers to the children, and the heart of the
 And he will turn the hearts of the fathers to their children, and the hearts of the children to their fathers. Otherwise, I will come and strike the land with a curse.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.5|<< Malachi 4:5]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">&nbsp;</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Malachi 4:6** is...
+> $\quad$ referenced by: [[Luke.1.17|Luke 1:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

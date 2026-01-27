@@ -5,6 +5,10 @@ When Israel [was] a child, then I loved him, and called my son out of Egypt.
 When Israel was a child, I loved him, and out of Egypt I called My son.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.15|<< Hosea 10:15]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.2|Hosea 11:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 11:1** is...
+> $\quad$ referenced by: [[Matt.2.15|Matt 2:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

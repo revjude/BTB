@@ -5,6 +5,10 @@ They made a calf in Horeb, and worshipped the molten image.
 At Horeb they made a calf and worshiped a molten image.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.18|<< Psalms 106:18]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.20|Psalms 106:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 106:19** is...
+> $\quad$ referenced by: [[1Cor.10.7|1Cor 10:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

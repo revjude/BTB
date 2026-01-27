@@ -6,6 +6,10 @@ He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.
 <small><sub>**BSB:**</sub></small>
 He who sows injustice will reap disaster, and the rod of his fury will be destroyed.<small><sub>**MT:**</sub></small>
 [[Prov.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.7|<< Proverbs 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.9|Proverbs 22:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 22:8** is...
+> $\quad$ referenced by: [[2Cor.9.7|2Cor 9:7]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

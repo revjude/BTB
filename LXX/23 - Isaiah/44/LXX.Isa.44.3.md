@@ -6,6 +6,10 @@ For I will pour water upon him that is thirsty, and floods upon the dry ground: 
 <small><sub>**BSB:**</sub></small>
 For I will pour water on the thirsty land, and currents on the dry ground. I will pour out My Spirit on your descendants, and My blessing on your offspring.<small><sub>**MT:**</sub></small>
 [[Isa.44.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.2|<< Isaiah 44:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.4|Isaiah 44:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 44:3** is...
+> $\quad$ referenced by: [[John.7.38|John 7:38]] ☩ [[John.7.39|John 7:39]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ Which sometime were disobedient, when once the longsuffering of God waited in th
 who disobeyed long ago when God waited patiently in the days of Noah while the ark was being built. In the ark a few people, only eight souls, were saved through water.
 <small><sub>**Literal:**</sub></small>
 having disobeyed at one time, when he was expecting the <the> of God longsuffering in [the] days of Noah when is being prepared [the] ark, in which few That is eight souls — were saved through water;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.19|<< 1 Peter 3:19]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.21|1 Peter 3:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 3:20** is...
+> $\quad$ alluding to: [[LXX.Gen.6.3|Gen 6:3]] ☩ [[LXX.Gen.6.12|Gen 6:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

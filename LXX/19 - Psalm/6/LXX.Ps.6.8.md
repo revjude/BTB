@@ -6,6 +6,10 @@ Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of
 <small><sub>**BSB:**</sub></small>
 Depart from me, all you workers of iniquity, for the LORD has heard my weeping.<small><sub>**MT:**</sub></small>
 [[Ps.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.6.7|<< Psalm 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.6.9|Psalm 6:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 6:8** is...
+> $\quad$ referenced by: [[Matt.7.23|Matt 7:23]] ☩ [[Matt.25.41|Matt 25:41]] ☩ [[Luke.13.27|Luke 13:27]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ For [in] six days the LORD made heaven and earth, the sea, and all that in them 
 For in six days the LORD made the heavens and the earth and the sea and all that is in them, but on the seventh day He rested. Therefore the LORD blessed the Sabbath day and set it apart as holy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.10|<< Exodus 20:10]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.12|Exodus 20:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 20:11** is...
+> $\quad$ referenced by: [[Acts.4.24|Acts 4:24]] ☩ [[Acts.14.15|Acts 14:15]] ☩ [[Rev.10.6|Rev 10:6]] ☩ [[Rev.14.7|Rev 14:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

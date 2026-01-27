@@ -5,6 +5,10 @@ And Jesus answered and said unto him, Get thee behind me, Satan: for it is writt
 But Jesus answered, “It is written: ‘Worship the Lord your God and serve Him only.’”
 <small><sub>**Literal:**</sub></small>
 And answering <the> Jesus said to him do go behind me Satan; It has been written: for [The] Lord the God of you you will worship and Him only you will serve.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.7|<< Luke 4:7]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.9|Luke 4:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 4:8** is...
+> $\quad$ referencing: [[LXX.Deut.6.13|Deut 6:13]] ☩ [[LXX.Deut.10.20|Deut 10:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

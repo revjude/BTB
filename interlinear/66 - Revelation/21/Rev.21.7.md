@@ -5,6 +5,10 @@ He that overcometh shall inherit all things; and I will be his God, and he shall
 The one who overcomes will inherit all things, and I will be his God, and he will be My son.
 <small><sub>**Literal:**</sub></small>
 The [one] overcoming he will inherit these [things], and I will be to him God, and he himself will be My <the> son.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.6|<< Revelation 21:6]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.8|Revelation 21:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:7** is...
+> $\quad$ referencing: [[LXX.2Sam.7.14|2Sam 7:14]] ☩ [[LXX.1Chr.17.13|1Chr 17:13]] ☩ [[LXX.Ezek.11.20|Ezek 11:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

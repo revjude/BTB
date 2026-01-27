@@ -5,6 +5,10 @@ Who was faithful to him that appointed him, as also Moses [was faithful] in all 
 He was faithful to the One who appointed Him, just as Moses was faithful in all God’s house.
 <small><sub>**Literal:**</sub></small>
 faithful being to the [One] having appointed Him as also Moses in all the house of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.1|<< Hebrews 3:1]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.3|Hebrews 3:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 3:2** is...
+> $\quad$ referencing: [[LXX.Num.12.7|Num 12:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

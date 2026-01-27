@@ -5,6 +5,10 @@ My God hath sent his angel, and hath shut the lions’ mouths, that they have no
 My God sent His angel and shut the mouths of the lions. They have not hurt me, for I was found innocent in His sight, and I have done no wrong against you, O king.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.21|<< Daniel 6:21]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.23|Daniel 6:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 6:22** is...
+> $\quad$ referenced by: [[Heb.11.33|Heb 11:33]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

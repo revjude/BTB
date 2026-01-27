@@ -6,6 +6,10 @@ That saith of Cyrus, [He is] my shepherd, and shall perform all my pleasure: eve
 <small><sub>**BSB:**</sub></small>
 who says of Cyrus, ‘My shepherd will fulfill all that I desire,’ who says of Jerusalem, ‘She will be rebuilt,’ and of the temple, ‘Let its foundation be laid.’”<small><sub>**MT:**</sub></small>
 [[Isa.44.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.27|<< Isaiah 44:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.1|Isaiah 45:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 44:28** is...
+> $\quad$ referenced by: [[Acts.13.22|Acts 13:22]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

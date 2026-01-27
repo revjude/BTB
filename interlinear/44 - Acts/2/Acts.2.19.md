@@ -5,6 +5,10 @@ And I will shew wonders in heaven above, and signs in the earth beneath; blood, 
 I will show wonders in the heavens above and signs on the earth below, blood and fire and billows of smoke.
 <small><sub>**Literal:**</sub></small>
 and I will show wonders in <the> heaven above and signs on the earth below, blood and fire and vapor of smoke.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.18|<< Acts 2:18]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.20|Acts 2:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 2:19** is...
+> $\quad$ referencing: [[LXX.Joel.2.28|Joel 2:28-32]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

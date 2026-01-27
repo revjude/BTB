@@ -5,6 +5,10 @@ And he shall stand and feed in the strength of the LORD, in the majesty of the n
 He will stand and shepherd His flock in the strength of the LORD, in the majestic name of the LORD His God. And they will dwell securely, for then His greatness will extend to the ends of the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.3|<< Micah 5:3]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.5|Micah 5:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Micah 5:4** is...
+> $\quad$ referenced by: [[Matt.2.6|Matt 2:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see he
 Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”
 <small><sub>**Literal:**</sub></small>
 And He says to him; Amen Amen I say to all of you from now you will behold the heaven having opened and the angels <the> of God ascending and descending on the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.50|<< John 1:50]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.1|John 2:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 1:51** is...
+> $\quad$ referencing: [[LXX.Gen.28.12|Gen 28:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

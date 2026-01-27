@@ -5,6 +5,10 @@ And a mighty angel took up a stone like a great millstone, and cast [it] into th
 Then a mighty angel picked up a stone the size of a great millstone and cast it into the sea, saying: “With such violence the great city of Babylon will be cast down, never to be seen again.
 <small><sub>**Literal:**</sub></small>
 And took up one angel a mighty stone like a millstone great and cast [it] into the sea saying: Thus with violence will be cast down Babylon the great city and certainly not may be found any longer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.20|<< Revelation 18:20]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.22|Revelation 18:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:21** is...
+> $\quad$ alluding to: [[LXX.Jer.51.63|Jer 51:63-64]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

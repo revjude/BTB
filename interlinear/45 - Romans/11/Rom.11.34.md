@@ -5,6 +5,10 @@ For who hath known the mind of the Lord? or who hath been his counseller?
 “Who has known the mind of the Lord? Or who has been His counselor?”
 <small><sub>**Literal:**</sub></small>
 Who for has known [the] mind of [the] Lord? or who counselor of Him has been?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.33|<< Romans 11:33]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.35|Romans 11:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 11:34** is...
+> $\quad$ referencing: [[LXX.Isa.40.13|Isa 40:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

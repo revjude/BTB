@@ -6,6 +6,10 @@ Yet have I set my king upon my holy hill of Zion.
 <small><sub>**BSB:**</sub></small>
 “I have installed My King on Zion, upon My holy mountain.”<small><sub>**MT:**</sub></small>
 [[Ps.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.2.5|<< Psalm 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.2.7|Psalm 2:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 2:6** is...
+> $\quad$ referenced by: [[Rev.14.1|Rev 14:1]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And about the time of forty years suffered he their manners in the wilderness.
 He endured their conduct for about forty years in the wilderness.
 <small><sub>**Literal:**</sub></small>
 and of about forty years for a period He endured the ways of them in the wilderness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.17|<< Acts 13:17]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.19|Acts 13:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:18** is...
+> $\quad$ alluding to: [[LXX.Deut.1.31|Deut 1:31]] ☩ [[LXX.Num.14.33|Num 14:33]] ☩ [[LXX.Ps.95.10|Ps 95:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

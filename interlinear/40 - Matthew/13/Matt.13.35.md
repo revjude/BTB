@@ -5,6 +5,10 @@ That it might be fulfilled which was spoken by the prophet, saying, I will open 
 So was fulfilled what was spoken through the prophet: “I will open My mouth in parables; I will utter things hidden since the foundation of the world.”
 <small><sub>**Literal:**</sub></small>
 so that may be fulfilled that having been spoken through the prophet saying; I will open in parables the mouth of Mine, I will utter [things] hidden from [the] foundation [of the] world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.34|<< Matthew 13:34]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.36|Matthew 13:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 13:35** is...
+> $\quad$ referencing: [[LXX.Ps.78.2|Ps 78:2-3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

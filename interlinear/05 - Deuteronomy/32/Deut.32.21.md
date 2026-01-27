@@ -5,6 +5,10 @@ They have moved me to jealousy with [that which is] not God; they have provoked 
 They have provoked My jealousy by that which is not God; they have enraged Me with their worthless idols. So I will make them jealous by those who are not a people; I will make them angry by a nation without understanding.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.20|<< Deuteronomy 32:20]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.22|Deuteronomy 32:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 32:21** is...
+> $\quad$ referenced by: [[Rom.10.19|Rom 10:19]] ☩ [[1Cor.10.22|1Cor 10:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

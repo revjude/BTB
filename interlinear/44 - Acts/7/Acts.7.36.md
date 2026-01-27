@@ -5,6 +5,10 @@ He brought them out, after that he had shewed wonders and signs in the land of E
 He led them out and performed wonders and signs in the land of Egypt, at the Red Sea, and for forty years in the wilderness.
 <small><sub>**Literal:**</sub></small>
 this one led out them having done wonders and signs in [the] land of Egypt and in [the] Red Sea and in the wilderness years forty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.35|<< Acts 7:35]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.37|Acts 7:37 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:36** is...
+> $\quad$ alluding to: [[LXX.Exod.12.41|Exod 12:41]] ☩ [[LXX.Exod.14.21|Exod 14:21]] ☩ [[LXX.Exod.15.23|Exod 15:23]] ☩ [[LXX.Exod.16.1|Exod 16:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

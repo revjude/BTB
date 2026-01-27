@@ -5,6 +5,10 @@ By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as
 By faith Moses left Egypt, not fearing the king’s anger; he persevered because he saw Him who is invisible.
 <small><sub>**Literal:**</sub></small>
 By faith he left Egypt not having feared the anger of the king; the for Invisible [One] as seeing he persevered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.26|<< Hebrews 11:26]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.28|Hebrews 11:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:27** is...
+> $\quad$ alluding to: [[LXX.Exod.2.15|Exod 2:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And I will pour upon the house of David, and upon the inhabitants of Jerusalem, 
 Then I will pour out on the house of David and on the people of Jerusalem a spirit of grace and prayer, and they will look on Me, the One they have pierced. They will mourn for Him as one mourns for an only child, and grieve bitterly for Him as one grieves for a firstborn son.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.9|<< Zechariah 12:9]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.11|Zechariah 12:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 12:10** is...
+> $\quad$ referenced by: [[John.19.37|John 19:37]] ☩ [[Rev.1.7|Rev 1:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

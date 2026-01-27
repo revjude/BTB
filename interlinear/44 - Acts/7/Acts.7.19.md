@@ -5,6 +5,10 @@ The same dealt subtilly with our kindred, and evil entreated our fathers, so tha
 He exploited our people and oppressed our fathers, forcing them to abandon their infants so they would die.
 <small><sub>**Literal:**</sub></small>
 He having dealt treacherously with the race of us he mistreated the fathers of us <the> making [them] the infants abandon of them unto the not to be given life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.18|<< Acts 7:18]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.20|Acts 7:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:19** is...
+> $\quad$ alluding to: [[LXX.Exod.1.10|Exod 1:10]] ☩ [[LXX.Exod.1.22|Exod 1:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

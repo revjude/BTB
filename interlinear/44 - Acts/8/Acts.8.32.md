@@ -5,6 +5,10 @@ The place of the scripture which he read was this, He was led as a sheep to the 
 The eunuch was reading this passage of Scripture: “He was led like a sheep to the slaughter, and as a lamb before the shearer is silent, so He did not open His mouth.
 <small><sub>**Literal:**</sub></small>
 <the> Now the passage of the Scripture which he was reading was this: As a sheep to slaughter He was led, and as a lamb before the [one who] shearing him [is] silent, so not He opens the mouth of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.31|<< Acts 8:31]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.33|Acts 8:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 8:32** is...
+> $\quad$ referencing: [[LXX.Isa.53.7|Isa 53:7-8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Notwithstanding I have a few things against thee, because thou sufferest that wo
 But I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess. By her teaching she misleads My servants to be sexually immoral and to eat food sacrificed to idols.
 <small><sub>**Literal:**</sub></small>
 But I have against you few things that you permit the woman of you Jezebel, the [one] calling herself a prophetess and she teaches and she misleads <the> My servants to commit sexual immorality and to eat idol-sacrifices.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.19|<< Revelation 2:19]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.21|Revelation 2:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 2:20** is...
+> $\quad$ possibly alluding to: [[LXX.1Kgs.16.31|1Kgs 16:31]] ☩ [[LXX.1Kgs.21.23|1Kgs 21:23]] ☩ [[LXX.2Kgs.9.33|2Kgs 9:33]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

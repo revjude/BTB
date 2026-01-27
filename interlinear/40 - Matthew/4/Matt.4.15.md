@@ -5,6 +5,10 @@ The land of Zabulon, and the land of Nephthalim, [by] the way of the sea, beyond
 “Land of Zebulun and land of Naphtali, the Way of the Sea, beyond the Jordan, Galilee of the Gentiles—
 <small><sub>**Literal:**</sub></small>
 Land of Zebulun and land of Naphtali, way of [the] sea beyond the Jordan, Galilee of the Gentiles —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.14|<< Matthew 4:14]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.16|Matthew 4:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 4:15** is...
+> $\quad$ referencing: [[LXX.Isa.9.1|Isa 9:1-2]] ☩ [[LXX.Isa.42.7|Isa 42:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

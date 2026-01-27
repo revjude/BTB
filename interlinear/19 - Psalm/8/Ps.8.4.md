@@ -5,6 +5,10 @@ What is man, that thou art mindful of him? and the son of man, that thou visites
 what is man that You are mindful of him, or the son of man that You care for him?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.3|<< Psalms 8:3]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.5|Psalms 8:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 8:4** is...
+> $\quad$ referenced by: [[Heb.2.6|Heb 2:6-8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

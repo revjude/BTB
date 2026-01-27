@@ -5,6 +5,10 @@ But [as for] you, your carcases, they shall fall in this wilderness.
 As for you, however, your bodies will fall in this wilderness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.31|<< Numbers 14:31]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.33|Numbers 14:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 14:32** is...
+> $\quad$ referenced by: [[Jude.1.5|Jude 1:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Who by the mouth of thy servant David hast said, Why did the heathen rage, and t
 You spoke by the Holy Spirit through the mouth of Your servant, our father David: ‘Why do the nations rage and the peoples plot in vain?
 <small><sub>**Literal:**</sub></small>
 who of the father of us through [the] Spirit Holy through [the] mouth of David the servant of You having spoken: so why did rage [the] Gentiles and peoples did devise vain things?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.24|<< Acts 4:24]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.26|Acts 4:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 4:25** is...
+> $\quad$ referencing: [[LXX.Ps.2.1|Ps 2:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

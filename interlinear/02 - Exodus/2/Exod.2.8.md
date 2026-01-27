@@ -5,6 +5,10 @@ And Pharaoh’s daughter said to her, Go. And the maid went and called the child
 “Go ahead,” Pharaoh’s daughter told her. And the girl went and called the boy’s mother.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.7|<< Exodus 2:7]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.9|Exodus 2:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:8** is...
+> $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

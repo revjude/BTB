@@ -5,6 +5,10 @@ Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate th
 You have heard that it was said, ‘Love your neighbor’ and ‘Hate your enemy.’
 <small><sub>**Literal:**</sub></small>
 You have heard that it was said; You will love the neighbour of you and will hate the enemy of you.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.42|<< Matthew 5:42]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.44|Matthew 5:44 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 5:43** is...
+> $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

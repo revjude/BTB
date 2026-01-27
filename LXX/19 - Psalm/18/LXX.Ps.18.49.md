@@ -6,6 +6,10 @@ Therefore will I give thanks unto thee, O LORD, among the heathen, and sing prai
 <small><sub>**BSB:**</sub></small>
 Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name.<small><sub>**MT:**</sub></small>
 [[Ps.18.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.48|<< Psalm 18:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.50|Psalm 18:50 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 18:49** is...
+> $\quad$ referenced by: [[LXX.2Sam.22.50|2Sam 22:50]] ☩ [[Rom.15.9|Rom 15:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And when Aaron lighteth the lamps at even, he shall burn incense upon it, a perp
 When Aaron sets up the lamps at twilight, he must burn the incense perpetually before the LORD for the generations to come.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.7|<< Exodus 30:7]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.9|Exodus 30:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 30:8** is...
+> $\quad$ referenced by: [[Rev.8.3|Rev 8:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

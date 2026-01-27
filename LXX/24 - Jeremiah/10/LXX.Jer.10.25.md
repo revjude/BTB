@@ -6,6 +6,10 @@ Pour out thy fury upon the heathen that know thee not, and upon the families tha
 <small><sub>**BSB:**</sub></small>
 Pour out Your wrath on the nations that do not acknowledge You, and on the families that do not call on Your name. For they have devoured Jacob; they have consumed him and finished him off; they have devastated his homeland.<small><sub>**MT:**</sub></small>
 [[Jer.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.24|<< Jeremiah 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.1|Jeremiah 11:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 10:25** is...
+> $\quad$ referenced by: [[2Thess.1.8|2Thess 1:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

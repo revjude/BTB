@@ -9,6 +9,10 @@ And Ahab told Jezebel all that Elijah had done, and withal how he had slain all 
 <small><sub>**BSB:**</sub></small>
 Now Ahab told Jezebel everything that Elijah had done and how he had killed all the prophets with the sword.<small><sub>**MT:**</sub></small>
 [[1Kgs.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.46|<< 1 Kings 18:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.2|1 Kings 19:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 19:1** is...
+> $\quad$ referenced by: [[Heb.11.35|Heb 11:35]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

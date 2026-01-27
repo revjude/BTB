@@ -6,6 +6,10 @@ And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all
 <small><sub>**BSB:**</sub></small>
 And when Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in the land of Egypt, both of man and beast. This is why I sacrifice to the LORD the firstborn male of every womb, but I redeem all the firstborn of my sons.’<small><sub>**MT:**</sub></small>
 [[Exod.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.14|<< Exodus 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.16|Exodus 13:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 13:15** is...
+> $\quad$ referenced by: [[Luke.2.23|Luke 2:23]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

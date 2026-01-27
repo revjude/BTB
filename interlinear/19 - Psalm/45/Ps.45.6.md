@@ -5,6 +5,10 @@ Thy throne, O God, [is] for ever and ever: the sceptre of thy kingdom [is] a rig
 Your throne, O God, endures forever and ever, and justice is the scepter of Your kingdom.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.5|<< Psalms 45:5]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.7|Psalms 45:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 45:6** is...
+> $\quad$ referenced by: [[Heb.1.8|Heb 1:8-9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

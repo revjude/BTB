@@ -5,6 +5,10 @@ For as a snare shall it come on all them that dwell on the face of the whole ear
 For it will come upon all who dwell on the face of all the earth.
 <small><sub>**Literal:**</sub></small>
 as a snare; It will enter for upon all those sitting upon [the] face of all the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.34|<< Luke 21:34]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.36|Luke 21:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 21:35** is...
+> $\quad$ alluding to: [[LXX.Isa.24.17|Isa 24:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

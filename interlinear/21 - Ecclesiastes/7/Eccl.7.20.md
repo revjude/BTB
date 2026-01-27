@@ -5,6 +5,10 @@ For [there is] not a just man upon earth, that doeth good, and sinneth not.
 Surely there is no righteous man on earth who does good and never sins.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.19|<< Ecclesiastes 7:19]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.21|Ecclesiastes 7:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ecclesiastes 7:20** is...
+> $\quad$ referenced by: [[Rom.3.10|Rom 3:10-12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

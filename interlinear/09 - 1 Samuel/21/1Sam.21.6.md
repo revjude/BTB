@@ -5,6 +5,10 @@ So the priest gave him hallowed [bread]: for there was no bread there but the sh
 So the priest gave him the consecrated bread, since there was no bread there but the Bread of the Presence, which had been removed from before the LORD and replaced with hot bread on the day it was taken away.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.5|<< 1 Samuel 21:5]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.7|1 Samuel 21:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 21:6** is...
+> $\quad$ referenced by: [[Matt.12.3|Matt 12:3]] ☩ [[Mark.2.25|Mark 2:25-26]] ☩ [[Luke.6.3|Luke 6:3-4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

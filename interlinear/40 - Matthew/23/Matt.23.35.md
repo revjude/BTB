@@ -5,6 +5,10 @@ That upon you may come all the righteous blood shed upon the earth, from the blo
 And so upon you will come all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berechiah, whom you murdered between the temple and the altar.
 <small><sub>**Literal:**</sub></small>
 so that may come upon you all [the] blood righteous being poured out upon the earth, from the blood of Abel the righteous until the blood of Zechariah son of Berekiah whom you murdered between the temple and the altar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.34|<< Matthew 23:34]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.36|Matthew 23:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 23:35** is...
+> $\quad$ alluding to: [[LXX.Gen.4.8|Gen 4:8]] ☩ [[LXX.2Chr.24.21|2Chr 24:21-22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

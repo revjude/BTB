@@ -5,6 +5,10 @@ I will ransom them from the power of the grave; I will redeem them from death: O
 I will ransom them from the power of Sheol; I will redeem them from Death. Where, O Death, are your plagues? Where, O Sheol, is your sting? Compassion is hidden from My eyes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.13|<< Hosea 13:13]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.15|Hosea 13:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 13:14** is...
+> $\quad$ referenced by: [[1Cor.15.55|1Cor 15:55]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

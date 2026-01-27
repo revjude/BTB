@@ -6,6 +6,10 @@ Therefore will I divide him [a portion] with the great, and he shall divide the 
 <small><sub>**BSB:**</sub></small>
 Therefore I will allot Him a portion with the great, and He will divide the spoils with the strong, because He has poured out His life unto death, and He was numbered with the transgressors. Yet He bore the sin of many and made intercession for the transgressors.<small><sub>**MT:**</sub></small>
 [[Isa.53.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.11|<< Isaiah 53:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.1|Isaiah 54:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 53:12** is...
+> $\quad$ referenced by: [[Mark.15.28|Mark 15:28]] ☩ [[Luke.22.37|Luke 22:37]] ☩ [[Heb.9.28|Heb 9:28]] ☩ [[1Pet.2.24|1Pet 2:24]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

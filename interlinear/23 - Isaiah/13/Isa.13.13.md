@@ -5,6 +5,10 @@ Therefore I will shake the heavens, and the earth shall remove out of her place,
 Therefore I will make the heavens tremble, and the earth will be shaken from its place at the wrath of the LORD of Hosts on the day of His burning anger.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.12|<< Isaiah 13:12]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.14|Isaiah 13:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 13:13** is...
+> $\quad$ referenced by: [[Rev.6.12|Rev 6:12-13]] ☩ [[Rev.6.15|Rev 6:15-16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

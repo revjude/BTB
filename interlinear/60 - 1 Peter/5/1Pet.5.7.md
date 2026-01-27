@@ -5,6 +5,10 @@ Casting all your care upon him; for he careth for you.
 Cast all your anxiety on Him, because He cares for you.
 <small><sub>**Literal:**</sub></small>
 all the anxiety of you having cast upon Him, because with Him there is care about you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.6|<< 1 Peter 5:6]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.8|1 Peter 5:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 5:7** is...
+> $\quad$ referencing: [[LXX.Ps.55.22|Ps 55:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

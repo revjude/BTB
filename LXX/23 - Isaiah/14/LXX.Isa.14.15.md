@@ -6,6 +6,10 @@ Yet thou shalt be brought down to hell, to the sides of the pit.
 <small><sub>**BSB:**</sub></small>
 But you will be brought down to Sheol, to the lowest depths of the Pit.<small><sub>**MT:**</sub></small>
 [[Isa.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.14|<< Isaiah 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.16|Isaiah 14:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 14:15** is...
+> $\quad$ referenced by: [[Matt.11.23|Matt 11:23]] ☩ [[Luke.10.15|Luke 10:15]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -6,6 +6,10 @@ And he fenced it, and gathered out the stones thereof, and planted it with the c
 <small><sub>**BSB:**</sub></small>
 He dug it up and cleared the stones and planted the finest vines. He built a watchtower in the middle and dug out a winepress as well. He waited for the vineyard to yield good grapes, but the fruit it produced was sour!<small><sub>**MT:**</sub></small>
 [[Isa.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.1|<< Isaiah 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.3|Isaiah 5:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 5:2** is...
+> $\quad$ referenced by: [[Matt.21.33|Matt 21:33]] ☩ [[Mark.12.1|Mark 12:1]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

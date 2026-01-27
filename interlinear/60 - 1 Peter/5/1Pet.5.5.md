@@ -5,6 +5,10 @@ Likewise, ye younger, submit yourselves unto the elder. Yea, all [of you] be sub
 Young men, in the same way, submit yourselves to your elders. And all of you, clothe yourselves with humility toward one another, because, “God opposes the proud, but gives grace to the humble.”
 <small><sub>**Literal:**</sub></small>
 Likewise younger [ones], do be subjected to [your] elders, All now to one another be submitting yourselves <the> humility do gird on, because <the> God [the] proud opposes, to [the] humble however He gives grace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.4|<< 1 Peter 5:4]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.6|1 Peter 5:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 5:5** is...
+> $\quad$ referencing: [[LXX.Prov.3.34|Prov 3:34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

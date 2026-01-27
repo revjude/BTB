@@ -5,6 +5,10 @@ And cried when they saw the smoke of her burning, saying, What [city is] like un
 and cry out at the sight of the smoke rising from the fire that consumes her. “What city was ever like this great city?” they will exclaim.
 <small><sub>**Literal:**</sub></small>
 and were crying out seeing the smoke of the burning of her saying; What [is] like as the city <the> great?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.17|<< Revelation 18:17]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.19|Revelation 18:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:18** is...
+> $\quad$ alluding to: [[LXX.Isa.34.10|Isa 34:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

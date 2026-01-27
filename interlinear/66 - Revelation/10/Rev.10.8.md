@@ -5,6 +5,10 @@ And the voice which I heard from heaven spake unto me again, and said, Go [and] 
 Then the voice that I had heard from heaven spoke to me again, saying, “Go, take the small scroll that lies open in the hand of the angel standing on the sea and on the land.”
 <small><sub>**Literal:**</sub></small>
 And the voice that I heard out of <the> heaven again was speaking with me and saying; do go do take the little scroll which opened in the hand of the angel who standing upon the sea and upon the land.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.7|<< Revelation 10:7]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.9|Revelation 10:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 10:8** is...
+> $\quad$ alluding to: [[LXX.Ezek.2.8|Ezek 2:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the scribe said unto him, Well, Master, thou hast said the truth: for there 
 “Right, Teacher,” the scribe replied. “You have stated correctly that God is One and there is no other but Him,
 <small><sub>**Literal:**</sub></small>
 And said to Him the scribe; Right, Teacher, according to truth You have spoken that One He is God and not there is another besides Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.31|<< Mark 12:31]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.33|Mark 12:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 12:32** is...
+> $\quad$ referencing: [[LXX.Deut.4.35|Deut 4:35]] ☩ [[LXX.Deut.6.4|Deut 6:4]] ☩ [[LXX.Isa.45.21|Isa 45:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

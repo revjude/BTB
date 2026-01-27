@@ -5,6 +5,10 @@ And the people shall take them, and bring them to their place: and the house of 
 The nations will escort Israel and bring it to its homeland. Then the house of Israel will possess the nations as menservants and maidservants in the LORD’s land. They will make captives of their captors and rule over their oppressors.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.1|<< Isaiah 14:1]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.3|Isaiah 14:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 14:2** is...
+> $\quad$ referenced by: [[Rev.13.10|Rev 13:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

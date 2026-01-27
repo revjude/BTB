@@ -6,6 +6,10 @@ And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole:
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Make a fiery serpent and mount it on a pole. When anyone who is bitten looks at it, he will live.”<small><sub>**MT:**</sub></small>
 [[Num.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.7|<< Numbers 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.9|Numbers 21:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 21:8** is...
+> $\quad$ referenced by: [[John.3.14|John 3:14]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

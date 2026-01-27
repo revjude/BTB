@@ -5,6 +5,10 @@ Saying unto Aaron, Make us gods to go before us: for [as for] this Moses, which 
 They said to Aaron, ‘Make us gods who will go before us! As for this Moses who led us out of the land of Egypt, we do not know what has happened to him.’
 <small><sub>**Literal:**</sub></small>
 having said <the> to Aaron; do make us gods who will go before us; <the> As for Moses this who brought out us from [the] land of Egypt, not we know what happened to him.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.39|<< Acts 7:39]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.41|Acts 7:41 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:40** is...
+> $\quad$ referencing: [[LXX.Exod.32.1|Exod 32:1]] ☩ [[LXX.Exod.32.23|Exod 32:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

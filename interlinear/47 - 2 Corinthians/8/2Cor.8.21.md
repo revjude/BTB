@@ -5,6 +5,10 @@ Providing for honest things, not only in the sight of the Lord, but also in the 
 For we are taking great care to do what is right, not only in the eyes of the Lord, but also in the eyes of men.
 <small><sub>**Literal:**</sub></small>
 We plan for what is right not only before [the] Lord but also before men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.20|<< 2 Corinthians 8:20]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.22|2 Corinthians 8:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 8:21** is...
+> $\quad$ referencing: [[LXX.Prov.3.4|Prov 3:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

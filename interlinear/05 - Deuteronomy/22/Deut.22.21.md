@@ -5,6 +5,10 @@ Then they shall bring out the damsel to the door of her father’s house, and th
 she shall be brought to the door of her father’s house, and there the men of her city will stone her to death. For she has committed an outrage in Israel by being promiscuous in her father’s house. So you must purge the evil from among you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.20|<< Deuteronomy 22:20]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.22|Deuteronomy 22:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 22:21** is...
+> $\quad$ referenced by: [[John.8.5|John 8:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

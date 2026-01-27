@@ -5,6 +5,10 @@ And the stars of heaven shall fall, and the powers that are in heaven shall be s
 the stars will fall from the sky, and the powers of the heavens will be shaken.’
 <small><sub>**Literal:**</sub></small>
 and the stars will be out of the heaven falling, and the powers that [are] in the heavens will be shaken.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.24|<< Mark 13:24]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.26|Mark 13:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 13:25** is...
+> $\quad$ referencing: [[LXX.Isa.13.9|Isa 13:9-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

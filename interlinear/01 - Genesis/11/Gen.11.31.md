@@ -5,6 +5,10 @@ And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sara
 And Terah took his son Abram, his grandson Lot son of Haran, and his daughter-in-law Sarai the wife of Abram, and they set out from Ur of the Chaldeans for the land of Canaan. But when they arrived in Haran, they settled there.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.30|<< Genesis 11:30]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.32|Genesis 11:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 11:31** is...
+> $\quad$ referenced by: [[Acts.7.4|Acts 7:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

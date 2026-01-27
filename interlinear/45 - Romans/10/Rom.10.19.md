@@ -5,6 +5,10 @@ But I say, Did not Israel know? First Moses saith, I will provoke you to jealous
 I ask instead, did Israel not understand? First, Moses says: “I will make you jealous by those who are not a nation; I will make you angry by a nation without understanding.”
 <small><sub>**Literal:**</sub></small>
 But I ask; surely not Israel not did know First Moses says: I myself will provoke to jealousy you by [those] not a nation by a nation without understanding I will anger you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.18|<< Romans 10:18]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.20|Romans 10:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:19** is...
+> $\quad$ referencing: [[LXX.Deut.32.21|Deut 32:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

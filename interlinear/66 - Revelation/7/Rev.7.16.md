@@ -5,6 +5,10 @@ They shall hunger no more, neither thirst any more; neither shall the sun light 
 ‘Never again will they hunger, and never will they thirst; nor will the sun beat down upon them, nor any scorching heat.’
 <small><sub>**Literal:**</sub></small>
 Not they will hunger any more neither will they thirst anymore nor not no may fall upon them the sun nor any scorching heat,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.15|<< Revelation 7:15]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.17|Revelation 7:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 7:16** is...
+> $\quad$ referencing: [[LXX.Isa.49.10|Isa 49:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

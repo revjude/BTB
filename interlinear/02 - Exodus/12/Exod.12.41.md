@@ -5,6 +5,10 @@ And it came to pass at the end of the four hundred and thirty years, even the se
 At the end of the 430 years, to the very day, all the LORD’s divisions went out of the land of Egypt.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.40|<< Exodus 12:40]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.42|Exodus 12:42 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 12:41** is...
+> $\quad$ referenced by: [[Acts.7.36|Acts 7:36]] ☩ [[Jude.1.5|Jude 1:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

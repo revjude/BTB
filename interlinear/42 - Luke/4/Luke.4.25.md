@@ -5,6 +5,10 @@ But I tell you of a truth, many widows were in Israel in the days of Elias, when
 But I tell you truthfully that there were many widows in Israel in the time of Elijah, when the sky was shut for three and a half years and great famine swept over all the land.
 <small><sub>**Literal:**</sub></small>
 In truth now I say to you; many widows there were in the days of Elijah in <the> Israel when was shut up the heaven for years three and months six, when there was a famine great upon all the land;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.24|<< Luke 4:24]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.26|Luke 4:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 4:25** is...
+> $\quad$ alluding to: [[LXX.1Kgs.17.1|1Kgs 17:1]] ☩ [[LXX.1Kgs.17.9|1Kgs 17:9]] ☩ [[LXX.1Kgs.18.1|1Kgs 18:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

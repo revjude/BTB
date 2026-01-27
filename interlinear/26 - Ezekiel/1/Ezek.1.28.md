@@ -5,6 +5,10 @@ As the appearance of the bow that is in the cloud in the day of rain, so [was] t
 The appearance of the brilliant light all around Him was like that of a rainbow in a cloud on a rainy day. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell facedown and heard a voice speaking.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.27|<< Ezekiel 1:27]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2.1|Ezekiel 2:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 1:28** is...
+> $\quad$ referenced by: [[Rev.4.2|Rev 4:2-3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

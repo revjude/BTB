@@ -5,6 +5,10 @@ Their line is gone out through all the earth, and their words to the end of the 
 their voice has gone out into all the earth, their words to the ends of the world. In the heavens He has pitched a tent for the sun.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.3|<< Psalms 19:3]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.5|Psalms 19:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 19:4** is...
+> $\quad$ referenced by: [[Rom.10.18|Rom 10:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

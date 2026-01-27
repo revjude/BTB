@@ -5,6 +5,10 @@ But found none: yea, though many false witnesses came, [yet] found they none. At
 But they did not find any, though many false witnesses came forward. Finally two came forward
 <small><sub>**Literal:**</sub></small>
 but not any they found and of many having come forward as false witnesses not they found. Finally then having come forward two false witnesses<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.59|<< Matthew 26:59]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.61|Matthew 26:61 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 26:60** is...
+> $\quad$ alluding to: [[LXX.Ps.35.11|Ps 35:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

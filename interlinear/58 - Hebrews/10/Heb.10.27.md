@@ -5,6 +5,11 @@ But a certain fearful looking for of judgment and fiery indignation, which shall
 but only a fearful expectation of judgment and of raging fire that will consume all adversaries.
 <small><sub>**Literal:**</sub></small>
 terrifying however a certain expectation of judgment and of fire fury to devour being about the adversaries.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.26|<< Hebrews 10:26]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.28|Hebrews 10:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:27** is...
+> $\quad$ alluding to: [[LXX.Isa.26.11|Isa 26:11]]
+> $\quad$ possibly alluding to: [[LXX.Isa.64.1|Isa 64:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

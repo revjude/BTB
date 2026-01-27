@@ -5,6 +5,11 @@ That it may be well with thee, and thou mayest live long on the earth.
 “that it may go well with you and that you may have a long life on the earth.”
 <small><sub>**Literal:**</sub></small>
 that well with you it may be and you will be long-lived upon the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.2|<< Ephesians 6:2]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.4|Ephesians 6:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 6:3** is...
+> $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12]] ☩ [[LXX.Exod.20.12|Exod 20:12]] ☩ [[LXX.Deut.5.16|Deut 5:16]]
+> $\quad$ alluding to: [[LXX.Deut.5.16|Deut 5:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

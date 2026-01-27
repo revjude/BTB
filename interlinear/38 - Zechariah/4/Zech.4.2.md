@@ -5,6 +5,10 @@ And said unto me, What seest thou? And I said, I have looked, and behold a candl
 “What do you see?” he asked. “I see a solid gold lampstand,” I replied, “with a bowl at the top and seven lamps on it, with seven spouts to the lamps.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.1|<< Zechariah 4:1]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.3|Zechariah 4:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 4:2** is...
+> $\quad$ referenced by: [[Rev.1.12|Rev 1:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

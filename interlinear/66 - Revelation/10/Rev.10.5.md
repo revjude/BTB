@@ -5,6 +5,10 @@ And the angel which I saw stand upon the sea and upon the earth lifted up his ha
 Then the angel I had seen standing on the sea and on the land lifted up his right hand to heaven.
 <small><sub>**Literal:**</sub></small>
 And the angel whom I saw standing on the sea and on the land lifted up the hand of him the right to <the> heaven<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.4|<< Revelation 10:4]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.6|Revelation 10:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 10:5** is...
+> $\quad$ alluding to: [[LXX.Dan.12.4|Dan 12:4]] ☩ [[LXX.Dan.8.26|Dan 8:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

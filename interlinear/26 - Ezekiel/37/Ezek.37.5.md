@@ -5,6 +5,10 @@ Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter i
 This is what the Lord GOD says to these bones: I will cause breath to enter you, and you will come to life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.4|<< Ezekiel 37:4]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.6|Ezekiel 37:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 37:5** is...
+> $\quad$ referenced by: [[Rev.11.11|Rev 11:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

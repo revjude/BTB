@@ -5,6 +5,11 @@ Immediately after the tribulation of those days shall the sun be darkened, and t
 Immediately after the tribulation of those days: ‘The sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the powers of the heavens will be shaken.’
 <small><sub>**Literal:**</sub></small>
 Immediately then after the tribulation of the days of those The sun will be darkened, and the moon not will give the light of it, and the stars will fall from the sky, and the powers of the heavens will be shaken.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.28|<< Matthew 24:28]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.30|Matthew 24:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 24:29** is...
+> $\quad$ alluding to: [[LXX.Isa.13.9|Isa 13:9-10]] ☩ [[LXX.Joel.2.10|Joel 2:10]] ☩ [[LXX.Joel.3.15|Joel 3:15]] ☩ [[LXX.Ezek.32.7|Ezek 32:7]]
+> $\quad$ referencing: [[LXX.Isa.34.4|Isa 34:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

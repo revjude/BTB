@@ -5,6 +5,10 @@ For here have we no continuing city, but we seek one to come.
 For here we do not have a permanent city, but we are looking for the city that is to come.
 <small><sub>**Literal:**</sub></small>
 Not for we have here an abiding city, but the coming [one] we are seeking for.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.13|<< Hebrews 13:13]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.15|Hebrews 13:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 13:14** is...
+> $\quad$ alluding to: [[LXX.Mic.2.10|Mic 2:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And he shall judge the world in righteousness, he shall minister judgment to the
 <small><sub>**BSB:**</sub></small>
 He judges the world with justice; He governs the people with equity.<small><sub>**MT:**</sub></small>
 [[Ps.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.7|<< Psalm 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.9|Psalm 9:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 9:8** is...
+> $\quad$ referenced by: [[Acts.17.31|Acts 17:31]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

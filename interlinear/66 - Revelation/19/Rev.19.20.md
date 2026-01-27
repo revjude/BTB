@@ -5,6 +5,10 @@ And the beast was taken, and with him the false prophet that wrought miracles be
 But the beast was captured along with the false prophet, who on its behalf had performed signs deceiving those who had the mark of the beast and worshiped its image. Both the beast and the false prophet were thrown alive into the fiery lake of burning sulfur.
 <small><sub>**Literal:**</sub></small>
 And was captured the beast, and with him <the> false prophet the [one] having done the signs before him, by which he deceived those having received the mark of the beast and those worshiping the image of it. living were cast the two into the lake <the> of fire which is burning with <the> brimstone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.19|<< Revelation 19:19]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.21|Revelation 19:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:20** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.30.33|Isa 30:33]] ☩ [[LXX.Dan.7.11|Dan 7:11]] ☩ [[LXX.Dan.7.26|Dan 7:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

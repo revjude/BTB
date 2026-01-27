@@ -5,6 +5,10 @@ For whatsoever soul [it be] that shall not be afflicted in that same day, he sha
 If anyone does not humble himself on this day, he must be cut off from his people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.28|<< Leviticus 23:28]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.30|Leviticus 23:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 23:29** is...
+> $\quad$ referenced by: [[Acts.3.22|Acts 3:22]] ☩ [[Acts.3.23|Acts 3:23]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And it was commanded them that they should not hurt the grass of the earth, neit
 They were told not to harm the grass of the earth or any plant or tree, but only those who did not have the seal of God on their foreheads.
 <small><sub>**Literal:**</sub></small>
 And it was said to them that not they will harm the grass of the earth nor any green thing nor any tree, only except the men only who not having the seal <the> of God on the foreheads of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.3|<< Revelation 9:3]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.5|Revelation 9:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 9:4** is...
+> $\quad$ alluding to: [[LXX.Ezek.9.6|Ezek 9:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

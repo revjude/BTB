@@ -5,6 +5,10 @@ My son, despise not the chastening of the LORD; neither be weary of his correcti
 My son, do not reject the discipline of the LORD, and do not loathe His rebuke;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.10|<< Proverbs 3:10]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.12|Proverbs 3:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 3:11** is...
+> $\quad$ referenced by: [[Heb.12.5|Heb 12:5-6]] ☩ [[Rev.3.19|Rev 3:19]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

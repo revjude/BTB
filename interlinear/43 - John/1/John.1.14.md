@@ -5,6 +5,10 @@ And the Word was made flesh, and dwelt among us, (and we beheld his glory, the g
 The Word became flesh and made His dwelling among us. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth.
 <small><sub>**Literal:**</sub></small>
 And the Word flesh became and He dwelt among us, and we beheld the glory of Him, a glory as of an only begotten from [the] Father, full of grace and truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.13|<< John 1:13]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.15|John 1:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 1:14** is...
+> $\quad$ referencing: [[LXX.Gen.22.2|Gen 22:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 “Before I formed you in the womb I knew you, and before you were born I set you apart and appointed you as a prophet to the nations.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.4|<< Jeremiah 1:4]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.6|Jeremiah 1:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 1:5** is...
+> $\quad$ referenced by: [[Gal.1.15|Gal 1:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

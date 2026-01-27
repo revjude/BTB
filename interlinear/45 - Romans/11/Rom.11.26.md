@@ -5,6 +5,10 @@ And so all Israel shall be saved: as it is written, There shall come out of Sion
 And so all Israel will be saved, as it is written: “The Deliverer will come from Zion; He will remove godlessness from Jacob.
 <small><sub>**Literal:**</sub></small>
 and so all Israel will be saved even as it has been written: Will come out of Zion the [One] Delivering, and He will remove ungodliness from Jacob;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.25|<< Romans 11:25]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.27|Romans 11:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 11:26** is...
+> $\quad$ referencing: [[LXX.Isa.2.3|Isa 2:3]] ☩ [[LXX.Isa.46.13|Isa 46:13]] ☩ [[LXX.Isa.59.20|Isa 59:20-21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

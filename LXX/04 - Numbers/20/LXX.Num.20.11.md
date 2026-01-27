@@ -9,6 +9,10 @@ And Moses lifted up his hand, and with his rod he smote the rock twice: and the 
 <small><sub>**BSB:**</sub></small>
 Then Moses raised his hand and struck the rock twice with his staff, so that a great amount of water gushed out, and the congregation and their livestock were able to drink.<small><sub>**MT:**</sub></small>
 [[Num.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.10|<< Numbers 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.12|Numbers 20:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 20:11** is...
+> $\quad$ referenced by: [[1Cor.10.3|1Cor 10:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

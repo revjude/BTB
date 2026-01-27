@@ -5,6 +5,10 @@ And on the seventh day God ended his work which he had made; and he rested on th
 And by the seventh day God had finished the work He had been doing; so on that day He rested from all His work.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.1|<< Genesis 2:1]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.3|Genesis 2:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 2:2** is...
+> $\quad$ referenced by: [[Heb.4.4|Heb 4:4]] ☩ [[Heb.4.10|Heb 4:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

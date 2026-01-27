@@ -5,6 +5,10 @@ Moses therefore gave unto you circumcision; (not because it is of Moses, but of 
 But because Moses gave you circumcision, you circumcise a boy on the Sabbath (not that it is from Moses, but from the patriarchs.)
 <small><sub>**Literal:**</sub></small>
 Because of this:  Moses has given you <the> circumcision — not that of <the> Moses it is but of the fathers — also on Sabbath you circumcise a man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.21|<< John 7:21]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.23|John 7:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 7:22** is...
+> $\quad$ alluding to: [[LXX.Lev.12.3|Lev 12:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

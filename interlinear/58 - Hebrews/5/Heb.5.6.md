@@ -5,6 +5,10 @@ As he saith also in another [place], Thou [art] a priest for ever after the orde
 And in another passage God says: “You are a priest forever in the order of Melchizedek.”
 <small><sub>**Literal:**</sub></small>
 even as also in another [place] He says: You [are] a priest to the age according to the order of Melchizedek.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.5|<< Hebrews 5:5]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.7|Hebrews 5:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 5:6** is...
+> $\quad$ referencing: [[LXX.Ps.110.4|Ps 110:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

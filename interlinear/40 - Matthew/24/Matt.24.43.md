@@ -5,6 +5,10 @@ But know this, that if the goodman of the house had known in what watch the thie
 But understand this: If the homeowner had known in which watch of the night the thief was coming, he would have kept watch and would not have let his house be broken into.
 <small><sub>**Literal:**</sub></small>
 This then do know, that if [would] had known the master of the house in what time of night the thief comes, he had watched then would and not then would allowed to be broken into the house of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.42|<< Matthew 24:42]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.44|Matthew 24:44 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 24:43** is...
+> $\quad$ alluding to: [[LXX.Exod.22.2|Exod 22:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

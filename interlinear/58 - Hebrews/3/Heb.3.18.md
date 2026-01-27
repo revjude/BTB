@@ -5,6 +5,10 @@ And to whom sware he that they should not enter into his rest, but to them that 
 And to whom did He swear that they would never enter His rest? Was it not to those who disobeyed?
 <small><sub>**Literal:**</sub></small>
 To whom then did He swear that not to enter into the rest of Him only except to those having disobeyed?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.17|<< Hebrews 3:17]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.19|Hebrews 3:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 3:18** is...
+> $\quad$ alluding to: [[LXX.Ps.95.11|Ps 95:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And Abel, he also brought of the firstlings of his flock and of the fat thereof.
 <small><sub>**BSB:**</sub></small>
 while Abel brought the best portions of the firstborn of his flock. And the LORD looked with favor on Abel and his offering,<small><sub>**MT:**</sub></small>
 [[Gen.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.3|<< Genesis 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.5|Genesis 4:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 4:4** is...
+> $\quad$ referenced by: [[Heb.11.4|Heb 11:4]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

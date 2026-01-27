@@ -5,6 +5,10 @@ For he hath put all things under his feet. But when he saith, all things are put
 For “God has put everything under His feet.” Now when it says that everything has been put under Him, this clearly does not include the One who put everything under Him.
 <small><sub>**Literal:**</sub></small>
 All things for He has put in subjection under the feet of Him; When however it may be said that all things have been put in subjection, [it is] evident that [is] excepted the [One who] having put in subjection to Him <the> all things;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.26|<< 1 Corinthians 15:26]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.28|1 Corinthians 15:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 15:27** is...
+> $\quad$ referencing: [[LXX.Ps.8.6|Ps 8:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

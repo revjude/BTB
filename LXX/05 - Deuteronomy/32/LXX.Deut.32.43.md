@@ -6,6 +6,10 @@ Rejoice, O ye nations, [with] his people: for he will avenge the blood of his se
 <small><sub>**BSB:**</sub></small>
 Rejoice, O heavens, with Him, and let all God’s angels worship Him. Rejoice, O nations, with His people; for He will avenge the blood of His children. He will take vengeance on His adversaries and repay those who hate Him; He will cleanse His land and His people.<small><sub>**MT:**</sub></small>
 [[Deut.32.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.42|<< Deuteronomy 32:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.44|Deuteronomy 32:44 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 32:43** is...
+> $\quad$ referenced by: [[Rom.15.10|Rom 15:10]] ☩ [[Heb.1.6|Heb 1:6]] ☩ [[Rev.19.2|Rev 19:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

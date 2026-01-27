@@ -5,6 +5,10 @@ Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.
 saying, “I will surely bless you and multiply your descendants.”
 <small><sub>**Literal:**</sub></small>
 saying; If surely blessing I will bless you and multiplying I will multiply you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.13|<< Hebrews 6:13]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.15|Hebrews 6:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 6:14** is...
+> $\quad$ referencing: [[LXX.Gen.22.16|Gen 22:16-17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

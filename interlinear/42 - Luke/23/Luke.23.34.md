@@ -5,6 +5,10 @@ Then said Jesus, Father, forgive them; for they know not what they do. And they 
 Then Jesus said, “Father, forgive them, for they do not know what they are doing.” And they divided up His garments by casting lots.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus was saying; Father, do forgive them; not for they know what they do. Dividing then the garments of Him they cast lots.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.33|<< Luke 23:33]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.35|Luke 23:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 23:34** is...
+> $\quad$ referencing: [[LXX.Ps.22.18|Ps 22:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

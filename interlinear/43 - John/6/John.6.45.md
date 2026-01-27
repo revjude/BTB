@@ -5,6 +5,11 @@ It is written in the prophets, And they shall be all taught of God. Every man th
 It is written in the Prophets: ‘And they will all be taught by God.’ Everyone who has heard the Father and learned from Him comes to Me—
 <small><sub>**Literal:**</sub></small>
 It is written in the prophets: And they will be all taught <the> of God.’ Everyone therefore who having heard from the Father and having learned he comes to Me myself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.44|<< John 6:44]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.46|John 6:46 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 6:45** is...
+> $\quad$ referencing: [[LXX.Isa.54.13|Isa 54:13]]
+> $\quad$ alluding to: [[LXX.Jer.31.33|Jer 31:33-34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

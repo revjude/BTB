@@ -5,6 +5,10 @@ And enter not into judgment with thy servant: for in thy sight shall no man livi
 Do not bring Your servant into judgment, for no one alive is righteous before You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.1|<< Psalms 143:1]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.3|Psalms 143:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 143:2** is...
+> $\quad$ referenced by: [[Rom.3.20|Rom 3:20]] ☩ [[Gal.2.16|Gal 2:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

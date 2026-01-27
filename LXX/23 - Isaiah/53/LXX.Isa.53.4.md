@@ -6,6 +6,10 @@ Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him 
 <small><sub>**BSB:**</sub></small>
 Surely He took up our infirmities and carried our sorrows; yet we considered Him stricken, struck down by God, and afflicted.<small><sub>**MT:**</sub></small>
 [[Isa.53.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.3|<< Isaiah 53:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.5|Isaiah 53:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 53:4** is...
+> $\quad$ referenced by: [[Matt.8.17|Matt 8:17]] ☩ [[1Pet.2.24|1Pet 2:24]] ☩ [[1John.3.5|1John 3:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

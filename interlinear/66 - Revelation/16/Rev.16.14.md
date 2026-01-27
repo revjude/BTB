@@ -5,6 +5,10 @@ For they are the spirits of devils, working miracles, [which] go forth unto the 
 These are demonic spirits that perform signs and go out to all the kings of the earth, to assemble them for battle on the great day of God the Almighty.
 <small><sub>**Literal:**</sub></small>
 they are for spirits of demons performing signs which go forth to the kings of the earth and of the inhabited [world] whole to gather together them unto the battle of the day that [one] the great [day] <the> of God the Almighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.13|<< Revelation 16:13]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.15|Revelation 16:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 16:14** is...
+> $\quad$ possibly alluding to: [[LXX.Joel.3.2|Joel 3:2]] ☩ [[LXX.Zeph.3.8|Zeph 3:8]] ☩ [[LXX.Zech.14.2|Zech 14:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

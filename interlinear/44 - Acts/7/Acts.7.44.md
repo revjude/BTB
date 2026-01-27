@@ -5,6 +5,10 @@ Our fathers had the tabernacle of witness in the wilderness, as he had appointed
 Our fathers had the tabernacle of the Testimony with them in the wilderness. It was constructed exactly as God had directed Moses, according to the pattern he had seen.
 <small><sub>**Literal:**</sub></small>
 The tabernacle of the testimony was among the fathers of us in the wilderness, even as had commanded the [One] speaking <the> to Moses to make it according to the pattern that he had seen;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.43|<< Acts 7:43]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.45|Acts 7:45 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:44** is...
+> $\quad$ alluding to: [[LXX.Exod.25.40|Exod 25:40]] ☩ [[LXX.Exod.26.30|Exod 26:30]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ By faith he sojourned in the land of promise, as [in] a strange country, dwellin
 By faith he dwelt in the promised land as a stranger in a foreign country. He lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise.
 <small><sub>**Literal:**</sub></small>
 By faith he sojourned in the land of the promise as [in] a foreign [country] in tents having dwelt with Isaac and Jacob the joint-heirs of the promise <the> same;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.8|<< Hebrews 11:8]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.10|Hebrews 11:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:9** is...
+> $\quad$ alluding to: [[LXX.Gen.12.5|Gen 12:5]] ☩ [[LXX.Gen.27.11|Gen 27:11-12]] ☩ [[LXX.Gen.27.14|Gen 27:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

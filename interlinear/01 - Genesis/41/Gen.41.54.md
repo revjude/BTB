@@ -5,6 +5,10 @@ And the seven years of dearth began to come, according as Joseph had said: and t
 the seven years of famine began, just as Joseph had said. And although there was famine in every country, there was food throughout the land of Egypt.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.53|<< Genesis 41:53]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.55|Genesis 41:55 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 41:54** is...
+> $\quad$ referenced by: [[Acts.7.11|Acts 7:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

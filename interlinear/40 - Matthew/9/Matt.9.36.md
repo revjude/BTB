@@ -5,6 +5,10 @@ But when he saw the multitudes, he was moved with compassion on them, because th
 When He saw the crowds, He was moved with compassion for them, because they were harassed and helpless, like sheep without a shepherd.
 <small><sub>**Literal:**</sub></small>
 Having seen now the crowds He was moved with compassion for them because they were troubled and cast away as sheep not having a shepherd.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.35|<< Matthew 9:35]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.37|Matthew 9:37 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 9:36** is...
+> $\quad$ referencing: [[LXX.Num.27.17|Num 27:17]] ☩ [[LXX.2Chr.18.16|2Chr 18:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

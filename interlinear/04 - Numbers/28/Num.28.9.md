@@ -5,6 +5,10 @@ And on the sabbath day two lambs of the first year without spot, and two tenth d
 On the Sabbath day, present two unblemished year-old male lambs, accompanied by a grain offering of two-tenths of an ephah of fine flour mixed with oil, as well as a drink offering.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.8|<< Numbers 28:8]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.10|Numbers 28:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 28:9** is...
+> $\quad$ referenced by: [[Matt.12.5|Matt 12:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

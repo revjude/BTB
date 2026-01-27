@@ -5,6 +5,10 @@ He hath not dealt so with any nation: and [as for his] judgments, they have not 
 He has done this for no other nation; they do not know His judgments. Hallelujah!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.19|<< Psalms 147:19]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.1|Psalms 148:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 147:20** is...
+> $\quad$ related to: [[Amos.3.2|Amos 3:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

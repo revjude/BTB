@@ -5,6 +5,10 @@ I say then, Hath God cast away his people? God forbid. For I also am an Israelit
 I ask then, did God reject His people? Certainly not! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin.
 <small><sub>**Literal:**</sub></small>
 I ask then; not did reject <the> God the people of Him? Never would it be! Also for I myself an Israelite am, of [the] seed of Abraham, of [the] tribe of Benjamin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.21|<< Romans 10:21]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.2|Romans 11:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 11:1** is...
+> $\quad$ referencing: [[LXX.Ps.94.14|Ps 94:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

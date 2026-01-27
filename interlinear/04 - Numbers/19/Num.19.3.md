@@ -5,6 +5,10 @@ And ye shall give her unto Eleazar the priest, that he may bring her forth witho
 Give it to Eleazar the priest, and he will have it brought outside the camp and slaughtered in his presence.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.2|<< Numbers 19:2]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.4|Numbers 19:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 19:3** is...
+> $\quad$ referenced by: [[Heb.13.11|Heb 13:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And Moses made a serpent of brass, and put it upon a pole, and it came to pass, 
 <small><sub>**BSB:**</sub></small>
 So Moses made a bronze snake and mounted it on a pole. If anyone who was bitten looked at the bronze snake, he would live.<small><sub>**MT:**</sub></small>
 [[Num.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.8|<< Numbers 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.10|Numbers 21:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 21:9** is...
+> $\quad$ referenced by: [[John.3.14|John 3:14]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

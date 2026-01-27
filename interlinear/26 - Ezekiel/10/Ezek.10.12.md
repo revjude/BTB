@@ -5,6 +5,10 @@ And their whole body, and their backs, and their hands, and their wings, and the
 Their entire bodies, including their backs, hands, and wings, were full of eyes all around, as were their four wheels.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.11|<< Ezekiel 10:11]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.13|Ezekiel 10:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 10:12** is...
+> $\quad$ referenced by: [[Rev.4.6|Rev 4:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

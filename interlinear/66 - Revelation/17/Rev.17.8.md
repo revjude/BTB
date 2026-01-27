@@ -5,6 +5,10 @@ The beast that thou sawest was, and is not; and shall ascend out of the bottomle
 The beast that you saw—it was, and now is no more, but is about to come up out of the Abyss and go to its destruction. And those who dwell on the earth whose names were not written in the Book of Life from the foundation of the world will marvel when they see the beast that was, and is not, and yet will be.
 <small><sub>**Literal:**</sub></small>
 The beast that you saw was and not is and is about to come up out of the abyss and into destruction go. and will be astonished those dwelling on the earth, whose not has been written <the> name in the book <the> of life from [the] foundation of [the] world, seeing the beast that was and not is and yet it will exist.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.7|<< Revelation 17:7]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.9|Revelation 17:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 17:8** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.7.11|Dan 7:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

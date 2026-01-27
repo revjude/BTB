@@ -5,6 +5,10 @@ My son, fear thou the LORD and the king: [and] meddle not with them that are giv
 My son, fear the LORD and the king, and do not associate with the rebellious.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.20|<< Proverbs 24:20]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.22|Proverbs 24:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 24:21** is...
+> $\quad$ referenced by: [[1Pet.2.17|1Pet 2:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

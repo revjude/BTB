@@ -5,6 +5,10 @@ And the children of Israel saw the face of Moses, that the skin of Moses’ face
 and the Israelites would see that the face of Moses was radiant. So Moses would put the veil back over his face until he went in to speak with the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.34|<< Exodus 34:34]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.1|Exodus 35:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 34:35** is...
+> $\quad$ referenced by: [[2Cor.3.7|2Cor 3:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

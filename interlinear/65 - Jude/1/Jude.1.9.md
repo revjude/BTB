@@ -5,6 +5,11 @@ Yet Michael the archangel, when contending with the devil he disputed about the 
 But even the archangel Michael, when he disputed with the devil over the body of Moses, did not presume to bring a slanderous charge against him, but said, “The Lord rebuke you!”
 <small><sub>**Literal:**</sub></small>
 <the> But Michael the archangel, when with the devil disputing he was reasoning about <the> Moses’ body, not did dare a judgment to bring against [him] blasphemy but said; Would [that] he rebuke you [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.8|<< Jude 1:8]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.10|Jude 1:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jude 1:9** is...
+> $\quad$ alluding to: [[LXX.Deut.34.5|Deut 34:5-6]]
+> $\quad$ referencing: [[LXX.Zech.3.2|Zech 3:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

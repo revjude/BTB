@@ -5,6 +5,10 @@ And the earth opened her mouth, and swallowed them up, and their houses, and all
 and the earth opened its mouth and swallowed them and their households—all Korah’s men and all their possessions.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.31|<< Numbers 16:31]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.33|Numbers 16:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 16:32** is...
+> $\quad$ referenced by: [[Jude.1.11|Jude 1:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

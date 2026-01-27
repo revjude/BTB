@@ -5,6 +5,10 @@ Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer 
 Cast your burden upon the LORD and He will sustain you; He will never let the righteous be shaken.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.21|<< Psalms 55:21]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.23|Psalms 55:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 55:22** is...
+> $\quad$ referenced by: [[1Pet.5.7|1Pet 5:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

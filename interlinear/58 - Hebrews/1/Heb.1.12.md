@@ -5,6 +5,10 @@ And as a vesture shalt thou fold them up, and they shall be changed: but thou ar
 You will roll them up like a robe; like a garment they will be changed; but You remain the same, and Your years will never end.”
 <small><sub>**Literal:**</sub></small>
 and like a robe You will roll up them like a garment also they will be changed; You yourself however the same are, and the years of You not will never end.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.11|<< Hebrews 1:11]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.13|Hebrews 1:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 1:12** is...
+> $\quad$ referencing: [[LXX.Ps.102.25|Ps 102:25-27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

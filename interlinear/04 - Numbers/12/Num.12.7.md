@@ -5,6 +5,10 @@ My servant Moses [is] not so, who [is] faithful in all mine house.
 But this is not so with My servant Moses; he is faithful in all My house.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.6|<< Numbers 12:6]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.8|Numbers 12:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 12:7** is...
+> $\quad$ referenced by: [[Heb.3.2|Heb 3:2]] ☩ [[Heb.3.5|Heb 3:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And what agreement hath the temple of God with idols? for ye are the temple of t
 What agreement can exist between the temple of God and idols? For we are the temple of the living God. As God has said: “I will dwell with them and walk among them, and I will be their God, and they will be My people.”
 <small><sub>**Literal:**</sub></small>
 What now agreement [the] temple of God with idols? We ourselves for [the] temple of God we are [the] living, even as has said <the> God that I will dwell in them and will walk among [them], and I will be their God and they themselves will be to Me a people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.15|<< 2 Corinthians 6:15]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.17|2 Corinthians 6:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 6:16** is...
+> $\quad$ referencing: [[LXX.Lev.26.11|Lev 26:11-12]] ☩ [[LXX.Isa.52.11|Isa 52:11-12]] ☩ [[LXX.Jer.31.9|Jer 31:9]] ☩ [[LXX.Ezek.37.27|Ezek 37:27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

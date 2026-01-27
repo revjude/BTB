@@ -5,6 +5,10 @@ As many as I love, I rebuke and chasten: be zealous therefore, and repent.
 Those I love I rebuke and discipline. Therefore be earnest and repent.
 <small><sub>**Literal:**</sub></small>
 I myself as many as if shall love I rebuke and discipline. do be jealous therefore and do repent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.18|<< Revelation 3:18]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.20|Revelation 3:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 3:19** is...
+> $\quad$ possibly alluding to: [[LXX.Prov.3.11|Prov 3:11-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

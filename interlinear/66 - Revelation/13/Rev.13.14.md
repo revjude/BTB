@@ -5,6 +5,10 @@ And deceiveth them that dwell on the earth by [the means of] those miracles whic
 Because of the signs it was given to perform on behalf of the first beast, it deceived those who dwell on the earth, telling them to make an image to the beast that had been wounded by the sword and yet had lived.
 <small><sub>**Literal:**</sub></small>
 And it deceives those mine who dwelling on the earth through the signs that were given to it to perform before the beast telling to those dwelling on the earth to make an image to the beast that has the wound from of the sword and has lived.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.13|<< Revelation 13:13]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.15|Revelation 13:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 13:14** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.3.3|Dan 3:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my fami
 <small><sub>**BSB:**</sub></small>
 “Please, my Lord,” Gideon replied, “how can I save Israel? Indeed, my clan is the weakest in Manasseh, and I am the youngest in my father’s house.”<small><sub>**MT:**</sub></small>
 [[Judg.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.14|<< Judges 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.16|Judges 6:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Judges 6:15** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

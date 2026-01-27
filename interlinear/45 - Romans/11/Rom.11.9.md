@@ -5,6 +5,10 @@ And David saith, Let their table be made a snare, and a trap, and a stumblingblo
 And David says: “May their table become a snare and a trap, a stumbling block and a retribution to them.
 <small><sub>**Literal:**</sub></small>
 And David says: should be the table of them for a snare and for a trap and for a stumbling block and for a retribution to them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.8|<< Romans 11:8]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.10|Romans 11:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 11:9** is...
+> $\quad$ referencing: [[LXX.Ps.69.22|Ps 69:22-23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Saying, Blessed [be] the King that cometh in the name of the Lord: peace in heav
 “Blessed is the King who comes in the name of the Lord!” “Peace in heaven and glory in the highest!”
 <small><sub>**Literal:**</sub></small>
 saying: Blessed [is] the coming <the> King in [the] name of [the] Lord; In heaven peace, and glory in [the] highest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.37|<< Luke 19:37]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.39|Luke 19:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 19:38** is...
+> $\quad$ referencing: [[LXX.Ps.118.26|Ps 118:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

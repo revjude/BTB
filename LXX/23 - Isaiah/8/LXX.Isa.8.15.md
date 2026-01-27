@@ -6,6 +6,10 @@ And many among them shall stumble, and fall, and be broken, and be snared, and b
 <small><sub>**BSB:**</sub></small>
 Many will stumble over these; they will fall and be broken; they will be ensnared and captured.”<small><sub>**MT:**</sub></small>
 [[Isa.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.14|<< Isaiah 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.16|Isaiah 8:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 8:15** is...
+> $\quad$ referenced by: [[Luke.2.34|Luke 2:34]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

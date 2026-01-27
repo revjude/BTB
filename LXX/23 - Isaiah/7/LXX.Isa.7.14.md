@@ -6,6 +6,10 @@ Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceiv
 <small><sub>**BSB:**</sub></small>
 Therefore the Lord Himself will give you a sign: Behold, the virgin will be with child and give birth to a son, and will call Him Immanuel.<small><sub>**MT:**</sub></small>
 [[Isa.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.13|<< Isaiah 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.15|Isaiah 7:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 7:14** is...
+> $\quad$ referenced by: [[Matt.1.23|Matt 1:23]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

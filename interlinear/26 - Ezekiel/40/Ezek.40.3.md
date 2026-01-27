@@ -5,6 +5,10 @@ And he brought me thither, and, behold, [there was] a man, whose appearance [was
 So He took me there, and I saw a man whose appearance was like bronze. He was standing in the gateway with a linen cord and a measuring rod in his hand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.2|<< Ezekiel 40:2]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.4|Ezekiel 40:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 40:3** is...
+> $\quad$ referenced by: [[Rev.11.1|Rev 11:1]] ☩ [[Rev.21.15|Rev 21:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

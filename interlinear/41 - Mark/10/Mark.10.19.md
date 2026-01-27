@@ -5,6 +5,10 @@ Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal
 You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not bear false witness, do not cheat others, honor your father and mother.’”
 <small><sub>**Literal:**</sub></small>
 The commandments you know: Not shall you murder not shall you commit adultery not shall you steal, not shall you bear false witness, not shall you defraud, do honor the father of you and the mother.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.18|<< Mark 10:18]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.20|Mark 10:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 10:19** is...
+> $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12-16]] ☩ [[LXX.Deut.5.16|Deut 5:16-20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

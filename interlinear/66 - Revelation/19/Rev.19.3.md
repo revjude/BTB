@@ -5,6 +5,10 @@ And again they said, Alleluia. And her smoke rose up for ever and ever.
 And a second time they called out: “Hallelujah! Her smoke rises forever and ever.”
 <small><sub>**Literal:**</sub></small>
 And a second time they have said: Hallelujah! And the smoke of her goes up to the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.2|<< Revelation 19:2]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.4|Revelation 19:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:3** is...
+> $\quad$ alluding to: [[LXX.Isa.34.10|Isa 34:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

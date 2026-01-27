@@ -5,6 +5,10 @@ Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from t
 So Abraham left the land of the Chaldeans and settled in Haran. After his father died, God brought him out of that place and into this land where you are now living.
 <small><sub>**Literal:**</sub></small>
 Then having gone out from [the] land of Chaldeans he dwelt in Haran; And from there after <the> dying the father of him He removed him into <the> land this in which you yourselves now dwell,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.3|<< Acts 7:3]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.5|Acts 7:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:4** is...
+> $\quad$ alluding to: [[LXX.Gen.11.31|Gen 11:31]] ☩ [[LXX.Gen.12.4|Gen 12:4-5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

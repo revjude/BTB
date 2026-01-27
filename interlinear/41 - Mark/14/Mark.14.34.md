@@ -5,6 +5,10 @@ And saith unto them, My soul is exceeding sorrowful unto death: tarry ye here, a
 Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch.”
 <small><sub>**Literal:**</sub></small>
 And He says to them; Very sorrowful is the soul of Mine until death. do remain here and do watch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.33|<< Mark 14:33]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.35|Mark 14:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 14:34** is...
+> $\quad$ referencing: [[LXX.Ps.42.5|Ps 42:5]][[LXX.Ps.42.11|, 11]] ☩ [[LXX.Ps.43.5|Ps 43:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

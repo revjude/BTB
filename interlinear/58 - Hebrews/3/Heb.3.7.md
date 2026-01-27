@@ -5,6 +5,10 @@ Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,
 Therefore, as the Holy Spirit says: “Today, if you hear His voice,
 <small><sub>**Literal:**</sub></small>
 Therefore, even as says the Spirit <the> Holy: Today if the voice of Him you shall hear,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.6|<< Hebrews 3:6]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.8|Hebrews 3:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 3:7** is...
+> $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

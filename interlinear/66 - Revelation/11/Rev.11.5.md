@@ -5,6 +5,10 @@ And if any man will hurt them, fire proceedeth out of their mouth, and devoureth
 If anyone wants to harm them, fire proceeds from their mouths and devours their enemies. In this way, anyone who wants to harm them must be killed.
 <small><sub>**Literal:**</sub></small>
 And if anyone them should desire to harm, fire goes out of the mouth of them and devours the enemies of them; And if anyone shall desire them to harm, thus it is necessary for him to be killed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.4|<< Revelation 11:4]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.6|Revelation 11:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 11:5** is...
+> $\quad$ possibly alluding to: [[LXX.2Kgs.1.9|2Kgs 1:9-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

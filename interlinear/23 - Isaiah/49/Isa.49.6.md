@@ -5,6 +5,10 @@ And he said, It is a light thing that thou shouldest be my servant to raise up t
 He says: “It is not enough for You to be My Servant, to raise up the tribes of Jacob, and to restore the protected ones of Israel. I will also make You a light for the nations, to bring My salvation to the ends of the earth.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.5|<< Isaiah 49:5]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.7|Isaiah 49:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 49:6** is...
+> $\quad$ referenced by: [[Isa.42.6|Isa 42:6]] ☩ [[Acts.13.47|Acts 13:47]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

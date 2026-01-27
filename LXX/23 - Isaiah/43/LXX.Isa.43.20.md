@@ -6,6 +6,10 @@ The beast of the field shall honour me, the dragons and the owls: because I give
 <small><sub>**BSB:**</sub></small>
 The beasts of the field will honor Me, the jackals and the ostriches, because I provide water in the wilderness and rivers in the desert, to give drink to My chosen people.<small><sub>**MT:**</sub></small>
 [[Isa.43.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.19|<< Isaiah 43:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.21|Isaiah 43:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 43:20** is...
+> $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

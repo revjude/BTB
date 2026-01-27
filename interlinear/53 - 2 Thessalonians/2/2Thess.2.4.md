@@ -5,6 +5,10 @@ Who opposeth and exalteth himself above all that is called God, or that is worsh
 He will oppose and exalt himself above every so-called god or object of worship. So he will seat himself in the temple of God, proclaiming himself to be God.
 <small><sub>**Literal:**</sub></small>
 who is opposing and exalting himself above every [one] named god or object of worship so as for him in the temple <the> of God as god to sit down setting forth he himself that is God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.3|<< 2 Thessalonians 2:3]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.5|2 Thessalonians 2:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Thessalonians 2:4** is...
+> $\quad$ alluding to: [[LXX.Ezek.28.2|Ezek 28:2]] ☩ [[LXX.Dan.11.36|Dan 11:36]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -9,6 +9,10 @@ And when the people saw that Moses delayed to come down out of the mount, the pe
 <small><sub>**BSB:**</sub></small>
 Now when the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!”<small><sub>**MT:**</sub></small>
 [[Exod.32.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.18|<< Exodus 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.2|Exodus 32:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 32:1** is...
+> $\quad$ referenced by: [[Acts.7.40|Acts 7:40]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

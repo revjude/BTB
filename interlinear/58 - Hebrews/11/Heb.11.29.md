@@ -5,6 +5,10 @@ By faith they passed through the Red sea as by dry [land]: which the Egyptians a
 By faith the people passed through the Red Sea as on dry land; but when the Egyptians tried to follow, they were drowned.
 <small><sub>**Literal:**</sub></small>
 By faith they passed through the Red Sea as through dry land, which an attempt having made the Egyptians were swallowed up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.28|<< Hebrews 11:28]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.30|Hebrews 11:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:29** is...
+> $\quad$ alluding to: [[LXX.Exod.14.22|Exod 14:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

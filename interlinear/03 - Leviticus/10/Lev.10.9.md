@@ -5,6 +5,10 @@ Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go int
 “You and your sons are not to drink wine or strong drink when you enter the Tent of Meeting, or else you will die; this is a permanent statute for the generations to come.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.8|<< Leviticus 10:8]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.10|Leviticus 10:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 10:9** is...
+> $\quad$ referenced by: [[Luke.1.15|Luke 1:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And he opened his mouth in blasphemy against God, to blaspheme his name, and his
 And the beast opened its mouth to speak blasphemies against God and to slander His name and His tabernacle—those who dwell in heaven.
 <small><sub>**Literal:**</sub></small>
 And it opened the mouth of it unto blasphemies against <the> God to blaspheme the name of Him and the tabernacle of Him, and those in <the> heaven dwelling.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.5|<< Revelation 13:5]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.7|Revelation 13:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 13:6** is...
+> $\quad$ alluding to: [[LXX.Dan.7.8|Dan 7:8]] ☩ [[LXX.Dan.7.25|Dan 7:25]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

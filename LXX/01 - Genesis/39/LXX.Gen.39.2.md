@@ -6,6 +6,10 @@ And the LORD was with Joseph, and he was a prosperous man; and he was in the hou
 <small><sub>**BSB:**</sub></small>
 And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master.<small><sub>**MT:**</sub></small>
 [[Gen.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.1|<< Genesis 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.3|Genesis 39:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 39:2** is...
+> $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

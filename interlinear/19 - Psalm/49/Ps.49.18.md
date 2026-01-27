@@ -5,6 +5,10 @@ Though while he lived he blessed his soul: and [men] will praise thee, when thou
 Though in his lifetime he blesses his soul—and men praise you when you prosper—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.17|<< Psalms 49:17]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.19|Psalms 49:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 49:18** is...
+> $\quad$ referenced by: [[1Tim.6.7|1Tim 6:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

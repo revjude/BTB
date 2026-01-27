@@ -5,6 +5,10 @@ And afterward they desired a king: and God gave unto them Saul the son of Cis, a
 Then the people asked for a king, and God gave them Saul son of Kish, from the tribe of Benjamin, who ruled forty years.
 <small><sub>**Literal:**</sub></small>
 Then they asked for a king, and gave to them <the> God <the> Saul son of Kish, a man of [the] tribe of Benjamin, years forty;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.20|<< Acts 13:20]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.22|Acts 13:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 13:21** is...
+> $\quad$ alluding to: [[LXX.1Sam.8.5|1Sam 8:5]] ☩ [[LXX.1Sam.10.21|1Sam 10:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

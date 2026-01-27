@@ -5,6 +5,10 @@ Ask of me, and I shall give [thee] the heathen [for] thine inheritance, and the 
 Ask Me, and I will make the nations Your inheritance, the ends of the earth Your possession.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.7|<< Psalms 2:7]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.9|Psalms 2:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 2:8** is...
+> $\quad$ referenced by: [[Rev.2.26|Rev 2:26]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

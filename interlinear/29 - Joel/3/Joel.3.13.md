@@ -5,6 +5,10 @@ Put ye in the sickle, for the harvest is ripe: come, get you down; for the press
 Swing the sickle, for the harvest is ripe. Come, trample the grapes, for the winepress is full; the wine vats overflow because their wickedness is great.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.12|<< Joel 3:12]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.14|Joel 3:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 3:13** is...
+> $\quad$ referenced by: [[Mark.4.29|Mark 4:29]] ☩ [[Rev.14.15|Rev 14:15]] ☩ [[Rev.14.19|Rev 14:19-20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

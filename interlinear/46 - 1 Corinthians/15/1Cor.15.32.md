@@ -5,6 +5,10 @@ If after the manner of men I have fought with beasts at Ephesus, what advantaget
 If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”
 <small><sub>**Literal:**</sub></small>
 If according to man I fought wild beasts in Ephesus, what to me the profit? If [the] dead not are raised, Let us eat and let us drink, tomorrow for we die.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.31|<< 1 Corinthians 15:31]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.33|1 Corinthians 15:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 15:32** is...
+> $\quad$ referencing: [[LXX.Isa.22.13|Isa 22:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

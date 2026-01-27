@@ -5,6 +5,10 @@ Every valley shall be filled, and every mountain and hill shall be brought low; 
 Every valley shall be filled in, and every mountain and hill made low. The crooked ways shall be made straight, and the rough ways smooth.
 <small><sub>**Literal:**</sub></small>
 Every valley will be filled and every mountain and hill will be made low; and will become the crooked into straight and the rough into ways smooth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.4|<< Luke 3:4]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.6|Luke 3:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 3:5** is...
+> $\quad$ referencing: [[LXX.Isa.40.3|Isa 40:3-5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

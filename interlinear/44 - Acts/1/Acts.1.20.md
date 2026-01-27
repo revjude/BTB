@@ -5,6 +5,10 @@ For it is written in the book of Psalms, Let his habitation be desolate, and let
 “For it is written in the book of Psalms: ‘May his place be deserted; let there be no one to dwell in it,’ and, ‘May another take his position.’
 <small><sub>**Literal:**</sub></small>
 It has been written for in [the] book of Psalms: should become the homestead of him desolate and not should there be [one] who is dwelling in it,’ and The position of him take another.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.19|<< Acts 1:19]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.21|Acts 1:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 1:20** is...
+> $\quad$ referencing: [[LXX.Ps.69.25|Ps 69:25]] ☩ [[LXX.Ps.109.8|Ps 109:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

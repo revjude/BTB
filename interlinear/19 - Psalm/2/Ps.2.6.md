@@ -5,6 +5,10 @@ Yet have I set my king upon my holy hill of Zion.
 “I have installed My King on Zion, upon My holy mountain.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.5|<< Psalms 2:5]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.7|Psalms 2:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 2:6** is...
+> $\quad$ referenced by: [[Rev.14.1|Rev 14:1]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

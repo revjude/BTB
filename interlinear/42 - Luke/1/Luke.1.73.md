@@ -5,6 +5,10 @@ The oath which he sware to our father Abraham,
 the oath He swore to our father Abraham, to grant us
 <small><sub>**Literal:**</sub></small>
 [the] oath that He swore to Abraham the father of us, [74] <the> to grant us<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.72|<< Luke 1:72]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.74|Luke 1:74 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:73** is...
+> $\quad$ alluding to: [[LXX.Gen.12.3|Gen 12:3]] ☩ [[LXX.Gen.22.16|Gen 22:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

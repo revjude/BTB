@@ -5,6 +5,10 @@ Depart from evil, and do good; seek peace, and pursue it.
 Turn away from evil and do good; seek peace and pursue it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.13|<< Psalms 34:13]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.15|Psalms 34:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 34:14** is...
+> $\quad$ referenced by: [[1Pet.3.10|1Pet 3:10-12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For David is not ascended into the heavens: but he saith himself, The LORD said 
 For David did not ascend into heaven, but he himself says: ‘The Lord said to my Lord, “Sit at My right hand
 <small><sub>**Literal:**</sub></small>
 Not for David ascended into the heavens, he says however himself: Said the Lord to the Lord of me; do sit at [the] right hand of Me,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.33|<< Acts 2:33]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.35|Acts 2:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 2:34** is...
+> $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

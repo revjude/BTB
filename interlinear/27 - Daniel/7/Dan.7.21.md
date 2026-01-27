@@ -5,6 +5,10 @@ I beheld, and the same horn made war with the saints, and prevailed against them
 As I watched, this horn was waging war against the saints and prevailing against them,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.20|<< Daniel 7:20]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.22|Daniel 7:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 7:21** is...
+> $\quad$ referenced by: [[Rev.11.7|Rev 11:7]] ☩ [[Rev.13.7|Rev 13:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

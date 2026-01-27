@@ -5,6 +5,10 @@ Thorns also and thistles shall it bring forth to thee; and thou shalt eat the he
 Both thorns and thistles it will yield for you, and you will eat the plants of the field.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.17|<< Genesis 3:17]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.19|Genesis 3:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 3:18** is...
+> $\quad$ referenced by: [[Heb.6.8|Heb 6:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

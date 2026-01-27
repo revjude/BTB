@@ -5,6 +5,10 @@ And when forty years were expired, there appeared to him in the wilderness of mo
 After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.
 <small><sub>**Literal:**</sub></small>
 And when were passing years forty appeared to him in the wilderness of the Mount Sinai an angel of [the] Lord in a flame of fire of a bush.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.29|<< Acts 7:29]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.31|Acts 7:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:30** is...
+> $\quad$ referencing: [[LXX.Exod.3.2|Exod 3:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

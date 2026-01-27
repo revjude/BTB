@@ -5,6 +5,10 @@ Your gold and silver is cankered; and the rust of them shall be a witness agains
 Your gold and silver are corroded. Their corrosion will testify against you and consume your flesh like fire. You have hoarded treasure in the last days.
 <small><sub>**Literal:**</sub></small>
 The gold of you and the silver have corroded and the rust of them for a testimony against you will be and it will eat the flesh of you like fire; You have treasured up in [the] last days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.2|<< James 5:2]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.4|James 5:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 5:3** is...
+> $\quad$ possibly alluding to: [[LXX.Prov.16.27|Prov 16:27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

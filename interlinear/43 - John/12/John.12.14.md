@@ -5,6 +5,10 @@ And Jesus, when he had found a young ass, sat thereon; as it is written,
 Finding a young donkey, Jesus sat on it, as it is written:
 <small><sub>**Literal:**</sub></small>
 Having found then <the> Jesus a young donkey He sat upon it, even as it is written:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.13|<< John 12:13]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.15|John 12:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 12:14** is...
+> $\quad$ referencing: [[LXX.Zech.9.9|Zech 9:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

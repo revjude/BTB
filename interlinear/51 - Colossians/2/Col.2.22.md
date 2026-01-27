@@ -5,6 +5,10 @@ Which all are to perish with the using;) after the commandments and doctrines of
 These will all perish with use, because they are based on human commands and teachings.
 <small><sub>**Literal:**</sub></small>
 which are all unto decay with the use according to the commandments and teachings <the> of men;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.21|<< Colossians 2:21]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.23|Colossians 2:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Colossians 2:22** is...
+> $\quad$ alluding to: [[LXX.Isa.29.13|Isa 29:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

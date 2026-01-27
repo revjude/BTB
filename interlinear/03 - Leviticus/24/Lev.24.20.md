@@ -5,6 +5,10 @@ Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in 
 fracture for fracture, eye for eye, tooth for tooth. Just as he injured the other person, the same must be inflicted on him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.19|<< Leviticus 24:19]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.21|Leviticus 24:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 24:20** is...
+> $\quad$ referenced by: [[Matt.5.38|Matt 5:38]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

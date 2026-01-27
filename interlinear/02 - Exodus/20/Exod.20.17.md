@@ -5,6 +5,10 @@ Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour
 You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, or his manservant or maidservant, or his ox or donkey, or anything that belongs to your neighbor.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.16|<< Exodus 20:16]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.18|Exodus 20:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 20:17** is...
+> $\quad$ referenced by: [[Rom.7.7|Rom 7:7]] ☩ [[Rom.13.9|Rom 13:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

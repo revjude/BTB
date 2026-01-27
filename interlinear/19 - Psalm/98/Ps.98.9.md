@@ -5,6 +5,10 @@ Before the LORD; for he cometh to judge the earth: with righteousness shall he j
 before the LORD, for He comes to judge the earth. He will judge the world with righteousness and the peoples with equity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.98.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.8|<< Psalms 98:8]]</td><td align="center" style="border:none;">[[Ps.98|Psalms 98]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.1|Psalms 99:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 98:9** is...
+> $\quad$ referenced by: [[Acts.17.31|Acts 17:31]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

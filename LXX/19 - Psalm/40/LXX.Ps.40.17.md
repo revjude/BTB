@@ -6,6 +6,10 @@ But I [am] poor and needy; [yet] the Lord thinketh upon me: thou [art] my help a
 <small><sub>**BSB:**</sub></small>
 But I am poor and needy; may the Lord think of me. You are my helper and deliverer; O my God, do not delay.<small><sub>**MT:**</sub></small>
 [[Ps.40.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.16|<< Psalm 40:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.1|Psalm 41:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 40:17** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

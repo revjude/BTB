@@ -6,6 +6,10 @@ And [if] the latter husband hate her, and write her a bill of divorcement, and g
 <small><sub>**BSB:**</sub></small>
 and the second man hates her, writes her a certificate of divorce, hands it to her, and sends her away from his house, or if he dies,<small><sub>**MT:**</sub></small>
 [[Deut.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.2|<< Deuteronomy 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.4|Deuteronomy 24:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 24:3** is...
+> $\quad$ referenced by: [[Matt.5.31|Matt 5:31]] ☩ [[Matt.19.7|Matt 19:7]] ☩ [[Mark.10.4|Mark 10:4]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And when they shall have finished their testimony, the beast that ascendeth out 
 When the two witnesses have finished their testimony, the beast that comes up from the Abyss will wage war with them, and will overpower and kill them.
 <small><sub>**Literal:**</sub></small>
 And when they may have completed the testimony of them, the beast which is coming up out of the abyss will make with them war and he will overcome them and he will kill them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.6|<< Revelation 11:6]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.8|Revelation 11:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 11:7** is...
+> $\quad$ alluding to: [[LXX.Dan.7.21|Dan 7:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

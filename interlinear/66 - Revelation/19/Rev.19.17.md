@@ -5,6 +5,11 @@ And I saw an angel standing in the sun; and he cried with a loud voice, saying t
 Then I saw an angel standing in the sun, and he cried out in a loud voice to all the birds flying overhead, “Come, gather together for the great supper of God,
 <small><sub>**Literal:**</sub></small>
 And I saw one angel standing in the sun, and he cried out in a voice loud saying to all the birds who are flying in mid-heaven; Come and do be gathered unto the supper <the> great <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.16|<< Revelation 19:16]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.18|Revelation 19:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:17** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.34.6|Isa 34:6]]
+> $\quad$ alluding to: [[LXX.Ezek.39.17|Ezek 39:17-20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

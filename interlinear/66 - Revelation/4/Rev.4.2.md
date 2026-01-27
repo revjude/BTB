@@ -5,6 +5,10 @@ And immediately I was in the spirit: and, behold, a throne was set in heaven, an
 At once I was in the Spirit, and I saw a throne standing in heaven, with someone seated on it.
 <small><sub>**Literal:**</sub></small>
 and immediately I was in [the] Spirit and behold a throne was set in <the> heaven, and upon the throne [One] sitting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.1|<< Revelation 4:1]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.3|Revelation 4:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 4:2** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.1.26|Ezek 1:26]][[LXX.Ezek.1.28|, 28]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

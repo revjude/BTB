@@ -6,6 +6,10 @@ And death shall be chosen rather than life by all the residue of them that remai
 <small><sub>**BSB:**</sub></small>
 And wherever I have banished them, the remnant of this evil family will choose death over life,” declares the LORD of Hosts.<small><sub>**MT:**</sub></small>
 [[Jer.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.2|<< Jeremiah 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.4|Jeremiah 8:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 8:3** is...
+> $\quad$ referenced by: [[Rev.9.6|Rev 9:6]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

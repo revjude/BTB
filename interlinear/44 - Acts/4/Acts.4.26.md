@@ -5,6 +5,10 @@ The kings of the earth stood up, and the rulers were gathered together against t
 The kings of the earth take their stand and the rulers gather together against the Lord and against His Anointed One.’
 <small><sub>**Literal:**</sub></small>
 Took [their] stand the kings of the earth and the rulers were gathered together <the> themselves against the Lord and against the Christ of Him.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.25|<< Acts 4:25]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.27|Acts 4:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 4:26** is...
+> $\quad$ referencing: [[LXX.Ps.2.1|Ps 2:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

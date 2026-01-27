@@ -5,6 +5,10 @@ So God created man in his [own] image, in the image of God created he him; male 
 So God created man in His own image; in the image of God He created him; male and female He created them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.26|<< Genesis 1:26]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.28|Genesis 1:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 1:27** is...
+> $\quad$ referenced by: [[Matt.19.4|Matt 19:4]] ☩ [[Mark.10.6|Mark 10:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

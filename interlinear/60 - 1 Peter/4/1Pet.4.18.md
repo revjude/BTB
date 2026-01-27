@@ -5,6 +5,10 @@ And if the righteous scarcely be saved, where shall the ungodly and the sinner a
 And, “If it is hard for the righteous to be saved, what will become of the ungodly and the sinner?”
 <small><sub>**Literal:**</sub></small>
 And If the righteous [one] with difficulty is saved, the now ungodly and sinner where will appear?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.17|<< 1 Peter 4:17]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.19|1 Peter 4:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 4:18** is...
+> $\quad$ referencing: [[LXX.Prov.11.31|Prov 11:31]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

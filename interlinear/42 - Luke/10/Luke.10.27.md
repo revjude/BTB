@@ -5,6 +5,10 @@ And he answering said, Thou shalt love the Lord thy God with all thy heart, and 
 He answered, “‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’ and ‘Love your neighbor as yourself.’”
 <small><sub>**Literal:**</sub></small>
 <the> And answering he said; 'You will love [the] Lord the God of you with all the heart of you and with all the soul of you and with all the strength of you and with all the mind of you’, and The neighbour of you as yourself.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.26|<< Luke 10:26]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.28|Luke 10:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 10:27** is...
+> $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]] ☩ [[LXX.Deut.6.5|Deut 6:5]] ☩ [[LXX.Josh.22.5|Josh 22:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

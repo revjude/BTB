@@ -5,6 +5,10 @@ Then began he to speak to the people this parable; A certain man planted a viney
 Then He proceeded to tell the people this parable: “A man planted a vineyard, rented it out to some tenants, and went away for a long time.
 <small><sub>**Literal:**</sub></small>
 He began then to the people to speak <the> parable this: A man certain planted a vineyard and rented it to farmers and went abroad a time long.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.8|<< Luke 20:8]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.10|Luke 20:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 20:9** is...
+> $\quad$ alluding to: [[LXX.Isa.5.1|Isa 5:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

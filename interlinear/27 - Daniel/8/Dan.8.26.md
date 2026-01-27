@@ -5,6 +5,10 @@ And the vision of the evening and the morning which was told [is] true: wherefor
 The vision of the evenings and the mornings that has been spoken is true. Now you must seal up the vision, for it concerns the distant future.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.25|<< Daniel 8:25]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.27|Daniel 8:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 8:26** is...
+> $\quad$ referenced by: [[Rev.10.4|Rev 10:4]] ☩ [[Rev.22.10|Rev 22:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

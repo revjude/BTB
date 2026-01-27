@@ -5,6 +5,10 @@ For Moses truly said unto the fathers, A prophet shall the Lord your God raise u
 For Moses said, ‘The Lord your God will raise up for you a prophet like me from among your brothers. You must listen to Him in everything He tells you.
 <small><sub>**Literal:**</sub></small>
 Moses indeed for to the fathers said that A prophet to you will raise up [the] Lord the God of you out from the brothers of you like me myself; to Him You will listen in all things as much as maybe He may say to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.21|<< Acts 3:21]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.23|Acts 3:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 3:22** is...
+> $\quad$ referencing: [[LXX.Lev.23.29|Lev 23:29]] ☩ [[LXX.Deut.18.15|Deut 18:15]] ☩ [[LXX.Deut.18.18|Deut 18:18-19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

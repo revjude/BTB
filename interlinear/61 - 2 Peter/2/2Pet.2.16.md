@@ -5,6 +5,10 @@ But was rebuked for his iniquity: the dumb ass speaking with man’s voice forba
 But he was rebuked for his transgression by a donkey, otherwise without speech, that spoke with a man’s voice and restrained the prophet’s madness.
 <small><sub>**Literal:**</sub></small>
 reproof however he had for his own transgression; [by] a donkey mute in a man’s voice having spoken it restrained the of the prophet madness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.15|<< 2 Peter 2:15]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.17|2 Peter 2:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 2:16** is...
+> $\quad$ alluding to: [[LXX.Num.22.28|Num 22:28]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

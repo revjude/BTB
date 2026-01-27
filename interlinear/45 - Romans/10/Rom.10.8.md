@@ -5,6 +5,10 @@ But what saith it? The word is nigh thee, [even] in thy mouth, and in thy heart:
 But what does it say? “The word is near you; it is in your mouth and in your heart,” that is, the word of faith we are proclaiming:
 <small><sub>**Literal:**</sub></small>
 But what says it? Near you the declaration is in the mouth of you and in the heart of you; That is the declaration <the> of faith which we proclaim;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.7|<< Romans 10:7]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.9|Romans 10:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:8** is...
+> $\quad$ referencing: [[LXX.Deut.30.14|Deut 30:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ Behold, your house is left unto you desolate: and verily I say unto you, Ye shal
 Look, your house is left to you desolate. And I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”
 <small><sub>**Literal:**</sub></small>
 Behold is left to you the house of you desolate. Amen I say now to you that: certainly not shall you see Me until when [the time] will come when you may say; Blessed [is] the [One] coming in [the] name of [the] Lord.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.34|<< Luke 13:34]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.1|Luke 14:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 13:35** is...
+> $\quad$ referencing: [[LXX.Ps.118.26|Ps 118:26]]
+> $\quad$ alluding to: [[LXX.Jer.12.7|Jer 12:7]] ☩ [[LXX.Jer.22.5|Jer 22:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

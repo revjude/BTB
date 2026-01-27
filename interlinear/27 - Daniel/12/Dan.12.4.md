@@ -5,6 +5,10 @@ But thou, O Daniel, shut up the words, and seal the book, [even] to the time of 
 But you, Daniel, shut up these words and seal the book until the time of the end. Many will roam to and fro, and knowledge will increase.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.3|<< Daniel 12:3]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.5|Daniel 12:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 12:4** is...
+> $\quad$ referenced by: [[Rev.10.5|Rev 10:5]] ☩ [[Rev.22.10|Rev 22:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

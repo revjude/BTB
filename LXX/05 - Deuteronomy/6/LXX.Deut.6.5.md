@@ -6,6 +6,10 @@ And thou shalt love the LORD thy God with all thine heart, and with all thy soul
 <small><sub>**BSB:**</sub></small>
 And you shall love the LORD your God with all your heart and with all your soul and with all your strength.<small><sub>**MT:**</sub></small>
 [[Deut.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.4|<< Deuteronomy 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.6|Deuteronomy 6:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 6:5** is...
+> $\quad$ referenced by: [[Matt.22.37|Matt 22:37]] ☩ [[Mark.12.29|Mark 12:29-30]] ☩ [[Mark.12.33|Mark 12:33]] ☩ [[Luke.10.27|Luke 10:27]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -9,6 +9,10 @@ When he had caused the tribe of Benjamin to come near by their families, the fam
 <small><sub>**BSB:**</sub></small>
 Then he had the tribe of Benjamin come forward by its clans, and the clan of Matri was selected. Finally, Saul son of Kish was selected. But when they looked for him, they could not find him.<small><sub>**MT:**</sub></small>
 [[1Sam.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.20|<< 1 Samuel 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.22|1 Samuel 10:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 10:21** is...
+> $\quad$ referenced by: [[Acts.13.21|Acts 13:21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

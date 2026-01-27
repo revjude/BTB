@@ -6,6 +6,10 @@ And the people shall take them, and bring them to their place: and the house of 
 <small><sub>**BSB:**</sub></small>
 The nations will escort Israel and bring it to its homeland. Then the house of Israel will possess the nations as menservants and maidservants in the LORD’s land. They will make captives of their captors and rule over their oppressors.<small><sub>**MT:**</sub></small>
 [[Isa.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.1|<< Isaiah 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.3|Isaiah 14:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 14:2** is...
+> $\quad$ referenced by: [[Rev.13.10|Rev 13:10]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

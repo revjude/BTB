@@ -5,6 +5,10 @@ They did eat, they drank, they married wives, they were given in marriage, until
 People were eating and drinking, marrying and being given in marriage, up to the day Noah entered the ark. Then the flood came and destroyed them all.
 <small><sub>**Literal:**</sub></small>
 They were eating, were drinking, were marrying, were being given in marriage, until that day entered Noah into the ark, and came the flood and destroyed all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.26|<< Luke 17:26]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.28|Luke 17:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 17:27** is...
+> $\quad$ alluding to: [[LXX.Gen.7.7|Gen 7:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

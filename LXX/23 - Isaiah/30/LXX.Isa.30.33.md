@@ -6,6 +6,10 @@ For Tophet [is] ordained of old; yea, for the king it is prepared; he hath made 
 <small><sub>**BSB:**</sub></small>
 For Topheth has long been prepared; it has been made ready for the king. Its funeral pyre is deep and wide, with plenty of fire and wood. The breath of the LORD, like a torrent of burning sulfur, sets it ablaze.<small><sub>**MT:**</sub></small>
 [[Isa.30.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.32|<< Isaiah 30:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.1|Isaiah 31:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 30:33** is...
+> $\quad$ referenced by: [[Rev.19.20|Rev 19:20]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

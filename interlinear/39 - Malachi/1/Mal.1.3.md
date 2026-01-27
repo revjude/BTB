@@ -5,6 +5,10 @@ And I hated Esau, and laid his mountains and his heritage waste for the dragons 
 but Esau I have hated, and I have made his mountains a wasteland and left his inheritance to the desert jackals.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.2|<< Malachi 1:2]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.4|Malachi 1:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Malachi 1:3** is...
+> $\quad$ referenced by: [[Rom.9.13|Rom 9:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

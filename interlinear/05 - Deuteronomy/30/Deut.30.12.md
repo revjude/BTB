@@ -5,6 +5,10 @@ It [is] not in heaven, that thou shouldest say, Who shall go up for us to heaven
 It is not in heaven, that you should need to ask, ‘Who will ascend into heaven to get it for us and proclaim it, that we may obey it?’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.11|<< Deuteronomy 30:11]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.13|Deuteronomy 30:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 30:12** is...
+> $\quad$ referenced by: [[Rom.10.6|Rom 10:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

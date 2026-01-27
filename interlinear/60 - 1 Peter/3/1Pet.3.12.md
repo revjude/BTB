@@ -5,6 +5,10 @@ For the eyes of the Lord [are] over the righteous, and his ears [are open] unto 
 For the eyes of the Lord are on the righteous, and His ears are inclined to their prayer. But the face of the Lord is against those who do evil.”
 <small><sub>**Literal:**</sub></small>
 Because the eyes of [the] Lord [are] on [the] righteous, and [the] ears of Him toward prayer of them, [The] face however of [the] Lord [is] against those doing evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.11|<< 1 Peter 3:11]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.13|1 Peter 3:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 3:12** is...
+> $\quad$ referencing: [[LXX.Ps.34.12|Ps 34:12-16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

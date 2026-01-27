@@ -5,6 +5,10 @@ Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter sha
 “You have said it yourself,” Jesus answered. “But I say to all of you, from now on you will see the Son of Man sitting at the right hand of Power and coming on the clouds of heaven.”
 <small><sub>**Literal:**</sub></small>
 Says to him <the> Jesus; You yourself have said. But I say to you; from now you will behold the Son <the> of Man sitting at [the] right hand <the> of Power and coming upon the clouds <the> of heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.63|<< Matthew 26:63]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.65|Matthew 26:65 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 26:64** is...
+> $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]] ☩ [[LXX.Dan.7.13|Dan 7:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

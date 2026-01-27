@@ -6,6 +6,10 @@ The people that walked in darkness have seen a great light: they that dwell in t
 <small><sub>**BSB:**</sub></small>
 The people walking in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.<small><sub>**MT:**</sub></small>
 [[Isa.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.1|<< Isaiah 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.3|Isaiah 9:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 9:2** is...
+> $\quad$ referenced by: [[Matt.4.15|Matt 4:15-16]] ☩ [[Luke.1.79|Luke 1:79]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And he said, Throw her down. So they threw her down: and [some] of her blood was
 “Throw her down!” yelled Jehu. So they threw her down, and her blood splattered on the wall and on the horses as they trampled her underfoot.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.32|<< 2 Kings 9:32]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.34|2 Kings 9:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Kings 9:33** is...
+> $\quad$ referenced by: [[Rev.2.20|Rev 2:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

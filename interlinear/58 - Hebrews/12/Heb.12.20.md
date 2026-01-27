@@ -5,6 +5,10 @@
 For they could not bear what was commanded: “If even an animal touches the mountain, it must be stoned.”
 <small><sub>**Literal:**</sub></small>
 not [able] they were bearing for which is being commanded: If even a beast shall touch the mountain, it will be stoned or with arrow will be shot down<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.19|<< Hebrews 12:19]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.21|Hebrews 12:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:20** is...
+> $\quad$ referencing: [[LXX.Exod.19.12|Exod 19:12-13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

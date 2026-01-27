@@ -5,6 +5,10 @@ And [men] shall dwell in it, and there shall be no more utter destruction; but J
 People will live there, and never again will there be an utter destruction. So Jerusalem will dwell securely.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.10|<< Zechariah 14:10]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.12|Zechariah 14:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 14:11** is...
+> $\quad$ referenced by: [[Rev.22.3|Rev 22:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

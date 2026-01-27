@@ -5,6 +5,10 @@ And I stood upon the sand of the sea, and saw a beast rise up out of the sea, ha
 Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads.
 <small><sub>**Literal:**</sub></small>
 And I saw out of the sea a beast rising, having horns ten and heads seven and on the horns of it ten royal crowns and upon the heads of it names of blasphemy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.18|<< Revelation 12:18]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.2|Revelation 13:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 13:1** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.7.3|Dan 7:3]][[LXX.Dan.7.7|, 7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

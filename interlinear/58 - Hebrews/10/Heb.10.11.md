@@ -5,6 +5,10 @@ And every priest standeth daily ministering and offering oftentimes the same sac
 Day after day every priest stands to minister and to offer again and again the same sacrifices, which can never take away sins.
 <small><sub>**Literal:**</sub></small>
 And every indeed priest has stood every day ministering and the same repeatedly offering sacrifices, which never are able to take away sins;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.10|<< Hebrews 10:10]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.12|Hebrews 10:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:11** is...
+> $\quad$ alluding to: [[LXX.Exod.29.38|Exod 29:38]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

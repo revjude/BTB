@@ -6,6 +6,10 @@ And the Redeemer shall come to Zion, and unto them that turn from transgression 
 <small><sub>**BSB:**</sub></small>
 “The Redeemer will come to Zion, to those in Jacob who turn from transgression,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Isa.59.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.19|<< Isaiah 59:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.21|Isaiah 59:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 59:20** is...
+> $\quad$ referenced by: [[Rom.11.26|Rom 11:26-27]] ☩ [[Rev.14.1|Rev 14:1]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

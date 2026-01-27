@@ -6,6 +6,10 @@ The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanc
 <small><sub>**BSB:**</sub></small>
 The sons of Amram: Aaron and Moses. Aaron and his descendants were set apart forever to consecrate the most holy things, to burn incense before the LORD, to minister before Him, and to pronounce blessings in His name forever.<small><sub>**MT:**</sub></small>
 [[1Chr.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.12|<< 1 Chronicles 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.14|1 Chronicles 23:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Chronicles 23:13** is...
+> $\quad$ referenced by: [[Heb.5.4|Heb 5:4]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

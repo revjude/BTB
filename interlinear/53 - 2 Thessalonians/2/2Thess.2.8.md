@@ -5,6 +5,10 @@ And then shall that Wicked be revealed, whom the Lord shall consume with the spi
 And then the lawless one will be revealed, whom the Lord Jesus will slay with the breath of His mouth and annihilate by the majesty of His arrival.
 <small><sub>**Literal:**</sub></small>
 And then will be revealed the lawless [one] whom the Lord Jesus will execute with the breath of the mouth of Him and will annul by the appearing of the coming of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.7|<< 2 Thessalonians 2:7]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.9|2 Thessalonians 2:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Thessalonians 2:8** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.11.4|Isa 11:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

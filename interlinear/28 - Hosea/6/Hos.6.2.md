@@ -5,6 +5,10 @@ After two days will he revive us: in the third day he will raise us up, and we s
 After two days He will revive us; on the third day He will raise us up, that we may live in His presence.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6.1|<< Hosea 6:1]]</td><td align="center" style="border:none;">[[Hos.6|Hosea 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.3|Hosea 6:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 6:2** is...
+> $\quad$ referenced by: [[Luke.24.46|Luke 24:46]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

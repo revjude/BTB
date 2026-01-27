@@ -5,6 +5,11 @@ And they sing the song of Moses the servant of God, and the song of the Lamb, sa
 and they sang the song of God’s servant Moses and of the Lamb: “Great and wonderful are Your works, O Lord God Almighty! Just and true are Your ways, O King of the nations!
 <small><sub>**Literal:**</sub></small>
 And they are singing the song of Moses the servant <the> of God and the song of the Lamb saying: Great and wonderful [are] the works of You, Lord <the> God the Almighty! Righteous and true [are] the ways of You, O King of the nations!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.2|<< Revelation 15:2]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.4|Revelation 15:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 15:3** is...
+> $\quad$ alluding to: [[LXX.Exod.15.11|Exod 15:11]]
+> $\quad$ referencing: [[LXX.Deut.32.4|Deut 32:4]] ☩ [[LXX.Ps.111.2|Ps 111:2]] ☩ [[LXX.Ps.139.14|Ps 139:14]] ☩ [[LXX.Ps.145.17|Ps 145:17]] ☩ [[LXX.Jer.10.6|Jer 10:6-7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

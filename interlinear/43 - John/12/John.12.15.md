@@ -5,6 +5,10 @@ Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass’s colt.
 “Do not be afraid, O Daughter of Zion. See, your King is coming, seated on the colt of a donkey.”
 <small><sub>**Literal:**</sub></small>
 Not do fear daughter of Zion; Behold the King of you comes sitting on a colt of a donkey.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.14|<< John 12:14]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.16|John 12:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 12:15** is...
+> $\quad$ referencing: [[LXX.Isa.35.4|Isa 35:4]] ☩ [[LXX.Isa.40.9|Isa 40:9]] ☩ [[LXX.Zech.9.9|Zech 9:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

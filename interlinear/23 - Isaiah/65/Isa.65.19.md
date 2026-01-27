@@ -5,6 +5,10 @@ And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping 
 I will rejoice in Jerusalem and take delight in My people. The sounds of weeping and crying will no longer be heard in her.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.18|<< Isaiah 65:18]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.20|Isaiah 65:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 65:19** is...
+> $\quad$ referenced by: [[Rev.21.4|Rev 21:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

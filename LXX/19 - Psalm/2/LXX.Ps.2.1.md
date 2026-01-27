@@ -11,6 +11,10 @@ Why do the heathen rage, and the people imagine a vain thing?
 <small><sub>**BSB:**</sub></small>
 Why do the nations rage and the peoples plot in vain?<small><sub>**MT:**</sub></small>
 [[Ps.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.1.6|<< Psalm 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.2.2|Psalm 2:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 2:1** is...
+> $\quad$ referenced by: [[Acts.4.25|Acts 4:25-26]] ☩ [[Rev.11.18|Rev 11:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

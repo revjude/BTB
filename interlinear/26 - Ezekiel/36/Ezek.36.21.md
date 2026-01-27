@@ -5,6 +5,10 @@ But I had pity for mine holy name, which the house of Israel had profaned among 
 But I had concern for My holy name, which the house of Israel had profaned among the nations to which they had gone.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.20|<< Ezekiel 36:20]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.22|Ezekiel 36:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 36:21** is...
+> $\quad$ referenced by: [[Rom.2.24|Rom 2:24]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

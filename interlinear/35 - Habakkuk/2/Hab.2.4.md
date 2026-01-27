@@ -5,6 +5,10 @@ Behold, his soul [which] is lifted up is not upright in him: but the just shall 
 Look at the proud one; his soul is not upright—but the righteous will live by faith—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.3|<< Habakkuk 2:3]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.5|Habakkuk 2:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Habakkuk 2:4** is...
+> $\quad$ referenced by: [[Rom.1.17|Rom 1:17]] ☩ [[Gal.3.11|Gal 3:11]] ☩ [[Heb.10.37|Heb 10:37-38]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

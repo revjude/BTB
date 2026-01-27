@@ -5,6 +5,10 @@ Likewise also was not Rahab the harlot justified by works, when she had received
 In the same way, was not even Rahab the prostitute justified by her actions when she welcomed the spies and sent them off on another route?
 <small><sub>**Literal:**</sub></small>
 Likewise then also Rahab the prostitute not by works was justified having received the messengers and by another way having sent [them] forth?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.24|<< James 2:24]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.26|James 2:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 2:25** is...
+> $\quad$ alluding to: [[LXX.Josh.2.1|Josh 2:1]] ☩ [[LXX.Josh.6.17|Josh 6:17]] ☩ [[LXX.Josh.6.23|Josh 6:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

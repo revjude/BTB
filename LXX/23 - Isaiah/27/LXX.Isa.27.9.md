@@ -6,6 +6,10 @@ By this therefore shall the iniquity of Jacob be purged; and this [is] all the f
 <small><sub>**BSB:**</sub></small>
 Therefore Jacob’s guilt will be atoned for, and the full fruit of the removal of his sin will be this: When he makes all the altar stones like crushed bits of chalk, no Asherah poles or incense altars will remain standing.<small><sub>**MT:**</sub></small>
 [[Isa.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.8|<< Isaiah 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.10|Isaiah 27:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 27:9** is...
+> $\quad$ referenced by: [[Rom.11.27|Rom 11:27]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

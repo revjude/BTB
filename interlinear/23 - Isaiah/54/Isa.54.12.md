@@ -5,6 +5,10 @@ And I will make thy windows of agates, and thy gates of carbuncles, and all thy 
 I will make your pinnacles of rubies, your gates of sparkling jewels, and all your walls of precious stones.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.11|<< Isaiah 54:11]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.13|Isaiah 54:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 54:12** is...
+> $\quad$ referenced by: [[Rev.21.19|Rev 21:19]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

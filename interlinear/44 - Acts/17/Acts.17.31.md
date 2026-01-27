@@ -5,6 +5,10 @@ Because he hath appointed a day, in the which he will judge the world in righteo
 For He has set a day when He will judge the world with justice by the Man He has appointed. He has given proof of this to everyone by raising Him from the dead.”
 <small><sub>**Literal:**</sub></small>
 just as He set a day in which He is about to judge the world in righteousness by a man whom He appointed a guarantee having provided to all, having raised Him out from [the] dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.30|<< Acts 17:30]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.32|Acts 17:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 17:31** is...
+> $\quad$ alluding to: [[LXX.Ps.9.8|Ps 9:8-9]] ☩ [[LXX.Ps.96.13|Ps 96:13]] ☩ [[LXX.Ps.98.9|Ps 98:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And this whole land shall be a desolation, [and] an astonishment; and these nati
 And this whole land will become a desolate wasteland, and these nations will serve the king of Babylon for seventy years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.10|<< Jeremiah 25:10]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.12|Jeremiah 25:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 25:11** is...
+> $\quad$ referenced by: [[Dan.9.2|Dan 9:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

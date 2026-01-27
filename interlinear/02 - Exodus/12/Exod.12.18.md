@@ -5,6 +5,10 @@ In the first [month], on the fourteenth day of the month at even, ye shall eat u
 In the first month you are to eat unleavened bread, from the evening of the fourteenth day until the evening of the twenty-first day.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.17|<< Exodus 12:17]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.19|Exodus 12:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 12:18** is...
+> $\quad$ referenced by: [[Heb.11.28|Heb 11:28]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

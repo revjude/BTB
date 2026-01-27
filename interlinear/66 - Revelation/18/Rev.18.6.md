@@ -5,6 +5,10 @@ Reward her even as she rewarded you, and double unto her double according to her
 Give back to her as she has done to others; pay her back double for what she has done; mix her a double portion in her own cup.
 <small><sub>**Literal:**</sub></small>
 do give back to her as also she has rendered to you and do pay back double to her the twofold according to the works of her. In the cup which she has mixed, do mix to her double.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.5|<< Revelation 18:5]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.7|Revelation 18:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:6** is...
+> $\quad$ alluding to: [[LXX.Ps.137.8|Ps 137:8]] ☩ [[LXX.Jer.50.15|Jer 50:15]] ☩ [[LXX.Jer.50.29|Jer 50:29]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

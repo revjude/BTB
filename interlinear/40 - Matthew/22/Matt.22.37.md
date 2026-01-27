@@ -5,6 +5,10 @@ Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and wi
 Jesus declared, “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus was saying to him; You will love [the] Lord the God of you with all the heart of you and with all the soul of you and with all the mind of you.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.36|<< Matthew 22:36]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.38|Matthew 22:38 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 22:37** is...
+> $\quad$ referencing: [[LXX.Deut.6.5|Deut 6:5]] ☩ [[LXX.Josh.22.5|Josh 22:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

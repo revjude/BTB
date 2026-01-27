@@ -5,6 +5,10 @@ They compassed me about also with words of hatred; and fought against me without
 They surround me with hateful words and attack me without cause.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.2|<< Psalms 109:2]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.4|Psalms 109:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 109:3** is...
+> $\quad$ referenced by: [[John.15.25|John 15:25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

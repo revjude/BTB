@@ -5,6 +5,10 @@ But among these there was not a man of them whom Moses and Aaron the priest numb
 Among all these, however, there was not one who had been numbered by Moses and Aaron the priest when they counted the Israelites in the Wilderness of Sinai.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.63|<< Numbers 26:63]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.65|Numbers 26:65 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 26:64** is...
+> $\quad$ referenced by: [[1Cor.10.3|1Cor 10:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

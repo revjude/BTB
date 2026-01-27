@@ -5,6 +5,10 @@ And they conspired against him, and stoned him with stones at the commandment of
 But they conspired against Zechariah, and by order of the king, they stoned him in the courtyard of the house of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.20|<< 2 Chronicles 24:20]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.22|2 Chronicles 24:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Chronicles 24:21** is...
+> $\quad$ referenced by: [[Matt.23.35|Matt 23:35]] ☩ [[Luke.11.51|Luke 11:51]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

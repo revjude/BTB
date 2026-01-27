@@ -6,6 +6,10 @@ That in blessing I will bless thee, and in multiplying I will multiply thy seed 
 <small><sub>**BSB:**</sub></small>
 I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies.<small><sub>**MT:**</sub></small>
 [[Gen.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.16|<< Genesis 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.18|Genesis 22:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 22:17** is...
+> $\quad$ referenced by: [[Heb.6.13|Heb 6:13-14]] ☩ [[Heb.11.12|Heb 11:12]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

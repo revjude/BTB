@@ -5,6 +5,10 @@ And, thou son of man, thus saith the Lord GOD; Speak unto every feathered fowl, 
 And as for you, son of man, this is what the Lord GOD says: Call out to every kind of bird and to every beast of the field: ‘Assemble and come together from all around to the sacrificial feast that I am preparing for you, a great feast on the mountains of Israel. There you will eat flesh and drink blood.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.16|<< Ezekiel 39:16]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.18|Ezekiel 39:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 39:17** is...
+> $\quad$ referenced by: [[Rev.19.17|Rev 19:17-18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

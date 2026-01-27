@@ -5,6 +5,10 @@ And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;
 Ram was the father of Amminadab, Amminadab the father of Nahshon, and Nahshon the father of Salmon.
 <small><sub>**Literal:**</sub></small>
 Ram then begat <the> Amminadab; Amminadab then begat <the> Nahshon; Nahshon then begat <the> Salmon;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.3|<< Matthew 1:3]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.5|Matthew 1:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 1:4** is...
+> $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

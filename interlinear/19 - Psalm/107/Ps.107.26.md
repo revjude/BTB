@@ -5,6 +5,10 @@ They mount up to the heaven, they go down again to the depths: their soul is mel
 They mounted up to the heavens, then sunk to the depths; their courage melted in their anguish.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.25|<< Psalms 107:25]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.27|Psalms 107:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 107:26** is...
+> $\quad$ referenced by: [[Rom.10.7|Rom 10:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

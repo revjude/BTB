@@ -5,6 +5,10 @@ In whom also ye are circumcised with the circumcision made without hands, in put
 In Him you were also circumcised, in the putting off of your sinful nature, with the circumcision performed by Christ and not by human hands.
 <small><sub>**Literal:**</sub></small>
 in whom also you were circumcised with [the] circumcision made without hands in the removal of the body of the sins of the flesh, in the circumcision <the> of Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.10|<< Colossians 2:10]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.12|Colossians 2:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Colossians 2:11** is...
+> $\quad$ alluding to: [[LXX.Deut.10.16|Deut 10:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the LORD shall utter his voice before his army: for his camp [is] very great
 The LORD raises His voice in the presence of His army. Indeed, His camp is very large, for mighty are those who obey His command. For the Day of the LORD is great and very dreadful. Who can endure it?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.10|<< Joel 2:10]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.12|Joel 2:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 2:11** is...
+> $\quad$ referenced by: [[Rev.6.15|Rev 6:15-16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

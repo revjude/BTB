@@ -5,6 +5,10 @@ Pour out thy wrath upon the heathen that have not known thee, and upon the kingd
 Pour out Your wrath on the nations that do not acknowledge You, on the kingdoms that refuse to call on Your name,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.5|<< Psalms 79:5]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.7|Psalms 79:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 79:6** is...
+> $\quad$ referenced by: [[2Thess.1.8|2Thess 1:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

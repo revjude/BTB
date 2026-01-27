@@ -5,6 +5,10 @@ So that we may boldly say, The Lord [is] my helper, and I will not fear what man
 So we say with confidence: “The Lord is my helper; I will not be afraid. What can man do to me?”
 <small><sub>**Literal:**</sub></small>
 So are confident we to say: [The] Lord [is] my helper, and not I will be afraid; what will do to me man?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.5|<< Hebrews 13:5]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.7|Hebrews 13:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 13:6** is...
+> $\quad$ referencing: [[LXX.Ps.118.6|Ps 118:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For, behold, the days are coming, in the which they shall say, Blessed [are] the
 Look, the days are coming when people will say, ‘Blessed are the barren women, the wombs that never bore, and breasts that never nursed!’
 <small><sub>**Literal:**</sub></small>
 For behold are coming days in which they will say; Blessed [are] the barren and the wombs that never did bear and breasts that never they feed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.28|<< Luke 23:28]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.30|Luke 23:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 23:29** is...
+> $\quad$ alluding to: [[LXX.Isa.54.1|Isa 54:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

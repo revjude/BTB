@@ -5,6 +5,10 @@ And ye shall eat fat till ye be full, and drink blood till ye be drunken, of my 
 At the sacrifice I am preparing, you will eat fat until you are gorged and drink blood until you are drunk.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.18|<< Ezekiel 39:18]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.20|Ezekiel 39:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 39:19** is...
+> $\quad$ referenced by: [[Rev.19.17|Rev 19:17-18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

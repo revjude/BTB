@@ -6,6 +6,10 @@ And he lift up his eyes and looked, and, lo, three men stood by him: and when he
 <small><sub>**BSB:**</sub></small>
 And Abraham looked up and saw three men standing nearby. When he saw them, he ran from the entrance of his tent to meet them and bowed low to the ground.<small><sub>**MT:**</sub></small>
 [[Gen.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.1|<< Genesis 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.3|Genesis 18:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 18:2** is...
+> $\quad$ referenced by: [[Heb.13.2|Heb 13:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

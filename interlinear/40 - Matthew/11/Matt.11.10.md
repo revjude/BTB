@@ -5,6 +5,10 @@ For this is [he], of whom it is written, Behold, I send my messenger before thy 
 This is the one about whom it is written: ‘Behold, I will send My messenger ahead of You, who will prepare Your way before You.’
 <small><sub>**Literal:**</sub></small>
 For this for is [he] concerning whom it has been written: Behold I myself send the messenger of Mine before [the] face of You who will prepare the way of You before You.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.9|<< Matthew 11:9]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.11|Matthew 11:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 11:10** is...
+> $\quad$ referencing: [[LXX.Exod.23.20|Exod 23:20]] ☩ [[LXX.Mal.3.1|Mal 3:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

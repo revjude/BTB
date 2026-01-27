@@ -5,6 +5,10 @@ And be not drunk with wine, wherein is excess; but be filled with the Spirit;
 Do not get drunk on wine, which leads to reckless indiscretion. Instead, be filled with the Spirit.
 <small><sub>**Literal:**</sub></small>
 And not do be drunk with wine, in which is debauchery, Instead do be filled with [the] Spirit<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.17|<< Ephesians 5:17]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.19|Ephesians 5:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 5:18** is...
+> $\quad$ alluding to: [[LXX.Prov.23.31|Prov 23:31]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

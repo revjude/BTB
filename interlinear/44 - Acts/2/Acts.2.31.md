@@ -5,6 +5,10 @@ He seeing this before spake of the resurrection of Christ, that his soul was not
 Foreseeing this, David spoke about the resurrection of the Christ, that He was not abandoned to Hades, nor did His body see decay.
 <small><sub>**Literal:**</sub></small>
 Having foreseen he spoke concerning the resurrection of the Christ that neither was He left behind the soul of him into Hades nor the flesh of Him saw decay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.30|<< Acts 2:30]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.32|Acts 2:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 2:31** is...
+> $\quad$ referencing: [[LXX.Ps.16.10|Ps 16:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

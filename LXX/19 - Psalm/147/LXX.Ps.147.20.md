@@ -6,6 +6,10 @@ He hath not dealt so with any nation: and [as for his] judgments, they have not 
 <small><sub>**BSB:**</sub></small>
 He has done this for no other nation; they do not know His judgments. Hallelujah!<small><sub>**MT:**</sub></small>
 [[Ps.147.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.19|<< Psalm 147:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.1|Psalm 148:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 147:20** is...
+> $\quad$ related to: [[LXX.Amos.3.2|Amos 3:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

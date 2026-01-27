@@ -6,6 +6,10 @@ For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One
 <small><sub>**BSB:**</sub></small>
 For You will not abandon my soul to Sheol, nor will You let Your Holy One see decay.<small><sub>**MT:**</sub></small>
 [[Ps.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.9|<< Psalm 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.11|Psalm 16:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 16:10** is...
+> $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[John.20.9|John 20:9]] ☩ [[Acts.2.25|Acts 2:25-28]] ☩ [[Acts.2.31|Acts 2:31]] ☩ [[Acts.13.35|Acts 13:35]] ☩ [[1Cor.15.4|1Cor 15:4]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

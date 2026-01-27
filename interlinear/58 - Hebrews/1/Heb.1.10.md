@@ -5,6 +5,10 @@ And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the
 And: “In the beginning, O Lord, You laid the foundations of the earth, and the heavens are the work of Your hands.
 <small><sub>**Literal:**</sub></small>
 And You yourself in [the] beginning, Lord, of the earth laid the foundation, and works of the hands of You are the heavens;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.9|<< Hebrews 1:9]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.11|Hebrews 1:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 1:10** is...
+> $\quad$ referencing: [[LXX.Ps.102.25|Ps 102:25-27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

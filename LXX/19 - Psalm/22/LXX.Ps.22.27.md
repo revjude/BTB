@@ -6,6 +6,10 @@ All the ends of the world shall remember and turn unto the LORD: and all the kin
 <small><sub>**BSB:**</sub></small>
 All the ends of the earth will remember and turn to the LORD. All the families of the nations will bow down before Him.<small><sub>**MT:**</sub></small>
 [[Ps.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.26|<< Psalm 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.28|Psalm 22:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 22:27** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

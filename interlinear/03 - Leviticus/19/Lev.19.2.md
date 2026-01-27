@@ -5,6 +5,10 @@ Speak unto all the congregation of the children of Israel, and say unto them, Ye
 “Speak to the whole congregation of Israel and tell them: Be holy because I, the LORD your God, am holy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.1|<< Leviticus 19:1]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.3|Leviticus 19:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 19:2** is...
+> $\quad$ referenced by: [[1Pet.1.16|1Pet 1:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

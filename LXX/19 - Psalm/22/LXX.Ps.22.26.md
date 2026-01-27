@@ -6,6 +6,10 @@ The meek shall eat and be satisfied: they shall praise the LORD that seek him: y
 <small><sub>**BSB:**</sub></small>
 The poor will eat and be satisfied; those who seek the LORD will praise Him. May your hearts live forever!<small><sub>**MT:**</sub></small>
 [[Ps.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.25|<< Psalm 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.27|Psalm 22:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 22:26** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And there shall be no night there; and they need no candle, neither light of the
 There will be no more night in the city, and they will have no need for the light of a lamp or of the sun. For the Lord God will shine on them, and they will reign forever and ever.
 <small><sub>**Literal:**</sub></small>
 And night not there will be still, and not they have need of [the] light of a lamp and of [the] light of [the] sun because [the] Lord <the> God will enlighten upon them. and they will reign to the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.4|<< Revelation 22:4]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.6|Revelation 22:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 22:5** is...
+> $\quad$ alluding to: [[LXX.Isa.24.23|Isa 24:23]] ☩ [[LXX.Isa.60.19|Isa 60:19]] ☩ [[LXX.Ezek.48.35|Ezek 48:35]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

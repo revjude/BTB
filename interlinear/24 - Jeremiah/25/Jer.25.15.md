@@ -5,6 +5,10 @@ For thus saith the LORD God of Israel unto me; Take the wine cup of this fury at
 This is what the LORD, the God of Israel, said to me: “Take from My hand this cup of the wine of wrath, and make all the nations to whom I send you drink from it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.14|<< Jeremiah 25:14]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.16|Jeremiah 25:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 25:15** is...
+> $\quad$ referenced by: [[Rev.14.10|Rev 14:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

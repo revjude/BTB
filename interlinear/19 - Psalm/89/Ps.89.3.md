@@ -5,6 +5,10 @@ I have made a covenant with my chosen, I have sworn unto David my servant,
 You said, “I have made a covenant with My chosen one, I have sworn to David My servant:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.2|<< Psalms 89:2]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.4|Psalms 89:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 89:3** is...
+> $\quad$ referenced by: [[Acts.2.30|Acts 2:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

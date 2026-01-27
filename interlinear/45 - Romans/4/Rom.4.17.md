@@ -5,6 +5,10 @@
 As it is written: “I have made you a father of many nations.” He is our father in the presence of God, in whom he believed, the God who gives life to the dead and calls into being what does not yet exist.
 <small><sub>**Literal:**</sub></small>
 even as it has been written that A father of many nations I have made you, before whom he believed God, who is giving life to the dead and calling the [things] not [into] being as existing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.16|<< Romans 4:16]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.18|Romans 4:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 4:17** is...
+> $\quad$ referencing: [[LXX.Gen.17.5|Gen 17:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

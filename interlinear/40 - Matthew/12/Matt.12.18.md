@@ -5,6 +5,10 @@ Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleas
 “Here is My Servant, whom I have chosen, My beloved, in whom My soul delights. I will put My Spirit on Him, and He will proclaim justice to the nations.
 <small><sub>**Literal:**</sub></small>
 Behold the servant of Mine whom I have chosen, the beloved of Mine in whom has found delight the soul of Mine. I will put the Spirit of Mine upon Him, and justice to the Gentiles He will proclaim.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.17|<< Matthew 12:17]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.19|Matthew 12:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 12:18** is...
+> $\quad$ referencing: [[LXX.Isa.42.1|Isa 42:1-4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

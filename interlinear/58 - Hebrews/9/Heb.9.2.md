@@ -5,6 +5,11 @@ For there was a tabernacle made; the first, wherein [was] the candlestick, and t
 A tabernacle was prepared. In its first room were the lampstand, the table, and the consecrated bread. This was called the Holy Place.
 <small><sub>**Literal:**</sub></small>
 A tabernacle for was prepared the first [room] — in which [were] <the> both the lampstand and the table and of the presentation the bread — which is named [the] Holy [Places].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.1|<< Hebrews 9:1]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.3|Hebrews 9:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 9:2** is...
+> $\quad$ alluding to: [[LXX.Exod.25.23|Exod 25:23]] ☩ [[LXX.Exod.26.36|Exod 26:36]] ☩ [[LXX.Num.17.10|Num 17:10]]
+> $\quad$ possibly alluding to: [[LXX.Exod.40.3|Exod 40:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

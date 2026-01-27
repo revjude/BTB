@@ -5,6 +5,10 @@ And the LORD said unto me, Cast it unto the potter: a goodly price that I was pr
 And the LORD said to me, “Throw it to the potter”—this magnificent price at which they valued me. So I took the thirty pieces of silver and threw them to the potter in the house of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.12|<< Zechariah 11:12]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.14|Zechariah 11:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 11:13** is...
+> $\quad$ referenced by: [[Matt.26.15|Matt 26:15]] ☩ [[Matt.27.9|Matt 27:9-10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ For thou hast made him a little lower than the angels, and hast crowned him with
 <small><sub>**BSB:**</sub></small>
 You made him a little lower than the angels; You crowned him with glory and honor.<small><sub>**MT:**</sub></small>
 [[Ps.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.8.4|<< Psalm 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.8.6|Psalm 8:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 8:5** is...
+> $\quad$ referenced by: [[Heb.2.6|Heb 2:6-8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

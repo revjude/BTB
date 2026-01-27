@@ -6,6 +6,10 @@ Behold, I and the children whom the LORD hath given me [are] for signs and for w
 <small><sub>**BSB:**</sub></small>
 Here am I, and the children the LORD has given me as signs and symbols in Israel from the LORD of Hosts, who dwells on Mount Zion.<small><sub>**MT:**</sub></small>
 [[Isa.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.17|<< Isaiah 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.19|Isaiah 8:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 8:18** is...
+> $\quad$ referenced by: [[Heb.2.13|Heb 2:13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

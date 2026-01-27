@@ -5,6 +5,10 @@ I will praise thee; for I am fearfully [and] wonderfully made: marvellous [are] 
 I praise You, for I am fearfully and wonderfully made. Marvelous are Your works, and I know this very well.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.13|<< Psalms 139:13]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.15|Psalms 139:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 139:14** is...
+> $\quad$ referenced by: [[Rev.15.3|Rev 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

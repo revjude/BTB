@@ -5,6 +5,10 @@ And there came a voice out of the cloud, saying, This is my beloved Son: hear hi
 And a voice came from the cloud, saying, “This is My Son, whom I have chosen. Listen to Him!”
 <small><sub>**Literal:**</sub></small>
 And a voice came out of the cloud saying; This is the Son of Mine the  chosen, to Him do listen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.34|<< Luke 9:34]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.36|Luke 9:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 9:35** is...
+> $\quad$ alluding to: [[LXX.Deut.18.15|Deut 18:15]] ☩ [[LXX.Ps.2.7|Ps 2:7]] ☩ [[LXX.Isa.42.1|Isa 42:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

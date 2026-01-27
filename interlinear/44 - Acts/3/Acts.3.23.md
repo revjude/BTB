@@ -5,6 +5,10 @@ And it shall come to pass, [that] every soul, which will not hear that prophet, 
 Everyone who does not listen to Him will be completely cut off from among his people.’
 <small><sub>**Literal:**</sub></small>
 It will be [that] now every soul who only unless shall heed the prophet that will be utterly destroyed out from the people.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.22|<< Acts 3:22]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.24|Acts 3:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 3:23** is...
+> $\quad$ referencing: [[LXX.Deut.18.18|Deut 18:18-19]] ☩ [[LXX.Lev.23.29|Lev 23:29]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

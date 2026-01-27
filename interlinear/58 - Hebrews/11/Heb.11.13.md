@@ -5,6 +5,11 @@ These all died in faith, not having received the promises, but having seen them 
 All these people died in faith, without having received the things they were promised. However, they saw them and welcomed them from afar. And they acknowledged that they were strangers and exiles on the earth.
 <small><sub>**Literal:**</sub></small>
 In faith died these all not having received the promises but from afar them having seen and having been persuaded and having embraced [them] and having confessed that strangers and sojourners they are on the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.12|<< Hebrews 11:12]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.14|Hebrews 11:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:13** is...
+> $\quad$ alluding to: [[LXX.Gen.23.4|Gen 23:4]]
+> $\quad$ possibly alluding to: [[LXX.Gen.47.9|Gen 47:9]] ☩ [[LXX.Ps.39.13|Ps 39:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

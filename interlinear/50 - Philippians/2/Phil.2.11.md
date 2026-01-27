@@ -5,6 +5,10 @@ And [that] every tongue should confess that Jesus Christ [is] Lord, to the glory
 and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
 <small><sub>**Literal:**</sub></small>
 and every tongue may confess that [is] Lord Jesus Christ to [the] glory of God [the] Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.10|<< Philippians 2:10]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.12|Philippians 2:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Philippians 2:11** is...
+> $\quad$ alluding to: [[LXX.Isa.45.23|Isa 45:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

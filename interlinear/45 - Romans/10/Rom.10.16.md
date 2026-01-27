@@ -5,6 +5,10 @@ But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believ
 But not all of them welcomed the good news. For Isaiah says, “Lord, who has believed our message?”
 <small><sub>**Literal:**</sub></small>
 But not all heeded the good news; Isaiah for says; Lord, who has believed the report of us?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.15|<< Romans 10:15]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.17|Romans 10:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:16** is...
+> $\quad$ referencing: [[LXX.Isa.53.1|Isa 53:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

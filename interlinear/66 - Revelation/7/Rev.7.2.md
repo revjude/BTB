@@ -5,6 +5,10 @@ And I saw another angel ascending from the east, having the seal of the living G
 And I saw another angel ascending from the east, with the seal of the living God. And he called out in a loud voice to the four angels who had been given power to harm the land and the sea:
 <small><sub>**Literal:**</sub></small>
 And I saw another angel is  ascending from [the] rising of [the] sun having [the] seal of God [the] living. And he cried in a voice loud to the four angels to whom it had been given to them to harm the earth and the sea<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.1|<< Revelation 7:1]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.3|Revelation 7:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 7:2** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.9.2|Ezek 9:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ Many, O LORD my God, [are] thy wonderful works [which] thou hast done, and thy t
 <small><sub>**BSB:**</sub></small>
 Many, O LORD my God, are the wonders You have done, and the plans You have for us—none can compare to You—if I proclaim and declare them, they are more than I can count.<small><sub>**MT:**</sub></small>
 [[Ps.40.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.4|<< Psalm 40:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.6|Psalm 40:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 40:5** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

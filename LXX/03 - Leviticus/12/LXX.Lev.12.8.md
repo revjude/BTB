@@ -6,6 +6,10 @@ And if she be not able to bring a lamb, then she shall bring two turtles, or two
 <small><sub>**BSB:**</sub></small>
 But if she cannot afford a lamb, she shall bring two turtledoves or two young pigeons, one for a burnt offering and the other for a sin offering. Then the priest will make atonement for her, and she will be clean.’”<small><sub>**MT:**</sub></small>
 [[Lev.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.7|<< Leviticus 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.1|Leviticus 13:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 12:8** is...
+> $\quad$ referenced by: [[Luke.2.24|Luke 2:24]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

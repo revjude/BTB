@@ -5,6 +5,10 @@ And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit t
 For David himself says in the book of Psalms: ‘The Lord said to my Lord, “Sit at My right hand
 <small><sub>**Literal:**</sub></small>
 and Himself for David says in [the] book of Psalms: Said the Lord to the Lord of me; do sit at [the] right hand of Me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.41|<< Luke 20:41]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.43|Luke 20:43 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 20:42** is...
+> $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And righteousness shall be the girdle of his loins, and faithfulness the girdle 
 Righteousness will be the belt around His hips, and faithfulness the sash around His waist.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.4|<< Isaiah 11:4]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.6|Isaiah 11:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 11:5** is...
+> $\quad$ referenced by: [[Eph.6.14|Eph 6:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Till I make thine enemies thy footstool.
 until I make Your enemies a footstool for Your feet.”’
 <small><sub>**Literal:**</sub></small>
 until when I may place the enemies of You [as] a footstool of the feet of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.42|<< Luke 20:42]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.44|Luke 20:44 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 20:43** is...
+> $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

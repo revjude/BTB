@@ -5,6 +5,10 @@ Circumcise therefore the foreskin of your heart, and be no more stiffnecked.
 Circumcise your hearts, therefore, and stiffen your necks no more.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.15|<< Deuteronomy 10:15]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.17|Deuteronomy 10:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 10:16** is...
+> $\quad$ referenced by: [[Col.2.11|Col 2:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

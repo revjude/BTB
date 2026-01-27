@@ -6,6 +6,10 @@ Thou shalt not avenge, nor bear any grudge against the children of thy people, b
 <small><sub>**BSB:**</sub></small>
 Do not seek revenge or bear a grudge against any of your people, but love your neighbor as yourself. I am the LORD.<small><sub>**MT:**</sub></small>
 [[Lev.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.17|<< Leviticus 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.19|Leviticus 19:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 19:18** is...
+> $\quad$ referenced by: [[Matt.5.43|Matt 5:43]] ☩ [[Matt.19.19|Matt 19:19]] ☩ [[Matt.22.39|Matt 22:39]] ☩ [[Luke.10.27|Luke 10:27]] ☩ [[Mark.12.31|Mark 12:31]] ☩ [[Gal.5.14|Gal 5:14]] ☩ [[Jas.2.8|Jas 2:8]] ☩ [[Mark.12.33|Mark 12:33]] ☩ [[Rom.12.19|Rom 12:19]] ☩ [[Rom.13.9|Rom 13:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

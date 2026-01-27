@@ -5,6 +5,10 @@ Or who hath first given to him, and it shall be recompensed unto him again?
 “Who has first given to God, that God should repay him?”
 <small><sub>**Literal:**</sub></small>
 Or who has first given to Him, and it will be recompensed to him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.34|<< Romans 11:34]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.36|Romans 11:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 11:35** is...
+> $\quad$ referencing: [[LXX.Job.41.11|Job 41:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

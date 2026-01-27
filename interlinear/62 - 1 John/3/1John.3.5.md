@@ -5,6 +5,10 @@ And ye know that he was manifested to take away our sins; and in him is no sin.
 But you know that Christ appeared to take away sins, and in Him there is no sin.
 <small><sub>**Literal:**</sub></small>
 And you know that He appeared so that the sins of us He may take away, and sin in Him not there is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.4|<< 1 John 3:4]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.6|1 John 3:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 John 3:5** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.53.4|Isa 53:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

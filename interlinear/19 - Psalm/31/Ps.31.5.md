@@ -5,6 +5,10 @@ Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth.
 Into Your hands I commit my spirit; You have redeemed me, O LORD, God of truth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.4|<< Psalms 31:4]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.6|Psalms 31:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 31:5** is...
+> $\quad$ referenced by: [[Luke.23.46|Luke 23:46]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

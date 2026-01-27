@@ -5,6 +5,10 @@ And I saw as it were a sea of glass mingled with fire: and them that had gotten 
 And I saw something like a sea of glass mixed with fire, beside which stood those who had conquered the beast and its image and the number of its name. They were holding harps from God,
 <small><sub>**Literal:**</sub></small>
 And I saw [something] like a sea of glass mingled with fire and those conquering over the beast and of the image of it and over the mark of it over the number of the name of it standing upon the sea of the glass having harps <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.1|<< Revelation 15:1]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.3|Revelation 15:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 15:2** is...
+> $\quad$ alluding to: [[LXX.Ezek.1.22|Ezek 1:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

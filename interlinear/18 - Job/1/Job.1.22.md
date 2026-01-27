@@ -5,6 +5,10 @@ In all this Job sinned not, nor charged God foolishly.
 In all this, Job did not sin or charge God with wrongdoing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.21|<< Job 1:21]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.1|Job 2:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Job 1:22** is...
+> $\quad$ referenced by: [[Jas.5.11|Jas 5:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And I said unto them, If ye think good, give [me] my price; and if not, forbear.
 Then I told them, “If it seems right to you, give me my wages; but if not, keep them.” So they weighed out my wages, thirty pieces of silver.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.11|<< Zechariah 11:11]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.13|Zechariah 11:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 11:12** is...
+> $\quad$ referenced by: [[Matt.26.15|Matt 26:15]] ☩ [[Matt.27.9|Matt 27:9-10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

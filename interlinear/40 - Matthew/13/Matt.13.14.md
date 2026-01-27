@@ -5,6 +5,10 @@ And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shal
 In them the prophecy of Isaiah is fulfilled: ‘You will be ever hearing but never understanding; you will be ever seeing but never perceiving.
 <small><sub>**Literal:**</sub></small>
 And is fulfilled concerning them the prophecy of Isaiah who is saying: In hearing you will hear and certainly not may understand, and looking you will look and certainly not may perceive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.13|<< Matthew 13:13]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.15|Matthew 13:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 13:14** is...
+> $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

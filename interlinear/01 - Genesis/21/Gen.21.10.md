@@ -5,6 +5,10 @@ Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the so
 and she said to Abraham, “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with my son Isaac!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.9|<< Genesis 21:9]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.11|Genesis 21:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 21:10** is...
+> $\quad$ referenced by: [[Gal.4.30|Gal 4:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

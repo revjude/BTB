@@ -5,6 +5,10 @@ And Jesus came and spake unto them, saying, All power is given unto me in heaven
 Then Jesus came to them and said, “All authority in heaven and on earth has been given to Me.
 <small><sub>**Literal:**</sub></small>
 And having come to [them] <the> Jesus spoke to them saying; Has been given to Me all authority in heaven and on the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.17|<< Matthew 28:17]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.19|Matthew 28:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 28:18** is...
+> $\quad$ alluding to: [[LXX.Dan.7.14|Dan 7:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

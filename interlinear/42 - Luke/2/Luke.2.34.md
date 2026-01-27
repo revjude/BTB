@@ -5,6 +5,10 @@ And Simeon blessed them, and said unto Mary his mother, Behold, this [child] is 
 Then Simeon blessed them and said to His mother Mary: “Behold, this Child is appointed to cause the rise and fall of many in Israel, and to be a sign that will be spoken against,
 <small><sub>**Literal:**</sub></small>
 And blessed them Simeon and said to Mary the mother of Him: Behold this [Child] is appointed for [the] falling and rising up of many in <the> Israel and for a sign spoken against —.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.33|<< Luke 2:33]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.35|Luke 2:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 2:34** is...
+> $\quad$ alluding to: [[LXX.Isa.8.14|Isa 8:14-15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

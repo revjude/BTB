@@ -5,6 +5,10 @@ And Jesus answering said unto him, It is said, Thou shalt not tempt the Lord thy
 But Jesus answered, “It also says, ‘Do not put the Lord your God to the test.’”
 <small><sub>**Literal:**</sub></small>
 And answering He said to him <the> Jesus that It has been said; Not you will test [the] Lord the God of you.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.11|<< Luke 4:11]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.13|Luke 4:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 4:12** is...
+> $\quad$ referencing: [[LXX.Deut.6.16|Deut 6:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ And she brought forth a man child, who was to rule all nations with a rod of iro
 And she gave birth to a son, a male child, who will rule all the nations with an iron scepter. And her child was caught up to God and to His throne.
 <small><sub>**Literal:**</sub></small>
 And she brought forth a son male, who is about to rule all the nations with a rod of iron. and was caught up the child of her to <the> God and to the throne of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.4|<< Revelation 12:4]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.6|Revelation 12:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 12:5** is...
+> $\quad$ possibly alluding to: [[LXX.Ps.2.10|Ps 2:10]]
+> $\quad$ alluding to: [[LXX.Isa.66.7|Isa 66:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

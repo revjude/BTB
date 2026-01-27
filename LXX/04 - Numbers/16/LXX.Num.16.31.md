@@ -9,6 +9,10 @@ And it came to pass, as he had made an end of speaking all these words, that the
 <small><sub>**BSB:**</sub></small>
 As soon as Moses had finished saying all this, the ground beneath them split open,<small><sub>**MT:**</sub></small>
 [[Num.16.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.30|<< Numbers 16:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.32|Numbers 16:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 16:31** is...
+> $\quad$ referenced by: [[1John.3.12|1John 3:12]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

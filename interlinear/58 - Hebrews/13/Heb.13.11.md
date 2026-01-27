@@ -5,6 +5,10 @@ For the bodies of those beasts, whose blood is brought into the sanctuary by the
 Although the high priest brings the blood of animals into the Holy Place as a sacrifice for sin, the bodies are burned outside the camp.
 <small><sub>**Literal:**</sub></small>
 Whose for is brought of animals the blood [as sacrifices] for sin into the Holy [Places] through the high priest, of those the bodies are burned outside the camp.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.10|<< Hebrews 13:10]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.12|Hebrews 13:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 13:11** is...
+> $\quad$ alluding to: [[LXX.Lev.4.12|Lev 4:12]] ☩ [[LXX.Lev.4.21|Lev 4:21]] ☩ [[LXX.Lev.16.27|Lev 16:27]] ☩ [[LXX.Num.19.3|Num 19:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

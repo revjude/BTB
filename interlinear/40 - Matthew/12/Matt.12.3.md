@@ -5,6 +5,10 @@ But he said unto them, Have ye not read what David did, when he was an hungred, 
 Jesus replied, “Have you not read what David did when he and his companions were hungry?
 <small><sub>**Literal:**</sub></small>
 He then said to them; Surely you have read what did David when he was hungry he himself and those with him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.2|<< Matthew 12:2]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.4|Matthew 12:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 12:3** is...
+> $\quad$ referencing: [[LXX.1Sam.21.6|1Sam 21:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

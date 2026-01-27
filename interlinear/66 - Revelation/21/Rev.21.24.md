@@ -5,6 +5,10 @@ And the nations of them which are saved shall walk in the light of it: and the k
 By its light the nations will walk, and into it the kings of the earth will bring their glory.
 <small><sub>**Literal:**</sub></small>
 And will walk the nations those being saved through the light of it and the kings of the earth bring the glory and the honor of them into it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.23|<< Revelation 21:23]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.25|Revelation 21:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:24** is...
+> $\quad$ alluding to: [[LXX.Isa.60.3|Isa 60:3]] ☩ [[LXX.Isa.60.11|Isa 60:11]] ☩ [[LXX.Isa.60.20|Isa 60:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

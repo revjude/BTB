@@ -6,6 +6,10 @@ For thus saith the LORD of hosts, the God of Israel; Let not your prophets and y
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts, the God of Israel, says: “Do not be deceived by the prophets and diviners among you, and do not listen to the dreams you elicit from them.<small><sub>**MT:**</sub></small>
 [[Jer.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.7|<< Jeremiah 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.9|Jeremiah 29:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 29:8** is...
+> $\quad$ referenced by: [[Mark.13.5|Mark 13:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

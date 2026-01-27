@@ -5,6 +5,10 @@ Of whom it was said, That in Isaac shall thy seed be called:
 even though God had said to him, “Through Isaac your offspring will be reckoned.”
 <small><sub>**Literal:**</sub></small>
 as to whom it was said that In Isaac will be reckoned your offspring;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.17|<< Hebrews 11:17]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.19|Hebrews 11:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:18** is...
+> $\quad$ referencing: [[LXX.Gen.21.12|Gen 21:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

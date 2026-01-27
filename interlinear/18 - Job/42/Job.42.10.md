@@ -5,6 +5,10 @@ And the LORD turned the captivity of Job, when he prayed for his friends: also t
 After Job had prayed for his friends, the LORD restored his prosperity and doubled his former possessions.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.9|<< Job 42:9]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.11|Job 42:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Job 42:10** is...
+> $\quad$ referenced by: [[Jas.5.11|Jas 5:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

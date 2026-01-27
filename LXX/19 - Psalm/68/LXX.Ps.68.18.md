@@ -6,6 +6,10 @@ Thou hast ascended on high, thou hast led captivity captive: thou hast received 
 <small><sub>**BSB:**</sub></small>
 You have ascended on high; You have led captives away. You have received gifts from men, even from the rebellious, that the LORD God may dwell there.<small><sub>**MT:**</sub></small>
 [[Ps.68.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.17|<< Psalm 68:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.19|Psalm 68:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 68:18** is...
+> $\quad$ referenced by: [[Eph.4.8|Eph 4:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

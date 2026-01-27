@@ -5,6 +5,10 @@ Behold, I will make them of the synagogue of Satan, which say they are Jews, and
 As for those who belong to the synagogue of Satan, who claim to be Jews but are liars instead, I will make them come and bow down at your feet, and they will know that I love you.
 <small><sub>**Literal:**</sub></small>
 Behold I may give [those] from the synagogue <the> of Satan — those declaring themselves Jews to be and not are, but they lie — behold I will cause them that they will come and they will worship before the feet of you and they may know that I myself loved you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.8|<< Revelation 3:8]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.10|Revelation 3:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 3:9** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.60.14|Isa 60:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

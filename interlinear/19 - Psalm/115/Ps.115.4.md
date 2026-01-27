@@ -5,6 +5,10 @@ Their idols [are] silver and gold, the work of men’s hands.
 Their idols are silver and gold, made by the hands of men.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.3|<< Psalms 115:3]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.5|Psalms 115:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 115:4** is...
+> $\quad$ referenced by: [[Rev.9.20|Rev 9:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ Thy sun shall no more go down; neither shall thy moon withdraw itself: for the L
 <small><sub>**BSB:**</sub></small>
 Your sun will no longer set, and your moon will not wane; for the LORD will be your everlasting light, and the days of your sorrow will cease.<small><sub>**MT:**</sub></small>
 [[Isa.60.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.19|<< Isaiah 60:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.21|Isaiah 60:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 60:20** is...
+> $\quad$ referenced by: [[Rev.21.24|Rev 21:24-25]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

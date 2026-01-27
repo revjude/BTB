@@ -5,6 +5,10 @@ They shall perish, but thou shalt endure: yea, all of them shall wax old like a 
 They will perish, but You remain; they will all wear out like a garment. Like clothing You will change them, and they will be passed on.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.25|<< Psalms 102:25]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.27|Psalms 102:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 102:26** is...
+> $\quad$ referenced by: [[Heb.1.10|Heb 1:10-12]] ☩ [[2Pet.3.10|2Pet 3:10]] ☩ [[Rev.6.14|Rev 6:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And they that dwell upon the earth shall rejoice over them, and make merry, and 
 And those who dwell on the earth will gloat over them and celebrate and send one another gifts, because these two prophets had tormented them.
 <small><sub>**Literal:**</sub></small>
 And those dwelling on the earth does rejoice over them and does make merry and gifts will send to one another, because these <the> two prophets tormented those dwelling upon the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.9|<< Revelation 11:9]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.11|Revelation 11:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 11:10** is...
+> $\quad$ alluding to: [[LXX.Esth.9.22|Esth 9:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

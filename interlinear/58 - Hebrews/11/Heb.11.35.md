@@ -5,6 +5,10 @@ Women received their dead raised to life again: and others were tortured, not ac
 Women received back their dead, raised to life again. Others were tortured and refused their release, so that they might gain a better resurrection.
 <small><sub>**Literal:**</sub></small>
 Received back women by resurrection the dead of them; others then were tortured not having accepted <the> release, so that a better resurrection they may obtain;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.34|<< Hebrews 11:34]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.36|Hebrews 11:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:35** is...
+> $\quad$ alluding to: [[LXX.1Kgs.19.1|1Kgs 19:1]] ☩ [[LXX.2Kgs.4.20|2Kgs 4:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

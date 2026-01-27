@@ -5,6 +5,10 @@ The high places also of Aven, the sin of Israel, shall be destroyed: the thorn a
 The high places of Aven will be destroyed—it is the sin of Israel; thorns and thistles will overgrow their altars. Then they will say to the mountains, “Cover us!” and to the hills, “Fall on us!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.7|<< Hosea 10:7]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.9|Hosea 10:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 10:8** is...
+> $\quad$ referenced by: [[Luke.23.30|Luke 23:30]] ☩ [[Rev.6.15|Rev 6:15-16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

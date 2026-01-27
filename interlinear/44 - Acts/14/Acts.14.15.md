@@ -5,6 +5,10 @@ And saying, Sirs, why do ye these things? We also are men of like passions with 
 “Men, why are you doing this? We too are only men, human like you. We are bringing you good news that you should turn from these worthless things to the living God, who made heaven and earth and sea and everything in them.
 <small><sub>**Literal:**</sub></small>
 and saying; Men, why these things do you? Also we ourselves of like nature are with you men, evangelising to you from these <the> vanities to turn to <the> God who is living, who made the heaven and the earth and the sea and all the [things] in them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.14|<< Acts 14:14]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.16|Acts 14:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 14:15** is...
+> $\quad$ referencing: [[LXX.Exod.20.11|Exod 20:11]] ☩ [[LXX.Ps.146.6|Ps 146:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

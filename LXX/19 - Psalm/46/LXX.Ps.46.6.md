@@ -6,6 +6,10 @@ The heathen raged, the kingdoms were moved: he uttered his voice, the earth melt
 <small><sub>**BSB:**</sub></small>
 Nations rage, kingdoms crumble; the earth melts when He lifts His voice.<small><sub>**MT:**</sub></small>
 [[Ps.46.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.46.5|<< Psalm 46:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.46.7|Psalm 46:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 46:6** is...
+> $\quad$ referenced by: [[Rev.11.18|Rev 11:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

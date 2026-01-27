@@ -5,6 +5,10 @@ Behold, your house is left unto you desolate.
 Look, your house is left to you desolate.
 <small><sub>**Literal:**</sub></small>
 Behold is left to you the house of you desolate!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.37|<< Matthew 23:37]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.39|Matthew 23:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 23:38** is...
+> $\quad$ alluding to: [[LXX.Ps.69.25|Ps 69:25]] ☩ [[LXX.Jer.12.7|Jer 12:7]] ☩ [[LXX.Jer.22.5|Jer 22:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

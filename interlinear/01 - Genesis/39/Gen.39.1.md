@@ -5,6 +5,10 @@ And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, capta
 Meanwhile, Joseph had been taken down to Egypt, where an Egyptian named Potiphar, an officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had taken him there.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.30|<< Genesis 38:30]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.2|Genesis 39:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 39:1** is...
+> $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

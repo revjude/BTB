@@ -6,6 +6,10 @@ And he shall take of the blood of the bullock, and sprinkle [it] with his finger
 <small><sub>**BSB:**</sub></small>
 And he is to take some of the bull’s blood and sprinkle it with his finger on the east side of the mercy seat; then he shall sprinkle some of it with his finger seven times before the mercy seat.<small><sub>**MT:**</sub></small>
 [[Lev.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.13|<< Leviticus 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.15|Leviticus 16:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 16:14** is...
+> $\quad$ referenced by: [[Heb.9.13|Heb 9:13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

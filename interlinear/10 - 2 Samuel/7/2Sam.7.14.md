@@ -5,6 +5,10 @@ I will be his father, and he shall be my son. If he commit iniquity, I will chas
 I will be his Father, and he will be My son. When he does wrong, I will discipline him with the rod of men and with the blows of the sons of men.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.13|<< 2 Samuel 7:13]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.15|2 Samuel 7:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Samuel 7:14** is...
+> $\quad$ referenced by: [[2Cor.6.18|2Cor 6:18]] ☩ [[Heb.1.5|Heb 1:5]] ☩ [[Rev.21.7|Rev 21:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

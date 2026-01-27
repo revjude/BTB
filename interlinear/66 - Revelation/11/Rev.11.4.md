@@ -5,6 +5,10 @@ These are the two olive trees, and the two candlesticks standing before the God 
 These witnesses are the two olive trees and the two lampstands that stand before the Lord of the earth.
 <small><sub>**Literal:**</sub></small>
 These are the two olive trees and the two lampstands <the> before the Lord of the earth standing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.3|<< Revelation 11:3]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.5|Revelation 11:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 11:4** is...
+> $\quad$ alluding to: [[LXX.Zech.4.3|Zech 4:3]][[LXX.Zech.4.11|, 11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And came and preached peace to you which were afar off, and to them that were ni
 He came and preached peace to you who were far away and peace to those who were near.
 <small><sub>**Literal:**</sub></small>
 And having come He evangelised peace to you the [ones] far off and peace to those [who are] near,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.16|<< Ephesians 2:16]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.18|Ephesians 2:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 2:17** is...
+> $\quad$ alluding to: [[LXX.Isa.57.19|Isa 57:19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to pr
 The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach good news to the poor. He has sent Me to bind up the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.22|<< Isaiah 60:22]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.2|Isaiah 61:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 61:1** is...
+> $\quad$ referenced by: [[Matt.11.5|Matt 11:5]] ☩ [[Luke.4.18|Luke 4:18-19]] ☩ [[Luke.7.22|Luke 7:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

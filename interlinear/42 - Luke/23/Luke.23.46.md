@@ -5,6 +5,10 @@ And when Jesus had cried with a loud voice, he said, Father, into thy hands I co
 Then Jesus called out in a loud voice, “Father, into Your hands I commit My Spirit.” And when He had said this, He breathed His last.
 <small><sub>**Literal:**</sub></small>
 And having called out in a voice loud <the> Jesus said; Father, into [the] hands of You I myself commit the Spirit of Mine. This now having said He breathed His last.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.45|<< Luke 23:45]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.47|Luke 23:47 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 23:46** is...
+> $\quad$ referencing: [[LXX.Ps.31.5|Ps 31:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

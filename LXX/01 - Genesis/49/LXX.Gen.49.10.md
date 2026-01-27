@@ -6,6 +6,10 @@ The sceptre shall not depart from Judah, nor a lawgiver from between his feet, u
 <small><sub>**BSB:**</sub></small>
 The scepter will not depart from Judah, nor the staff from between his feet, until Shiloh comes and the allegiance of the nations is his.<small><sub>**MT:**</sub></small>
 [[Gen.49.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.9|<< Genesis 49:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.11|Genesis 49:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 49:10** is...
+> $\quad$ referenced by: [[LXX.Ezek.21.27|Ezek 21:27]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -9,6 +9,10 @@ So the people shouted when [the priests] blew with the trumpets: and it came to 
 <small><sub>**BSB:**</sub></small>
 So when the rams’ horns sounded, the people shouted. When they heard the blast of the horn, the people gave a great shout, and the wall collapsed. Then all the people charged straight into the city and captured it.<small><sub>**MT:**</sub></small>
 [[Josh.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.19|<< Joshua 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.21|Joshua 6:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joshua 6:20** is...
+> $\quad$ referenced by: [[Heb.11.30|Heb 11:30]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

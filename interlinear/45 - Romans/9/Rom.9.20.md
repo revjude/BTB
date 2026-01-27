@@ -5,6 +5,11 @@ Nay but, O man, who art thou that repliest against God? Shall the thing formed s
 But who are you, O man, to talk back to God? Shall what is formed say to Him who formed it, “Why did You make me like this?”
 <small><sub>**Literal:**</sub></small>
 O man, but rather, you yourself who are who is answering against <the> to God? Not will say the thing formed to the [One] having formed [it]; Why me did you make like this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.19|<< Romans 9:19]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.21|Romans 9:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:20** is...
+> $\quad$ referencing: [[LXX.Isa.29.16|Isa 29:16]]
+> $\quad$ alluding to: [[LXX.Isa.45.9|Isa 45:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And thou shalt come unto the priests the Levites, and unto the judge that shall 
 <small><sub>**BSB:**</sub></small>
 You are to go to the Levitical priests and to the judge who presides at that time. Inquire of them, and they will give you a verdict in the case.<small><sub>**MT:**</sub></small>
 [[Deut.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.8|<< Deuteronomy 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.10|Deuteronomy 17:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 17:9** is...
+> $\quad$ referenced by: [[1Cor.5.13|1Cor 5:13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

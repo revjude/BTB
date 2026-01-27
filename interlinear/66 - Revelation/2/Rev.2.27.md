@@ -5,6 +5,10 @@ And he shall rule them with a rod of iron; as the vessels of a potter shall they
 He will rule them with an iron scepter and shatter them like pottery—just as I have received authority from My Father.
 <small><sub>**Literal:**</sub></small>
 and he will shepherd them with a rod of iron, as the vessels [of] the potter are broken in pieces<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.26|<< Revelation 2:26]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.28|Revelation 2:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 2:27** is...
+> $\quad$ referencing: [[LXX.Ps.2.9|Ps 2:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

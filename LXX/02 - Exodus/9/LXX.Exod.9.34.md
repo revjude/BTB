@@ -6,6 +6,10 @@ And when Pharaoh saw that the rain and the hail and the thunders were ceased, he
 <small><sub>**BSB:**</sub></small>
 When Pharaoh saw that the rain and hail and thunder had ceased, he sinned again and hardened his heart—he and his officials.<small><sub>**MT:**</sub></small>
 [[Exod.9.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.33|<< Exodus 9:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.35|Exodus 9:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 9:34** is...
+> $\quad$ referenced by: [[Rev.16.21|Rev 16:21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

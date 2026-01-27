@@ -5,6 +5,10 @@ After this, Jesus knowing that all things were now accomplished, that the script
 After this, knowing that everything had now been accomplished, and to fulfill the Scripture, Jesus said, “I am thirsty.”
 <small><sub>**Literal:**</sub></small>
 After this knowing <the> Jesus that now all things has been accomplished, so that may be fulfilled the Scripture, He says; I thirst.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.27|<< John 19:27]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.29|John 19:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 19:28** is...
+> $\quad$ alluding to: [[LXX.Ps.69.21|Ps 69:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

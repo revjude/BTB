@@ -5,6 +5,10 @@ Which indeed is the least of all seeds: but when it is grown, it is the greatest
 Although it is the smallest of all seeds, yet it grows into the largest of garden plants and becomes a tree, so that the birds of the air come and nest in its branches.”
 <small><sub>**Literal:**</sub></small>
 which smallest indeed is of all the seeds, when however it may be grown, greater than the garden plants it is and becomes a tree so that to come the birds of the air and perching in the branches of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.31|<< Matthew 13:31]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.33|Matthew 13:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 13:32** is...
+> $\quad$ referencing: [[LXX.Ps.104.12|Ps 104:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

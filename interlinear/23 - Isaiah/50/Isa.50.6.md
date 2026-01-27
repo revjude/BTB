@@ -5,6 +5,10 @@ I gave my back to the smiters, and my cheeks to them that plucked off the hair: 
 I offered My back to those who struck Me, and My cheeks to those who tore out My beard. I did not hide My face from scorn and spittle.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.5|<< Isaiah 50:5]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.7|Isaiah 50:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 50:6** is...
+> $\quad$ referenced by: [[Matt.26.67|Matt 26:67]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ So he measured the court, an hundred cubits long, and an hundred cubits broad, f
 Next he measured the court. It was square, a hundred cubits long and a hundred cubits wide. And the altar was in front of the temple.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.46|<< Ezekiel 40:46]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.48|Ezekiel 40:48 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 40:47** is...
+> $\quad$ referenced by: [[Rev.11.1|Rev 11:1]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

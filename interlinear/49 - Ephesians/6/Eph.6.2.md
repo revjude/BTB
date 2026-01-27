@@ -5,6 +5,10 @@ Honour thy father and mother; (which is the first commandment with promise;)
 “Honor your father and mother” (which is the first commandment with a promise),
 <small><sub>**Literal:**</sub></small>
 do honor the Father of you and <the> mother, which is [the] commandment first with a promise,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.1|<< Ephesians 6:1]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.3|Ephesians 6:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 6:2** is...
+> $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12]] ☩ [[LXX.Deut.5.16|Deut 5:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

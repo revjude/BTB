@@ -5,6 +5,10 @@ But he answered and said, It is written, Man shall not live by bread alone, but 
 But Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”
 <small><sub>**Literal:**</sub></small>
 <the> But answering He said; It has been written: Not by bread alone will live the man, but by every declaration coming out through [the] mouth of God.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.3|<< Matthew 4:3]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.5|Matthew 4:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 4:4** is...
+> $\quad$ referencing: [[LXX.Deut.8.3|Deut 8:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

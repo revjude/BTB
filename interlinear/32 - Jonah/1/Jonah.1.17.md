@@ -5,6 +5,10 @@ Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the
 Now the LORD had appointed a great fish to swallow Jonah, and Jonah spent three days and three nights in the belly of the fish.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.16|<< Jonah 1:16]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.1|Jonah 2:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jonah 1:17** is...
+> $\quad$ referenced by: [[Matt.12.40|Matt 12:40]] ☩ [[Matt.16.4|Matt 16:4]] ☩ [[Luke.11.30|Luke 11:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

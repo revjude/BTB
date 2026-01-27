@@ -5,6 +5,10 @@ And his feet like unto fine brass, as if they burned in a furnace; and his voice
 His feet were like polished bronze refined in a furnace, and His voice was like the roar of many waters.
 <small><sub>**Literal:**</sub></small>
 and the feet of Him [are] like as fine bronze as in a furnace refined and the voice of Him [is] like [the] voice of waters many<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.14|<< Revelation 1:14]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.16|Revelation 1:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 1:15** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.7.9|Dan 7:9]] ☩ [[LXX.Dan.10.5|Dan 10:5-6]] ☩ [[LXX.Ezek.1.27|Ezek 1:27]] ☩ [[LXX.Ezek.8.2|Ezek 8:2]] ☩ [[LXX.Ezek.43.2|Ezek 43:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

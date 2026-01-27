@@ -5,6 +5,10 @@
 but Jesus became a priest with an oath by the One who said to Him: “The Lord has sworn and will not change His mind: ‘You are a priest forever.’”
 <small><sub>**Literal:**</sub></small>
 [He] however with an oath through the [One] who is saying to Him: Has sworn [the] Lord and not will change His mind; You [are] a priest to the age according to the order of Melchizedek;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.20|<< Hebrews 7:20]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.22|Hebrews 7:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 7:21** is...
+> $\quad$ referencing: [[LXX.Ps.110.4|Ps 110:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

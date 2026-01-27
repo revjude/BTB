@@ -5,6 +5,10 @@ And it came to pass, when God destroyed the cities of the plain, that God rememb
 So when God destroyed the cities of the plain, He remembered Abraham, and He brought Lot out of the catastrophe that destroyed the cities where he had lived.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.28|<< Genesis 19:28]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.30|Genesis 19:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 19:29** is...
+> $\quad$ referenced by: [[2Pet.2.6|2Pet 2:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Then the glory of the LORD went up from the cherub, [and stood] over the thresho
 Then the glory of the LORD rose from above the cherubim and stood over the threshold of the temple. The temple was filled with the cloud, and the court was filled with the brightness of the glory of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.3|<< Ezekiel 10:3]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.5|Ezekiel 10:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 10:4** is...
+> $\quad$ referenced by: [[Rev.15.8|Rev 15:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

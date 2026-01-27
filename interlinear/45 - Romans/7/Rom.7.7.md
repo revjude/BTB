@@ -5,6 +5,10 @@ What shall we say then? [Is] the law sin? God forbid. Nay, I had not known sin, 
 What then shall we say? Is the law sin? Certainly not! Indeed, I would not have been mindful of sin if not for the law. For I would not have been aware of coveting if the law had not said, “Do not covet.”
 <small><sub>**Literal:**</sub></small>
 What then will we say? [Is] the law sin? Never would it be! But <the> sin not I have known only except through law; <the> then for covetousness not I had known, only except the law was saying; Not you will covet;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.6|<< Romans 7:6]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.8|Romans 7:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 7:7** is...
+> $\quad$ referencing: [[LXX.Exod.20.17|Exod 20:17]] ☩ [[LXX.Deut.5.21|Deut 5:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

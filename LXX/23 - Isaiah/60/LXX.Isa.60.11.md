@@ -6,6 +6,10 @@ Therefore thy gates shall be open continually; they shall not be shut day nor ni
 <small><sub>**BSB:**</sub></small>
 Your gates will always stand open; they will never be shut, day or night, so that the wealth of the nations may be brought into you, with their kings being led in procession.<small><sub>**MT:**</sub></small>
 [[Isa.60.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.10|<< Isaiah 60:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.12|Isaiah 60:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 60:11** is...
+> $\quad$ referenced by: [[Rev.21.24|Rev 21:24-25]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

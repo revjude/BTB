@@ -6,6 +6,10 @@ They shall not hunger nor thirst; neither shall the heat nor sun smite them: for
 <small><sub>**BSB:**</sub></small>
 They will not hunger or thirst, nor will scorching heat or sun beat down on them. For He who has compassion on them will guide them and lead them beside springs of water.<small><sub>**MT:**</sub></small>
 [[Isa.49.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.9|<< Isaiah 49:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.11|Isaiah 49:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 49:10** is...
+> $\quad$ referenced by: [[Rev.7.16|Rev 7:16]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

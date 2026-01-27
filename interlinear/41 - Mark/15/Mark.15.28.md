@@ -5,6 +5,10 @@ And the scripture was fulfilled, which saith, And he was numbered with the trans
 
 <small><sub>**Literal:**</sub></small>
 and was fulfilled <the> scripture which is saying And with [the] lawless was credited.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.27|<< Mark 15:27]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.29|Mark 15:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 15:28** is...
+> $\quad$ referencing: [[LXX.Isa.53.12|Isa 53:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth
 You have heard that it was said, ‘Eye for eye and tooth for tooth.’
 <small><sub>**Literal:**</sub></small>
 You have heard that it was said; Eye for eye and tooth for tooth.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.37|<< Matthew 5:37]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.39|Matthew 5:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 5:38** is...
+> $\quad$ referencing: [[LXX.Exod.21.24|Exod 21:24]] ☩ [[LXX.Lev.24.20|Lev 24:20]] ☩ [[LXX.Deut.19.21|Deut 19:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

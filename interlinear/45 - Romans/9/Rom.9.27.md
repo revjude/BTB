@@ -5,6 +5,11 @@ Esaias also crieth concerning Israel, Though the number of the children of Israe
 Isaiah cries out concerning Israel: “Though the number of the Israelites is like the sand of the sea, only the remnant will be saved.
 <small><sub>**Literal:**</sub></small>
 Isaiah also cries out concerning <the> Israel: Though shall be the number of the sons of Israel as the sand of the sea, [only] the vestige will be saved;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.26|<< Romans 9:26]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.28|Romans 9:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:27** is...
+> $\quad$ alluding to: [[LXX.Hos.1.10|Hos 1:10]]
+> $\quad$ referencing: [[LXX.Hos.2.1|Hos 2:1]] ☩ [[LXX.Isa.10.22|Isa 10:22-23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Thine heart shall meditate terror. Where [is] the scribe? where [is] the receive
 Your mind will ponder the former terror: “Where is he who tallies? Where is he who weighs? Where is he who counts the towers?”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.17|<< Isaiah 33:17]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.19|Isaiah 33:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 33:18** is...
+> $\quad$ referenced by: [[1Cor.1.20|1Cor 1:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And it came to pass, while the ark abode in Kirjathjearim, that the time was lon
 And from that day a long time passed, twenty years in all, as the ark remained at Kiriath-jearim. And all the house of Israel mournfully sought the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.1|<< 1 Samuel 7:1]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.3|1 Samuel 7:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 7:2** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

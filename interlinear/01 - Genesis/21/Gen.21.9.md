@@ -5,6 +5,10 @@ And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mo
 But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking her son,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.8|<< Genesis 21:8]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.10|Genesis 21:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 21:9** is...
+> $\quad$ referenced by: [[Gal.4.22|Gal 4:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

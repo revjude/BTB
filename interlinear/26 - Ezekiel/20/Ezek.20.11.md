@@ -5,6 +5,10 @@ And I gave them my statutes, and shewed them my judgments, which [if] a man do, 
 And I gave them My statutes and made known to them My ordinances—for the man who does these things will live by them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.10|<< Ezekiel 20:10]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.12|Ezekiel 20:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 20:11** is...
+> $\quad$ referenced by: [[Rom.10.5|Rom 10:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

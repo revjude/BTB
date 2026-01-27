@@ -5,6 +5,10 @@ And the woman fled into the wilderness, where she hath a place prepared of God, 
 And the woman fled into the wilderness, where God had prepared a place for her to be nourished for 1,260 days.
 <small><sub>**Literal:**</sub></small>
 And the woman fled into the wilderness, where she has there a place prepared by <the> God, so that there they may feed her days one thousand two hundred sixty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.5|<< Revelation 12:5]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.7|Revelation 12:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 12:6** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.7.25|Dan 7:25]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

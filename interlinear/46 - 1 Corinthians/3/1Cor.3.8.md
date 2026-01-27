@@ -5,6 +5,10 @@ Now he that planteth and he that watereth are one: and every man shall receive h
 He who plants and he who waters are one in purpose, and each will be rewarded according to his own labor.
 <small><sub>**Literal:**</sub></small>
 The [one] planting now also the [one] watering one are, each now <the> [his] own reward will receive according to <the> [his] own labor.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.7|<< 1 Corinthians 3:7]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.9|1 Corinthians 3:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 3:8** is...
+> $\quad$ alluding to: [[LXX.Ps.62.12|Ps 62:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

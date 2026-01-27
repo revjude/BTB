@@ -5,6 +5,10 @@ For, behold, I create new heavens and a new earth: and the former shall not be r
 For behold, I will create new heavens and a new earth. The former things will not be remembered, nor will they come to mind.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.16|<< Isaiah 65:16]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.18|Isaiah 65:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 65:17** is...
+> $\quad$ referenced by: [[2Pet.3.13|2Pet 3:13]] ☩ [[Rev.21.1|Rev 21:1]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

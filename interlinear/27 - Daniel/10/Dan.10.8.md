@@ -5,6 +5,10 @@ Therefore I was left alone, and saw this great vision, and there remained no str
 So I was left alone, gazing at this great vision. No strength remained in me; my face grew deathly pale, and I was powerless.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.7|<< Daniel 10:7]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.9|Daniel 10:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 10:8** is...
+> $\quad$ referenced by: [[Rev.1.17|Rev 1:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

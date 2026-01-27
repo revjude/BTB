@@ -5,6 +5,10 @@ For as Jonas was three days and three nights in the whale’s belly; so shall th
 For as Jonah was three days and three nights in the belly of the great fish, so the Son of Man will be three days and three nights in the heart of the earth.
 <small><sub>**Literal:**</sub></small>
 Just as for was Jonah in the belly of the great fish three days and three nights, so will be the Son <the> of Man in the heart of the earth three days and three nights.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.39|<< Matthew 12:39]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.41|Matthew 12:41 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 12:40** is...
+> $\quad$ referencing: [[LXX.Jonah.1.17|Jonah 1:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

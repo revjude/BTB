@@ -5,6 +5,10 @@ For I delivered unto you first of all that which I also received, how that Chris
 For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures,
 <small><sub>**Literal:**</sub></small>
 I delivered for to you in [the] foremost what also I received that Christ died for the sins of us according to the Scriptures<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.2|<< 1 Corinthians 15:2]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.4|1 Corinthians 15:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 15:3** is...
+> $\quad$ alluding to: [[LXX.Ps.22.1|Ps 22:1-31]] ☩ [[LXX.Isa.53.8|Isa 53:8-9]] ☩ [[LXX.Ps.40.1|Ps 40:1-17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

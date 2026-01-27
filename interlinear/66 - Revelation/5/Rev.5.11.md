@@ -5,6 +5,10 @@ And I beheld, and I heard the voice of many angels round about the throne and th
 Then I looked, and I heard the voices of many angels encircling the throne, and the living creatures and the elders. And their number was myriads of myriads and thousands of thousands.
 <small><sub>**Literal:**</sub></small>
 And I looked and I heard like [the] voice of angels many surrounding the throne and of the living creatures and of the elders. and was the number of them myriads of myriads and thousands of thousands<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.10|<< Revelation 5:10]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.12|Revelation 5:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 5:11** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.7.10|Dan 7:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

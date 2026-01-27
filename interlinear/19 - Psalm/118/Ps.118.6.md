@@ -5,6 +5,10 @@ The LORD [is] on my side; I will not fear: what can man do unto me?
 The LORD is on my side; I will not be afraid. What can man do to me?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.5|<< Psalms 118:5]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.7|Psalms 118:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 118:6** is...
+> $\quad$ referenced by: [[Heb.13.6|Heb 13:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal
 You know the commandments: ‘Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and mother.’”
 <small><sub>**Literal:**</sub></small>
 The commandments You know: Not shall you commit adultery, not shall you murder, not shall you steal, not shall you bear false witness, do honor the father of you and the mother of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.19|<< Luke 18:19]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.21|Luke 18:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 18:20** is...
+> $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12-16]] ☩ [[LXX.Deut.5.16|Deut 5:16-20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

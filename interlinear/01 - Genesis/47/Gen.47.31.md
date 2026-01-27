@@ -5,6 +5,10 @@ And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon
 “Swear to me,” Jacob said. So Joseph swore to him, and Israel bowed in worship at the head of his bed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.30|<< Genesis 47:30]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.1|Genesis 48:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 47:31** is...
+> $\quad$ referenced by: [[Heb.11.21|Heb 11:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

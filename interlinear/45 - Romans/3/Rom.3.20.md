@@ -5,6 +5,10 @@ Therefore by the deeds of the law there shall no flesh be justified in his sight
 Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin.
 <small><sub>**Literal:**</sub></small>
 Therefore by works of [the] Law not will be justified any flesh before Him; through for [the] Law [is] knowledge of sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.19|<< Romans 3:19]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.21|Romans 3:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 3:20** is...
+> $\quad$ alluding to: [[LXX.Ps.143.2|Ps 143:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

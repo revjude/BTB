@@ -5,6 +5,10 @@ But we all, with open face beholding as in a glass the glory of the Lord, are ch
 And we, who with unveiled faces all reflect the glory of the Lord, are being transformed into His image with intensifying glory, which comes from the Lord, who is the Spirit.
 <small><sub>**Literal:**</sub></small>
 We ourselves now all unveiled in face the glory of [the] Lord beholding as in a mirror, the same image are being transformed into from glory to glory even as from [the] Lord [the] Spirit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.17|<< 2 Corinthians 3:17]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.1|2 Corinthians 4:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 3:18** is...
+> $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

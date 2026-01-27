@@ -6,6 +6,10 @@ And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thi
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over the waters of Egypt—over their rivers and canals and ponds and all the reservoirs—that they may become blood.’ There will be blood throughout the land of Egypt, even in the vessels of wood and stone.”<small><sub>**MT:**</sub></small>
 [[Exod.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.18|<< Exodus 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.20|Exodus 7:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 7:19** is...
+> $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]] ☩ [[Rev.16.3|Rev 16:3-4]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

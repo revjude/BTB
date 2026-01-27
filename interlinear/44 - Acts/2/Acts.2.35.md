@@ -5,6 +5,10 @@ Until I make thy foes thy footstool.
 until I make Your enemies a footstool for Your feet.”’
 <small><sub>**Literal:**</sub></small>
 until when I may place the enemies of You a footstool of the feet of You.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.34|<< Acts 2:34]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.36|Acts 2:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 2:35** is...
+> $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Having your conversation honest among the Gentiles: that, whereas they speak aga
 Conduct yourselves with such honor among the Gentiles that, though they slander you as evildoers, they may see your good deeds and glorify God on the day He visits us.
 <small><sub>**Literal:**</sub></small>
 the conduct of you among the Gentiles keeping honorable, so that wherein which they speak against you as evildoers, through the good deeds having witnessed they may glorify <the> God in [the] day of visitation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.11|<< 1 Peter 2:11]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.13|1 Peter 2:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 2:12** is...
+> $\quad$ referencing: [[LXX.Isa.10.3|Isa 10:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

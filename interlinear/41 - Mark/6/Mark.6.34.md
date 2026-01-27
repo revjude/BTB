@@ -5,6 +5,11 @@ And Jesus, when he came out, saw much people, and was moved with compassion towa
 When Jesus stepped ashore and saw a large crowd, He had compassion on them, because they were like sheep without a shepherd. And He began to teach them many things.
 <small><sub>**Literal:**</sub></small>
 And having gone out He saw <the> Jesus a great crowd and was moved with compassion toward them because they were like sheep not having a shepherd. And He began to teach them many things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.33|<< Mark 6:33]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.35|Mark 6:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 6:34** is...
+> $\quad$ referencing: [[LXX.Num.27.17|Num 27:17]] ☩ [[LXX.2Chr.18.16|2Chr 18:16]]
+> $\quad$ alluding to: [[LXX.1Kgs.22.17|1Kgs 22:17]] ☩ [[LXX.Ezek.34.5|Ezek 34:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

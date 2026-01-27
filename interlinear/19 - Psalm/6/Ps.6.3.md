@@ -5,6 +5,10 @@ My soul is also sore vexed: but thou, O LORD, how long?
 My soul is deeply distressed. How long, O LORD, how long?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.2|<< Psalms 6:2]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.4|Psalms 6:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 6:3** is...
+> $\quad$ referenced by: [[John.12.27|John 12:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

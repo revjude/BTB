@@ -9,6 +9,10 @@ One witness shall not rise up against a man for any iniquity, or for any sin, in
 <small><sub>**BSB:**</sub></small>
 A lone witness is not sufficient to establish any wrongdoing or sin against a man, regardless of what offense he may have committed. A matter must be established by the testimony of two or three witnesses.<small><sub>**MT:**</sub></small>
 [[Deut.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.14|<< Deuteronomy 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.16|Deuteronomy 19:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 19:15** is...
+> $\quad$ referenced by: [[Matt.18.16|Matt 18:16]] ☩ [[2Cor.13.1|2Cor 13:1]] ☩ [[1Tim.5.19|1Tim 5:19]] ☩ [[Heb.10.28|Heb 10:28]] ☩ [[John.8.17|John 8:17]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

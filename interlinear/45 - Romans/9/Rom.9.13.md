@@ -5,6 +5,10 @@ As it is written, Jacob have I loved, but Esau have I hated.
 So it is written: “Jacob I loved, but Esau I hated.”
 <small><sub>**Literal:**</sub></small>
 Even as it has been written: <the> Jacob I loved, <the> but Esau I hated.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.12|<< Romans 9:12]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.14|Romans 9:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:13** is...
+> $\quad$ referencing: [[LXX.Mal.1.2|Mal 1:2-3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

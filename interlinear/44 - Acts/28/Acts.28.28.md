@@ -5,6 +5,10 @@ Be it known therefore unto you, that the salvation of God is sent unto the Genti
 Be advised, therefore, that God’s salvation has been sent to the Gentiles, and they will listen!”
 <small><sub>**Literal:**</sub></small>
 Known therefore it should be to you that to the Gentiles has been sent this <the> salvation <the> of God, they themselves then will listen!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.27|<< Acts 28:27]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.29|Acts 28:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 28:28** is...
+> $\quad$ referencing: [[LXX.Ps.98.2|Ps 98:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

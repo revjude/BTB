@@ -6,6 +6,10 @@ And Abram took Sarai his wife, and Lot his brother’s son, and all their substa
 <small><sub>**BSB:**</sub></small>
 And Abram took his wife Sarai, his nephew Lot, and all the possessions and people they had acquired in Haran, and set out for the land of Canaan. When they came to the land of Canaan,<small><sub>**MT:**</sub></small>
 [[Gen.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.4|<< Genesis 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.6|Genesis 12:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 12:5** is...
+> $\quad$ referenced by: [[Acts.7.4|Acts 7:4]] ☩ [[Heb.11.9|Heb 11:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

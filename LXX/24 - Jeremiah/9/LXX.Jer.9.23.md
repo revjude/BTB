@@ -6,6 +6,10 @@ Thus saith the LORD, Let not the wise [man] glory in his wisdom, neither let the
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Let not the wise man boast in his wisdom, nor the strong man in his strength, nor the wealthy man in his riches.<small><sub>**MT:**</sub></small>
 [[Jer.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.22|<< Jeremiah 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.24|Jeremiah 9:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 9:23** is...
+> $\quad$ referenced by: [[1Cor.1.31|1Cor 1:31]] ☩ [[2Cor.10.17|2Cor 10:17]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

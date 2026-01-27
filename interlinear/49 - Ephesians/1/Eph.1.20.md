@@ -5,6 +5,10 @@ Which he wrought in Christ, when he raised him from the dead, and set [him] at h
 which He exerted in Christ when He raised Him from the dead and seated Him at His right hand in the heavenly realms,
 <small><sub>**Literal:**</sub></small>
 which He worked in <the> Christ having raised Him out from the dead and having sat him at [the] right hand of Him in the heavenly realms<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.19|<< Ephesians 1:19]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.21|Ephesians 1:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 1:20** is...
+> $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

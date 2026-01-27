@@ -5,6 +5,10 @@ And the fish that [is] in the river shall die, and the river shall stink; and th
 The fish in the Nile will die, the river will stink, and the Egyptians will be unable to drink its water.’”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.17|<< Exodus 7:17]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.19|Exodus 7:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 7:18** is...
+> $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And Noah went in, and his sons, and his wife, and his sons’ wives with him, in
 And Noah and his wife, with his sons and their wives, entered the ark to escape the waters of the flood.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.6|<< Genesis 7:6]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.8|Genesis 7:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 7:7** is...
+> $\quad$ referenced by: [[Luke.17.27|Luke 17:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

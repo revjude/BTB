@@ -5,6 +5,10 @@ When thou art bidden of any [man] to a wedding, sit not down in the highest room
 “When you are invited to a wedding banquet, do not sit in the place of honor, in case someone more distinguished than you has been invited.
 <small><sub>**Literal:**</sub></small>
 When you may be invited by anyone to wedding feasts, not may recline in the first place, otherwise [one] more honorable than you may have been invited by him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.7|<< Luke 14:7]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.9|Luke 14:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 14:8** is...
+> $\quad$ alluding to: [[LXX.Prov.25.6|Prov 25:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

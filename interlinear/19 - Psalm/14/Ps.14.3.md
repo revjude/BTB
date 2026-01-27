@@ -5,6 +5,10 @@ They are all gone aside, they are [all] together become filthy: [there is] none 
 All have turned away, they have together become corrupt; there is no one who does good, not even one.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.14.2|<< Psalms 14:2]]</td><td align="center" style="border:none;">[[Ps.14|Psalms 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.14.4|Psalms 14:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 14:3** is...
+> $\quad$ referenced by: [[Rom.3.10|Rom 3:10-12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

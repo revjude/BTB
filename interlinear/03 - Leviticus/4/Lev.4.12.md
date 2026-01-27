@@ -5,6 +5,10 @@ Even the whole bullock shall he carry forth without the camp unto a clean place,
 all the rest of the bull—he must take outside the camp to a ceremonially clean place where the ashes are poured out, and there he must burn it on a wood fire on the ash heap.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.11|<< Leviticus 4:11]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.13|Leviticus 4:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 4:12** is...
+> $\quad$ referenced by: [[Heb.13.11|Heb 13:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

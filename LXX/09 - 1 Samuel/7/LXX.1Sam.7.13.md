@@ -6,6 +6,10 @@ So the Philistines were subdued, and they came no more into the coast of Israel:
 <small><sub>**BSB:**</sub></small>
 So the Philistines were subdued, and they stopped invading the territory of Israel. And the hand of the LORD was against the Philistines all the days of Samuel.<small><sub>**MT:**</sub></small>
 [[1Sam.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.12|<< 1 Samuel 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.14|1 Samuel 7:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 7:13** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

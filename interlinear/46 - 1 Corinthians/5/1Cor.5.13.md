@@ -5,6 +5,11 @@ But them that are without God judgeth. Therefore put away from among yourselves 
 God will judge those outside. “Expel the wicked man from among you.”
 <small><sub>**Literal:**</sub></small>
 Those however outside <the> God will judge? and do yourselves expel the evil out from you them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.12|<< 1 Corinthians 5:12]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.1|1 Corinthians 6:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 5:13** is...
+> $\quad$ referencing: [[LXX.Deut.17.7|Deut 17:7]]
+> $\quad$ alluding to: [[LXX.Deut.17.9|Deut 17:9]] ☩ [[LXX.Deut.19.19|Deut 19:19]] ☩ [[LXX.Deut.24.7|Deut 24:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

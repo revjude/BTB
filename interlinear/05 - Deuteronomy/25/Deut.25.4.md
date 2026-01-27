@@ -5,6 +5,10 @@ Thou shalt not muzzle the ox when he treadeth out [the corn].
 Do not muzzle an ox while it is treading out the grain.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.3|<< Deuteronomy 25:3]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.5|Deuteronomy 25:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 25:4** is...
+> $\quad$ referenced by: [[Luke.10.7|Luke 10:7]] ☩ [[1Cor.9.9|1Cor 9:9]] ☩ [[1Tim.5.18|1Tim 5:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ He was oppressed, and he was afflicted, yet he opened not his mouth: he is broug
 He was oppressed and afflicted, yet He did not open His mouth. He was led like a lamb to the slaughter, and as a sheep before her shearers is silent, so He did not open His mouth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.6|<< Isaiah 53:6]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.8|Isaiah 53:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 53:7** is...
+> $\quad$ referenced by: [[Acts.8.32|Acts 8:32-33]] ☩ [[Rev.5.6|Rev 5:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

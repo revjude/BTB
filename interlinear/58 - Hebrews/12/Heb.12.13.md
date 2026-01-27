@@ -5,6 +5,10 @@ And make straight paths for your feet, lest that which is lame be turned out of 
 Make straight paths for your feet, so that the lame may not be disabled, but rather healed.
 <small><sub>**Literal:**</sub></small>
 and paths straight do make for the feet of you, so that not the lame may be disabled, may be healed however rather.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.12|<< Hebrews 12:12]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.14|Hebrews 12:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:13** is...
+> $\quad$ alluding to: [[LXX.Prov.4.26|Prov 4:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

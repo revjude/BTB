@@ -5,6 +5,10 @@ And ye have forgotten the exhortation which speaketh unto you as unto children, 
 And you have forgotten the exhortation that addresses you as sons: “My son, do not take lightly the discipline of the Lord, and do not lose heart when He rebukes you.
 <small><sub>**Literal:**</sub></small>
 and you have forgotten the exhortation that you as to sons addresses: Son of Mine, not do regard lightly [the] discipline of [the] Lord, nor do faint by Him being reproved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.4|<< Hebrews 12:4]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.6|Hebrews 12:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:5** is...
+> $\quad$ referencing: [[LXX.Prov.3.11|Prov 3:11-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

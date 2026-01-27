@@ -5,6 +5,10 @@ Lift up thine eyes round about, and behold: all these gather themselves together
 Lift up your eyes and look around. They all gather together; they come to you. As surely as I live,” declares the LORD, “you will wear them all as jewelry and put them on like a bride.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.17|<< Isaiah 49:17]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.19|Isaiah 49:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 49:18** is...
+> $\quad$ referenced by: [[Rom.14.11|Rom 14:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

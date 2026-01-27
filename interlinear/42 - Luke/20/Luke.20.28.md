@@ -5,6 +5,11 @@ Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, 
 “Teacher,” they said, “Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him.
 <small><sub>**Literal:**</sub></small>
 saying; Teacher, Moses wrote to us: if anyone’s brother shall die having a wife and he childless shall be, that shall take the brother of him the wife and shall raise up seed to the brother of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.27|<< Luke 20:27]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.29|Luke 20:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 20:28** is...
+> $\quad$ referencing: [[LXX.Gen.38.8|Gen 38:8]]
+> $\quad$ alluding to: [[LXX.Deut.25.5|Deut 25:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

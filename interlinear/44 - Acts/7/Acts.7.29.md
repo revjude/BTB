@@ -5,6 +5,11 @@ Then fled Moses at this saying, and was a stranger in the land of Madian, where 
 At this remark, Moses fled to the land of Midian, where he lived as a foreigner and had two sons.
 <small><sub>**Literal:**</sub></small>
 Fled then Moses at <the> remark this and became exiled in [the] land of Midian, where he begat sons two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.28|<< Acts 7:28]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.30|Acts 7:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:29** is...
+> $\quad$ referencing: [[LXX.Exod.2.13|Exod 2:13-15]]
+> $\quad$ alluding to: [[LXX.Exod.18.3|Exod 18:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

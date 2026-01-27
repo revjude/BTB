@@ -5,6 +5,10 @@ By faith Abel offered unto God a more excellent sacrifice than Cain, by which he
 By faith Abel offered God a better sacrifice than Cain did. By faith he was commended as righteous when God gave approval to his gifts. And by faith he still speaks, even though he is dead.
 <small><sub>**Literal:**</sub></small>
 By faith a more excellent sacrifice Abel than Cain offered <the> to God, through which he was testified to be righteous bearing witness to the gifts of him <the> God; and through it having died still he speaks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.3|<< Hebrews 11:3]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.5|Hebrews 11:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:4** is...
+> $\quad$ alluding to: [[LXX.Gen.4.4|Gen 4:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

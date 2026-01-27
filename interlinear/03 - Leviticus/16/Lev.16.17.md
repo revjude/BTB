@@ -5,6 +5,10 @@ And there shall be no man in the tabernacle of the congregation when he goeth in
 No one may be in the Tent of Meeting from the time Aaron goes in to make atonement in the Most Holy Place until he leaves, after he has made atonement for himself, his household, and the whole assembly of Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.16|<< Leviticus 16:16]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.18|Leviticus 16:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 16:17** is...
+> $\quad$ referenced by: [[Luke.1.10|Luke 1:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

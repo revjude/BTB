@@ -5,6 +5,10 @@ And the children of Israel went into the midst of the sea upon the dry [ground]:
 and the Israelites went through the sea on dry ground, with walls of water on their right and on their left.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.21|<< Exodus 14:21]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.23|Exodus 14:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 14:22** is...
+> $\quad$ referenced by: [[1Cor.10.1|1Cor 10:1]] ☩ [[Heb.11.29|Heb 11:29]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

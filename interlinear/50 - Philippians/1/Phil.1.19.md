@@ -5,6 +5,10 @@ For I know that this shall turn to my salvation through your prayer, and the sup
 because I know that through your prayers and the provision of the Spirit of Jesus Christ, my distress will turn out for my deliverance.
 <small><sub>**Literal:**</sub></small>
 I know for that this for me will turn out to deliverance through <the> your prayer and [the] provision of the Spirit of Jesus Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.18|<< Philippians 1:18]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.20|Philippians 1:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Philippians 1:19** is...
+> $\quad$ alluding to: [[LXX.Job.13.16|Job 13:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And they shall go forth, and look upon the carcases of the men that have transgr
 <small><sub>**BSB:**</sub></small>
 “As they go forth, they will see the corpses of the men who have rebelled against Me; for their worm will never die, their fire will never be quenched, and they will be a horror to all mankind.”<small><sub>**MT:**</sub></small>
 [[Isa.66.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.23|<< Isaiah 66:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.1|Jeremiah 1:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 66:24** is...
+> $\quad$ referenced by: [[Mark.9.44|Mark 9:44]] ☩ [[Mark.9.46|Mark 9:46]] ☩ [[Mark.9.48|Mark 9:48]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

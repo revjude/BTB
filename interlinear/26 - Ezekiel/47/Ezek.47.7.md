@@ -5,6 +5,10 @@ Now when I had returned, behold, at the bank of the river [were] very many trees
 When I arrived, I saw a great number of trees along both banks of the river.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.6|<< Ezekiel 47:6]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.8|Ezekiel 47:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 47:7** is...
+> $\quad$ referenced by: [[Rev.22.1|Rev 22:1-2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

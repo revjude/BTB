@@ -5,6 +5,10 @@ Thus they changed their glory into the similitude of an ox that eateth grass.
 They exchanged their Glory for the image of a grass-eating ox.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.19|<< Psalms 106:19]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.21|Psalms 106:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 106:20** is...
+> $\quad$ referenced by: [[Rom.1.23|Rom 1:23]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And he made his grave with the wicked, and with the rich in his death; because h
 <small><sub>**BSB:**</sub></small>
 He was assigned a grave with the wicked, and with a rich man in His death, although He had done no violence, nor was any deceit in His mouth.<small><sub>**MT:**</sub></small>
 [[Isa.53.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.8|<< Isaiah 53:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.10|Isaiah 53:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 53:9** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]] ☩ [[1Pet.2.22|1Pet 2:22]] ☩ [[Rev.14.5|Rev 14:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

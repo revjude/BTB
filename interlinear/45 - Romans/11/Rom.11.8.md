@@ -5,6 +5,11 @@
 as it is written: “God gave them a spirit of stupor, eyes that could not see, and ears that could not hear, to this very day.”
 <small><sub>**Literal:**</sub></small>
 even as it has been written: Gave to them <the> God a spirit of stupor, eyes <the> not to see and ears <the> not to hear unto the today day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.7|<< Romans 11:7]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.9|Romans 11:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 11:8** is...
+> $\quad$ referencing: [[LXX.Deut.29.4|Deut 29:4]] ☩ [[LXX.Isa.29.10|Isa 29:10]]
+> $\quad$ alluding to: [[LXX.Isa.6.9|Isa 6:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

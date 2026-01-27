@@ -5,6 +5,10 @@ Who shall be punished with everlasting destruction from the presence of the Lord
 They will suffer the penalty of eternal destruction, separated from the presence of the Lord and the glory of His might,
 <small><sub>**Literal:**</sub></small>
 who [the] penalty will suffer of destruction eternal away from [the] presence of the Lord and from the glory of the power of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.8|<< 2 Thessalonians 1:8]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.10|2 Thessalonians 1:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Thessalonians 1:9** is...
+> $\quad$ alluding to: [[LXX.Isa.2.19|Isa 2:19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

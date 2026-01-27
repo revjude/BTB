@@ -5,6 +5,10 @@ How much she hath glorified herself, and lived deliciously, so much torment and 
 As much as she has glorified herself and lived in luxury, give her the same measure of torment and grief. In her heart she says, ‘I sit as queen; I am not a widow and will never see grief.’
 <small><sub>**Literal:**</sub></small>
 So much as she has glorified herself and lived in luxury, so much do give to her torment and misery, because in the heart of herself she says that I sit [as] a queen and a widow never I am and mourning certainly not shall I see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.6|<< Revelation 18:6]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.8|Revelation 18:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:7** is...
+> $\quad$ alluding to: [[LXX.Isa.47.7|Isa 47:7]] ☩ [[LXX.Jer.50.31|Jer 50:31]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

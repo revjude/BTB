@@ -5,6 +5,10 @@ If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond;
 If a man makes a vow to the LORD or swears an oath to obligate himself by a pledge, he must not break his word; he must do everything he has promised.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.1|<< Numbers 30:1]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.3|Numbers 30:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 30:2** is...
+> $\quad$ referenced by: [[Matt.5.33|Matt 5:33]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

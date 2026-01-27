@@ -6,6 +6,10 @@ I bring near my righteousness; it shall not be far off, and my salvation shall n
 <small><sub>**BSB:**</sub></small>
 I am bringing My righteousness near; it is not far away, and My salvation will not be delayed. I will grant salvation to Zion and adorn Israel with My splendor.<small><sub>**MT:**</sub></small>
 [[Isa.46.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.12|<< Isaiah 46:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.1|Isaiah 47:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 46:13** is...
+> $\quad$ referenced by: [[Rom.11.26|Rom 11:26]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

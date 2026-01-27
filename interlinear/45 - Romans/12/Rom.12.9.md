@@ -5,6 +5,10 @@
 Love must be sincere. Detest what is evil; cling to what is good.
 <small><sub>**Literal:**</sub></small>
 <the> [Let] love [be] unfeigned. abhorring <the> evil, cleaving to <the> good;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.8|<< Romans 12:8]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.10|Romans 12:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 12:9** is...
+> $\quad$ alluding to: [[LXX.Amos.5.15|Amos 5:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

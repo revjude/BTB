@@ -5,6 +5,10 @@ My tabernacle also shall be with them: yea, I will be their God, and they shall 
 My dwelling place will be with them; I will be their God, and they will be My people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.26|<< Ezekiel 37:26]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.28|Ezekiel 37:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 37:27** is...
+> $\quad$ referenced by: [[2Cor.6.16|2Cor 6:16]] ☩ [[Rev.21.3|Rev 21:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

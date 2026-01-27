@@ -6,6 +6,10 @@ Unto the woman he said, I will greatly multiply thy sorrow and thy conception; i
 <small><sub>**BSB:**</sub></small>
 To the woman He said: “I will sharply increase your pain in childbirth; in pain you will bring forth children. Your desire will be for your husband, and he will rule over you.”<small><sub>**MT:**</sub></small>
 [[Gen.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.15|<< Genesis 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.17|Genesis 3:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 3:16** is...
+> $\quad$ referenced by: [[1Cor.14.34|1Cor 14:34]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And the temple was filled with smoke from the glory of God, and from his power; 
 And the temple was filled with smoke from the glory of God and from His power; and no one could enter the temple until the seven plagues of the seven angels were completed.
 <small><sub>**Literal:**</sub></small>
 And was filled the temple with smoke from the glory <the> of God and from the power of Him, and no [one] was able to enter into the temple until may be completed the seven plagues of the seven angels.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.7|<< Revelation 15:7]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.1|Revelation 16:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 15:8** is...
+> $\quad$ alluding to: [[LXX.Isa.6.4|Isa 6:4]] ☩ [[LXX.Ezek.10.4|Ezek 10:4]] ☩ [[LXX.1Kgs.8.11|1Kgs 8:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

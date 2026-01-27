@@ -5,6 +5,10 @@ For finding fault with them, he saith, Behold, the days come, saith the Lord, wh
 But God found fault with the people and said: “Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and with the house of Judah.
 <small><sub>**Literal:**</sub></small>
 Finding fault for with them He says: Behold [the] days are coming, says [the] Lord, and I will ratify with the house of Israel and with the house of Judah a covenant new,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.7|<< Hebrews 8:7]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.9|Hebrews 8:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 8:8** is...
+> $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

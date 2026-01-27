@@ -5,6 +5,10 @@ And in her was found the blood of prophets, and of saints, and of all that were 
 And there was found in her the blood of prophets and saints, and of all who had been slain on the earth.
 <small><sub>**Literal:**</sub></small>
 And in her [the] blood of prophets and of saints was found and of all those slain on the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.23|<< Revelation 18:23]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.1|Revelation 19:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:24** is...
+> $\quad$ alluding to: [[LXX.Jer.51.49|Jer 51:49]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

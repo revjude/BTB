@@ -5,6 +5,10 @@ And they twain shall be one flesh: so then they are no more twain, but one flesh
 and the two will become one flesh.’ So they are no longer two, but one flesh.
 <small><sub>**Literal:**</sub></small>
 and will be the two for flesh one’ Therefore no longer they are two but one flesh.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.7|<< Mark 10:7]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.9|Mark 10:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 10:8** is...
+> $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

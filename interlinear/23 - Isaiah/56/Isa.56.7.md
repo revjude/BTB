@@ -5,6 +5,10 @@ Even them will I bring to my holy mountain, and make them joyful in my house of 
 I will bring them to My holy mountain and make them joyful in My house of prayer. Their burnt offerings and sacrifices will be accepted on My altar, for My house will be called a house of prayer for all the nations.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.6|<< Isaiah 56:6]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.8|Isaiah 56:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 56:7** is...
+> $\quad$ referenced by: [[Matt.21.13|Matt 21:13]] ☩ [[Mark.11.17|Mark 11:17]] ☩ [[Luke.19.46|Luke 19:46]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

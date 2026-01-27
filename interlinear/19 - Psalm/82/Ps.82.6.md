@@ -5,6 +5,10 @@ I have said, Ye [are] gods; and all of you [are] children of the most High.
 I have said, ‘You are gods; you are all sons of the Most High.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.82.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.5|<< Psalms 82:5]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.7|Psalms 82:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 82:6** is...
+> $\quad$ referenced by: [[John.9.31|John 9:31]] ☩ [[John.10.34|John 10:34]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

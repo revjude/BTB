@@ -9,6 +9,10 @@ And it came to pass after these things, that God did tempt Abraham, and said unt
 <small><sub>**BSB:**</sub></small>
 Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered.<small><sub>**MT:**</sub></small>
 [[Gen.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.34|<< Genesis 21:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.2|Genesis 22:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 22:1** is...
+> $\quad$ referenced by: [[Heb.11.17|Heb 11:17]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

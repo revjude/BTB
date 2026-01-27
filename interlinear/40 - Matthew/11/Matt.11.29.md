@@ -5,6 +5,10 @@ Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye
 Take My yoke upon you and learn from Me, for I am gentle and humble in heart, and you will find rest for your souls.
 <small><sub>**Literal:**</sub></small>
 do take the yoke of Mine upon you and do learn from Me for gentle I am and humble <the> in heart, and you will find rest for the souls of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.28|<< Matthew 11:28]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.30|Matthew 11:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 11:29** is...
+> $\quad$ referencing: [[LXX.Jer.6.16|Jer 6:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

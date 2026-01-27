@@ -5,6 +5,10 @@ Now these [are] the names of the tribes. From the north end to the coast of the 
 “Now these are the names of the tribes: At the northern frontier, Dan will have one portion bordering the road of Hethlon to Lebo-hamath and running on to Hazar-enan on the border of Damascus with Hamath to the north, and extending from the east side to the west side.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.23|<< Ezekiel 47:23]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.2|Ezekiel 48:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 48:1** is...
+> $\quad$ referenced by: [[Rev.21.2|Rev 21:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

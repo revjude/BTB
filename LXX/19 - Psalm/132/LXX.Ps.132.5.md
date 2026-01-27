@@ -6,6 +6,10 @@ Until I find out a place for the LORD, an habitation for the mighty [God] of Jac
 <small><sub>**BSB:**</sub></small>
 until I find a place for the LORD, a dwelling for the Mighty One of Jacob.”<small><sub>**MT:**</sub></small>
 [[Ps.132.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.4|<< Psalm 132:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.6|Psalm 132:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 132:5** is...
+> $\quad$ referenced by: [[Acts.7.46|Acts 7:46]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

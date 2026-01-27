@@ -5,6 +5,10 @@ And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice
 and the Holy Spirit descended on Him in a bodily form like a dove. And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”
 <small><sub>**Literal:**</sub></small>
 and descending the Spirit <the> Holy in a bodily form as a dove upon Him and a voice out of heaven coming saying: You yourself are the Son of Mine the beloved, in You I am well pleased.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.21|<< Luke 3:21]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.23|Luke 3:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 3:22** is...
+> $\quad$ alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Ps.2.7|Ps 2:7]] ☩ [[LXX.Isa.42.1|Isa 42:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Hear now this, O foolish people, and without understanding; which have eyes, and
 “Hear this, O foolish and senseless people, who have eyes but do not see, who have ears but do not hear.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.20|<< Jeremiah 5:20]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.22|Jeremiah 5:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 5:21** is...
+> $\quad$ referenced by: [[Mark.8.18|Mark 8:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And their sins and iniquities will I remember no more.
 Then He adds: “Their sins and lawless acts I will remember no more.”
 <small><sub>**Literal:**</sub></small>
 and The sins of them and the lawless acts of them certainly not will I remember any more.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.16|<< Hebrews 10:16]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.18|Hebrews 10:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:17** is...
+> $\quad$ referencing: [[LXX.Jer.31.33|Jer 31:33-34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

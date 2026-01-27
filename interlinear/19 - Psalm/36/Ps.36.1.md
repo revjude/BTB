@@ -5,6 +5,10 @@ To the chief Musician, [A Psalm] of David the servant of the LORD. The transgres
 For the choirmaster. A Psalm of David, the servant of the LORD. An oracle is in my heart regarding the transgression of the wicked man: There is no fear of God before his eyes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.0|<< Psalms 36:0]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.2|Psalms 36:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 36:1** is...
+> $\quad$ referenced by: [[Rom.3.18|Rom 3:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

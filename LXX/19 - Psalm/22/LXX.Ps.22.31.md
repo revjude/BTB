@@ -6,6 +6,10 @@ They shall come, and shall declare his righteousness unto a people that shall be
 <small><sub>**BSB:**</sub></small>
 They will come and proclaim His righteousness to a people yet unborn—all that He has done.<small><sub>**MT:**</sub></small>
 [[Ps.22.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.30|<< Psalm 22:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.23.1|Psalm 23:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 22:31** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

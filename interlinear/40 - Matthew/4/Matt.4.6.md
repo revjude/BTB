@@ -5,6 +5,10 @@ And saith unto him, If thou be the Son of God, cast thyself down: for it is writ
 “If You are the Son of God,” he said, “throw Yourself down. For it is written: ‘He will command His angels concerning You, and they will lift You up in their hands, so that You will not strike Your foot against a stone.’”
 <small><sub>**Literal:**</sub></small>
 and says to him; If Son You are <the> of God, do throw Yourself down; it has been written for that To the angels of Him He will give orders concerning You, and in [their] hands will they bear up You otherwise You may strike against a stone the foot of You.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.5|<< Matthew 4:5]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.7|Matthew 4:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 4:6** is...
+> $\quad$ referencing: [[LXX.Ps.91.11|Ps 91:11-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

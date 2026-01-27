@@ -5,6 +5,10 @@ And when the days of her purification according to the law of Moses were accompl
 And when the time of purification according to the Law of Moses was complete, His parents brought Him to Jerusalem to present Him to the Lord
 <small><sub>**Literal:**</sub></small>
 And when were fulfilled the days of the purification of them according to the law of Moses, they brought Him to Jerusalem to present to the Lord<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.21|<< Luke 2:21]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.23|Luke 2:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 2:22** is...
+> $\quad$ alluding to: [[LXX.Lev.12.3|Lev 12:3-4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

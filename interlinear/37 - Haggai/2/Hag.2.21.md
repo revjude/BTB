@@ -5,6 +5,10 @@ Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the
 “Tell Zerubbabel governor of Judah that I am about to shake the heavens and the earth:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.20|<< Haggai 2:20]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.22|Haggai 2:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Haggai 2:21** is...
+> $\quad$ referenced by: [[Heb.12.26|Heb 12:26]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

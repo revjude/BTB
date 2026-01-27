@@ -5,6 +5,10 @@ So then after the Lord had spoken unto them, he was received up into heaven, and
 After the Lord Jesus had spoken to them, He was taken up into heaven and sat down at the right hand of God.
 <small><sub>**Literal:**</sub></small>
 <the> Indeed therefore [the] Lord Jesus after <the> speaking to them was taken up into the heaven and sat at [the] right hand <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.18|<< Mark 16:18]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.20|Mark 16:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 16:19** is...
+> $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

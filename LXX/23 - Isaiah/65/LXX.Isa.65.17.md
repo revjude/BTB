@@ -9,6 +9,10 @@ For, behold, I create new heavens and a new earth: and the former shall not be r
 <small><sub>**BSB:**</sub></small>
 For behold, I will create new heavens and a new earth. The former things will not be remembered, nor will they come to mind.<small><sub>**MT:**</sub></small>
 [[Isa.65.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.16|<< Isaiah 65:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.18|Isaiah 65:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 65:17** is...
+> $\quad$ referenced by: [[2Pet.3.13|2Pet 3:13]] ☩ [[Rev.21.1|Rev 21:1]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

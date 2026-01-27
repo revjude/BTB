@@ -6,6 +6,10 @@ But thou, Israel, [art] my servant, Jacob whom I have chosen, the seed of Abraha
 <small><sub>**BSB:**</sub></small>
 “But you, O Israel, My servant, Jacob, whom I have chosen, descendant of Abraham My friend—<small><sub>**MT:**</sub></small>
 [[Isa.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.7|<< Isaiah 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.9|Isaiah 41:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 41:8** is...
+> $\quad$ referenced by: [[Heb.2.16|Heb 2:16]] ☩ [[Jas.2.23|Jas 2:23]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

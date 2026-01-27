@@ -5,6 +5,10 @@ Thus saith the Lord GOD; Behold, I [am] against the shepherds; and I will requir
 This is what the Lord GOD says: ‘Behold, I am against the shepherds, and I will demand from them My flock and remove them from tending the flock, so that they can no longer feed themselves. For I will deliver My flock from their mouths, and it will no longer be food for them.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.9|<< Ezekiel 34:9]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.11|Ezekiel 34:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 34:10** is...
+> $\quad$ related to: [[Ps.44.22|Ps 44:22]] ☩ [[Zech.11.7|Zech 11:7]] ☩ [[Luke.11.49|Luke 11:49-50]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

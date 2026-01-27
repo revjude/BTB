@@ -5,6 +5,10 @@ Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, s
 My beloved brothers, understand this: Everyone should be quick to listen, slow to speak, and slow to anger,
 <small><sub>**Literal:**</sub></small>
 You should know brothers of mine beloved; should be however every man swift unto <the> to hear, slow unto <the> to speak, slow unto anger.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.18|<< James 1:18]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.20|James 1:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 1:19** is...
+> $\quad$ possibly alluding to: [[LXX.Prov.17.27|Prov 17:27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

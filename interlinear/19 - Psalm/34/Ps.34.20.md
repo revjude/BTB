@@ -5,6 +5,10 @@ He keepeth all his bones: not one of them is broken.
 He protects all his bones; not one of them will be broken.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.19|<< Psalms 34:19]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.21|Psalms 34:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 34:20** is...
+> $\quad$ referenced by: [[John.19.36|John 19:36]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

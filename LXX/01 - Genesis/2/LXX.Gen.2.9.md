@@ -6,6 +6,10 @@ And out of the ground made the LORD God to grow every tree that is pleasant to t
 <small><sub>**BSB:**</sub></small>
 Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food. And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil.<small><sub>**MT:**</sub></small>
 [[Gen.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.8|<< Genesis 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.10|Genesis 2:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 2:9** is...
+> $\quad$ referenced by: [[Rev.2.7|Rev 2:7]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

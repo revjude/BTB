@@ -9,6 +9,10 @@ And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, G
 <small><sub>**BSB:**</sub></small>
 Then Joshua son of Nun secretly sent two spies from Shittim, saying, “Go, inspect the land, especially Jericho.” So they went and entered the house of a prostitute named Rahab and stayed there.<small><sub>**MT:**</sub></small>
 [[Josh.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.18|<< Joshua 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.2|Joshua 2:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joshua 2:1** is...
+> $\quad$ referenced by: [[Heb.11.31|Heb 11:31]] ☩ [[Jas.2.25|Jas 2:25]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

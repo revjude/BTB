@@ -5,6 +5,10 @@ As he saith also in Osee, I will call them my people, which were not my people; 
 As He says in Hosea: “I will call them ‘My People’ who are not My people, and I will call her ‘My Beloved’ who is not My beloved,”
 <small><sub>**Literal:**</sub></small>
 As also in <the> Hosea He says: I will call that which [is] not people of Mine people of Mine and her who not loved loved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.24|<< Romans 9:24]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.26|Romans 9:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:25** is...
+> $\quad$ referencing: [[LXX.Hos.2.23|Hos 2:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because thine
 “Son of man, tell the ruler of Tyre that this is what the Lord GOD says: Your heart is proud, and you have said, ‘I am a god; I sit in the seat of gods in the heart of the sea.’ Yet you are a man and not a god, though you have regarded your heart as that of a god.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.1|<< Ezekiel 28:1]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.3|Ezekiel 28:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 28:2** is...
+> $\quad$ referenced by: [[2Thess.2.4|2Thess 2:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ But when ye shall see the abomination of desolation, spoken of by Daniel the pro
 So when you see the abomination of desolation standing where it should not be (let the reader understand), then let those who are in Judea flee to the mountains.
 <small><sub>**Literal:**</sub></small>
 When then you may see the abomination of the desolation which having been spoken of by Daniel <the> prophet already standing where not it should — the [one] reading he should understand — then those in <the> Judea they should flee to the mountains;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.13|<< Mark 13:13]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.15|Mark 13:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 13:14** is...
+> $\quad$ alluding to: [[LXX.Dan.8.13|Dan 8:13]] ☩ [[LXX.Dan.9.27|Dan 9:27]]
+> $\quad$ referencing: [[LXX.Dan.11.31|Dan 11:31]] ☩ [[LXX.Dan.12.11|Dan 12:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

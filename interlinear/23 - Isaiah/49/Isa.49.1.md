@@ -5,6 +5,10 @@ Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called
 Listen to Me, O islands; pay attention, O distant peoples: The LORD called Me from the womb; from the body of My mother He named Me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.22|<< Isaiah 48:22]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.2|Isaiah 49:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 49:1** is...
+> $\quad$ referenced by: [[Gal.1.15|Gal 1:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

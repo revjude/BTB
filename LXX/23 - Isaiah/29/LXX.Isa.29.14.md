@@ -6,6 +6,10 @@ Therefore, behold, I will proceed to do a marvellous work among this people, [ev
 <small><sub>**BSB:**</sub></small>
 Therefore I will again confound these people with wonder upon wonder. The wisdom of the wise will vanish, and the intelligence of the intelligent will be hidden.”<small><sub>**MT:**</sub></small>
 [[Isa.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.13|<< Isaiah 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.15|Isaiah 29:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 29:14** is...
+> $\quad$ referenced by: [[1Cor.1.19|1Cor 1:19]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

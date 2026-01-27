@@ -5,6 +5,10 @@ But when Moses went in before the LORD to speak with him, he took the vail off, 
 But whenever Moses went in before the LORD to speak with Him, he would remove the veil until he came out. And when he came out, he would tell the Israelites what he had been commanded,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.33|<< Exodus 34:33]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.35|Exodus 34:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 34:34** is...
+> $\quad$ referenced by: [[2Cor.3.16|2Cor 3:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

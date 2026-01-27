@@ -5,6 +5,10 @@ But go ye and learn what [that] meaneth, I will have mercy, and not sacrifice: f
 But go and learn what this means: ‘I desire mercy, not sacrifice.’ For I have not come to call the righteous, but sinners.”
 <small><sub>**Literal:**</sub></small>
 Having gone however do learn what is; Mercy I desire and not [desire] sacrifice;’ Not for I came to call [the] righteous but sinners into repentance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.12|<< Matthew 9:12]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.14|Matthew 9:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 9:13** is...
+> $\quad$ referencing: [[LXX.Hos.6.6|Hos 6:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

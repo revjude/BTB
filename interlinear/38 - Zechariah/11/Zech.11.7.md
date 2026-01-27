@@ -5,6 +5,10 @@ And I will feed the flock of slaughter, [even] you, O poor of the flock. And I t
 So I pastured the flock marked for slaughter, especially the afflicted of the flock. Then I took for myself two staffs, calling one Favor and the other Union, and I pastured the flock.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.6|<< Zechariah 11:6]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.8|Zechariah 11:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 11:7** is...
+> $\quad$ related to: [[Ps.44.22|Ps 44:22]] ☩ [[Ezek.34.8|Ezek 34:8-10]] ☩ [[Luke.11.49|Luke 11:49-50]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

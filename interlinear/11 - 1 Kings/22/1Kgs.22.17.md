@@ -5,6 +5,10 @@ And he said, I saw all Israel scattered upon the hills, as sheep that have not a
 So Micaiah declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.16|<< 1 Kings 22:16]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.18|1 Kings 22:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 22:17** is...
+> $\quad$ referenced by: [[Mark.6.34|Mark 6:34]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

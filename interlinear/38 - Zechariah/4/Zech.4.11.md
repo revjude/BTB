@@ -5,6 +5,10 @@ Then answered I, and said unto him, What [are] these two olive trees upon the ri
 Then I asked the angel, “What are the two olive trees on the right and left of the lampstand?”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.10|<< Zechariah 4:10]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.12|Zechariah 4:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 4:11** is...
+> $\quad$ referenced by: [[Rev.11.4|Rev 11:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

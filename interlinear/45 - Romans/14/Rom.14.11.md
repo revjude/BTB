@@ -5,6 +5,10 @@ For it is written, [As] I live, saith the Lord, every knee shall bow to me, and 
 It is written: “As surely as I live, says the Lord, every knee will bow before Me; every tongue will confess to God.”
 <small><sub>**Literal:**</sub></small>
 It has been written for: Live I myself, says [the] Lord, that to Me myself will bow every knee, and every tongue will confess <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.10|<< Romans 14:10]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.12|Romans 14:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 14:11** is...
+> $\quad$ referencing: [[LXX.Isa.45.23|Isa 45:23]] ☩ [[LXX.Isa.49.18|Isa 49:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

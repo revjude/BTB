@@ -5,6 +5,10 @@ And above all things have fervent charity among yourselves: for charity shall co
 Above all, love one another deeply, because love covers over a multitude of sins.
 <small><sub>**Literal:**</sub></small>
 above all things now <the> among yourselves love fervent having, because love covers over a multitude of sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.7|<< 1 Peter 4:7]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.9|1 Peter 4:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 4:8** is...
+> $\quad$ referencing: [[LXX.Prov.10.12|Prov 10:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

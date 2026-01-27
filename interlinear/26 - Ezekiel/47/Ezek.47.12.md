@@ -5,6 +5,10 @@ And by the river upon the bank thereof, on this side and on that side, shall gro
 Along both banks of the river, fruit trees of all kinds will grow. Their leaves will not wither, and their fruit will not fail. Each month they will bear fruit, because the water from the sanctuary flows to them. Their fruit will be used for food and their leaves for healing.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.11|<< Ezekiel 47:11]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.13|Ezekiel 47:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 47:12** is...
+> $\quad$ referenced by: [[Rev.22.1|Rev 22:1-2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

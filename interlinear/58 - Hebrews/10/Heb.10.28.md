@@ -5,6 +5,10 @@ He that despised Moses’ law died without mercy under two or three witnesses:
 Anyone who rejected the law of Moses died without mercy on the testimony of two or three witnesses.
 <small><sub>**Literal:**</sub></small>
 Having set aside anyone [the] law of Moses without mercies on the basis of two or three witnesses he dies;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.27|<< Hebrews 10:27]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.29|Hebrews 10:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:28** is...
+> $\quad$ referencing: [[LXX.Deut.17.6|Deut 17:6]] ☩ [[LXX.Deut.19.15|Deut 19:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

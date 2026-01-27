@@ -5,6 +5,10 @@ And he shall reign over the house of Jacob for ever; and of his kingdom there sh
 and He will reign over the house of Jacob forever. His kingdom will never end!”
 <small><sub>**Literal:**</sub></small>
 and He will reign over the house of Jacob to the ages, and of the kingdom of Him not there will be an end!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.32|<< Luke 1:32]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.34|Luke 1:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:33** is...
+> $\quad$ alluding to: [[LXX.Dan.4.3|Dan 4:3]] ☩ [[LXX.Mic.4.7|Mic 4:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

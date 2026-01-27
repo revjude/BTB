@@ -5,6 +5,10 @@ O taste and see that the LORD [is] good: blessed [is] the man [that] trusteth in
 Taste and see that the LORD is good; blessed is the man who takes refuge in Him!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.7|<< Psalms 34:7]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.9|Psalms 34:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 34:8** is...
+> $\quad$ referenced by: [[1Pet.2.3|1Pet 2:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ In the law it is written, With [men of] other tongues and other lips will I spea
 It is written in the Law: “By strange tongues and foreign lips I will speak to this people, but even then they will not listen to Me, says the Lord.”
 <small><sub>**Literal:**</sub></small>
 In the law it has been written that By other tongues and by lips of others I will speak to the people this, and not even thus will they hear Me, says [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.20|<< 1 Corinthians 14:20]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.22|1 Corinthians 14:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 14:21** is...
+> $\quad$ referencing: [[LXX.Isa.28.11|Isa 28:11-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

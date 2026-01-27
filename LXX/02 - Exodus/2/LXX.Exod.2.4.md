@@ -6,6 +6,10 @@ And his sister stood afar off, to wit what would be done to him.
 <small><sub>**BSB:**</sub></small>
 And his sister stood at a distance to see what would happen to him.<small><sub>**MT:**</sub></small>
 [[Exod.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.3|<< Exodus 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.5|Exodus 2:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:4** is...
+> $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

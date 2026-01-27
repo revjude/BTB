@@ -5,6 +5,10 @@ But thou, O LORD, knowest me: thou hast seen me, and tried mine heart toward the
 But You know me, O LORD; You see me and test my heart toward You. Drag away the wicked like sheep to the slaughter and set them apart for the day of carnage.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.2|<< Jeremiah 12:2]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.4|Jeremiah 12:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 12:3** is...
+> $\quad$ referenced by: [[Jas.5.5|Jas 5:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

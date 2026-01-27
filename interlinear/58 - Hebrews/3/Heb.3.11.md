@@ -5,6 +5,10 @@ So I sware in my wrath, They shall not enter into my rest.)
 So I swore on oath in My anger, ‘They shall never enter My rest.’”
 <small><sub>**Literal:**</sub></small>
 so I swore in the wrath of Mine; [not] will they enter into the rest of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.10|<< Hebrews 3:10]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.12|Hebrews 3:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 3:11** is...
+> $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

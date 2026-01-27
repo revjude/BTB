@@ -5,6 +5,10 @@ Woe to them [that are] at ease in Zion, and trust in the mountain of Samaria, [w
 Woe to those at ease in Zion and those secure on Mount Samaria, the distinguished ones of the foremost nation, to whom the house of Israel comes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.27|<< Amos 5:27]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.2|Amos 6:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Amos 6:1** is...
+> $\quad$ referenced by: [[Luke.6.24|Luke 6:24]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

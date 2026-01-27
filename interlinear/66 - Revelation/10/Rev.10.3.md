@@ -5,6 +5,10 @@ And cried with a loud voice, as [when] a lion roareth: and when he had cried, se
 Then he cried out in a loud voice like the roar of a lion. And when he cried out, the seven thunders sounded their voices.
 <small><sub>**Literal:**</sub></small>
 And he cried out in a voice loud as a lion roars. And when he cried out, sounded the seven thunders the their own voice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.2|<< Revelation 10:2]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.4|Revelation 10:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 10:3** is...
+> $\quad$ alluding to: [[LXX.Jer.25.30|Jer 25:30]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

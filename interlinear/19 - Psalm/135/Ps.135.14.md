@@ -5,6 +5,10 @@ For the LORD will judge his people, and he will repent himself concerning his se
 For the LORD will vindicate His people and will have compassion on His servants.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.13|<< Psalms 135:13]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.15|Psalms 135:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 135:14** is...
+> $\quad$ referenced by: [[Heb.10.30|Heb 10:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

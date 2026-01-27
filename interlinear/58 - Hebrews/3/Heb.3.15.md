@@ -5,6 +5,10 @@ While it is said, To day if ye will hear his voice, harden not your hearts, as i
 As it has been said: “Today, if you hear His voice, do not harden your hearts, as you did in the rebellion.”
 <small><sub>**Literal:**</sub></small>
 As the saying: Today if the voice of Him you shall hear, not shall harden the hearts of you as in the rebellion.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.14|<< Hebrews 3:14]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.16|Hebrews 3:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 3:15** is...
+> $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

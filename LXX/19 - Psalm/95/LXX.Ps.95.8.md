@@ -6,6 +6,10 @@ Harden not your heart, as in the provocation, [and] as [in] the day of temptatio
 <small><sub>**BSB:**</sub></small>
 do not harden your hearts as you did at Meribah, in the day at Massah in the wilderness,<small><sub>**MT:**</sub></small>
 [[Ps.95.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.7|<< Psalm 95:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.9|Psalm 95:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 95:8** is...
+> $\quad$ referenced by: [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]] ☩ [[Heb.4.7|Heb 4:7]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

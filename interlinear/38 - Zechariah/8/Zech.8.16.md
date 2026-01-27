@@ -5,6 +5,10 @@ These [are] the things that ye shall do; Speak ye every man the truth to his nei
 These are the things you must do: Speak truth to one another, render true and sound judgments in your gates,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.15|<< Zechariah 8:15]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.17|Zechariah 8:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 8:16** is...
+> $\quad$ referenced by: [[Eph.4.25|Eph 4:25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

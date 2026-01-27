@@ -5,6 +5,10 @@ Therefore thy gates shall be open continually; they shall not be shut day nor ni
 Your gates will always stand open; they will never be shut, day or night, so that the wealth of the nations may be brought into you, with their kings being led in procession.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.10|<< Isaiah 60:10]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.12|Isaiah 60:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 60:11** is...
+> $\quad$ referenced by: [[Rev.21.24|Rev 21:24-25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

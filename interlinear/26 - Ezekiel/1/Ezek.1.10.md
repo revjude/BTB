@@ -5,6 +5,10 @@ As for the likeness of their faces, they four had the face of a man, and the fac
 The form of their faces was that of a man, and each of the four had the face of a lion on the right side, the face of an ox on the left side, and also the face of an eagle.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.9|<< Ezekiel 1:9]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.11|Ezekiel 1:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 1:10** is...
+> $\quad$ referenced by: [[Rev.4.7|Rev 4:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

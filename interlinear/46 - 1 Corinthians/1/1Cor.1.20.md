@@ -5,6 +5,10 @@ Where [is] the wise? where [is] the scribe? where [is] the disputer of this worl
 Where is the wise man? Where is the scribe? Where is the philosopher of this age? Has not God made foolish the wisdom of the world?
 <small><sub>**Literal:**</sub></small>
 Where [is the] wise? Where [the] scribe? Where [the] debater of the age this? Surely has made foolish <the> God the wisdom of the world this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.19|<< 1 Corinthians 1:19]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.21|1 Corinthians 1:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 1:20** is...
+> $\quad$ alluding to: [[LXX.Isa.33.18|Isa 33:18]] ☩ [[LXX.Isa.44.25|Isa 44:25]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

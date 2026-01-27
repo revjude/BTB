@@ -5,6 +5,10 @@ And he that overcometh, and keepeth my works unto the end, to him will I give po
 And to the one who overcomes and continues in My work until the end, I will give authority over the nations.
 <small><sub>**Literal:**</sub></small>
 And the [one] overcoming and who is keeping until [the] end the works of Mine, I will give to him authority over the nations;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.25|<< Revelation 2:25]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.27|Revelation 2:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 2:26** is...
+> $\quad$ alluding to: [[LXX.Ps.2.8|Ps 2:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

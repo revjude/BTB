@@ -1,0 +1,24 @@
+**LXX Nahum 1:1** 
+
+***The Concern of Nineveh***
+
+<small><sub>**LXX:**</sub></small>
+\[The\] concern for Nineveh. The scroll of \[the\] vision of Nahum the Elkoshite. 
+<small><sub>**KJV:**</sub></small>
+The burden of Nineveh. The book of the vision of Nahum the Elkoshite.
+<small><sub>**BSB:**</sub></small>
+This is the burden against Nineveh, the book of the vision of Nahum the Elkoshite:<small><sub>**MT:**</sub></small>
+[[Nah.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.20|<< Micah 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.2|Nahum 1:2 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| \[The\] concern | <span class="asgreek">λήμμα <sup><small><small>[[G8189]]</small></small></sup> </span> |
+| for Nineveh. | <span class="asgreek">Νινευϊ <sup><small><small>[[G3535]]</small></small></sup> </span> |
+| The scroll | <span class="asgreek">βιβλίον <sup><small><small>[[G0975]]</small></small></sup> </span> |
+| of \[the\] vision | <span class="asgreek">όρασεως <sup><small><small>[[G3706]]</small></small></sup> </span> |
+| of Nahum | <span class="asgreek">Ναούμ <sup><small><small>[[G3486]]</small></small></sup> </span> |
+| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| Elkoshite. | <span class="asgreek">Ελκεσαίου <sup><small><small>[[H0512]]</small></small></sup> </span> |
+[[Nah.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.20|<< Micah 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.2|Nahum 1:2 >>]]</td></tr></table>
+
+

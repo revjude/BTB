@@ -5,6 +5,10 @@ At his day thou shalt give [him] his hire, neither shall the sun go down upon it
 You are to pay his wages each day before sunset, because he is poor and depends on them. Otherwise he may cry out to the LORD against you, and you will be guilty of sin.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.14|<< Deuteronomy 24:14]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.16|Deuteronomy 24:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 24:15** is...
+> $\quad$ referenced by: [[Jas.5.4|Jas 5:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

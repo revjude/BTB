@@ -5,6 +5,10 @@ And it shall come to pass, when ye be multiplied and increased in the land, in t
 “In those days, when you multiply and increase in the land,” declares the LORD, “they will no longer discuss the ark of the covenant of the LORD. It will never come to mind, and no one will remember it or miss it, nor will another one be made.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.15|<< Jeremiah 3:15]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.17|Jeremiah 3:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 3:16** is...
+> $\quad$ referenced by: [[1Cor.2.9|1Cor 2:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For the vision [is] yet for an appointed time, but at the end it shall speak, an
 For the vision awaits an appointed time; it testifies of the end and does not lie. Though it lingers, wait for it, since it will surely come and will not delay.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.2|<< Habakkuk 2:2]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.4|Habakkuk 2:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Habakkuk 2:3** is...
+> $\quad$ referenced by: [[Heb.10.37|Heb 10:37-38]] ☩ [[Rev.22.20|Rev 22:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

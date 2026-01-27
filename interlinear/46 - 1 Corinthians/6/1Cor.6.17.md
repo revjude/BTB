@@ -5,6 +5,10 @@ But he that is joined unto the Lord is one spirit.
 But he who unites himself with the Lord is one with Him in spirit.
 <small><sub>**Literal:**</sub></small>
 The [one] however being joined to the Lord one spirit is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.16|<< 1 Corinthians 6:16]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.18|1 Corinthians 6:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 6:17** is...
+> $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

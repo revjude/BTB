@@ -9,6 +9,10 @@ And they took their journey from Elim, and all the congregation of the children 
 <small><sub>**BSB:**</sub></small>
 On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin, which is between Elim and Sinai.<small><sub>**MT:**</sub></small>
 [[Exod.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.27|<< Exodus 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.2|Exodus 16:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 16:1** is...
+> $\quad$ referenced by: [[Acts.7.36|Acts 7:36]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

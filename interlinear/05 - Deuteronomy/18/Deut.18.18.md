@@ -5,6 +5,10 @@ I will raise them up a Prophet from among their brethren, like unto thee, and wi
 I will raise up for them a prophet like you from among their brothers. I will put My words in his mouth, and he will tell them everything I command him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.17|<< Deuteronomy 18:17]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.19|Deuteronomy 18:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 18:18** is...
+> $\quad$ referenced by: [[John.12.49|John 12:49]] ☩ [[Acts.3.22|Acts 3:22-23]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

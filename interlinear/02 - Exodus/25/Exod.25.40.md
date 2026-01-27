@@ -5,6 +5,10 @@ And look that thou make [them] after their pattern, which was shewed thee in the
 See to it that you make everything according to the pattern shown you on the mountain.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.39|<< Exodus 25:39]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.1|Exodus 26:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 25:40** is...
+> $\quad$ referenced by: [[Acts.7.44|Acts 7:44]] ☩ [[Heb.8.5|Heb 8:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

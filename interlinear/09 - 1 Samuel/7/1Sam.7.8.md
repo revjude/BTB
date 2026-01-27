@@ -5,6 +5,10 @@ And the children of Israel said to Samuel, Cease not to cry unto the LORD our Go
 and said to Samuel, “Do not stop crying out to the LORD our God for us, that He may save us from the hand of the Philistines.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.7|<< 1 Samuel 7:7]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.9|1 Samuel 7:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Samuel 7:8** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

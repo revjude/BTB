@@ -5,6 +5,10 @@ These shall make war with the Lamb, and the Lamb shall overcome them: for he is 
 They will make war against the Lamb, and the Lamb will triumph over them, because He is Lord of lords and King of kings; and He will be accompanied by His called and chosen and faithful ones.”
 <small><sub>**Literal:**</sub></small>
 These with the Lamb war will make, and the Lamb will overcome them, because Lord of lords He is and King of kings, and those with Him [are] called and chosen and faithful.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.13|<< Revelation 17:13]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.15|Revelation 17:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 17:14** is...
+> $\quad$ alluding to: [[LXX.Dan.8.25|Dan 8:25]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

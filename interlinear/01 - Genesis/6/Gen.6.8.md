@@ -5,6 +5,10 @@ But Noah found grace in the eyes of the LORD.
 Noah, however, found favor in the eyes of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.7|<< Genesis 6:7]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.9|Genesis 6:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 6:8** is...
+> $\quad$ referenced by: [[Heb.11.7|Heb 11:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

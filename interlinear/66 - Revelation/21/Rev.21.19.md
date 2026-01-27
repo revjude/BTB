@@ -5,6 +5,10 @@ And the foundations of the wall of the city [were] garnished with all manner of 
 The foundations of the city walls were adorned with every kind of precious stone: The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,
 <small><sub>**Literal:**</sub></small>
 and the foundations of the wall of the city with every stone precious adorned. the foundation <the> first jasper, the second sapphire, the third chalcedony, the fourth emerald,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.18|<< Revelation 21:18]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.20|Revelation 21:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:19** is...
+> $\quad$ alluding to: [[LXX.Isa.54.11|Isa 54:11-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

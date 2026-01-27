@@ -5,6 +5,10 @@ Now Moses in the law commanded us, that such should be stoned: but what sayest t
 In the Law Moses commanded us to stone such a woman. So what do You say?”
 <small><sub>**Literal:**</sub></small>
 In now the law us Moses commanded <the> such to be stoned; You yourself therefore what say You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.4|<< John 8:4]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.6|John 8:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 8:5** is...
+> $\quad$ alluding to: [[LXX.Lev.20.10|Lev 20:10]] ☩ [[LXX.Deut.22.21|Deut 22:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

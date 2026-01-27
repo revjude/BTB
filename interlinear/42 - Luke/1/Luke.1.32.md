@@ -5,6 +5,10 @@ He shall be great, and shall be called the Son of the Highest: and the Lord God 
 He will be great and will be called the Son of the Most High. The Lord God will give Him the throne of His father David,
 <small><sub>**Literal:**</sub></small>
 He will be great and Son of [the] Most High He will be called, and will give to Him [the] Lord <the> God the throne of David of the father of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.31|<< Luke 1:31]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.33|Luke 1:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 1:32** is...
+> $\quad$ alluding to: [[LXX.Ps.132.11|Ps 132:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ And it came to pass, when the people removed from their tents, to pass over Jord
 <small><sub>**BSB:**</sub></small>
 So when the people broke camp to cross the Jordan, the priests carried the ark of the covenant ahead of them.<small><sub>**MT:**</sub></small>
 [[Josh.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.13|<< Joshua 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.15|Joshua 3:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joshua 3:14** is...
+> $\quad$ referenced by: [[Acts.7.45|Acts 7:45]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

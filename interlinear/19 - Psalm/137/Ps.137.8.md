@@ -5,6 +5,10 @@ O daughter of Babylon, who art to be destroyed; happy [shall he be], that reward
 O Daughter of Babylon, doomed to destruction, blessed is he who repays you as you have done to us.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.137.7|<< Psalms 137:7]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137.9|Psalms 137:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 137:8** is...
+> $\quad$ referenced by: [[Rev.18.6|Rev 18:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Who found favour before God, and desired to find a tabernacle for the God of Jac
 who found favor in the sight of God and asked to provide a dwelling place for the God of Jacob.
 <small><sub>**Literal:**</sub></small>
 who found favor before <the> God and asked to find a dwelling place for the house of Jacob.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.45|<< Acts 7:45]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.47|Acts 7:47 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:46** is...
+> $\quad$ alluding to: [[LXX.2Sam.7.2|2Sam 7:2]] ☩ [[LXX.Ps.132.5|Ps 132:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

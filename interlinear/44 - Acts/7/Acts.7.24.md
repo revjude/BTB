@@ -5,6 +5,10 @@ And seeing one [of them] suffer wrong, he defended [him], and avenged him that w
 And when he saw one of them being mistreated, Moses went to his defense and avenged him by striking down the Egyptian who was oppressing him.
 <small><sub>**Literal:**</sub></small>
 And having seen a certain one being wronged he defended [him] and he did vengeance for the [one] being oppressed having struck down the Egyptian.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.23|<< Acts 7:23]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.25|Acts 7:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:24** is...
+> $\quad$ alluding to: [[LXX.Exod.2.11|Exod 2:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And I will set my tabernacle among you: and my soul shall not abhor you.
 And I will make My dwelling place among you, and My soul will not despise you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.10|<< Leviticus 26:10]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.12|Leviticus 26:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 26:11** is...
+> $\quad$ referenced by: [[2Cor.6.16|2Cor 6:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

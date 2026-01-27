@@ -5,6 +5,10 @@ Blessed [is] the man to whom the Lord will not impute sin.
 Blessed is the man whose sin the Lord will never count against him.”
 <small><sub>**Literal:**</sub></small>
 blessed [is] [the] man of whom certainly not may reckon [the] Lord sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.7|<< Romans 4:7]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.9|Romans 4:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 4:8** is...
+> $\quad$ referencing: [[LXX.Ps.32.1|Ps 32:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Thou, O king, [art] a king of kings: for the God of heaven hath given thee a kin
 You, O king, are the king of kings, to whom the God of heaven has given sovereignty, power, strength, and glory.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.36|<< Daniel 2:36]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.38|Daniel 2:38 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 2:37** is...
+> $\quad$ referenced by: [[Rev.13.7|Rev 13:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

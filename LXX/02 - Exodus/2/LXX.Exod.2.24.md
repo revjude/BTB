@@ -6,6 +6,10 @@ And God heard their groaning, and God remembered his covenant with Abraham, with
 <small><sub>**BSB:**</sub></small>
 So God heard their groaning, and He remembered His covenant with Abraham, Isaac, and Jacob.<small><sub>**MT:**</sub></small>
 [[Exod.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.23|<< Exodus 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.25|Exodus 2:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:24** is...
+> $\quad$ referenced by: [[Acts.7.34|Acts 7:34]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ Even as Sodom and Gomorrha, and the cities about them in like manner, giving the
 In like manner, Sodom and Gomorrah and the cities around them, who indulged in sexual immorality and pursued strange flesh, are on display as an example of those who sustain the punishment of eternal fire.
 <small><sub>**Literal:**</sub></small>
 just as Sodom and Gomorrah and the around them cities <the> in like manner with them having indulged in sexual immorality and having gone after flesh strange, are set forth as an example of fire eternal [the] penalty undergoing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.6|<< Jude 1:6]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.8|Jude 1:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jude 1:7** is...
+> $\quad$ alluding to: [[LXX.Gen.19.13|Gen 19:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

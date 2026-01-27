@@ -5,6 +5,10 @@ Which [hope] we have as an anchor of the soul, both sure and stedfast, and which
 We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain,
 <small><sub>**Literal:**</sub></small>
 which as an anchor we have of the soul sure both and unshakable and entering into that within the veil,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.18|<< Hebrews 6:18]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.20|Hebrews 6:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 6:19** is...
+> $\quad$ alluding to: [[LXX.Lev.16.12|Lev 16:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

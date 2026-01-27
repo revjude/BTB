@@ -5,6 +5,10 @@ A bruised reed shall he not break, and smoking flax shall he not quench, till he
 A bruised reed He will not break, and a smoldering wick He will not extinguish, till He leads justice to victory.
 <small><sub>**Literal:**</sub></small>
 A reed bruised not He will break and a wick smoldering not He will quench until when He shall lead to victory <the> justice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.19|<< Matthew 12:19]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.21|Matthew 12:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 12:20** is...
+> $\quad$ referencing: [[LXX.Isa.42.1|Isa 42:1-4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

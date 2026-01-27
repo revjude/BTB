@@ -5,6 +5,10 @@ And I will kill her children with death; and all the churches shall know that I 
 Then I will strike her children dead, and all the churches will know that I am the One who searches minds and hearts, and I will repay each of you according to your deeds.
 <small><sub>**Literal:**</sub></small>
 And the children of her I will kill with death, and will know all the churches that I myself am the [One] searching affections and hearts, and I will give of you to each according to the works of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.22|<< Revelation 2:22]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.24|Revelation 2:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 2:23** is...
+> $\quad$ possibly alluding to: [[LXX.Jer.17.10|Jer 17:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

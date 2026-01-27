@@ -5,6 +5,10 @@ The LORD hath sworn, and will not repent, Thou [art] a priest for ever after the
 The LORD has sworn and will not change His mind: “You are a priest forever in the order of Melchizedek.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.110.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110.3|<< Psalms 110:3]]</td><td align="center" style="border:none;">[[Ps.110|Psalms 110]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110.5|Psalms 110:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 110:4** is...
+> $\quad$ referenced by: [[John.12.34|John 12:34]] ☩ [[Heb.5.6|Heb 5:6]] ☩ [[Heb.7.17|Heb 7:17]] ☩ [[Heb.7.21|Heb 7:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

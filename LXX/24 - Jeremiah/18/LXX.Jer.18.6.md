@@ -6,6 +6,10 @@ O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, 
 <small><sub>**BSB:**</sub></small>
 “O house of Israel, declares the LORD, can I not treat you as this potter treats his clay? Just like clay in the potter’s hand, so are you in My hand, O house of Israel.<small><sub>**MT:**</sub></small>
 [[Jer.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.5|<< Jeremiah 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.7|Jeremiah 18:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 18:6** is...
+> $\quad$ referenced by: [[Rom.9.21|Rom 9:21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

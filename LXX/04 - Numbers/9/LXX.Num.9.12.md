@@ -6,6 +6,10 @@ They shall leave none of it unto the morning, nor break any bone of it: accordin
 <small><sub>**BSB:**</sub></small>
 they may not leave any of it until morning or break any of its bones. They must observe the Passover according to all its statutes.<small><sub>**MT:**</sub></small>
 [[Num.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.11|<< Numbers 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.13|Numbers 9:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 9:12** is...
+> $\quad$ referenced by: [[John.19.36|John 19:36]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

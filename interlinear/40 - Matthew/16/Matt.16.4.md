@@ -5,6 +5,10 @@ A wicked and adulterous generation seeketh after a sign; and there shall no sign
 A wicked and adulterous generation demands a sign, but none will be given it except the sign of Jonah.” Then He left them and went away.
 <small><sub>**Literal:**</sub></small>
 A generation evil and adulterous a sign seeks; and a sign not will be given to it only except the sign of Jonah <the> prophet. And having left them He went away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.3|<< Matthew 16:3]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.5|Matthew 16:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 16:4** is...
+> $\quad$ alluding to: [[LXX.Jonah.1.17|Jonah 1:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

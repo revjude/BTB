@@ -5,6 +5,10 @@ Then he said to Gehazi, Gird up thy loins, and take my staff in thine hand, and 
 So Elisha said to Gehazi, “Tie up your garment, take my staff in your hand, and go! If you meet anyone, do not greet him, and if anyone greets you, do not answer him. Then lay my staff on the boy’s face.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.28|<< 2 Kings 4:28]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.30|2 Kings 4:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Kings 4:29** is...
+> $\quad$ referenced by: [[Luke.10.4|Luke 10:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

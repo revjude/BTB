@@ -5,6 +5,10 @@ And it came to pass after these things, that God did tempt Abraham, and said unt
 Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.34|<< Genesis 21:34]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.2|Genesis 22:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 22:1** is...
+> $\quad$ referenced by: [[Heb.11.17|Heb 11:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

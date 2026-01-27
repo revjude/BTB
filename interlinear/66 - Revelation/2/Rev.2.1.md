@@ -5,6 +5,10 @@ Unto the angel of the church of Ephesus write; These things saith he that holdet
 “To the angel of the church in Ephesus write: These are the words of Him who holds the seven stars in His right hand and walks among the seven golden lampstands.
 <small><sub>**Literal:**</sub></small>
 To the angel of the in Ephesus church do write: These things says the [One] holding the seven stars in the right hand of Him, who is walking in [the] midst of the seven lampstands <the> golden;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.20|<< Revelation 1:20]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.2|Revelation 2:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 2:1** is...
+> $\quad$ possibly alluding to: [[LXX.Deut.23.14|Deut 23:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hel
 And you, Capernaum, will you be lifted up to heaven? No, you will be brought down to Hades! For if the miracles that were performed in you had been performed in Sodom, it would have remained to this day.
 <small><sub>**Literal:**</sub></small>
 And you yourself Capernaum, surely not to <the> heaven will be exalted? to Hades will go down! For if in Sodom happened the miracles that were happening in you, it remained then would until the day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.22|<< Matthew 11:22]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.24|Matthew 11:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 11:23** is...
+> $\quad$ referencing: [[LXX.Isa.14.13|Isa 14:13]][[LXX.Isa.14.15|, 15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ For the LORD hath poured out upon you the spirit of deep sleep, and hath closed 
 For the LORD has poured out on you a spirit of deep sleep. He has shut your eyes, O prophets; He has covered your heads, O seers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.9|<< Isaiah 29:9]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.11|Isaiah 29:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 29:10** is...
+> $\quad$ referenced by: [[Rom.11.8|Rom 11:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

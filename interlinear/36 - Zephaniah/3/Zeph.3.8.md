@@ -5,6 +5,10 @@ Therefore wait ye upon me, saith the LORD, until the day that I rise up to the p
 Therefore wait for Me,” declares the LORD, “until the day I rise to testify. For My decision is to gather nations, to assemble kingdoms, to pour out upon them My indignation—all My burning anger. For all the earth will be consumed by the fire of My jealousy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.7|<< Zephaniah 3:7]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.9|Zephaniah 3:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zephaniah 3:8** is...
+> $\quad$ referenced by: [[Rev.16.14|Rev 16:14]] ☩ [[Rev.16.16|Rev 16:16]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

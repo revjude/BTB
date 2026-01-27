@@ -5,6 +5,10 @@ And those that died in the plague were twenty and four thousand.
 but those who died in the plague numbered 24,000.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.8|<< Numbers 25:8]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.10|Numbers 25:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 25:9** is...
+> $\quad$ referenced by: [[1Cor.10.8|1Cor 10:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

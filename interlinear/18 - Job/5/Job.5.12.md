@@ -5,6 +5,10 @@ He disappointeth the devices of the crafty, so that their hands cannot perform [
 He thwarts the schemes of the crafty, so that their hands find no success.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.11|<< Job 5:11]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.13|Job 5:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Job 5:12** is...
+> $\quad$ referenced by: [[1Cor.3.19|1Cor 3:19]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

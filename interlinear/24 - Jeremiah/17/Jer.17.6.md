@@ -5,6 +5,10 @@ For he shall be like the heath in the desert, and shall not see when good cometh
 He will be like a shrub in the desert; he will not see when prosperity comes. He will dwell in the parched places of the desert, in a salt land where no one lives.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.5|<< Jeremiah 17:5]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.7|Jeremiah 17:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 17:6** is...
+> $\quad$ referenced by: [[Rom.3.8|Rom 3:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

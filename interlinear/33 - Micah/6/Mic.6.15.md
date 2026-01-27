@@ -5,6 +5,10 @@ Thou shalt sow, but thou shalt not reap; thou shalt tread the olives, but thou s
 You will sow but not reap; you will press olives but not anoint yourselves with oil; you will tread grapes but not drink the wine.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.14|<< Micah 6:14]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.16|Micah 6:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Micah 6:15** is...
+> $\quad$ referenced by: [[John.4.37|John 4:37]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

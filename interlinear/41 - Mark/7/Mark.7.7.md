@@ -5,6 +5,10 @@ Howbeit in vain do they worship me, teaching [for] doctrines the commandments of
 They worship Me in vain; they teach as doctrine the precepts of men.’
 <small><sub>**Literal:**</sub></small>
 In vain now they worship Me teaching [as] doctrines [the] precepts of men.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.6|<< Mark 7:6]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.8|Mark 7:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 7:7** is...
+> $\quad$ referencing: [[LXX.Isa.29.13|Isa 29:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

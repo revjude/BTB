@@ -5,6 +5,10 @@ And I will judge thee, as women that break wedlock and shed blood are judged; an
 And I will sentence you to the punishment of women who commit adultery and those who shed blood; so I will bring upon you the wrath of your bloodshed and jealousy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.37|<< Ezekiel 16:37]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.39|Ezekiel 16:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 16:38** is...
+> $\quad$ referenced by: [[Rev.16.6|Rev 16:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

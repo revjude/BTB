@@ -5,6 +5,10 @@ And hast made us unto our God kings and priests: and we shall reign on the earth
 You have made them to be a kingdom and priests to serve our God, and they will reign upon the earth.”
 <small><sub>**Literal:**</sub></small>
 and You have made them to the God of us a kingdom and priests, and they will reign upon the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.9|<< Revelation 5:9]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.11|Revelation 5:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 5:10** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.19.6|Exod 19:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

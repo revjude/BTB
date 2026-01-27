@@ -5,6 +5,10 @@ For ye were as sheep going astray; but are now returned unto the Shepherd and Bi
 For “you were like sheep going astray,” but now you have returned to the Shepherd and Overseer of your souls.
 <small><sub>**Literal:**</sub></small>
 You were for like sheep going astray but you have returned now to the Shepherd and Overseer of the souls of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.24|<< 1 Peter 2:24]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.1|1 Peter 3:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 2:25** is...
+> $\quad$ referencing: [[LXX.Isa.53.6|Isa 53:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Like the noise of chariots on the tops of mountains shall they leap, like the no
 With a sound like that of chariots they bound over the mountaintops, like the crackling of fire consuming stubble, like a mighty army deployed for battle.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.4|<< Joel 2:4]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.6|Joel 2:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 2:5** is...
+> $\quad$ referenced by: [[Rev.9.7|Rev 9:7-9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

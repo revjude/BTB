@@ -5,6 +5,10 @@ And Jesus answering them began to say, Take heed lest any [man] deceive you:
 Jesus began by telling them, “See to it that no one deceives you.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus answering began to say to them; do take heed lest anyone you may mislead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.4|<< Mark 13:4]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.6|Mark 13:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 13:5** is...
+> $\quad$ alluding to: [[LXX.Jer.29.8|Jer 29:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

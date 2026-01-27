@@ -5,6 +5,10 @@ For the LORD shall judge his people, and repent himself for his servants, when h
 For the LORD will vindicate His people and have compassion on His servants when He sees that their strength is gone and no one remains, slave or free.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.35|<< Deuteronomy 32:35]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.37|Deuteronomy 32:37 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 32:36** is...
+> $\quad$ referenced by: [[Heb.10.30|Heb 10:30]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

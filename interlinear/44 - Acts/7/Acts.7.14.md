@@ -5,6 +5,10 @@ Then sent Joseph, and called his father Jacob to [him], and all his kindred, thr
 Then Joseph sent for his father Jacob and all his relatives, seventy-five in all.
 <small><sub>**Literal:**</sub></small>
 Having sent then Joseph he called for Jacob the father of him and all the kindred of him in all souls seventy five.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.13|<< Acts 7:13]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.15|Acts 7:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:14** is...
+> $\quad$ alluding to: [[LXX.Gen.46.27|Gen 46:27]] ☩ [[LXX.Exod.1.5|Exod 1:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? [Was] 
 “I have loved you,” says the LORD. But you ask, “How have You loved us?” “Was not Esau Jacob’s brother?” declares the LORD. “Yet Jacob I have loved,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.1|<< Malachi 1:1]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.3|Malachi 1:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Malachi 1:2** is...
+> $\quad$ referenced by: [[Rom.9.13|Rom 9:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

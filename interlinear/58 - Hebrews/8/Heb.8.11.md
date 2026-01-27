@@ -5,6 +5,10 @@ And they shall not teach every man his neighbour, and every man his brother, say
 No longer will each one teach his neighbor or his brother, saying, ‘Know the Lord,’ because they will all know Me, from the least of them to the greatest.
 <small><sub>**Literal:**</sub></small>
 And certainly not shall they teach each the comrade of him and each the brother of him saying; do know the Lord,’ because all will know Me, from [the] least of them to [the] greatest of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.10|<< Hebrews 8:10]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.12|Hebrews 8:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 8:11** is...
+> $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

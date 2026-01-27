@@ -5,6 +5,10 @@ Alexander the coppersmith did me much evil: the Lord reward him according to his
 Alexander the coppersmith did great harm to me. The Lord will repay him according to his deeds.
 <small><sub>**Literal:**</sub></small>
 Alexander the coppersmith great to me harm did; Will render to him the Lord according to the deeds of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.13|<< 2 Timothy 4:13]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.15|2 Timothy 4:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Timothy 4:14** is...
+> $\quad$ alluding to: [[LXX.Ps.62.12|Ps 62:12]] ☩ [[LXX.Prov.24.12|Prov 24:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

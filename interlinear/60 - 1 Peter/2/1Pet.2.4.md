@@ -5,6 +5,10 @@ To whom coming, [as unto] a living stone, disallowed indeed of men, but chosen o
 As you come to Him, the living stone, rejected by men but chosen and precious in God’s sight,
 <small><sub>**Literal:**</sub></small>
 To whom coming a stone living, by men indeed rejected in the sight of however God chosen [and] precious,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.3|<< 1 Peter 2:3]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.5|1 Peter 2:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 2:4** is...
+> $\quad$ alluding to: [[LXX.Ps.118.22|Ps 118:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

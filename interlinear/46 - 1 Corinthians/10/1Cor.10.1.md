@@ -5,6 +5,10 @@ Moreover, brethren, I would not that ye should be ignorant, how that all our fat
 I do not want you to be unaware, brothers, that our forefathers were all under the cloud, and that they all passed through the sea.
 <small><sub>**Literal:**</sub></small>
 Not I want for you to be ignorant, brothers, that the fathers of us all under the cloud were and all through the sea passed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.27|<< 1 Corinthians 9:27]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.2|1 Corinthians 10:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 10:1** is...
+> $\quad$ alluding to: [[LXX.Exod.13.21|Exod 13:21]] ☩ [[LXX.Exod.14.22|Exod 14:22]] ☩ [[LXX.Num.9.18|Num 9:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

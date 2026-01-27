@@ -5,6 +5,10 @@ For thus saith the Lord GOD; How much more when I send my four sore judgments up
 For this is what the Lord GOD says: ‘How much worse will it be when I send against Jerusalem My four dire judgments—sword, famine, wild beasts, and plague—in order to cut off from it both man and beast?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.20|<< Ezekiel 14:20]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.22|Ezekiel 14:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 14:21** is...
+> $\quad$ referenced by: [[Rev.6.8|Rev 6:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

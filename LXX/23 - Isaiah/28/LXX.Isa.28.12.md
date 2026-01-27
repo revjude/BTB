@@ -6,6 +6,10 @@ To whom he said, This [is] the rest [wherewith] ye may cause the weary to rest; 
 <small><sub>**BSB:**</sub></small>
 to whom He has said: “This is the place of rest, let the weary rest; this is the place of repose.” But they would not listen.<small><sub>**MT:**</sub></small>
 [[Isa.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.11|<< Isaiah 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.13|Isaiah 28:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 28:12** is...
+> $\quad$ referenced by: [[1Cor.14.21|1Cor 14:21]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

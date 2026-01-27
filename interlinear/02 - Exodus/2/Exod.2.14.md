@@ -5,6 +5,10 @@ And he said, Who made thee a prince and a judge over us? intendest thou to kill 
 But the man replied, “Who made you ruler and judge over us? Are you planning to kill me as you killed the Egyptian?” Then Moses was afraid and thought, “This thing I have done has surely become known.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.13|<< Exodus 2:13]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.15|Exodus 2:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:14** is...
+> $\quad$ referenced by: [[Acts.7.26|Acts 7:26]] ☩ [[Acts.7.27|Acts 7:27-29]] ☩ [[Acts.7.35|Acts 7:35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

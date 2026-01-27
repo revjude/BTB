@@ -5,6 +5,10 @@ And he received the sign of circumcision, a seal of the righteousness of the fai
 And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. So then, he is the father of all who believe but are not circumcised, in order that righteousness might be credited to them.
 <small><sub>**Literal:**</sub></small>
 And [the] sign he received of circumcision, a seal of the righteousness of the faith that [he had] [while] in the uncircumcision; for the to be him father of all those believing in uncircumcision, for <the> to be credited also to them the righteousness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.10|<< Romans 4:10]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.12|Romans 4:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 4:11** is...
+> $\quad$ referencing: [[LXX.Gen.17.10|Gen 17:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Strengthen ye the weak hands, and confirm the feeble knees.
 Strengthen the limp hands and steady the feeble knees!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.35.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35.2|<< Isaiah 35:2]]</td><td align="center" style="border:none;">[[Isa.35|Isaiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35.4|Isaiah 35:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 35:3** is...
+> $\quad$ referenced by: [[Heb.12.12|Heb 12:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

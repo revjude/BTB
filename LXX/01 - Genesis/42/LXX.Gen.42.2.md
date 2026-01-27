@@ -6,6 +6,10 @@ And he said, Behold, I have heard that there is corn in Egypt: get you down thit
 <small><sub>**BSB:**</sub></small>
 “Look,” he added, “I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.”<small><sub>**MT:**</sub></small>
 [[Gen.42.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.1|<< Genesis 42:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.3|Genesis 42:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 42:2** is...
+> $\quad$ referenced by: [[Acts.7.12|Acts 7:12]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

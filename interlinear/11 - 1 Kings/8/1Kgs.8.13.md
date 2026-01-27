@@ -5,6 +5,10 @@ I have surely built thee an house to dwell in, a settled place for thee to abide
 I have indeed built You an exalted house, a place for You to dwell forever.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.12|<< 1 Kings 8:12]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.14|1 Kings 8:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 8:13** is...
+> $\quad$ referenced by: [[Acts.7.47|Acts 7:47]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

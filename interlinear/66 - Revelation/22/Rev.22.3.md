@@ -5,6 +5,10 @@ And there shall be no more curse: but the throne of God and of the Lamb shall be
 No longer will there be any curse. The throne of God and of the Lamb will be within the city, and His servants will worship Him.
 <small><sub>**Literal:**</sub></small>
 And any curse not there will be any longer, And the throne <the> of God and of the Lamb in it will be, and the servants of Him will serve Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.2|<< Revelation 22:2]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.4|Revelation 22:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 22:3** is...
+> $\quad$ possibly alluding to: [[LXX.Zech.14.11|Zech 14:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

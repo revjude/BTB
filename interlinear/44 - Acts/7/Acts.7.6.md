@@ -5,6 +5,10 @@ And God spake on this wise, That his seed should sojourn in a strange land; and 
 God told him that his descendants would be foreigners in a strange land, and that they would be enslaved and mistreated four hundred years.
 <small><sub>**Literal:**</sub></small>
 Spoke however thus <the> God that will be the seed of him a sojourner in a land strange and they will enslave it and they will mistreat [it] years four hundred.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.5|<< Acts 7:5]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.7|Acts 7:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:6** is...
+> $\quad$ referencing: [[LXX.Gen.15.13|Gen 15:13-14]] ☩ [[LXX.Exod.2.22|Exod 2:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

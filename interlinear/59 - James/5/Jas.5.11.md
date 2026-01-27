@@ -5,6 +5,10 @@ Behold, we count them happy which endure. Ye have heard of the patience of Job, 
 See how blessed we consider those who have persevered. You have heard of Job’s perseverance and have seen the outcome from the Lord. The Lord is full of compassion and mercy.
 <small><sub>**Literal:**</sub></small>
 Behold we count blessed those having persevered; The perseverance of Job you have heard of and the outcome from [the] Lord you have seen, that full of compassion is the Lord and [is] merciful.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.10|<< James 5:10]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.12|James 5:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 5:11** is...
+> $\quad$ alluding to: [[LXX.Ps.103.8|Ps 103:8]] ☩ [[LXX.Job.1.21|Job 1:21-22]] ☩ [[LXX.Job.42.10|Job 42:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

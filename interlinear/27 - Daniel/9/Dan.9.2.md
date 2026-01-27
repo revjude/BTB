@@ -5,6 +5,10 @@ In the first year of his reign I Daniel understood by books the number of the ye
 in the first year of his reign, I, Daniel, understood from the sacred books, according to the word of the LORD to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.1|<< Daniel 9:1]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.3|Daniel 9:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 9:2** is...
+> $\quad$ referencing: [[Jer.25.11|Jer 25:11-12]] ☩ [[Jer.29.10|Jer 29:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

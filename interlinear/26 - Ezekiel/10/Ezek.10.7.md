@@ -5,6 +5,10 @@ And [one] cherub stretched forth his hand from between the cherubims unto the fi
 Then one of the cherubim reached out his hand and took some of the fire that was among them. And he put it into the hands of the man clothed in linen, who received it and went out.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.6|<< Ezekiel 10:6]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.8|Ezekiel 10:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 10:7** is...
+> $\quad$ referenced by: [[Rev.15.7|Rev 15:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

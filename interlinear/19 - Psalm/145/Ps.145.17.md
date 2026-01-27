@@ -5,6 +5,10 @@ The LORD [is] righteous in all his ways, and holy in all his works.
 The LORD is righteous in all His ways and kind in all His deeds.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.16|<< Psalms 145:16]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.18|Psalms 145:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 145:17** is...
+> $\quad$ referenced by: [[Rev.15.3|Rev 15:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

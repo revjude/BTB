@@ -5,6 +5,10 @@ And thou Bethlehem, [in] the land of Juda, art not the least among the princes o
 ‘But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah, for out of you will come a ruler who will be the shepherd of My people Israel.’”
 <small><sub>**Literal:**</sub></small>
 And you yourself Bethlehem land of Judah, by no means least are among the rulers of Judah; out of you for will go forth [One] leading who will shepherd the people of Mine <the> Israel.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.5|<< Matthew 2:5]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.7|Matthew 2:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 2:6** is...
+> $\quad$ referencing: [[LXX.2Sam.5.2|2Sam 5:2]] ☩ [[LXX.Mic.5.2|Mic 5:2]][[LXX.Mic.5.4|, 4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

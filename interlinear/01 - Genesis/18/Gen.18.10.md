@@ -5,6 +5,10 @@ And he said, I will certainly return unto thee according to the time of life; an
 Then the LORD said, “I will surely return to you at this time next year, and your wife Sarah will have a son!” Now Sarah was behind him, listening at the entrance to the tent.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.9|<< Genesis 18:9]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.11|Genesis 18:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 18:10** is...
+> $\quad$ referenced by: [[Rom.9.9|Rom 9:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

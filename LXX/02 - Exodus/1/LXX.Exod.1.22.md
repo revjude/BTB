@@ -6,6 +6,10 @@ And Pharaoh charged all his people, saying, Every son that is born ye shall cast
 <small><sub>**BSB:**</sub></small>
 Then Pharaoh commanded all his people: “Every son born to the Hebrews you must throw into the Nile, but every daughter you may allow to live.”<small><sub>**MT:**</sub></small>
 [[Exod.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.21|<< Exodus 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.1|Exodus 2:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 1:22** is...
+> $\quad$ referenced by: [[Acts.7.19|Acts 7:19]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

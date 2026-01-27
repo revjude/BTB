@@ -6,6 +6,10 @@ And it shall come to pass, [that] whosoever will not hearken unto my words which
 <small><sub>**BSB:**</sub></small>
 And I will hold accountable anyone who does not listen to My words that the prophet speaks in My name.<small><sub>**MT:**</sub></small>
 [[Deut.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.18|<< Deuteronomy 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.20|Deuteronomy 18:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 18:19** is...
+> $\quad$ referenced by: [[Acts.3.22|Acts 3:22-23]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

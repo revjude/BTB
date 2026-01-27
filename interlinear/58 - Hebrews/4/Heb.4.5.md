@@ -5,6 +5,10 @@ And in this [place] again, If they shall enter into my rest.
 And again, as He says in the passage above: “They shall never enter My rest.”
 <small><sub>**Literal:**</sub></small>
 And in this [passage] again; [Not] will they enter into the rest of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.4|<< Hebrews 4:4]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.6|Hebrews 4:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 4:5** is...
+> $\quad$ referencing: [[LXX.Ps.95.11|Ps 95:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

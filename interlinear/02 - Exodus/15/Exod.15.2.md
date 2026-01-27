@@ -5,6 +5,10 @@ The LORD [is] my strength and song, and he is become my salvation: he [is] my Go
 The LORD is my strength and my song, and He has become my salvation. He is my God, and I will praise Him, my father’s God, and I will exalt Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.1|<< Exodus 15:1]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.3|Exodus 15:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 15:2** is...
+> $\quad$ referenced by: [[Ps.118.14|Ps 118:14]] ☩ [[Isa.12.2|Isa 12:2]] ☩ [[Heb.2.13|Heb 2:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And he charged him to tell no man: but go, and shew thyself to the priest, and o
 “Do not tell anyone,” Jesus instructed him. “But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”
 <small><sub>**Literal:**</sub></small>
 And He himself ordered him no one to tell But having gone do show yourself to the priest and do offer for the cleansing of you even as commanded Moses for a testimony to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.13|<< Luke 5:13]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.15|Luke 5:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 5:14** is...
+> $\quad$ alluding to: [[LXX.Lev.14.2|Lev 14:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

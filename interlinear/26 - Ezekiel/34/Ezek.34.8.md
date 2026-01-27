@@ -5,6 +5,10 @@
 ‘As surely as I live, declares the Lord GOD, because My flock lacks a shepherd and has become prey and food for every wild beast, and because My shepherds did not search for My flock but fed themselves instead,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.7|<< Ezekiel 34:7]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.9|Ezekiel 34:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 34:8** is...
+> $\quad$ related to: [[Ps.44.22|Ps 44:22]] ☩ [[Zech.11.7|Zech 11:7]] ☩ [[Luke.11.49|Luke 11:49-50]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

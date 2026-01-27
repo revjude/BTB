@@ -5,6 +5,10 @@ The kings of the earth set themselves, and the rulers take counsel together, aga
 The kings of the earth take their stand and the rulers gather together, against the LORD and against His Anointed One:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.1|<< Psalms 2:1]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.3|Psalms 2:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 2:2** is...
+> $\quad$ referenced by: [[Acts.4.25|Acts 4:25-26]] ☩ [[Rev.11.18|Rev 11:18]] ☩ [[Rev.19.19|Rev 19:19]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

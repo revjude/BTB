@@ -5,6 +5,10 @@ And in the days of these kings shall the God of heaven set up a kingdom, which s
 In the days of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will shatter all these kingdoms and bring them to an end, but will itself stand forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.43|<< Daniel 2:43]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.45|Daniel 2:45 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 2:44** is...
+> $\quad$ referenced by: [[Matt.21.44|Matt 21:44]] ☩ [[Luke.20.18|Luke 20:18]] ☩ [[Rev.11.15|Rev 11:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

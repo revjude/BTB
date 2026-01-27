@@ -5,6 +5,10 @@ Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.
 He alone stretches out the heavens and treads on the waves of the sea.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.7|<< Job 9:7]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.9|Job 9:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Job 9:8** is...
+> $\quad$ referenced by: [[Matt.14.29|Matt 14:29]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

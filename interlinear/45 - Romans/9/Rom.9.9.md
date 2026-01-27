@@ -5,6 +5,10 @@ For this [is] the word of promise, At this time will I come, and Sara shall have
 For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”
 <small><sub>**Literal:**</sub></small>
 Of [the] promise for the word [is] this: At <the> time this I will come and there will be <the> to Sarah a son.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.8|<< Romans 9:8]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.10|Romans 9:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:9** is...
+> $\quad$ referencing: [[LXX.Gen.18.10|Gen 18:10]] ☩ [[LXX.Gen.18.14|Gen 18:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

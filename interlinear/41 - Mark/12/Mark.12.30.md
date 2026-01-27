@@ -5,6 +5,10 @@ And thou shalt love the Lord thy God with all thy heart, and with all thy soul, 
 Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’
 <small><sub>**Literal:**</sub></small>
 and you will love [the] Lord the God of you with all the heart of you and with all the soul of you and with all the mind of you and with all the strength of you.’ this first commandment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.29|<< Mark 12:29]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.31|Mark 12:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 12:30** is...
+> $\quad$ referencing: [[LXX.Deut.6.4|Deut 6:4-5]] ☩ [[LXX.Josh.22.5|Josh 22:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

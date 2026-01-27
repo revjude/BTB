@@ -5,6 +5,10 @@ Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but 
 “Do not cling to Me,” Jesus said, “for I have not yet ascended to the Father. But go and tell My brothers, ‘I am ascending to My Father and your Father, to My God and your God.’”
 <small><sub>**Literal:**</sub></small>
 Says to her <the> Jesus: Not Me do yourself touch; not yet for have I ascended to the Father of mine. do go however to the brothers of Mine and do say to them; I am ascending to the Father of Mine and Father of you and [to] God of Mine and God of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.16|<< John 20:16]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.18|John 20:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 20:17** is...
+> $\quad$ alluding to: [[LXX.Ps.22.22|Ps 22:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

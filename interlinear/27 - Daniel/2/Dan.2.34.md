@@ -5,6 +5,10 @@ Thou sawest till that a stone was cut out without hands, which smote the image u
 As you watched, a stone was cut out, but not by human hands. It struck the statue on its feet of iron and clay, and crushed them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.33|<< Daniel 2:33]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.35|Daniel 2:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 2:34** is...
+> $\quad$ referenced by: [[Matt.21.44|Matt 21:44]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

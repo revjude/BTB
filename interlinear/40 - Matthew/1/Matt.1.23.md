@@ -5,6 +5,10 @@ Behold, a virgin shall be with child, and shall bring forth a son, and they shal
 “Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel” (which means, “God with us”).
 <small><sub>**Literal:**</sub></small>
 Behold the virgin in womb [pregnancy] will have and she will bear a son, and they will call the name of Him Immanuel, which is being translated; With us <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.22|<< Matthew 1:22]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.24|Matthew 1:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 1:23** is...
+> $\quad$ referencing: [[LXX.Isa.7.14|Isa 7:14]] ☩ [[LXX.Isa.8.8|Isa 8:8]][[LXX.Isa.8.10|, 10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

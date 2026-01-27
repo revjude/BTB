@@ -5,6 +5,10 @@ But he that doeth wrong shall receive for the wrong which he hath done: and ther
 Whoever does wrong will be repaid for his wrong, and there is no favoritism.
 <small><sub>**Literal:**</sub></small>
 The [one] for doing wrong he will be repaid [for] what he has done wrong and not there is partiality.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.24|<< Colossians 3:24]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.1|Colossians 4:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Colossians 3:25** is...
+> $\quad$ alluding to: [[LXX.Deut.10.17|Deut 10:17]] ☩ [[LXX.Job.34.19|Job 34:19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

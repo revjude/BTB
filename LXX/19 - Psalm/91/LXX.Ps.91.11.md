@@ -6,6 +6,10 @@ For he shall give his angels charge over thee, to keep thee in all thy ways.
 <small><sub>**BSB:**</sub></small>
 For He will command His angels concerning you to guard you in all your ways.<small><sub>**MT:**</sub></small>
 [[Ps.91.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.10|<< Psalm 91:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.12|Psalm 91:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 91:11** is...
+> $\quad$ referenced by: [[Matt.4.6|Matt 4:6]] ☩ [[Luke.4.10|Luke 4:10-11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

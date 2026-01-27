@@ -5,6 +5,10 @@
 He is the Rock, His work is perfect; all His ways are just. A God of faithfulness without injustice, righteous and upright is He.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.3|<< Deuteronomy 32:3]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.5|Deuteronomy 32:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 32:4** is...
+> $\quad$ referenced by: [[Rev.15.3|Rev 15:3]] ☩ [[Rev.19.2|Rev 19:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

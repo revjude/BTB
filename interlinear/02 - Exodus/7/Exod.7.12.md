@@ -5,6 +5,10 @@ For they cast down every man his rod, and they became serpents: but Aaron’s ro
 Each one threw down his staff, and it became a serpent. But Aaron’s staff swallowed up the other staffs.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.11|<< Exodus 7:11]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.13|Exodus 7:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 7:12** is...
+> $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

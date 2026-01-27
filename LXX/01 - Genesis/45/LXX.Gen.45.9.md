@@ -6,6 +6,10 @@ Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, G
 <small><sub>**BSB:**</sub></small>
 Now return quickly to my father and tell him, ‘This is what your son Joseph says: God has made me lord of all Egypt. Come down to me without delay.<small><sub>**MT:**</sub></small>
 [[Gen.45.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.8|<< Genesis 45:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.10|Genesis 45:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 45:9** is...
+> $\quad$ referenced by: [[Acts.7.13|Acts 7:13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

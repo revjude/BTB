@@ -5,6 +5,10 @@ Or have ye not read in the law, how that on the sabbath days the priests in the 
 Or haven’t you read in the Law that on the Sabbath the priests in the temple break the Sabbath and yet are innocent?
 <small><sub>**Literal:**</sub></small>
 Or surely have you read in the law that on the Sabbath the priests in the temple the Sabbath profane and guiltless are?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.4|<< Matthew 12:4]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.6|Matthew 12:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 12:5** is...
+> $\quad$ referencing: [[LXX.Num.28.9|Num 28:9-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

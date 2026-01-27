@@ -5,6 +5,10 @@ And God saw the light, that [it was] good: and God divided the light from the da
 And God saw that the light was good, and He separated the light from the darkness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.3|<< Genesis 1:3]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.5|Genesis 1:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 1:4** is...
+> $\quad$ referenced by: [[2Cor.4.6|2Cor 4:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

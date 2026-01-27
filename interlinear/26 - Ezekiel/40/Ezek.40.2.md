@@ -5,6 +5,10 @@ In the visions of God brought he me into the land of Israel, and set me upon a v
 In visions of God He took me to the land of Israel and set me on a very high mountain, on whose southern slope was a structure that resembled a city.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.1|<< Ezekiel 40:1]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.3|Ezekiel 40:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 40:2** is...
+> $\quad$ referenced by: [[Rev.21.10|Rev 21:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

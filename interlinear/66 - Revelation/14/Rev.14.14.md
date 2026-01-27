@@ -5,6 +5,11 @@ And I looked, and behold a white cloud, and upon the cloud [one] sat like unto t
 And I looked and saw a white cloud, and seated on the cloud was One like the Son of Man, with a golden crown on His head and a sharp sickle in His hand.
 <small><sub>**Literal:**</sub></small>
 And I looked and behold a cloud white, and upon the cloud is sitting [One] like [the] Son of Man, having on the head of Him a crown golden and in the hand of Him a sickle sharp.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.13|<< Revelation 14:13]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.15|Revelation 14:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 14:14** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.19.1|Isa 19:1]]
+> $\quad$ alluding to: [[LXX.Dan.7.13|Dan 7:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

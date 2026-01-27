@@ -6,6 +6,10 @@ And he shall be for a sanctuary; but for a stone of stumbling and for a rock of 
 <small><sub>**BSB:**</sub></small>
 And He will be a sanctuary—but to both houses of Israel a stone of stumbling and a rock of offense, to the dwellers of Jerusalem a trap and a snare.<small><sub>**MT:**</sub></small>
 [[Isa.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.13|<< Isaiah 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.15|Isaiah 8:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 8:14** is...
+> $\quad$ referenced by: [[Matt.21.44|Matt 21:44]] ☩ [[Luke.20.18|Luke 20:18]] ☩ [[1Pet.2.8|1Pet 2:8]] ☩ [[Luke.2.34|Luke 2:34]] ☩ [[Rom.9.33|Rom 9:33]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And when the children of Israel saw [it], they said one to another, It [is] mann
 When the Israelites saw it, they asked one another, “What is it?” For they did not know what it was. So Moses told them, “It is the bread that the LORD has given you to eat.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.14|<< Exodus 16:14]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.16|Exodus 16:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 16:15** is...
+> $\quad$ referenced by: [[John.6.31|John 6:31]] ☩ [[John.6.49|John 6:49]] ☩ [[1Cor.10.3|1Cor 10:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

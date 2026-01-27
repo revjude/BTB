@@ -5,6 +5,10 @@ And I heard another voice from heaven, saying, Come out of her, my people, that 
 Then I heard another voice from heaven say: “Come out of her, My people, so that you will not share in her sins or contract any of her plagues.
 <small><sub>**Literal:**</sub></small>
 And I heard another voice from <the> heaven saying: do come you who [are] people of mine from her, so that not you may have fellowship in the sins of her, and of the plagues of her so that not you may receive;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.3|<< Revelation 18:3]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.5|Revelation 18:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:4** is...
+> $\quad$ alluding to: [[LXX.Isa.52.11|Isa 52:11]] ☩ [[LXX.Jer.50.8|Jer 50:8]] ☩ [[LXX.Jer.51.6|Jer 51:6]] ☩ [[LXX.Jer.51.9|Jer 51:9]] ☩ [[LXX.Jer.51.45|Jer 51:45]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

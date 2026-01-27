@@ -5,6 +5,11 @@ And he gave him none inheritance in it, no, not [so much as] to set his foot on:
 He gave him no inheritance here, not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child.
 <small><sub>**Literal:**</sub></small>
 And not He did give to him an inheritance in it not even [give] [the] length of a foot but He promised to give to him for a possession it and to the descendants of him after him, not there being to him a child.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.4|<< Acts 7:4]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.6|Acts 7:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:5** is...
+> $\quad$ alluding to: [[LXX.Gen.12.7|Gen 12:7]] ☩ [[LXX.Gen.13.15|Gen 13:15]]
+> $\quad$ referencing: [[LXX.Gen.17.8|Gen 17:8]] ☩ [[LXX.Gen.48.4|Gen 48:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

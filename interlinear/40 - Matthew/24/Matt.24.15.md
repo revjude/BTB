@@ -5,6 +5,11 @@ When ye therefore shall see the abomination of desolation, spoken of by Daniel t
 So when you see standing in the holy place ‘the abomination of desolation,’ spoken of by the prophet Daniel (let the reader understand),
 <small><sub>**Literal:**</sub></small>
 When therefore you may see the abomination <the> of desolation’ which having been spoken of through Daniel the prophet already standing in [the] place holy — the [one] reading he should understand —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.14|<< Matthew 24:14]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.16|Matthew 24:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 24:15** is...
+> $\quad$ alluding to: [[LXX.Dan.8.13|Dan 8:13]]
+> $\quad$ referencing: [[LXX.Dan.9.27|Dan 9:27]] ☩ [[LXX.Dan.11.31|Dan 11:31]] ☩ [[LXX.Dan.12.11|Dan 12:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

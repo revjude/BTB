@@ -5,6 +5,10 @@ And after three days and an half the Spirit of life from God entered into them, 
 But after the three and a half days, the breath of life from God entered the two witnesses, and they stood on their feet, and great fear fell upon those who saw them.
 <small><sub>**Literal:**</sub></small>
 And after the three days and a half [the] spirit of life from <the> God entered in them, and they stood upon the feet of them, and fear great fell upon those beholding them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.10|<< Revelation 11:10]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.12|Revelation 11:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 11:11** is...
+> $\quad$ referencing: [[LXX.Ezek.37.5|Ezek 37:5]] ☩ [[LXX.Ezek.37.10|Ezek 37:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

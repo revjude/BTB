@@ -5,6 +5,10 @@ But ye have borne the tabernacle of your Moloch and Chiun your images, the star 
 You have taken along Sakkuth your king and Kaiwan your star god, the idols you made for yourselves.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.25|<< Amos 5:25]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.27|Amos 5:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Amos 5:26** is...
+> $\quad$ referenced by: [[Acts.7.42|Acts 7:42-43]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

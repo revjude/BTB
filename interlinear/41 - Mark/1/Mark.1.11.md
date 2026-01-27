@@ -5,6 +5,10 @@ And there came a voice from heaven, [saying], Thou art my beloved Son, in whom I
 And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”
 <small><sub>**Literal:**</sub></small>
 And a voice came out of the heavens: You yourself are the Son of Mine the beloved, in you I am well pleased.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.10|<< Mark 1:10]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.12|Mark 1:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 1:11** is...
+> $\quad$ alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Ps.2.7|Ps 2:7]] ☩ [[LXX.Isa.42.1|Isa 42:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

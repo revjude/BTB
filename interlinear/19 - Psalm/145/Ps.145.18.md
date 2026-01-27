@@ -5,6 +5,10 @@ The LORD [is] nigh unto all them that call upon him, to all that call upon him i
 The LORD is near to all who call on Him, to all who call out to Him in truth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.17|<< Psalms 145:17]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.19|Psalms 145:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 145:18** is...
+> $\quad$ referenced by: [[Phil.4.5|Phil 4:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

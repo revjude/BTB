@@ -5,6 +5,10 @@ I will overturn, overturn, overturn, it: and it shall be no [more], until he com
 A ruin, a ruin, I will make it a ruin! And it will not be restored until the arrival of Him to whom it belongs, to whom I have assigned the right of judgment.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.26|<< Ezekiel 21:26]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.28|Ezekiel 21:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 21:27** is...
+> $\quad$ referencing: [[Gen.49.10|Gen 49:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And not as Moses, [which] put a vail over his face, that the children of Israel 
 We are not like Moses, who would put a veil over his face to keep the Israelites from gazing at the end of what was fading away.
 <small><sub>**Literal:**</sub></small>
 and not as Moses was putting a veil over the face of himself for <the> not to look intently the sons of Israel into the end of that fading away;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.12|<< 2 Corinthians 3:12]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.14|2 Corinthians 3:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 3:13** is...
+> $\quad$ referencing: [[LXX.Exod.34.33|Exod 34:33]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

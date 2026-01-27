@@ -6,6 +6,10 @@ Is any thing too hard for the LORD? At the time appointed I will return unto the
 <small><sub>**BSB:**</sub></small>
 Is anything too difficult for the LORD? At the appointed time I will return to you—in about a year—and Sarah will have a son.”<small><sub>**MT:**</sub></small>
 [[Gen.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.13|<< Genesis 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.15|Genesis 18:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 18:14** is...
+> $\quad$ referenced by: [[Rom.9.9|Rom 9:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

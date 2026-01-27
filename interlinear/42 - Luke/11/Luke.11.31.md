@@ -5,6 +5,10 @@ The queen of the south shall rise up in the judgment with the men of this genera
 The Queen of the South will rise at the judgment with the men of this generation and condemn them; for she came from the ends of the earth to hear the wisdom of Solomon, and now One greater than Solomon is here.
 <small><sub>**Literal:**</sub></small>
 [The] Queen of [the] South will rise up in the judgment with the men of the generation this and will condemn them; For she came from the ends of the earth to hear the wisdom of Solomon, and behold greater than Solomon here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.30|<< Luke 11:30]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.32|Luke 11:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 11:31** is...
+> $\quad$ alluding to: [[LXX.1Kgs.10.1|1Kgs 10:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

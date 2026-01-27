@@ -6,6 +6,10 @@ Incline your ear, and come unto me: hear, and your soul shall live; and I will m
 <small><sub>**BSB:**</sub></small>
 Incline your ear and come to Me; listen, so that your soul may live. I will make with you an everlasting covenant—My loving devotion promised to David.<small><sub>**MT:**</sub></small>
 [[Isa.55.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.2|<< Isaiah 55:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.4|Isaiah 55:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 55:3** is...
+> $\quad$ referenced by: [[Acts.13.34|Acts 13:34]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

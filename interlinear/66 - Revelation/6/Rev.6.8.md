@@ -5,6 +5,10 @@ And I looked, and behold a pale horse: and his name that sat on him was Death, a
 Then I looked and saw a pale green horse. Its rider’s name was Death, and Hades followed close behind. And they were given authority over a fourth of the earth, to kill by sword, by famine, by plague, and by the beasts of the earth.
 <small><sub>**Literal:**</sub></small>
 And I looked and behold a horse pale and the [one] sitting on it [the] name of him [was] <the> Death. and <the> Hades was following with him. and was given to them authority over the fourth of the earth to kill with sword and with famine and with plague and by the beasts of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.7|<< Revelation 6:7]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.9|Revelation 6:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 6:8** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.14.21|Ezek 14:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

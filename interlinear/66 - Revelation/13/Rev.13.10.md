@@ -5,6 +5,10 @@ He that leadeth into captivity shall go into captivity: he that killeth with the
 “If anyone is destined for captivity, into captivity he will go; if anyone is to die by the sword, by the sword he must be killed.” Here is a call for the perseverance and faith of the saints.
 <small><sub>**Literal:**</sub></small>
 If anyone into captivity gathers into captivity he goes, If anyone with [the] sword is to be killed, it is necessary for him by [the] sword [is] to be killed; Here is the endurance and the faith of the saints.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.9|<< Revelation 13:9]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.11|Revelation 13:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 13:10** is...
+> $\quad$ alluding to: [[LXX.Gen.9.6|Gen 9:6]] ☩ [[LXX.Isa.14.2|Isa 14:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

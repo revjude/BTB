@@ -9,6 +9,10 @@ Then Joseph could not refrain himself before all them that stood by him; and he 
 <small><sub>**BSB:**</sub></small>
 Then Joseph could no longer control himself before all his attendants, and he cried out, “Send everyone away from me!” So none of them were with Joseph when he made himself known to his brothers.<small><sub>**MT:**</sub></small>
 [[Gen.45.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.34|<< Genesis 44:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.2|Genesis 45:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 45:1** is...
+> $\quad$ referenced by: [[Acts.7.13|Acts 7:13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

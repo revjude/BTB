@@ -5,6 +5,10 @@ And again another scripture saith, They shall look on him whom they pierced.
 And, as another Scripture says: “They will look on the One they have pierced.”
 <small><sub>**Literal:**</sub></small>
 And again another Scripture says: They will behold on the [One] they have pierced.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.36|<< John 19:36]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.38|John 19:38 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 19:37** is...
+> $\quad$ referencing: [[LXX.Zech.12.10|Zech 12:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

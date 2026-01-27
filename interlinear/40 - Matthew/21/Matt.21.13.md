@@ -5,6 +5,10 @@ And said unto them, It is written, My house shall be called the house of prayer;
 And He declared to them, “It is written: ‘My house will be called a house of prayer.’ But you are making it ‘a den of robbers.’”
 <small><sub>**Literal:**</sub></small>
 And He says to them; It has been written: The house of Mine a house of prayer will be called,’ You yourselves however it make a den of robbers.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.12|<< Matthew 21:12]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.14|Matthew 21:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 21:13** is...
+> $\quad$ referencing: [[LXX.Isa.56.7|Isa 56:7]] ☩ [[LXX.Jer.7.11|Jer 7:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

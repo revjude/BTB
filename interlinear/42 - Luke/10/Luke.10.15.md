@@ -5,6 +5,10 @@ And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.
 And you, Capernaum, will you be lifted up to heaven? No, you will be brought down to Hades!
 <small><sub>**Literal:**</sub></small>
 And you yourself Capernaum not to <the> heaven will you be lifted up? to <the> Hades you will be brought down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.14|<< Luke 10:14]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.16|Luke 10:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 10:15** is...
+> $\quad$ alluding to: [[LXX.Isa.14.13|Isa 14:13]] ☩ [[LXX.Isa.14.15|Isa 14:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Forty years long was I grieved with [this] generation, and said, It [is] a peopl
 For forty years I was angry with that generation, and I said, “They are a people whose hearts go astray, and they have not known My ways.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.9|<< Psalms 95:9]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.11|Psalms 95:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 95:10** is...
+> $\quad$ referenced by: [[Acts.13.18|Acts 13:18]] ☩ [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

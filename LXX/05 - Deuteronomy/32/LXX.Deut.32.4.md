@@ -6,6 +6,10 @@ God, his works \[are\] true, and all  his ways are equity. God \[is\] trustworth
 <small><sub>**BSB:**</sub></small>
 He is the Rock, His work is perfect; all His ways are just. A God of faithfulness without injustice, righteous and upright is He.<small><sub>**MT:**</sub></small>
 [[Deut.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.3|<< Deuteronomy 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.5|Deuteronomy 32:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 32:4** is...
+> $\quad$ referenced by: [[Rev.15.3|Rev 15:3]] ☩ [[Rev.19.2|Rev 19:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

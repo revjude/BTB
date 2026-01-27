@@ -5,6 +5,10 @@ But of these who seemed to be somewhat, (whatsoever they were, it maketh no matt
 But as for the highly esteemed—whatever they were makes no difference to me; God does not show favoritism—those leaders added nothing to me.
 <small><sub>**Literal:**</sub></small>
 Of now those esteemed to be something — whatsoever formerly they were no [thing] to me makes a difference; [the] face <the> God of a man not does take [account of]; to me myself for the esteemed no [thing] added,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.5|<< Galatians 2:5]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.7|Galatians 2:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 2:6** is...
+> $\quad$ referencing: [[LXX.Deut.10.17|Deut 10:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

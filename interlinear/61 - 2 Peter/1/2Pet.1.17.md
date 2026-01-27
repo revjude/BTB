@@ -5,6 +5,11 @@ For he received from God the Father honour and glory, when there came such a voi
 For He received honor and glory from God the Father when the voice came to Him from the Majestic Glory, saying, “This is My beloved Son, in whom I am well pleased.”
 <small><sub>**Literal:**</sub></small>
 Having received for from God [the] Father honor and glory a voice was brought to Him such as follows by the Majestic Glory: The Son of Mine <the> beloved of Mine this is, in whom I myself found delight.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.16|<< 2 Peter 1:16]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.18|2 Peter 1:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 1:17** is...
+> $\quad$ alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Ps.2.7|Ps 2:7]] ☩ [[LXX.Isa.42.1|Isa 42:1]]
+> $\quad$ referencing: [[LXX.Ps.2.7|Ps 2:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

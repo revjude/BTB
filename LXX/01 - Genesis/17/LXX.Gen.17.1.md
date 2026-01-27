@@ -9,6 +9,10 @@ And when Abram was ninety years old and nine, the LORD appeared to Abram, and sa
 <small><sub>**BSB:**</sub></small>
 When Abram was ninety-nine years old, the LORD appeared to him and said, “I am God Almighty. Walk before Me and be blameless.<small><sub>**MT:**</sub></small>
 [[Gen.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.16|<< Genesis 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.2|Genesis 17:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 17:1** is...
+> $\quad$ referenced by: [[Matt.5.48|Matt 5:48]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

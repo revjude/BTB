@@ -6,6 +6,10 @@ Because the LORD was not able to bring this people into the land which he sware 
 <small><sub>**BSB:**</sub></small>
 ‘Because the LORD was unable to bring this people into the land He swore to give them, He has slaughtered them in the wilderness.’<small><sub>**MT:**</sub></small>
 [[Num.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.15|<< Numbers 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.17|Numbers 14:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 14:16** is...
+> $\quad$ referenced by: [[1Cor.10.5|1Cor 10:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

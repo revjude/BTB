@@ -5,6 +5,10 @@ The first angel sounded, and there followed hail and fire mingled with blood, an
 Then the first angel sounded his trumpet, and hail and fire mixed with blood were hurled down upon the earth. A third of the earth was burned up, along with a third of the trees and all the green grass.
 <small><sub>**Literal:**</sub></small>
 And the first angel sounded [his] trumpet, and there was hail and fire mixed with blood, and it was cast upon the earth And the third of the earth was burned up; and the third of the trees were burned up, and all [the] grass green was burned up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.6|<< Revelation 8:6]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.8|Revelation 8:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 8:7** is...
+> $\quad$ alluding to: [[LXX.Exod.9.23|Exod 9:23]] ☩ [[LXX.Joel.2.30|Joel 2:30]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

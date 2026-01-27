@@ -5,6 +5,10 @@ And Joseph said unto his brethren, I die: and God will surely visit you, and bri
 Then Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.23|<< Genesis 50:23]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.25|Genesis 50:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 50:24** is...
+> $\quad$ referenced by: [[Heb.11.22|Heb 11:22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

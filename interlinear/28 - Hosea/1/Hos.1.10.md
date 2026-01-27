@@ -5,6 +5,10 @@ Yet the number of the children of Israel shall be as the sand of the sea, which 
 Yet the number of the Israelites will be like the sand of the sea, which cannot be measured or counted. And it will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.9|<< Hosea 1:9]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1.11|Hosea 1:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 1:10** is...
+> $\quad$ referenced by: [[Rom.9.26|Rom 9:26]] ☩ [[Rom.9.27|Rom 9:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

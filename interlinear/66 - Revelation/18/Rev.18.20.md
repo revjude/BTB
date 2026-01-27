@@ -5,6 +5,10 @@ Rejoice over her, [thou] heaven, and [ye] holy apostles and prophets; for God ha
 Rejoice over her, O heaven, and you saints and apostles and prophets, because God has pronounced for you His judgment against her.
 <small><sub>**Literal:**</sub></small>
 do rejoice over her, O heaven and you saints and you apostles and you prophets, because did judge <the> God the judgment for you against her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.19|<< Revelation 18:19]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.21|Revelation 18:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:20** is...
+> $\quad$ alluding to: [[LXX.Isa.44.23|Isa 44:23]] ☩ [[LXX.Jer.51.48|Jer 51:48]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

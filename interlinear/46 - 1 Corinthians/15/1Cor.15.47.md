@@ -5,6 +5,10 @@ The first man [is] of the earth, earthy: the second man [is] the Lord from heave
 The first man was of the dust of the earth, the second man from heaven.
 <small><sub>**Literal:**</sub></small>
 The first man [was] from [the] earth made of dust, the second man [is] the Lord from heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.46|<< 1 Corinthians 15:46]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.48|1 Corinthians 15:48 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 15:47** is...
+> $\quad$ alluding to: [[LXX.Gen.2.7|Gen 2:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

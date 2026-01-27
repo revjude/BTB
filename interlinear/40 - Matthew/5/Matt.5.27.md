@@ -5,6 +5,10 @@ Ye have heard that it was said by them of old time, Thou shalt not commit adulte
 You have heard that it was said, ‘Do not commit adultery.’
 <small><sub>**Literal:**</sub></small>
 You have heard that it was said to the ancients: Not will you commit adultery.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.26|<< Matthew 5:26]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.28|Matthew 5:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 5:27** is...
+> $\quad$ referencing: [[LXX.Exod.20.14|Exod 20:14]] ☩ [[LXX.Deut.5.18|Deut 5:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

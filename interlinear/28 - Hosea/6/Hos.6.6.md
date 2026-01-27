@@ -5,6 +5,10 @@ For I desired mercy, and not sacrifice; and the knowledge of God more than burnt
 For I desire mercy, not sacrifice, and the knowledge of God rather than burnt offerings.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6.5|<< Hosea 6:5]]</td><td align="center" style="border:none;">[[Hos.6|Hosea 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.7|Hosea 6:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hosea 6:6** is...
+> $\quad$ referenced by: [[Matt.12.7|Matt 12:7]] ☩ [[Matt.9.13|Matt 9:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ The hands of the witnesses shall be first upon him to put him to death, and afte
 The hands of the witnesses shall be the first in putting him to death, and after that, the hands of all the people. So you must purge the evil from among you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.6|<< Deuteronomy 17:6]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.8|Deuteronomy 17:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 17:7** is...
+> $\quad$ referenced by: [[1Cor.5.13|1Cor 5:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

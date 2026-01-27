@@ -5,6 +5,10 @@ Saying, I will declare thy name unto my brethren, in the midst of the church wil
 He says: “I will proclaim Your name to My brothers; I will sing Your praises in the assembly.”
 <small><sub>**Literal:**</sub></small>
 saying: I will declare the name of You to the brothers of Mine, in [the] midst of [the] congregation I will sing praises of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.11|<< Hebrews 2:11]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.13|Hebrews 2:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 2:12** is...
+> $\quad$ referencing: [[LXX.Ps.22.22|Ps 22:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

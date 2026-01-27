@@ -5,6 +5,10 @@ Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long a
 just as Sarah obeyed Abraham and called him lord. And you are her children if you do what is right and refuse to give way to fear.
 <small><sub>**Literal:**</sub></small>
 as Sarah obeyed <the> Abraham lord him calling, of whom you have become children doing good and not fearing not one consternation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.5|<< 1 Peter 3:5]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.7|1 Peter 3:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 3:6** is...
+> $\quad$ alluding to: [[LXX.Gen.18.12|Gen 18:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

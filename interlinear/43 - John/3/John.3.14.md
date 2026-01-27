@@ -5,6 +5,10 @@ And as Moses lifted up the serpent in the wilderness, even so must the Son of ma
 Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up,
 <small><sub>**Literal:**</sub></small>
 And even as Moses lifted up the serpent in the wilderness, thus to be lifted up it behooves the Son <the> of Man,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.13|<< John 3:13]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.15|John 3:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 3:14** is...
+> $\quad$ alluding to: [[LXX.Num.21.8|Num 21:8-9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

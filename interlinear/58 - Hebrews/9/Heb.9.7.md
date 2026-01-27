@@ -5,6 +5,10 @@ But into the second [went] the high priest alone once every year, not without bl
 But only the high priest entered the second room, and then only once a year, and never without blood, which he offered for himself and for the sins the people had committed in ignorance.
 <small><sub>**Literal:**</sub></small>
 [Enters] into however the second once in the year only the high priest not without blood which he offers for himself and the of the people sins of ignorance;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.6|<< Hebrews 9:6]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.8|Hebrews 9:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 9:7** is...
+> $\quad$ alluding to: [[LXX.Exod.30.10|Exod 30:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

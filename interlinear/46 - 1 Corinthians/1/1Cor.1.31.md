@@ -5,6 +5,10 @@ That, according as it is written, He that glorieth, let him glory in the Lord.
 Therefore, as it is written: “Let him who boasts boast in the Lord.”
 <small><sub>**Literal:**</sub></small>
 in order that even as it has been written: The [one] boasting in [the] Lord he should boast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.30|<< 1 Corinthians 1:30]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.1|1 Corinthians 2:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 1:31** is...
+> $\quad$ referencing: [[LXX.Jer.9.23|Jer 9:23-24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

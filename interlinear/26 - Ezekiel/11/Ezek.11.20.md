@@ -5,6 +5,10 @@ That they may walk in my statutes, and keep mine ordinances, and do them: and th
 so that they may follow My statutes, keep My ordinances, and practice them. Then they will be My people, and I will be their God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.19|<< Ezekiel 11:19]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.21|Ezekiel 11:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 11:20** is...
+> $\quad$ referenced by: [[Rev.21.7|Rev 21:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

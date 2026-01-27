@@ -5,6 +5,11 @@ But in those days, after that tribulation, the sun shall be darkened, and the mo
 But in those days, after that tribulation: ‘The sun will be darkened, and the moon will not give its light;
 <small><sub>**Literal:**</sub></small>
 But in those <the> days after the tribulation those The sun will be darkened, and the moon not will give the light of it,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.23|<< Mark 13:23]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.25|Mark 13:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 13:24** is...
+> $\quad$ referencing: [[LXX.Isa.13.9|Isa 13:9-10]] ☩ [[LXX.Isa.34.4|Isa 34:4]]
+> $\quad$ alluding to: [[LXX.Joel.3.15|Joel 3:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

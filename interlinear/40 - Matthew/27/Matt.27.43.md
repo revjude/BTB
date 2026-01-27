@@ -5,6 +5,10 @@ He trusted in God; let him deliver him now, if he will have him: for he said, I 
 He trusts in God. Let God deliver Him now if He wants Him. For He said, ‘I am the Son of God.’”
 <small><sub>**Literal:**</sub></small>
 He has trusted on <the> God; he should deliver now him if He wants Him; He said for that Of God I am [the] Son.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.42|<< Matthew 27:42]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.44|Matthew 27:44 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 27:43** is...
+> $\quad$ alluding to: [[LXX.Ps.22.7|Ps 22:7-9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

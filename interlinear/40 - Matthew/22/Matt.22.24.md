@@ -5,6 +5,11 @@ Saying, Master, Moses said, If a man die, having no children, his brother shall 
 “Teacher,” they said, “Moses declared that if a man dies without having children, his brother is to marry the widow and raise up offspring for him.
 <small><sub>**Literal:**</sub></small>
 saying; Teacher, Moses said; If anyone shall die not having children, will marry the brother of him the wife of him and he will raise up offspring for the brother of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.23|<< Matthew 22:23]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.25|Matthew 22:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 22:24** is...
+> $\quad$ referencing: [[LXX.Gen.38.8|Gen 38:8]]
+> $\quad$ alluding to: [[LXX.Deut.25.5|Deut 25:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

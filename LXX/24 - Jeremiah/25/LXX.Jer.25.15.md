@@ -9,6 +9,10 @@ For thus saith the LORD God of Israel unto me; Take the wine cup of this fury at
 <small><sub>**BSB:**</sub></small>
 This is what the LORD, the God of Israel, said to me: “Take from My hand this cup of the wine of wrath, and make all the nations to whom I send you drink from it.<small><sub>**MT:**</sub></small>
 [[Jer.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.14|<< Jeremiah 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.16|Jeremiah 25:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 25:15** is...
+> $\quad$ referenced by: [[Rev.14.10|Rev 14:10]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

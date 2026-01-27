@@ -6,6 +6,10 @@ And God said, Let us make man in our image, after our likeness: and let them hav
 <small><sub>**BSB:**</sub></small>
 Then God said, “Let Us make man in Our image, after Our likeness, to rule over the fish of the sea and the birds of the air, over the livestock, and over all the earth itself and every creature that crawls upon it.”<small><sub>**MT:**</sub></small>
 [[Gen.1.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.25|<< Genesis 1:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.27|Genesis 1:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 1:26** is...
+> $\quad$ referenced by: [[Rom.1.23|Rom 1:23]] ☩ [[1Cor.11.7|1Cor 11:7]] ☩ [[1Cor.15.49|1Cor 15:49]] ☩ [[2Cor.3.18|2Cor 3:18]] ☩ [[2Cor.4.4|2Cor 4:4]] ☩ [[Col.3.10|Col 3:10]] ☩ [[Jas.3.9|Jas 3:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

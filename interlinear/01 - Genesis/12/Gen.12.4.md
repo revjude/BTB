@@ -5,6 +5,10 @@ So Abram departed, as the LORD had spoken unto him; and Lot went with him: and A
 So Abram departed, as the LORD had directed him, and Lot went with him. Abram was seventy-five years old when he left Haran.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.3|<< Genesis 12:3]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.5|Genesis 12:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 12:4** is...
+> $\quad$ referenced by: [[Acts.7.4|Acts 7:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

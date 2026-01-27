@@ -5,6 +5,10 @@ And he that sat was to look upon like a jasper and a sardine stone: and [there w
 The One seated there looked like jasper and carnelian, and a rainbow that gleamed like an emerald encircled the throne.
 <small><sub>**Literal:**</sub></small>
 and the [One] sitting was like in appearance stone jasper and sardius And a rainbow [was] around the throne like in appearance an emerald.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.2|<< Revelation 4:2]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.4|Revelation 4:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 4:3** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.1.26|Ezek 1:26]][[LXX.Ezek.1.28|, 28]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

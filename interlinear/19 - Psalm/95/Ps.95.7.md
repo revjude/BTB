@@ -5,6 +5,10 @@ For he [is] our God; and we [are] the people of his pasture, and the sheep of hi
 For He is our God, and we are the people of His pasture, the sheep under His care. Today, if you hear His voice,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.6|<< Psalms 95:6]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.8|Psalms 95:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 95:7** is...
+> $\quad$ referenced by: [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]] ☩ [[Heb.4.7|Heb 4:7]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

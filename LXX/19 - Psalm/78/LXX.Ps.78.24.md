@@ -6,6 +6,10 @@ And had rained down manna upon them to eat, and had given them of the corn of he
 <small><sub>**BSB:**</sub></small>
 He rained down manna for them to eat; He gave them grain from heaven.<small><sub>**MT:**</sub></small>
 [[Ps.78.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.23|<< Psalm 78:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.25|Psalm 78:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 78:24** is...
+> $\quad$ referenced by: [[John.6.31|John 6:31]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ For as yet they knew not the scripture, that he must rise again from the dead.
 For they still did not understand from the Scripture that Jesus had to rise from the dead.
 <small><sub>**Literal:**</sub></small>
 not yet for they knew the Scripture that it is necessary for Him out from [the] dead to rise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.8|<< John 20:8]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.10|John 20:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 20:9** is...
+> $\quad$ alluding to: [[LXX.Ps.16.10|Ps 16:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

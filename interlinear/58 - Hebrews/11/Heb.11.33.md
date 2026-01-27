@@ -5,6 +5,10 @@ Who through faith subdued kingdoms, wrought righteousness, obtained promises, st
 who through faith conquered kingdoms, administered justice, and gained what was promised; who shut the mouths of lions,
 <small><sub>**Literal:**</sub></small>
 who through faith conquered kingdoms, administered justice, obtained promises, shut [the] mouths of lions,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.32|<< Hebrews 11:32]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.34|Hebrews 11:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 11:33** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.6.22|Dan 6:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

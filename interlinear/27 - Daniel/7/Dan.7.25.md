@@ -5,6 +5,10 @@ And he shall speak [great] words against the most High, and shall wear out the s
 He will speak out against the Most High and oppress the saints of the Most High, intending to change the appointed times and laws; and the saints will be given into his hand for a time, and times, and half a time.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.24|<< Daniel 7:24]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.26|Daniel 7:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 7:25** is...
+> $\quad$ referenced by: [[Rev.11.2|Rev 11:2]] ☩ [[Rev.12.14|Rev 12:14]] ☩ [[Rev.12.6|Rev 12:6]] ☩ [[Rev.13.5|Rev 13:5-6]] ☩ [[Rev.17.3|Rev 17:3]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

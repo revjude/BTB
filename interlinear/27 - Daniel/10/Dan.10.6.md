@@ -5,6 +5,10 @@ His body also [was] like the beryl, and his face as the appearance of lightning,
 His body was like beryl, his face like the brilliance of lightning, his eyes like flaming torches, his arms and legs like the gleam of polished bronze, and his voice like the sound of a multitude.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.5|<< Daniel 10:5]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.7|Daniel 10:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 10:6** is...
+> $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]] ☩ [[Rev.19.12|Rev 19:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And Elijah answered and said unto them, If I [be] a man of God, let fire come do
 Again Elijah replied, “If I am a man of God, may fire come down from heaven and consume you and your fifty men.” And the fire of God came down from heaven and consumed the captain and his fifty men.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.11|<< 2 Kings 1:11]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.13|2 Kings 1:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Kings 1:12** is...
+> $\quad$ referenced by: [[Luke.9.54|Luke 9:54]] ☩ [[Rev.11.5|Rev 11:5]] ☩ [[Rev.20.9|Rev 20:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

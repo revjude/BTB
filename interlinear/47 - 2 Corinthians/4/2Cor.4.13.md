@@ -5,6 +5,10 @@ We having the same spirit of faith, according as it is written, I believed, and 
 And in keeping with what is written, “I believed, therefore I have spoken,” we who have the same spirit of faith also believe and therefore speak,
 <small><sub>**Literal:**</sub></small>
 Having however the same spirit <the> of faith according to that written: I believed, therefore I have spoken, also we ourselves believe, therefore also speak;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.12|<< 2 Corinthians 4:12]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.14|2 Corinthians 4:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 4:13** is...
+> $\quad$ referencing: [[LXX.Ps.116.10|Ps 116:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

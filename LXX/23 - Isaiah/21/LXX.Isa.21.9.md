@@ -9,6 +9,10 @@ And, behold, here cometh a chariot of men, [with] a couple of horsemen. And he a
 <small><sub>**BSB:**</sub></small>
 Look, here come the riders, horsemen in pairs.” And one answered, saying: “Fallen, fallen is Babylon! All the images of her gods lie shattered on the ground!”<small><sub>**MT:**</sub></small>
 [[Isa.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.8|<< Isaiah 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.10|Isaiah 21:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 21:9** is...
+> $\quad$ referenced by: [[Rev.14.8|Rev 14:8]] ☩ [[Rev.18.2|Rev 18:2]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

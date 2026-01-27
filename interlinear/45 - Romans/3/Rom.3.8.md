@@ -5,6 +5,10 @@ And not [rather], (as we be slanderously reported, and as some affirm that we sa
 Why not say, as some slanderously claim that we say, “Let us do evil that good may result”? Their condemnation is deserved!
 <small><sub>**Literal:**</sub></small>
 And surely even as we are denigrated and even as affirm some [that] we to say that Let us do the [things] evil that may come the good things? Their <the> condemnation just is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.7|<< Romans 3:7]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.9|Romans 3:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 3:8** is...
+> $\quad$ alluding to: [[LXX.Jer.17.6|Jer 17:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

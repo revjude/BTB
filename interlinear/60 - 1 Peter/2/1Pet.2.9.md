@@ -5,6 +5,12 @@ But ye [are] a chosen generation, a royal priesthood, an holy nation, a peculiar
 But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light.
 <small><sub>**Literal:**</sub></small>
 You yourselves however [are] a race chosen, a royal priesthood, a nation holy, a people for [His] possession, so that the excellencies you may proclaim of the [One] out of darkness you having called to the marvelous of Him light;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.8|<< 1 Peter 2:8]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.10|1 Peter 2:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 2:9** is...
+> $\quad$ referencing: [[LXX.Exod.19.6|Exod 19:6]] ☩ [[LXX.Exod.19.5|Exod 19:5-6]] ☩ [[LXX.Isa.43.20|Isa 43:20-21]] ☩ [[LXX.Mal.3.17|Mal 3:17]]
+> $\quad$ possibly alluding to: [[LXX.Exod.23.22|Exod 23:22]]
+> $\quad$ alluding to: [[LXX.Deut.10.15|Deut 10:15]] ☩ [[LXX.Isa.43.20|Isa 43:20-21]] ☩ [[LXX.Isa.42.12|Isa 42:12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

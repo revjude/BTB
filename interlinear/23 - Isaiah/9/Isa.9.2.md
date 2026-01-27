@@ -5,6 +5,10 @@ The people that walked in darkness have seen a great light: they that dwell in t
 The people walking in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.1|<< Isaiah 9:1]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.3|Isaiah 9:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 9:2** is...
+> $\quad$ referenced by: [[Matt.4.15|Matt 4:15-16]] ☩ [[Luke.1.79|Luke 1:79]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

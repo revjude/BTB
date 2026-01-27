@@ -6,6 +6,10 @@ O taste and see that the LORD [is] good: blessed [is] the man [that] trusteth in
 <small><sub>**BSB:**</sub></small>
 Taste and see that the LORD is good; blessed is the man who takes refuge in Him!<small><sub>**MT:**</sub></small>
 [[Ps.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.7|<< Psalm 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.9|Psalm 34:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 34:8** is...
+> $\quad$ referenced by: [[1Pet.2.3|1Pet 2:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

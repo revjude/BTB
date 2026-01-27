@@ -5,6 +5,10 @@ But woe unto you that are rich! for ye have received your consolation.
 But woe to you who are rich, for you have already received your comfort.
 <small><sub>**Literal:**</sub></small>
 But woe to you who are rich, for you are receiving the comfort of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.23|<< Luke 6:23]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.25|Luke 6:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 6:24** is...
+> $\quad$ alluding to: [[LXX.Amos.6.1|Amos 6:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Shout against her round about: she hath given her hand: her foundations are fall
 Raise a war cry against her on every side! She has thrown up her hands in surrender; her towers have fallen; her walls are torn down. Since this is the vengeance of the LORD, take out your vengeance upon her; as she has done, do the same to her.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.14|<< Jeremiah 50:14]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.16|Jeremiah 50:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 50:15** is...
+> $\quad$ referenced by: [[Rev.18.6|Rev 18:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

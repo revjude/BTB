@@ -5,6 +5,10 @@ But thou, Bethlehem Ephratah, [though] thou be little among the thousands of Jud
 But you, Bethlehem Ephrathah, who are small among the clans of Judah, out of you will come forth for Me One to be ruler over Israel—One whose origins are of old, from the days of eternity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.1|<< Micah 5:1]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.3|Micah 5:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Micah 5:2** is...
+> $\quad$ referenced by: [[Matt.2.6|Matt 2:6]] ☩ [[John.7.42|John 7:42]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

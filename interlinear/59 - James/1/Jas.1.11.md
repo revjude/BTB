@@ -5,6 +5,10 @@ For the sun is no sooner risen with a burning heat, but it withereth the grass, 
 For the sun rises with scorching heat and withers the plant; its flower falls and its beauty is lost. So too, the rich man will fade away in the midst of his pursuits.
 <small><sub>**Literal:**</sub></small>
 Has risen for the sun with [its] burning heat and withered the grass and the flower of it has fallen and the beauty of the appearance of it has perished; Thus also the rich [man] in the midst of the pursuits of him will fade away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.10|<< James 1:10]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.12|James 1:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 1:11** is...
+> $\quad$ alluding to: [[LXX.Isa.40.6|Isa 40:6-7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

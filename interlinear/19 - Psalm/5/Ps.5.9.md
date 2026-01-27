@@ -5,6 +5,10 @@ For [there is] no faithfulness in their mouth; their inward part [is] very wicke
 For not a word they speak can be trusted; destruction lies within them. Their throats are open graves; their tongues practice deceit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.8|<< Psalms 5:8]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.10|Psalms 5:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 5:9** is...
+> $\quad$ referenced by: [[Rom.3.13|Rom 3:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

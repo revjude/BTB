@@ -5,6 +5,10 @@ And said, For this cause shall a man leave father and mother, and shall cleave t
 and said, ‘For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh’?
 <small><sub>**Literal:**</sub></small>
 and said; On account of this will leave a man the father and the mother and will be joined with the wife of him, and will become the two into flesh one’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.4|<< Matthew 19:4]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.6|Matthew 19:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 19:5** is...
+> $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

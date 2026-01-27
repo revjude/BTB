@@ -5,6 +5,10 @@ From the blood of Abel unto the blood of Zacharias, which perished between the a
 from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, all of it will be charged to this generation.
 <small><sub>**Literal:**</sub></small>
 from the blood of Abel until the blood of Zechariah the [one] having perished between the altar and the house. Yes I say to you, it will be required of <the> generation this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.50|<< Luke 11:50]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.52|Luke 11:52 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 11:51** is...
+> $\quad$ alluding to: [[LXX.Gen.4.8|Gen 4:8]] ☩ [[LXX.2Chr.24.21|2Chr 24:21-22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

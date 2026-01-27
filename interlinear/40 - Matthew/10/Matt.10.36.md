@@ -5,6 +5,10 @@ And a man’s foes [shall be] they of his own household.
 A man’s enemies will be the members of his own household.’
 <small><sub>**Literal:**</sub></small>
 And enemies of the man the household of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.35|<< Matthew 10:35]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.37|Matthew 10:37 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 10:36** is...
+> $\quad$ referencing: [[LXX.Mic.7.6|Mic 7:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

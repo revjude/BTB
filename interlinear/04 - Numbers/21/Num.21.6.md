@@ -5,6 +5,10 @@ And the LORD sent fiery serpents among the people, and they bit the people; and 
 So the LORD sent venomous snakes among the people, and many of the Israelites were bitten and died.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.5|<< Numbers 21:5]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.7|Numbers 21:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 21:6** is...
+> $\quad$ referenced by: [[1Cor.10.9|1Cor 10:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

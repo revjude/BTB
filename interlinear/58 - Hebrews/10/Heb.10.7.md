@@ -5,6 +5,10 @@ Then said I, Lo, I come (in the volume of the book it is written of me,) to do t
 Then I said, ‘Here I am, it is written about Me in the scroll: I have come to do Your will, O God.’”
 <small><sub>**Literal:**</sub></small>
 Then I said; Behold I have come — in [the] scroll of [the] book it has been written of Me — <the> to do, O God, the will of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.6|<< Hebrews 10:6]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.8|Hebrews 10:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:7** is...
+> $\quad$ referencing: [[LXX.Ps.40.6|Ps 40:6-8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

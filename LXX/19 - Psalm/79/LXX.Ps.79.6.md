@@ -6,6 +6,10 @@ Pour out thy wrath upon the heathen that have not known thee, and upon the kingd
 <small><sub>**BSB:**</sub></small>
 Pour out Your wrath on the nations that do not acknowledge You, on the kingdoms that refuse to call on Your name,<small><sub>**MT:**</sub></small>
 [[Ps.79.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.5|<< Psalm 79:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.7|Psalm 79:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 79:6** is...
+> $\quad$ referenced by: [[2Thess.1.8|2Thess 1:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

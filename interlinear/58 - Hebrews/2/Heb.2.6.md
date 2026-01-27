@@ -5,6 +5,10 @@ But one in a certain place testified, saying, What is man, that thou art mindful
 But somewhere it is testified in these words: “What is man that You are mindful of him, or the son of man that You care for him?
 <small><sub>**Literal:**</sub></small>
 Has testified however somewhere someone saying; What is man that You are mindful of him or [the] son of man that You care for him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.5|<< Hebrews 2:5]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.7|Hebrews 2:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 2:6** is...
+> $\quad$ referencing: [[LXX.Ps.8.4|Ps 8:4-6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

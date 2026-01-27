@@ -6,6 +6,10 @@ Their line is gone out through all the earth, and their words to the end of the 
 <small><sub>**BSB:**</sub></small>
 their voice has gone out into all the earth, their words to the ends of the world. In the heavens He has pitched a tent for the sun.<small><sub>**MT:**</sub></small>
 [[Ps.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.3|<< Psalm 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.5|Psalm 19:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 19:4** is...
+> $\quad$ referenced by: [[Rom.10.18|Rom 10:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

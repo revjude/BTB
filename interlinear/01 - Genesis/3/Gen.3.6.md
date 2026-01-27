@@ -5,6 +5,10 @@ And when the woman saw that the tree [was] good for food, and that it [was] plea
 When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.5|<< Genesis 3:5]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.7|Genesis 3:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 3:6** is...
+> $\quad$ referenced by: [[1Tim.2.14|1Tim 2:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

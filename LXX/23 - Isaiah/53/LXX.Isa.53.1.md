@@ -9,6 +9,10 @@ Who hath believed our report? and to whom is the arm of the LORD revealed?
 <small><sub>**BSB:**</sub></small>
 Who has believed our message? And to whom has the arm of the LORD been revealed?<small><sub>**MT:**</sub></small>
 [[Isa.53.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.15|<< Isaiah 52:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.2|Isaiah 53:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 53:1** is...
+> $\quad$ referenced by: [[John.12.38|John 12:38]] ☩ [[Rom.10.16|Rom 10:16]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

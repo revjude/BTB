@@ -5,6 +5,10 @@ That at the name of Jesus every knee should bow, of [things] in heaven, and [thi
 that at the name of Jesus every knee should bow, in heaven and on earth and under the earth,
 <small><sub>**Literal:**</sub></small>
 that at the name of Jesus every knee may bow in the heavens and on earth and under the earth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.9|<< Philippians 2:9]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.11|Philippians 2:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Philippians 2:10** is...
+> $\quad$ alluding to: [[LXX.Isa.45.23|Isa 45:23]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

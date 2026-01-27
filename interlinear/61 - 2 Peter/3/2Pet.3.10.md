@@ -5,6 +5,10 @@ But the day of the Lord will come as a thief in the night; in the which the heav
 But the Day of the Lord will come like a thief. The heavens will disappear with a roar, the elements will be destroyed by fire, and the earth and its works will be laid bare.
 <small><sub>**Literal:**</sub></small>
 Will come however the day of [the] Lord like a thief in [the] night in which the heavens with a roar will pass away, elements then burning with heat it will be dissolved, and [the] earth and the in it works not will be exposed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.9|<< 2 Peter 3:9]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.11|2 Peter 3:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Peter 3:10** is...
+> $\quad$ possibly alluding to: [[LXX.Ps.102.26|Ps 102:26-27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Call together the archers against Babylon: all ye that bend the bow, camp agains
 Summon the archers against Babylon, all who string the bow. Encamp all around her; let no one escape. Repay her according to her deeds; do to her as she has done. For she has defied the LORD, the Holy One of Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.28|<< Jeremiah 50:28]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.30|Jeremiah 50:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 50:29** is...
+> $\quad$ referenced by: [[Rev.18.6|Rev 18:6]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

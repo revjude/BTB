@@ -5,6 +5,10 @@ So he came near where I stood: and when he came, I was afraid, and fell upon my 
 As he came near to where I stood, I was terrified and fell facedown. “Son of man,” he said to me, “understand that the vision concerns the time of the end.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.16|<< Daniel 8:16]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.18|Daniel 8:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 8:17** is...
+> $\quad$ referenced by: [[Rev.1.17|Rev 1:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ But I say, Have they not heard? Yes verily, their sound went into all the earth,
 But I ask, did they not hear? Indeed they did: “Their voice has gone out into all the earth, their words to the ends of the world.”
 <small><sub>**Literal:**</sub></small>
 But I ask; certainly surely did they hear? Indeed Into all the earth has gone out the voice of them and to the ends of the world the declarations of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.17|<< Romans 10:17]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.19|Romans 10:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:18** is...
+> $\quad$ referencing: [[LXX.Ps.19.4|Ps 19:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And all the children of Israel murmured against Moses and against Aaron: and the
 All the Israelites grumbled against Moses and Aaron, and the whole congregation said to them, “If only we had died in the land of Egypt, or if only we had died in this wilderness!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.1|<< Numbers 14:1]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.3|Numbers 14:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 14:2** is...
+> $\quad$ referenced by: [[1Cor.10.10|1Cor 10:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

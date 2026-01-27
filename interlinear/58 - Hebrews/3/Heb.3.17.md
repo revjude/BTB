@@ -5,6 +5,10 @@ But with whom was he grieved forty years? [was it] not with them that had sinned
 And with whom was God angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?
 <small><sub>**Literal:**</sub></small>
 With whom now was He indignant forty years? Surely with those having sinned whose <the> bodies fell in the wilderness?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.16|<< Hebrews 3:16]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.18|Hebrews 3:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 3:17** is...
+> $\quad$ possibly alluding to: [[LXX.Num.14.35|Num 14:35-36]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

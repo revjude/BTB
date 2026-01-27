@@ -5,6 +5,10 @@
 (as it is written in the Law of the Lord: “Every firstborn male shall be consecrated to the Lord”),
 <small><sub>**Literal:**</sub></small>
 even as it has been written in [the] law of [the] Lord that Every male opening a womb holy to the Lord will be called;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.22|<< Luke 2:22]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.24|Luke 2:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 2:23** is...
+> $\quad$ referencing: [[LXX.Exod.13.2|Exod 13:2]] ☩ [[LXX.Exod.13.12|Exod 13:12]] ☩ [[LXX.Exod.13.15|Exod 13:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

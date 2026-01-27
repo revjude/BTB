@@ -5,6 +5,10 @@ Arise, get thee to Zarephath, which [belongeth] to Zidon, and dwell there: behol
 “Get up and go to Zarephath of Sidon, and stay there. Behold, I have commanded a widow there to provide for you.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.8|<< 1 Kings 17:8]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.10|1 Kings 17:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 17:9** is...
+> $\quad$ referenced by: [[Luke.4.25|Luke 4:25-26]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

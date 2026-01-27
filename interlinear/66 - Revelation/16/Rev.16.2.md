@@ -5,6 +5,10 @@ And the first went, and poured out his vial upon the earth; and there fell a noi
 So the first angel went and poured out his bowl on the earth, and loathsome, malignant sores broke out on those who had the mark of the beast and worshiped its image.
 <small><sub>**Literal:**</sub></small>
 And departed the first and poured out the bowl of him into the earth, and came a sore harm and grievous upon the men those having the mark of the beast and those worshiping the image of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.1|<< Revelation 16:1]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.3|Revelation 16:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 16:2** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.9.10|Exod 9:10]] ☩ [[LXX.Ezek.10.2|Ezek 10:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

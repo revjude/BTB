@@ -6,6 +6,10 @@ For the LORD your God [is] God of gods, and Lord of lords, a great God, a mighty
 <small><sub>**BSB:**</sub></small>
 For the LORD your God is God of gods and Lord of lords, the great, mighty, and awesome God, showing no partiality and accepting no bribe.<small><sub>**MT:**</sub></small>
 [[Deut.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.16|<< Deuteronomy 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.18|Deuteronomy 10:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 10:17** is...
+> $\quad$ referenced by: [[Acts.10.34|Acts 10:34]] ☩ [[Rom.2.11|Rom 2:11]] ☩ [[Gal.2.6|Gal 2:6]] ☩ [[Eph.6.9|Eph 6:9]] ☩ [[Col.3.25|Col 3:25]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

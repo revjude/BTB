@@ -6,6 +6,10 @@ They part my garments among them, and cast lots upon my vesture.
 <small><sub>**BSB:**</sub></small>
 They divide my garments among them and cast lots for my clothing.<small><sub>**MT:**</sub></small>
 [[Ps.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.17|<< Psalm 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.19|Psalm 22:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 22:18** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.35|Matt 27:35]] ☩ [[Mark.15.24|Mark 15:24]] ☩ [[Luke.23.34|Luke 23:34]] ☩ [[John.19.24|John 19:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

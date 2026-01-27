@@ -5,6 +5,10 @@ A Psalm of David. LORD, I cry unto thee: make haste unto me; give ear unto my vo
 A Psalm of David. I call upon You, O LORD; come quickly to me. Hear my voice when I call to You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.0|<< Psalms 141:0]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.2|Psalms 141:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 141:1** is...
+> $\quad$ referenced by: [[Phil.4.5|Phil 4:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

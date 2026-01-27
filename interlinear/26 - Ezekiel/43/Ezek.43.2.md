@@ -5,6 +5,10 @@ And, behold, the glory of the God of Israel came from the way of the east: and h
 and I saw the glory of the God of Israel coming from the east. His voice was like the roar of many waters, and the earth shone with His glory.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.1|<< Ezekiel 43:1]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.3|Ezekiel 43:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 43:2** is...
+> $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

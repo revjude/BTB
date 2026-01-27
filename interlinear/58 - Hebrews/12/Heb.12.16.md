@@ -5,6 +5,10 @@ Lest there [be] any fornicator, or profane person, as Esau, who for one morsel o
 See to it that no one is sexually immoral, or is godless like Esau, who for a single meal sold his birthright.
 <small><sub>**Literal:**</sub></small>
 lest [there be] any fornicator or profane person as Esau, who for meal one sold the birthright of himself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.15|<< Hebrews 12:15]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.17|Hebrews 12:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:16** is...
+> $\quad$ alluding to: [[LXX.Gen.25.31|Gen 25:31]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

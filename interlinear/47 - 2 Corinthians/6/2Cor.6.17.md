@@ -5,6 +5,11 @@ Wherefore come out from among them, and be ye separate, saith the Lord, and touc
 “Therefore come out from among them and be separate, says the Lord. Touch no unclean thing, and I will receive you.”
 <small><sub>**Literal:**</sub></small>
 Therefore do come out from [the] midst of them and do be separate, says [the] Lord, and unclean nothing do touch; and I myself will receive you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.16|<< 2 Corinthians 6:16]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.18|2 Corinthians 6:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 6:17** is...
+> $\quad$ referencing: [[LXX.Jer.51.45|Jer 51:45]] ☩ [[LXX.Isa.52.11|Isa 52:11-12]] ☩ [[LXX.Jer.31.9|Jer 31:9]]
+> $\quad$ alluding to: [[LXX.Ezek.20.34|Ezek 20:34]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

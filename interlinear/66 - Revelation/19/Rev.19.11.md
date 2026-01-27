@@ -5,6 +5,10 @@ And I saw heaven opened, and behold a white horse; and he that sat upon him [was
 Then I saw heaven standing open, and there before me was a white horse. And its rider is called Faithful and True. With righteousness He judges and wages war.
 <small><sub>**Literal:**</sub></small>
 And I saw <the> heaven opened and behold a horse white and the [One] sitting upon it being called Faithful and True, and in righteousness He judges and makes war;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.10|<< Revelation 19:10]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.12|Revelation 19:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:11** is...
+> $\quad$ possibly alluding to: [[LXX.Ps.72.2|Ps 72:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

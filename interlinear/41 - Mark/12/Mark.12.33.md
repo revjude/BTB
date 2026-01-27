@@ -5,6 +5,11 @@ And to love him with all the heart, and with all the understanding, and with all
 and to love Him with all your heart and with all your understanding and with all your strength, and to love your neighbor as yourself. This is more important than all burnt offerings and sacrifices.”
 <small><sub>**Literal:**</sub></small>
 and <the> to love Him with all the heart and with all the understanding and from all <the> soul and with all the strength and <the> to love the neighbour as oneself more excessive is than all the burnt offerings and <the> sacrifices.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.32|<< Mark 12:32]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.34|Mark 12:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 12:33** is...
+> $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]] ☩ [[LXX.Deut.6.5|Deut 6:5]] ☩ [[LXX.Josh.22.5|Josh 22:5]]
+> $\quad$ alluding to: [[LXX.1Sam.15.22|1Sam 15:22]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

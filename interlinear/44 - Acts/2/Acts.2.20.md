@@ -5,6 +5,10 @@ The sun shall be turned into darkness, and the moon into blood, before that grea
 The sun will be turned to darkness, and the moon to blood, before the coming of the great and glorious Day of the Lord.
 <small><sub>**Literal:**</sub></small>
 The sun will be turned into darkness and the moon into blood, before than coming the day of [the] Lord <the> great and glorious.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.19|<< Acts 2:19]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.21|Acts 2:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 2:20** is...
+> $\quad$ referencing: [[LXX.Joel.2.28|Joel 2:28-32]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Recompense to no man evil for evil. Provide things honest in the sight of all me
 Do not repay anyone evil for evil. Carefully consider what is right in the eyes of everybody.
 <small><sub>**Literal:**</sub></small>
 To no one evil for evil repaying, providing right before all men;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.16|<< Romans 12:16]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.18|Romans 12:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 12:17** is...
+> $\quad$ referencing: [[LXX.Prov.3.4|Prov 3:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ We would have healed Babylon, but she is not healed: forsake her, and let us go 
 “We tried to heal Babylon, but she could not be healed. Abandon her! Let each of us go to his own land, for her judgment extends to the sky and reaches to the clouds.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.8|<< Jeremiah 51:8]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.10|Jeremiah 51:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 51:9** is...
+> $\quad$ referenced by: [[Rev.18.4|Rev 18:4]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

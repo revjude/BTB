@@ -6,6 +6,10 @@ For the LORD had said of them, They shall surely die in the wilderness. And ther
 <small><sub>**BSB:**</sub></small>
 For the LORD had told them that they would surely die in the wilderness. Not one was left except Caleb son of Jephunneh and Joshua son of Nun.<small><sub>**MT:**</sub></small>
 [[Num.26.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.64|<< Numbers 26:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.1|Numbers 27:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 26:65** is...
+> $\quad$ referenced by: [[1Cor.10.3|1Cor 10:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

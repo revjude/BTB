@@ -5,6 +5,10 @@ Because the LORD was not able to bring this people into the land which he sware 
 ‘Because the LORD was unable to bring this people into the land He swore to give them, He has slaughtered them in the wilderness.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.15|<< Numbers 14:15]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.17|Numbers 14:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 14:16** is...
+> $\quad$ referenced by: [[1Cor.10.5|1Cor 10:5]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

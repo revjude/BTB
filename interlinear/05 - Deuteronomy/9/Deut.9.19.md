@@ -5,6 +5,10 @@ For I was afraid of the anger and hot displeasure, wherewith the LORD was wroth 
 For I was afraid of the anger and wrath that the LORD had directed against you, enough to destroy you. But the LORD listened to me this time as well.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.18|<< Deuteronomy 9:18]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.20|Deuteronomy 9:20 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 9:19** is...
+> $\quad$ referenced by: [[Heb.12.21|Heb 12:21]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

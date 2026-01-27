@@ -5,6 +5,10 @@ And then shall they see the Son of man coming in a cloud with power and great gl
 At that time they will see the Son of Man coming in a cloud with power and great glory.
 <small><sub>**Literal:**</sub></small>
 And then will they behold the Son <the> of Man coming in a cloud with power and glory great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.26|<< Luke 21:26]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.28|Luke 21:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 21:27** is...
+> $\quad$ referencing: [[LXX.Dan.7.13|Dan 7:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ Who hath taken this counsel against Tyre, the crowning [city], whose merchants [
 <small><sub>**BSB:**</sub></small>
 Who planned this against Tyre, the bestower of crowns, whose traders are princes, whose merchants are renowned on the earth?<small><sub>**MT:**</sub></small>
 [[Isa.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.7|<< Isaiah 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.9|Isaiah 23:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 23:8** is...
+> $\quad$ referenced by: [[Rev.18.11|Rev 18:11]] ☩ [[Rev.18.23|Rev 18:23]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

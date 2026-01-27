@@ -5,6 +5,10 @@ For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to t
 For as Jonah was a sign to the Ninevites, so the Son of Man will be a sign to this generation.
 <small><sub>**Literal:**</sub></small>
 Even as for was <the> Jonah to the Ninevites a sign thus will be also the Son <the> of Man to the generation this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.29|<< Luke 11:29]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.31|Luke 11:31 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 11:30** is...
+> $\quad$ alluding to: [[LXX.Jonah.1.17|Jonah 1:17]] ☩ [[LXX.Jonah.3.1|Jonah 3:1-10]] ☩ [[LXX.Jonah.4.1|Jonah 4:1-11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

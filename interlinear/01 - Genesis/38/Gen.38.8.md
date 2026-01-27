@@ -5,6 +5,10 @@ And Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and ra
 Then Judah said to Onan, “Sleep with your brother’s wife. Perform your duty as her brother-in-law and raise up offspring for your brother.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.7|<< Genesis 38:7]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.9|Genesis 38:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 38:8** is...
+> $\quad$ referenced by: [[Matt.22.24|Matt 22:24]] ☩ [[Mark.12.19|Mark 12:19]] ☩ [[Luke.20.28|Luke 20:28]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

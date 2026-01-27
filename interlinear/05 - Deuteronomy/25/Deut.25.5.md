@@ -5,6 +5,10 @@ If brethren dwell together, and one of them die, and have no child, the wife of 
 When brothers dwell together and one of them dies without a son, the widow must not marry outside the family. Her husband’s brother is to take her as his wife and fulfill the duty of a brother-in-law for her.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.4|<< Deuteronomy 25:4]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.6|Deuteronomy 25:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 25:5** is...
+> $\quad$ referenced by: [[Matt.22.24|Matt 22:24]] ☩ [[Mark.12.19|Mark 12:19]] ☩ [[Luke.20.28|Luke 20:28]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

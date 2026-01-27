@@ -6,6 +6,10 @@ Thou shalt fear the LORD thy God; him shalt thou serve, and to him shalt thou cl
 <small><sub>**BSB:**</sub></small>
 You are to fear the LORD your God and serve Him. Hold fast to Him and take your oaths in His name.<small><sub>**MT:**</sub></small>
 [[Deut.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.19|<< Deuteronomy 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.21|Deuteronomy 10:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 10:20** is...
+> $\quad$ referenced by: [[Matt.4.10|Matt 4:10]] ☩ [[Luke.4.8|Luke 4:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

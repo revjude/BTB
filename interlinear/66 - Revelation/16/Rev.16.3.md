@@ -5,6 +5,10 @@ And the second angel poured out his vial upon the sea; and it became as the bloo
 And the second angel poured out his bowl into the sea, and it turned to blood like that of the dead, and every living thing in the sea died.
 <small><sub>**Literal:**</sub></small>
 And the second angel poured out the bowl of him into the sea, and it became blood as of [one] dead, and every soul living died that was in the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.2|<< Revelation 16:2]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.4|Revelation 16:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 16:3** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.7.19|Exod 7:19-20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

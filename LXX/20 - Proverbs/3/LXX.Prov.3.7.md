@@ -6,6 +6,10 @@ Be not wise in thine own eyes: fear the LORD, and depart from evil.
 <small><sub>**BSB:**</sub></small>
 Be not wise in your own eyes; fear the LORD and turn away from evil.<small><sub>**MT:**</sub></small>
 [[Prov.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.6|<< Proverbs 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.8|Proverbs 3:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 3:7** is...
+> $\quad$ referenced by: [[Rom.12.16|Rom 12:16]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

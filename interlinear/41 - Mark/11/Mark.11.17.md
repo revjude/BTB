@@ -5,6 +5,10 @@ And he taught, saying unto them, Is it not written, My house shall be called of 
 Then Jesus began to teach them, and He declared, “Is it not written: ‘My house will be called a house of prayer for all the nations’? But you have made it ‘a den of robbers.’”
 <small><sub>**Literal:**</sub></small>
 And He was teaching and was saying to them; Surely it has been written that The house of Mine a house of prayer will be called for all the nations’? You yourselves however have made it a den of robbers.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.16|<< Mark 11:16]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.18|Mark 11:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 11:17** is...
+> $\quad$ referencing: [[LXX.Isa.56.7|Isa 56:7]] ☩ [[LXX.Jer.7.11|Jer 7:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the second angel sounded, and as it were a great mountain burning with fire 
 Then the second angel sounded his trumpet, and something like a great mountain burning with fire was thrown into the sea. A third of the sea turned to blood,
 <small><sub>**Literal:**</sub></small>
 And the second angel sounded [his] trumpet, and [something] like a mountain great with fire burning was cast into the sea; And became <the> a third of the sea blood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.7|<< Revelation 8:7]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.9|Revelation 8:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 8:8** is...
+> $\quad$ possibly alluding to: [[LXX.Exod.7.20|Exod 7:20]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

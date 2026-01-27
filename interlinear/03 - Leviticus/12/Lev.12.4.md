@@ -5,6 +5,10 @@ And she shall then continue in the blood of her purifying three and thirty days;
 The woman shall continue in purification from her bleeding for thirty-three days. She must not touch anything sacred or go into the sanctuary until the days of her purification are complete.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.3|<< Leviticus 12:3]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.5|Leviticus 12:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 12:4** is...
+> $\quad$ referenced by: [[Luke.2.21|Luke 2:21-22]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

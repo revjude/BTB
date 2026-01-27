@@ -6,6 +6,10 @@ I shall see him, but not now: I shall behold him, but not nigh: there shall come
 <small><sub>**BSB:**</sub></small>
 I see him, but not now; I behold him, but not near. A star will come forth from Jacob, and a scepter will arise from Israel. He will crush the skulls of Moab and strike down all the sons of Sheth.<small><sub>**MT:**</sub></small>
 [[Num.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.16|<< Numbers 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.18|Numbers 24:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 24:17** is...
+> $\quad$ referenced by: [[Luke.1.78|Luke 1:78]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

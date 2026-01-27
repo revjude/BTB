@@ -5,6 +5,10 @@ And when I shall put thee out, I will cover the heaven, and make the stars there
 When I extinguish you, I will cover the heavens and darken their stars. I will cover the sun with a cloud, and the moon will not give its light.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.6|<< Ezekiel 32:6]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.8|Ezekiel 32:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 32:7** is...
+> $\quad$ referenced by: [[Joel.2.10|Joel 2:10]] ☩ [[Matt.24.29|Matt 24:29]] ☩ [[Rev.8.12|Rev 8:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -6,6 +6,10 @@ I have not hid thy righteousness within my heart; I have declared thy faithfulne
 <small><sub>**BSB:**</sub></small>
 I have not covered up Your righteousness in my heart; I have declared Your faithfulness and salvation; I have not concealed Your loving devotion and faithfulness from the great assembly.<small><sub>**MT:**</sub></small>
 [[Ps.40.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.9|<< Psalm 40:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.11|Psalm 40:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 40:10** is...
+> $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

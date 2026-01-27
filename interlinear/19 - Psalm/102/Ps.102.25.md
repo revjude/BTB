@@ -5,6 +5,10 @@ Of old hast thou laid the foundation of the earth: and the heavens [are] the wor
 In the beginning You laid the foundations of the earth, and the heavens are the work of Your hands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.24|<< Psalms 102:24]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.26|Psalms 102:26 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 102:25** is...
+> $\quad$ referenced by: [[Heb.1.10|Heb 1:10-12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

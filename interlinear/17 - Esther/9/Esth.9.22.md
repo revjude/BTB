@@ -5,6 +5,10 @@ As the days wherein the Jews rested from their enemies, and the month which was 
 as the days on which the Jews gained rest from their enemies and the month in which their sorrow turned to joy and their mourning into a holiday. He wrote that these were to be days of feasting and joy, of sending gifts to one another and to the poor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.21|<< Esther 9:21]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.23|Esther 9:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Esther 9:22** is...
+> $\quad$ referenced by: [[Rev.11.10|Rev 11:10]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ And the scripture was fulfilled which saith, Abraham believed God, and it was im
 And the Scripture was fulfilled that says, “Abraham believed God, and it was credited to him as righteousness,” and he was called a friend of God.
 <small><sub>**Literal:**</sub></small>
 And was fulfilled the Scripture which is saying; Believed then Abraham <the> in God and it was counted to him for righteousness and a friend of God he was called.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.22|<< James 2:22]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.24|James 2:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 2:23** is...
+> $\quad$ referencing: [[LXX.Gen.15.6|Gen 15:6]]
+> $\quad$ alluding to: [[LXX.Isa.41.8|Isa 41:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

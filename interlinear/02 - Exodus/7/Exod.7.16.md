@@ -5,6 +5,10 @@ And thou shalt say unto him, The LORD God of the Hebrews hath sent me unto thee,
 Then say to him, ‘The LORD, the God of the Hebrews, has sent me to tell you: Let My people go, so that they may worship Me in the wilderness. But until now you have not listened.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.15|<< Exodus 7:15]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.17|Exodus 7:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 7:16** is...
+> $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

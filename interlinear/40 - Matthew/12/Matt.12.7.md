@@ -5,6 +5,10 @@ But if ye had known what [this] meaneth, I will have mercy, and not sacrifice, y
 If only you had known the meaning of ‘I desire mercy, not sacrifice,’ you would not have condemned the innocent.
 <small><sub>**Literal:**</sub></small>
 If however you had known what is; mercy I desire and not [desire] sacrifice,’ not then would you have condemned the guiltless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.6|<< Matthew 12:6]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.8|Matthew 12:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 12:7** is...
+> $\quad$ referencing: [[LXX.Hos.6.6|Hos 6:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ But Jesus beheld [them], and said unto them, With men this is impossible; but wi
 Jesus looked at them and said, “With man this is impossible, but with God all things are possible.”
 <small><sub>**Literal:**</sub></small>
 Having looked on [them] now <the> Jesus said to them; With men this impossible is, with however God all things [are] possible is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.25|<< Matthew 19:25]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.27|Matthew 19:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 19:26** is...
+> $\quad$ alluding to: [[LXX.Jer.32.17|Jer 32:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

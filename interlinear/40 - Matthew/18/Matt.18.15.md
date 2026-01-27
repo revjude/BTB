@@ -5,6 +5,10 @@ Moreover if thy brother shall trespass against thee, go and tell him his fault b
 If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over.
 <small><sub>**Literal:**</sub></small>
 If now shall sin against you the brother of you, do go and do reprove him between you and him alone. If you he shall hear, you have gained the brother of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.14|<< Matthew 18:14]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.16|Matthew 18:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 18:15** is...
+> $\quad$ alluding to: [[LXX.Lev.19.17|Lev 19:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

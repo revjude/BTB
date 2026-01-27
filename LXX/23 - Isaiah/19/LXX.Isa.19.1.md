@@ -9,6 +9,10 @@ The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come 
 <small><sub>**BSB:**</sub></small>
 This is the burden against Egypt: Behold, the LORD rides on a swift cloud; He is coming to Egypt. The idols of Egypt will tremble before Him, and the hearts of the Egyptians will melt within them.<small><sub>**MT:**</sub></small>
 [[Isa.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.18.7|<< Isaiah 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.2|Isaiah 19:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 19:1** is...
+> $\quad$ referenced by: [[Rev.14.14|Rev 14:14]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

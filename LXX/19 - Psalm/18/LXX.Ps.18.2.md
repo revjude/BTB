@@ -6,6 +6,10 @@ The LORD [is] my rock, and my fortress, and my deliverer; my God, my strength, i
 <small><sub>**BSB:**</sub></small>
 The LORD is my rock, my fortress, and my deliverer. My God is my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold.<small><sub>**MT:**</sub></small>
 [[Ps.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.1|<< Psalm 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.3|Psalm 18:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 18:2** is...
+> $\quad$ referenced by: [[Heb.2.13|Heb 2:13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

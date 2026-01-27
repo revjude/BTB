@@ -5,6 +5,10 @@ And there appeared another wonder in heaven; and behold a great red dragon, havi
 Then another sign appeared in heaven: a huge red dragon with seven heads, ten horns, and seven royal crowns on his heads.
 <small><sub>**Literal:**</sub></small>
 And was seen another sign in <the> heaven, and behold a dragon great red having heads seven and horns ten, and upon the heads of him seven royal crowns,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.2|<< Revelation 12:2]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.4|Revelation 12:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 12:3** is...
+> $\quad$ alluding to: [[LXX.Dan.7.7|Dan 7:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

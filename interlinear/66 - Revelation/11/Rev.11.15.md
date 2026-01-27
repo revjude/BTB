@@ -5,6 +5,11 @@ And the seventh angel sounded; and there were great voices in heaven, saying, Th
 Then the seventh angel sounded his trumpet, and loud voices called out in heaven: “The kingdom of the world has become the kingdom of our Lord and of His Christ, and He will reign forever and ever.”
 <small><sub>**Literal:**</sub></small>
 And the seventh angel sounded [his] trumpet, and there were voices great in <the> heaven saying: Has become the kingdom of the world [that] of the Lord of us and of the Christ of Him, and He will reign to the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.14|<< Revelation 11:14]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.16|Revelation 11:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 11:15** is...
+> $\quad$ possibly alluding to: [[LXX.Dan.2.44|Dan 2:44]]
+> $\quad$ alluding to: [[LXX.Dan.7.14|Dan 7:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

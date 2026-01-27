@@ -5,6 +5,10 @@ Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and 
 Now Korah son of Izhar, the son of Kohath son of Levi, along with some Reubenites—Dathan and Abiram, sons of Eliab, and On son of Peleth—conducted
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.41|<< Numbers 15:41]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.2|Numbers 16:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 16:1** is...
+> $\quad$ referenced by: [[1John.3.12|1John 3:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

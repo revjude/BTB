@@ -5,6 +5,10 @@ But the rich, in that he is made low: because as the flower of the grass he shal
 But the one who is rich should exult in his low position, because he will pass away like a flower of the field.
 <small><sub>**Literal:**</sub></small>
 he who [is] then rich in the humiliation of him because like a flower of grass he will pass away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.9|<< James 1:9]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.11|James 1:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **James 1:10** is...
+> $\quad$ alluding to: [[LXX.Job.14.2|Job 14:2]] ☩ [[LXX.Isa.40.6|Isa 40:6-7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

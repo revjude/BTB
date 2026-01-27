@@ -5,6 +5,10 @@ And the first beast [was] like a lion, and the second beast like a calf, and the
 The first living creature was like a lion, the second like a calf, the third had a face like a man, and the fourth was like an eagle in flight.
 <small><sub>**Literal:**</sub></small>
 And the living creature <the> first [was] like as a lion, and the second living creature like as a calf, and the third living creature he is having the face as of a man, and the fourth living creature like as an eagle flying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.6|<< Revelation 4:6]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.8|Revelation 4:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 4:7** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.1.10|Ezek 1:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

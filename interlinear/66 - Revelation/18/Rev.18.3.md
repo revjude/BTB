@@ -5,6 +5,11 @@ For all nations have drunk of the wine of the wrath of her fornication, and the 
 All the nations have drunk the wine of the passion of her immorality. The kings of the earth were immoral with her, and the merchants of the earth have grown wealthy from the extravagance of her luxury.”
 <small><sub>**Literal:**</sub></small>
 For of the wine of the wrath of the sexual immorality of her they have drunk all the nations, and the kings of the earth with her committed sexual immorality, and the merchants of the earth through the power of the sensuality of her were enriched.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.2|<< Revelation 18:2]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.4|Revelation 18:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:3** is...
+> $\quad$ referencing: [[LXX.Jer.51.7|Jer 51:7]]
+> $\quad$ alluding to: [[LXX.Nah.3.4|Nah 3:4]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And again he saith, Rejoice, ye Gentiles, with his people.
 Again, it says: “Rejoice, O Gentiles, with His people.”
 <small><sub>**Literal:**</sub></small>
 And again it says: do rejoice you Gentiles with the people of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.9|<< Romans 15:9]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.11|Romans 15:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 15:10** is...
+> $\quad$ referencing: [[LXX.Deut.32.43|Deut 32:43]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And they made a calf in those days, and offered sacrifice unto the idol, and rej
 At that time they made a calf and offered a sacrifice to the idol, rejoicing in the works of their hands.
 <small><sub>**Literal:**</sub></small>
 And they made a calf in the days those and offered a sacrifice to the idol and they were rejoicing in the works of the hands of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.40|<< Acts 7:40]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.42|Acts 7:42 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:41** is...
+> $\quad$ alluding to: [[LXX.Exod.32.19|Exod 32:19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

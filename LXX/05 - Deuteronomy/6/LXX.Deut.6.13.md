@@ -6,6 +6,10 @@ Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name.
 <small><sub>**BSB:**</sub></small>
 Fear the LORD your God, serve Him only, and take your oaths in His name.<small><sub>**MT:**</sub></small>
 [[Deut.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.12|<< Deuteronomy 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.14|Deuteronomy 6:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 6:13** is...
+> $\quad$ referenced by: [[Matt.4.10|Matt 4:10]] ☩ [[Luke.4.8|Luke 4:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

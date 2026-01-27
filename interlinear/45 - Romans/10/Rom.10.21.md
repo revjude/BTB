@@ -5,6 +5,10 @@ But to Israel he saith, All day long I have stretched forth my hands unto a diso
 But as for Israel he says: “All day long I have held out My hands to a disobedient and obstinate people.”
 <small><sub>**Literal:**</sub></small>
 As for however <the> Israel he says: All the day I have stretched out the hands of Mine to a people disobeying and contradicting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.20|<< Romans 10:20]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.1|Romans 11:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 10:21** is...
+> $\quad$ referencing: [[LXX.Isa.65.2|Isa 65:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

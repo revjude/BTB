@@ -5,6 +5,10 @@ And did all eat the same spiritual meat;
 They all ate the same spiritual food
 <small><sub>**Literal:**</sub></small>
 and all the same spiritual food ate<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.2|<< 1 Corinthians 10:2]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.4|1 Corinthians 10:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 10:3** is...
+> $\quad$ alluding to: [[LXX.Exod.16.15|Exod 16:15]] ☩ [[LXX.Exod.17.6|Exod 17:6]] ☩ [[LXX.Num.11.4|Num 11:4]] ☩ [[LXX.Num.20.11|Num 20:11]] ☩ [[LXX.Num.26.64|Num 26:64-65]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall
 Everyone who falls on this stone will be broken to pieces, but he on whom it falls will be crushed.”
 <small><sub>**Literal:**</sub></small>
 Everyone <the> falling on that [very] <the> stone will be broken; on whomever but maybe it may fall, it will grind into powder him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.17|<< Luke 20:17]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.19|Luke 20:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 20:18** is...
+> $\quad$ alluding to: [[LXX.Isa.8.14|Isa 8:14]] ☩ [[LXX.Zech.12.3|Zech 12:3]] ☩ [[LXX.Dan.2.44|Dan 2:44]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

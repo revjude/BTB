@@ -5,6 +5,10 @@ Now this [is that] which thou shalt offer upon the altar; two lambs of the first
 This is what you are to offer regularly on the altar, each day: two lambs that are a year old.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.37|<< Exodus 29:37]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.39|Exodus 29:39 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 29:38** is...
+> $\quad$ referenced by: [[Heb.10.11|Heb 10:11]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

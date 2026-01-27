@@ -1,0 +1,32 @@
+**LXX Ezekiel 38:10** 
+<small><sub>**LXX:**</sub></small>
+Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; And it will be in  that day things will ascend upon  your heart, and you shall consider wicked devices. 
+<small><sub>**KJV:**</sub></small>
+Thus saith the Lord GOD; It shall also come to pass, [that] at the same time shall things come into thy mind, and thou shalt think an evil thought:
+<small><sub>**BSB:**</sub></small>
+This is what the Lord GOD says: On that day, thoughts will arise in your mind, and you will devise an evil plan.<small><sub>**MT:**</sub></small>
+[[Ezek.38.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.9|<< Ezekiel 38:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.11|Ezekiel 38:11 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| Thus | <span class="asgreek">τάδε <sup><small><small>[[G3592]]</small></small></sup> </span> |
+| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
+| \[the\] Lord | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| \[the\] <span class="smallcaps">lord</span>; | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| that day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">εκείνη <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| will ascend | <span class="asgreek">αναβήσεται <sup><small><small>[[G0305]]</small></small></sup> </span> |
+| things | <span class="asgreek">ρήματα <sup><small><small>[[G4487]]</small></small></sup> </span> |
+| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| your heart, | <span class="asgreek">καρδίαν <sup><small><small>[[G2588]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| you shall consider | <span class="asgreek">λογιή <sup><small><small>[[G3049]]</small></small></sup> </span> |
+| devices | <span class="asgreek">λογισμούς <sup><small><small>[[G3053]]</small></small></sup> </span> |
+| wicked | <span class="asgreek">πονηρούς <sup><small><small>[[G4190]]</small></small></sup> </span> |
+[[Ezek.38.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.9|<< Ezekiel 38:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.11|Ezekiel 38:11 >>]]</td></tr></table>
+
+

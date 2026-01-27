@@ -6,6 +6,10 @@ He that hath knowledge spareth his words: [and] a man of understanding is of an 
 <small><sub>**BSB:**</sub></small>
 A man of knowledge restrains his words, and a man of understanding maintains a calm spirit.<small><sub>**MT:**</sub></small>
 [[Prov.17.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.26|<< Proverbs 17:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.28|Proverbs 17:28 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Proverbs 17:27** is...
+> $\quad$ referenced by: [[Jas.1.19|Jas 1:19]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

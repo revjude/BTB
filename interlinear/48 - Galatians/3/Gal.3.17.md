@@ -5,6 +5,10 @@ And this I say, [that] the covenant, that was confirmed before of God in Christ,
 What I mean is this: The law that came 430 years later does not revoke the covenant previously established by God, so as to nullify the promise.
 <small><sub>**Literal:**</sub></small>
 This now I say: [The] covenant confirmed beforehand by <the> God into Christ <the> afterward four hundred and thirty years having come [the] law not does annul so as <the> to nullify the promise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.16|<< Galatians 3:16]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.18|Galatians 3:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 3:17** is...
+> $\quad$ alluding to: [[LXX.Gen.17.7|Gen 17:7-8]] ☩ [[LXX.Exod.12.40|Exod 12:40]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ Then shall they know that I [am] the LORD their God, which caused them to be led
 Then they will know that I am the LORD their God, when I regather them to their own land, not leaving any of them behind after their exile among the nations.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.27|<< Ezekiel 39:27]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.29|Ezekiel 39:29 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 39:28** is...
+> $\quad$ referenced by: [[Joel.2.27|Joel 2:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

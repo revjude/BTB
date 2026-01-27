@@ -5,6 +5,10 @@ But I have a few things against thee, because thou hast there them that hold the
 But I have a few things against you, because some of you hold to the teaching of Balaam, who taught Balak to place a stumbling block before the Israelites so they would eat food sacrificed to idols and commit sexual immorality.
 <small><sub>**Literal:**</sub></small>
 But I have against you a few things because you have [some] there holding the teaching of Balaam, who was teaching in <the> Balak to cast a snare before the sons of Israel and to eat idol-sacrifices and to commit sexual immorality.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.13|<< Revelation 2:13]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.15|Revelation 2:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 2:14** is...
+> $\quad$ possibly alluding to: [[LXX.Num.25.2|Num 25:2]] ☩ [[LXX.Num.31.16|Num 31:16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

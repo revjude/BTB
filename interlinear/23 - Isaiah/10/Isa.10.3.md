@@ -5,6 +5,10 @@ And what will ye do in the day of visitation, and in the desolation [which] shal
 What will you do on the day of reckoning when devastation comes from afar? To whom will you flee for help? Where will you leave your wealth?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.2|<< Isaiah 10:2]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.4|Isaiah 10:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 10:3** is...
+> $\quad$ referenced by: [[1Pet.2.12|1Pet 2:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

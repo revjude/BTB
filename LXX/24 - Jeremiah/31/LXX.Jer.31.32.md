@@ -6,6 +6,10 @@ Not according to the covenant that I made with their fathers in the day [that] I
 <small><sub>**BSB:**</sub></small>
 It will not be like the covenant I made with their fathers when I took them by the hand to lead them out of the land of Egypt—a covenant they broke, though I was a husband to them,” declares the LORD.<small><sub>**MT:**</sub></small>
 [[Jer.31.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.31|<< Jeremiah 31:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.33|Jeremiah 31:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 31:32** is...
+> $\quad$ referenced by: [[Heb.8.8|Heb 8:8-12]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

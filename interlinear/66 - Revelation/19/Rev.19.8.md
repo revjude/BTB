@@ -5,6 +5,10 @@ And to her was granted that she should be arrayed in fine linen, clean and white
 She was given clothing of fine linen, bright and pure.” For the fine linen she wears is the righteous acts of the saints.
 <small><sub>**Literal:**</sub></small>
 And it was given to her that she may be clothed in fine linen bright and pure; <the> For the fine linen the righteous acts of the saints is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.7|<< Revelation 19:7]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.9|Revelation 19:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 19:8** is...
+> $\quad$ alluding to: [[LXX.Ps.45.14|Ps 45:14]] ☩ [[LXX.Isa.61.10|Isa 61:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

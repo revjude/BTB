@@ -5,6 +5,10 @@ And he said, Go, and tell this people, Hear ye indeed, but understand not; and s
 And He replied: “Go and tell this people, ‘Be ever hearing, but never understanding; be ever seeing, but never perceiving.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.8|<< Isaiah 6:8]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.10|Isaiah 6:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 6:9** is...
+> $\quad$ referenced by: [[Matt.13.14|Matt 13:14-15]] ☩ [[Mark.4.12|Mark 4:12]] ☩ [[Luke.8.10|Luke 8:10]] ☩ [[John.12.40|John 12:40]] ☩ [[Acts.28.26|Acts 28:26-27]] ☩ [[Rom.11.8|Rom 11:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And he saith unto me, The waters which thou sawest, where the whore sitteth, are
 Then the angel said to me, “The waters you saw, where the prostitute was seated, are peoples and multitudes and nations and tongues.
 <small><sub>**Literal:**</sub></small>
 And he says to me; The waters that you saw, where the prostitute sits, peoples and multitudes are and nations and tongues.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.14|<< Revelation 17:14]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.16|Revelation 17:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 17:15** is...
+> $\quad$ alluding to: [[LXX.Isa.8.7|Isa 8:7]] ☩ [[LXX.Jer.51.42|Jer 51:42]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

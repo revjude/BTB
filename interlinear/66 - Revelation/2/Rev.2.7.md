@@ -5,6 +5,10 @@ He that hath an ear, let him hear what the Spirit saith unto the churches; To hi
 He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will grant the right to eat from the tree of life in the Paradise of God.
 <small><sub>**Literal:**</sub></small>
 The [one] having an ear he should hear what the Spirit says to the churches; To the [one] overcoming I will give to him to eat of the tree <the> of life which is in midst the paradise <the> of God of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.6|<< Revelation 2:6]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.8|Revelation 2:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 2:7** is...
+> $\quad$ possibly alluding to: [[LXX.Gen.2.9|Gen 2:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

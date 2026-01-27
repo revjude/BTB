@@ -5,6 +5,10 @@ And so it is written, The first man Adam was made a living soul; the last Adam [
 So it is written: “The first man Adam became a living being”; the last Adam a life-giving spirit.
 <small><sub>**Literal:**</sub></small>
 So also it has been written: Became the first man Adam into a soul living; the last Adam into a spirit life-giving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.44|<< 1 Corinthians 15:44]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.46|1 Corinthians 15:46 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Corinthians 15:45** is...
+> $\quad$ referencing: [[LXX.Gen.2.7|Gen 2:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

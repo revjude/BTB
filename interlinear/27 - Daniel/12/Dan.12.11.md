@@ -5,6 +5,10 @@ And from the time [that] the daily [sacrifice] shall be taken away, and the abom
 And from the time the daily sacrifice is abolished and the abomination of desolation set up, there will be 1,290 days.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.10|<< Daniel 12:10]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.12|Daniel 12:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 12:11** is...
+> $\quad$ referenced by: [[Matt.24.15|Matt 24:15]] ☩ [[Mark.13.14|Mark 13:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

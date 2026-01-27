@@ -6,6 +6,10 @@ All [they that be] fat upon earth shall eat and worship: all they that go down t
 <small><sub>**BSB:**</sub></small>
 All the rich of the earth will feast and worship; all who go down to the dust will kneel before Him—even those unable to preserve their lives.<small><sub>**MT:**</sub></small>
 [[Ps.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.28|<< Psalm 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.30|Psalm 22:30 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 22:29** is...
+> $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

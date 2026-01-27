@@ -5,6 +5,10 @@ For whom the Lord loveth he chasteneth, and scourgeth every son whom he receivet
 For the Lord disciplines the one He loves, and He chastises every son He receives.”
 <small><sub>**Literal:**</sub></small>
 Whom for He loves [the] Lord disciplines, He scourges now every son whom He receives.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.5|<< Hebrews 12:5]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.7|Hebrews 12:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:6** is...
+> $\quad$ referencing: [[LXX.Prov.3.11|Prov 3:11-12]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

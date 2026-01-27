@@ -5,6 +5,10 @@ The grass withereth, the flower fadeth: but the word of our God shall stand for 
 The grass withers and the flowers fall, but the word of our God stands forever.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.7|<< Isaiah 40:7]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.9|Isaiah 40:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 40:8** is...
+> $\quad$ referenced by: [[Mark.13.31|Mark 13:31]] ☩ [[1Pet.1.24|1Pet 1:24-25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

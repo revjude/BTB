@@ -6,6 +6,10 @@ Go, and gather the elders of Israel together, and say unto them, The LORD God of
 <small><sub>**BSB:**</sub></small>
 Go, assemble the elders of Israel and say to them, ‘The LORD, the God of your fathers—the God of Abraham, Isaac, and Jacob—has appeared to me and said: I have surely attended to you and have seen what has been done to you in Egypt.<small><sub>**MT:**</sub></small>
 [[Exod.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.15|<< Exodus 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.17|Exodus 3:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 3:16** is...
+> $\quad$ referenced by: [[Acts.7.35|Acts 7:35]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

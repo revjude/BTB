@@ -5,6 +5,10 @@ And I saw in the right hand of him that sat on the throne a book written within 
 Then I saw a scroll in the right hand of the One seated on the throne. It had writing on both sides and was sealed with seven seals.
 <small><sub>**Literal:**</sub></small>
 And I saw on the right hand of the [One] sitting upon the throne a scroll written inside and on [the] back, sealed with seals seven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.11|<< Revelation 4:11]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.2|Revelation 5:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 5:1** is...
+> $\quad$ possibly alluding to: [[LXX.Ezek.2.2|Ezek 2:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

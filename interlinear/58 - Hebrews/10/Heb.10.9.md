@@ -5,6 +5,10 @@ Then said he, Lo, I come to do thy will, O God. He taketh away the first, that h
 Then He adds, “Here I am, I have come to do Your will.” He takes away the first to establish the second.
 <small><sub>**Literal:**</sub></small>
 then He has said; Behold I have come <the> to do of the God the will of You. He takes away the first that the second He may establish;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.8|<< Hebrews 10:8]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.10|Hebrews 10:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 10:9** is...
+> $\quad$ referencing: [[LXX.Ps.40.7|Ps 40:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

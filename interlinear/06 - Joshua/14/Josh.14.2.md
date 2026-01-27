@@ -5,6 +5,10 @@ By lot [was] their inheritance, as the LORD commanded by the hand of Moses, for 
 Their inheritance was assigned by lot for the nine and a half tribes, as the LORD had commanded through Moses.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.1|<< Joshua 14:1]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.3|Joshua 14:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joshua 14:2** is...
+> $\quad$ referenced by: [[Acts.13.19|Acts 13:19]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

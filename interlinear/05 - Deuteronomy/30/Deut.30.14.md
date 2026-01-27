@@ -5,6 +5,10 @@ But the word [is] very nigh unto thee, in thy mouth, and in thy heart, that thou
 But the word is very near you; it is in your mouth and in your heart, so that you may obey it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.13|<< Deuteronomy 30:13]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.15|Deuteronomy 30:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 30:14** is...
+> $\quad$ referenced by: [[Rom.10.8|Rom 10:8]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

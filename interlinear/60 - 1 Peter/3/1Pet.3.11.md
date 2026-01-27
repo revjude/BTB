@@ -5,6 +5,10 @@ Let him eschew evil, and do good; let him seek peace, and ensue it.
 He must turn from evil and do good; he must seek peace and pursue it.
 <small><sub>**Literal:**</sub></small>
 he should turn away also from evil and he should do good, he should seek peace and he should pursue it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.10|<< 1 Peter 3:10]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.12|1 Peter 3:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 3:11** is...
+> $\quad$ referencing: [[LXX.Ps.34.12|Ps 34:12-16]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

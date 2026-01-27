@@ -5,6 +5,10 @@ For this people’s heart is waxed gross, and [their] ears are dull of hearing, 
 For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.’
 <small><sub>**Literal:**</sub></small>
 Has grown dull for the heart of the people this, and with the ears barely they have heard, and the eyes of them they have closed; otherwise they may see with the eyes and with the ears they may hear and with the heart they may understand and may return and I will heal them.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.14|<< Matthew 13:14]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.16|Matthew 13:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 13:15** is...
+> $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

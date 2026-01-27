@@ -5,6 +5,10 @@ And Jared lived an hundred sixty and two years, and he begat Enoch:
 When Jared was 162 years old, he became the father of Enoch.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.17|<< Genesis 5:17]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.19|Genesis 5:19 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 5:18** is...
+> $\quad$ referenced by: [[Jude.1.14|Jude 1:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

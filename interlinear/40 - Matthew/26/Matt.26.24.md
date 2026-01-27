@@ -5,6 +5,10 @@ The Son of man goeth as it is written of him: but woe unto that man by whom the 
 The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed. It would be better for him if he had not been born.”
 <small><sub>**Literal:**</sub></small>
 <the> Indeed the Son <the> of Man goes even as it has been written about Him, woe however for the man that [one] through whom the Son <the> of Man is betrayed; Better was being for him if not was born the man that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.23|<< Matthew 26:23]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.25|Matthew 26:25 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 26:24** is...
+> $\quad$ referencing: [[LXX.Ps.41.9|Ps 41:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

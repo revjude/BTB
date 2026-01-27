@@ -5,6 +5,10 @@ And I turned to see the voice that spake with me. And being turned, I saw seven 
 Then I turned to see the voice that was speaking with me. And having turned, I saw seven golden lampstands,
 <small><sub>**Literal:**</sub></small>
 And there I turned to see the voice that was speaking with me. And having turned I saw seven lampstands golden<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.11|<< Revelation 1:11]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.13|Revelation 1:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 1:12** is...
+> $\quad$ possibly alluding to: [[LXX.Zech.4.2|Zech 4:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ A fire devoureth before them; and behind them a flame burneth: the land [is] as 
 Before them a fire devours, and behind them a flame scorches. The land before them is like the Garden of Eden, but behind them, it is like a desert wasteland—surely nothing will escape them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.2|<< Joel 2:2]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.4|Joel 2:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 2:3** is...
+> $\quad$ referenced by: [[Ezek.36.35|Ezek 36:35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

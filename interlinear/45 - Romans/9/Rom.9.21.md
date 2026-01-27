@@ -5,6 +5,10 @@ Hath not the potter power over the clay, of the same lump to make one vessel unt
 Does not the potter have the right to make from the same lump of clay one vessel for special occasions and another for common use?
 <small><sub>**Literal:**</sub></small>
 Or not has authority the potter over the clay out of the same lump to make one indeed unto honor vessel one however unto dishonor?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.20|<< Romans 9:20]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.22|Romans 9:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 9:21** is...
+> $\quad$ alluding to: [[LXX.Jer.18.6|Jer 18:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and 
 But look, there is joy and gladness, butchering of cattle and slaughtering of sheep, eating of meat and drinking of wine: “Let us eat and drink, for tomorrow we die!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.12|<< Isaiah 22:12]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.14|Isaiah 22:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 22:13** is...
+> $\quad$ referenced by: [[1Cor.15.32|1Cor 15:32]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

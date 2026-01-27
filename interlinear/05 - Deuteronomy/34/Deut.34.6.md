@@ -5,6 +5,10 @@ And he buried him in a valley in the land of Moab, over against Bethpeor: but no
 And He buried him in a valley in the land of Moab facing Beth-peor, and no one to this day knows the location of his grave.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.5|<< Deuteronomy 34:5]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.7|Deuteronomy 34:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 34:6** is...
+> $\quad$ referenced by: [[Jude.1.9|Jude 1:9]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

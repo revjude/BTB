@@ -5,6 +5,10 @@ Neither shall they defile themselves any more with their idols, nor with their d
 They will no longer defile themselves with their idols or detestable images, or with any of their transgressions. I will save them from all their apostasies by which they sinned, and I will cleanse them. Then they will be My people, and I will be their God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.22|<< Ezekiel 37:22]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.24|Ezekiel 37:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 37:23** is...
+> $\quad$ referenced by: [[Titus.2.14|Titus 2:14]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

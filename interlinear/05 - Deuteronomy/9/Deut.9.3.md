@@ -5,6 +5,10 @@ Understand therefore this day, that the LORD thy God [is] he which goeth over be
 But understand that today the LORD your God goes across ahead of you as a consuming fire; He will destroy them and subdue them before you. And you will drive them out and annihilate them swiftly, as the LORD has promised you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.2|<< Deuteronomy 9:2]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.4|Deuteronomy 9:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 9:3** is...
+> $\quad$ referenced by: [[Heb.12.29|Heb 12:29]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

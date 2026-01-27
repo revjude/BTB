@@ -5,6 +5,10 @@ And Jesus answered him, saying, It is written, That man shall not live by bread 
 But Jesus answered, “It is written: ‘Man shall not live on bread alone.’”
 <small><sub>**Literal:**</sub></small>
 And answered to him <the> Jesus saying: It has been written that Not on bread alone will live the man’ but upon everything declaration of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.3|<< Luke 4:3]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.5|Luke 4:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 4:4** is...
+> $\quad$ referencing: [[LXX.Deut.8.3|Deut 8:3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

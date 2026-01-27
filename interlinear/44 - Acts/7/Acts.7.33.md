@@ -5,6 +5,10 @@ Then said the Lord to him, Put off thy shoes from thy feet: for the place where 
 Then the Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground.
 <small><sub>**Literal:**</sub></small>
 Said then to him the Lord; do take off the sandal of the feet of you; <the> for the place on which you have stood ground holy is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.32|<< Acts 7:32]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.34|Acts 7:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:33** is...
+> $\quad$ referencing: [[LXX.Exod.3.5|Exod 3:5]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

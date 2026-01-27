@@ -11,6 +11,10 @@ O praise the LORD, all ye nations: praise him, all ye people.
 <small><sub>**BSB:**</sub></small>
 Praise the LORD, all you nations! Extol Him, all you peoples!<small><sub>**MT:**</sub></small>
 [[Ps.117.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.19|<< Psalm 116:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.117.2|Psalm 117:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 117:1** is...
+> $\quad$ referenced by: [[Rom.15.11|Rom 15:11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

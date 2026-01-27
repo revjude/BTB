@@ -5,6 +5,10 @@ But hast lifted up thyself against the Lord of heaven; and they have brought the
 Instead, you have exalted yourself against the Lord of heaven. The vessels from His house were brought to you, and as you drank wine from them with your nobles, wives, and concubines, you praised your gods of silver and gold, bronze and iron, wood and stone, which cannot see or hear or understand. But you have failed to glorify the God who holds in His hand your very breath and all your ways.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.22|<< Daniel 5:22]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.24|Daniel 5:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 5:23** is...
+> $\quad$ referenced by: [[Rev.9.20|Rev 9:20]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

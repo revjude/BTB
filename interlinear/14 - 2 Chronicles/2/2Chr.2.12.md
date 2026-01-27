@@ -5,6 +5,10 @@ Huram said moreover, Blessed [be] the LORD God of Israel, that made heaven and e
 And Hiram added: “Blessed be the LORD, the God of Israel, who made the heavens and the earth! He has given King David a wise son with insight and understanding, who will build a temple for the LORD and a royal palace for himself.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.11|<< 2 Chronicles 2:11]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.13|2 Chronicles 2:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Chronicles 2:12** is...
+> $\quad$ referenced by: [[Acts.4.24|Acts 4:24]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

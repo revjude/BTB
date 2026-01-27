@@ -5,6 +5,10 @@ But sanctify the Lord God in your hearts: and [be] ready always to [give] an ans
 But in your hearts sanctify Christ as Lord. Always be prepared to give a defense to everyone who asks you the reason for the hope that is in you. But respond with gentleness and respect,
 <small><sub>**Literal:**</sub></small>
 [As] Lord however <the> Christ do sanctify in the hearts of you. ready now always for a defense to everyone who is asking you an account concerning the in you hope,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.14|<< 1 Peter 3:14]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.16|1 Peter 3:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 3:15** is...
+> $\quad$ referencing: [[LXX.Isa.8.13|Isa 8:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

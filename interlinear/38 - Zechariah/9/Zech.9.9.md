@@ -5,6 +5,10 @@ Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy
 Rejoice greatly, O Daughter of Zion! Shout in triumph, O Daughter of Jerusalem! See, your King comes to you, righteous and victorious, humble and riding on a donkey, on a colt, the foal of a donkey.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.8|<< Zechariah 9:8]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.10|Zechariah 9:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 9:9** is...
+> $\quad$ referenced by: [[Matt.21.5|Matt 21:5]] ☩ [[John.12.14|John 12:14-15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

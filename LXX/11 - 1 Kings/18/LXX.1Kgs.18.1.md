@@ -9,6 +9,10 @@ And it came to pass [after] many days, that the word of the LORD came to Elijah 
 <small><sub>**BSB:**</sub></small>
 After a long time, in the third year of the drought, the word of the LORD came to Elijah: “Go and present yourself to Ahab, and I will send rain upon the face of the earth.”<small><sub>**MT:**</sub></small>
 [[1Kgs.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.24|<< 1 Kings 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.2|1 Kings 18:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Kings 18:1** is...
+> $\quad$ referenced by: [[Luke.4.25|Luke 4:25-26]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

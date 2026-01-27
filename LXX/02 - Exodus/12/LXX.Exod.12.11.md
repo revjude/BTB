@@ -6,6 +6,10 @@ And thus shall ye eat it; [with] your loins girded, your shoes on your feet, and
 <small><sub>**BSB:**</sub></small>
 This is how you are to eat it: You must be fully dressed for travel, with your sandals on your feet and your staff in your hand. You are to eat in haste; it is the LORD’s Passover.<small><sub>**MT:**</sub></small>
 [[Exod.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.10|<< Exodus 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.12|Exodus 12:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 12:11** is...
+> $\quad$ referenced by: [[Heb.11.28|Heb 11:28]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

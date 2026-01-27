@@ -5,6 +5,10 @@ Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, 
 Suddenly Babylon has fallen and been shattered. Wail for her; get her balm for her pain; perhaps she can be healed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.7|<< Jeremiah 51:7]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.9|Jeremiah 51:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 51:8** is...
+> $\quad$ referenced by: [[Rev.14.8|Rev 14:8]] ☩ [[Rev.18.2|Rev 18:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

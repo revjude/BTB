@@ -5,6 +5,11 @@ And said to the mountains and rocks, Fall on us, and hide us from the face of hi
 And they said to the mountains and the rocks, “Fall on us and hide us from the face of the One seated on the throne, and from the wrath of the Lamb.
 <small><sub>**Literal:**</sub></small>
 And they say to the mountains and to the rocks; do fall on us and do hide us from [the] face of the [One] sitting on the throne and from the wrath of the Lamb,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.15|<< Revelation 6:15]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.17|Revelation 6:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 6:16** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.2.9|Isa 2:9]] ☩ [[LXX.Isa.2.19|Isa 2:19]]
+> $\quad$ alluding to: [[LXX.Ps.110.5|Ps 110:5]] ☩ [[LXX.Isa.13.13|Isa 13:13]] ☩ [[LXX.Hos.10.8|Hos 10:8]] ☩ [[LXX.Joel.2.11|Joel 2:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

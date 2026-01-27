@@ -6,6 +6,10 @@ They that hate me without a cause are more than the hairs of mine head: they tha
 <small><sub>**BSB:**</sub></small>
 Those who hate me without cause outnumber the hairs of my head; many are those who would destroy me—my enemies for no reason. Though I did not steal, I must repay.<small><sub>**MT:**</sub></small>
 [[Ps.69.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.3|<< Psalm 69:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.5|Psalm 69:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 69:4** is...
+> $\quad$ referenced by: [[John.15.25|John 15:25]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ For this cause shall a man leave his father and mother, and shall be joined unto
 “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.”
 <small><sub>**Literal:**</sub></small>
 Because of this will leave a man the father of him and <the> mother and will be joined to the wife of him, and will be the two into flesh one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.30|<< Ephesians 5:30]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.32|Ephesians 5:32 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ephesians 5:31** is...
+> $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

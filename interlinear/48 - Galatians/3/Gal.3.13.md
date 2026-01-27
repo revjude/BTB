@@ -5,6 +5,10 @@ Christ hath redeemed us from the curse of the law, being made a curse for us: fo
 Christ redeemed us from the curse of the law by becoming a curse for us. For it is written: “Cursed is everyone who is hung on a tree.”
 <small><sub>**Literal:**</sub></small>
 Christ us redeemed from the curse of the Law having become for us a curse; since it has been written for: Cursed [is] everyone who is hanging on a tree;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.12|<< Galatians 3:12]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.14|Galatians 3:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 3:13** is...
+> $\quad$ referencing: [[LXX.Deut.21.23|Deut 21:23]] ☩ [[LXX.Deut.27.26|Deut 27:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

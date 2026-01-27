@@ -5,6 +5,10 @@ But tidings out of the east and out of the north shall trouble him: therefore he
 But news from the east and the north will alarm him, and he will go out with great fury to destroy many and devote them to destruction.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.43|<< Daniel 11:43]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.45|Daniel 11:45 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Daniel 11:44** is...
+> $\quad$ referenced by: [[Rev.11.18|Rev 11:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And ye now therefore have sorrow: but I will see you again, and your heart shall
 So also you have sorrow now, but I will see you again and your hearts will rejoice, and no one will take away your joy.
 <small><sub>**Literal:**</sub></small>
 Also you yourselves therefore now indeed grief have, again however I will see you and will rejoice your <the> heart, and the joy of you no [one] do take from you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.21|<< John 16:21]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.23|John 16:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **John 16:22** is...
+> $\quad$ referencing: [[LXX.Isa.66.14|Isa 66:14]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

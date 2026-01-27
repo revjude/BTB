@@ -6,6 +6,10 @@ Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring fo
 <small><sub>**BSB:**</sub></small>
 Therefore, go! I am sending you to Pharaoh to bring My people the Israelites out of Egypt.”<small><sub>**MT:**</sub></small>
 [[Exod.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.9|<< Exodus 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.11|Exodus 3:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 3:10** is...
+> $\quad$ referenced by: [[Acts.7.34|Acts 7:34]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

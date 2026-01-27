@@ -5,6 +5,10 @@ Behold, I will send my messenger, and he shall prepare the way before me: and th
 “Behold, I will send My messenger, who will prepare the way before Me. Then the Lord whom you seek will suddenly come to His temple—the Messenger of the covenant, in whom you delight—see, He is coming,” says the LORD of Hosts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.17|<< Malachi 2:17]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.2|Malachi 3:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Malachi 3:1** is...
+> $\quad$ referenced by: [[Matt.11.10|Matt 11:10]] ☩ [[Mark.1.2|Mark 1:2]] ☩ [[Luke.1.76|Luke 1:76]] ☩ [[Luke.7.27|Luke 7:27]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

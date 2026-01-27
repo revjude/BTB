@@ -5,6 +5,10 @@ Beautiful for situation, the joy of the whole earth, [is] mount Zion, [on] the s
 Beautiful in loftiness, the joy of all the earth, like the peaks of Zaphon is Mount Zion, the city of the great King.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.1|<< Psalms 48:1]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.3|Psalms 48:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalms 48:2** is...
+> $\quad$ referenced by: [[Matt.5.35|Matt 5:35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

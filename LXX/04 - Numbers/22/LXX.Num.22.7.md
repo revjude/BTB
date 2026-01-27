@@ -6,6 +6,10 @@ And the elders of Moab and the elders of Midian departed with the rewards of div
 <small><sub>**BSB:**</sub></small>
 The elders of Moab and Midian departed with the fees for divination in hand. They came to Balaam and relayed to him the words of Balak.<small><sub>**MT:**</sub></small>
 [[Num.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.6|<< Numbers 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.8|Numbers 22:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Numbers 22:7** is...
+> $\quad$ referenced by: [[Jude.1.11|Jude 1:11]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

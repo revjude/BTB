@@ -5,6 +5,10 @@ The earth shall quake before them; the heavens shall tremble: the sun and the mo
 Before them the earth quakes; the heavens tremble. The sun and moon grow dark, and the stars lose their brightness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.9|<< Joel 2:9]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.11|Joel 2:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Joel 2:10** is...
+> $\quad$ referenced by: [[Ezek.32.7|Ezek 32:7]] ☩ [[Matt.24.29|Matt 24:29]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

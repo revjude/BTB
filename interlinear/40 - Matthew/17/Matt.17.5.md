@@ -5,6 +5,12 @@ While he yet spake, behold, a bright cloud overshadowed them: and behold a voice
 While Peter was still speaking, a bright cloud enveloped them, and a voice from the cloud said, “This is My beloved Son, in whom I am well pleased. Listen to Him!”
 <small><sub>**Literal:**</sub></small>
 While yet when he is speaking behold a cloud bright overshadowed them, and behold a voice out of the cloud saying; This is the Son of Mine the beloved in whom I am well pleased; do listen to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.4|<< Matthew 17:4]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.6|Matthew 17:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 17:5** is...
+> $\quad$ possibly alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Deut.18.15|Deut 18:15]]
+> $\quad$ referencing: [[LXX.Ps.2.7|Ps 2:7]]
+> $\quad$ alluding to: [[LXX.Isa.42.1|Isa 42:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,11 @@ Therefore also said the wisdom of God, I will send them prophets and apostles, a
 Because of this, the wisdom of God said, ‘I will send them prophets and apostles; some of them they will kill and others they will persecute.’
 <small><sub>**Literal:**</sub></small>
 Because of this also the Wisdom <the> of God said; I will send to them prophets and apostles. and [some] of them they will kill and will pursue<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.48|<< Luke 11:48]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.50|Luke 11:50 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 11:49** is...
+> $\quad$ referencing: [[LXX.Ps.44.22|Ps 44:22]]
+> $\quad$ alluding to: [[LXX.Ezek.34.8|Ezek 34:8-10]] ☩ [[LXX.Zech.11.7|Zech 11:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

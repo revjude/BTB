@@ -5,6 +5,10 @@ Then he said, I did see all Israel scattered upon the mountains, as sheep that h
 So Micaiah declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.15|<< 2 Chronicles 18:15]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.17|2 Chronicles 18:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Chronicles 18:16** is...
+> $\quad$ referenced by: [[Matt.9.36|Matt 9:36]] ☩ [[Mark.6.34|Mark 6:34]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

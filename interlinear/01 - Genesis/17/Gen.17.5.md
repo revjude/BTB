@@ -5,6 +5,10 @@ Neither shall thy name any more be called Abram, but thy name shall be Abraham; 
 No longer will you be called Abram, but your name will be Abraham, for I have made you a father of many nations.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.4|<< Genesis 17:4]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.6|Genesis 17:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 17:5** is...
+> $\quad$ referenced by: [[Rom.4.17|Rom 4:17]] ☩ [[Rom.4.18|Rom 4:18]] ☩ [[Rom.11.25|Rom 11:25]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be
 And the sound of harpists and musicians, of flute players and trumpeters, will never ring out in you again. Nor will any craftsmen of any trade be found in you again, nor the sound of a millstone be heard in you again.
 <small><sub>**Literal:**</sub></small>
 And sound of harpists and musicians and flute players and trumpeters certainly not may be heard in you any longer, And any craftsmen of any craft certainly not may be found in you any longer, and [the] sound of a millstone certainly not may be heard in you any longer,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.21|<< Revelation 18:21]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.23|Revelation 18:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 18:22** is...
+> $\quad$ alluding to: [[LXX.Isa.24.8|Isa 24:8]] ☩ [[LXX.Jer.7.34|Jer 7:34]] ☩ [[LXX.Jer.25.10|Jer 25:10]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

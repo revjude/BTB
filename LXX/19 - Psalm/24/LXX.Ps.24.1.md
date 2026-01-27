@@ -11,6 +11,10 @@ A Psalm of David. The earth [is] the LORD’S, and the fulness thereof; the worl
 <small><sub>**BSB:**</sub></small>
 A Psalm of David. The earth is the LORD’s, and the fullness thereof, the world and all who dwell therein.<small><sub>**MT:**</sub></small>
 [[Ps.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.23.6|<< Psalm 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.2|Psalm 24:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 24:1** is...
+> $\quad$ referenced by: [[1Cor.10.26|1Cor 10:26]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

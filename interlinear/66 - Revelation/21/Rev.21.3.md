@@ -5,6 +5,10 @@ And I heard a great voice out of heaven saying, Behold, the tabernacle of God [i
 And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God.
 <small><sub>**Literal:**</sub></small>
 And I heard a voice great from the throne saying: Behold the tabernacle <the> of God [is] with <the> men, and He will tabernacle with them. and they themselves peoples of Him will be, and Himself <the> God with them will be [as] their God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.2|<< Revelation 21:2]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.4|Revelation 21:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 21:3** is...
+> $\quad$ alluding to: [[LXX.Ezek.37.27|Ezek 37:27]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

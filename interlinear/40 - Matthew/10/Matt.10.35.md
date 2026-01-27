@@ -5,6 +5,10 @@ For I am come to set a man at variance against his father, and the daughter agai
 For I have come to turn ‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law.
 <small><sub>**Literal:**</sub></small>
 I came for to set at variance A man against the father of him and a daughter against the mother of her and a daughter-in-law against the mother-in-law of her;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.34|<< Matthew 10:34]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.36|Matthew 10:36 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 10:35** is...
+> $\quad$ referencing: [[LXX.Mic.7.6|Mic 7:6]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

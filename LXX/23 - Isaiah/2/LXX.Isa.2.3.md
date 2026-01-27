@@ -6,6 +6,10 @@ And many people shall go and say, Come ye, and let us go up to the mountain of t
 <small><sub>**BSB:**</sub></small>
 And many peoples will come and say: “Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us His ways so that we may walk in His paths.” For the law will go forth from Zion, and the word of the LORD from Jerusalem.<small><sub>**MT:**</sub></small>
 [[Isa.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.2|<< Isaiah 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.4|Isaiah 2:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 2:3** is...
+> $\quad$ referenced by: [[Rom.11.26|Rom 11:26]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -6,6 +6,10 @@ O LORD our God, [other] lords beside thee have had dominion over us: [but] by th
 <small><sub>**BSB:**</sub></small>
 O LORD our God, other lords besides You have ruled over us, but Your name alone do we confess.<small><sub>**MT:**</sub></small>
 [[Isa.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.12|<< Isaiah 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.14|Isaiah 26:14 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 26:13** is...
+> $\quad$ referenced by: [[2Tim.2.19|2Tim 2:19]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

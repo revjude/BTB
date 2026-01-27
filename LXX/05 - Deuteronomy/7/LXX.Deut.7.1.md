@@ -9,6 +9,10 @@ When the LORD thy God shall bring thee into the land whither thou goest to posse
 <small><sub>**BSB:**</sub></small>
 When the LORD your God brings you into the land that you are entering to possess, and He drives out before you many nations—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations larger and stronger than you—<small><sub>**MT:**</sub></small>
 [[Deut.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.25|<< Deuteronomy 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.2|Deuteronomy 7:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Deuteronomy 7:1** is...
+> $\quad$ referenced by: [[Acts.13.19|Acts 13:19]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -6,6 +6,10 @@ And I am come down to deliver them out of the hand of the Egyptians, and to brin
 <small><sub>**BSB:**</sub></small>
 I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land to a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.<small><sub>**MT:**</sub></small>
 [[Exod.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.7|<< Exodus 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.9|Exodus 3:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 3:8** is...
+> $\quad$ referenced by: [[Acts.7.34|Acts 7:34]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

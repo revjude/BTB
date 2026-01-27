@@ -5,6 +5,10 @@ And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with hi
 Because the patriarchs were jealous of Joseph, they sold him as a slave into Egypt. But God was with him
 <small><sub>**Literal:**</sub></small>
 And the patriarchs having envied <the> Joseph sold [him] into Egypt; But was <the> God with him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.8|<< Acts 7:8]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.10|Acts 7:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:9** is...
+> $\quad$ alluding to: [[LXX.Gen.37.4|Gen 37:4]] ☩ [[LXX.Gen.37.11|Gen 37:11]] ☩ [[LXX.Gen.37.28|Gen 37:28]] ☩ [[LXX.Gen.39.1|Gen 39:1-2]] ☩ [[LXX.Gen.39.21|Gen 39:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

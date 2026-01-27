@@ -6,6 +6,10 @@ For since the beginning of the world [men] have not heard, nor perceived by the 
 <small><sub>**BSB:**</sub></small>
 From ancient times no one has heard, no ear has perceived, no eye has seen any God besides You, who acts on behalf of those who wait for Him.<small><sub>**MT:**</sub></small>
 [[Isa.64.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.3|<< Isaiah 64:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.5|Isaiah 64:5 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 64:4** is...
+> $\quad$ referenced by: [[1Cor.2.9|1Cor 2:9]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

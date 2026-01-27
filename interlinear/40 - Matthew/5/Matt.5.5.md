@@ -5,6 +5,10 @@ Blessed [are] the meek: for they shall inherit the earth.
 Blessed are the meek, for they will inherit the earth.
 <small><sub>**Literal:**</sub></small>
 Blessed [are] the meek, for they themselves will inherit the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.4|<< Matthew 5:4]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.6|Matthew 5:6 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 5:5** is...
+> $\quad$ referencing: [[LXX.Ps.37.11|Ps 37:11]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

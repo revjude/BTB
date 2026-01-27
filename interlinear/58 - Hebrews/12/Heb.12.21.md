@@ -5,6 +5,10 @@ And so terrible was the sight, [that] Moses said, I exceedingly fear and quake:)
 The sight was so terrifying that even Moses said, “I am trembling with fear.”
 <small><sub>**Literal:**</sub></small>
 And thus fearful was the [thing] appearing [that] Moses said; Greatly afraid I am and trembling;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.20|<< Hebrews 12:20]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.22|Hebrews 12:22 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Hebrews 12:21** is...
+> $\quad$ referencing: [[LXX.Deut.9.19|Deut 9:19]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

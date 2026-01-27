@@ -5,6 +5,10 @@ And the name of the star is called Wormwood: and the third part of the waters be
 The name of the star is Wormwood. A third of the waters turned bitter like wormwood oil, and many people died from the bitter waters.
 <small><sub>**Literal:**</sub></small>
 And the name of the star is named <the> Wormwood; And became <the> a third of the waters into wormwood, and many of the men died from the waters because they were made bitter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.10|<< Revelation 8:10]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.12|Revelation 8:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 8:11** is...
+> $\quad$ alluding to: [[LXX.Jer.9.15|Jer 9:15]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

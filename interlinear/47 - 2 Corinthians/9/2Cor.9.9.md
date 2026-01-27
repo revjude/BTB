@@ -5,6 +5,10 @@
 As it is written: “He has scattered abroad His gifts to the poor; His righteousness endures forever.”
 <small><sub>**Literal:**</sub></small>
 Even as it has been written: He has scattered abroad, He has given to the poor, the righteousness of Him abides to the age.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.8|<< 2 Corinthians 9:8]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.10|2 Corinthians 9:10 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **2 Corinthians 9:9** is...
+> $\quad$ referencing: [[LXX.Ps.112.9|Ps 112:9]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

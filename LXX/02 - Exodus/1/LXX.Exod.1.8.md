@@ -6,6 +6,10 @@ Now there arose up a new king over Egypt, which knew not Joseph.
 <small><sub>**BSB:**</sub></small>
 Then a new king, who did not know Joseph, came to power in Egypt.<small><sub>**MT:**</sub></small>
 [[Exod.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.7|<< Exodus 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.9|Exodus 1:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 1:8** is...
+> $\quad$ referenced by: [[Acts.7.18|Acts 7:18]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

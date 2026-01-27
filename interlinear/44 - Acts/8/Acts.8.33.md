@@ -5,6 +5,10 @@ In his humiliation his judgment was taken away: and who shall declare his genera
 In His humiliation He was deprived of justice. Who can recount His descendants? For His life was removed from the earth.”
 <small><sub>**Literal:**</sub></small>
 In the humiliation of Him <the> justice from Him was taken away, The now generation of Him who will describe? For is removed from the earth the life of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.32|<< Acts 8:32]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.34|Acts 8:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 8:33** is...
+> $\quad$ referencing: [[LXX.Isa.53.7|Isa 53:7-8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

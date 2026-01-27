@@ -5,6 +5,10 @@ For whosoever shall do the will of God, the same is my brother, and my sister, a
 For whoever does the will of God is My brother and sister and mother.”
 <small><sub>**Literal:**</sub></small>
 Who[ever] for maybe may do the will <the> of God, he brother of Mine and sister of Mine and mother is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.34|<< Mark 3:34]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.1|Mark 4:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Mark 3:35** is...
+> $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

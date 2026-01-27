@@ -5,6 +5,10 @@ And he said, Behold, I have heard that there is corn in Egypt: get you down thit
 “Look,” he added, “I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.1|<< Genesis 42:1]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.3|Genesis 42:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 42:2** is...
+> $\quad$ referenced by: [[Acts.7.12|Acts 7:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

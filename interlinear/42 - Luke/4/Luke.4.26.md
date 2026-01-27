@@ -5,6 +5,10 @@ But unto none of them was Elias sent, save unto Sarepta, [a city] of Sidon, unto
 Yet Elijah was not sent to any of them, but to the widow of Zarephath in Sidon.
 <small><sub>**Literal:**</sub></small>
 and to none of them was sent Elijah only except to Zarephath <the> of Sidon to a woman a widow.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.25|<< Luke 4:25]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.27|Luke 4:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 4:26** is...
+> $\quad$ alluding to: [[LXX.1Kgs.17.1|1Kgs 17:1]] ☩ [[LXX.1Kgs.17.9|1Kgs 17:9]] ☩ [[LXX.1Kgs.18.1|1Kgs 18:1-2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

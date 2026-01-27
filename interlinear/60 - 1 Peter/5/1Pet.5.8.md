@@ -5,6 +5,10 @@ Be sober, be vigilant; because your adversary the devil, as a roaring lion, walk
 Be sober-minded and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.
 <small><sub>**Literal:**</sub></small>
 do be sober-minded, do watch that The adversary of You [the] devil as a lion roaring he prowls about seeking whom to devour;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.7|<< 1 Peter 5:7]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.9|1 Peter 5:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 5:8** is...
+> $\quad$ referencing: [[LXX.Ps.22.13|Ps 22:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the sixth angel poured out his vial upon the great river Euphrates; and the 
 And the sixth angel poured out his bowl on the great river Euphrates, and its water was dried up to prepare the way for the kings of the East.
 <small><sub>**Literal:**</sub></small>
 And the sixth angel poured out the bowl of him upon the river <the> great <the> Euphrates, and was dried up the water of it so that may be prepared the way of the kings <the> from the rising of the sun.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.11|<< Revelation 16:11]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.13|Revelation 16:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 16:12** is...
+> $\quad$ possibly alluding to: [[LXX.Isa.11.15|Isa 11:15-16]] ☩ [[LXX.Jer.50.38|Jer 50:38]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

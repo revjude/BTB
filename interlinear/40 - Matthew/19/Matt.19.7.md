@@ -5,6 +5,10 @@ They say unto him, Why did Moses then command to give a writing of divorcement, 
 “Why then,” they asked, “did Moses order a man to give his wife a certificate of divorce and send her away?”
 <small><sub>**Literal:**</sub></small>
 They say to Him; Why then Moses did command to give a roll of divorce and to send away her?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.6|<< Matthew 19:6]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.8|Matthew 19:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 19:7** is...
+> $\quad$ alluding to: [[LXX.Deut.24.1|Deut 24:1]][[LXX.Deut.24.3|, 3]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

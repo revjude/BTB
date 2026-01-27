@@ -5,6 +5,10 @@ But let us, who are of the day, be sober, putting on the breastplate of faith an
 But since we belong to the day, let us be sober, putting on the breastplate of faith and love, and the helmet of our hope of salvation.
 <small><sub>**Literal:**</sub></small>
 We ourselves however of [the] day being may be sober having put on [the] breastplate of faith and love and [the] helmet [the] hope of salvation;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.7|<< 1 Thessalonians 5:7]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.9|1 Thessalonians 5:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Thessalonians 5:8** is...
+> $\quad$ alluding to: [[LXX.Isa.59.17|Isa 59:17]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

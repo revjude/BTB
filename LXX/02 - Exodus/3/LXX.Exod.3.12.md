@@ -6,6 +6,10 @@ And he said, Certainly I will be with thee; and this [shall be] a token unto the
 <small><sub>**BSB:**</sub></small>
 “I will surely be with you,” God said, “and this will be the sign to you that I have sent you: When you have brought the people out of Egypt, all of you will worship God on this mountain.”<small><sub>**MT:**</sub></small>
 [[Exod.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.11|<< Exodus 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.13|Exodus 3:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 3:12** is...
+> $\quad$ referenced by: [[Acts.7.7|Acts 7:7]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

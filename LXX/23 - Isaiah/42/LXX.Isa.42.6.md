@@ -6,6 +6,10 @@ I the LORD have called thee in righteousness, and will hold thine hand, and will
 <small><sub>**BSB:**</sub></small>
 “I, the LORD, have called you for a righteous purpose, and I will take hold of your hand. I will keep you and appoint you to be a covenant for the people and a light to the nations,<small><sub>**MT:**</sub></small>
 [[Isa.42.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.5|<< Isaiah 42:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.7|Isaiah 42:7 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Isaiah 42:6** is...
+> $\quad$ referenced by: [[LXX.Isa.49.6|Isa 49:6]] ☩ [[Acts.13.47|Acts 13:47]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

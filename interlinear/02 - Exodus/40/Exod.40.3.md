@@ -5,6 +5,10 @@ And thou shalt put therein the ark of the testimony, and cover the ark with the 
 Put the ark of the Testimony in it and screen off the ark with the veil.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.2|<< Exodus 40:2]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.4|Exodus 40:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 40:3** is...
+> $\quad$ referenced by: [[Heb.9.2|Heb 9:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

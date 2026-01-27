@@ -5,6 +5,10 @@ In the midst of the street of it, and on either side of the river, [was there] t
 down the middle of the main street of the city. On either side of the river stood a tree of life, bearing twelve kinds of fruit and yielding a fresh crop for each month. And the leaves of the tree are for the healing of the nations.
 <small><sub>**Literal:**</sub></small>
 In [the] middle of the street of it and of the river, from here and from there, [was a] tree of life producing fruits twelve, according to month one each yielding the fruit of it, and the leaves of the tree [are] for [the] healing of the nations.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.1|<< Revelation 22:1]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.3|Revelation 22:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 22:2** is...
+> $\quad$ alluding to: [[LXX.Ezek.47.1|Ezek 47:1]] ☩ [[LXX.Ezek.47.7|Ezek 47:7]] ☩ [[LXX.Ezek.47.12|Ezek 47:12]] ☩ [[LXX.Zech.14.8|Zech 14:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

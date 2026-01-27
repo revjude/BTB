@@ -5,6 +5,10 @@ And there came an angel of the LORD, and sat under an oak which [was] in Ophrah,
 Then the angel of the LORD came and sat down under the oak in Ophrah that belonged to Joash the Abiezrite, where his son Gideon was threshing wheat in a winepress to hide it from the Midianites.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.10|<< Judges 6:10]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.12|Judges 6:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Judges 6:11** is...
+> $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

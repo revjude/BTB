@@ -5,6 +5,10 @@ And [till] Moses had done speaking with them, he put a vail on his face.
 When Moses had finished speaking with them, he put a veil over his face.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.32|<< Exodus 34:32]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.34|Exodus 34:34 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 34:33** is...
+> $\quad$ referenced by: [[2Cor.3.13|2Cor 3:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

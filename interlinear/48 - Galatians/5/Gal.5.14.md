@@ -5,6 +5,10 @@ For all the law is fulfilled in one word, [even] in this; Thou shalt love thy ne
 The entire law is fulfilled in a single decree: “Love your neighbor as yourself.”
 <small><sub>**Literal:**</sub></small>
 <the> For the entire Law in one word has been fulfilled in this You will love the neighbour of you as yourself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.13|<< Galatians 5:13]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.15|Galatians 5:15 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Galatians 5:14** is...
+> $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

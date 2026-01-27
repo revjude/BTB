@@ -5,6 +5,10 @@ And he gave him the covenant of circumcision: and so [Abraham] begat Isaac, and 
 Then God gave Abraham the covenant of circumcision, and Abraham became the father of Isaac and circumcised him on the eighth day. And Isaac became the father of Jacob, and Jacob of the twelve patriarchs.
 <small><sub>**Literal:**</sub></small>
 And He gave to him [the] covenant of circumcision; and thus he begat <the> Isaac and circumcised him on the day <the> eighth, and <the> Isaac <the> Jacob, and <the> Jacob the twelve patriarchs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.7|<< Acts 7:7]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.9|Acts 7:9 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:8** is...
+> $\quad$ alluding to: [[LXX.Gen.17.10|Gen 17:10]] ☩ [[LXX.Gen.21.3|Gen 21:3-4]] ☩ [[LXX.Gen.25.26|Gen 25:26]] ☩ [[LXX.Gen.42.13|Gen 42:13]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

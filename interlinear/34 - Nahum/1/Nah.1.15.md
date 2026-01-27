@@ -5,6 +5,10 @@ Behold upon the mountains the feet of him that bringeth good tidings, that publi
 Look to the mountains—the feet of one who brings good news, who proclaims peace! Celebrate your feasts, O Judah; fulfill your vows. For the wicked will never again march through you; they will be utterly cut off.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.14|<< Nahum 1:14]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.1|Nahum 2:1 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Nahum 1:15** is...
+> $\quad$ referenced by: [[Rom.10.15|Rom 10:15]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

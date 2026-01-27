@@ -6,6 +6,10 @@ And Aaron shall make an atonement upon the horns of it once in a year with the b
 <small><sub>**BSB:**</sub></small>
 Once a year Aaron shall make atonement on the horns of the altar. Throughout your generations he shall make atonement on it annually with the blood of the sin offering of atonement. The altar is most holy to the LORD.”<small><sub>**MT:**</sub></small>
 [[Exod.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.9|<< Exodus 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.11|Exodus 30:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 30:10** is...
+> $\quad$ referenced by: [[Heb.9.7|Heb 9:7]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

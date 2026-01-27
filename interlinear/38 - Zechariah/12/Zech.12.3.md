@@ -5,6 +5,10 @@ And in that day will I make Jerusalem a burdensome stone for all people: all tha
 On that day, when all the nations of the earth gather against her, I will make Jerusalem a heavy stone for all the peoples; all who would heave it away will be severely injured.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.2|<< Zechariah 12:2]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.4|Zechariah 12:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Zechariah 12:3** is...
+> $\quad$ referenced by: [[Matt.21.44|Matt 21:44]] ☩ [[Luke.20.18|Luke 20:18]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

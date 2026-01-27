@@ -5,6 +5,10 @@ And the LORD said unto her, Two nations [are] in thy womb, and two manner of peo
 and He declared to her: “Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.22|<< Genesis 25:22]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.24|Genesis 25:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 25:23** is...
+> $\quad$ referenced by: [[Rom.9.12|Rom 9:12]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

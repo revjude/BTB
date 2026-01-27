@@ -5,6 +5,10 @@ Then shall he say also unto them on the left hand, Depart from me, ye cursed, in
 Then He will say to those on His left, ‘Depart from Me, you who are cursed, into the eternal fire prepared for the devil and his angels.
 <small><sub>**Literal:**</sub></small>
 Then will He say also to those on [the] left; do depart from Me you who [are] cursed into the fire <the> eternal which prepared for the devil and the angels of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.40|<< Matthew 25:40]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.42|Matthew 25:42 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 25:41** is...
+> $\quad$ referencing: [[LXX.Ps.6.8|Ps 6:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

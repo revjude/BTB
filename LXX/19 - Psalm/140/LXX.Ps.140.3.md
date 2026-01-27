@@ -6,6 +6,10 @@ They have sharpened their tongues like a serpent; adders’ poison [is] under th
 <small><sub>**BSB:**</sub></small>
 They sharpen their tongues like snakes; the venom of vipers is on their lips. Selah<small><sub>**MT:**</sub></small>
 [[Ps.140.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.2|<< Psalm 140:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.4|Psalm 140:4 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Psalm 140:3** is...
+> $\quad$ referenced by: [[Rom.3.13|Rom 3:13]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

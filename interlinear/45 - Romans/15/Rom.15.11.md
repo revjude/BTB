@@ -5,6 +5,10 @@ And again, Praise the Lord, all ye Gentiles; and laud him, all ye people.
 And again: “Praise the Lord, all you Gentiles, and extol Him, all you peoples.”
 <small><sub>**Literal:**</sub></small>
 And again: do praise all  you who [are] Gentiles the Lord, and they should praise Him all the peoples.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.10|<< Romans 15:10]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.12|Romans 15:12 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Romans 15:11** is...
+> $\quad$ referencing: [[LXX.Ps.117.1|Ps 117:1]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

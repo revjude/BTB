@@ -5,6 +5,10 @@ Remember Lot’s wife.
 Remember Lot’s wife!
 <small><sub>**Literal:**</sub></small>
 do remember the wife of Lot!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.31|<< Luke 17:31]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.33|Luke 17:33 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Luke 17:32** is...
+> $\quad$ alluding to: [[LXX.Gen.19.26|Gen 19:26]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

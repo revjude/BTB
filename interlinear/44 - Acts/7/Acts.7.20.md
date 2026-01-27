@@ -5,6 +5,10 @@ In which time Moses was born, and was exceeding fair, and nourished up in his fa
 At that time Moses was born, and he was beautiful in the sight of God. For three months he was nurtured in his father’s house.
 <small><sub>**Literal:**</sub></small>
 In that time was born Moses and he was beautiful <the> to God; who was brought up months three in the house of the father of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.19|<< Acts 7:19]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.21|Acts 7:21 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Acts 7:20** is...
+> $\quad$ alluding to: [[LXX.Exod.2.2|Exod 2:2]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

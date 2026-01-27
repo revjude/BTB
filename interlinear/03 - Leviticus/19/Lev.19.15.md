@@ -5,6 +5,10 @@ Ye shall do no unrighteousness in judgment: thou shalt not respect the person of
 You must not pervert justice; you must not show partiality to the poor or favoritism to the rich; you are to judge your neighbor fairly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.14|<< Leviticus 19:14]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.16|Leviticus 19:16 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 19:15** is...
+> $\quad$ referenced by: [[Matt.18.16|Matt 18:16]] ☩ [[Jas.2.1|Jas 2:1]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

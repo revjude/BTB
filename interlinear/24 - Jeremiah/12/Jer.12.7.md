@@ -5,6 +5,10 @@ I have forsaken mine house, I have left mine heritage; I have given the dearly b
 I have forsaken My house; I have abandoned My inheritance. I have given the beloved of My soul into the hands of her enemies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.6|<< Jeremiah 12:6]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.8|Jeremiah 12:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Jeremiah 12:7** is...
+> $\quad$ referenced by: [[Matt.23.38|Matt 23:38]] ☩ [[Luke.13.35|Luke 13:35]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

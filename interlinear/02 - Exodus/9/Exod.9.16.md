@@ -5,6 +5,10 @@ And in very deed for this [cause] have I raised thee up, for to shew [in] thee m
 But I have raised you up for this very purpose, that I might display My power to you, and that My name might be proclaimed in all the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.15|<< Exodus 9:15]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.17|Exodus 9:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 9:16** is...
+> $\quad$ referenced by: [[Rom.9.17|Rom 9:17]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And the likeness of the firmament upon the heads of the living creature [was] as
 Spread out above the heads of the living creatures was the likeness of an awesome expanse, gleaming like crystal.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.21|<< Ezekiel 1:21]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.23|Ezekiel 1:23 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Ezekiel 1:22** is...
+> $\quad$ referenced by: [[Rev.4.6|Rev 4:6]] ☩ [[Rev.15.2|Rev 15:2]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

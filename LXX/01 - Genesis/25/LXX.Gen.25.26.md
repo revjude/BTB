@@ -6,6 +6,10 @@ And after that came his brother out, and his hand took hold on Esau’s heel; an
 <small><sub>**BSB:**</sub></small>
 After this, his brother came out grasping Esau’s heel; so he was named Jacob. And Isaac was sixty years old when the twins were born.<small><sub>**MT:**</sub></small>
 [[Gen.25.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.25|<< Genesis 25:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.27|Genesis 25:27 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 25:26** is...
+> $\quad$ referenced by: [[Acts.7.8|Acts 7:8]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

@@ -5,6 +5,10 @@ And the LORD God formed man [of] the dust of the ground, and breathed into his n
 Then the LORD God formed man from the dust of the ground and breathed the breath of life into his nostrils, and the man became a living being.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.6|<< Genesis 2:6]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.8|Genesis 2:8 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 2:7** is...
+> $\quad$ referenced by: [[1Cor.15.45|1Cor 15:45]] ☩ [[1Cor.15.47|1Cor 15:47]] ☩ [[1Tim.2.13|1Tim 2:13]]
+
 
 | Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |

@@ -5,6 +5,10 @@ And then will I profess unto them, I never knew you: depart from me, ye that wor
 Then I will tell them plainly, ‘I never knew you; depart from Me, you workers of lawlessness!’
 <small><sub>**Literal:**</sub></small>
 And then I will declare to them that Never knew I you; do depart from Me you who [are] working <the> lawlessness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.22|<< Matthew 7:22]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.24|Matthew 7:24 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Matthew 7:23** is...
+> $\quad$ referencing: [[LXX.Ps.6.8|Ps 6:8]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

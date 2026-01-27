@@ -5,6 +5,10 @@ With whom the kings of the earth have committed fornication, and the inhabitants
 The kings of the earth were immoral with her, and those who dwell on the earth were intoxicated with the wine of her immorality.”
 <small><sub>**Literal:**</sub></small>
 with whom committed sexual immorality the kings of the earth, and were made drunk those that dwelling on the earth with the wine of the sexual immorality of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.1|<< Revelation 17:1]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.3|Revelation 17:3 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Revelation 17:2** is...
+> $\quad$ alluding to: [[LXX.Jer.51.7|Jer 51:7]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |

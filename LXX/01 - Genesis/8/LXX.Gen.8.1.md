@@ -9,6 +9,10 @@ And God remembered Noah, and every living thing, and all the cattle that [was] w
 <small><sub>**BSB:**</sub></small>
 But God remembered Noah and all the animals and livestock that were with him in the ark. And God sent a wind over the earth, and the waters began to subside.<small><sub>**MT:**</sub></small>
 [[Gen.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.24|<< Genesis 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.2|Genesis 8:2 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Genesis 8:1** is...
+> $\quad$ referenced by: [[2Pet.2.5|2Pet 2:5]]
+
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |

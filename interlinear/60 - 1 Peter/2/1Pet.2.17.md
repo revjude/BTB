@@ -5,6 +5,10 @@ Honour all [men]. Love the brotherhood. Fear God. Honour the king.
 Treat everyone with high regard: Love the brotherhood of believers, fear God, honor the king.
 <small><sub>**Literal:**</sub></small>
 Everyone do honor, The brotherhood do love, <the> God do fear, the king do honor.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.16|<< 1 Peter 2:16]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.18|1 Peter 2:18 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **1 Peter 2:17** is...
+> $\quad$ alluding to: [[LXX.Prov.24.21|Prov 24:21]]
+
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
