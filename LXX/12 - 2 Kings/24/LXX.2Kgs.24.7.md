@@ -9,35 +9,35 @@ Now the king of Egypt did not march out of his land again, because the king of B
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| did not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| proceed | <span class="asgreek">προσέθετο <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| any longer | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| \[the\] king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Egypt | <span class="asgreek">Αιγύπτου <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to come forth | <span class="asgreek">εξελθείν <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his land, | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| took | <span class="asgreek">έλαβε <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| \[the\] king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Babylon | <span class="asgreek">Βαβυλώνος <sup><small><small>[[G0897]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rushing stream | <span class="asgreek">χειμάρρου <sup><small><small>[[G5493]]</small></small></sup> </span> |
-| of Egypt | <span class="asgreek">Αιγύπτου <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| river | <span class="asgreek">ποταμού <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| Euphrates | <span class="asgreek">Ευφράτου <sup><small><small>[[G2166]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| as much as | <span class="asgreek">όσα <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Egypt. | <span class="asgreek">Αιγύπτου <sup><small><small>[[G0125]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| proceed | <big><span class="asgreek">προσέθετο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to come forth | <big><span class="asgreek">εξελθείν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his land, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rushing stream | <big><span class="asgreek">χειμάρρου</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
+| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| river | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| Euphrates | <big><span class="asgreek">Ευφράτου</span></big> <sup><small><small>[[G2166]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
 [[2Kgs.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.6|<< 2 Kings 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.8|2 Kings 24:8 >>]]</td></tr></table>
 
 

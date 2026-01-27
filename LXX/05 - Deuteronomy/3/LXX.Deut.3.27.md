@@ -9,33 +9,33 @@ Go to the top of Pisgah and look to the west and north and south and east. See t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Ascend | <span class="asgreek">ανάβηθι <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| top | <span class="asgreek">κορυφήν <sup><small><small>[[G8073]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dressed stone, | <span class="asgreek">λελαξευμένου <sup><small><small>[[G8162]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lift up | <span class="asgreek">ανάβλεψον <sup><small><small>[[G0308]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your eyes | <span class="asgreek">οφθαλμοίς <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| towards | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \[the\] west | <span class="asgreek">θάλασσαν <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] north | <span class="asgreek">βορράν <sup><small><small>[[G1005]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] south | <span class="asgreek">λίβα <sup><small><small>[[G3047]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] east! | <span class="asgreek">ανατολάς <sup><small><small>[[G0395]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold | <span class="asgreek">ίδε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| \[with\]\<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your eyes! | <span class="asgreek">οφθαλμοίς <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| pass over | <span class="asgreek">διαβήση <sup><small><small>[[G1224]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this Jordan. | <span class="asgreek">Ιορδάνην <sup><small><small>[[G2446]]</small></small></sup> <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| Ascend | <big><span class="asgreek">ανάβηθι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| top | <big><span class="asgreek">κορυφήν</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dressed stone, | <big><span class="asgreek">λελαξευμένου</span></big> <sup><small><small>[[G8162]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lift up | <big><span class="asgreek">ανάβλεψον</span></big> <sup><small><small>[[G0308]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| towards | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \[the\] west | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] north | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] south | <big><span class="asgreek">λίβα</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] east! | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| \[with\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your eyes! | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| pass over | <big><span class="asgreek">διαβήση</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this Jordan. | <big><span class="asgreek">Ιορδάνην</span></big> <sup><small><small>[[G2446]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
 [[Deut.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.26|<< Deuteronomy 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.28|Deuteronomy 3:28 >>]]</td></tr></table>
 
 

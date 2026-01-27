@@ -13,22 +13,22 @@ At the sacrifice I am preparing, you will eat fat until you are gorged and drink
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall eat | <span class="asgreek">φάγεσθε <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| fat | <span class="asgreek">στέαρ <sup><small><small>[[G9155]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| fullness, | <span class="asgreek">πλησμονήν <sup><small><small>[[G4140]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall drink | <span class="asgreek">πίεσθε <sup><small><small>[[G4095]]</small></small></sup> </span> |
-| blood | <span class="asgreek">αίμα <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| intoxication | <span class="asgreek">μέθην <sup><small><small>[[G3178]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my sacrifice | <span class="asgreek">θυσίας <sup><small><small>[[G2378]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in which | <span class="asgreek">η <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I sacrificed | <span class="asgreek">έθυσα <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| to you. | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| fat | <big><span class="asgreek">στέαρ</span></big> <sup><small><small>[[G9155]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| fullness, | <big><span class="asgreek">πλησμονήν</span></big> <sup><small><small>[[G4140]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall drink | <big><span class="asgreek">πίεσθε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| intoxication | <big><span class="asgreek">μέθην</span></big> <sup><small><small>[[G3178]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I sacrificed | <big><span class="asgreek">έθυσα</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.39.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.18|<< Ezekiel 39:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.20|Ezekiel 39:20 >>]]</td></tr></table>
 
 

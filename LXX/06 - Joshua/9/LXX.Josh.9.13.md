@@ -9,28 +9,28 @@ These wineskins were new when we filled them, but look, they are cracked. And th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| these are | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| leather bags | <span class="asgreek">ασκοί <sup><small><small>[[G0779]]</small></small></sup> </span> |
-| for the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wine | <span class="asgreek">οίνου <sup><small><small>[[G3631]]</small></small></sup> </span> |
-| which | <span class="asgreek">ους <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| we filled | <span class="asgreek">επλήσαμεν <sup><small><small>[[G4130]]</small></small></sup> </span> |
-| new, | <span class="asgreek">καινούς <sup><small><small>[[G2537]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| these are | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| torn. | <span class="asgreek">ερρώγασι <sup><small><small>[[G4486]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| these \[are\] | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our garments | <span class="asgreek">ιμάτια <sup><small><small>[[G2440]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| made old | <span class="asgreek">πεπαλαίωνται <sup><small><small>[[G3822]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| long | <span class="asgreek">πολλής <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| journey | <span class="asgreek">οδού <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| exceedingly | <span class="asgreek">σφόδρα <sup><small><small>[[G4970]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| these are | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| leather bags | <big><span class="asgreek">ασκοί</span></big> <sup><small><small>[[G0779]]</small></small></sup> |
+| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wine | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| we filled | <big><span class="asgreek">επλήσαμεν</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
+| new, | <big><span class="asgreek">καινούς</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| these are | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| torn. | <big><span class="asgreek">ερρώγασι</span></big> <sup><small><small>[[G4486]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| these \[are\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our garments | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| made old | <big><span class="asgreek">πεπαλαίωνται</span></big> <sup><small><small>[[G3822]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| long | <big><span class="asgreek">πολλής</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| journey | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| exceedingly | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
 [[Josh.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.12|<< Joshua 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.14|Joshua 9:14 >>]]</td></tr></table>
 
 

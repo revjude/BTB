@@ -9,19 +9,19 @@ And now you say, ‘Go tell your lord that Elijah is here!’ He will kill me!�
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| say, | <span class="asgreek">λέγεις <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Go, | <span class="asgreek">πορεύου <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| tell | <span class="asgreek">λέγε <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your master, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| Elijah! | <span class="asgreek">Ηλίας <sup><small><small>[[G2243]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he will kill | <span class="asgreek">αποκτενεί <sup><small><small>[[G0615]]</small></small></sup> </span> |
-| me. | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| say, | <big><span class="asgreek">λέγεις</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Go, | <big><span class="asgreek">πορεύου</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| tell | <big><span class="asgreek">λέγε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your master, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| Elijah! | <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he will kill | <big><span class="asgreek">αποκτενεί</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
+| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Kgs.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.13|<< 1 Kings 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.15|1 Kings 18:15 >>]]</td></tr></table>
 
 

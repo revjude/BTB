@@ -9,17 +9,17 @@ Therefore He sent the hand that wrote the inscription.<small><sub>**MT:**</sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this, | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| his presence | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| was sent | <span class="asgreek">απεστάλη <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| \[the\] knuckle | <span class="asgreek">αστράγαλος <sup><small><small>[[G6575]]</small></small></sup> </span> |
-| of a hand | <span class="asgreek">χειρός <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this writing | <span class="asgreek">γραφήν <sup><small><small>[[G1124]]</small></small></sup> <span class="asgreek">ταύτην <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| he arranged. | <span class="asgreek">ενέταξε <sup><small><small>[[G7262]]</small></small></sup> </span> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| his presence | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was sent | <big><span class="asgreek">απεστάλη</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| \[the\] knuckle | <big><span class="asgreek">αστράγαλος</span></big> <sup><small><small>[[G6575]]</small></small></sup> |
+| of a hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this writing | <big><span class="asgreek">γραφήν</span></big> <sup><small><small>[[G1124]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| he arranged. | <big><span class="asgreek">ενέταξε</span></big> <sup><small><small>[[G7262]]</small></small></sup> |
 [[Dan.5.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.23|<< Daniel 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.25|Daniel 5:25 >>]]</td></tr></table>
 
 

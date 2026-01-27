@@ -12,29 +12,29 @@ So the Philistines took dirt and stopped up all the wells that his father’s se
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wells | <span class="asgreek">φρέατα <sup><small><small>[[G5421]]</small></small></sup> </span> |
-| which | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| dug | <span class="asgreek">ώρυξαν <sup><small><small>[[G3736]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| servants | <span class="asgreek">παίδες <sup><small><small>[[G3816]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his father | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| obstructed | <span class="asgreek">ενέφραξαν <sup><small><small>[[G7213]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| time | <span class="asgreek">χρόνω <sup><small><small>[[G5550]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his father | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Philistines | <span class="asgreek">Φυλιστιείμ <sup><small><small>[[H6430]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| filled | <span class="asgreek">έπλησαν <sup><small><small>[[G4130]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[with\] earth. | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wells | <big><span class="asgreek">φρέατα</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
+| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| dug | <big><span class="asgreek">ώρυξαν</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| obstructed | <big><span class="asgreek">ενέφραξαν</span></big> <sup><small><small>[[G7213]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| time | <big><span class="asgreek">χρόνω</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Philistines | <big><span class="asgreek">Φυλιστιείμ</span></big> <sup><small><small>[[H6430]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| filled | <big><span class="asgreek">έπλησαν</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[with\] earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
 [[Gen.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.14|<< Genesis 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.16|Genesis 26:16 >>]]</td></tr></table>
 
 

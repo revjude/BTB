@@ -14,18 +14,18 @@ A song of ascents. Of David. Behold, how good and pleasant it is when brothers l
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">δη <sup><small><small>[[G1211]]</small></small></sup> </span> |
-| what | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \[is\] good | <span class="asgreek">καλόν <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| what | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \[is\] delightful, | <span class="asgreek">τερπνόν <sup><small><small>[[G9423]]</small></small></sup> </span> |
-| none other than | <span class="asgreek">αλλ΄ η <sup><small><small>[[G6227]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">κατοικείν <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| of \[the\] brethren | <span class="asgreek">αδελφούς <sup><small><small>[[G0080]]</small></small></sup> </span> |
-| together. | <span class="asgreek">επιτοαυτό <sup><small><small>[[G7464]]</small></small></sup> </span> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
+| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \[is\] good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \[is\] delightful, | <big><span class="asgreek">τερπνόν</span></big> <sup><small><small>[[G9423]]</small></small></sup> |
+| none other than | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">κατοικείν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| of \[the\] brethren | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
+| together. | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
 [[Ps.133.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.18|<< Psalm 132:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.133.2|Psalm 133:2 >>]]</td></tr></table>
 
 

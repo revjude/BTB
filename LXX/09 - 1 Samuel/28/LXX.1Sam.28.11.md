@@ -9,20 +9,20 @@ Then said the woman, Whom shall I bring up unto thee? And he said, Bring me up S
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| woman | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Saul, | <span class="asgreek">Σαούλ <sup><small><small>[[G4549]]</small></small></sup> </span> |
-| Whom | <span class="asgreek">τίνα <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| should I lead up | <span class="asgreek">αναγάγω <sup><small><small>[[G0321]]</small></small></sup> </span> |
-| to you? | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Lead up Samuel | <span class="asgreek">Σαμουήλ <sup><small><small>[[G4545]]</small></small></sup> <span class="asgreek">ανάγαγέ <sup><small><small>[[G0321]]</small></small></sup> </span> |
-| to me! | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Saul, | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
+| Whom | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| should I lead up | <big><span class="asgreek">αναγάγω</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
+| to you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Lead up Samuel | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> <big><span class="asgreek">ανάγαγέ</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
+| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Sam.28.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.10|<< 1 Samuel 28:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.12|1 Samuel 28:12 >>]]</td></tr></table>
 
 

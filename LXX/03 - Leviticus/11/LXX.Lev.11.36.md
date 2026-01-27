@@ -9,21 +9,21 @@ Nevertheless, a spring or cistern containing water will remain clean, but one wh
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Except | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| springs | <span class="asgreek">πηγών <sup><small><small>[[G4077]]</small></small></sup> </span> |
-| of waters, | <span class="asgreek">υδάτων <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| \[or\] | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a well, | <span class="asgreek">λάκκου <sup><small><small>[[G8154]]</small></small></sup> </span> |
-| \[or\] | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a gathering | <span class="asgreek">συναγωγής <sup><small><small>[[G4864]]</small></small></sup> </span> |
-| of water, | <span class="asgreek">ύδατος <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| clean; | <span class="asgreek">καθαρόν <sup><small><small>[[G2513]]</small></small></sup> </span> |
-| but the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| touching | <span class="asgreek">απτόμενος <sup><small><small>[[G0680]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their decaying flesh, | <span class="asgreek">θνησιμαίων <sup><small><small>[[G7681]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| it shall be unclean. | <span class="asgreek">ακάθαρτος <sup><small><small>[[G0169]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| Except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| springs | <big><span class="asgreek">πηγών</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
+| of waters, | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| \[or\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a well, | <big><span class="asgreek">λάκκου</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
+| \[or\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a gathering | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
+| of water, | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| clean; | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
+| but the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| touching | <big><span class="asgreek">απτόμενος</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their decaying flesh, | <big><span class="asgreek">θνησιμαίων</span></big> <sup><small><small>[[G7681]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| it shall be unclean. | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Lev.11.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.35|<< Leviticus 11:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.37|Leviticus 11:37 >>]]</td></tr></table>
 
 

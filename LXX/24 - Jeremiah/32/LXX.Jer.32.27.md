@@ -9,17 +9,17 @@ Behold, I [am] the LORD, the God of all flesh: is there any thing too hard for m
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I am | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| of all | <span class="asgreek">πάσης <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| flesh. | <span class="asgreek">σαρκός <sup><small><small>[[G4561]]</small></small></sup> </span> |
-| Shall | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| be hidden | <span class="asgreek">κρυβήσεταί <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| anything | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
+| I am | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| of all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| flesh. | <big><span class="asgreek">σαρκός</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| be hidden | <big><span class="asgreek">κρυβήσεταί</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| anything | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
 [[Jer.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.26|<< Jeremiah 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.28|Jeremiah 32:28 >>]]</td></tr></table>
 
 

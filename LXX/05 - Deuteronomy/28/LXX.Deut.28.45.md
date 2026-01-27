@@ -9,45 +9,45 @@ All these curses will come upon you. They will pursue you and overtake you until
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall come | <span class="asgreek">ελεύσονται <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσαι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| these curses | <span class="asgreek">κατάραι <sup><small><small>[[G2671]]</small></small></sup> <span class="asgreek">αύται <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall pursue | <span class="asgreek">καταδιώξονταί <sup><small><small>[[G2614]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| overtake | <span class="asgreek">καταλήψονταί <sup><small><small>[[G2638]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| they shall utterly destroy | <span class="asgreek">εξολοθρεύση <sup><small><small>[[G1842]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| they shall consume | <span class="asgreek">απολέση <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| you did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| listen to | <span class="asgreek">εισήκουσας <sup><small><small>[[G1522]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| voice | <span class="asgreek">φωνής <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your God, | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to guard | <span class="asgreek">φυλάσσεσθαι <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his commandments, | <span class="asgreek">εντολάς <sup><small><small>[[G1785]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his ordinances, | <span class="asgreek">δικαιώματα <sup><small><small>[[G1345]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as many as | <span class="asgreek">όσα <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| I gave charge | <span class="asgreek">ενετείλατό <sup><small><small>[[G1781]]</small></small></sup> </span> |
-| to you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall come | <big><span class="asgreek">ελεύσονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| these curses | <big><span class="asgreek">κατάραι</span></big> <sup><small><small>[[G2671]]</small></small></sup> <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall pursue | <big><span class="asgreek">καταδιώξονταί</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| overtake | <big><span class="asgreek">καταλήψονταί</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| they shall utterly destroy | <big><span class="asgreek">εξολοθρεύση</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| they shall consume | <big><span class="asgreek">απολέση</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| listen to | <big><span class="asgreek">εισήκουσας</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to guard | <big><span class="asgreek">φυλάσσεσθαι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his commandments, | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his ordinances, | <big><span class="asgreek">δικαιώματα</span></big> <sup><small><small>[[G1345]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as many as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| I gave charge | <big><span class="asgreek">ενετείλατό</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
+| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.28.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.44|<< Deuteronomy 28:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.46|Deuteronomy 28:46 >>]]</td></tr></table>
 
 

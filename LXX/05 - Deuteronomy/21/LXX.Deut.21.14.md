@@ -9,25 +9,25 @@ And if you are not pleased with her, you are to let her go wherever she wishes. 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should not want | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">θελήσης <sup><small><small>[[G2309]]</small></small></sup> </span> |
-| her, | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall send | <span class="asgreek">εξαποστελείς <sup><small><small>[[G1821]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| free, | <span class="asgreek">ελευθέραν <sup><small><small>[[G1658]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| for sale | <span class="asgreek">πράσει <sup><small><small>[[G8876]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| sell \[her\] | <span class="asgreek">πραθήσεται <sup><small><small>[[G4097]]</small></small></sup> </span> |
-| for silver, | <span class="asgreek">αργυρίου <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| disrespect | <span class="asgreek">αθετήσεις <sup><small><small>[[G0114]]</small></small></sup> </span> |
-| her, | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| you humbled | <span class="asgreek">εταπείνωσας <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| her. | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should not want | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">θελήσης</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
+| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall send | <big><span class="asgreek">εξαποστελείς</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| free, | <big><span class="asgreek">ελευθέραν</span></big> <sup><small><small>[[G1658]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| for sale | <big><span class="asgreek">πράσει</span></big> <sup><small><small>[[G8876]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| sell \[her\] | <big><span class="asgreek">πραθήσεται</span></big> <sup><small><small>[[G4097]]</small></small></sup> |
+| for silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| disrespect | <big><span class="asgreek">αθετήσεις</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
+| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| you humbled | <big><span class="asgreek">εταπείνωσας</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.21.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.13|<< Deuteronomy 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.15|Deuteronomy 21:15 >>]]</td></tr></table>
 
 

@@ -9,30 +9,30 @@ Hadadezer sent messengers to bring more Arameans from beyond the Euphrates, and 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Hadarezer sent, | <span class="asgreek">απέστειλεν <sup><small><small>[[G0649]]</small></small></sup> <span class="asgreek">Αδρααζάρ <sup><small><small>[[H1928]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gathered together | <span class="asgreek">συνήγαγε <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Syrian | <span class="asgreek">Συρίαν <sup><small><small>[[G4947]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| other side | <span class="asgreek">πέραν <sup><small><small>[[G4008]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| river. | <span class="asgreek">ποταμού <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they came | <span class="asgreek">παρεγένοντο <sup><small><small>[[G3854]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Helam. | <span class="asgreek">Αιλάμ <sup><small><small>[[G1639]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shobach | <span class="asgreek">Σωβάχ <sup><small><small>[[H7731]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| commander-in-chief | <span class="asgreek">αρχιστράτηγος <sup><small><small>[[G6559]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Hadarezer | <span class="asgreek">Αδρααζάρ <sup><small><small>[[H1928]]</small></small></sup> </span> |
-| \[was\] in front of | <span class="asgreek">έμπροσθεν <sup><small><small>[[G1715]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Hadarezer sent, | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Αδρααζάρ</span></big> <sup><small><small>[[H1928]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gathered together | <big><span class="asgreek">συνήγαγε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Syrian | <big><span class="asgreek">Συρίαν</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| river. | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they came | <big><span class="asgreek">παρεγένοντο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Helam. | <big><span class="asgreek">Αιλάμ</span></big> <sup><small><small>[[G1639]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shobach | <big><span class="asgreek">Σωβάχ</span></big> <sup><small><small>[[H7731]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| commander-in-chief | <big><span class="asgreek">αρχιστράτηγος</span></big> <sup><small><small>[[G6559]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Hadarezer | <big><span class="asgreek">Αδρααζάρ</span></big> <sup><small><small>[[H1928]]</small></small></sup> |
+| \[was\] in front of | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[2Sam.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.15|<< 2 Samuel 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.17|2 Samuel 10:17 >>]]</td></tr></table>
 
 

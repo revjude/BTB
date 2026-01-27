@@ -12,25 +12,25 @@ If there is a dispute between men, they are to go to court to be judged, so that
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And if | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| there be | <span class="asgreek">γένηται <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| a dispute | <span class="asgreek">αντιλογία <sup><small><small>[[G0485]]</small></small></sup> </span> |
-| between | <span class="asgreek">αναμέσον <sup><small><small>[[G6271]]</small></small></sup> </span> |
-| men, | <span class="asgreek">ανθρώπων <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they should come forward | <span class="asgreek">προσέλθωσιν <sup><small><small>[[G4334]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| judgment, | <span class="asgreek">κρίσιν <sup><small><small>[[G2920]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they should judge, | <span class="asgreek">κρίνωσι <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| should do justice | <span class="asgreek">δικαιώσωσι <sup><small><small>[[G1344]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| just, | <span class="asgreek">δίκαιον <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| should condemn | <span class="asgreek">καταγνώσι <sup><small><small>[[G2607]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| impious; | <span class="asgreek">ασεβούς <sup><small><small>[[G0765]]</small></small></sup> </span> |
+| And if | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| there be | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| a dispute | <big><span class="asgreek">αντιλογία</span></big> <sup><small><small>[[G0485]]</small></small></sup> |
+| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
+| men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they should come forward | <big><span class="asgreek">προσέλθωσιν</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| judgment, | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they should judge, | <big><span class="asgreek">κρίνωσι</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| should do justice | <big><span class="asgreek">δικαιώσωσι</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
+| for the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| just, | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| should condemn | <big><span class="asgreek">καταγνώσι</span></big> <sup><small><small>[[G2607]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| impious; | <big><span class="asgreek">ασεβούς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
 [[Deut.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.22|<< Deuteronomy 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.2|Deuteronomy 25:2 >>]]</td></tr></table>
 
 

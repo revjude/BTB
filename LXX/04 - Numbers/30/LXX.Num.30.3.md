@@ -9,22 +9,22 @@ And if a woman in her father’s house during her youth makes a vow to the LORD 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| should vow | <span class="asgreek">εύξηται <sup><small><small>[[G2172]]</small></small></sup> </span> |
-| a woman | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| a vow | <span class="asgreek">ευχήν <sup><small><small>[[G2171]]</small></small></sup> </span> |
-| \[to the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| confirm | <span class="asgreek">ορίσηται <sup><small><small>[[G3724]]</small></small></sup> </span> |
-| a set of limits | <span class="asgreek">ορισμόν <sup><small><small>[[G8547]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκω <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of her father | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her youth; | <span class="asgreek">νεότητι <sup><small><small>[[G3503]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| should vow | <big><span class="asgreek">εύξηται</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
+| a woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| a vow | <big><span class="asgreek">ευχήν</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
+| \[to the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| confirm | <big><span class="asgreek">ορίσηται</span></big> <sup><small><small>[[G3724]]</small></small></sup> |
+| a set of limits | <big><span class="asgreek">ορισμόν</span></big> <sup><small><small>[[G8547]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of her father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her youth; | <big><span class="asgreek">νεότητι</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Num.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.2|<< Numbers 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.4|Numbers 30:4 >>]]</td></tr></table>
 
 

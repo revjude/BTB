@@ -9,27 +9,27 @@ by the God of your father who helps you, and by the Almighty who blesses you, wi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gave help | <span class="asgreek">εβοήθησέ <sup><small><small>[[G0997]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my God | <span class="asgreek">θεος <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">εμός <sup><small><small>[[G1699]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| blessed | <span class="asgreek">ευλόγησέ <sup><small><small>[[G2127]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[with the\] blessing | <span class="asgreek">ευλογίαν <sup><small><small>[[G2129]]</small></small></sup> </span> |
-| of heaven | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| above, | <span class="asgreek">άνωθεν <sup><small><small>[[G0509]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] blessing | <span class="asgreek">ευλογίαν <sup><small><small>[[G2129]]</small></small></sup> </span> |
-| of earth | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| having | <span class="asgreek">εχούσης <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| all \[things\]; | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| because of | <span class="asgreek">είνεκεν <sup><small><small>[[G1752]]</small></small></sup> </span> |
-| \[the\] blessing | <span class="asgreek">ευλογίας <sup><small><small>[[G2129]]</small></small></sup> </span> |
-| of breasts | <span class="asgreek">μαστών <sup><small><small>[[G3149]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of \[the\] womb; | <span class="asgreek">μήτρας <sup><small><small>[[G3388]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gave help | <big><span class="asgreek">εβοήθησέ</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my God | <big><span class="asgreek">θεος</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">εμός</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| blessed | <big><span class="asgreek">ευλόγησέ</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[with the\] blessing | <big><span class="asgreek">ευλογίαν</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
+| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| above, | <big><span class="asgreek">άνωθεν</span></big> <sup><small><small>[[G0509]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] blessing | <big><span class="asgreek">ευλογίαν</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
+| of earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| having | <big><span class="asgreek">εχούσης</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| all \[things\]; | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| because of | <big><span class="asgreek">είνεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
+| \[the\] blessing | <big><span class="asgreek">ευλογίας</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
+| of breasts | <big><span class="asgreek">μαστών</span></big> <sup><small><small>[[G3149]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of \[the\] womb; | <big><span class="asgreek">μήτρας</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
 [[Gen.49.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.24|<< Genesis 49:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.26|Genesis 49:26 >>]]</td></tr></table>
 
 

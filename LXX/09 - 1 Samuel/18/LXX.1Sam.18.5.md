@@ -9,40 +9,40 @@ So David marched out and prospered in everything Saul sent him to do, and Saul s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| David went forth | <span class="asgreek">εξεπορεύετο <sup><small><small>[[G1607]]</small></small></sup> <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| perceiving | <span class="asgreek">συνιών <sup><small><small>[[G4920]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσιν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| what | <span class="asgreek">οις <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| sent | <span class="asgreek">απέστειλεν <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Saul | <span class="asgreek">Σαούλ <sup><small><small>[[G4549]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| placed | <span class="asgreek">κατέστησεν <sup><small><small>[[G2525]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Saul | <span class="asgreek">Σαούλ <sup><small><small>[[G4549]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| men | <span class="asgreek">άνδρας <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| \[of\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| war. | <span class="asgreek">πολέμου <sup><small><small>[[G4171]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he pleased | <span class="asgreek">ήρεσεν <sup><small><small>[[G0700]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] eyes | <span class="asgreek">οφθαλμοίς <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| of all | <span class="asgreek">παντός <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people, | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| also | <span class="asgreek">γε <sup><small><small>[[G1065]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] eyes | <span class="asgreek">οφθαλμοίς <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| manservants | <span class="asgreek">δούλων <sup><small><small>[[G1401]]</small></small></sup> </span> |
-| of Saul. | <span class="asgreek">Σαούλ <sup><small><small>[[G4549]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| David went forth | <big><span class="asgreek">εξεπορεύετο</span></big> <sup><small><small>[[G1607]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| perceiving | <big><span class="asgreek">συνιών</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| what | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| placed | <big><span class="asgreek">κατέστησεν</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| \[of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| war. | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he pleased | <big><span class="asgreek">ήρεσεν</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| of all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| also | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| manservants | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
+| of Saul. | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
 [[1Sam.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.4|<< 1 Samuel 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.6|1 Samuel 18:6 >>]]</td></tr></table>
 
 

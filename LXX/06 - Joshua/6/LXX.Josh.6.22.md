@@ -9,34 +9,34 @@ Meanwhile, Joshua told the two men who had spied out the land, “Go into the ho
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| young men | <span class="asgreek">νεανίσκοις <sup><small><small>[[G3495]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| spying out | <span class="asgreek">κατασκοπεύσασι <sup><small><small>[[G2684]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land, | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| Joshua said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Ιησούς <sup><small><small>[[H3091]]</small></small></sup> </span> |
-| You enter | <span class="asgreek">εισέλθατε <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οικίαν <sup><small><small>[[G3614]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| woman, | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| harlot, | <span class="asgreek">πόρνης <sup><small><small>[[G4204]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lead | <span class="asgreek">εξαγάγετε <sup><small><small>[[G1806]]</small></small></sup> </span> |
-| her from there, | <span class="asgreek">εκείθεν <sup><small><small>[[G1564]]</small></small></sup> <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| as much as | <span class="asgreek">όσα <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| with her, | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| you swore by an oath | <span class="asgreek">ωμόσατε <sup><small><small>[[G3660]]</small></small></sup> </span> |
-| to her! | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| young men | <big><span class="asgreek">νεανίσκοις</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| spying out | <big><span class="asgreek">κατασκοπεύσασι</span></big> <sup><small><small>[[G2684]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Joshua said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
+| You enter | <big><span class="asgreek">εισέλθατε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| woman, | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| harlot, | <big><span class="asgreek">πόρνης</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lead | <big><span class="asgreek">εξαγάγετε</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
+| her from there, | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| with her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| you swore by an oath | <big><span class="asgreek">ωμόσατε</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
+| to her! | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Josh.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.21|<< Joshua 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.23|Joshua 6:23 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ I will lay waste the mountains and hills and dry up all their vegetation. I will
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| desolate | <span class="asgreek">ερημώσω <sup><small><small>[[G2049]]</small></small></sup> </span> |
-| mountains | <span class="asgreek">όρη <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| hills | <span class="asgreek">βουνούς <sup><small><small>[[G1015]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their grass | <span class="asgreek">χόρτον <sup><small><small>[[G5528]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| will dry out | <span class="asgreek">ξηρανώ <sup><small><small>[[G3583]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will make | <span class="asgreek">θήσω <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| rivers | <span class="asgreek">ποταμούς <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| islands, | <span class="asgreek">νήσους <sup><small><small>[[G3520]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| marshes | <span class="asgreek">έλη <sup><small><small>[[G7186]]</small></small></sup> </span> |
-| to dry \[land\]. | <span class="asgreek">ξηρανώ <sup><small><small>[[G3583]]</small></small></sup> </span> |
+| desolate | <big><span class="asgreek">ερημώσω</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
+| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| hills | <big><span class="asgreek">βουνούς</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their grass | <big><span class="asgreek">χόρτον</span></big> <sup><small><small>[[G5528]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| will dry out | <big><span class="asgreek">ξηρανώ</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will make | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| rivers | <big><span class="asgreek">ποταμούς</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| islands, | <big><span class="asgreek">νήσους</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| marshes | <big><span class="asgreek">έλη</span></big> <sup><small><small>[[G7186]]</small></small></sup> |
+| to dry \[land\]. | <big><span class="asgreek">ξηρανώ</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
 [[Isa.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.14|<< Isaiah 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.16|Isaiah 42:16 >>]]</td></tr></table>
 
 

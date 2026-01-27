@@ -9,22 +9,22 @@ It is decreed that the city be exiled and carried away; her maidservants moan li
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| support | <span class="asgreek">υπόστασις <sup><small><small>[[G5287]]</small></small></sup> </span> |
-| was uncovered; | <span class="asgreek">απεκαλύφθη <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she | <span class="asgreek">άυτη <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| ascended, | <span class="asgreek">ανέβαινε <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her maidservants | <span class="asgreek">δούλαι <sup><small><small>[[G1399]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| were led \[away\] | <span class="asgreek">ήγοντο <sup><small><small>[[G0071]]</small></small></sup> </span> |
-| as | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| doves, | <span class="asgreek">περιστεραί <sup><small><small>[[G4058]]</small></small></sup> </span> |
-| uttering sounds | <span class="asgreek">φθεγγόμεναι <sup><small><small>[[G5350]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| their hearts. | <span class="asgreek">καρδίαις <sup><small><small>[[G2588]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| support | <big><span class="asgreek">υπόστασις</span></big> <sup><small><small>[[G5287]]</small></small></sup> |
+| was uncovered; | <big><span class="asgreek">απεκαλύφθη</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she | <big><span class="asgreek">άυτη</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ascended, | <big><span class="asgreek">ανέβαινε</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her maidservants | <big><span class="asgreek">δούλαι</span></big> <sup><small><small>[[G1399]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| were led \[away\] | <big><span class="asgreek">ήγοντο</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| doves, | <big><span class="asgreek">περιστεραί</span></big> <sup><small><small>[[G4058]]</small></small></sup> |
+| uttering sounds | <big><span class="asgreek">φθεγγόμεναι</span></big> <sup><small><small>[[G5350]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| their hearts. | <big><span class="asgreek">καρδίαις</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Nah.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.6|<< Nahum 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.8|Nahum 2:8 >>]]</td></tr></table>
 
 

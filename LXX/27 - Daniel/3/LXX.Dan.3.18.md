@@ -9,27 +9,27 @@ But even if He does not, let it be known to you, O king, that we will not serve 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| not, | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| made known | <span class="asgreek">γνωστόν <sup><small><small>[[G1110]]</small></small></sup> </span> |
-| let it be | <span class="asgreek">έστω <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O king! | <span class="asgreek">βασιλεύ <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your gods | <span class="asgreek">θεοίς <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| we will not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| serve, | <span class="asgreek">λατρεύομεν <sup><small><small>[[G3000]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| image | <span class="asgreek">εικόνι <sup><small><small>[[G1504]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| golden | <span class="asgreek">χρυσή <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| which | <span class="asgreek">η <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you stationed, | <span class="asgreek">έστησας <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| we will not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| do obeisance to. | <span class="asgreek">προσκυνούμεν <sup><small><small>[[G4352]]</small></small></sup> </span> |
+| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| not, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| made known | <big><span class="asgreek">γνωστόν</span></big> <sup><small><small>[[G1110]]</small></small></sup> |
+| let it be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O king! | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| we will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| serve, | <big><span class="asgreek">λατρεύομεν</span></big> <sup><small><small>[[G3000]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| image | <big><span class="asgreek">εικόνι</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| golden | <big><span class="asgreek">χρυσή</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you stationed, | <big><span class="asgreek">έστησας</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| we will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| do obeisance to. | <big><span class="asgreek">προσκυνούμεν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
 [[Dan.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.17|<< Daniel 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.19|Daniel 3:19 >>]]</td></tr></table>
 
 

@@ -9,19 +9,19 @@ Does it please You to oppress me, to reject the work of Your hands and favor the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| \[is it\] good | <span class="asgreek">καλόν <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| I should transgress? | <span class="asgreek">αδικήσω <sup><small><small>[[G0091]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I should forbid | <span class="asgreek">απείπω <sup><small><small>[[G0550]]</small></small></sup> </span> |
-| \[the\] works | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| of your hands? | <span class="asgreek">χειρών <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] counsel | <span class="asgreek">βουλή <sup><small><small>[[G1012]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of \[the\] impious | <span class="asgreek">ασεβών <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| did you heed | <span class="asgreek">προσέσχες <sup><small><small>[[G4337]]</small></small></sup> </span> |
+| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| \[is it\] good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| I should transgress? | <big><span class="asgreek">αδικήσω</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I should forbid | <big><span class="asgreek">απείπω</span></big> <sup><small><small>[[G0550]]</small></small></sup> |
+| \[the\] works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| of your hands? | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] counsel | <big><span class="asgreek">βουλή</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of \[the\] impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| did you heed | <big><span class="asgreek">προσέσχες</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
 [[Job.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.2|<< Job 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.4|Job 10:4 >>]]</td></tr></table>
 
 

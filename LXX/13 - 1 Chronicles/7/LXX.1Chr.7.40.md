@@ -9,32 +9,32 @@ All these were the descendants of Asher—heads of their families, choice and mi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| All | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| these | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[were\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Asher, | <span class="asgreek">Ασήρ <sup><small><small>[[G0768]]</small></small></sup> </span> |
-| rulers | <span class="asgreek">άρχοντες <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of \[the\] house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| families, | <span class="asgreek">πατριών <sup><small><small>[[G3965]]</small></small></sup> </span> |
-| choice \[men\], | <span class="asgreek">εκλεκτοί <sup><small><small>[[G1588]]</small></small></sup> </span> |
-| strong \[men\] | <span class="asgreek">ισχυροί <sup><small><small>[[G2478]]</small></small></sup> </span> |
-| in power, | <span class="asgreek">δυνάμει <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| heads | <span class="asgreek">αρχηγοί <sup><small><small>[[G0747]]</small></small></sup> </span> |
-| of \[the\] rulers | <span class="asgreek">αρχόντων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones tracing descent | <span class="asgreek">γενεαλογηθέντων <sup><small><small>[[G1075]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| position | <span class="asgreek">στάσει <sup><small><small>[[G4714]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| battle, | <span class="asgreek">πολέμω <sup><small><small>[[G4171]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their number | <span class="asgreek">αριθμός <sup><small><small>[[G0706]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| men | <span class="asgreek">άνδρες <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| \[was\] twenty-six | <span class="asgreek">εικοσιέξ <sup><small><small>[[G7056]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάδες <sup><small><small>[[G5505]]</small></small></sup> </span> |
+| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[were\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Asher, | <big><span class="asgreek">Ασήρ</span></big> <sup><small><small>[[G0768]]</small></small></sup> |
+| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| families, | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
+| choice \[men\], | <big><span class="asgreek">εκλεκτοί</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
+| strong \[men\] | <big><span class="asgreek">ισχυροί</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
+| in power, | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| heads | <big><span class="asgreek">αρχηγοί</span></big> <sup><small><small>[[G0747]]</small></small></sup> |
+| of \[the\] rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones tracing descent | <big><span class="asgreek">γενεαλογηθέντων</span></big> <sup><small><small>[[G1075]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| position | <big><span class="asgreek">στάσει</span></big> <sup><small><small>[[G4714]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| battle, | <big><span class="asgreek">πολέμω</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their number | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| \[was\] twenty-six | <big><span class="asgreek">εικοσιέξ</span></big> <sup><small><small>[[G7056]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
 [[1Chr.7.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.39|<< 1 Chronicles 7:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.1|1 Chronicles 8:1 >>]]</td></tr></table>
 
 

@@ -9,25 +9,25 @@ it rises at one end of the heavens and runs its circuit to the other; nothing is
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| From | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| one tip | <span class="asgreek">άκρου <sup><small><small>[[G6208]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of heaven | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| \[is\]\<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his exiting, | <span class="asgreek">έξοδος <sup><small><small>[[G1841]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his arrival | <span class="asgreek">κατάντημα <sup><small><small>[[G7881]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| \[the other\] tip | <span class="asgreek">άκρου <sup><small><small>[[G6208]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of heaven; | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there is not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| one who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| shall be concealed | <span class="asgreek">αποκρυβήσεται <sup><small><small>[[G0613]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| from his heat. | <span class="asgreek">θέρμης <sup><small><small>[[G2329]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| From | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| one tip | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| \[is\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his exiting, | <big><span class="asgreek">έξοδος</span></big> <sup><small><small>[[G1841]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his arrival | <big><span class="asgreek">κατάντημα</span></big> <sup><small><small>[[G7881]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| \[the other\] tip | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of heaven; | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| shall be concealed | <big><span class="asgreek">αποκρυβήσεται</span></big> <sup><small><small>[[G0613]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| from his heat. | <big><span class="asgreek">θέρμης</span></big> <sup><small><small>[[G2329]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.5|<< Psalm 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.7|Psalm 19:7 >>]]</td></tr></table>
 
 

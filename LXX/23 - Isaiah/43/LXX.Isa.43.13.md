@@ -9,21 +9,21 @@ Even from eternity I am He, and none can deliver out of My hand. When I act, who
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| even | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] beginning; | <span class="asgreek">αρχής <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there is not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my hands | <span class="asgreek">χειρών <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| taking | <span class="asgreek">εξαιρούμενος <sup><small><small>[[G1807]]</small></small></sup> </span> |
-| I will do, | <span class="asgreek">ποιήσω <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall turn | <span class="asgreek">αποστρέψει <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| it? | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| even | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] beginning; | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| taking | <big><span class="asgreek">εξαιρούμενος</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
+| I will do, | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall turn | <big><span class="asgreek">αποστρέψει</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| it? | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.43.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.12|<< Isaiah 43:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.14|Isaiah 43:14 >>]]</td></tr></table>
 
 

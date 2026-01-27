@@ -9,31 +9,31 @@ Only the prince himself may sit inside the gateway to eat in the presence of the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one leading, | <span class="asgreek">ηγούμενος <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| this one | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| shall sit down | <span class="asgreek">καθήσεται <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to eat | <span class="asgreek">φαγείν <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| bread | <span class="asgreek">άρτον <sup><small><small>[[G0740]]</small></small></sup> </span> |
-| before | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| by | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| way | <span class="asgreek">οδόν <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| of \[the\] columned porch | <span class="asgreek">αιλάμ <sup><small><small>[[G6161]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gate | <span class="asgreek">πύλης <sup><small><small>[[G4439]]</small></small></sup> </span> |
-| He shall enter | <span class="asgreek">εισελεύσεται <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its way | <span class="asgreek">οδόν <sup><small><small>[[G3598]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he shall go forth. | <span class="asgreek">εξελεύσεται <sup><small><small>[[G1831]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one leading, | <big><span class="asgreek">ηγούμενος</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| shall sit down | <big><span class="asgreek">καθήσεται</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| of \[the\] columned porch | <big><span class="asgreek">αιλάμ</span></big> <sup><small><small>[[G6161]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| He shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he shall go forth. | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
 [[Ezek.44.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.2|<< Ezekiel 44:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.4|Ezekiel 44:4 >>]]</td></tr></table>
 
 

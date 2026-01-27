@@ -9,29 +9,29 @@ Sisera said to her, “Please give me a little water to drink, for I am thirsty.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Sisera said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Σισάρα <sup><small><small>[[H5516]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| her, | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Give a drink | <span class="asgreek">πότισον <sup><small><small>[[G4222]]</small></small></sup> </span> |
-| please | <span class="asgreek">δη <sup><small><small>[[G1211]]</small></small></sup> </span> |
-| to me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a little | <span class="asgreek">μικρόν <sup><small><small>[[G3398]]</small></small></sup> </span> |
-| water! | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I am thirsty. | <span class="asgreek">εδίψησα <sup><small><small>[[G1372]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she opened | <span class="asgreek">ήνοιξε <sup><small><small>[[G0455]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| leather bag | <span class="asgreek">ασκόν <sup><small><small>[[G0779]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| milk, | <span class="asgreek">γάλακτος <sup><small><small>[[G1051]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she gave him to drink, | <span class="asgreek">επότισεν <sup><small><small>[[G4222]]</small></small></sup> <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she covered | <span class="asgreek">συνεκάλυψεν <sup><small><small>[[G4780]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his person. | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Sisera said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σισάρα</span></big> <sup><small><small>[[H5516]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Give a drink | <big><span class="asgreek">πότισον</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
+| please | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
+| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a little | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| water! | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I am thirsty. | <big><span class="asgreek">εδίψησα</span></big> <sup><small><small>[[G1372]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she opened | <big><span class="asgreek">ήνοιξε</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| leather bag | <big><span class="asgreek">ασκόν</span></big> <sup><small><small>[[G0779]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| milk, | <big><span class="asgreek">γάλακτος</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she gave him to drink, | <big><span class="asgreek">επότισεν</span></big> <sup><small><small>[[G4222]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she covered | <big><span class="asgreek">συνεκάλυψεν</span></big> <sup><small><small>[[G4780]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his person. | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Judg.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.18|<< Judges 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.20|Judges 4:20 >>]]</td></tr></table>
 
 

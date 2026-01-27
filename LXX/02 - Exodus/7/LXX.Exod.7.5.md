@@ -9,27 +9,27 @@ And the Egyptians will know that I am the LORD, when I stretch out My hand again
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall know | <span class="asgreek">γνώσονται <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Egyptians | <span class="asgreek">Αιγύπτιοι <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| am | <span class="asgreek">ειμι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| stretching out | <span class="asgreek">εκτείνων <sup><small><small>[[G1614]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my hand | <span class="asgreek">χείρά <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| against | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| Egypt; | <span class="asgreek">Αίγυπτον <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will lead | <span class="asgreek">εξάξω <sup><small><small>[[G1806]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| their midst. | <span class="asgreek">μέσου <sup><small><small>[[G3319]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Egyptians | <big><span class="asgreek">Αιγύπτιοι</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| stretching out | <big><span class="asgreek">εκτείνων</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my hand | <big><span class="asgreek">χείρά</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| Egypt; | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will lead | <big><span class="asgreek">εξάξω</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| their midst. | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Exod.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.4|<< Exodus 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.6|Exodus 7:6 >>]]</td></tr></table>
 
 

@@ -9,15 +9,15 @@ whose paths are crooked and whose ways are devious.<small><sub>**MT:**</sub></s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| which | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| paths | <span class="asgreek">τρίβοι <sup><small><small>[[G5147]]</small></small></sup> </span> |
-| are crooked, | <span class="asgreek">σκολιαί <sup><small><small>[[G4646]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| curved | <span class="asgreek">καμπύλαι <sup><small><small>[[G7792]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tracks | <span class="asgreek">τροχιαί <sup><small><small>[[G5163]]</small></small></sup> </span> |
-| their | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| paths | <big><span class="asgreek">τρίβοι</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
+| are crooked, | <big><span class="asgreek">σκολιαί</span></big> <sup><small><small>[[G4646]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| curved | <big><span class="asgreek">καμπύλαι</span></big> <sup><small><small>[[G7792]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tracks | <big><span class="asgreek">τροχιαί</span></big> <sup><small><small>[[G5163]]</small></small></sup> |
+| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.14|<< Proverbs 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.16|Proverbs 2:16 >>]]</td></tr></table>
 
 

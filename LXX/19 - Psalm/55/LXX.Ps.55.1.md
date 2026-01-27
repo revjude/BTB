@@ -14,16 +14,16 @@ For the choirmaster. With stringed instruments. A Maskil of David. Listen to my 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Give ear, | <span class="asgreek">ενώτισαι <sup><small><small>[[G1801]]</small></small></sup> </span> |
-| O | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God, | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my prayer! | <span class="asgreek">προσευχήν <sup><small><small>[[G4335]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| overlook | <span class="asgreek">υπερίδης <sup><small><small>[[G5237]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my supplication. | <span class="asgreek">δέησίν <sup><small><small>[[G1162]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Give ear, | <big><span class="asgreek">ενώτισαι</span></big> <sup><small><small>[[G1801]]</small></small></sup> |
+| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my prayer! | <big><span class="asgreek">προσευχήν</span></big> <sup><small><small>[[G4335]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| overlook | <big><span class="asgreek">υπερίδης</span></big> <sup><small><small>[[G5237]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my supplication. | <big><span class="asgreek">δέησίν</span></big> <sup><small><small>[[G1162]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.55.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.54.7|<< Psalm 54:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.2|Psalm 55:2 >>]]</td></tr></table>
 
 

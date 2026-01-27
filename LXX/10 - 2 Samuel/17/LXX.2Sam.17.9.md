@@ -9,41 +9,41 @@ Surely by now he is hiding in a cave or some other location. If some of your tro
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For behold | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| he | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| hides | <span class="asgreek">κέκρυπται <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| one | <span class="asgreek">ενί <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| canyons, | <span class="asgreek">αυλώνων <sup><small><small>[[G6605]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| one | <span class="asgreek">ενί <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| places. | <span class="asgreek">τόπων <sup><small><small>[[G5117]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| when | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[they\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fall upon | <span class="asgreek">επιπεσείν <sup><small><small>[[G1968]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| at \[the\] | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| beginning, | <span class="asgreek">αρχή <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[one\] shall hear | <span class="asgreek">ακούση <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hearing, | <span class="asgreek">ακούων <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| should say, | <span class="asgreek">είπη <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| There was | <span class="asgreek">εγενήθη <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| a devastation | <span class="asgreek">θραύσις <sup><small><small>[[G7687]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people, | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| to the one | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[following\] after | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
-| Absalom. | <span class="asgreek">Αβεσαλώμ <sup><small><small>[[H0053]]</small></small></sup> </span> |
+| For behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| hides | <big><span class="asgreek">κέκρυπται</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| canyons, | <big><span class="asgreek">αυλώνων</span></big> <sup><small><small>[[G6605]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| places. | <big><span class="asgreek">τόπων</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| when | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[they\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fall upon | <big><span class="asgreek">επιπεσείν</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| at \[the\] | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| beginning, | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[one\] shall hear | <big><span class="asgreek">ακούση</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hearing, | <big><span class="asgreek">ακούων</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| should say, | <big><span class="asgreek">είπη</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| There was | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| a devastation | <big><span class="asgreek">θραύσις</span></big> <sup><small><small>[[G7687]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people, | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[following\] after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
+| Absalom. | <big><span class="asgreek">Αβεσαλώμ</span></big> <sup><small><small>[[H0053]]</small></small></sup> |
 [[2Sam.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.8|<< 2 Samuel 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.10|2 Samuel 17:10 >>]]</td></tr></table>
 
 

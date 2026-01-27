@@ -9,26 +9,26 @@ and he summoned Johanan son of Kareah, all the commanders of the forces who were
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he called | <span class="asgreek">εκάλεσε <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Johanan | <span class="asgreek">Ιωάναν <sup><small><small>[[H3110]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόν <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Kareah, | <span class="asgreek">Καριέ <sup><small><small>[[H7143]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| leaders | <span class="asgreek">ηγεμόνας <sup><small><small>[[G2232]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| force, | <span class="asgreek">δυνάμεως <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people, | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| small | <span class="asgreek">μικρού <sup><small><small>[[G3398]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| great. | <span class="asgreek">μεγάλου <sup><small><small>[[G3173]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Johanan | <big><span class="asgreek">Ιωάναν</span></big> <sup><small><small>[[H3110]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Kareah, | <big><span class="asgreek">Καριέ</span></big> <sup><small><small>[[H7143]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| leaders | <big><span class="asgreek">ηγεμόνας</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| force, | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| small | <big><span class="asgreek">μικρού</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| great. | <big><span class="asgreek">μεγάλου</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
 [[Jer.42.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.7|<< Jeremiah 42:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.9|Jeremiah 42:9 >>]]</td></tr></table>
 
 

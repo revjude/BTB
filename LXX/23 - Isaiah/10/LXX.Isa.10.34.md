@@ -9,17 +9,17 @@ He will clear the forest thickets with an axe, and Lebanon will fall before the 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall fall | <span class="asgreek">πεσούνται <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| \[the\] haughty ones | <span class="asgreek">υψηλοί <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| \[by the\] sword; | <span class="asgreek">μαχαίρα <sup><small><small>[[G3162]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| Lebanon | <span class="asgreek">Λίβανος <sup><small><small>[[H3844]]</small></small></sup> </span> |
-| with | <span class="asgreek">συν <sup><small><small>[[G4862]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| haughty ones | <span class="asgreek">υψηλοίς <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| will fall | <span class="asgreek">πεσείται <sup><small><small>[[G4098]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall fall | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| \[the\] haughty ones | <big><span class="asgreek">υψηλοί</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| \[by the\] sword; | <big><span class="asgreek">μαχαίρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| Lebanon | <big><span class="asgreek">Λίβανος</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
+| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| haughty ones | <big><span class="asgreek">υψηλοίς</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| will fall | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
 [[Isa.10.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.33|<< Isaiah 10:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.1|Isaiah 11:1 >>]]</td></tr></table>
 
 

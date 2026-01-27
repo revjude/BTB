@@ -9,31 +9,31 @@ Then lay siege against it: Construct a siege wall, build a ramp to it, set up ca
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall put | <span class="asgreek">δώσεις <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| against | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| an encompassment about | <span class="asgreek">περιοχήν <sup><small><small>[[G4042]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall build | <span class="asgreek">οικοδομήσεις <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| against | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| battlements | <span class="asgreek">προμαχώνας <sup><small><small>[[G8901]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall put around | <span class="asgreek">περιβαλείς <sup><small><small>[[G4016]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a siege mound; | <span class="asgreek">χάρακα <sup><small><small>[[G5482]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall put | <span class="asgreek">δώσεις <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| camps | <span class="asgreek">παρεμβολάς <sup><small><small>[[G3925]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall order | <span class="asgreek">τάξεις <sup><small><small>[[G5021]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| range of weapons | <span class="asgreek">βελοστάσεις <sup><small><small>[[G6667]]</small></small></sup> </span> |
-| round about. | <span class="asgreek">κύκλω <sup><small><small>[[G2945]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall put | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| an encompassment about | <big><span class="asgreek">περιοχήν</span></big> <sup><small><small>[[G4042]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall build | <big><span class="asgreek">οικοδομήσεις</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| battlements | <big><span class="asgreek">προμαχώνας</span></big> <sup><small><small>[[G8901]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall put around | <big><span class="asgreek">περιβαλείς</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a siege mound; | <big><span class="asgreek">χάρακα</span></big> <sup><small><small>[[G5482]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall put | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| camps | <big><span class="asgreek">παρεμβολάς</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall order | <big><span class="asgreek">τάξεις</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| range of weapons | <big><span class="asgreek">βελοστάσεις</span></big> <sup><small><small>[[G6667]]</small></small></sup> |
+| round about. | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
 [[Ezek.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.1|<< Ezekiel 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.3|Ezekiel 4:3 >>]]</td></tr></table>
 
 

@@ -9,31 +9,31 @@ Then Jacob instructed them, “I am about to be gathered to my people. Bury me w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to them, | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| am added | <span class="asgreek">προστίθεμαι <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my | <span class="asgreek">εμόν <sup><small><small>[[G1699]]</small></small></sup> </span> |
-| people. | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| Entomb | <span class="asgreek">θαψατέ <sup><small><small>[[G2290]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my fathers | <span class="asgreek">πατέρων <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cave | <span class="asgreek">σπηλαίω <sup><small><small>[[G4693]]</small></small></sup> </span> |
-| which | <span class="asgreek">ο <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| field | <span class="asgreek">αγρώ <sup><small><small>[[G0068]]</small></small></sup> </span> |
-| of Ephron | <span class="asgreek">Εφρών <sup><small><small>[[H6085]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hittite! | <span class="asgreek">Χετταίου <sup><small><small>[[H2850]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| am added | <big><span class="asgreek">προστίθεμαι</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my | <big><span class="asgreek">εμόν</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
+| people. | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| Entomb | <big><span class="asgreek">θαψατέ</span></big> <sup><small><small>[[G2290]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my fathers | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cave | <big><span class="asgreek">σπηλαίω</span></big> <sup><small><small>[[G4693]]</small></small></sup> |
+| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| field | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
+| of Ephron | <big><span class="asgreek">Εφρών</span></big> <sup><small><small>[[H6085]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hittite! | <big><span class="asgreek">Χετταίου</span></big> <sup><small><small>[[H2850]]</small></small></sup> |
 [[Gen.49.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.28|<< Genesis 49:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.30|Genesis 49:30 >>]]</td></tr></table>
 
 

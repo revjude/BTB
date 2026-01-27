@@ -12,47 +12,47 @@ On the third day, Esther put on her royal robes and stood in the inner court of 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it came to pass | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| third | <span class="asgreek">τρίτη <sup><small><small>[[G5154]]</small></small></sup> </span> |
-| Esther put on | <span class="asgreek">ενεδύσατο <sup><small><small>[[G1746]]</small></small></sup> <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">Εσθήρ <sup><small><small>[[H0635]]</small></small></sup> </span> |
-| royal \[apparel\], | <span class="asgreek">βασιλικοίς <sup><small><small>[[G0937]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she stood | <span class="asgreek">έστη <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] courtyard | <span class="asgreek">αυλή <sup><small><small>[[G0833]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of \[the\] king, | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| inner \[courtyard\], | <span class="asgreek">εσωτέρα <sup><small><small>[[G2082]]</small></small></sup> </span> |
-| right opposite | <span class="asgreek">εξεναντίας <sup><small><small>[[G7295]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| royal \[house\] | <span class="asgreek">βασιλικής <sup><small><small>[[G0937]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king. | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| And the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| sat down | <span class="asgreek">εκάθητο <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] throne | <span class="asgreek">θρόνω <sup><small><small>[[G2362]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his own | <span class="asgreek">εαυτού <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| kingdom | <span class="asgreek">βασιλείας <sup><small><small>[[G0932]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκω <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| royal | <span class="asgreek">βασιλικώ <sup><small><small>[[G0937]]</small></small></sup> </span> |
-| right opposite | <span class="asgreek">εξαναντίας <sup><small><small>[[G7295]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| door | <span class="asgreek">θύρας <sup><small><small>[[G2374]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house. | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| third | <big><span class="asgreek">τρίτη</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
+| Esther put on | <big><span class="asgreek">ενεδύσατο</span></big> <sup><small><small>[[G1746]]</small></small></sup> <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
+| royal \[apparel\], | <big><span class="asgreek">βασιλικοίς</span></big> <sup><small><small>[[G0937]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of \[the\] king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| inner \[courtyard\], | <big><span class="asgreek">εσωτέρα</span></big> <sup><small><small>[[G2082]]</small></small></sup> |
+| right opposite | <big><span class="asgreek">εξεναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| royal \[house\] | <big><span class="asgreek">βασιλικής</span></big> <sup><small><small>[[G0937]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| sat down | <big><span class="asgreek">εκάθητο</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] throne | <big><span class="asgreek">θρόνω</span></big> <sup><small><small>[[G2362]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| kingdom | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| royal | <big><span class="asgreek">βασιλικώ</span></big> <sup><small><small>[[G0937]]</small></small></sup> |
+| right opposite | <big><span class="asgreek">εξαναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| door | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house. | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
 [[Esth.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.17|<< Esther 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.2|Esther 5:2 >>]]</td></tr></table>
 
 

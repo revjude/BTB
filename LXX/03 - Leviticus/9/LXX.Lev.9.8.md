@@ -9,19 +9,19 @@ So Aaron approached the altar and slaughtered the calf as a sin offering for him
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Aaron came forward | <span class="asgreek">προσήλθεν <sup><small><small>[[G4334]]</small></small></sup> <span class="asgreek">Ααρών <sup><small><small>[[G0002]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| altar, | <span class="asgreek">θυσιαστήριον <sup><small><small>[[G2379]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he slew | <span class="asgreek">έσφαξε <sup><small><small>[[G4969]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| calf, | <span class="asgreek">μοσχάριον <sup><small><small>[[G8349]]</small></small></sup> </span> |
-| the one | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for | <span class="asgreek">περί <sup><small><small>[[G4012]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his sin \[offering\]. | <span class="asgreek">αμαρτίας <sup><small><small>[[G0266]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Aaron came forward | <big><span class="asgreek">προσήλθεν</span></big> <sup><small><small>[[G4334]]</small></small></sup> <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| altar, | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he slew | <big><span class="asgreek">έσφαξε</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| calf, | <big><span class="asgreek">μοσχάριον</span></big> <sup><small><small>[[G8349]]</small></small></sup> |
+| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his sin \[offering\]. | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lev.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.7|<< Leviticus 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.9|Leviticus 9:9 >>]]</td></tr></table>
 
 

@@ -9,15 +9,15 @@ Then I will teach transgressors Your ways, and sinners will return to You.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I shall teach | <span class="asgreek">διδάξω <sup><small><small>[[G1321]]</small></small></sup> </span> |
-| \[the\] lawless ones | <span class="asgreek">ανόμους <sup><small><small>[[G0459]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your ways, | <span class="asgreek">οδούς <sup><small><small>[[G3598]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] impious | <span class="asgreek">ασεβείς <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| to | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall turn | <span class="asgreek">επιστρέψουσι <sup><small><small>[[G1994]]</small></small></sup> </span> |
+| I shall teach | <big><span class="asgreek">διδάξω</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
+| \[the\] lawless ones | <big><span class="asgreek">ανόμους</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your ways, | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall turn | <big><span class="asgreek">επιστρέψουσι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
 [[Ps.51.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.12|<< Psalm 51:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.14|Psalm 51:14 >>]]</td></tr></table>
 
 

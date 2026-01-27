@@ -13,35 +13,35 @@ Speak up and present your case—yes, let them take counsel together. Who foreto
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The ones that | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shall announce, | <span class="asgreek">αναγγέλουσιν <sup><small><small>[[G0312]]</small></small></sup> </span> |
-| let them approach | <span class="asgreek">εγγισάτωσαν <sup><small><small>[[G1448]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| they should know | <span class="asgreek">γνώσιν <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| together, | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| audibly | <span class="asgreek">ακουστά <sup><small><small>[[G6200]]</small></small></sup> </span> |
-| did | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| these \[things\]. | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| From | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] beginning | <span class="asgreek">αρχής <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| it was announced | <span class="asgreek">αναγγελλεί <sup><small><small>[[G0312]]</small></small></sup> </span> |
-| to you. | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Am I not | <span class="asgreek">ουχί <sup><small><small>[[G3780]]</small></small></sup> <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God? | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| There is no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| other | <span class="asgreek">άλλος <sup><small><small>[[G0243]]</small></small></sup> </span> |
-| besides | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| me -- | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| just | <span class="asgreek">δίκαιος <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a deliverer. | <span class="asgreek">σωτήρ <sup><small><small>[[G4990]]</small></small></sup> </span> |
-| There is none | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| besides me. | <span class="asgreek">παρεξεμού <sup><small><small>[[G8649]]</small></small></sup> </span> |
+| The ones that | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shall announce, | <big><span class="asgreek">αναγγέλουσιν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
+| let them approach | <big><span class="asgreek">εγγισάτωσαν</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| they should know | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| together, | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| audibly | <big><span class="asgreek">ακουστά</span></big> <sup><small><small>[[G6200]]</small></small></sup> |
+| did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| From | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] beginning | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| it was announced | <big><span class="asgreek">αναγγελλεί</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
+| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Am I not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God? | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| There is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| other | <big><span class="asgreek">άλλος</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
+| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| me -- | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a deliverer. | <big><span class="asgreek">σωτήρ</span></big> <sup><small><small>[[G4990]]</small></small></sup> |
+| There is none | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| besides me. | <big><span class="asgreek">παρεξεμού</span></big> <sup><small><small>[[G8649]]</small></small></sup> |
 [[Isa.45.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.20|<< Isaiah 45:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.22|Isaiah 45:22 >>]]</td></tr></table>
 
 

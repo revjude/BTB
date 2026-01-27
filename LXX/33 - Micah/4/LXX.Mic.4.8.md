@@ -9,28 +9,28 @@ And you, O watchtower of the flock, O stronghold of the Daughter of Zion—the f
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you, | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O tower | <span class="asgreek">πύργος <sup><small><small>[[G4444]]</small></small></sup> </span> |
-| of \[the\] flock, | <span class="asgreek">ποιμνίου <sup><small><small>[[G4168]]</small></small></sup> </span> |
-| austere | <span class="asgreek">αυχμώδης <sup><small><small>[[G6614]]</small></small></sup> </span> |
-| daughter | <span class="asgreek">θυγάτηρ <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Zion, | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| unto | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall come, | <span class="asgreek">ήξει <sup><small><small>[[G2240]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall enter in | <span class="asgreek">εισελεύσεται <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| head | <span class="asgreek">αρχή <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| of the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| foremost | <span class="asgreek">πρώτη <sup><small><small>[[G4413]]</small></small></sup> </span> |
-| kingdom | <span class="asgreek">βασιλεία <sup><small><small>[[G0932]]</small></small></sup> </span> |
-|  | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| of Babylon | <span class="asgreek">Βαβυλώνος <sup><small><small>[[G0897]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| daughter | <span class="asgreek">θυγατρί <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Jerusalem. | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O tower | <big><span class="asgreek">πύργος</span></big> <sup><small><small>[[G4444]]</small></small></sup> |
+| of \[the\] flock, | <big><span class="asgreek">ποιμνίου</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
+| austere | <big><span class="asgreek">αυχμώδης</span></big> <sup><small><small>[[G6614]]</small></small></sup> |
+| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall come, | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall enter in | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| head | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| of the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| foremost | <big><span class="asgreek">πρώτη</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
+| kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
+|  | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| daughter | <big><span class="asgreek">θυγατρί</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
 [[Mic.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.7|<< Micah 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.9|Micah 4:9 >>]]</td></tr></table>
 
 

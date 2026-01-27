@@ -11,21 +11,21 @@ The presence of the LORD has scattered them; He regards them no more. The priest
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΑΙΝ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΑΙΝ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| \[The\] person | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| was their portion; | <span class="asgreek">μερίς <sup><small><small>[[G3310]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| proceed | <span class="asgreek">προσθήσει <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| to look upon | <span class="asgreek">επιβλέψαι <sup><small><small>[[G1914]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[The\] person | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of \[the\] priests | <span class="asgreek">ιερέων <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| they did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| receive; | <span class="asgreek">έλαβον <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| old men | <span class="asgreek">πρεσβύτας <sup><small><small>[[G4246]]</small></small></sup> </span> |
-| they did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| show mercy on | <span class="asgreek">ηλέησαν <sup><small><small>[[G1653]]</small></small></sup> </span> |
+| ΑΙΝ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΑΙΝ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| \[The\] person | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| was their portion; | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| proceed | <big><span class="asgreek">προσθήσει</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| to look upon | <big><span class="asgreek">επιβλέψαι</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] person | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of \[the\] priests | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| receive; | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| old men | <big><span class="asgreek">πρεσβύτας</span></big> <sup><small><small>[[G4246]]</small></small></sup> |
+| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| show mercy on | <big><span class="asgreek">ηλέησαν</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
 [[Lam.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.15|<< Lamentations 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.17|Lamentations 4:17 >>]]</td></tr></table>
 
 

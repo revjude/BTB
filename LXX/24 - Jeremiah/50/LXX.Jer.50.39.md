@@ -9,31 +9,31 @@ So the desert creatures and hyenas will live there and ostriches will dwell ther
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| shall dwell | <span class="asgreek">κατοικήσουσιν <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| \[the\] effigies | <span class="asgreek">ινδάλματα <sup><small><small>[[G7722]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| islands, | <span class="asgreek">νήσοις <sup><small><small>[[G3520]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there shall dwell | <span class="asgreek">κατοικήσουσιν <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυταίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| daughters | <span class="asgreek">θυγατέρες <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of sirens. | <span class="asgreek">σειρήνων <sup><small><small>[[G9063]]</small></small></sup> </span> |
-| In no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| should it be inhabited | <span class="asgreek">κατοικηθή <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| any longer | <span class="asgreek">ουκέτι <sup><small><small>[[G3765]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eon, | <span class="asgreek">αιώνα <sup><small><small>[[G0165]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ου δε μη <sup><small><small>[[G8565]]</small></small></sup> </span> |
-| shall it be encamped | <span class="asgreek">κατασκηνωθήσεται <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| generation | <span class="asgreek">γενεάς <sup><small><small>[[G1074]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| generation. | <span class="asgreek">γενεάς <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| shall dwell | <big><span class="asgreek">κατοικήσουσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| \[the\] effigies | <big><span class="asgreek">ινδάλματα</span></big> <sup><small><small>[[G7722]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| islands, | <big><span class="asgreek">νήσοις</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there shall dwell | <big><span class="asgreek">κατοικήσουσιν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| them | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of sirens. | <big><span class="asgreek">σειρήνων</span></big> <sup><small><small>[[G9063]]</small></small></sup> |
+| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| should it be inhabited | <big><span class="asgreek">κατοικηθή</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| any longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eon, | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| nor | <big><span class="asgreek">ου δε μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
+| shall it be encamped | <big><span class="asgreek">κατασκηνωθήσεται</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| generation | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| generation. | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
 [[Jer.50.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.38|<< Jeremiah 50:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.40|Jeremiah 50:40 >>]]</td></tr></table>
 
 

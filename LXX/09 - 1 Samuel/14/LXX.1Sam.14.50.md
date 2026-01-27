@@ -9,23 +9,23 @@ His wife’s name was Ahinoam daughter of Ahimaaz. The name of the commander of 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] name | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Saul's wife | <span class="asgreek">γυναικί <sup><small><small>[[G1135]]</small></small></sup> <span class="asgreek">Σαούλ <sup><small><small>[[G4549]]</small></small></sup> </span> |
-| \[was\] Ahinoam | <span class="asgreek">Αχιναάμ <sup><small><small>[[H0293]]</small></small></sup> </span> |
-| daughter | <span class="asgreek">θυγάτηρ <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Ahimaaz. | <span class="asgreek">Αχιμαάς <sup><small><small>[[H0290]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] name | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his commander-in-chief | <span class="asgreek">αρχιστρατήγω <sup><small><small>[[G6559]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[was\] Abner | <span class="asgreek">Αβενήρ <sup><small><small>[[H0074]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Ner, | <span class="asgreek">Νηρ <sup><small><small>[[H5369]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of a member of the family | <span class="asgreek">οικείου <sup><small><small>[[G3609]]</small></small></sup> </span> |
-| of Saul. | <span class="asgreek">Σαούλ <sup><small><small>[[G4549]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Saul's wife | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
+| \[was\] Ahinoam | <big><span class="asgreek">Αχιναάμ</span></big> <sup><small><small>[[H0293]]</small></small></sup> |
+| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Ahimaaz. | <big><span class="asgreek">Αχιμαάς</span></big> <sup><small><small>[[H0290]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his commander-in-chief | <big><span class="asgreek">αρχιστρατήγω</span></big> <sup><small><small>[[G6559]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[was\] Abner | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Ner, | <big><span class="asgreek">Νηρ</span></big> <sup><small><small>[[H5369]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of a member of the family | <big><span class="asgreek">οικείου</span></big> <sup><small><small>[[G3609]]</small></small></sup> |
+| of Saul. | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
 [[1Sam.14.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.49|<< 1 Samuel 14:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.51|1 Samuel 14:51 >>]]</td></tr></table>
 
 

@@ -9,46 +9,46 @@ then may You hear from heaven and forgive the sin of Your servants, Your people 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| then | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall listen | <span class="asgreek">εισακούση <sup><small><small>[[G1522]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heaven, | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be propitious | <span class="asgreek">ίλεως <sup><small><small>[[G2436]]</small></small></sup> <span class="asgreek">έση <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sins | <span class="asgreek">αμαρτίαις <sup><small><small>[[G0266]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your servants, | <span class="asgreek">παίδων <sup><small><small>[[G3816]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your people | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| you shall make manifest | <span class="asgreek">δηλώσεις <sup><small><small>[[G1213]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| way | <span class="asgreek">οδόν <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| good | <span class="asgreek">αγαθήν <sup><small><small>[[G0018]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| which | <span class="asgreek">η <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| they shall go | <span class="asgreek">πορεύσονται <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall put | <span class="asgreek">δώσεις <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| rain | <span class="asgreek">υετόν <sup><small><small>[[G5205]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your land, | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you gave | <span class="asgreek">έδωκας <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your people | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| an inheritance. | <span class="asgreek">κληρονομίαν <sup><small><small>[[G2817]]</small></small></sup> </span> |
+| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall listen | <big><span class="asgreek">εισακούση</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be propitious | <big><span class="asgreek">ίλεως</span></big> <sup><small><small>[[G2436]]</small></small></sup> <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sins | <big><span class="asgreek">αμαρτίαις</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your servants, | <big><span class="asgreek">παίδων</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| you shall make manifest | <big><span class="asgreek">δηλώσεις</span></big> <sup><small><small>[[G1213]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| they shall go | <big><span class="asgreek">πορεύσονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall put | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| rain | <big><span class="asgreek">υετόν</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you gave | <big><span class="asgreek">έδωκας</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| an inheritance. | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
 [[2Chr.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.26|<< 2 Chronicles 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.28|2 Chronicles 6:28 >>]]</td></tr></table>
 
 

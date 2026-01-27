@@ -9,34 +9,34 @@ Therefore this is what the Lord GOD says: I will give the land of Egypt to Nebuc
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this, | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| thus | <span class="asgreek">τάδε <sup><small><small>[[G3592]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Adonai | <span class="asgreek">Αδωναϊ <sup><small><small>[[H0113]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>; | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| I give | <span class="asgreek">δίδωμι <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Nebuchadnezzar | <span class="asgreek">Ναβουχοδονόσορ <sup><small><small>[[H5020]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Babylon | <span class="asgreek">Βαβυλώνος <sup><small><small>[[G0897]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of Egypt; | <span class="asgreek">Αιγύπτου <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall despoil | <span class="asgreek">σκυλεύσει <sup><small><small>[[G9120]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her spoils, | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall plunder | <span class="asgreek">προνομεύσει <sup><small><small>[[G8902]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her plunder; | <span class="asgreek">προνομήν <sup><small><small>[[G8903]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[the\] wage | <span class="asgreek">μισθός <sup><small><small>[[G3408]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for his force. | <span class="asgreek">δυνάμει <sup><small><small>[[G1411]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| I give | <big><span class="asgreek">δίδωμι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of Egypt; | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall despoil | <big><span class="asgreek">σκυλεύσει</span></big> <sup><small><small>[[G9120]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her spoils, | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall plunder | <big><span class="asgreek">προνομεύσει</span></big> <sup><small><small>[[G8902]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her plunder; | <big><span class="asgreek">προνομήν</span></big> <sup><small><small>[[G8903]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[the\] wage | <big><span class="asgreek">μισθός</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for his force. | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.18|<< Ezekiel 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.20|Ezekiel 29:20 >>]]</td></tr></table>
 
 

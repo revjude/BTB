@@ -9,31 +9,31 @@ Then David sent messengers to get her, and when she came to him, he slept with h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| David sent | <span class="asgreek">απέστειλε <sup><small><small>[[G0649]]</small></small></sup> <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| messengers, | <span class="asgreek">αγγέλους <sup><small><small>[[G0032]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he took | <span class="asgreek">έλαβεν <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| her; | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he entered | <span class="asgreek">εισήλθε <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| her, | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| went to bed | <span class="asgreek">εκοιμήθη <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετ΄ <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| her, | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| being set apart | <span class="asgreek">αγιαζομένη <sup><small><small>[[G0037]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| her uncleanness. | <span class="asgreek">ακαθαρσίας <sup><small><small>[[G0167]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she returned | <span class="asgreek">απέστρεψεν <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her house. | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| David sent | <big><span class="asgreek">απέστειλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| messengers, | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| her; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| her, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| went to bed | <big><span class="asgreek">εκοιμήθη</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| being set apart | <big><span class="asgreek">αγιαζομένη</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| her uncleanness. | <big><span class="asgreek">ακαθαρσίας</span></big> <sup><small><small>[[G0167]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she returned | <big><span class="asgreek">απέστρεψεν</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her house. | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[2Sam.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.3|<< 2 Samuel 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.5|2 Samuel 11:5 >>]]</td></tr></table>
 
 

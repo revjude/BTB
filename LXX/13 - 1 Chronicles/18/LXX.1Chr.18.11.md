@@ -9,41 +9,41 @@ and King David dedicated these to the LORD, along with the silver and gold he ha
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| these | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| sanctified | <span class="asgreek">ηγίασεν <sup><small><small>[[G0037]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| David | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| silver | <span class="asgreek">αργυρίου <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gold | <span class="asgreek">χρυσίου <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| which | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he took | <span class="asgreek">έλαβεν <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντων <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations -- | <span class="asgreek">εθνών <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Edom, | <span class="asgreek">Ιδουμαίας <sup><small><small>[[H0123]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Moab, | <span class="asgreek">Μωάβ <sup><small><small>[[H6355]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Ammon, | <span class="asgreek">Αμμών <sup><small><small>[[H5983]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Philistines, | <span class="asgreek">αλλοφύλων <sup><small><small>[[G0246]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Amalek. | <span class="asgreek">Αμαλήκ <sup><small><small>[[H6002]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| sanctified | <big><span class="asgreek">ηγίασεν</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations -- | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Edom, | <big><span class="asgreek">Ιδουμαίας</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Philistines, | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Amalek. | <big><span class="asgreek">Αμαλήκ</span></big> <sup><small><small>[[H6002]]</small></small></sup> |
 [[1Chr.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.10|<< 1 Chronicles 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.12|1 Chronicles 18:12 >>]]</td></tr></table>
 
 

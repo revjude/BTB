@@ -9,26 +9,26 @@ That is why Levi has no portion or inheritance among his brothers; the LORD is h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| there is not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Levites | <span class="asgreek">Λευίταις <sup><small><small>[[G3017]]</small></small></sup> </span> |
-| a portion | <span class="asgreek">μερίς <sup><small><small>[[G3310]]</small></small></sup> </span> |
-| or | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lot | <span class="asgreek">κλήρος <sup><small><small>[[G2819]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their brethren. | <span class="asgreek">αδελφοίς <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[The\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| himself | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[is\] his lot, | <span class="asgreek">κλήρος <sup><small><small>[[G2819]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">καθά <sup><small><small>[[G2505]]</small></small></sup> </span> |
-| told | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Levites | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
+| a portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
+| or | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lot | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their brethren. | <big><span class="asgreek">αδελφοίς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| himself | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[is\] his lot, | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">καθά</span></big> <sup><small><small>[[G2505]]</small></small></sup> |
+| told | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.8|<< Deuteronomy 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.10|Deuteronomy 10:10 >>]]</td></tr></table>
 
 

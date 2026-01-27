@@ -9,19 +9,19 @@ Behold, my belly is like unvented wine; it is about to burst like a new wineskin
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| my belly | <span class="asgreek">γαστήρ <sup><small><small>[[G1064]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[is\] as if | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| a leather bag | <span class="asgreek">ασκός <sup><small><small>[[G0779]]</small></small></sup> </span> |
-| of sweet new wine | <span class="asgreek">γλεύκους <sup><small><small>[[G1098]]</small></small></sup> </span> |
-| bubbling, | <span class="asgreek">ζέων <sup><small><small>[[G2204]]</small></small></sup> </span> |
-| being tied up; | <span class="asgreek">δεδεμένος <sup><small><small>[[G1210]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as if | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| \[the\] bellows | <span class="asgreek">φυσητήρ <sup><small><small>[[G9685]]</small></small></sup> </span> |
-| of a brazier | <span class="asgreek">χαλκέως <sup><small><small>[[G5471]]</small></small></sup> </span> |
-| tearing \[forth\]. | <span class="asgreek">ερρηγώς <sup><small><small>[[G4486]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| my belly | <big><span class="asgreek">γαστήρ</span></big> <sup><small><small>[[G1064]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[is\] as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| a leather bag | <big><span class="asgreek">ασκός</span></big> <sup><small><small>[[G0779]]</small></small></sup> |
+| of sweet new wine | <big><span class="asgreek">γλεύκους</span></big> <sup><small><small>[[G1098]]</small></small></sup> |
+| bubbling, | <big><span class="asgreek">ζέων</span></big> <sup><small><small>[[G2204]]</small></small></sup> |
+| being tied up; | <big><span class="asgreek">δεδεμένος</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| \[the\] bellows | <big><span class="asgreek">φυσητήρ</span></big> <sup><small><small>[[G9685]]</small></small></sup> |
+| of a brazier | <big><span class="asgreek">χαλκέως</span></big> <sup><small><small>[[G5471]]</small></small></sup> |
+| tearing \[forth\]. | <big><span class="asgreek">ερρηγώς</span></big> <sup><small><small>[[G4486]]</small></small></sup> |
 [[Job.32.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.32.18|<< Job 32:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.20|Job 32:20 >>]]</td></tr></table>
 
 

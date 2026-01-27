@@ -12,34 +12,34 @@ Then David fled from Naioth in Ramah. He came to Jonathan and asked, “What hav
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| David ran away | <span class="asgreek">απέδρα <sup><small><small>[[G6424]]</small></small></sup> <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Naioth | <span class="asgreek">Ναβάθ <sup><small><small>[[H5121]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Ramah, | <span class="asgreek">Ραμά <sup><small><small>[[G4471]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he came | <span class="asgreek">έρχεται <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| before | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| Jonathan. | <span class="asgreek">Ιωναθάν <sup><small><small>[[H3129]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| What | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| have I done, | <span class="asgreek">πεποίηκα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| what \[is\] | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my offence, | <span class="asgreek">αδίκημά <sup><small><small>[[G0092]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| how | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| have I sinned | <span class="asgreek">ημάρτηκα <sup><small><small>[[G0264]]</small></small></sup> </span> |
-| before | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your father, | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| he seeks anxiously | <span class="asgreek">επιζητεί <sup><small><small>[[G1934]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my life? | <span class="asgreek">ψυχήν <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| David ran away | <big><span class="asgreek">απέδρα</span></big> <sup><small><small>[[G6424]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Naioth | <big><span class="asgreek">Ναβάθ</span></big> <sup><small><small>[[H5121]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Ramah, | <big><span class="asgreek">Ραμά</span></big> <sup><small><small>[[G4471]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he came | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| Jonathan. | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| have I done, | <big><span class="asgreek">πεποίηκα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| what \[is\] | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my offence, | <big><span class="asgreek">αδίκημά</span></big> <sup><small><small>[[G0092]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| how | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| have I sinned | <big><span class="asgreek">ημάρτηκα</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| he seeks anxiously | <big><span class="asgreek">επιζητεί</span></big> <sup><small><small>[[G1934]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my life? | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Sam.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.24|<< 1 Samuel 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.2|1 Samuel 20:2 >>]]</td></tr></table>
 
 

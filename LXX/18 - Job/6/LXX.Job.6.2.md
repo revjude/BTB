@@ -9,20 +9,20 @@ Oh that my grief were throughly weighed, and my calamity laid in the balances to
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| anyone | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| stationing \[weight\] | <span class="asgreek">ιστών <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| would set | <span class="asgreek">στήσαί <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wrath, | <span class="asgreek">οργήν <sup><small><small>[[G3709]]</small></small></sup> </span> |
-| and | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| griefs | <span class="asgreek">οδύνας <sup><small><small>[[G3601]]</small></small></sup> </span> |
-| my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| lift | <span class="asgreek">άραι <sup><small><small>[[G0142]]</small></small></sup> </span> |
-| onto | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a yoke \[balance scale\], | <span class="asgreek">ζυγώ <sup><small><small>[[G2218]]</small></small></sup> </span> |
-| \[they would be\] in one accord. | <span class="asgreek">ομοθυμαδόν <sup><small><small>[[G3661]]</small></small></sup> </span> |
+| For if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| anyone | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| stationing \[weight\] | <big><span class="asgreek">ιστών</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| would set | <big><span class="asgreek">στήσαί</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wrath, | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
+| and | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| griefs | <big><span class="asgreek">οδύνας</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
+| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| lift | <big><span class="asgreek">άραι</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
+| onto | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a yoke \[balance scale\], | <big><span class="asgreek">ζυγώ</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
+| \[they would be\] in one accord. | <big><span class="asgreek">ομοθυμαδόν</span></big> <sup><small><small>[[G3661]]</small></small></sup> |
 [[Job.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.1|<< Job 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.3|Job 6:3 >>]]</td></tr></table>
 
 

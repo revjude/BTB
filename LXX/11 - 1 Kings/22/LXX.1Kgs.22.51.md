@@ -9,31 +9,31 @@ In the seventeenth year of Jehoshaphat’s reign over Judah, Ahaziah son of Ahab
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ahaziah | <span class="asgreek">Οχοζίας <sup><small><small>[[H0274]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Ahab | <span class="asgreek">Αχαάβ <sup><small><small>[[H0256]]</small></small></sup> </span> |
-| reigned | <span class="asgreek">εβασίλευσεν <sup><small><small>[[G0936]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Samaria. | <span class="asgreek">Σαμαρεία <sup><small><small>[[G4540]]</small></small></sup> </span> |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| year | <span class="asgreek">έτει <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| \[the\] seventeenth | <span class="asgreek">επτακαιδεκάτω <sup><small><small>[[G7484]]</small></small></sup> </span> |
-| of Jehoshaphat | <span class="asgreek">Ιωσαφάτ <sup><small><small>[[G2498]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Judah, | <span class="asgreek">Ιούδα <sup><small><small>[[G2448]]</small></small></sup> </span> |
-| Ahaziah | <span class="asgreek">Οχοζίας <sup><small><small>[[H0274]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Ahab | <span class="asgreek">Αχαάβ <sup><small><small>[[H0256]]</small></small></sup> </span> |
-| reigned | <span class="asgreek">εβασίλευσεν <sup><small><small>[[G0936]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Samaria | <span class="asgreek">Σαμαρεία <sup><small><small>[[G4540]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| years. | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ahaziah | <big><span class="asgreek">Οχοζίας</span></big> <sup><small><small>[[H0274]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Ahab | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
+| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Samaria. | <big><span class="asgreek">Σαμαρεία</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| \[the\] seventeenth | <big><span class="asgreek">επτακαιδεκάτω</span></big> <sup><small><small>[[G7484]]</small></small></sup> |
+| of Jehoshaphat | <big><span class="asgreek">Ιωσαφάτ</span></big> <sup><small><small>[[G2498]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| Ahaziah | <big><span class="asgreek">Οχοζίας</span></big> <sup><small><small>[[H0274]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Ahab | <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
+| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Samaria | <big><span class="asgreek">Σαμαρεία</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| years. | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
 [[1Kgs.22.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.50|<< 1 Kings 22:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.52|1 Kings 22:52 >>]]</td></tr></table>
 
 

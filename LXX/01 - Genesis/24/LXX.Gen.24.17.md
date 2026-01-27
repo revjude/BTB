@@ -9,21 +9,21 @@ So the servant ran to meet her and said, “Please let me have a little water fr
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ran | <span class="asgreek">επέδραμε <sup><small><small>[[G7465]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| servant | <span class="asgreek">παις <sup><small><small>[[G3816]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| meet with | <span class="asgreek">συνάντησιν <sup><small><small>[[G4877]]</small></small></sup> </span> |
-| her, | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Give me to drink | <span class="asgreek">πότισόν <sup><small><small>[[G4222]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a little | <span class="asgreek">μικρόν <sup><small><small>[[G3398]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your water-pitcher! | <span class="asgreek">υδρίας <sup><small><small>[[G5201]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| ran | <big><span class="asgreek">επέδραμε</span></big> <sup><small><small>[[G7465]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| meet with | <big><span class="asgreek">συνάντησιν</span></big> <sup><small><small>[[G4877]]</small></small></sup> |
+| her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Give me to drink | <big><span class="asgreek">πότισόν</span></big> <sup><small><small>[[G4222]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a little | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your water-pitcher! | <big><span class="asgreek">υδρίας</span></big> <sup><small><small>[[G5201]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.16|<< Genesis 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.18|Genesis 24:18 >>]]</td></tr></table>
 
 

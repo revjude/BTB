@@ -9,21 +9,21 @@ And these were the descendants of Perez: the Hezronite clan from Hezron and the 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| were | <span class="asgreek">εγένοντο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Pharez | <span class="asgreek">Φαρές <sup><small><small>[[H6557]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hezron, | <span class="asgreek">Ασρών <sup><small><small>[[G2074]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hezronites; | <span class="asgreek">Ασρωνί <sup><small><small>[[G2074]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Hamul, | <span class="asgreek">Αμούλ <sup><small><small>[[H2538]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hamulites. | <span class="asgreek">Αμουλί <sup><small><small>[[H2539]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Pharez | <big><span class="asgreek">Φαρές</span></big> <sup><small><small>[[H6557]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hezron, | <big><span class="asgreek">Ασρών</span></big> <sup><small><small>[[G2074]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hezronites; | <big><span class="asgreek">Ασρωνί</span></big> <sup><small><small>[[G2074]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Hamul, | <big><span class="asgreek">Αμούλ</span></big> <sup><small><small>[[H2538]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hamulites. | <big><span class="asgreek">Αμουλί</span></big> <sup><small><small>[[H2539]]</small></small></sup> |
 [[Num.26.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.20|<< Numbers 26:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.22|Numbers 26:22 >>]]</td></tr></table>
 
 

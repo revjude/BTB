@@ -9,22 +9,22 @@ You must not go about spreading slander among your people. You must not endanger
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| go | <span class="asgreek">πορεύση <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| by treachery | <span class="asgreek">δόλω <sup><small><small>[[G1388]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your nation. | <span class="asgreek">έθνει <sup><small><small>[[G1484]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| You shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| rise up together | <span class="asgreek">επισυστήση <sup><small><small>[[G7458]]</small></small></sup> </span> |
-| for | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| blood | <span class="asgreek">αίματι <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| of | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your neighbor. | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I \[am\] | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your God. | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| go | <big><span class="asgreek">πορεύση</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| by treachery | <big><span class="asgreek">δόλω</span></big> <sup><small><small>[[G1388]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your nation. | <big><span class="asgreek">έθνει</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| rise up together | <big><span class="asgreek">επισυστήση</span></big> <sup><small><small>[[G7458]]</small></small></sup> |
+| for | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| blood | <big><span class="asgreek">αίματι</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| of | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your neighbor. | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lev.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.15|<< Leviticus 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.17|Leviticus 19:17 >>]]</td></tr></table>
 
 

@@ -9,33 +9,33 @@ And I will provide a place for My people Israel and will plant them so that they
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will establish | <span class="asgreek">θήσομαι <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| a place | <span class="asgreek">τόπον <sup><small><small>[[G5117]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for my people | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will plant | <span class="asgreek">καταφυτεύσω <sup><small><small>[[G7952]]</small></small></sup> </span> |
-| \[it\], | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[they\] shall encamp | <span class="asgreek">κατασκηνώσει <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| by themselves, | <span class="asgreek">καθ΄ <sup><small><small>[[G2596]]</small></small></sup> <span class="asgreek">εαυτόν <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be anxious | <span class="asgreek">μεριμνήσει <sup><small><small>[[G3309]]</small></small></sup> </span> |
-| any longer. | <span class="asgreek">ουκέτι <sup><small><small>[[G3765]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| proceed | <span class="asgreek">προσθήσει <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| \[the\] son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of iniquity | <span class="asgreek">αδικίας <sup><small><small>[[G0093]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to humble | <span class="asgreek">ταπεινώσαι <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| \[them\] | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] beginning, | <span class="asgreek">αρχής <sup><small><small>[[G0746]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will establish | <big><span class="asgreek">θήσομαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| a place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for my people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will plant | <big><span class="asgreek">καταφυτεύσω</span></big> <sup><small><small>[[G7952]]</small></small></sup> |
+| \[it\], | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[they\] shall encamp | <big><span class="asgreek">κατασκηνώσει</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| by themselves, | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be anxious | <big><span class="asgreek">μεριμνήσει</span></big> <sup><small><small>[[G3309]]</small></small></sup> |
+| any longer. | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| proceed | <big><span class="asgreek">προσθήσει</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| \[the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of iniquity | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to humble | <big><span class="asgreek">ταπεινώσαι</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| \[them\] | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] beginning, | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
 [[2Sam.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.9|<< 2 Samuel 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.11|2 Samuel 7:11 >>]]</td></tr></table>
 
 

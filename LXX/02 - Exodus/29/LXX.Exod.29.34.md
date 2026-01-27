@@ -9,28 +9,28 @@ And if any of the meat of ordination or any bread is left until the morning, you
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[anything\] should be left behind | <span class="asgreek">καταλειφθή <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| meats | <span class="asgreek">κρεών <sup><small><small>[[G2907]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sacrifice | <span class="asgreek">θυσίας <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| consecration, | <span class="asgreek">τελειώσεως <sup><small><small>[[G5050]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| bread loaves, | <span class="asgreek">άρτων <sup><small><small>[[G0740]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| morning, | <span class="asgreek">πρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| you shall incinerate | <span class="asgreek">κατακαύσεις <sup><small><small>[[G2618]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| remainder | <span class="asgreek">λοιπά <sup><small><small>[[G3062]]</small></small></sup> </span> |
-| with fire; | <span class="asgreek">πυρί <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| it shall not be eaten, | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">βρωθήσεται <sup><small><small>[[G0977]]</small></small></sup> </span> |
-| sanctified | <span class="asgreek">αγίασμα <sup><small><small>[[G6114]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| it is | <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[anything\] should be left behind | <big><span class="asgreek">καταλειφθή</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| meats | <big><span class="asgreek">κρεών</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| consecration, | <big><span class="asgreek">τελειώσεως</span></big> <sup><small><small>[[G5050]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| bread loaves, | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| morning, | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| you shall incinerate | <big><span class="asgreek">κατακαύσεις</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| remainder | <big><span class="asgreek">λοιπά</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
+| with fire; | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| it shall not be eaten, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">βρωθήσεται</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
+| sanctified | <big><span class="asgreek">αγίασμα</span></big> <sup><small><small>[[G6114]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| it is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Exod.29.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.33|<< Exodus 29:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.35|Exodus 29:35 >>]]</td></tr></table>
 
 

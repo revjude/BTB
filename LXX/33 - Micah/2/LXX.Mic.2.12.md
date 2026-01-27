@@ -12,32 +12,32 @@ I will surely gather all of you, O Jacob; I will collect the remnant of Israel. 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In being gathered | <span class="asgreek">συναγόμενος <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| Jacob shall be brought together | <span class="asgreek">συναχθήσεται <sup><small><small>[[G4863]]</small></small></sup> <span class="asgreek">Ιακώβ <sup><small><small>[[G2384]]</small></small></sup> </span> |
-| with | <span class="asgreek">συν <sup><small><small>[[G4862]]</small></small></sup> </span> |
-| all. | <span class="asgreek">πάσιν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| In looking out | <span class="asgreek">εκδεχόμενος <sup><small><small>[[G1551]]</small></small></sup> </span> |
-| I shall look out for | <span class="asgreek">εκδεξομαι <sup><small><small>[[G1551]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| remnant | <span class="asgreek">καταλοίπους <sup><small><small>[[G2645]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Israel. | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| Together | <span class="asgreek">επιτοαυτό <sup><small><small>[[G7464]]</small></small></sup> </span> |
-| I will establish | <span class="asgreek">θήσομαι <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their return, | <span class="asgreek">αποστροφήν <sup><small><small>[[G6493]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| sheep | <span class="asgreek">πρόβατα <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| affliction; | <span class="asgreek">θλίψει <sup><small><small>[[G2347]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a flock | <span class="asgreek">ποίμνιον <sup><small><small>[[G4168]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] midst | <span class="asgreek">μέσω <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| of their fold, | <span class="asgreek">κοίτης <sup><small><small>[[G2845]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they leap out | <span class="asgreek">εξαλούνται <sup><small><small>[[G1814]]</small></small></sup> </span> |
-| because of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| men. | <span class="asgreek">ανθρώπων <sup><small><small>[[G0444]]</small></small></sup> </span> |
+| In being gathered | <big><span class="asgreek">συναγόμενος</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| Jacob shall be brought together | <big><span class="asgreek">συναχθήσεται</span></big> <sup><small><small>[[G4863]]</small></small></sup> <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
+| all. | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| In looking out | <big><span class="asgreek">εκδεχόμενος</span></big> <sup><small><small>[[G1551]]</small></small></sup> |
+| I shall look out for | <big><span class="asgreek">εκδεξομαι</span></big> <sup><small><small>[[G1551]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| remnant | <big><span class="asgreek">καταλοίπους</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Together | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
+| I will establish | <big><span class="asgreek">θήσομαι</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their return, | <big><span class="asgreek">αποστροφήν</span></big> <sup><small><small>[[G6493]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| affliction; | <big><span class="asgreek">θλίψει</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a flock | <big><span class="asgreek">ποίμνιον</span></big> <sup><small><small>[[G4168]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| of their fold, | <big><span class="asgreek">κοίτης</span></big> <sup><small><small>[[G2845]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they leap out | <big><span class="asgreek">εξαλούνται</span></big> <sup><small><small>[[G1814]]</small></small></sup> |
+| because of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| men. | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
 [[Mic.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.11|<< Micah 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.13|Micah 2:13 >>]]</td></tr></table>
 
 

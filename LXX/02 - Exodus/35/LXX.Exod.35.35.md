@@ -9,36 +9,36 @@ He has filled them with skill to do all kinds of work as engravers, designers, e
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he filled | <span class="asgreek">ενέπλησεν <sup><small><small>[[G1705]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[with\] wisdom | <span class="asgreek">σοφίας <sup><small><small>[[G4678]]</small></small></sup> </span> |
-| of understanding | <span class="asgreek">συνέσεως <sup><small><small>[[G4907]]</small></small></sup> </span> |
-| in considering | <span class="asgreek">διανοίας <sup><small><small>[[G1271]]</small></small></sup> </span> |
-| all \[things\], | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| to perceive, | <span class="asgreek">συνιέναι <sup><small><small>[[G4920]]</small></small></sup> </span> |
-| to make | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| works | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| holy place, | <span class="asgreek">αγίου <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| woven \[works\], | <span class="asgreek">υφαντά <sup><small><small>[[G5307]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| embroidered works; | <span class="asgreek">ποικιλτά <sup><small><small>[[G8835]]</small></small></sup> </span> |
-| to weave | <span class="asgreek">υφάναι <sup><small><small>[[G9605]]</small></small></sup> </span> |
-| with the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| scarlet | <span class="asgreek">κοκκίνω <sup><small><small>[[G2847]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| linen; | <span class="asgreek">βύσσω <sup><small><small>[[G1040]]</small></small></sup> </span> |
-| to make | <span class="asgreek">ποιείν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| of construction | <span class="asgreek">αρχιτεκτονίας <sup><small><small>[[G6562]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| embroidery. | <span class="asgreek">ποικιλίας <sup><small><small>[[G8830]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he filled | <big><span class="asgreek">ενέπλησεν</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[with\] wisdom | <big><span class="asgreek">σοφίας</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
+| of understanding | <big><span class="asgreek">συνέσεως</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
+| in considering | <big><span class="asgreek">διανοίας</span></big> <sup><small><small>[[G1271]]</small></small></sup> |
+| all \[things\], | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| to perceive, | <big><span class="asgreek">συνιέναι</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| to make | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| holy place, | <big><span class="asgreek">αγίου</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| woven \[works\], | <big><span class="asgreek">υφαντά</span></big> <sup><small><small>[[G5307]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| embroidered works; | <big><span class="asgreek">ποικιλτά</span></big> <sup><small><small>[[G8835]]</small></small></sup> |
+| to weave | <big><span class="asgreek">υφάναι</span></big> <sup><small><small>[[G9605]]</small></small></sup> |
+| with the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| scarlet | <big><span class="asgreek">κοκκίνω</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| linen; | <big><span class="asgreek">βύσσω</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
+| to make | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| of construction | <big><span class="asgreek">αρχιτεκτονίας</span></big> <sup><small><small>[[G6562]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| embroidery. | <big><span class="asgreek">ποικιλίας</span></big> <sup><small><small>[[G8830]]</small></small></sup> |
 [[Exod.35.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.34|<< Exodus 35:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.1|Exodus 36:1 >>]]</td></tr></table>
 
 

@@ -9,33 +9,33 @@ and Elijah said to Elisha, “Please stay here, for the LORD has sent me on to B
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Elijah said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Ηλίας <sup><small><small>[[G2243]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Elisha, | <span class="asgreek">Ελισεαί <sup><small><small>[[G1666]]</small></small></sup> </span> |
-| Sit down | <span class="asgreek">κάθου <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">δη <sup><small><small>[[G1211]]</small></small></sup> </span> |
-| here! | <span class="asgreek">ενταύθα <sup><small><small>[[G7263]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| has sent | <span class="asgreek">απέσταλκέ <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| Bethel. | <span class="asgreek">Βαιθήλ <sup><small><small>[[H1008]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Elisha said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Ελισεαί <sup><small><small>[[G1666]]</small></small></sup> </span> |
-| As \[the\] <span class="smallcaps">lord</span> lives, | <span class="asgreek">ζη <sup><small><small>[[G2198]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and \[as\] | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lives | <span class="asgreek">ζη <sup><small><small>[[G2198]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| I abandon | <span class="asgreek">εγκαταλείψω <sup><small><small>[[G1459]]</small></small></sup> </span> |
-| you, \[no\]. | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they came | <span class="asgreek">ήλθον <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Bethel. | <span class="asgreek">Βαιθήλ <sup><small><small>[[H1008]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Elijah said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ηλίας</span></big> <sup><small><small>[[G2243]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Elisha, | <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
+| Sit down | <big><span class="asgreek">κάθου</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
+| here! | <big><span class="asgreek">ενταύθα</span></big> <sup><small><small>[[G7263]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| has sent | <big><span class="asgreek">απέσταλκέ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| Bethel. | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Elisha said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
+| As \[the\] <span class="smallcaps">lord</span> lives, | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and \[as\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lives | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| I abandon | <big><span class="asgreek">εγκαταλείψω</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
+| you, \[no\]. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Bethel. | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
 [[2Kgs.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.1|<< 2 Kings 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.3|2 Kings 2:3 >>]]</td></tr></table>
 
 

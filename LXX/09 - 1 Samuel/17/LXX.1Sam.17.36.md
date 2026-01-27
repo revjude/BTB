@@ -9,29 +9,29 @@ Your servant has killed lions and bears; this uncircumcised Philistine will be l
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lion | <span class="asgreek">λέοντα <sup><small><small>[[G3023]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| bear | <span class="asgreek">άρκτον <sup><small><small>[[G0715]]</small></small></sup> </span> |
-| beat | <span class="asgreek">έτυπτεν <sup><small><small>[[G5180]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your servant | <span class="asgreek">δούλος <sup><small><small>[[G1401]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Philistine | <span class="asgreek">αλλόφυλος <sup><small><small>[[G0246]][[G3778]]</small></small></sup> </span> |
-| this | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| uncircumcised | <span class="asgreek">απερίτμητος <sup><small><small>[[G0564]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| one | <span class="asgreek">εν <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| of these | <span class="asgreek">τούτων <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| berates | <span class="asgreek">ωνείδισε <sup><small><small>[[G3679]]</small></small></sup> </span> |
-| \[the\] battle array | <span class="asgreek">παράταξιν <sup><small><small>[[G8640]]</small></small></sup> </span> |
-| of \[the\] living God. | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">ζώντος <sup><small><small>[[G2198]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lion | <big><span class="asgreek">λέοντα</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| bear | <big><span class="asgreek">άρκτον</span></big> <sup><small><small>[[G0715]]</small></small></sup> |
+| beat | <big><span class="asgreek">έτυπτεν</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your servant | <big><span class="asgreek">δούλος</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Philistine | <big><span class="asgreek">αλλόφυλος</span></big> <sup><small><small>[[G0246]][[G3778]]</small></small></sup> |
+| this | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| uncircumcised | <big><span class="asgreek">απερίτμητος</span></big> <sup><small><small>[[G0564]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| of these | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| berates | <big><span class="asgreek">ωνείδισε</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
+| \[the\] battle array | <big><span class="asgreek">παράταξιν</span></big> <sup><small><small>[[G8640]]</small></small></sup> |
+| of \[the\] living God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ζώντος</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
 [[1Sam.17.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.35|<< 1 Samuel 17:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.37|1 Samuel 17:37 >>]]</td></tr></table>
 
 

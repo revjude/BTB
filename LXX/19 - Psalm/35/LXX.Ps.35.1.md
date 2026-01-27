@@ -14,15 +14,15 @@ Of David. Contend with my opponents, O LORD; fight against those who fight again
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Adjudicate, | <span class="asgreek">δίκασον <sup><small><small>[[G6927]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones wronging | <span class="asgreek">αδικούντάς <sup><small><small>[[G0091]]</small></small></sup> </span> |
-| me! | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Wage war \[against\] | <span class="asgreek">πολέμησον <sup><small><small>[[G4170]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones waging war \[against\] | <span class="asgreek">πολεμούντάς <sup><small><small>[[G4170]]</small></small></sup> </span> |
-| me! | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Adjudicate, | <big><span class="asgreek">δίκασον</span></big> <sup><small><small>[[G6927]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones wronging | <big><span class="asgreek">αδικούντάς</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
+| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Wage war \[against\] | <big><span class="asgreek">πολέμησον</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones waging war \[against\] | <big><span class="asgreek">πολεμούντάς</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
+| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.22|<< Psalm 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.2|Psalm 35:2 >>]]</td></tr></table>
 
 

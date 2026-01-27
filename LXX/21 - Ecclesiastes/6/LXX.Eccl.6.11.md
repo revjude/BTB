@@ -9,12 +9,12 @@ For the more words, the more futility—and how does that profit anyone?<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| there are | <span class="asgreek">εισί <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| matters | <span class="asgreek">λόγοι <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλοί <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| multiplying | <span class="asgreek">πληθύνοντες <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| folly. | <span class="asgreek">ματαιότητα <sup><small><small>[[G3153]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| there are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| matters | <big><span class="asgreek">λόγοι</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| multiplying | <big><span class="asgreek">πληθύνοντες</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| folly. | <big><span class="asgreek">ματαιότητα</span></big> <sup><small><small>[[G3153]]</small></small></sup> |
 [[Eccl.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.10|<< Ecclesiastes 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.12|Ecclesiastes 6:12 >>]]</td></tr></table>
 
 

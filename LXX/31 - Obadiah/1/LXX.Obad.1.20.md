@@ -9,30 +9,30 @@ And the exiles of this host of the Israelites will possess the land of the Canaa
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| displacement | <span class="asgreek">μετοικεσίας <sup><small><small>[[G3350]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of this company | <span class="asgreek">αρχή <sup><small><small>[[G0746]]</small></small></sup> <span class="asgreek">αύτη <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοίς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Israel \[shall inherit\] | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| that | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Canaanites, | <span class="asgreek">Χαναναίων <sup><small><small>[[G5477]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| Zarephath; | <span class="asgreek">Σαρέπτων <sup><small><small>[[G4558]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| displacement | <span class="asgreek">μετοικεσία <sup><small><small>[[G3350]]</small></small></sup> </span> |
-| of Jerusalem, | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| Ephratah, | <span class="asgreek">Εφραθά <sup><small><small>[[H6084]]</small></small></sup> </span> |
-| shall inherit | <span class="asgreek">κληρονομήσουσι <sup><small><small>[[G2816]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Negev. | <span class="asgreek">Ναγέβ <sup><small><small>[[H5045]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| displacement | <big><span class="asgreek">μετοικεσίας</span></big> <sup><small><small>[[G3350]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of this company | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Israel \[shall inherit\] | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| that | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Canaanites, | <big><span class="asgreek">Χαναναίων</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| Zarephath; | <big><span class="asgreek">Σαρέπτων</span></big> <sup><small><small>[[G4558]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| displacement | <big><span class="asgreek">μετοικεσία</span></big> <sup><small><small>[[G3350]]</small></small></sup> |
+| of Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| Ephratah, | <big><span class="asgreek">Εφραθά</span></big> <sup><small><small>[[H6084]]</small></small></sup> |
+| shall inherit | <big><span class="asgreek">κληρονομήσουσι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Negev. | <big><span class="asgreek">Ναγέβ</span></big> <sup><small><small>[[H5045]]</small></small></sup> |
 [[Obad.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.19|<< Obadiah 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.21|Obadiah 1:21 >>]]</td></tr></table>
 
 

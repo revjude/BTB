@@ -13,24 +13,24 @@ You will eat the flesh of the mighty and drink the blood of the princes of the e
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| meats | <span class="asgreek">κρέα <sup><small><small>[[G2907]]</small></small></sup> </span> |
-| of giants | <span class="asgreek">γιγάντων <sup><small><small>[[G6736]]</small></small></sup> </span> |
-| You shall eat | <span class="asgreek">φάγεσθε <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| blood | <span class="asgreek">αίμα <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| of rulers | <span class="asgreek">αρχόντων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| you shall drink | <span class="asgreek">πίεσθε <sup><small><small>[[G4095]]</small></small></sup> </span> |
-| rams, | <span class="asgreek">κριούς <sup><small><small>[[G8096]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| calves, | <span class="asgreek">μόσχους <sup><small><small>[[G3448]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he-goats, | <span class="asgreek">τράγους <sup><small><small>[[G5131]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| calves | <span class="asgreek">μόσχοι <sup><small><small>[[G3448]]</small></small></sup> </span> |
-| all growing fat. | <span class="asgreek">εστεατωμένοι <sup><small><small>[[G9156]]</small></small></sup> <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
+| meats | <big><span class="asgreek">κρέα</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
+| of giants | <big><span class="asgreek">γιγάντων</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
+| You shall eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| of rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| you shall drink | <big><span class="asgreek">πίεσθε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| rams, | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| calves, | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he-goats, | <big><span class="asgreek">τράγους</span></big> <sup><small><small>[[G5131]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| calves | <big><span class="asgreek">μόσχοι</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
+| all growing fat. | <big><span class="asgreek">εστεατωμένοι</span></big> <sup><small><small>[[G9156]]</small></small></sup> <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
 [[Ezek.39.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.17|<< Ezekiel 39:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.19|Ezekiel 39:19 >>]]</td></tr></table>
 
 

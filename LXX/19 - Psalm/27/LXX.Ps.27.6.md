@@ -9,29 +9,29 @@ Then my head will be held high above my enemies around me. At His tabernacle I w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| he raised up high | <span class="asgreek">ύψωσε <sup><small><small>[[G5312]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my head | <span class="asgreek">κεφαλήν <sup><small><small>[[G2776]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| over | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| my enemies. | <span class="asgreek">εχθρούς <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I encircled | <span class="asgreek">εκύκλωσα <sup><small><small>[[G2944]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| sacrificed | <span class="asgreek">έθυσα <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his tent | <span class="asgreek">σκηνή <sup><small><small>[[G4633]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a sacrifice | <span class="asgreek">θυσίαν <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| of praise | <span class="asgreek">αινέσεως <sup><small><small>[[G0133]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of a shout; | <span class="asgreek">αλαλαγμού <sup><small><small>[[G6214]]</small></small></sup> </span> |
-| I shall sing | <span class="asgreek">άσω <sup><small><small>[[G0103]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| strum | <span class="asgreek">ψαλώ <sup><small><small>[[G5567]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| he raised up high | <big><span class="asgreek">ύψωσε</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| my enemies. | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I encircled | <big><span class="asgreek">εκύκλωσα</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| sacrificed | <big><span class="asgreek">έθυσα</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his tent | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| of praise | <big><span class="asgreek">αινέσεως</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of a shout; | <big><span class="asgreek">αλαλαγμού</span></big> <sup><small><small>[[G6214]]</small></small></sup> |
+| I shall sing | <big><span class="asgreek">άσω</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| strum | <big><span class="asgreek">ψαλώ</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Ps.27.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.5|<< Psalm 27:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.7|Psalm 27:7 >>]]</td></tr></table>
 
 

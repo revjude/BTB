@@ -9,17 +9,17 @@ to a land of utter darkness, of deep shadow and disorder, where even the light i
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a land | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| darkness | <span class="asgreek">σκότους <sup><small><small>[[G4655]]</small></small></sup> </span> |
-| of eternal | <span class="asgreek">αιωνίου <sup><small><small>[[G0166]]</small></small></sup> </span> |
-| where | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| there is no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| brightness, | <span class="asgreek">φέγγος <sup><small><small>[[G5338]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| seeing | <span class="asgreek">οράν <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| \[the\] life | <span class="asgreek">ζωήν <sup><small><small>[[G2222]]</small></small></sup> </span> |
-| of mortals. | <span class="asgreek">βροτών <sup><small><small>[[G6699]]</small></small></sup> </span> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| darkness | <big><span class="asgreek">σκότους</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
+| of eternal | <big><span class="asgreek">αιωνίου</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| brightness, | <big><span class="asgreek">φέγγος</span></big> <sup><small><small>[[G5338]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| seeing | <big><span class="asgreek">οράν</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| \[the\] life | <big><span class="asgreek">ζωήν</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
+| of mortals. | <big><span class="asgreek">βροτών</span></big> <sup><small><small>[[G6699]]</small></small></sup> |
 [[Job.10.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.21|<< Job 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.1|Job 11:1 >>]]</td></tr></table>
 
 

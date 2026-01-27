@@ -9,31 +9,31 @@ For as in the day of Midian You have shattered the yoke of their burden, the bar
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Because | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| was removed | <span class="asgreek">αφήρηται <sup><small><small>[[G0851]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| yoke, | <span class="asgreek">ζυγός <sup><small><small>[[G2218]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| upon them | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| being situated | <span class="asgreek">κείμενος <sup><small><small>[[G2749]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rod, | <span class="asgreek">ράβδος <sup><small><small>[[G4464]]</small></small></sup> </span> |
-| the one | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their neck; | <span class="asgreek">τραχήλου <sup><small><small>[[G5137]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| rod | <span class="asgreek">ράβδον <sup><small><small>[[G4464]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| extractors | <span class="asgreek">απαιτούντων <sup><small><small>[[G0523]]</small></small></sup> </span> |
-| he effaced | <span class="asgreek">διεσκέδασεν <sup><small><small>[[G6876]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| against | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| Midian. | <span class="asgreek">Μαδιάμ <sup><small><small>[[G3099]]</small></small></sup> </span> |
+| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| was removed | <big><span class="asgreek">αφήρηται</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| yoke, | <big><span class="asgreek">ζυγός</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| upon them | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| being situated | <big><span class="asgreek">κείμενος</span></big> <sup><small><small>[[G2749]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rod, | <big><span class="asgreek">ράβδος</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
+| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their neck; | <big><span class="asgreek">τραχήλου</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| rod | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| extractors | <big><span class="asgreek">απαιτούντων</span></big> <sup><small><small>[[G0523]]</small></small></sup> |
+| he effaced | <big><span class="asgreek">διεσκέδασεν</span></big> <sup><small><small>[[G6876]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| Midian. | <big><span class="asgreek">Μαδιάμ</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
 [[Isa.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.3|<< Isaiah 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.5|Isaiah 9:5 >>]]</td></tr></table>
 
 

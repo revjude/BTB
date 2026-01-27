@@ -9,16 +9,16 @@ to deliver them from death and keep them alive in famine.<small><sub>**MT:**</s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| to rescue | <span class="asgreek">ρύσασθαι <sup><small><small>[[G4506]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| death | <span class="asgreek">θανάτου <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their souls | <span class="asgreek">ψυχάς <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to nourish | <span class="asgreek">διαθρέψαι <sup><small><small>[[G6894]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| during | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| famine. | <span class="asgreek">λιμώ <sup><small><small>[[G3042]]</small></small></sup> </span> |
+| to rescue | <big><span class="asgreek">ρύσασθαι</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| death | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to nourish | <big><span class="asgreek">διαθρέψαι</span></big> <sup><small><small>[[G6894]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| during | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| famine. | <big><span class="asgreek">λιμώ</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
 [[Ps.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.18|<< Psalm 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.20|Psalm 33:20 >>]]</td></tr></table>
 
 

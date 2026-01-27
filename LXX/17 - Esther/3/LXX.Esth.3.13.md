@@ -9,30 +9,30 @@ And the letters were sent by couriers to each of the royal provinces with the or
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it was sent | <span class="asgreek">απεστάλη <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| by | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| couriers | <span class="asgreek">βιβλιοφόρων <sup><small><small>[[G6674]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| kingdom of Artaxerxes, | <span class="asgreek">Αρταξέρξου <sup><small><small>[[H0783b]]</small></small></sup> <span class="asgreek">βασιλείαν <sup><small><small>[[G0932]]</small></small></sup> </span> |
-| to remove | <span class="asgreek">αφανίσαι <sup><small><small>[[G0853]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| race | <span class="asgreek">γένος <sup><small><small>[[G1085]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jews | <span class="asgreek">Ιουδαίων <sup><small><small>[[G2453]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| one | <span class="asgreek">μία <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| month | <span class="asgreek">μηνός <sup><small><small>[[G3376]]</small></small></sup> </span> |
-| of \[the\] twelfth | <span class="asgreek">δωδεκάτου <sup><small><small>[[G1428]]</small></small></sup> </span> |
-| which | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| Adar, | <span class="asgreek">Αδάρ <sup><small><small>[[G6135]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to plunder | <span class="asgreek">διαρπάσαι <sup><small><small>[[G1283]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their possessions. | <span class="asgreek">υπάρχοντα <sup><small><small>[[G5225]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it was sent | <big><span class="asgreek">απεστάλη</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| couriers | <big><span class="asgreek">βιβλιοφόρων</span></big> <sup><small><small>[[G6674]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| kingdom of Artaxerxes, | <big><span class="asgreek">Αρταξέρξου</span></big> <sup><small><small>[[H0783b]]</small></small></sup> <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
+| to remove | <big><span class="asgreek">αφανίσαι</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| race | <big><span class="asgreek">γένος</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jews | <big><span class="asgreek">Ιουδαίων</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| month | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
+| of \[the\] twelfth | <big><span class="asgreek">δωδεκάτου</span></big> <sup><small><small>[[G1428]]</small></small></sup> |
+| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| Adar, | <big><span class="asgreek">Αδάρ</span></big> <sup><small><small>[[G6135]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to plunder | <big><span class="asgreek">διαρπάσαι</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their possessions. | <big><span class="asgreek">υπάρχοντα</span></big> <sup><small><small>[[G5225]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Esth.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.12|<< Esther 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.14|Esther 3:14 >>]]</td></tr></table>
 
 

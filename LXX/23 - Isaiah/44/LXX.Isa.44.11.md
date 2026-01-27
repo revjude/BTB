@@ -9,25 +9,25 @@ Behold, all his companions will be put to shame, for the craftsmen themselves ar
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| from where | <span class="asgreek">όθεν <sup><small><small>[[G3606]]</small></small></sup> </span> |
-| they came from | <span class="asgreek">εγένοντο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| were dried up. | <span class="asgreek">εξηράνθησαν <sup><small><small>[[G3583]]</small></small></sup> </span> |
-| Yes, | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] deaf-mutes | <span class="asgreek">κωφοί <sup><small><small>[[G2974]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανθρώπων <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| be brought together | <span class="asgreek">συναχθήτωσαν <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| let them stand | <span class="asgreek">στήτωσαν <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| together, | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| let them feel remorse, | <span class="asgreek">εντραπήτωσαν <sup><small><small>[[G1788]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| let them be ashamed | <span class="asgreek">αισχυνθήτωσαν <sup><small><small>[[G0153]]</small></small></sup> </span> |
-| together! | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| from where | <big><span class="asgreek">όθεν</span></big> <sup><small><small>[[G3606]]</small></small></sup> |
+| they came from | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| were dried up. | <big><span class="asgreek">εξηράνθησαν</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| Yes, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] deaf-mutes | <big><span class="asgreek">κωφοί</span></big> <sup><small><small>[[G2974]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| be brought together | <big><span class="asgreek">συναχθήτωσαν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| let them stand | <big><span class="asgreek">στήτωσαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| together, | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| let them feel remorse, | <big><span class="asgreek">εντραπήτωσαν</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| let them be ashamed | <big><span class="asgreek">αισχυνθήτωσαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
+| together! | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
 [[Isa.44.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.10|<< Isaiah 44:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.12|Isaiah 44:12 >>]]</td></tr></table>
 
 

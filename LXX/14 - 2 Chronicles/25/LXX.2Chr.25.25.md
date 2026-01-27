@@ -9,25 +9,25 @@ Amaziah son of Joash king of Judah lived for fifteen years after the death of Je
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lived | <span class="asgreek">έζησεν <sup><small><small>[[G2198]]</small></small></sup> </span> |
-| Amaziah | <span class="asgreek">Αμασίας <sup><small><small>[[H0558]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[son of\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Joash | <span class="asgreek">Ιωάς <sup><small><small>[[H3135]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Judah | <span class="asgreek">Ιούδα <sup><small><small>[[G2448]]</small></small></sup> </span> |
-| after | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dying | <span class="asgreek">αποθανείν <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| of Joash | <span class="asgreek">Ιωάς <sup><small><small>[[H3135]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[son of\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jehoahaz | <span class="asgreek">Ιωάχαζ <sup><small><small>[[H3059]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| years | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| for fifteen | <span class="asgreek">δεκαπέντε <sup><small><small>[[G1178]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lived | <big><span class="asgreek">έζησεν</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| Amaziah | <big><span class="asgreek">Αμασίας</span></big> <sup><small><small>[[H0558]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dying | <big><span class="asgreek">αποθανείν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| of Joash | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jehoahaz | <big><span class="asgreek">Ιωάχαζ</span></big> <sup><small><small>[[H3059]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| for fifteen | <big><span class="asgreek">δεκαπέντε</span></big> <sup><small><small>[[G1178]]</small></small></sup> |
 [[2Chr.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.24|<< 2 Chronicles 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.26|2 Chronicles 25:26 >>]]</td></tr></table>
 
 

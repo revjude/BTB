@@ -12,26 +12,26 @@ Meanwhile, Johanan son of Kareah and all the commanders of the armies in the fie
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Johanan | <span class="asgreek">Ιωανάν <sup><small><small>[[H3110]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Kareah, | <span class="asgreek">Καριέ <sup><small><small>[[H7143]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| governors | <span class="asgreek">ηγεμόνες <sup><small><small>[[G2232]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| force, | <span class="asgreek">δυνάμεως <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fields, | <span class="asgreek">αγροίς <sup><small><small>[[G0068]]</small></small></sup> </span> |
-| came | <span class="asgreek">ήλθον <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Gedaliah | <span class="asgreek">Γοδολίαν <sup><small><small>[[H1436b]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Mizpah. | <span class="asgreek">Μασσηφάθ <sup><small><small>[[H4708]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Johanan | <big><span class="asgreek">Ιωανάν</span></big> <sup><small><small>[[H3110]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Kareah, | <big><span class="asgreek">Καριέ</span></big> <sup><small><small>[[H7143]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| governors | <big><span class="asgreek">ηγεμόνες</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| force, | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fields, | <big><span class="asgreek">αγροίς</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
+| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Gedaliah | <big><span class="asgreek">Γοδολίαν</span></big> <sup><small><small>[[H1436b]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Mizpah. | <big><span class="asgreek">Μασσηφάθ</span></big> <sup><small><small>[[H4708]]</small></small></sup> |
 [[Jer.40.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.12|<< Jeremiah 40:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.14|Jeremiah 40:14 >>]]</td></tr></table>
 
 

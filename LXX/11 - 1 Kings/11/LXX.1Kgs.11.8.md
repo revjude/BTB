@@ -9,20 +9,20 @@ He did the same for all his foreign wives, who burned incense and sacrificed to 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| he did | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| for all | <span class="asgreek">πάσαις <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wives | <span class="asgreek">γυναιξίν <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| alien | <span class="asgreek">αλλοτρίαις <sup><small><small>[[G0245]]</small></small></sup> </span> |
-| ones burning incense | <span class="asgreek">εθυμίων <sup><small><small>[[G2370]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| sacrificing | <span class="asgreek">έθυον <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their idols. | <span class="asgreek">ειδώλοις <sup><small><small>[[G1497]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| he did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| for all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wives | <big><span class="asgreek">γυναιξίν</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| alien | <big><span class="asgreek">αλλοτρίαις</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| ones burning incense | <big><span class="asgreek">εθυμίων</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| sacrificing | <big><span class="asgreek">έθυον</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their idols. | <big><span class="asgreek">ειδώλοις</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Kgs.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.7|<< 1 Kings 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.9|1 Kings 11:9 >>]]</td></tr></table>
 
 

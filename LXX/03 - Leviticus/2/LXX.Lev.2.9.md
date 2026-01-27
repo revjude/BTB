@@ -9,27 +9,27 @@ The priest is to remove the memorial portion from the grain offering and burn it
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| shall remove | <span class="asgreek">αφελεί <sup><small><small>[[G0851]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priest | <span class="asgreek">ιερεύς <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sacrifice | <span class="asgreek">θυσίας <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| memorial \[portion\] | <span class="asgreek">μνημόσυνον <sup><small><small>[[G3422]]</small></small></sup> </span> |
-| of it. | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall place \[it\] | <span class="asgreek">επιθήσει <sup><small><small>[[G2007]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priest | <span class="asgreek">ιερεύς <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| altar -- | <span class="asgreek">θυσιαστήριον <sup><small><small>[[G2379]]</small></small></sup> </span> |
-| a yield \[offering\] | <span class="asgreek">κάρπωμα <sup><small><small>[[G7806]]</small></small></sup> </span> |
-| scent | <span class="asgreek">οσμήν <sup><small><small>[[G3744]]</small></small></sup> </span> |
-| of pleasant aroma | <span class="asgreek">ευωδίας <sup><small><small>[[G2175]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| shall remove | <big><span class="asgreek">αφελεί</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| memorial \[portion\] | <big><span class="asgreek">μνημόσυνον</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
+| of it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall place \[it\] | <big><span class="asgreek">επιθήσει</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| altar -- | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
+| a yield \[offering\] | <big><span class="asgreek">κάρπωμα</span></big> <sup><small><small>[[G7806]]</small></small></sup> |
+| scent | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
+| of pleasant aroma | <big><span class="asgreek">ευωδίας</span></big> <sup><small><small>[[G2175]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Lev.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.8|<< Leviticus 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.10|Leviticus 2:10 >>]]</td></tr></table>
 
 

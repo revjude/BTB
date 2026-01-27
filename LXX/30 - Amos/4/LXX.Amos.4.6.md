@@ -9,30 +9,30 @@ And I also have given you cleanness of teeth in all your cities, and want of bre
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| will give | <span class="asgreek">δώσω <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to you | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| an ache | <span class="asgreek">γομφιασμόν <sup><small><small>[[G6760]]</small></small></sup> </span> |
-| of teeth | <span class="asgreek">οδόντων <sup><small><small>[[G3599]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσαις <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your cities, | <span class="asgreek">πόλεσιν <sup><small><small>[[G4172]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lack | <span class="asgreek">ένδειαν <sup><small><small>[[G7218]]</small></small></sup> </span> |
-| of bread \[loaves\] | <span class="asgreek">άρτων <sup><small><small>[[G0740]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your places; | <span class="asgreek">τόποις <sup><small><small>[[G5117]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| return | <span class="asgreek">επεστρέψατε <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| an ache | <big><span class="asgreek">γομφιασμόν</span></big> <sup><small><small>[[G6760]]</small></small></sup> |
+| of teeth | <big><span class="asgreek">οδόντων</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσαις</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your cities, | <big><span class="asgreek">πόλεσιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lack | <big><span class="asgreek">ένδειαν</span></big> <sup><small><small>[[G7218]]</small></small></sup> |
+| of bread \[loaves\] | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your places; | <big><span class="asgreek">τόποις</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| return | <big><span class="asgreek">επεστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Amos.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.5|<< Amos 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.7|Amos 4:7 >>]]</td></tr></table>
 
 

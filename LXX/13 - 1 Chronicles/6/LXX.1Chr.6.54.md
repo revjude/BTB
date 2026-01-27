@@ -9,29 +9,29 @@ Now these were the territories assigned to the descendants of Aaron from the Koh
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| these \[are\] | <span class="asgreek">αύται <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their dwelling \[places\], | <span class="asgreek">κατοικίαι <sup><small><small>[[G2733]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their properties, | <span class="asgreek">επαύλεσιν <sup><small><small>[[G1886]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their borders, | <span class="asgreek">ορίοις <sup><small><small>[[G3725]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοίς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Aaron, | <span class="asgreek">Ααρών <sup><small><small>[[G0002]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| kin | <span class="asgreek">συγγενεία <sup><small><small>[[G4772]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Kohath, | <span class="asgreek">Καάθ <sup><small><small>[[H6955]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| were | <span class="asgreek">εγένοντο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lots | <span class="asgreek">κλήροι <sup><small><small>[[G2819]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| these \[are\] | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their dwelling \[places\], | <big><span class="asgreek">κατοικίαι</span></big> <sup><small><small>[[G2733]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their properties, | <big><span class="asgreek">επαύλεσιν</span></big> <sup><small><small>[[G1886]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their borders, | <big><span class="asgreek">ορίοις</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Aaron, | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| kin | <big><span class="asgreek">συγγενεία</span></big> <sup><small><small>[[G4772]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Kohath, | <big><span class="asgreek">Καάθ</span></big> <sup><small><small>[[H6955]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lots | <big><span class="asgreek">κλήροι</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
 [[1Chr.6.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.53|<< 1 Chronicles 6:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.55|1 Chronicles 6:55 >>]]</td></tr></table>
 
 

@@ -12,31 +12,31 @@ And the Spirit of the LORD fell upon me and told me to declare that this is what
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there fell | <span class="asgreek">έπεσεν <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| spirit | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| You say! | <span class="asgreek">λέγε <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Thus | <span class="asgreek">τάδε <sup><small><small>[[G3592]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>; | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| As | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| you said, | <span class="asgreek">είπατε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| O house | <span class="asgreek">οίκος <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| deliberations | <span class="asgreek">διαβούλια <sup><small><small>[[G6819]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your spirit | <span class="asgreek">πνεύματος <sup><small><small>[[G4151]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| know. | <span class="asgreek">επίσταμαι <sup><small><small>[[G1987]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there fell | <big><span class="asgreek">έπεσεν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You say! | <big><span class="asgreek">λέγε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| As | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| you said, | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| O house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| deliberations | <big><span class="asgreek">διαβούλια</span></big> <sup><small><small>[[G6819]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your spirit | <big><span class="asgreek">πνεύματος</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| know. | <big><span class="asgreek">επίσταμαι</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
 [[Ezek.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.4|<< Ezekiel 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.6|Ezekiel 11:6 >>]]</td></tr></table>
 
 

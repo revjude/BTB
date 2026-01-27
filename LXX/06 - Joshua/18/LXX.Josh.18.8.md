@@ -9,42 +9,42 @@ As the men got up to go out, Joshua commanded them to map out the land, saying, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| rising up | <span class="asgreek">αναστάντες <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| men | <span class="asgreek">άνδρες <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| went. | <span class="asgreek">επορεύθησαν <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Joshua gave charge | <span class="asgreek">ενετείλατο <sup><small><small>[[G1781]]</small></small></sup> <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">Ιησούς <sup><small><small>[[H3091]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανδράσι <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| going | <span class="asgreek">πορευομένοις <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| to explore | <span class="asgreek">χωροβατήσαι <sup><small><small>[[G9781]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land, | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Spread, | <span class="asgreek">διέλθατε <sup><small><small>[[G1330]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| go \[through\] | <span class="asgreek">πορεύθητε <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land, | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| explore | <span class="asgreek">χωροβατήσατε <sup><small><small>[[G9781]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| come | <span class="asgreek">παραγενήθητε <sup><small><small>[[G3854]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me! | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will bring forth | <span class="asgreek">εξοίσω <sup><small><small>[[G1627]]</small></small></sup> </span> |
-| to you | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| here | <span class="asgreek">ώδε <sup><small><small>[[G5602]]</small></small></sup> </span> |
-| a lot | <span class="asgreek">κλήρον <sup><small><small>[[G2819]]</small></small></sup> </span> |
-| before | <span class="asgreek">έναντι <sup><small><small>[[G1725]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Shiloh. | <span class="asgreek">Συλώ <sup><small><small>[[H7887]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| rising up | <big><span class="asgreek">αναστάντες</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| went. | <big><span class="asgreek">επορεύθησαν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Joshua gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| men | <big><span class="asgreek">ανδράσι</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| going | <big><span class="asgreek">πορευομένοις</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| to explore | <big><span class="asgreek">χωροβατήσαι</span></big> <sup><small><small>[[G9781]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Spread, | <big><span class="asgreek">διέλθατε</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| go \[through\] | <big><span class="asgreek">πορεύθητε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| explore | <big><span class="asgreek">χωροβατήσατε</span></big> <sup><small><small>[[G9781]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| come | <big><span class="asgreek">παραγενήθητε</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will bring forth | <big><span class="asgreek">εξοίσω</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
+| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
+| a lot | <big><span class="asgreek">κλήρον</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
+| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Shiloh. | <big><span class="asgreek">Συλώ</span></big> <sup><small><small>[[H7887]]</small></small></sup> |
 [[Josh.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.7|<< Joshua 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.9|Joshua 18:9 >>]]</td></tr></table>
 
 

@@ -12,30 +12,30 @@ But when you saw that Nahash king of the Ammonites was moving against you, you s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you beheld | <span class="asgreek">ίδετε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| Nahash | <span class="asgreek">Ναάς <sup><small><small>[[H5176]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of \[the\] sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Ammon | <span class="asgreek">Αμμών <sup><small><small>[[H5983]]</small></small></sup> </span> |
-| came | <span class="asgreek">ήλθεν <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you, | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you said, | <span class="asgreek">είπατε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| No, | <span class="asgreek">ουχί <sup><small><small>[[G3780]]</small></small></sup> </span> |
-| but only | <span class="asgreek">αλλ΄ η <sup><small><small>[[G6227]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| a king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| shall reign | <span class="asgreek">βασιλεύσει <sup><small><small>[[G0936]]</small></small></sup> </span> |
-| over | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| us. | <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[is\] your king. | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you beheld | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| Nahash | <big><span class="asgreek">Ναάς</span></big> <sup><small><small>[[H5176]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
+| came | <big><span class="asgreek">ήλθεν</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you said, | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| No, | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
+| but only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| a king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| shall reign | <big><span class="asgreek">βασιλεύσει</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
+| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| us. | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[is\] your king. | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Sam.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.11|<< 1 Samuel 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.13|1 Samuel 12:13 >>]]</td></tr></table>
 
 

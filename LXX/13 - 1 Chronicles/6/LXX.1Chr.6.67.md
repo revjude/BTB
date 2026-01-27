@@ -9,27 +9,27 @@ They were given Shechem (a city of refuge) with its pasturelands in the hill cou
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they gave | <span class="asgreek">έδωκαν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| place of refuge -- | <span class="asgreek">φυγαδευτηρίου <sup><small><small>[[G9673]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Shechem | <span class="asgreek">Σιχέμ <sup><small><small>[[G4966]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her outskirts | <span class="asgreek">περισπόρια <sup><small><small>[[G8756]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| mount | <span class="asgreek">όρει <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| Ephraim, | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Gezer | <span class="asgreek">Γαζέρ <sup><small><small>[[H1507]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her outskirts, | <span class="asgreek">περισπόρια <sup><small><small>[[G8756]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| place of refuge -- | <big><span class="asgreek">φυγαδευτηρίου</span></big> <sup><small><small>[[G9673]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Shechem | <big><span class="asgreek">Σιχέμ</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her outskirts | <big><span class="asgreek">περισπόρια</span></big> <sup><small><small>[[G8756]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| mount | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Gezer | <big><span class="asgreek">Γαζέρ</span></big> <sup><small><small>[[H1507]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her outskirts, | <big><span class="asgreek">περισπόρια</span></big> <sup><small><small>[[G8756]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Chr.6.67|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.66|<< 1 Chronicles 6:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.68|1 Chronicles 6:68 >>]]</td></tr></table>
 
 

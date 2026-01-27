@@ -9,33 +9,33 @@ Seest thou how Ahab humbleth himself before me? because he humbleth himself befo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Have you seen | <span class="asgreek">εώρακας <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| that | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| Ahab was vexed | <span class="asgreek">κατενύχθη <sup><small><small>[[G2660]]</small></small></sup> <span class="asgreek">Αχαάβ <sup><small><small>[[H0256]]</small></small></sup> </span> |
-| in front | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of me? | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Because | <span class="asgreek">ανθ΄ <sup><small><small>[[G0473]]</small></small></sup> <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| he was vexed | <span class="asgreek">κατενύχθη <sup><small><small>[[G2660]]</small></small></sup> </span> |
-| in front | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of me, | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I shall not bring | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">επάξω <sup><small><small>[[G1863]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| evil | <span class="asgreek">κακίαν <sup><small><small>[[G2549]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his days, | <span class="asgreek">ημέραις <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but only | <span class="asgreek">αλλ΄ η <sup><small><small>[[G6227]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| days | <span class="asgreek">ημέραις <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his son | <span class="asgreek">υιού <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| will I bring | <span class="asgreek">επάξω <sup><small><small>[[G1863]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| evil | <span class="asgreek">κακίαν <sup><small><small>[[G2549]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his house. | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Have you seen | <big><span class="asgreek">εώρακας</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| that | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| Ahab was vexed | <big><span class="asgreek">κατενύχθη</span></big> <sup><small><small>[[G2660]]</small></small></sup> <big><span class="asgreek">Αχαάβ</span></big> <sup><small><small>[[H0256]]</small></small></sup> |
+| in front | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of me? | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Because | <big><span class="asgreek">ανθ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| he was vexed | <big><span class="asgreek">κατενύχθη</span></big> <sup><small><small>[[G2660]]</small></small></sup> |
+| in front | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I shall not bring | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| evil | <big><span class="asgreek">κακίαν</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his days, | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| will I bring | <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| evil | <big><span class="asgreek">κακίαν</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his house. | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Kgs.21.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.28|<< 1 Kings 21:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.1|1 Kings 22:1 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ We even saw the Nephilim there—the descendants of Anak that come from the Neph
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| we saw | <span class="asgreek">εωράκαμεν <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| giants; | <span class="asgreek">γίγαντας <sup><small><small>[[G6736]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we were | <span class="asgreek">ήμεν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in the presence of | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| locusts | <span class="asgreek">ακρίδες <sup><small><small>[[G0200]]</small></small></sup> </span> |
-| yes, | <span class="asgreek">αλλά <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| we were | <span class="asgreek">ήμεν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in the presence of | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| we saw | <big><span class="asgreek">εωράκαμεν</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| giants; | <big><span class="asgreek">γίγαντας</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we were | <big><span class="asgreek">ήμεν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in the presence of | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| locusts | <big><span class="asgreek">ακρίδες</span></big> <sup><small><small>[[G0200]]</small></small></sup> |
+| yes, | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| we were | <big><span class="asgreek">ήμεν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in the presence of | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Num.13.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.32|<< Numbers 13:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.1|Numbers 14:1 >>]]</td></tr></table>
 
 

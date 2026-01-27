@@ -9,34 +9,34 @@ But you, do not stop there. Pursue your enemies and attack them from behind. Do 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But you | <span class="asgreek">υμείς <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| stand firmly! | <span class="asgreek">στήκετε <sup><small><small>[[G4739]]</small></small></sup> </span> |
-| be pursuing | <span class="asgreek">καταδιώκοντες <sup><small><small>[[G2614]]</small></small></sup> </span> |
-| after | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your enemies, | <span class="asgreek">εχθρών <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| overtake | <span class="asgreek">καταλάβετε <sup><small><small>[[G2638]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their rear guard, | <span class="asgreek">ουραγίαν <sup><small><small>[[G8567]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| let | <span class="asgreek">αφήτε <sup><small><small>[[G0863]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| enter | <span class="asgreek">εισελθείν <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their cities! | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| delivered | <span class="asgreek">παρέδωκε <sup><small><small>[[G3860]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our hands. | <span class="asgreek">χείρας <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| But you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| stand firmly! | <big><span class="asgreek">στήκετε</span></big> <sup><small><small>[[G4739]]</small></small></sup> |
+| be pursuing | <big><span class="asgreek">καταδιώκοντες</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
+| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| overtake | <big><span class="asgreek">καταλάβετε</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their rear guard, | <big><span class="asgreek">ουραγίαν</span></big> <sup><small><small>[[G8567]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| let | <big><span class="asgreek">αφήτε</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| enter | <big><span class="asgreek">εισελθείν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their cities! | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| delivered | <big><span class="asgreek">παρέδωκε</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our hands. | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Josh.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.18|<< Joshua 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.20|Joshua 10:20 >>]]</td></tr></table>
 
 

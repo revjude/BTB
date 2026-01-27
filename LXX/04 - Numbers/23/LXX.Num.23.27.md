@@ -9,24 +9,24 @@ And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another pl
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Balak said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Βαλαάκ <sup><small><small>[[G0904]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Balaam, | <span class="asgreek">Βαλαάμ <sup><small><small>[[G0903]]</small></small></sup> </span> |
-| Come, | <span class="asgreek">δεύρο <sup><small><small>[[G1204]]</small></small></sup> </span> |
-| I should take | <span class="asgreek">παραλάβω <sup><small><small>[[G3880]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| place | <span class="asgreek">τόπον <sup><small><small>[[G5117]]</small></small></sup> </span> |
-| another | <span class="asgreek">άλλον <sup><small><small>[[G0243]]</small></small></sup> </span> |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| it should please | <span class="asgreek">αρέση <sup><small><small>[[G0700]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God, | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| curse | <span class="asgreek">κατάρασαί <sup><small><small>[[G2672]]</small></small></sup> </span> |
-| him for me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from there! | <span class="asgreek">εκείθεν <sup><small><small>[[G1564]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Balak said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Balaam, | <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
+| Come, | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
+| I should take | <big><span class="asgreek">παραλάβω</span></big> <sup><small><small>[[G3880]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
+| another | <big><span class="asgreek">άλλον</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| it should please | <big><span class="asgreek">αρέση</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God, | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| curse | <big><span class="asgreek">κατάρασαί</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
+| him for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from there! | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
 [[Num.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.26|<< Numbers 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.28|Numbers 23:28 >>]]</td></tr></table>
 
 

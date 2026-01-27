@@ -12,29 +12,29 @@ And the boy Samuel ministered to the LORD before Eli. Now in those days the word
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| boy | <span class="asgreek">παιδάριον <sup><small><small>[[G3808]]</small></small></sup> </span> |
-| Samuel | <span class="asgreek">Σαμουήλ <sup><small><small>[[G4545]]</small></small></sup> </span> |
-| was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| officiating | <span class="asgreek">λειτουργούν <sup><small><small>[[G3008]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| before | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| Eli | <span class="asgreek">Ηλί <sup><small><small>[[G2242]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priest. | <span class="asgreek">ιερέως <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] word | <span class="asgreek">ρήμα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| esteemed | <span class="asgreek">τίμιον <sup><small><small>[[G5093]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| those days, | <span class="asgreek">ημέραις <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">εκείναις <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| because there was no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| vision | <span class="asgreek">όρασις <sup><small><small>[[G3706]]</small></small></sup> </span> |
-| for giving orders. | <span class="asgreek">διαστέλλουσα <sup><small><small>[[G1291]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| boy | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
+| Samuel | <big><span class="asgreek">Σαμουήλ</span></big> <sup><small><small>[[G4545]]</small></small></sup> |
+| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| officiating | <big><span class="asgreek">λειτουργούν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| Eli | <big><span class="asgreek">Ηλί</span></big> <sup><small><small>[[G2242]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priest. | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| esteemed | <big><span class="asgreek">τίμιον</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| those days, | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείναις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| because there was no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
+| for giving orders. | <big><span class="asgreek">διαστέλλουσα</span></big> <sup><small><small>[[G1291]]</small></small></sup> |
 [[1Sam.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.36|<< 1 Samuel 2:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.2|1 Samuel 3:2 >>]]</td></tr></table>
 
 

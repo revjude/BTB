@@ -9,17 +9,17 @@ You soak its furrows and level its ridges; You soften it with showers and bless 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her furrows | <span class="asgreek">αύλακας <sup><small><small>[[G6603]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Saturate | <span class="asgreek">μέθυσον <sup><small><small>[[G3184]]</small></small></sup> </span> |
-| Multiply | <span class="asgreek">πλήθυνον <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her produce! | <span class="asgreek">γεννήματα <sup><small><small>[[G1081]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| By | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her drops | <span class="asgreek">σταγόσιν <sup><small><small>[[G9146]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the produce\] shall be glad | <span class="asgreek">ευφρανθήσεται <sup><small><small>[[G2165]]</small></small></sup> </span> |
-| \[while\] rising. | <span class="asgreek">ανατέλλουσα <sup><small><small>[[G0393]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her furrows | <big><span class="asgreek">αύλακας</span></big> <sup><small><small>[[G6603]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Saturate | <big><span class="asgreek">μέθυσον</span></big> <sup><small><small>[[G3184]]</small></small></sup> |
+| Multiply | <big><span class="asgreek">πλήθυνον</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her produce! | <big><span class="asgreek">γεννήματα</span></big> <sup><small><small>[[G1081]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| By | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her drops | <big><span class="asgreek">σταγόσιν</span></big> <sup><small><small>[[G9146]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the produce\] shall be glad | <big><span class="asgreek">ευφρανθήσεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| \[while\] rising. | <big><span class="asgreek">ανατέλλουσα</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
 [[Ps.65.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.9|<< Psalm 65:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.11|Psalm 65:11 >>]]</td></tr></table>
 
 

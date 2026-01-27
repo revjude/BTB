@@ -9,19 +9,19 @@ Yet none of this satisfies me as long as I see Mordecai the Jew sitting at the k
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| these \[things\] | <span class="asgreek">ταύτά <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| do not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| please | <span class="asgreek">αρέσκει <sup><small><small>[[G0700]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| I behold | <span class="asgreek">ίδω <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| Mordecai | <span class="asgreek">Μαρδοχαίον <sup><small><small>[[H4782]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jew | <span class="asgreek">Ιουδαίον <sup><small><small>[[G2453]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| courtyard. | <span class="asgreek">αυλή <sup><small><small>[[G0833]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| these \[things\] | <big><span class="asgreek">ταύτά</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| please | <big><span class="asgreek">αρέσκει</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| I behold | <big><span class="asgreek">ίδω</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| Mordecai | <big><span class="asgreek">Μαρδοχαίον</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jew | <big><span class="asgreek">Ιουδαίον</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| courtyard. | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
 [[Esth.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.12|<< Esther 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.14|Esther 5:14 >>]]</td></tr></table>
 
 

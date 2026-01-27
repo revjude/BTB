@@ -9,27 +9,27 @@ I will make Rabbah a pasture for camels, and Ammon a resting place for sheep. Th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will give | <span class="asgreek">δώσω <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| city | <span class="asgreek">πόλιν <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Ammon | <span class="asgreek">Αμμών <sup><small><small>[[H5983]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| pastures | <span class="asgreek">νομάς <sup><small><small>[[G3542]]</small></small></sup> </span> |
-| of camels, | <span class="asgreek">καμήλων <sup><small><small>[[G2574]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Ammon | <span class="asgreek">Αμμών <sup><small><small>[[H5983]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a pasture | <span class="asgreek">νομήν <sup><small><small>[[G3542]]</small></small></sup> </span> |
-| of sheep. | <span class="asgreek">προβάτων <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall realize | <span class="asgreek">επιγνώσεσθε <sup><small><small>[[G1921]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I \[am\] | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| pastures | <big><span class="asgreek">νομάς</span></big> <sup><small><small>[[G3542]]</small></small></sup> |
+| of camels, | <big><span class="asgreek">καμήλων</span></big> <sup><small><small>[[G2574]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Ammon | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a pasture | <big><span class="asgreek">νομήν</span></big> <sup><small><small>[[G3542]]</small></small></sup> |
+| of sheep. | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall realize | <big><span class="asgreek">επιγνώσεσθε</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Ezek.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.4|<< Ezekiel 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.6|Ezekiel 25:6 >>]]</td></tr></table>
 
 

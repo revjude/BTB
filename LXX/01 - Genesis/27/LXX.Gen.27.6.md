@@ -9,25 +9,25 @@ Rebekah said to her son Jacob, “Behold, I overheard your father saying to your
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And Rebekah | <span class="asgreek">Ρεβέκκα <sup><small><small>[[G4479]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Jacob | <span class="asgreek">Ιακώβ <sup><small><small>[[G2384]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόν <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lesser | <span class="asgreek">ελάσσω <sup><small><small>[[G1640]]</small></small></sup> </span> |
-| See! | <span class="asgreek">ίδε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| I heard | <span class="asgreek">ήκουσα <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your father | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| speaking | <span class="asgreek">λαλούντος <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Esau | <span class="asgreek">Ησαύ <sup><small><small>[[G2269]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your brother, | <span class="asgreek">αδελφόν <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγοντος <sup><small><small>[[G3004]]</small></small></sup> </span> |
+| And Rebekah | <big><span class="asgreek">Ρεβέκκα</span></big> <sup><small><small>[[G4479]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lesser | <big><span class="asgreek">ελάσσω</span></big> <sup><small><small>[[G1640]]</small></small></sup> |
+| See! | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| I heard | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| speaking | <big><span class="asgreek">λαλούντος</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Esau | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your brother, | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγοντος</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
 [[Gen.27.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.5|<< Genesis 27:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.7|Genesis 27:7 >>]]</td></tr></table>
 
 

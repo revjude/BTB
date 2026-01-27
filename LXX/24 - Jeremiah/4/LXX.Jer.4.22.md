@@ -9,28 +9,28 @@ For my people [is] foolish, they have not known me; they [are] sottish children,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| leading | <span class="asgreek">ηγούμενοι <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my people | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| do not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| know | <span class="asgreek">ήδεισαν <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| foolish | <span class="asgreek">άφρονές <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| they are | <span class="asgreek">εισι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| discerning. | <span class="asgreek">συνετοί <sup><small><small>[[G4908]]</small></small></sup> </span> |
-| They are wise | <span class="asgreek">σοφοί <sup><small><small>[[G4680]]</small></small></sup> <span class="asgreek">εισι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to do evil, | <span class="asgreek">κακοποιήσαι <sup><small><small>[[G2554]]</small></small></sup> </span> |
-| but the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| good | <span class="asgreek">καλώς <sup><small><small>[[G2573]]</small></small></sup> </span> |
-| doing | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| they have not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| recognized. | <span class="asgreek">επέγνωσαν <sup><small><small>[[G1921]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| leading | <big><span class="asgreek">ηγούμενοι</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| know | <big><span class="asgreek">ήδεισαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| foolish | <big><span class="asgreek">άφρονές</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| they are | <big><span class="asgreek">εισι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| discerning. | <big><span class="asgreek">συνετοί</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
+| They are wise | <big><span class="asgreek">σοφοί</span></big> <sup><small><small>[[G4680]]</small></small></sup> <big><span class="asgreek">εισι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to do evil, | <big><span class="asgreek">κακοποιήσαι</span></big> <sup><small><small>[[G2554]]</small></small></sup> |
+| but the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| good | <big><span class="asgreek">καλώς</span></big> <sup><small><small>[[G2573]]</small></small></sup> |
+| doing | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| they have not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| recognized. | <big><span class="asgreek">επέγνωσαν</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
 [[Jer.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.21|<< Jeremiah 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.23|Jeremiah 4:23 >>]]</td></tr></table>
 
 

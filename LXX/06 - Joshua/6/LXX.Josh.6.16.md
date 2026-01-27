@@ -9,28 +9,28 @@ After the seventh time around, the priests blew the horns, and Joshua commanded 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it came to pass | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| circuit | <span class="asgreek">περιόδω <sup><small><small>[[G8741]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seventh | <span class="asgreek">εβδόμη <sup><small><small>[[G1442]]</small></small></sup> </span> |
-| trumped | <span class="asgreek">εσάλπισαν <sup><small><small>[[G4537]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priests | <span class="asgreek">ιερείς <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| with trumpets, | <span class="asgreek">σάλπιγξι <sup><small><small>[[G4536]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Joshua said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Ιησούς <sup><small><small>[[H3091]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοίς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| Cry out, | <span class="asgreek">κεκράξατε <sup><small><small>[[G2896]]</small></small></sup> </span> |
-| delivered up | <span class="asgreek">παρέδωκε <sup><small><small>[[G3860]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| city | <span class="asgreek">πόλιν <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| to you! | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| circuit | <big><span class="asgreek">περιόδω</span></big> <sup><small><small>[[G8741]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
+| trumped | <big><span class="asgreek">εσάλπισαν</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| with trumpets, | <big><span class="asgreek">σάλπιγξι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Joshua said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Cry out, | <big><span class="asgreek">κεκράξατε</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
+| delivered up | <big><span class="asgreek">παρέδωκε</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| to you! | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Josh.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.15|<< Joshua 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.17|Joshua 6:17 >>]]</td></tr></table>
 
 

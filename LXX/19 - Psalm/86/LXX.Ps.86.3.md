@@ -9,16 +9,16 @@ Be merciful to me, O Lord, for I call to You all day long.<small><sub>**MT:**</
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Show mercy on | <span class="asgreek">ελέησόν <sup><small><small>[[G1653]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>! | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I will cry out | <span class="asgreek">κεκράξομαι <sup><small><small>[[G2896]]</small></small></sup> </span> |
-| \[the\] entire | <span class="asgreek">όλην <sup><small><small>[[G3650]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day. | <span class="asgreek">ημέραν <sup><small><small>[[G2250]]</small></small></sup> </span> |
+| Show mercy on | <big><span class="asgreek">ελέησόν</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I will cry out | <big><span class="asgreek">κεκράξομαι</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
+| \[the\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day. | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
 [[Ps.86.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.2|<< Psalm 86:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.4|Psalm 86:4 >>]]</td></tr></table>
 
 

@@ -9,41 +9,41 @@ No weapon formed against you shall prosper, and you will refute every tongue tha
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| weapon | <span class="asgreek">σκεύος <sup><small><small>[[G4632]]</small></small></sup> </span> |
-| concocted | <span class="asgreek">σκευαστόν <sup><small><small>[[G9102]]</small></small></sup> </span> |
-| against | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be prosperous; | <span class="asgreek">ευοδωθήσεται <sup><small><small>[[G2137]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| voice | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| \[that\] shall rise up | <span class="asgreek">αναστήσεται <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| against | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| judgment, | <span class="asgreek">κρίσιν <sup><small><small>[[G2920]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| of them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall vanquish. | <span class="asgreek">ηττήσεις <sup><small><small>[[G2274]]</small></small></sup> </span> |
-| And the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| liable | <span class="asgreek">ένοχοί <sup><small><small>[[G1777]]</small></small></sup> </span> |
-| of you | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall be | <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| her; | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| it is | <span class="asgreek">έστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[the\] inheritance | <span class="asgreek">κληρονομία <sup><small><small>[[G2817]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| attending | <span class="asgreek">θεραπεύουσι <sup><small><small>[[G2323]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you | <span class="asgreek">υμείς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall be | <span class="asgreek">έσεσθέ <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| righteous to me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δίκαιοι <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| Every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| weapon | <big><span class="asgreek">σκεύος</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
+| concocted | <big><span class="asgreek">σκευαστόν</span></big> <sup><small><small>[[G9102]]</small></small></sup> |
+| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be prosperous; | <big><span class="asgreek">ευοδωθήσεται</span></big> <sup><small><small>[[G2137]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| \[that\] shall rise up | <big><span class="asgreek">αναστήσεται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| judgment, | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| of them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall vanquish. | <big><span class="asgreek">ηττήσεις</span></big> <sup><small><small>[[G2274]]</small></small></sup> |
+| And the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| liable | <big><span class="asgreek">ένοχοί</span></big> <sup><small><small>[[G1777]]</small></small></sup> |
+| of you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| her; | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| it is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[the\] inheritance | <big><span class="asgreek">κληρονομία</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| attending | <big><span class="asgreek">θεραπεύουσι</span></big> <sup><small><small>[[G2323]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall be | <big><span class="asgreek">έσεσθέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| righteous to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Isa.54.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.16|<< Isaiah 54:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.1|Isaiah 55:1 >>]]</td></tr></table>
 
 

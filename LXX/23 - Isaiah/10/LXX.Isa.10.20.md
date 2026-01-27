@@ -12,40 +12,40 @@ On that day the remnant of Israel and the survivors of the house of Jacob will n
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| that day, | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">εκείνη <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| no longer | <span class="asgreek">ουκέτι <sup><small><small>[[G3765]]</small></small></sup> </span> |
-| proceed | <span class="asgreek">προστεθήσεται <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| will the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one being left behind | <span class="asgreek">καταλειφθέν <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| of Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being preserved | <span class="asgreek">σωθέντες <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Jacob | <span class="asgreek">Ιακώβ <sup><small><small>[[G2384]]</small></small></sup> </span> |
-| no longer | <span class="asgreek">ουκέτι <sup><small><small>[[G3765]]</small></small></sup> </span> |
-| should | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| be yielding | <span class="asgreek">πεποιθότες <sup><small><small>[[G3982]]</small></small></sup> <span class="asgreek">ώσιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wronging | <span class="asgreek">αδικήσαντας <sup><small><small>[[G0091]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| But | <span class="asgreek">αλλ΄ <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| they will be | <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| yielding | <span class="asgreek">πεποιθότες <sup><small><small>[[G3982]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God, | <span class="asgreek">θεόν <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| holy one | <span class="asgreek">άγιον <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| truth. | <span class="asgreek">αληθέια <sup><small><small>[[G0225]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| that day, | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
+| proceed | <big><span class="asgreek">προστεθήσεται</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| will the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one being left behind | <big><span class="asgreek">καταλειφθέν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being preserved | <big><span class="asgreek">σωθέντες</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
+| should | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| be yielding | <big><span class="asgreek">πεποιθότες</span></big> <sup><small><small>[[G3982]]</small></small></sup> <big><span class="asgreek">ώσιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wronging | <big><span class="asgreek">αδικήσαντας</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| But | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| yielding | <big><span class="asgreek">πεποιθότες</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God, | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| holy one | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| truth. | <big><span class="asgreek">αληθέια</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
 [[Isa.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.19|<< Isaiah 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.21|Isaiah 10:21 >>]]</td></tr></table>
 
 

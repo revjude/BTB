@@ -18,22 +18,22 @@ A Psalm of David. The LORD said to my Lord: “Sit at My right hand until I make
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| to | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my Lord, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Sit down | <span class="asgreek">κάθου <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| at | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| my right \[hand\] | <span class="asgreek">δεξιών <sup><small><small>[[G1188]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| I should make | <span class="asgreek">θω <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your enemies | <span class="asgreek">εχθρούς <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a footstool | <span class="asgreek">υποπόδιον <sup><small><small>[[G5286]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for your feet. | <span class="asgreek">ποδών <sup><small><small>[[G4228]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my Lord, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Sit down | <big><span class="asgreek">κάθου</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| at | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| my right \[hand\] | <big><span class="asgreek">δεξιών</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| I should make | <big><span class="asgreek">θω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your enemies | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a footstool | <big><span class="asgreek">υποπόδιον</span></big> <sup><small><small>[[G5286]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for your feet. | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.110.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.31|<< Psalm 109:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.110.2|Psalm 110:2 >>]]</td></tr></table>
 
 

@@ -12,25 +12,25 @@ This is what the LORD says: “Go and buy a clay jar from a potter. Take some of
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Proceed | <span class="asgreek">βάδισον <sup><small><small>[[G6642]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| acquire | <span class="asgreek">κτήσαι <sup><small><small>[[G2932]]</small></small></sup> </span> |
-| a pitcher! | <span class="asgreek">βικόν <sup><small><small>[[G6675]]</small></small></sup> </span> |
-| one being shaped | <span class="asgreek">πεπλασμένον <sup><small><small>[[G4111]]</small></small></sup> </span> |
-| of earthenware | <span class="asgreek">οστράκινον <sup><small><small>[[G3749]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| elders | <span class="asgreek">πρεσβυτέρων <sup><small><small>[[G4245]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priests. | <span class="asgreek">ιερέων <sup><small><small>[[G2409]]</small></small></sup> </span> |
+| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Proceed | <big><span class="asgreek">βάδισον</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| acquire | <big><span class="asgreek">κτήσαι</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
+| a pitcher! | <big><span class="asgreek">βικόν</span></big> <sup><small><small>[[G6675]]</small></small></sup> |
+| one being shaped | <big><span class="asgreek">πεπλασμένον</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
+| of earthenware | <big><span class="asgreek">οστράκινον</span></big> <sup><small><small>[[G3749]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| elders | <big><span class="asgreek">πρεσβυτέρων</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priests. | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
 [[Jer.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.23|<< Jeremiah 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.2|Jeremiah 19:2 >>]]</td></tr></table>
 
 

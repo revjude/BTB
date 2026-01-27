@@ -9,29 +9,29 @@ As surely as the LORD who saves Israel lives, even if it is my son Jonathan, he 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For \[as\] | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> lives, | <span class="asgreek">ζη <sup><small><small>[[G2198]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one delivering | <span class="asgreek">σώσας <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| \[the\] answer | <span class="asgreek">αποκριθή <sup><small><small>[[G0611]]</small></small></sup> </span> |
-| \[be\] against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| Jonathan | <span class="asgreek">Ιωναθάν <sup><small><small>[[H3129]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my son, | <span class="asgreek">υιού <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to death | <span class="asgreek">θανάτω <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| he shall die. | <span class="asgreek">αποθανείται <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there was no one | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| answering | <span class="asgreek">αποκρινόμενος <sup><small><small>[[G0611]]</small></small></sup> </span> |
-| of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| all | <span class="asgreek">παντός <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people. | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> </span> |
+| For \[as\] | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> lives, | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one delivering | <big><span class="asgreek">σώσας</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| \[the\] answer | <big><span class="asgreek">αποκριθή</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
+| \[be\] against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my son, | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| he shall die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there was no one | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| answering | <big><span class="asgreek">αποκρινόμενος</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
+| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
 [[1Sam.14.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.38|<< 1 Samuel 14:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.40|1 Samuel 14:40 >>]]</td></tr></table>
 
 

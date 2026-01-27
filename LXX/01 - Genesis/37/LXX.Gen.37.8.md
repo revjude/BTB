@@ -9,32 +9,32 @@ And his brethren said to him, Shalt thou indeed reign over us? or shalt thou ind
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| said | <span class="asgreek">είπον <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his brothers | <span class="asgreek">αδελφοί <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Do you mean | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| in reigning | <span class="asgreek">βασιλεύων <sup><small><small>[[G0936]]</small></small></sup> </span> |
-| you will reign | <span class="asgreek">βασιλεύσεις <sup><small><small>[[G0936]]</small></small></sup> </span> |
-| over | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| us, | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| in dominating | <span class="asgreek">κυριεύων <sup><small><small>[[G2961]]</small></small></sup> </span> |
-| you will dominate | <span class="asgreek">κυριεύσεις <sup><small><small>[[G2961]]</small></small></sup> </span> |
-| us? | <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they added | <span class="asgreek">προσέθεντο <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| still | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| to detest | <span class="asgreek">μισείν <sup><small><small>[[G3404]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| because of | <span class="asgreek">ένεκεν <sup><small><small>[[G1752]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his dreams, | <span class="asgreek">ενυπνίων <sup><small><small>[[G1798]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| because of | <span class="asgreek">ένεκεν <sup><small><small>[[G1752]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his words. | <span class="asgreek">ρημάτων <sup><small><small>[[G4487]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his brothers | <big><span class="asgreek">αδελφοί</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Do you mean | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| in reigning | <big><span class="asgreek">βασιλεύων</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
+| you will reign | <big><span class="asgreek">βασιλεύσεις</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
+| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| in dominating | <big><span class="asgreek">κυριεύων</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
+| you will dominate | <big><span class="asgreek">κυριεύσεις</span></big> <sup><small><small>[[G2961]]</small></small></sup> |
+| us? | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they added | <big><span class="asgreek">προσέθεντο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| to detest | <big><span class="asgreek">μισείν</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his dreams, | <big><span class="asgreek">ενυπνίων</span></big> <sup><small><small>[[G1798]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his words. | <big><span class="asgreek">ρημάτων</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.37.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.7|<< Genesis 37:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.9|Genesis 37:9 >>]]</td></tr></table>
 
 

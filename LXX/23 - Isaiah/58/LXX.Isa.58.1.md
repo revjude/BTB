@@ -12,28 +12,28 @@ Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Yell out | <span class="asgreek">αναβόησον <sup><small><small>[[G0310]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| strength! | <span class="asgreek">ισχύϊ <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you should not spare. | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">φείση <sup><small><small>[[G5339]]</small></small></sup> </span> |
-| As | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a trumpet, | <span class="asgreek">σάλπιγγα <sup><small><small>[[G4536]]</small></small></sup> </span> |
-| raise up high | <span class="asgreek">ύψωσον <sup><small><small>[[G5312]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your voice, | <span class="asgreek">φωνήν <sup><small><small>[[G5456]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| announce | <span class="asgreek">ανάγγειλον <sup><small><small>[[G0312]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my people | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their sins, | <span class="asgreek">αμαρτήματα <sup><small><small>[[G0265]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκω <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of Jacob | <span class="asgreek">Ιακώβ <sup><small><small>[[G2384]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their lawless deeds! | <span class="asgreek">ανομίας αυτών <sup><small><small>[[G6350]]</small></small></sup> </span> |
+| Yell out | <big><span class="asgreek">αναβόησον</span></big> <sup><small><small>[[G0310]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| strength! | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you should not spare. | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">φείση</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
+| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a trumpet, | <big><span class="asgreek">σάλπιγγα</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
+| raise up high | <big><span class="asgreek">ύψωσον</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your voice, | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| announce | <big><span class="asgreek">ανάγγειλον</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their sins, | <big><span class="asgreek">αμαρτήματα</span></big> <sup><small><small>[[G0265]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their lawless deeds! | <big><span class="asgreek">ανομίας αυτών</span></big> <sup><small><small>[[G6350]]</small></small></sup> |
 [[Isa.58.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.21|<< Isaiah 57:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.2|Isaiah 58:2 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ See what they spew from their mouths—sharp words from their lips: “For who c
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| they | <span class="asgreek">αυτοί <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall declare | <span class="asgreek">αποφθέγξονται <sup><small><small>[[G0669]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their mouths; | <span class="asgreek">στόματι <sup><small><small>[[G4750]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] broadsword | <span class="asgreek">ρομφαία <sup><small><small>[[G4501]]</small></small></sup> </span> |
-| \[is\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their lips; | <span class="asgreek">χείλεσιν <sup><small><small>[[G5491]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for \[they say\], | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| hears? | <span class="asgreek">ήκουσε <sup><small><small>[[G0191]]</small></small></sup> </span> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall declare | <big><span class="asgreek">αποφθέγξονται</span></big> <sup><small><small>[[G0669]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their mouths; | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their lips; | <big><span class="asgreek">χείλεσιν</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for \[they say\], | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| hears? | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
 [[Ps.59.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.6|<< Psalm 59:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.8|Psalm 59:8 >>]]</td></tr></table>
 
 

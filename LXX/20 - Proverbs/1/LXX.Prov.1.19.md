@@ -9,21 +9,21 @@ Such is the fate of all who are greedy, whose unjust gain takes the lives of its
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| These | <span class="asgreek">αύται <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ways | <span class="asgreek">οδοί <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| are | <span class="asgreek">εισι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| of all | <span class="asgreek">πάντων <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| completing | <span class="asgreek">συντελούντων <sup><small><small>[[G4931]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lawless \[things\]. | <span class="asgreek">άνομα <sup><small><small>[[G0459]]</small></small></sup> </span> |
-| For by | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| impiety | <span class="asgreek">ασεβεία <sup><small><small>[[G0763]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their own | <span class="asgreek">εαυτών <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| life | <span class="asgreek">ψυχήν <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| they remove | <span class="asgreek">αφαιρούνται <sup><small><small>[[G0851]]</small></small></sup> </span> |
+| These | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| are | <big><span class="asgreek">εισι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| completing | <big><span class="asgreek">συντελούντων</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lawless \[things\]. | <big><span class="asgreek">άνομα</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
+| For by | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| impiety | <big><span class="asgreek">ασεβεία</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their own | <big><span class="asgreek">εαυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| life | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| they remove | <big><span class="asgreek">αφαιρούνται</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
 [[Prov.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.18|<< Proverbs 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.20|Proverbs 1:20 >>]]</td></tr></table>
 
 

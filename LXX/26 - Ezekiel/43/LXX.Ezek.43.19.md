@@ -9,33 +9,33 @@ You are to give a young bull from the herd as a sin offering to the Levitical pr
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall give | <span class="asgreek">δώσεις <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priests, | <span class="asgreek">ιερεύσι <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Levites, | <span class="asgreek">Λευίταις <sup><small><small>[[G3017]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seed | <span class="asgreek">σπέρματος <sup><small><small>[[G4690]]</small></small></sup> </span> |
-| of Zadok, | <span class="asgreek">Σαδδούκ <sup><small><small>[[G4524]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| approaching | <span class="asgreek">εγγίζουσι <sup><small><small>[[G1448]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God, | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to officiate | <span class="asgreek">λειτουργείν <sup><small><small>[[G3008]]</small></small></sup> </span> |
-| to me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a calf | <span class="asgreek">μόσχον <sup><small><small>[[G3448]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] oxen | <span class="asgreek">βοών <sup><small><small>[[G1016]]</small></small></sup> </span> |
-| for | <span class="asgreek">περί <sup><small><small>[[G4012]]</small></small></sup> </span> |
-| a sin \[offering\]. | <span class="asgreek">αμαρτίας <sup><small><small>[[G0266]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall give | <big><span class="asgreek">δώσεις</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priests, | <big><span class="asgreek">ιερεύσι</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Levites, | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seed | <big><span class="asgreek">σπέρματος</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
+| of Zadok, | <big><span class="asgreek">Σαδδούκ</span></big> <sup><small><small>[[G4524]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| approaching | <big><span class="asgreek">εγγίζουσι</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to officiate | <big><span class="asgreek">λειτουργείν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
+| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] oxen | <big><span class="asgreek">βοών</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
+| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
+| a sin \[offering\]. | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
 [[Ezek.43.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.18|<< Ezekiel 43:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.20|Ezekiel 43:20 >>]]</td></tr></table>
 
 

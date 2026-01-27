@@ -9,28 +9,28 @@ I will do this because they have not listened to My words, declares the LORD, wh
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| they hearkened not to | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ήκουσαν <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my words, | <span class="asgreek">ρήματά μου <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| which | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I sent | <span class="asgreek">άπεσταλκα <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| through | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my servants | <span class="asgreek">δούλους <sup><small><small>[[G1401]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prophets, | <span class="asgreek">προφήτας <sup><small><small>[[G4396]]</small></small></sup> </span> |
-| rising early | <span class="asgreek">ορθρίζων <sup><small><small>[[G3719]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| sending; | <span class="asgreek">αποστέλλων <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they hearkened not, | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ηκούσατε <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| they hearkened not to | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my words, | <big><span class="asgreek">ρήματά μου</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I sent | <big><span class="asgreek">άπεσταλκα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my servants | <big><span class="asgreek">δούλους</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prophets, | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| rising early | <big><span class="asgreek">ορθρίζων</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| sending; | <big><span class="asgreek">αποστέλλων</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they hearkened not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ηκούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Jer.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.18|<< Jeremiah 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.20|Jeremiah 29:20 >>]]</td></tr></table>
 
 

@@ -9,18 +9,18 @@ When the Israelites returned from their pursuit of the Philistines, they plunder
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| returned | <span class="asgreek">ανέστρεψαν <sup><small><small>[[G0390]]</small></small></sup> </span> |
-| \[the\] men | <span class="asgreek">άνδρες <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| of Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| turning aside | <span class="asgreek">εκκλίνοντες <sup><small><small>[[G1578]]</small></small></sup> </span> |
-| \[going\] after | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Philistines, | <span class="asgreek">αλλοφύλων <sup><small><small>[[G0246]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they plundered | <span class="asgreek">προενόμευσαν <sup><small><small>[[G8902]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their camps. | <span class="asgreek">παρεμβολάς <sup><small><small>[[G3925]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| returned | <big><span class="asgreek">ανέστρεψαν</span></big> <sup><small><small>[[G0390]]</small></small></sup> |
+| \[the\] men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| turning aside | <big><span class="asgreek">εκκλίνοντες</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
+| \[going\] after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Philistines, | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they plundered | <big><span class="asgreek">προενόμευσαν</span></big> <sup><small><small>[[G8902]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their camps. | <big><span class="asgreek">παρεμβολάς</span></big> <sup><small><small>[[G3925]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Sam.17.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.52|<< 1 Samuel 17:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.54|1 Samuel 17:54 >>]]</td></tr></table>
 
 

@@ -9,21 +9,21 @@ And no resident of Zion will say, “I am sick.” The people who dwell there wi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| say | <span class="asgreek">είπωσι <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| I am tired | <span class="asgreek">κοπιώ <sup><small><small>[[G2872]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαός <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">ενοικών <sup><small><small>[[G1774]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall be forgiven | <span class="asgreek">αφέθη <sup><small><small>[[G0863]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sin | <span class="asgreek">αμαρτία <sup><small><small>[[G0266]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| say | <big><span class="asgreek">είπωσι</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| I am tired | <big><span class="asgreek">κοπιώ</span></big> <sup><small><small>[[G2872]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">ενοικών</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall be forgiven | <big><span class="asgreek">αφέθη</span></big> <sup><small><small>[[G0863]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
 [[Isa.33.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.23|<< Isaiah 33:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.1|Isaiah 34:1 >>]]</td></tr></table>
 
 

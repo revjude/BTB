@@ -9,17 +9,17 @@ Is this your jubilant city, whose origin is from antiquity, whose feet have take
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| this | <span class="asgreek">αύτη <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| Was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your insolence, | <span class="asgreek">ύβρις <sup><small><small>[[G5196]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the one | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] beginning, | <span class="asgreek">αρχής <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| before | <span class="asgreek">πριν <sup><small><small>[[G4250]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| she was delivered up? | <span class="asgreek">παραδοθήναι <sup><small><small>[[G3860]]</small></small></sup> <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| Was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your insolence, | <big><span class="asgreek">ύβρις</span></big> <sup><small><small>[[G5196]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] beginning, | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| before | <big><span class="asgreek">πριν</span></big> <sup><small><small>[[G4250]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| she was delivered up? | <big><span class="asgreek">παραδοθήναι</span></big> <sup><small><small>[[G3860]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.6|<< Isaiah 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.8|Isaiah 23:8 >>]]</td></tr></table>
 
 

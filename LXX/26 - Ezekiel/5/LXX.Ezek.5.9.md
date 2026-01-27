@@ -9,22 +9,22 @@ Because of all your abominations, I will do to you what I have never done before
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall do | <span class="asgreek">ποιήσω <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| what | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I have not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| done, | <span class="asgreek">πεποίηκα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall not do | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ποιήσω <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| likened | <span class="asgreek">όμοια <sup><small><small>[[G3664]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| again | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your abominations. | <span class="asgreek">βδελύγματά <sup><small><small>[[G0946]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall do | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I have not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| done, | <big><span class="asgreek">πεποίηκα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall not do | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| likened | <big><span class="asgreek">όμοια</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| again | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your abominations. | <big><span class="asgreek">βδελύγματά</span></big> <sup><small><small>[[G0946]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.8|<< Ezekiel 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.10|Ezekiel 5:10 >>]]</td></tr></table>
 
 

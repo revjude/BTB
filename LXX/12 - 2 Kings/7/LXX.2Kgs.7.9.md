@@ -9,44 +9,44 @@ Finally, they said to one another, “We are not doing what is right. Today is a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| \[one\] man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his neighbor, | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| We are | <span class="asgreek">ημείς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| doing \[right\]. | <span class="asgreek">ποιούμεν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| This day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">αυτη <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| a day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of good news | <span class="asgreek">ευαγγελίας <sup><small><small>[[G7527]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we | <span class="asgreek">ημείς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| keep silent, | <span class="asgreek">σιωπώμεν <sup><small><small>[[G4623]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| are waiting | <span class="asgreek">μένομεν <sup><small><small>[[G3306]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| light | <span class="asgreek">φωτός <sup><small><small>[[G5457]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| morning, | <span class="asgreek">πρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we shall find | <span class="asgreek">ευρήσομεν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| iniquity. | <span class="asgreek">αδικίαν <sup><small><small>[[G0093]]</small></small></sup> </span> |
-| Now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| then, | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| come, | <span class="asgreek">δεύρο <sup><small><small>[[G1204]]</small></small></sup> </span> |
-| we should go | <span class="asgreek">πορευθώμεν <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| announce | <span class="asgreek">αναγγείλωμεν <sup><small><small>[[G0312]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king. | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| \[one\] man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his neighbor, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| We are | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| doing \[right\]. | <big><span class="asgreek">ποιούμεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| This day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of good news | <big><span class="asgreek">ευαγγελίας</span></big> <sup><small><small>[[G7527]]</small></small></sup> |
+| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| keep silent, | <big><span class="asgreek">σιωπώμεν</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| are waiting | <big><span class="asgreek">μένομεν</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| light | <big><span class="asgreek">φωτός</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| morning, | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we shall find | <big><span class="asgreek">ευρήσομεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| iniquity. | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
+| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| come, | <big><span class="asgreek">δεύρο</span></big> <sup><small><small>[[G1204]]</small></small></sup> |
+| we should go | <big><span class="asgreek">πορευθώμεν</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| announce | <big><span class="asgreek">αναγγείλωμεν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
 [[2Kgs.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.8|<< 2 Kings 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.10|2 Kings 7:10 >>]]</td></tr></table>
 
 

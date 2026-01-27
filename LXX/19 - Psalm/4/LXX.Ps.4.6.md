@@ -9,21 +9,21 @@ Many ask, “Who can show us the good?” Shine the light of Your face upon us, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Many | <span class="asgreek">πολλοί <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| say, | <span class="asgreek">λέγουσι <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall show | <span class="asgreek">δείξει <sup><small><small>[[G1166]]</small></small></sup> </span> |
-| to us | <span class="asgreek">ημίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| good \[things\]? | <span class="asgreek">αγαθά <sup><small><small>[[G0018]]</small></small></sup> </span> |
-| was signified | <span class="asgreek">εσημειώθη <sup><small><small>[[G4593]]</small></small></sup> </span> |
-| to | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| us | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| The | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| light | <span class="asgreek">φως <sup><small><small>[[G5457]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your face | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>. | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| Many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| say, | <big><span class="asgreek">λέγουσι</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall show | <big><span class="asgreek">δείξει</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
+| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| good \[things\]? | <big><span class="asgreek">αγαθά</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| was signified | <big><span class="asgreek">εσημειώθη</span></big> <sup><small><small>[[G4593]]</small></small></sup> |
+| to | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Ps.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.5|<< Psalm 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.4.7|Psalm 4:7 >>]]</td></tr></table>
 
 

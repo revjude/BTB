@@ -13,27 +13,27 @@ that they may possess the remnant of Edom and all the nations that bear My name,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| so that | <span class="asgreek">όπως <sup><small><small>[[G3704]]</small></small></sup> </span> |
-| should inquire | <span class="asgreek">εκζητήσωσιν <sup><small><small>[[G1567]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| remaining | <span class="asgreek">κατάλοιποι <sup><small><small>[[G2645]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανθρώπων <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations, | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| the ones of whom | <span class="asgreek">εφ <sup><small><small>[[G1909]]</small></small></sup> <span class="asgreek">ους <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| was called upon | <span class="asgreek">επικέκληται <sup><small><small>[[G1941]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my name | <span class="asgreek">όνομά <sup><small><small>[[G3686]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| by | <span class="asgreek">επ΄ <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| doing | <span class="asgreek">ποιών <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| these \[things\]. | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
+| should inquire | <big><span class="asgreek">εκζητήσωσιν</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| remaining | <big><span class="asgreek">κατάλοιποι</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| the ones of whom | <big><span class="asgreek">εφ</span></big> <sup><small><small>[[G1909]]</small></small></sup> <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| was called upon | <big><span class="asgreek">επικέκληται</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my name | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| doing | <big><span class="asgreek">ποιών</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
 [[Amos.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.11|<< Amos 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.13|Amos 9:13 >>]]</td></tr></table>
 
 

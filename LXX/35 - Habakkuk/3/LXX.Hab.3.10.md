@@ -9,24 +9,24 @@ The mountains saw You and quaked; torrents of water swept by. The deep roared wi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They saw | <span class="asgreek">ειδόν <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall travail | <span class="asgreek">ωδινήσουσι <sup><small><small>[[G5605]]</small></small></sup> </span> |
-| peoples | <span class="asgreek">λαοί <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| You shall disperse | <span class="asgreek">διασπερείς <sup><small><small>[[G1289]]</small></small></sup> </span> |
-| waters | <span class="asgreek">ύδατα <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| coursing. | <span class="asgreek">πορείας <sup><small><small>[[G4197]]</small></small></sup> </span> |
-| gave out | <span class="asgreek">έδωκεν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| The | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| abyss | <span class="asgreek">άβυσσος <sup><small><small>[[G0012]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her voice -- | <span class="asgreek">φωνήν <sup><small><small>[[G5456]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| height | <span class="asgreek">ύψος <sup><small><small>[[G5311]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his visible display. | <span class="asgreek">φαντασίας <sup><small><small>[[G5325]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| They saw | <big><span class="asgreek">ειδόν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall travail | <big><span class="asgreek">ωδινήσουσι</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
+| peoples | <big><span class="asgreek">λαοί</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| You shall disperse | <big><span class="asgreek">διασπερείς</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
+| waters | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| coursing. | <big><span class="asgreek">πορείας</span></big> <sup><small><small>[[G4197]]</small></small></sup> |
+| gave out | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| abyss | <big><span class="asgreek">άβυσσος</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her voice -- | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his visible display. | <big><span class="asgreek">φαντασίας</span></big> <sup><small><small>[[G5325]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Hab.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.9|<< Habakkuk 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.11|Habakkuk 3:11 >>]]</td></tr></table>
 
 

@@ -13,31 +13,31 @@ If you say, “Behold, we did not know about this,” does not He who weighs hea
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| you should say, | <span class="asgreek">είπης <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| I do not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| know | <span class="asgreek">οίδα <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| this; | <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| know | <span class="asgreek">γίνωσκε <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \[the\] heart | <span class="asgreek">καρδίας <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| of all | <span class="asgreek">πάντων <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| knows | <span class="asgreek">γινώσκει <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one shaping | <span class="asgreek">πλάσας <sup><small><small>[[G4111]]</small></small></sup> </span> |
-| \[the\] breath | <span class="asgreek">πνοήν <sup><small><small>[[G4157]]</small></small></sup> </span> |
-| in all, | <span class="asgreek">πάσιν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| he | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| knows | <span class="asgreek">οίδε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| all \[things\]. | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \[He is\] the one who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| renders | <span class="asgreek">αποδίδωσιν <sup><small><small>[[G0591]]</small></small></sup> </span> |
-| to each | <span class="asgreek">εκάστω <sup><small><small>[[G1538]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his works. | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| you should say, | <big><span class="asgreek">είπης</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| I do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| this; | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| know | <big><span class="asgreek">γίνωσκε</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[the\] heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| knows | <big><span class="asgreek">γινώσκει</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one shaping | <big><span class="asgreek">πλάσας</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
+| \[the\] breath | <big><span class="asgreek">πνοήν</span></big> <sup><small><small>[[G4157]]</small></small></sup> |
+| in all, | <big><span class="asgreek">πάσιν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| knows | <big><span class="asgreek">οίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| all \[things\]. | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \[He is\] the one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| renders | <big><span class="asgreek">αποδίδωσιν</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| to each | <big><span class="asgreek">εκάστω</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his works. | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.11|<< Proverbs 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.13|Proverbs 24:13 >>]]</td></tr></table>
 
 

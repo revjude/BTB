@@ -9,52 +9,52 @@ Then the LORD said to Gideon, “There are still too many men. Take them down to
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Gideon, | <span class="asgreek">Γεδεών <sup><small><small>[[G1066]]</small></small></sup> </span> |
-| Still | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαός <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| are many, | <span class="asgreek">πολύς <sup><small><small>[[G4183]]</small></small></sup> <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| lead them down | <span class="asgreek">κατάγαγε <sup><small><small>[[G2609]]</small></small></sup> <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| water! | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will try | <span class="asgreek">δοκιμώ <sup><small><small>[[G1381]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| there. | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| whom | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| I should tell | <span class="asgreek">είπω <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| This one | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| shall go | <span class="asgreek">πορεύσεται <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you -- | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall go | <span class="asgreek">πορεύσεται <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| whom | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| I should say | <span class="asgreek">είπω <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| that, | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| He shall not go | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">πορεύσεται <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| then | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall not go | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">πορεύσεται <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Gideon, | <big><span class="asgreek">Γεδεών</span></big> <sup><small><small>[[G1066]]</small></small></sup> |
+| Still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| are many, | <big><span class="asgreek">πολύς</span></big> <sup><small><small>[[G4183]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| lead them down | <big><span class="asgreek">κατάγαγε</span></big> <sup><small><small>[[G2609]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| water! | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will try | <big><span class="asgreek">δοκιμώ</span></big> <sup><small><small>[[G1381]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| I should tell | <big><span class="asgreek">είπω</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| This one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| shall go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you -- | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| I should say | <big><span class="asgreek">είπω</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| He shall not go | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall not go | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Judg.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.3|<< Judges 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.5|Judges 7:5 >>]]</td></tr></table>
 
 

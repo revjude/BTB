@@ -13,21 +13,21 @@ because zeal for Your house has consumed me, and the insults of those who insult
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| zeal | <span class="asgreek">ζήλος <sup><small><small>[[G2205]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| devoured me, | <span class="asgreek">κατέφαγέ <sup><small><small>[[G2719]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| scornings | <span class="asgreek">ονειδισμοί <sup><small><small>[[G3680]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones berating | <span class="asgreek">ονειδιζόντων <sup><small><small>[[G3679]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| fell | <span class="asgreek">επέπεσον <sup><small><small>[[G1968]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| me. | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| zeal | <big><span class="asgreek">ζήλος</span></big> <sup><small><small>[[G2205]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| devoured me, | <big><span class="asgreek">κατέφαγέ</span></big> <sup><small><small>[[G2719]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| scornings | <big><span class="asgreek">ονειδισμοί</span></big> <sup><small><small>[[G3680]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones berating | <big><span class="asgreek">ονειδιζόντων</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| fell | <big><span class="asgreek">επέπεσον</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| me. | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.69.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.8|<< Psalm 69:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.10|Psalm 69:10 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ So Zadok and Abiathar returned the ark of God to Jerusalem and stayed there.<sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| returned | <span class="asgreek">απέστρεψε <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| Zadok | <span class="asgreek">Σαδώκ <sup><small><small>[[G4524]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Abiathar | <span class="asgreek">Αβιαθάρ <sup><small><small>[[G0008]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ark | <span class="asgreek">κιβωτόν <sup><small><small>[[G2787]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of God | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Jerusalem, | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it stayed | <span class="asgreek">εκάθισεν <sup><small><small>[[G2523]]</small></small></sup> </span> |
-| there. | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| returned | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| Zadok | <big><span class="asgreek">Σαδώκ</span></big> <sup><small><small>[[G4524]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Abiathar | <big><span class="asgreek">Αβιαθάρ</span></big> <sup><small><small>[[G0008]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ark | <big><span class="asgreek">κιβωτόν</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it stayed | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
+| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
 [[2Sam.15.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.28|<< 2 Samuel 15:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.30|2 Samuel 15:30 >>]]</td></tr></table>
 
 

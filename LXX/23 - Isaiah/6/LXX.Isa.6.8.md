@@ -12,27 +12,27 @@ Then I heard the voice of the Lord saying: “Whom shall I send? Who will go for
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I heard | <span class="asgreek">ήκουσα <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| voice | <span class="asgreek">φωνής <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγοντος <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Whom | <span class="asgreek">τίνα <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall I send, | <span class="asgreek">αποστείλω <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall go | <span class="asgreek">πορεύσεται <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this people? | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I said, | <span class="asgreek">είπον <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| am, | <span class="asgreek">ειμι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| send | <span class="asgreek">απόστειλόν <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| me! | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I heard | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγοντος</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Whom | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall I send, | <big><span class="asgreek">αποστείλω</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall go | <big><span class="asgreek">πορεύσεται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this people? | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| am, | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| send | <big><span class="asgreek">απόστειλόν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.7|<< Isaiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.9|Isaiah 6:9 >>]]</td></tr></table>
 
 

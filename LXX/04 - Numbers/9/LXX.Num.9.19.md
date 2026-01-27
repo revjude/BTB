@@ -9,28 +9,28 @@ Even when the cloud lingered over the tabernacle for many days, the Israelites k
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| should be dragged | <span class="asgreek">εφέλκηται <sup><small><small>[[G7580]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cloud | <span class="asgreek">νεφέλη <sup><small><small>[[G3507]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tent | <span class="asgreek">σκηνής <sup><small><small>[[G4633]]</small></small></sup> </span> |
-| days | <span class="asgreek">ημέρας <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| for many | <span class="asgreek">πλείους <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall guard | <span class="asgreek">φυλάξονται <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| watch | <span class="asgreek">φυλακήν <sup><small><small>[[G5438]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall they lift away. | <span class="asgreek">εξαρούσι <sup><small><small>[[G1808]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| should be dragged | <big><span class="asgreek">εφέλκηται</span></big> <sup><small><small>[[G7580]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| for many | <big><span class="asgreek">πλείους</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall guard | <big><span class="asgreek">φυλάξονται</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| watch | <big><span class="asgreek">φυλακήν</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall they lift away. | <big><span class="asgreek">εξαρούσι</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
 [[Num.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.18|<< Numbers 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.20|Numbers 9:20 >>]]</td></tr></table>
 
 

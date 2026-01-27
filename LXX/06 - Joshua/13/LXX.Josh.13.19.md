@@ -9,18 +9,18 @@ Kiriathaim, Sibmah, Zereth-shahar on the hill in the valley,<small><sub>**MT:**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Kirjathaim, | <span class="asgreek">Καριαθαϊμ <sup><small><small>[[H7156]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Sibmah, | <span class="asgreek">Σεβαμά <sup><small><small>[[H7643]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Zerath, | <span class="asgreek">Σαρθ <sup><small><small>[[H6890]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Sharah | <span class="asgreek">Σιώρ <sup><small><small>[[H6730]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mount | <span class="asgreek">όρει <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| Emak; | <span class="asgreek">Αιμάκ <sup><small><small>[[H6010]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Kirjathaim, | <big><span class="asgreek">Καριαθαϊμ</span></big> <sup><small><small>[[H7156]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Sibmah, | <big><span class="asgreek">Σεβαμά</span></big> <sup><small><small>[[H7643]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Zerath, | <big><span class="asgreek">Σαρθ</span></big> <sup><small><small>[[H6890]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Sharah | <big><span class="asgreek">Σιώρ</span></big> <sup><small><small>[[H6730]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mount | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| Emak; | <big><span class="asgreek">Αιμάκ</span></big> <sup><small><small>[[H6010]]</small></small></sup> |
 [[Josh.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.18|<< Joshua 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.20|Joshua 13:20 >>]]</td></tr></table>
 
 

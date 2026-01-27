@@ -9,13 +9,13 @@ I considered the days of old, the years long in the past.<small><sub>**MT:**</s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I reasoned | <span class="asgreek">διελογισάμην <sup><small><small>[[G1260]]</small></small></sup> </span> |
-| days | <span class="asgreek">ημέρας <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| about ancient | <span class="asgreek">αρχαίας <sup><small><small>[[G0744]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| years | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| everlasting | <span class="asgreek">αιώνια <sup><small><small>[[G0166]]</small></small></sup> </span> |
-| I remembered | <span class="asgreek">εμνήσθην <sup><small><small>[[G3403]]</small></small></sup> </span> |
+| I reasoned | <big><span class="asgreek">διελογισάμην</span></big> <sup><small><small>[[G1260]]</small></small></sup> |
+| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| about ancient | <big><span class="asgreek">αρχαίας</span></big> <sup><small><small>[[G0744]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| everlasting | <big><span class="asgreek">αιώνια</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| I remembered | <big><span class="asgreek">εμνήσθην</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
 [[Ps.77.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.4|<< Psalm 77:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.6|Psalm 77:6 >>]]</td></tr></table>
 
 

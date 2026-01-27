@@ -9,15 +9,15 @@ For He satisfies the thirsty and fills the hungry with good things.<small><sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| he fills | <span class="asgreek">εχόρτασε <sup><small><small>[[G5526]]</small></small></sup> </span> |
-| soul | <span class="asgreek">ψυχήν <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| \[the\] empty | <span class="asgreek">κενήν <sup><small><small>[[G2756]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] soul | <span class="asgreek">ψυχήν <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| hungering | <span class="asgreek">πεινώσαν <sup><small><small>[[G3983]]</small></small></sup> </span> |
-| he filled up | <span class="asgreek">ενέπλησεν <sup><small><small>[[G1705]]</small></small></sup> </span> |
-| with good \[things\]; | <span class="asgreek">αγαθών <sup><small><small>[[G0018]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| he fills | <big><span class="asgreek">εχόρτασε</span></big> <sup><small><small>[[G5526]]</small></small></sup> |
+| soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| \[the\] empty | <big><span class="asgreek">κενήν</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| hungering | <big><span class="asgreek">πεινώσαν</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
+| he filled up | <big><span class="asgreek">ενέπλησεν</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
+| with good \[things\]; | <big><span class="asgreek">αγαθών</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
 [[Ps.107.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.8|<< Psalm 107:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.10|Psalm 107:10 >>]]</td></tr></table>
 
 

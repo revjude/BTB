@@ -9,18 +9,18 @@ Whoso [is] simple, let him turn in hither: and [as for] him that wanteth underst
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Whoever | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| most foolish of you, | <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">αφρονέστατος <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| turn aside | <span class="asgreek">εκκλινάτω <sup><small><small>[[G1578]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me! | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lacking | <span class="asgreek">ενδεέσι <sup><small><small>[[G1729]]</small></small></sup> </span> |
-| intelligence | <span class="asgreek">φρονήσεως <sup><small><small>[[G5428]]</small></small></sup> </span> |
-| I rouse, | <span class="asgreek">παρακελεύομαι <sup><small><small>[[G8617]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγουσα <sup><small><small>[[G3004]]</small></small></sup> </span> |
+| Whoever | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| most foolish of you, | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">αφρονέστατος</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| turn aside | <big><span class="asgreek">εκκλινάτω</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lacking | <big><span class="asgreek">ενδεέσι</span></big> <sup><small><small>[[G1729]]</small></small></sup> |
+| intelligence | <big><span class="asgreek">φρονήσεως</span></big> <sup><small><small>[[G5428]]</small></small></sup> |
+| I rouse, | <big><span class="asgreek">παρακελεύομαι</span></big> <sup><small><small>[[G8617]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγουσα</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
 [[Prov.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.15|<< Proverbs 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.17|Proverbs 9:17 >>]]</td></tr></table>
 
 

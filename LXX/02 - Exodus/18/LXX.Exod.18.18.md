@@ -9,28 +9,28 @@ Surely you and these people with you will wear yourselves out, because the task 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| corruption | <span class="asgreek">φθορά <sup><small><small>[[G5356]]</small></small></sup> </span> |
-| will be corrupted | <span class="asgreek">καταφθαρήση <sup><small><small>[[G2704]]</small></small></sup> </span> |
-| in unsufferable | <span class="asgreek">ανυπομονήτω <sup><small><small>[[G6378]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this people, | <span class="asgreek">λαος <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| which | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[is\] heavy | <span class="asgreek">βαρύ <sup><small><small>[[G0926]]</small></small></sup> </span> |
-| on you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| This thing | <span class="asgreek">ρήμα <sup><small><small>[[G4487]]</small></small></sup> <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| you will not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be able | <span class="asgreek">δυνήση <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| to act | <span class="asgreek">ποιείν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| yourself | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| alone. | <span class="asgreek">μόνος <sup><small><small>[[G3441]]</small></small></sup> </span> |
+| corruption | <big><span class="asgreek">φθορά</span></big> <sup><small><small>[[G5356]]</small></small></sup> |
+| will be corrupted | <big><span class="asgreek">καταφθαρήση</span></big> <sup><small><small>[[G2704]]</small></small></sup> |
+| in unsufferable | <big><span class="asgreek">ανυπομονήτω</span></big> <sup><small><small>[[G6378]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this people, | <big><span class="asgreek">λαος</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[is\] heavy | <big><span class="asgreek">βαρύ</span></big> <sup><small><small>[[G0926]]</small></small></sup> |
+| on you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| This thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| you will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be able | <big><span class="asgreek">δυνήση</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| to act | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| yourself | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| alone. | <big><span class="asgreek">μόνος</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
 [[Exod.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.17|<< Exodus 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.19|Exodus 18:19 >>]]</td></tr></table>
 
 

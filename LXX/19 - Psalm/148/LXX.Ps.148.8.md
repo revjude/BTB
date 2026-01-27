@@ -9,16 +9,16 @@ lightning and hail, snow and clouds, powerful wind fulfilling His word,<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| fire, | <span class="asgreek">πυρ <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| hail, | <span class="asgreek">χάλαζα <sup><small><small>[[G5464]]</small></small></sup> </span> |
-| snow, | <span class="asgreek">χιών <sup><small><small>[[G5510]]</small></small></sup> </span> |
-| ice, | <span class="asgreek">κρύσταλλος <sup><small><small>[[G2930]]</small></small></sup> </span> |
-| wind, | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| blast -- | <span class="asgreek">καταιγίδος <sup><small><small>[[G7844]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| executing | <span class="asgreek">ποιούντα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his word; | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| fire, | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| hail, | <big><span class="asgreek">χάλαζα</span></big> <sup><small><small>[[G5464]]</small></small></sup> |
+| snow, | <big><span class="asgreek">χιών</span></big> <sup><small><small>[[G5510]]</small></small></sup> |
+| ice, | <big><span class="asgreek">κρύσταλλος</span></big> <sup><small><small>[[G2930]]</small></small></sup> |
+| wind, | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| blast -- | <big><span class="asgreek">καταιγίδος</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| executing | <big><span class="asgreek">ποιούντα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his word; | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.148.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.7|<< Psalm 148:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.9|Psalm 148:9 >>]]</td></tr></table>
 
 

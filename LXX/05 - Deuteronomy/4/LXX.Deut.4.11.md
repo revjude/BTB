@@ -9,25 +9,25 @@ You came near and stood at the base of the mountain, a mountain blazing with fir
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you came forward | <span class="asgreek">προσήλθετε <sup><small><small>[[G4334]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| stood | <span class="asgreek">έστητε <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| under | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mountain; | <span class="asgreek">όρος <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mountain | <span class="asgreek">όρος <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| burned | <span class="asgreek">εκαίετο <sup><small><small>[[G2545]]</small></small></sup> </span> |
-| fire | <span class="asgreek">πυρί <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heaven -- | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| darkness, | <span class="asgreek">σκότος <sup><small><small>[[G4655]]</small></small></sup> </span> |
-| dimness, | <span class="asgreek">γνόφος <sup><small><small>[[G1105]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a storm. | <span class="asgreek">θύελλα <sup><small><small>[[G2366]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you came forward | <big><span class="asgreek">προσήλθετε</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| stood | <big><span class="asgreek">έστητε</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mountain; | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| burned | <big><span class="asgreek">εκαίετο</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
+| fire | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heaven -- | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| darkness, | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
+| dimness, | <big><span class="asgreek">γνόφος</span></big> <sup><small><small>[[G1105]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a storm. | <big><span class="asgreek">θύελλα</span></big> <sup><small><small>[[G2366]]</small></small></sup> |
 [[Deut.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.10|<< Deuteronomy 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.12|Deuteronomy 4:12 >>]]</td></tr></table>
 
 

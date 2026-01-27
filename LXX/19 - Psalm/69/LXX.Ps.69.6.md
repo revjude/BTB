@@ -9,28 +9,28 @@ May those who hope in You not be ashamed through me, O Lord GOD of Hosts; may th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| be ashamed | <span class="asgreek">αισχυνθείησαν <sup><small><small>[[G0153]]</small></small></sup> </span> |
-| over | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| waiting upon | <span class="asgreek">υπομένοντές <sup><small><small>[[G5278]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span> | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| forces. | <span class="asgreek">δυνάμεων <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| feel shame | <span class="asgreek">εντραπείησαν <sup><small><small>[[G1788]]</small></small></sup> </span> |
-| over | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seeking | <span class="asgreek">ζητούντές <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Israel. | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
+| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| be ashamed | <big><span class="asgreek">αισχυνθείησαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
+| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| waiting upon | <big><span class="asgreek">υπομένοντές</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| forces. | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| feel shame | <big><span class="asgreek">εντραπείησαν</span></big> <sup><small><small>[[G1788]]</small></small></sup> |
+| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seeking | <big><span class="asgreek">ζητούντές</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
 [[Ps.69.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.5|<< Psalm 69:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.7|Psalm 69:7 >>]]</td></tr></table>
 
 

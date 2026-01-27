@@ -9,41 +9,41 @@ He brought the Asherah pole from the house of the LORD to the Kidron Valley outs
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he brought forth | <span class="asgreek">εξήνεγκε <sup><small><small>[[G1627]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sacred grove \[carving\] | <span class="asgreek">άλσος <sup><small><small>[[G6242]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| outside | <span class="asgreek">έξωθεν <sup><small><small>[[G1855]]</small></small></sup> </span> |
-| of Jerusalem | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rushing stream | <span class="asgreek">χειμάρρουν <sup><small><small>[[G5493]]</small></small></sup> </span> |
-| Kidron. | <span class="asgreek">Κεδρών <sup><small><small>[[H6939]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he incinerated | <span class="asgreek">κατέκαυσεν <sup><small><small>[[G2618]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| at | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rushing stream | <span class="asgreek">χειμάρρω <sup><small><small>[[G5493]]</small></small></sup> </span> |
-| Kidron, | <span class="asgreek">Κεδρών <sup><small><small>[[H6939]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[ground\] it fine | <span class="asgreek">ελέπτυνεν <sup><small><small>[[G8183]]</small></small></sup> </span> |
-| as | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| dust. | <span class="asgreek">χουν <sup><small><small>[[G5522]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he tossed | <span class="asgreek">έρριψε <sup><small><small>[[G4496]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its dust | <span class="asgreek">χουν <sup><small><small>[[G5522]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tombs | <span class="asgreek">τάφους <sup><small><small>[[G5028]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people. | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he brought forth | <big><span class="asgreek">εξήνεγκε</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sacred grove \[carving\] | <big><span class="asgreek">άλσος</span></big> <sup><small><small>[[G6242]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| outside | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
+| of Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rushing stream | <big><span class="asgreek">χειμάρρουν</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
+| Kidron. | <big><span class="asgreek">Κεδρών</span></big> <sup><small><small>[[H6939]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he incinerated | <big><span class="asgreek">κατέκαυσεν</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rushing stream | <big><span class="asgreek">χειμάρρω</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
+| Kidron, | <big><span class="asgreek">Κεδρών</span></big> <sup><small><small>[[H6939]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[ground\] it fine | <big><span class="asgreek">ελέπτυνεν</span></big> <sup><small><small>[[G8183]]</small></small></sup> |
+| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| dust. | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he tossed | <big><span class="asgreek">έρριψε</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its dust | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tombs | <big><span class="asgreek">τάφους</span></big> <sup><small><small>[[G5028]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
 [[2Kgs.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.5|<< 2 Kings 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.7|2 Kings 23:7 >>]]</td></tr></table>
 
 

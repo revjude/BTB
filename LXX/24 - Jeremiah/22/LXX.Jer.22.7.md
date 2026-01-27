@@ -9,26 +9,26 @@ I will appoint destroyers against you, each man with his weapons, and they will 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will bring | <span class="asgreek">επάξω <sup><small><small>[[G1863]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| an annihilating | <span class="asgreek">ολοθρεύοντα <sup><small><small>[[G3645]]</small></small></sup> </span> |
-| man, | <span class="asgreek">άνδρα <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his hewing axe. | <span class="asgreek">πέλεκυν <sup><small><small>[[G8685]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall cut down | <span class="asgreek">εκκόψουσι <sup><small><small>[[G1581]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| chosen | <span class="asgreek">εκλεκτάς <sup><small><small>[[G1588]]</small></small></sup> </span> |
-| cedars | <span class="asgreek">κέδρους <sup><small><small>[[G2748]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall put \[them\] | <span class="asgreek">εμβαλούσιν <sup><small><small>[[G1685]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fire. | <span class="asgreek">πυρ <sup><small><small>[[G4442]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will bring | <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| an annihilating | <big><span class="asgreek">ολοθρεύοντα</span></big> <sup><small><small>[[G3645]]</small></small></sup> |
+| man, | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his hewing axe. | <big><span class="asgreek">πέλεκυν</span></big> <sup><small><small>[[G8685]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall cut down | <big><span class="asgreek">εκκόψουσι</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| chosen | <big><span class="asgreek">εκλεκτάς</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
+| cedars | <big><span class="asgreek">κέδρους</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall put \[them\] | <big><span class="asgreek">εμβαλούσιν</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fire. | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
 [[Jer.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.6|<< Jeremiah 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.8|Jeremiah 22:8 >>]]</td></tr></table>
 
 

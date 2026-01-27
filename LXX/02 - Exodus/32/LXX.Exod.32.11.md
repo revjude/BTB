@@ -9,36 +9,36 @@ But Moses sought the favor of the LORD his God, saying, “O LORD, why does Your
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Moses beseeched | <span class="asgreek">εδεήθη <sup><small><small>[[G1189]]</small></small></sup> <span class="asgreek">Μωυσής <sup><small><small>[[G3475]]</small></small></sup> </span> |
-| in front of | <span class="asgreek">κατέναντι <sup><small><small>[[G2713]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God, | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Why, | <span class="asgreek">ινατί <sup><small><small>[[G2444]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| be enraged | <span class="asgreek">θυμοί <sup><small><small>[[G2373]]</small></small></sup> </span> |
-| in anger | <span class="asgreek">οργή <sup><small><small>[[G3709]]</small></small></sup> </span> |
-| against | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your people, | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| whom | <span class="asgreek">ους <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you led | <span class="asgreek">εξήγαγες <sup><small><small>[[G1806]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] land | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of Egypt | <span class="asgreek">Αιγύπτου <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| strength | <span class="asgreek">ισχύϊ <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| great | <span class="asgreek">μεγάλη <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| arm | <span class="asgreek">βραχίονί <sup><small><small>[[G1023]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| high | <span class="asgreek">υψηλώ <sup><small><small>[[G5308]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Moses beseeched | <big><span class="asgreek">εδεήθη</span></big> <sup><small><small>[[G1189]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| in front of | <big><span class="asgreek">κατέναντι</span></big> <sup><small><small>[[G2713]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Why, | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| be enraged | <big><span class="asgreek">θυμοί</span></big> <sup><small><small>[[G2373]]</small></small></sup> |
+| in anger | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
+| against | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your people, | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you led | <big><span class="asgreek">εξήγαγες</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| arm | <big><span class="asgreek">βραχίονί</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| high | <big><span class="asgreek">υψηλώ</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
 [[Exod.32.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.10|<< Exodus 32:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.12|Exodus 32:12 >>]]</td></tr></table>
 
 

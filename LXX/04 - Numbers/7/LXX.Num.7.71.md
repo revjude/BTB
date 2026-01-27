@@ -9,25 +9,25 @@ and a peace offering of two oxen, five rams, five male goats, and five male lamb
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a sacrifice | <span class="asgreek">θυσίαν <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| of deliverance, | <span class="asgreek">σωτηρίου <sup><small><small>[[G4992]]</small></small></sup> </span> |
-| heifers | <span class="asgreek">δαμάλεις <sup><small><small>[[G1151]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| rams | <span class="asgreek">κριούς <sup><small><small>[[G8096]]</small></small></sup> </span> |
-| five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| he-goats | <span class="asgreek">τράγους <sup><small><small>[[G5131]]</small></small></sup> </span> |
-| five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| ewe-lambs | <span class="asgreek">αμνάδας <sup><small><small>[[G6261]]</small></small></sup> </span> |
-| of a year \[old\] | <span class="asgreek">ενιαυσίας <sup><small><small>[[G7245]]</small></small></sup> </span> |
-| five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[is\] the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gift | <span class="asgreek">δώρον <sup><small><small>[[G1435]]</small></small></sup> </span> |
-| of Ahiezer | <span class="asgreek">Αβιεζέρ <sup><small><small>[[H0295]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Ammishaddai. | <span class="asgreek">Αμισαδαϊ <sup><small><small>[[H5996]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| of deliverance, | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
+| heifers | <big><span class="asgreek">δαμάλεις</span></big> <sup><small><small>[[G1151]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| rams | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| he-goats | <big><span class="asgreek">τράγους</span></big> <sup><small><small>[[G5131]]</small></small></sup> |
+| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| ewe-lambs | <big><span class="asgreek">αμνάδας</span></big> <sup><small><small>[[G6261]]</small></small></sup> |
+| of a year \[old\] | <big><span class="asgreek">ενιαυσίας</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
+| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[is\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gift | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
+| of Ahiezer | <big><span class="asgreek">Αβιεζέρ</span></big> <sup><small><small>[[H0295]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Ammishaddai. | <big><span class="asgreek">Αμισαδαϊ</span></big> <sup><small><small>[[H5996]]</small></small></sup> |
 [[Num.7.71|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.70|<< Numbers 7:70]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.72|Numbers 7:72 >>]]</td></tr></table>
 
 

@@ -9,31 +9,31 @@ Again she conceived and gave birth to a son, and she said, “Because the LORD h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| conceived | <span class="asgreek">συνέλαβε <sup><small><small>[[G4815]]</small></small></sup> </span> |
-| again | <span class="asgreek">πάλιν <sup><small><small>[[G3825]]</small></small></sup> </span> |
-| Leah | <span class="asgreek">Λεία <sup><small><small>[[H3812]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bore | <span class="asgreek">έτεκεν <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόν <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| a second | <span class="asgreek">δεύτερον <sup><small><small>[[G1208]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Jacob. | <span class="asgreek">Ιακώβ <sup><small><small>[[G2384]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> heard | <span class="asgreek">ήκουσε <sup><small><small>[[G0191]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I am detested, | <span class="asgreek">μισούμαι <sup><small><small>[[G3404]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he gave in addition | <span class="asgreek">προσέδωκέ <sup><small><small>[[G8915]]</small></small></sup> </span> |
-| to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| this one. | <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| And she called | <span class="asgreek">εκάλεσε <sup><small><small>[[G2564]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his name, | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Simeon. | <span class="asgreek">Συμεών <sup><small><small>[[G4826]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| conceived | <big><span class="asgreek">συνέλαβε</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
+| again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
+| Leah | <big><span class="asgreek">Λεία</span></big> <sup><small><small>[[H3812]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| a second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Jacob. | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> heard | <big><span class="asgreek">ήκουσε</span></big> <sup><small><small>[[G0191]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I am detested, | <big><span class="asgreek">μισούμαι</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he gave in addition | <big><span class="asgreek">προσέδωκέ</span></big> <sup><small><small>[[G8915]]</small></small></sup> |
+| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| this one. | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| And she called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his name, | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Simeon. | <big><span class="asgreek">Συμεών</span></big> <sup><small><small>[[G4826]]</small></small></sup> |
 [[Gen.29.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.32|<< Genesis 29:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.34|Genesis 29:34 >>]]</td></tr></table>
 
 

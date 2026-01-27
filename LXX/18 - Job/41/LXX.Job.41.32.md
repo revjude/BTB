@@ -9,16 +9,16 @@ He leaves a glistening wake behind him; one would think the deep had white hair!
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| infernal region | <span class="asgreek">τάρταρον <sup><small><small>[[G9404]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| abyss | <span class="asgreek">αβύσσου <sup><small><small>[[G0012]]</small></small></sup> </span> |
-| \[is\] as if | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| a captive; | <span class="asgreek">αιχμάλωτον <sup><small><small>[[G0164]]</small></small></sup> </span> |
-| he considers | <span class="asgreek">ελογίσατο <sup><small><small>[[G3049]]</small></small></sup> </span> |
-| \[the\] abyss | <span class="asgreek">άβυσσον <sup><small><small>[[G0012]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a promenade. | <span class="asgreek">περίπατον <sup><small><small>[[G8745]]</small></small></sup> </span> |
+| And the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| infernal region | <big><span class="asgreek">τάρταρον</span></big> <sup><small><small>[[G9404]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| abyss | <big><span class="asgreek">αβύσσου</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
+| \[is\] as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| a captive; | <big><span class="asgreek">αιχμάλωτον</span></big> <sup><small><small>[[G0164]]</small></small></sup> |
+| he considers | <big><span class="asgreek">ελογίσατο</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
+| \[the\] abyss | <big><span class="asgreek">άβυσσον</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a promenade. | <big><span class="asgreek">περίπατον</span></big> <sup><small><small>[[G8745]]</small></small></sup> |
 [[Job.41.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.31|<< Job 41:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.33|Job 41:33 >>]]</td></tr></table>
 
 

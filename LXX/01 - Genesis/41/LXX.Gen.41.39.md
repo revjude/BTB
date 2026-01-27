@@ -9,22 +9,22 @@ Then Pharaoh said to Joseph, “Since God has made all this known to you, there 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| Pharaoh | <span class="asgreek">Φαραώ <sup><small><small>[[G5328]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Joseph, | <span class="asgreek">Ιωσήφ <sup><small><small>[[G2501]]</small></small></sup> </span> |
-| Since | <span class="asgreek">επειδή <sup><small><small>[[G1894]]</small></small></sup> </span> |
-| God showed | <span class="asgreek">έδειξεν <sup><small><small>[[G1166]]</small></small></sup> <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| these \[things\], | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| there is not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| a man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| more intelligent | <span class="asgreek">φρονιμώτερος <sup><small><small>[[G5429]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| more discerning | <span class="asgreek">συνετώτερός <sup><small><small>[[G4908]]</small></small></sup> </span> |
-| \[than\] you. | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| Pharaoh | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Joseph, | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
+| Since | <big><span class="asgreek">επειδή</span></big> <sup><small><small>[[G1894]]</small></small></sup> |
+| God showed | <big><span class="asgreek">έδειξεν</span></big> <sup><small><small>[[G1166]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| these \[things\], | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| more intelligent | <big><span class="asgreek">φρονιμώτερος</span></big> <sup><small><small>[[G5429]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| more discerning | <big><span class="asgreek">συνετώτερός</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
+| \[than\] you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.41.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.38|<< Genesis 41:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.40|Genesis 41:40 >>]]</td></tr></table>
 
 

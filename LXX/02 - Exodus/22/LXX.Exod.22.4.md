@@ -9,24 +9,24 @@ If what was stolen is actually found alive in his possession—whether ox or don
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[anything\] should be left | <span class="asgreek">καταλειφθή <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| should be found | <span class="asgreek">ευρέθη <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his hand | <span class="asgreek">χειρί <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| theft, | <span class="asgreek">κλέμμα <sup><small><small>[[G2809]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| both | <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| donkey | <span class="asgreek">όνου <sup><small><small>[[G3688]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| sheep | <span class="asgreek">προβάτου <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| \[which may be\] living, | <span class="asgreek">ζώντα <sup><small><small>[[G2198]]</small></small></sup> </span> |
-| double | <span class="asgreek">διπλά <sup><small><small>[[G1362]]</small></small></sup> </span> |
-| for it | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he shall pay | <span class="asgreek">αποτίσει <sup><small><small>[[G0661]]</small></small></sup> </span> |
+| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[anything\] should be left | <big><span class="asgreek">καταλειφθή</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| should be found | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| theft, | <big><span class="asgreek">κλέμμα</span></big> <sup><small><small>[[G2809]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| both | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| donkey | <big><span class="asgreek">όνου</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| sheep | <big><span class="asgreek">προβάτου</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| \[which may be\] living, | <big><span class="asgreek">ζώντα</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| double | <big><span class="asgreek">διπλά</span></big> <sup><small><small>[[G1362]]</small></small></sup> |
+| for it | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he shall pay | <big><span class="asgreek">αποτίσει</span></big> <sup><small><small>[[G0661]]</small></small></sup> |
 [[Exod.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.3|<< Exodus 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.5|Exodus 22:5 >>]]</td></tr></table>
 
 

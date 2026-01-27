@@ -9,39 +9,39 @@ But only you and your sons shall attend to your priesthood for everything concer
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| after | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall observe | <span class="asgreek">διατηρήσετε <sup><small><small>[[G1301]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your priesthood | <span class="asgreek">ιερατείαν <sup><small><small>[[G2405]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| manner | <span class="asgreek">τρόπον <sup><small><small>[[G5158]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| altar, | <span class="asgreek">θυσιαστηρίου <sup><small><small>[[G2379]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the \[thing\]\<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| within | <span class="asgreek">ένδοθεν <sup><small><small>[[G7227]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| veil; | <span class="asgreek">καταπετάσματος <sup><small><small>[[G2665]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall officiate | <span class="asgreek">λειτουργήσετε <sup><small><small>[[G3008]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ministrations | <span class="asgreek">λειτουργίας <sup><small><small>[[G3009]]</small></small></sup> </span> |
-| as a gift | <span class="asgreek">δόμα <sup><small><small>[[G1390]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your priesthood. | <span class="asgreek">ιερατείας <sup><small><small>[[G2405]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| foreigner | <span class="asgreek">αλλογενής <sup><small><small>[[G0241]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| going to \[it\] | <span class="asgreek">προσπορευόμενος <sup><small><small>[[G4365]]</small></small></sup> </span> |
-| shall die. | <span class="asgreek">αποθανείται <sup><small><small>[[G0599]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall observe | <big><span class="asgreek">διατηρήσετε</span></big> <sup><small><small>[[G1301]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your priesthood | <big><span class="asgreek">ιερατείαν</span></big> <sup><small><small>[[G2405]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| altar, | <big><span class="asgreek">θυσιαστηρίου</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the \[thing\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| within | <big><span class="asgreek">ένδοθεν</span></big> <sup><small><small>[[G7227]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| veil; | <big><span class="asgreek">καταπετάσματος</span></big> <sup><small><small>[[G2665]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall officiate | <big><span class="asgreek">λειτουργήσετε</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ministrations | <big><span class="asgreek">λειτουργίας</span></big> <sup><small><small>[[G3009]]</small></small></sup> |
+| as a gift | <big><span class="asgreek">δόμα</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your priesthood. | <big><span class="asgreek">ιερατείας</span></big> <sup><small><small>[[G2405]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| foreigner | <big><span class="asgreek">αλλογενής</span></big> <sup><small><small>[[G0241]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| going to \[it\] | <big><span class="asgreek">προσπορευόμενος</span></big> <sup><small><small>[[G4365]]</small></small></sup> |
+| shall die. | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
 [[Num.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.6|<< Numbers 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.8|Numbers 18:8 >>]]</td></tr></table>
 
 

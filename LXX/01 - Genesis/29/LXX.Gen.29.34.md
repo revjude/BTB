@@ -9,33 +9,33 @@ Once again Leah conceived and gave birth to a son, and she said, “Now at last 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she conceived | <span class="asgreek">συνέλαβεν <sup><small><small>[[G4815]]</small></small></sup> </span> |
-| again | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bore | <span class="asgreek">έτεκεν <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| a son. | <span class="asgreek">υιόν <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| present | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| time | <span class="asgreek">καιρώ <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| by | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my husband | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for I bore | <span class="asgreek">έτεκον <sup><small><small>[[G5088]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| three | <span class="asgreek">τρεις <sup><small><small>[[G5140]]</small></small></sup> </span> |
-| sons. | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| she called | <span class="asgreek">εκάλεσε <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his name, | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Levi. | <span class="asgreek">Λευϊ <sup><small><small>[[G3017]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she conceived | <big><span class="asgreek">συνέλαβεν</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
+| again | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| a son. | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| present | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| by | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my husband | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for I bore | <big><span class="asgreek">έτεκον</span></big> <sup><small><small>[[G5088]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
+| sons. | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| she called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his name, | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Levi. | <big><span class="asgreek">Λευϊ</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
 [[Gen.29.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.33|<< Genesis 29:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.35|Genesis 29:35 >>]]</td></tr></table>
 
 

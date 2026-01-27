@@ -9,41 +9,41 @@ A large number of the people—many from Ephraim, Manasseh, Issachar, and Zebulu
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| vast \[part\] | <span class="asgreek">πλείστον <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| Ephraim, | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Manasseh, | <span class="asgreek">Μανασσή <sup><small><small>[[G3128]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Issachar, | <span class="asgreek">Ισσάχαρ <sup><small><small>[[G2466]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Zebulun, | <span class="asgreek">Ζαβουλών <sup><small><small>[[G2194]]</small></small></sup> </span> |
-| were not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| purified; | <span class="asgreek">ηγνίσθησαν <sup><small><small>[[G0048]]</small></small></sup> </span> |
-| but | <span class="asgreek">αλλά <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they ate | <span class="asgreek">έφαγον <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| passover | <span class="asgreek">φασέκ <sup><small><small>[[G9622]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| according to | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| scripture. | <span class="asgreek">γραφήν <sup><small><small>[[G1124]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Hezekiah prayed | <span class="asgreek">προσηύξατο <sup><small><small>[[G4336]]</small></small></sup> <span class="asgreek">Εζεκίας <sup><small><small>[[G1478]]</small></small></sup> </span> |
-| for | <span class="asgreek">περί <sup><small><small>[[G4012]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[The\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| good God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">αγαθός <sup><small><small>[[G0018]]</small></small></sup> </span> |
-| atone | <span class="asgreek">εξίλασαι <sup><small><small>[[G7331]]</small></small></sup> </span> |
-| for | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| all! | <span class="asgreek">πάσης <sup><small><small>[[G3956]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| vast \[part\] | <big><span class="asgreek">πλείστον</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Manasseh, | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Issachar, | <big><span class="asgreek">Ισσάχαρ</span></big> <sup><small><small>[[G2466]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Zebulun, | <big><span class="asgreek">Ζαβουλών</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
+| were not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| purified; | <big><span class="asgreek">ηγνίσθησαν</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
+| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they ate | <big><span class="asgreek">έφαγον</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| passover | <big><span class="asgreek">φασέκ</span></big> <sup><small><small>[[G9622]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| according to | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| scripture. | <big><span class="asgreek">γραφήν</span></big> <sup><small><small>[[G1124]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Hezekiah prayed | <big><span class="asgreek">προσηύξατο</span></big> <sup><small><small>[[G4336]]</small></small></sup> <big><span class="asgreek">Εζεκίας</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
+| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| good God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| atone | <big><span class="asgreek">εξίλασαι</span></big> <sup><small><small>[[G7331]]</small></small></sup> |
+| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| all! | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
 [[2Chr.30.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.17|<< 2 Chronicles 30:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.19|2 Chronicles 30:19 >>]]</td></tr></table>
 
 

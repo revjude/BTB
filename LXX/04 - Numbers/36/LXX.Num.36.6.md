@@ -9,30 +9,30 @@ This is what the LORD has commanded concerning the daughters of Zelophehad: They
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| This is | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| saying | <span class="asgreek">ρήμα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| which | <span class="asgreek">ο <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> ordered | <span class="asgreek">συνέταξε <sup><small><small>[[G4929]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| daughters | <span class="asgreek">θυγατράσι <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Zelophehad, | <span class="asgreek">Σαλπαάδ <sup><small><small>[[H6765]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Of whom | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| it is pleasing | <span class="asgreek">αρέσκη <sup><small><small>[[G0700]]</small></small></sup> </span> |
-| before | <span class="asgreek">εναντίον <sup><small><small>[[G1726]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| 1let them be | <span class="asgreek">έστωσαν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| wives, | <span class="asgreek">γυναίκες <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| only | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people | <span class="asgreek">δήμου <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of their father | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| let them be | <span class="asgreek">έστωσαν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| wives! | <span class="asgreek">γυναίκες <sup><small><small>[[G1135]]</small></small></sup> </span> |
+| This is | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| saying | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> ordered | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| daughters | <big><span class="asgreek">θυγατράσι</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Zelophehad, | <big><span class="asgreek">Σαλπαάδ</span></big> <sup><small><small>[[H6765]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Of whom | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| it is pleasing | <big><span class="asgreek">αρέσκη</span></big> <sup><small><small>[[G0700]]</small></small></sup> |
+| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| 1let them be | <big><span class="asgreek">έστωσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| wives, | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| only | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people | <big><span class="asgreek">δήμου</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of their father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| let them be | <big><span class="asgreek">έστωσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| wives! | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
 [[Num.36.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.5|<< Numbers 36:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.7|Numbers 36:7 >>]]</td></tr></table>
 
 

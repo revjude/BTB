@@ -13,30 +13,30 @@ Raise a war cry against her on every side! She has thrown up her hands in surren
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| secure her! | <span class="asgreek">κατακρατήσατε <sup><small><small>[[G7860]]</small></small></sup> <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| were disabled | <span class="asgreek">παρελύθησαν <sup><small><small>[[G3886]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Her hands | <span class="asgreek">χείρες <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| fell | <span class="asgreek">έπεσον <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| parapets | <span class="asgreek">επάλξεις <sup><small><small>[[G7360]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| was razed | <span class="asgreek">κατεσκάφη <sup><small><small>[[G2679]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her wall | <span class="asgreek">τείχος <sup><small><small>[[G5038]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| vengeance | <span class="asgreek">εκδίκησις <sup><small><small>[[G1557]]</small></small></sup> </span> |
-| by | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| it is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| Take vengeance | <span class="asgreek">εκδικήσατε <sup><small><small>[[G1556]]</small></small></sup> </span> |
-| against | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| her. | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| As | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| she did, | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| you do | <span class="asgreek">ποιήσατε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| to her! | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| secure her! | <big><span class="asgreek">κατακρατήσατε</span></big> <sup><small><small>[[G7860]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| were disabled | <big><span class="asgreek">παρελύθησαν</span></big> <sup><small><small>[[G3886]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Her hands | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| fell | <big><span class="asgreek">έπεσον</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| parapets | <big><span class="asgreek">επάλξεις</span></big> <sup><small><small>[[G7360]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was razed | <big><span class="asgreek">κατεσκάφη</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| vengeance | <big><span class="asgreek">εκδίκησις</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
+| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| it is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| Take vengeance | <big><span class="asgreek">εκδικήσατε</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
+| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| she did, | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| you do | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| to her! | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.50.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.14|<< Jeremiah 50:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.16|Jeremiah 50:16 >>]]</td></tr></table>
 
 

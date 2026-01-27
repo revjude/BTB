@@ -9,35 +9,35 @@ When David came to the summit, where he used to worship God, Hushai the Archite 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| David was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| coming | <span class="asgreek">ερχόμενος <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Ros, | <span class="asgreek">Ρως <sup><small><small>[[H7220]]</small></small></sup> </span> |
-| where | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he did obeisance | <span class="asgreek">προσεκύνησεν <sup><small><small>[[G4352]]</small></small></sup> </span> |
-| there | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to God. | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| was come | <span class="asgreek">ήκει <sup><small><small>[[G2240]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| meeting | <span class="asgreek">απάντησιν <sup><small><small>[[G0529]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόυ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Hushai | <span class="asgreek">Χουσί <sup><small><small>[[H2365]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| chief friend | <span class="asgreek">αρχιεταίρος <sup><small><small>[[G6552]]</small></small></sup> </span> |
-| of David | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| tearing | <span class="asgreek">διερρηχώς <sup><small><small>[[G1284]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his inner garment, | <span class="asgreek">χιτώνα <sup><small><small>[[G5509]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his head. | <span class="asgreek">κεφαλής <sup><small><small>[[G2776]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| David was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| coming | <big><span class="asgreek">ερχόμενος</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Ros, | <big><span class="asgreek">Ρως</span></big> <sup><small><small>[[H7220]]</small></small></sup> |
+| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he did obeisance | <big><span class="asgreek">προσεκύνησεν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
+| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| was come | <big><span class="asgreek">ήκει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| meeting | <big><span class="asgreek">απάντησιν</span></big> <sup><small><small>[[G0529]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόυ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Hushai | <big><span class="asgreek">Χουσί</span></big> <sup><small><small>[[H2365]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| chief friend | <big><span class="asgreek">αρχιεταίρος</span></big> <sup><small><small>[[G6552]]</small></small></sup> |
+| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| tearing | <big><span class="asgreek">διερρηχώς</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his inner garment, | <big><span class="asgreek">χιτώνα</span></big> <sup><small><small>[[G5509]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his head. | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[2Sam.15.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.31|<< 2 Samuel 15:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.33|2 Samuel 15:33 >>]]</td></tr></table>
 
 

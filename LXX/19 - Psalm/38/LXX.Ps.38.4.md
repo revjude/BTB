@@ -9,18 +9,18 @@ For my iniquities have overwhelmed me; they are a burden too heavy to bear.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my lawless deeds | <span class="asgreek">ανομίαι <sup><small><small>[[G0458]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| are elevated above | <span class="asgreek">υπερήραν <sup><small><small>[[G5229]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my head; | <span class="asgreek">κεφαλήν <sup><small><small>[[G2776]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| load | <span class="asgreek">φορτίον <sup><small><small>[[G5413]]</small></small></sup> </span> |
-| a heavy | <span class="asgreek">βαρύ <sup><small><small>[[G0926]]</small></small></sup> </span> |
-| they were oppressed | <span class="asgreek">εβαρύνθησαν <sup><small><small>[[G0925]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| me. | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my lawless deeds | <big><span class="asgreek">ανομίαι</span></big> <sup><small><small>[[G0458]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| are elevated above | <big><span class="asgreek">υπερήραν</span></big> <sup><small><small>[[G5229]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my head; | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| load | <big><span class="asgreek">φορτίον</span></big> <sup><small><small>[[G5413]]</small></small></sup> |
+| a heavy | <big><span class="asgreek">βαρύ</span></big> <sup><small><small>[[G0926]]</small></small></sup> |
+| they were oppressed | <big><span class="asgreek">εβαρύνθησαν</span></big> <sup><small><small>[[G0925]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| me. | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.38.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.3|<< Psalm 38:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.5|Psalm 38:5 >>]]</td></tr></table>
 
 

@@ -9,31 +9,31 @@ Pharaoh answered, “I will let you go and sacrifice to the LORD your God in the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Pharaoh said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Φαραώ <sup><small><small>[[G5328]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall send | <span class="asgreek">αποστελλώ <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| you, | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you sacrifice | <span class="asgreek">θύσατε <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| \[to\] the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your God | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wilderness! | <span class="asgreek">ερήμω <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| but | <span class="asgreek">αλλ΄ <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| do not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| far away | <span class="asgreek">μακράν <sup><small><small>[[G3112]]</small></small></sup> </span> |
-| to extend | <span class="asgreek">αποτενείτε <sup><small><small>[[G6499]]</small></small></sup> </span> |
-| go | <span class="asgreek">πορευθήναι <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| Make a vow | <span class="asgreek">εύξασθε <sup><small><small>[[G2172]]</small></small></sup> </span> |
-| then | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| for | <span class="asgreek">περί <sup><small><small>[[G4012]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>! | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Pharaoh said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall send | <big><span class="asgreek">αποστελλώ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you sacrifice | <big><span class="asgreek">θύσατε</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| \[to\] the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wilderness! | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| far away | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
+| to extend | <big><span class="asgreek">αποτενείτε</span></big> <sup><small><small>[[G6499]]</small></small></sup> |
+| go | <big><span class="asgreek">πορευθήναι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| Make a vow | <big><span class="asgreek">εύξασθε</span></big> <sup><small><small>[[G2172]]</small></small></sup> |
+| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Exod.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.27|<< Exodus 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.29|Exodus 8:29 >>]]</td></tr></table>
 
 

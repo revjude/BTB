@@ -9,20 +9,20 @@ As for the cities of the Levites, the Levites always have the right to redeem th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Levites, | <span class="asgreek">Λευιτών <sup><small><small>[[G3017]]</small></small></sup> </span> |
-| \[the\] houses | <span class="asgreek">οικίαι <sup><small><small>[[G3614]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεων <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| in their possession, | <span class="asgreek">κατασχέσεως <sup><small><small>[[G2697]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| ransomable | <span class="asgreek">λυτρωταί <sup><small><small>[[G3086]]</small></small></sup> </span> |
-| always | <span class="asgreek">διαπαντός <sup><small><small>[[G1275]]</small></small></sup> </span> |
-| shall be | <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Levites. | <span class="asgreek">Λευίταις <sup><small><small>[[G3017]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Levites, | <big><span class="asgreek">Λευιτών</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
+| \[the\] houses | <big><span class="asgreek">οικίαι</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| in their possession, | <big><span class="asgreek">κατασχέσεως</span></big> <sup><small><small>[[G2697]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ransomable | <big><span class="asgreek">λυτρωταί</span></big> <sup><small><small>[[G3086]]</small></small></sup> |
+| always | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
+| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Levites. | <big><span class="asgreek">Λευίταις</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
 [[Lev.25.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.31|<< Leviticus 25:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.33|Leviticus 25:33 >>]]</td></tr></table>
 
 

@@ -11,31 +11,31 @@ Look, O LORD, and consider: Whom have You ever treated like this? Should women e
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΡΗΣ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΡΗΣ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| Behold, | <span class="asgreek">ίδε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| look upon | <span class="asgreek">επίβλεψον <sup><small><small>[[G1914]]</small></small></sup> </span> |
-| what | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| you gleaned | <span class="asgreek">επεφύλλισας <sup><small><small>[[G7469]]</small></small></sup> </span> |
-| thus! | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| Shall | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| eat | <span class="asgreek">φάγονται <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| \[the\] women | <span class="asgreek">γυναίκες <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| \[the\] fruit | <span class="asgreek">καρπόν <sup><small><small>[[G2590]]</small></small></sup> </span> |
-| of their belly? | <span class="asgreek">κοιλίας <sup><small><small>[[G2836]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| be murdered | <span class="asgreek">φονευθήσονται <sup><small><small>[[G5407]]</small></small></sup> </span> |
-| infants | <span class="asgreek">νήπια <sup><small><small>[[G3516]]</small></small></sup> </span> |
-| nursing | <span class="asgreek">θηλάζοντα <sup><small><small>[[G2337]]</small></small></sup> </span> |
-| breasts | <span class="asgreek">μαστούς <sup><small><small>[[G3149]]</small></small></sup> </span> |
-| Shall | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| you kill | <span class="asgreek">αποκτενείς <sup><small><small>[[G0615]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] sanctuary | <span class="asgreek">αγιάσματι <sup><small><small>[[G6114]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \[the\] priest | <span class="asgreek">ιερέα <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| prophet? | <span class="asgreek">προφήτην <sup><small><small>[[G4396]]</small></small></sup> </span> |
+| ΡΗΣ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΡΗΣ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| Behold, | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| look upon | <big><span class="asgreek">επίβλεψον</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
+| what | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| you gleaned | <big><span class="asgreek">επεφύλλισας</span></big> <sup><small><small>[[G7469]]</small></small></sup> |
+| thus! | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| eat | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| \[the\] women | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| \[the\] fruit | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
+| of their belly? | <big><span class="asgreek">κοιλίας</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| be murdered | <big><span class="asgreek">φονευθήσονται</span></big> <sup><small><small>[[G5407]]</small></small></sup> |
+| infants | <big><span class="asgreek">νήπια</span></big> <sup><small><small>[[G3516]]</small></small></sup> |
+| nursing | <big><span class="asgreek">θηλάζοντα</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
+| breasts | <big><span class="asgreek">μαστούς</span></big> <sup><small><small>[[G3149]]</small></small></sup> |
+| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| you kill | <big><span class="asgreek">αποκτενείς</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] sanctuary | <big><span class="asgreek">αγιάσματι</span></big> <sup><small><small>[[G6114]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[the\] priest | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| prophet? | <big><span class="asgreek">προφήτην</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
 [[Lam.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.19|<< Lamentations 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.21|Lamentations 2:21 >>]]</td></tr></table>
 
 

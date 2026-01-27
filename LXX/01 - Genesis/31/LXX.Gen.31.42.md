@@ -9,34 +9,34 @@ If the God of my father, the God of Abraham and the Fear of Isaac, had not been 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Unless | <span class="asgreek">ει μη <sup><small><small>[[G1508]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of my father | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Abraham, | <span class="asgreek">Αβραάμ <sup><small><small>[[G0011]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fear | <span class="asgreek">φόβος <sup><small><small>[[G5401]]</small></small></sup> </span> |
-| of Isaac | <span class="asgreek">Ισαάκ <sup><small><small>[[G2464]]</small></small></sup> </span> |
-| was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| with me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| then would | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| me empty | <span class="asgreek">κενόν <sup><small><small>[[G2756]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you have sent | <span class="asgreek">εξαπέστειλας <sup><small><small>[[G1821]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| My humiliation | <span class="asgreek">ταπείνωσίν <sup><small><small>[[G5014]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| toil | <span class="asgreek">κοπον <sup><small><small>[[G2873]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of my hands | <span class="asgreek">χειρών <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| God saw, | <span class="asgreek">είδεν <sup><small><small>[[G1492]]</small></small></sup> <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he reproved | <span class="asgreek">ήλεγξέ <sup><small><small>[[G1651]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| yesterday. | <span class="asgreek">χθες <sup><small><small>[[G5504]]</small></small></sup> </span> |
+| Unless | <big><span class="asgreek">ει μη</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of my father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fear | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
+| of Isaac | <big><span class="asgreek">Ισαάκ</span></big> <sup><small><small>[[G2464]]</small></small></sup> |
+| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| with me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| then would | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| me empty | <big><span class="asgreek">κενόν</span></big> <sup><small><small>[[G2756]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you have sent | <big><span class="asgreek">εξαπέστειλας</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| My humiliation | <big><span class="asgreek">ταπείνωσίν</span></big> <sup><small><small>[[G5014]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| toil | <big><span class="asgreek">κοπον</span></big> <sup><small><small>[[G2873]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of my hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| God saw, | <big><span class="asgreek">είδεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he reproved | <big><span class="asgreek">ήλεγξέ</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| yesterday. | <big><span class="asgreek">χθες</span></big> <sup><small><small>[[G5504]]</small></small></sup> |
 [[Gen.31.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.41|<< Genesis 31:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.43|Genesis 31:43 >>]]</td></tr></table>
 
 

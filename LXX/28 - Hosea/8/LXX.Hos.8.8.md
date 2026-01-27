@@ -9,15 +9,15 @@ Israel is swallowed up! Now they are among the nations like a worthless vessel.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Israel was swallowed down; | <span class="asgreek">κατεπόθη <sup><small><small>[[G2666]]</small></small></sup> <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| it became | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations | <span class="asgreek">έθνεσιν <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| item | <span class="asgreek">σκεύος <sup><small><small>[[G4632]]</small></small></sup> </span> |
-| a useless | <span class="asgreek">άχρηστον <sup><small><small>[[G0890]]</small></small></sup> </span> |
+| Israel was swallowed down; | <big><span class="asgreek">κατεπόθη</span></big> <sup><small><small>[[G2666]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| it became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| item | <big><span class="asgreek">σκεύος</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
+| a useless | <big><span class="asgreek">άχρηστον</span></big> <sup><small><small>[[G0890]]</small></small></sup> |
 [[Hos.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.7|<< Hosea 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.9|Hosea 8:9 >>]]</td></tr></table>
 
 

@@ -9,19 +9,19 @@ Cursed be the man who brought my father the news, saying, “A son is born to yo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Cursed \[is\] | <span class="asgreek">επικατάρατος <sup><small><small>[[G1944]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| announcing good news | <span class="asgreek">ευαγγελισάμενος <sup><small><small>[[G2097]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my father, | <span class="asgreek">πατρί <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| There was birthed | <span class="asgreek">ετέχθη <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a male \[child\], | <span class="asgreek">άρσην <sup><small><small>[[G0730]]</small></small></sup> </span> |
-| making merry | <span class="asgreek">ευφραινόμενός <sup><small><small>[[G2165]]</small></small></sup> </span> |
-| they are | <span class="asgreek">εισιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| Cursed \[is\] | <big><span class="asgreek">επικατάρατος</span></big> <sup><small><small>[[G1944]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| announcing good news | <big><span class="asgreek">ευαγγελισάμενος</span></big> <sup><small><small>[[G2097]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my father, | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| There was birthed | <big><span class="asgreek">ετέχθη</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a male \[child\], | <big><span class="asgreek">άρσην</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
+| making merry | <big><span class="asgreek">ευφραινόμενός</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| they are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Jer.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.14|<< Jeremiah 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.16|Jeremiah 20:16 >>]]</td></tr></table>
 
 

@@ -9,34 +9,34 @@ But the servants of Achish said to him, “Is this not David, the king of the la
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπον <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| servants | <span class="asgreek">παίδες <sup><small><small>[[G3816]]</small></small></sup> </span> |
-| of Achish | <span class="asgreek">Ακχίς <sup><small><small>[[H0397]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| him, | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| this | <span class="asgreek">ούτός <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| Is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| David | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land? | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| Did not | <span class="asgreek">ουχί <sup><small><small>[[G3780]]</small></small></sup> </span> |
-| to this one | <span class="asgreek">τούτω <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| taking the lead | <span class="asgreek">εξήρχοντο <sup><small><small>[[G7304]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| women joining in a dance | <span class="asgreek">χορεύουσαι <sup><small><small>[[G9747]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγουσαι <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Saul struck | <span class="asgreek">επάταξε <sup><small><small>[[G3960]]</small></small></sup> <span class="asgreek">Σαούλ <sup><small><small>[[G4549]]</small></small></sup> </span> |
-|  | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| his thousands, | <span class="asgreek">χιλιάσιν <sup><small><small>[[G5505]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| David | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-|  | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| his ten thousands? | <span class="asgreek">μυρίασιν <sup><small><small>[[G3461]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
+| of Achish | <big><span class="asgreek">Ακχίς</span></big> <sup><small><small>[[H0397]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| this | <big><span class="asgreek">ούτός</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| Is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land? | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Did not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
+| to this one | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| taking the lead | <big><span class="asgreek">εξήρχοντο</span></big> <sup><small><small>[[G7304]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| women joining in a dance | <big><span class="asgreek">χορεύουσαι</span></big> <sup><small><small>[[G9747]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγουσαι</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Saul struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
+|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| his thousands, | <big><span class="asgreek">χιλιάσιν</span></big> <sup><small><small>[[G5505]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| his ten thousands? | <big><span class="asgreek">μυρίασιν</span></big> <sup><small><small>[[G3461]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Sam.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.10|<< 1 Samuel 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.12|1 Samuel 21:12 >>]]</td></tr></table>
 
 

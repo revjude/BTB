@@ -9,34 +9,34 @@ For the dedication of the house of God they offered a hundred bulls, two hundred
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they offered | <span class="asgreek">προσήνεγκαν <sup><small><small>[[G4374]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| holiday of rededication | <span class="asgreek">εγκαίνια <sup><small><small>[[G1456]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of God | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| of this | <span class="asgreek">τούτου <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| calves -- | <span class="asgreek">μόσχους <sup><small><small>[[G3448]]</small></small></sup> </span> |
-| a hundred; | <span class="asgreek">εκατόν <sup><small><small>[[G1540]]</small></small></sup> </span> |
-| rams -- | <span class="asgreek">κριούς <sup><small><small>[[G8096]]</small></small></sup> </span> |
-| two hundred; | <span class="asgreek">διακοσίους <sup><small><small>[[G1250]]</small></small></sup> </span> |
-| lambs -- | <span class="asgreek">αμνούς <sup><small><small>[[G0286]]</small></small></sup> </span> |
-| four hundred; | <span class="asgreek">τετρακοσίους <sup><small><small>[[G5071]]</small></small></sup> </span> |
-| winter yearlings | <span class="asgreek">χιμάρους <sup><small><small>[[G9733]]</small></small></sup> </span> |
-| of \[the\] goats | <span class="asgreek">αιγών <sup><small><small>[[G6167]]</small></small></sup> </span> |
-| for | <span class="asgreek">περί <sup><small><small>[[G4012]]</small></small></sup> </span> |
-| a sin \[offering\] | <span class="asgreek">αμαρτίας <sup><small><small>[[G0266]]</small></small></sup> </span> |
-| for | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| all | <span class="asgreek">παντός <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| Israel -- | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| twelve, | <span class="asgreek">δώδεκα <sup><small><small>[[G1427]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] number | <span class="asgreek">αριθμόν <sup><small><small>[[G0706]]</small></small></sup> </span> |
-| of \[the\] tribes | <span class="asgreek">φυλών <sup><small><small>[[G5443]]</small></small></sup> </span> |
-| of Israel. | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they offered | <big><span class="asgreek">προσήνεγκαν</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| holiday of rededication | <big><span class="asgreek">εγκαίνια</span></big> <sup><small><small>[[G1456]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| of this | <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| calves -- | <big><span class="asgreek">μόσχους</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
+| a hundred; | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
+| rams -- | <big><span class="asgreek">κριούς</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| two hundred; | <big><span class="asgreek">διακοσίους</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
+| lambs -- | <big><span class="asgreek">αμνούς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
+| four hundred; | <big><span class="asgreek">τετρακοσίους</span></big> <sup><small><small>[[G5071]]</small></small></sup> |
+| winter yearlings | <big><span class="asgreek">χιμάρους</span></big> <sup><small><small>[[G9733]]</small></small></sup> |
+| of \[the\] goats | <big><span class="asgreek">αιγών</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
+| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
+| a sin \[offering\] | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| for | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| Israel -- | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| twelve, | <big><span class="asgreek">δώδεκα</span></big> <sup><small><small>[[G1427]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
+| of \[the\] tribes | <big><span class="asgreek">φυλών</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
+| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
 [[Ezra.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.16|<< Ezra 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.18|Ezra 6:18 >>]]</td></tr></table>
 
 

@@ -13,21 +13,21 @@ From the mouths of children and infants You have ordained praise on account of Y
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| From out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] mouths | <span class="asgreek">στόματος <sup><small><small>[[G4750]]</small></small></sup> </span> |
-| of infants | <span class="asgreek">νηπίων <sup><small><small>[[G3516]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| ones nursing | <span class="asgreek">θηλαζόντων <sup><small><small>[[G2337]]</small></small></sup> </span> |
-| you ready | <span class="asgreek">κατηρτίσω <sup><small><small>[[G2675]]</small></small></sup> </span> |
-| praise | <span class="asgreek">αίνον <sup><small><small>[[G0136]]</small></small></sup> </span> |
-| because of | <span class="asgreek">ένεκα <sup><small><small>[[G1752]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your enemies, | <span class="asgreek">εχθρών <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to depose | <span class="asgreek">καταλύσαι <sup><small><small>[[G2647]]</small></small></sup> </span> |
-| \[the\] enemy | <span class="asgreek">εχθρόν <sup><small><small>[[G2190]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] avenger. | <span class="asgreek">εκδικητήν <sup><small><small>[[G7090]]</small></small></sup> </span> |
+| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] mouths | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
+| of infants | <big><span class="asgreek">νηπίων</span></big> <sup><small><small>[[G3516]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| ones nursing | <big><span class="asgreek">θηλαζόντων</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
+| you ready | <big><span class="asgreek">κατηρτίσω</span></big> <sup><small><small>[[G2675]]</small></small></sup> |
+| praise | <big><span class="asgreek">αίνον</span></big> <sup><small><small>[[G0136]]</small></small></sup> |
+| because of | <big><span class="asgreek">ένεκα</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to depose | <big><span class="asgreek">καταλύσαι</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
+| \[the\] enemy | <big><span class="asgreek">εχθρόν</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] avenger. | <big><span class="asgreek">εκδικητήν</span></big> <sup><small><small>[[G7090]]</small></small></sup> |
 [[Ps.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.8.1|<< Psalm 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.8.3|Psalm 8:3 >>]]</td></tr></table>
 
 

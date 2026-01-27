@@ -9,34 +9,34 @@ because the hill country will be yours as well. It is a forest; clear it, and it
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| forest | <span class="asgreek">δρυμός <sup><small><small>[[G6971]]</small></small></sup> </span> |
-| shall be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| a forest | <span class="asgreek">δρυμός <sup><small><small>[[G6971]]</small></small></sup> </span> |
-| it is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall clear it out. | <span class="asgreek">εκκαθαριείς <sup><small><small>[[G7096]]</small></small></sup> <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his departure | <span class="asgreek">εξοδία <sup><small><small>[[G7339]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| you should utterly destroy | <span class="asgreek">εξολοθρεύσης <sup><small><small>[[G1842]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Canaanite, | <span class="asgreek">Χαναναίον <sup><small><small>[[G5477]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| cavalry | <span class="asgreek">ίππος <sup><small><small>[[G2462]]</small></small></sup> </span> |
-| a choice | <span class="asgreek">επίλεκτός <sup><small><small>[[G7427]]</small></small></sup> </span> |
-| there is | <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| he is strong; | <span class="asgreek">ισχυρός <sup><small><small>[[G2478]]</small></small></sup> <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| for you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| excel in strength over | <span class="asgreek">υπερισχύεις <sup><small><small>[[G9550]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| forest | <big><span class="asgreek">δρυμός</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
+| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| a forest | <big><span class="asgreek">δρυμός</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
+| it is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall clear it out. | <big><span class="asgreek">εκκαθαριείς</span></big> <sup><small><small>[[G7096]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his departure | <big><span class="asgreek">εξοδία</span></big> <sup><small><small>[[G7339]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| you should utterly destroy | <big><span class="asgreek">εξολοθρεύσης</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Canaanite, | <big><span class="asgreek">Χαναναίον</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| cavalry | <big><span class="asgreek">ίππος</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| a choice | <big><span class="asgreek">επίλεκτός</span></big> <sup><small><small>[[G7427]]</small></small></sup> |
+| there is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| he is strong; | <big><span class="asgreek">ισχυρός</span></big> <sup><small><small>[[G2478]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| for you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| excel in strength over | <big><span class="asgreek">υπερισχύεις</span></big> <sup><small><small>[[G9550]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Josh.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.17|<< Joshua 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.1|Joshua 18:1 >>]]</td></tr></table>
 
 

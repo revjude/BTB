@@ -9,33 +9,33 @@ and I accumulated for myself silver and gold and the treasure of kings and provi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I brought together | <span class="asgreek">συνήγαγόν <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| to myself | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">γε <sup><small><small>[[G1065]]</small></small></sup> </span> |
-| silver, | <span class="asgreek">αργύριον <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">γε <sup><small><small>[[G1065]]</small></small></sup> </span> |
-| gold, | <span class="asgreek">χρυσίον <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| prized possessions | <span class="asgreek">περιουσιασμούς <sup><small><small>[[G8744]]</small></small></sup> </span> |
-| of kings | <span class="asgreek">βασιλέων <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| places. | <span class="asgreek">χωρών <sup><small><small>[[G5561]]</small></small></sup> </span> |
-| I prepared | <span class="asgreek">εποίησά <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| to myself | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[male\] singers | <span class="asgreek">άδοντας <sup><small><small>[[G0103]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[female\] singers, | <span class="asgreek">αδούσας <sup><small><small>[[G0103]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| amusements | <span class="asgreek">εντρυφήματα <sup><small><small>[[G7273]]</small></small></sup> </span> |
-| of \[the\] sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of man; | <span class="asgreek">ανθρώπου <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| \[and\] male wine servers | <span class="asgreek">οινοχόον <sup><small><small>[[G8465]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| female wine servers. | <span class="asgreek">οινοχόας <sup><small><small>[[G8464]]</small></small></sup> </span> |
+| I brought together | <big><span class="asgreek">συνήγαγόν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| to myself | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
+| silver, | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
+| gold, | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| prized possessions | <big><span class="asgreek">περιουσιασμούς</span></big> <sup><small><small>[[G8744]]</small></small></sup> |
+| of kings | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| places. | <big><span class="asgreek">χωρών</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
+| I prepared | <big><span class="asgreek">εποίησά</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| to myself | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[male\] singers | <big><span class="asgreek">άδοντας</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[female\] singers, | <big><span class="asgreek">αδούσας</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| amusements | <big><span class="asgreek">εντρυφήματα</span></big> <sup><small><small>[[G7273]]</small></small></sup> |
+| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of man; | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| \[and\] male wine servers | <big><span class="asgreek">οινοχόον</span></big> <sup><small><small>[[G8465]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| female wine servers. | <big><span class="asgreek">οινοχόας</span></big> <sup><small><small>[[G8464]]</small></small></sup> |
 [[Eccl.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.7|<< Ecclesiastes 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.9|Ecclesiastes 2:9 >>]]</td></tr></table>
 
 

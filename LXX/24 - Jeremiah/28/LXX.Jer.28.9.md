@@ -9,24 +9,24 @@ As for the prophet who prophesies peace, only if the word of the prophet comes t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prophet | <span class="asgreek">προφήτης <sup><small><small>[[G4396]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prophesying | <span class="asgreek">προφητεύσας <sup><small><small>[[G4395]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| peace, | <span class="asgreek">ειρήνην <sup><small><small>[[G1515]]</small></small></sup> </span> |
-| \[in the\] coming \[to pass\] | <span class="asgreek">ελθόντος <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| word, | <span class="asgreek">λόγου <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| they shall know | <span class="asgreek">γνώσονται <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prophet | <span class="asgreek">προφήτην <sup><small><small>[[G4396]]</small></small></sup> </span> |
-| whom | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| sent | <span class="asgreek">απέστειλεν <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| trust. | <span class="asgreek">πίστει <sup><small><small>[[G4102]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prophet | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prophesying | <big><span class="asgreek">προφητεύσας</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| peace, | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
+| \[in the\] coming \[to pass\] | <big><span class="asgreek">ελθόντος</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| word, | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| they shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prophet | <big><span class="asgreek">προφήτην</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| sent | <big><span class="asgreek">απέστειλεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| trust. | <big><span class="asgreek">πίστει</span></big> <sup><small><small>[[G4102]]</small></small></sup> |
 [[Jer.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.8|<< Jeremiah 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.10|Jeremiah 28:10 >>]]</td></tr></table>
 
 

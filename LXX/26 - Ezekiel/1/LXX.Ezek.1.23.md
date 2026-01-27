@@ -9,22 +9,22 @@ And under the expanse, their wings stretched out toward one another. Each one al
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| under | <span class="asgreek">υποκάτω <sup><small><small>[[G5270]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| firmament | <span class="asgreek">στερεώματος <sup><small><small>[[G4733]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their wings | <span class="asgreek">πτέρυγες <sup><small><small>[[G4420]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[were\] stretching out | <span class="asgreek">εκτεταμέναι <sup><small><small>[[G1614]]</small></small></sup> </span> |
-| flapping, | <span class="asgreek">πτερυσσόμεναι <sup><small><small>[[G8977]]</small></small></sup> </span> |
-| \[the\] other | <span class="asgreek">ετέρα <sup><small><small>[[G2087]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| other; | <span class="asgreek">ετέρα <sup><small><small>[[G2087]]</small></small></sup> </span> |
-| to each | <span class="asgreek">εκάστω <sup><small><small>[[G1538]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| covering | <span class="asgreek">επικαλύπτουσαι <sup><small><small>[[G1943]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their bodies. | <span class="asgreek">σώματα <sup><small><small>[[G4983]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| under | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| firmament | <big><span class="asgreek">στερεώματος</span></big> <sup><small><small>[[G4733]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their wings | <big><span class="asgreek">πτέρυγες</span></big> <sup><small><small>[[G4420]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[were\] stretching out | <big><span class="asgreek">εκτεταμέναι</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
+| flapping, | <big><span class="asgreek">πτερυσσόμεναι</span></big> <sup><small><small>[[G8977]]</small></small></sup> |
+| \[the\] other | <big><span class="asgreek">ετέρα</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| other; | <big><span class="asgreek">ετέρα</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
+| to each | <big><span class="asgreek">εκάστω</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| covering | <big><span class="asgreek">επικαλύπτουσαι</span></big> <sup><small><small>[[G1943]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their bodies. | <big><span class="asgreek">σώματα</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.22|<< Ezekiel 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.24|Ezekiel 1:24 >>]]</td></tr></table>
 
 

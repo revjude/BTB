@@ -9,20 +9,20 @@ Keep me from the snares they have laid for me, and from the lures of evildoers.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Keep | <span class="asgreek">φύλαξόν <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| a snare | <span class="asgreek">παγίδος <sup><small><small>[[G3803]]</small></small></sup> </span> |
-| which | <span class="asgreek">ης <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| they concocted | <span class="asgreek">συνεστήσαντό <sup><small><small>[[G4921]]</small></small></sup> </span> |
-| against me! | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| obstacles | <span class="asgreek">σκανδάλων <sup><small><small>[[G4625]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| working | <span class="asgreek">εργαζομένων <sup><small><small>[[G2038]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lawlessness. | <span class="asgreek">ανομίαν <sup><small><small>[[G0458]]</small></small></sup> </span> |
+| Keep | <big><span class="asgreek">φύλαξόν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| a snare | <big><span class="asgreek">παγίδος</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
+| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| they concocted | <big><span class="asgreek">συνεστήσαντό</span></big> <sup><small><small>[[G4921]]</small></small></sup> |
+| against me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| obstacles | <big><span class="asgreek">σκανδάλων</span></big> <sup><small><small>[[G4625]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| working | <big><span class="asgreek">εργαζομένων</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lawlessness. | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
 [[Ps.141.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.8|<< Psalm 141:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.10|Psalm 141:10 >>]]</td></tr></table>
 
 

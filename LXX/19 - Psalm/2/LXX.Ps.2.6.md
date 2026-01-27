@@ -13,15 +13,15 @@ Yet have I set my king upon my holy hill of Zion.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| was placed | <span class="asgreek">κατεστάθην <sup><small><small>[[G2525]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| by | <span class="asgreek">υπ΄ <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| mount Zion, | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> <span class="asgreek">όρος <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his holy \[place\]; | <span class="asgreek">άγιον <sup><small><small>[[G0039]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| But I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| was placed | <big><span class="asgreek">κατεστάθην</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| by | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| mount Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his holy \[place\]; | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.2.5|<< Psalm 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.2.7|Psalm 2:7 >>]]</td></tr></table>
 
 

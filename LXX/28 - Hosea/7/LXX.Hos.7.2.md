@@ -9,25 +9,25 @@ But they fail to consider in their hearts that I remember all their evil. Now th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| so that | <span class="asgreek">όπως <sup><small><small>[[G3704]]</small></small></sup> </span> |
-| they be together in concert | <span class="asgreek">συνάδωσιν <sup><small><small>[[G9291]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[men\] singing | <span class="asgreek">άδοντες <sup><small><small>[[G0103]]</small></small></sup> </span> |
-| \[in\]\<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their heart \[that\] | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their evils | <span class="asgreek">κακίας <sup><small><small>[[G2549]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I remember | <span class="asgreek">εμνήσθην <sup><small><small>[[G3403]]</small></small></sup> </span> |
-| Now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| encircled | <span class="asgreek">εκύκλωσαν <sup><small><small>[[G2944]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their deliberations | <span class="asgreek">διαβούλια <sup><small><small>[[G6819]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| before | <span class="asgreek">απέναντι <sup><small><small>[[G0561]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my face | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they took place | <span class="asgreek">εγένοντο <sup><small><small>[[G1096]]</small></small></sup> </span> |
+| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
+| they be together in concert | <big><span class="asgreek">συνάδωσιν</span></big> <sup><small><small>[[G9291]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[men\] singing | <big><span class="asgreek">άδοντες</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
+| \[in\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their heart \[that\] | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their evils | <big><span class="asgreek">κακίας</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I remember | <big><span class="asgreek">εμνήσθην</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
+| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| encircled | <big><span class="asgreek">εκύκλωσαν</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their deliberations | <big><span class="asgreek">διαβούλια</span></big> <sup><small><small>[[G6819]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they took place | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
 [[Hos.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.1|<< Hosea 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.3|Hosea 7:3 >>]]</td></tr></table>
 
 

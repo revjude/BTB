@@ -9,23 +9,23 @@ For like the crackling of thorns under the pot, so is the laughter of the fool. 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] sound | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thorn-bushes | <span class="asgreek">ακανθών <sup><small><small>[[G0173]]</small></small></sup> </span> |
-| \[burning\] under | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| kettle, | <span class="asgreek">λέβητα <sup><small><small>[[G8172]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| laughter, | <span class="asgreek">γέλως <sup><small><small>[[G1071]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fools; | <span class="asgreek">αφρόνων <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">γε <sup><small><small>[[G1065]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[is\] folly. | <span class="asgreek">ματαιότης <sup><small><small>[[G3153]]</small></small></sup> </span> |
+| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thorn-bushes | <big><span class="asgreek">ακανθών</span></big> <sup><small><small>[[G0173]]</small></small></sup> |
+| \[burning\] under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| kettle, | <big><span class="asgreek">λέβητα</span></big> <sup><small><small>[[G8172]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| laughter, | <big><span class="asgreek">γέλως</span></big> <sup><small><small>[[G1071]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fools; | <big><span class="asgreek">αφρόνων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[is\] folly. | <big><span class="asgreek">ματαιότης</span></big> <sup><small><small>[[G3153]]</small></small></sup> |
 [[Eccl.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.5|<< Ecclesiastes 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.7|Ecclesiastes 7:7 >>]]</td></tr></table>
 
 

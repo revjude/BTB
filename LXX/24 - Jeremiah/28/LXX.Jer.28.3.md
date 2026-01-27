@@ -9,20 +9,20 @@ Within two years I will restore to this place all the articles of the house of t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Yet \[in\] | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| years | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| of days | <span class="asgreek">ημερών <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| will return | <span class="asgreek">αποστρέψω <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this place | <span class="asgreek">τόπον <sup><small><small>[[G5117]]</small></small></sup> <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| items | <span class="asgreek">σκεύη <sup><small><small>[[G4632]]</small></small></sup> </span> |
-| of \[the\] house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| Yet \[in\] | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| of days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| will return | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| items | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
+| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Jer.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.2|<< Jeremiah 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.4|Jeremiah 28:4 >>]]</td></tr></table>
 
 

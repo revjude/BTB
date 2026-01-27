@@ -9,22 +9,22 @@ You overthrew Your adversaries by Your great majesty. You unleashed Your burning
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| magnitude | <span class="asgreek">πλήθει <sup><small><small>[[G4128]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your glory | <span class="asgreek">δόξης <sup><small><small>[[G1391]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you broke | <span class="asgreek">συνέτριψας <sup><small><small>[[G4937]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| opponents. | <span class="asgreek">υπεναντίους <sup><small><small>[[G5227]]</small></small></sup> </span> |
-| You sent | <span class="asgreek">απέστειλας <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your anger, | <span class="asgreek">οργήν <sup><small><small>[[G3709]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it devoured | <span class="asgreek">κατέφαγεν <sup><small><small>[[G2719]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| stubble. | <span class="asgreek">καλάμην <sup><small><small>[[G2562]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| magnitude | <big><span class="asgreek">πλήθει</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your glory | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you broke | <big><span class="asgreek">συνέτριψας</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| opponents. | <big><span class="asgreek">υπεναντίους</span></big> <sup><small><small>[[G5227]]</small></small></sup> |
+| You sent | <big><span class="asgreek">απέστειλας</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your anger, | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it devoured | <big><span class="asgreek">κατέφαγεν</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| stubble. | <big><span class="asgreek">καλάμην</span></big> <sup><small><small>[[G2562]]</small></small></sup> |
 [[Exod.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.6|<< Exodus 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.8|Exodus 15:8 >>]]</td></tr></table>
 
 

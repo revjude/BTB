@@ -9,34 +9,34 @@ Why are we just sitting here? Gather together, let us flee to the fortified citi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| why | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| do we | <span class="asgreek">ημείς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| sit? | <span class="asgreek">καθήμεθα <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| Come together, | <span class="asgreek">συνάχθητε <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we should enter | <span class="asgreek">εισέλθωμεν <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fortified | <span class="asgreek">οχυράς <sup><small><small>[[G8575]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we should be disowned | <span class="asgreek">απορριφώμεν <sup><small><small>[[G0641]]</small></small></sup> </span> |
-| there; | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| disowned | <span class="asgreek">απέρριψεν <sup><small><small>[[G0641]]</small></small></sup> </span> |
-| us, | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gave us to drink | <span class="asgreek">επότισεν <sup><small><small>[[G4222]]</small></small></sup> <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| of bile, | <span class="asgreek">χολής <sup><small><small>[[G5521]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| we sinned | <span class="asgreek">ημάρτομεν <sup><small><small>[[G0264]]</small></small></sup> </span> |
-| before | <span class="asgreek">εναντίον <sup><small><small>[[G1726]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| do we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| sit? | <big><span class="asgreek">καθήμεθα</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| Come together, | <big><span class="asgreek">συνάχθητε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we should enter | <big><span class="asgreek">εισέλθωμεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fortified | <big><span class="asgreek">οχυράς</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we should be disowned | <big><span class="asgreek">απορριφώμεν</span></big> <sup><small><small>[[G0641]]</small></small></sup> |
+| there; | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| disowned | <big><span class="asgreek">απέρριψεν</span></big> <sup><small><small>[[G0641]]</small></small></sup> |
+| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gave us to drink | <big><span class="asgreek">επότισεν</span></big> <sup><small><small>[[G4222]]</small></small></sup> <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| of bile, | <big><span class="asgreek">χολής</span></big> <sup><small><small>[[G5521]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| we sinned | <big><span class="asgreek">ημάρτομεν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.13|<< Jeremiah 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.15|Jeremiah 8:15 >>]]</td></tr></table>
 
 

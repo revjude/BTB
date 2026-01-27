@@ -9,34 +9,34 @@ or for the custom of the priests with the people. When any man offered a sacrifi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ordinance | <span class="asgreek">δικαίωμα <sup><small><small>[[G1345]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priest | <span class="asgreek">ιερέως <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| of | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| all | <span class="asgreek">παντός <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one sacrificing \[was this\]; | <span class="asgreek">θύοντος <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| came | <span class="asgreek">ήρχετο <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| servant | <span class="asgreek">παιδάριον <sup><small><small>[[G3808]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priest | <span class="asgreek">ιερέως <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| when | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| boiled | <span class="asgreek">ηψήθη <sup><small><small>[[G7594]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| meat | <span class="asgreek">κρέας <sup><small><small>[[G2907]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| meat hook | <span class="asgreek">κρεάγρα <sup><small><small>[[G8090]]</small></small></sup> </span> |
-| \[was\] a three-pronged | <span class="asgreek">τριόδους <sup><small><small>[[G9488]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his hand | <span class="asgreek">χειρί <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ordinance | <big><span class="asgreek">δικαίωμα</span></big> <sup><small><small>[[G1345]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| of | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one sacrificing \[was this\]; | <big><span class="asgreek">θύοντος</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| came | <big><span class="asgreek">ήρχετο</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| servant | <big><span class="asgreek">παιδάριον</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priest | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| when | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| boiled | <big><span class="asgreek">ηψήθη</span></big> <sup><small><small>[[G7594]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| meat | <big><span class="asgreek">κρέας</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| meat hook | <big><span class="asgreek">κρεάγρα</span></big> <sup><small><small>[[G8090]]</small></small></sup> |
+| \[was\] a three-pronged | <big><span class="asgreek">τριόδους</span></big> <sup><small><small>[[G9488]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Sam.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.12|<< 1 Samuel 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.14|1 Samuel 2:14 >>]]</td></tr></table>
 
 

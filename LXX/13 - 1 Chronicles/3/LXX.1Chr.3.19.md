@@ -9,21 +9,21 @@ The sons of Pedaiah: Zerubbabel and Shimei. The children of Zerubbabel: Meshulla
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Pedaiah -- | <span class="asgreek">Φαδαϊα <sup><small><small>[[H6305]]</small></small></sup> </span> |
-| Zerubbabel, | <span class="asgreek">Ζοροβαβέλ <sup><small><small>[[G2216]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shimei. | <span class="asgreek">Σεμεϊ <sup><small><small>[[H8096]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Zerubbabel -- | <span class="asgreek">Ζοροβαβέλ <sup><small><small>[[G2216]]</small></small></sup> </span> |
-| Meshullam, | <span class="asgreek">Μοσολλάμ <sup><small><small>[[H4918]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Hananiah, | <span class="asgreek">Ανανίας <sup><small><small>[[H2608b]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shelomith | <span class="asgreek">Σαλωμίθ <sup><small><small>[[H8019b]]</small></small></sup> </span> |
-| their sister, | <span class="asgreek">αδελφή <sup><small><small>[[G0079]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Pedaiah -- | <big><span class="asgreek">Φαδαϊα</span></big> <sup><small><small>[[H6305]]</small></small></sup> |
+| Zerubbabel, | <big><span class="asgreek">Ζοροβαβέλ</span></big> <sup><small><small>[[G2216]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shimei. | <big><span class="asgreek">Σεμεϊ</span></big> <sup><small><small>[[H8096]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Zerubbabel -- | <big><span class="asgreek">Ζοροβαβέλ</span></big> <sup><small><small>[[G2216]]</small></small></sup> |
+| Meshullam, | <big><span class="asgreek">Μοσολλάμ</span></big> <sup><small><small>[[H4918]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Hananiah, | <big><span class="asgreek">Ανανίας</span></big> <sup><small><small>[[H2608b]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shelomith | <big><span class="asgreek">Σαλωμίθ</span></big> <sup><small><small>[[H8019b]]</small></small></sup> |
+| their sister, | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Chr.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.18|<< 1 Chronicles 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.20|1 Chronicles 3:20 >>]]</td></tr></table>
 
 

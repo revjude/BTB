@@ -9,31 +9,31 @@ No longer will you be called Forsaken, nor your land named Desolate; but you wil
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| no longer | <span class="asgreek">ουκέτι <sup><small><small>[[G3765]]</small></small></sup> </span> |
-| shall you be called -- | <span class="asgreek">κληθήση <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| One Being Forsaken. | <span class="asgreek">καταλελειμμένη <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be called -- | <span class="asgreek">κληθήσεται <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| Desolation. | <span class="asgreek">έρημος <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| For you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| shall be called -- | <span class="asgreek">κληθήσεται <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| My will; | <span class="asgreek">θέλημα <sup><small><small>[[G2307]]</small></small></sup> <span class="asgreek">εμόν <sup><small><small>[[G1699]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your land -- | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Being Lived In. | <span class="asgreek">οικουμένη <sup><small><small>[[G3611]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> took pleasure | <span class="asgreek">ευδόκησε <sup><small><small>[[G2106]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall be lived in together. | <span class="asgreek">συνοικισθήσεται <sup><small><small>[[G9332]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
+| shall you be called -- | <big><span class="asgreek">κληθήση</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| One Being Forsaken. | <big><span class="asgreek">καταλελειμμένη</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be called -- | <big><span class="asgreek">κληθήσεται</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| Desolation. | <big><span class="asgreek">έρημος</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| For you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| shall be called -- | <big><span class="asgreek">κληθήσεται</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| My will; | <big><span class="asgreek">θέλημα</span></big> <sup><small><small>[[G2307]]</small></small></sup> <big><span class="asgreek">εμόν</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your land -- | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Being Lived In. | <big><span class="asgreek">οικουμένη</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> took pleasure | <big><span class="asgreek">ευδόκησε</span></big> <sup><small><small>[[G2106]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall be lived in together. | <big><span class="asgreek">συνοικισθήσεται</span></big> <sup><small><small>[[G9332]]</small></small></sup> |
 [[Isa.62.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.3|<< Isaiah 62:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.5|Isaiah 62:5 >>]]</td></tr></table>
 
 

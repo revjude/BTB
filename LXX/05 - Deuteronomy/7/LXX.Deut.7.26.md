@@ -9,24 +9,24 @@ And you must not bring any detestable thing into your house, or you, like it, wi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| carry | <span class="asgreek">εισοίσεις <sup><small><small>[[G1533]]</small></small></sup> </span> |
-| an abomination | <span class="asgreek">βδέλυγμα <sup><small><small>[[G0946]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your house, | <span class="asgreek">οικόν <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it be anathema | <span class="asgreek">ανάθεμα <sup><small><small>[[G0331]]</small></small></sup> <span class="asgreek">έση <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| this \[thing\]. | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| Loathing | <span class="asgreek">προσοχθίσματι <sup><small><small>[[G8938]]</small></small></sup> </span> |
-| you shall loathe, | <span class="asgreek">προσοχθιείς <sup><small><small>[[G4360]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as an abomination | <span class="asgreek">βδελύγματι <sup><small><small>[[G0946]]</small></small></sup> </span> |
-| you shall abhor \[it\], | <span class="asgreek">βδελύξη <sup><small><small>[[G0948]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| it is anathema. | <span class="asgreek">ανάθεμά <sup><small><small>[[G0331]]</small></small></sup> <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| carry | <big><span class="asgreek">εισοίσεις</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
+| an abomination | <big><span class="asgreek">βδέλυγμα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your house, | <big><span class="asgreek">οικόν</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it be anathema | <big><span class="asgreek">ανάθεμα</span></big> <sup><small><small>[[G0331]]</small></small></sup> <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| this \[thing\]. | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| Loathing | <big><span class="asgreek">προσοχθίσματι</span></big> <sup><small><small>[[G8938]]</small></small></sup> |
+| you shall loathe, | <big><span class="asgreek">προσοχθιείς</span></big> <sup><small><small>[[G4360]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as an abomination | <big><span class="asgreek">βδελύγματι</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
+| you shall abhor \[it\], | <big><span class="asgreek">βδελύξη</span></big> <sup><small><small>[[G0948]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| it is anathema. | <big><span class="asgreek">ανάθεμά</span></big> <sup><small><small>[[G0331]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Deut.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.25|<< Deuteronomy 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.1|Deuteronomy 8:1 >>]]</td></tr></table>
 
 

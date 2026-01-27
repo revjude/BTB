@@ -9,16 +9,16 @@ You stilled the roaring of the seas, the pounding of their waves, and the tumult
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| disturbing | <span class="asgreek">συνταράσσων <sup><small><small>[[G9337]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| extent | <span class="asgreek">κύτος <sup><small><small>[[G8134]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sea -- | <span class="asgreek">θαλάσσης <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| \[at the\] sounds | <span class="asgreek">ήχους <sup><small><small>[[G2279]]</small></small></sup> </span> |
-| of its waves | <span class="asgreek">κυμάτων <sup><small><small>[[G2949]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall stand? | <span class="asgreek">υποστήσεται <sup><small><small>[[G9609]]</small></small></sup> </span> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| disturbing | <big><span class="asgreek">συνταράσσων</span></big> <sup><small><small>[[G9337]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| extent | <big><span class="asgreek">κύτος</span></big> <sup><small><small>[[G8134]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sea -- | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| \[at the\] sounds | <big><span class="asgreek">ήχους</span></big> <sup><small><small>[[G2279]]</small></small></sup> |
+| of its waves | <big><span class="asgreek">κυμάτων</span></big> <sup><small><small>[[G2949]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall stand? | <big><span class="asgreek">υποστήσεται</span></big> <sup><small><small>[[G9609]]</small></small></sup> |
 [[Ps.65.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.6|<< Psalm 65:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.8|Psalm 65:8 >>]]</td></tr></table>
 
 

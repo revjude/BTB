@@ -9,27 +9,27 @@ Now listen to their voice; but you must solemnly warn them and show them the man
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| hearken | <span class="asgreek">άκουε <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their voice! | <span class="asgreek">φωνής <sup><small><small>[[G5456]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Only | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| in testifying | <span class="asgreek">διαμαρτυρόμενος <sup><small><small>[[G1263]]</small></small></sup> </span> |
-| you should testify | <span class="asgreek">διαμαρτύρη <sup><small><small>[[G1263]]</small></small></sup> </span> |
-| to them, | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall report | <span class="asgreek">απαγγελείς <sup><small><small>[[G0518]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ordinance | <span class="asgreek">δικαίωμα <sup><small><small>[[G1345]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king, | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| which | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| shall reign | <span class="asgreek">βασιλεύσει <sup><small><small>[[G0936]]</small></small></sup> </span> |
-| over | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| hearken | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their voice! | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Only | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| in testifying | <big><span class="asgreek">διαμαρτυρόμενος</span></big> <sup><small><small>[[G1263]]</small></small></sup> |
+| you should testify | <big><span class="asgreek">διαμαρτύρη</span></big> <sup><small><small>[[G1263]]</small></small></sup> |
+| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall report | <big><span class="asgreek">απαγγελείς</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ordinance | <big><span class="asgreek">δικαίωμα</span></big> <sup><small><small>[[G1345]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| shall reign | <big><span class="asgreek">βασιλεύσει</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
+| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Sam.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.8|<< 1 Samuel 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.10|1 Samuel 8:10 >>]]</td></tr></table>
 
 

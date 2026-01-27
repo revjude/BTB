@@ -9,19 +9,19 @@ And the two men turned away and went toward Sodom, but Abraham remained standing
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| turning back | <span class="asgreek">αποστρέψαντες <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| from there, | <span class="asgreek">εκείθεν <sup><small><small>[[G1564]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| men | <span class="asgreek">άνδρες <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| came | <span class="asgreek">ήλθον <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Sodom. | <span class="asgreek">Σόδομα <sup><small><small>[[G4670]]</small></small></sup> </span> |
-| And Abraham | <span class="asgreek">Αβραάμ <sup><small><small>[[G0011]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| was still | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| standing | <span class="asgreek">εστηκώς <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| before | <span class="asgreek">εναντίον <sup><small><small>[[G1726]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| turning back | <big><span class="asgreek">αποστρέψαντες</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| from there, | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| came | <big><span class="asgreek">ήλθον</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Sodom. | <big><span class="asgreek">Σόδομα</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
+| And Abraham | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| was still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| standing | <big><span class="asgreek">εστηκώς</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Gen.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.21|<< Genesis 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.23|Genesis 18:23 >>]]</td></tr></table>
 
 

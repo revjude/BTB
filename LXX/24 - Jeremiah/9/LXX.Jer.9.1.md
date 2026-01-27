@@ -12,26 +12,26 @@ Oh, that my head were a spring of water, and my eyes a fountain of tears! I woul
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| will give | <span class="asgreek">δώσει <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| my head | <span class="asgreek">κεφαλή <sup><small><small>[[G2776]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| water, | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| my eyes | <span class="asgreek">οφθαλμοίς <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a spring | <span class="asgreek">πηγήν <sup><small><small>[[G4077]]</small></small></sup> </span> |
-| of tears, | <span class="asgreek">δακρύων <sup><small><small>[[G1144]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall weep \[for\] | <span class="asgreek">κλαύσομαι <sup><small><small>[[G2799]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my people | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρας <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| night, | <span class="asgreek">νυκτός <sup><small><small>[[G3571]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being slain | <span class="asgreek">τετραυματισμένους <sup><small><small>[[G5135]]</small></small></sup> </span> |
-| of \[the\] daughter | <span class="asgreek">θυγατρός <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of my people? | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| will give | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| my head | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| water, | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| my eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a spring | <big><span class="asgreek">πηγήν</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
+| of tears, | <big><span class="asgreek">δακρύων</span></big> <sup><small><small>[[G1144]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall weep \[for\] | <big><span class="asgreek">κλαύσομαι</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| night, | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being slain | <big><span class="asgreek">τετραυματισμένους</span></big> <sup><small><small>[[G5135]]</small></small></sup> |
+| of \[the\] daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of my people? | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.22|<< Jeremiah 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.2|Jeremiah 9:2 >>]]</td></tr></table>
 
 

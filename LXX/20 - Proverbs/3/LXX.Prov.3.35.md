@@ -9,13 +9,13 @@ The wise will inherit honor, but fools are held up to shame.<small><sub>**MT:**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| glory | <span class="asgreek">δόξαν <sup><small><small>[[G1391]]</small></small></sup> </span> |
-| \[The\] wise | <span class="asgreek">σοφοί <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| shall inherit | <span class="asgreek">κληρονομήσουσιν <sup><small><small>[[G2816]]</small></small></sup> </span> |
-| but the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| impious | <span class="asgreek">ασεβείς <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| exalted | <span class="asgreek">ύψωσαν <sup><small><small>[[G5312]]</small></small></sup> </span> |
-| dishonor. | <span class="asgreek">ατιμίαν <sup><small><small>[[G0819]]</small></small></sup> </span> |
+| glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
+| \[The\] wise | <big><span class="asgreek">σοφοί</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| shall inherit | <big><span class="asgreek">κληρονομήσουσιν</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
+| but the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| exalted | <big><span class="asgreek">ύψωσαν</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| dishonor. | <big><span class="asgreek">ατιμίαν</span></big> <sup><small><small>[[G0819]]</small></small></sup> |
 [[Prov.3.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.34|<< Proverbs 3:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.1|Proverbs 4:1 >>]]</td></tr></table>
 
 

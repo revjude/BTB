@@ -9,36 +9,36 @@ They sacrifice on the mountaintops and burn offerings on the hills, under oak, p
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tops | <span class="asgreek">κορυφάς <sup><small><small>[[G8073]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mountains | <span class="asgreek">ορέων <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| they were sacrificed, | <span class="asgreek">εθυσίαζον <sup><small><small>[[G7700]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hills | <span class="asgreek">βουνούς <sup><small><small>[[G1015]]</small></small></sup> </span> |
-| they were sacrificed | <span class="asgreek">έθυον <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| underneath | <span class="asgreek">υποκάτω <sup><small><small>[[G5270]]</small></small></sup> </span> |
-| \[the\] oak, | <span class="asgreek">δρυός <sup><small><small>[[G6972]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| white poplar, | <span class="asgreek">λεύκης <sup><small><small>[[G8187]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| tree | <span class="asgreek">δένδρου <sup><small><small>[[G1186]]</small></small></sup> </span> |
-| \[the\] overshadowing | <span class="asgreek">συσκιάζοντος <sup><small><small>[[G9353]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| good | <span class="asgreek">καλόν <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| protection. | <span class="asgreek">σκέπη <sup><small><small>[[G9098]]</small></small></sup> </span> |
-| Because of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| shall fornicate | <span class="asgreek">εκπορνεύσουσιν <sup><small><small>[[G1608]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your daughters | <span class="asgreek">θυγατέρες <sup><small><small>[[G2364]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your brides | <span class="asgreek">νύμφαι <sup><small><small>[[G3565]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall commit adultery. | <span class="asgreek">μοιχεύσουσι <sup><small><small>[[G3431]]</small></small></sup> </span> |
+| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tops | <big><span class="asgreek">κορυφάς</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| they were sacrificed, | <big><span class="asgreek">εθυσίαζον</span></big> <sup><small><small>[[G7700]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hills | <big><span class="asgreek">βουνούς</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
+| they were sacrificed | <big><span class="asgreek">έθυον</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
+| \[the\] oak, | <big><span class="asgreek">δρυός</span></big> <sup><small><small>[[G6972]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| white poplar, | <big><span class="asgreek">λεύκης</span></big> <sup><small><small>[[G8187]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| tree | <big><span class="asgreek">δένδρου</span></big> <sup><small><small>[[G1186]]</small></small></sup> |
+| \[the\] overshadowing | <big><span class="asgreek">συσκιάζοντος</span></big> <sup><small><small>[[G9353]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| protection. | <big><span class="asgreek">σκέπη</span></big> <sup><small><small>[[G9098]]</small></small></sup> |
+| Because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| shall fornicate | <big><span class="asgreek">εκπορνεύσουσιν</span></big> <sup><small><small>[[G1608]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your brides | <big><span class="asgreek">νύμφαι</span></big> <sup><small><small>[[G3565]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall commit adultery. | <big><span class="asgreek">μοιχεύσουσι</span></big> <sup><small><small>[[G3431]]</small></small></sup> |
 [[Hos.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.12|<< Hosea 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.14|Hosea 4:14 >>]]</td></tr></table>
 
 

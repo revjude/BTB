@@ -9,29 +9,29 @@ Therefore this is what the Lord GOD says: ‘As surely as I live, I will bring d
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| say! | <span class="asgreek">ειπέ <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Thus | <span class="asgreek">τάδε <sup><small><small>[[G3592]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Adonai | <span class="asgreek">Αδωναϊ <sup><small><small>[[H0113]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>; | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \[As\] I live, | <span class="asgreek">ζω <sup><small><small>[[G2198]]</small></small></sup> <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| surely | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| swearing by my oath | <span class="asgreek">ορκωμοσίαν <sup><small><small>[[G3728]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he disgraced, | <span class="asgreek">ητίμωσε <sup><small><small>[[G0821]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my covenant | <span class="asgreek">διαθήκην <sup><small><small>[[G1242]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he violated, | <span class="asgreek">παρέβη <sup><small><small>[[G3845]]</small></small></sup> </span> |
-| \[that\] | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will impute | <span class="asgreek">δώσω <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| on | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| his head. | <span class="asgreek">κεφαλήν <sup><small><small>[[G2776]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| say! | <big><span class="asgreek">ειπέ</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[As\] I live, | <big><span class="asgreek">ζω</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| surely | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| swearing by my oath | <big><span class="asgreek">ορκωμοσίαν</span></big> <sup><small><small>[[G3728]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he disgraced, | <big><span class="asgreek">ητίμωσε</span></big> <sup><small><small>[[G0821]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he violated, | <big><span class="asgreek">παρέβη</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
+| \[that\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will impute | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| his head. | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.18|<< Ezekiel 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.20|Ezekiel 17:20 >>]]</td></tr></table>
 
 

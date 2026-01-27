@@ -9,24 +9,24 @@ Judah is a young lion—my son, you return from the prey. Like a lion he crouche
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| cub | <span class="asgreek">σύμνος <sup><small><small>[[G9121]]</small></small></sup> </span> |
-| a lion | <span class="asgreek">λέοντος <sup><small><small>[[G3023]]</small></small></sup> </span> |
-| Judah \[is\] | <span class="asgreek">Ιούδα <sup><small><small>[[G2448]]</small></small></sup> </span> |
-| From | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| a bud, | <span class="asgreek">βλαστού <sup><small><small>[[G0986]]</small></small></sup> </span> |
-| O son | <span class="asgreek">υιέ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of mine, | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you ascended. | <span class="asgreek">ανέβης <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| Reclining, | <span class="asgreek">αναπεσών <sup><small><small>[[G0377]]</small></small></sup> </span> |
-| you went to bed | <span class="asgreek">εκοιμήθης <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a lion; | <span class="asgreek">λέων <sup><small><small>[[G3023]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a cub | <span class="asgreek">σκύμνος <sup><small><small>[[G9121]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| will rouse | <span class="asgreek">εγερεί <sup><small><small>[[G1453]]</small></small></sup> </span> |
-| him? | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| cub | <big><span class="asgreek">σύμνος</span></big> <sup><small><small>[[G9121]]</small></small></sup> |
+| a lion | <big><span class="asgreek">λέοντος</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| Judah \[is\] | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| From | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| a bud, | <big><span class="asgreek">βλαστού</span></big> <sup><small><small>[[G0986]]</small></small></sup> |
+| O son | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of mine, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you ascended. | <big><span class="asgreek">ανέβης</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| Reclining, | <big><span class="asgreek">αναπεσών</span></big> <sup><small><small>[[G0377]]</small></small></sup> |
+| you went to bed | <big><span class="asgreek">εκοιμήθης</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a lion; | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a cub | <big><span class="asgreek">σκύμνος</span></big> <sup><small><small>[[G9121]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| will rouse | <big><span class="asgreek">εγερεί</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
+| him? | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.49.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.8|<< Genesis 49:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.10|Genesis 49:10 >>]]</td></tr></table>
 
 

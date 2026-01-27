@@ -9,29 +9,29 @@ They burned incense on all the high places like the nations that the LORD had dr
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they burned incense | <span class="asgreek">εθυμίασαν <sup><small><small>[[G2370]]</small></small></sup> </span> |
-| there | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| high \[places\], | <span class="asgreek">υψηλοίς <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| as | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| which | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> moved far away | <span class="asgreek">απώκισε <sup><small><small>[[G6442]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| their face. | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they made | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| partners, | <span class="asgreek">κοινωνούς <sup><small><small>[[G2844]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they graved \[images\] | <span class="asgreek">εχάραξαν <sup><small><small>[[G9703]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to anger | <span class="asgreek">παροργίσαι <sup><small><small>[[G3949]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they burned incense | <big><span class="asgreek">εθυμίασαν</span></big> <sup><small><small>[[G2370]]</small></small></sup> |
+| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| high \[places\], | <big><span class="asgreek">υψηλοίς</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> moved far away | <big><span class="asgreek">απώκισε</span></big> <sup><small><small>[[G6442]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| their face. | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| partners, | <big><span class="asgreek">κοινωνούς</span></big> <sup><small><small>[[G2844]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they graved \[images\] | <big><span class="asgreek">εχάραξαν</span></big> <sup><small><small>[[G9703]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to anger | <big><span class="asgreek">παροργίσαι</span></big> <sup><small><small>[[G3949]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[2Kgs.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.10|<< 2 Kings 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.12|2 Kings 17:12 >>]]</td></tr></table>
 
 

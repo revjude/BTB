@@ -9,27 +9,27 @@ Any clothing or leather on which there is an emission of semen must be washed wi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| garment, | <span class="asgreek">ιμάτιον <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| skin, | <span class="asgreek">δέρμα <sup><small><small>[[G1192]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| which | <span class="asgreek">ω <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| might be | <span class="asgreek">η <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| of \[the\] marriage-bed | <span class="asgreek">κοίτη <sup><small><small>[[G2845]]</small></small></sup> </span> |
-| of semen, | <span class="asgreek">σπέρματος <sup><small><small>[[G4690]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall be washed | <span class="asgreek">πλυθήσεται <sup><small><small>[[G4150]]</small></small></sup> </span> |
-| in water, | <span class="asgreek">ύδατι <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| will be unclean | <span class="asgreek">ακάθαρτος <sup><small><small>[[G0169]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| evening. | <span class="asgreek">εσπέρας <sup><small><small>[[G2073]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| garment, | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| skin, | <big><span class="asgreek">δέρμα</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| might be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| of \[the\] marriage-bed | <big><span class="asgreek">κοίτη</span></big> <sup><small><small>[[G2845]]</small></small></sup> |
+| of semen, | <big><span class="asgreek">σπέρματος</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall be washed | <big><span class="asgreek">πλυθήσεται</span></big> <sup><small><small>[[G4150]]</small></small></sup> |
+| in water, | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| will be unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
 [[Lev.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.16|<< Leviticus 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.18|Leviticus 15:18 >>]]</td></tr></table>
 
 

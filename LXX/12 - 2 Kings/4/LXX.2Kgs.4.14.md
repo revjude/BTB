@@ -9,25 +9,25 @@ So he asked, “Then what should be done for her?” “Well, she has no son,”
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Gehazi, | <span class="asgreek">Γιεζί <sup><small><small>[[H1522]]</small></small></sup> </span> |
-| What | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| must | <span class="asgreek">δει <sup><small><small>[[G1163]]</small></small></sup> </span> |
-| be done | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| for her? | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Gehazi said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Γιεζί <sup><small><small>[[H1522]]</small></small></sup> </span> |
-| That | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| by all means | <span class="asgreek">μάλα <sup><small><small>[[G8240]]</small></small></sup> </span> |
-| a son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| is not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to her, | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her husband | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| is old. | <span class="asgreek">πρεσβύτης <sup><small><small>[[G4246]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Gehazi, | <big><span class="asgreek">Γιεζί</span></big> <sup><small><small>[[H1522]]</small></small></sup> |
+| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| must | <big><span class="asgreek">δει</span></big> <sup><small><small>[[G1163]]</small></small></sup> |
+| be done | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| for her? | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Gehazi said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Γιεζί</span></big> <sup><small><small>[[H1522]]</small></small></sup> |
+| That | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| by all means | <big><span class="asgreek">μάλα</span></big> <sup><small><small>[[G8240]]</small></small></sup> |
+| a son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her husband | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is old. | <big><span class="asgreek">πρεσβύτης</span></big> <sup><small><small>[[G4246]]</small></small></sup> |
 [[2Kgs.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.13|<< 2 Kings 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.15|2 Kings 4:15 >>]]</td></tr></table>
 
 

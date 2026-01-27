@@ -13,19 +13,19 @@ The birds of the air nest beside the springs; they sing among the branches.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| by | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| winged creatures | <span class="asgreek">πετεινά <sup><small><small>[[G4071]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heaven | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| shall encamp; | <span class="asgreek">κατασκηνώσει <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| between | <span class="asgreek">μέσου <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rocks | <span class="asgreek">πετρών <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| they shall give out | <span class="asgreek">δώσουσι <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| a sound; | <span class="asgreek">φωνήν <sup><small><small>[[G5456]]</small></small></sup> </span> |
+| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| winged creatures | <big><span class="asgreek">πετεινά</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| shall encamp; | <big><span class="asgreek">κατασκηνώσει</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| between | <big><span class="asgreek">μέσου</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rocks | <big><span class="asgreek">πετρών</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| they shall give out | <big><span class="asgreek">δώσουσι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| a sound; | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
 [[Ps.104.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.11|<< Psalm 104:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.13|Psalm 104:13 >>]]</td></tr></table>
 
 

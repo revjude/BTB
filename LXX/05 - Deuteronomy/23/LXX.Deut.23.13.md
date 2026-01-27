@@ -9,29 +9,29 @@ And you must have a digging tool in your equipment so that when you relieve your
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a trowel | <span class="asgreek">πάσσαλος <sup><small><small>[[G8662]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-|  | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your belt, | <span class="asgreek">ζώνης <sup><small><small>[[G2223]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| you should sit separately | <span class="asgreek">διακαθιζάνης <sup><small><small>[[G6831]]</small></small></sup> </span> |
-| outside, | <span class="asgreek">έξω <sup><small><small>[[G1854]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall dig | <span class="asgreek">ορύξεις <sup><small><small>[[G3736]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bringing it | <span class="asgreek">επαγαγών <sup><small><small>[[G1863]]</small></small></sup> </span> |
-| you shall cover | <span class="asgreek">καλύψεις <sup><small><small>[[G2572]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your indecency | <span class="asgreek">ασχημοσύνην <sup><small><small>[[G0808]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a trowel | <big><span class="asgreek">πάσσαλος</span></big> <sup><small><small>[[G8662]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+|  | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your belt, | <big><span class="asgreek">ζώνης</span></big> <sup><small><small>[[G2223]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| you should sit separately | <big><span class="asgreek">διακαθιζάνης</span></big> <sup><small><small>[[G6831]]</small></small></sup> |
+| outside, | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall dig | <big><span class="asgreek">ορύξεις</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bringing it | <big><span class="asgreek">επαγαγών</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
+| you shall cover | <big><span class="asgreek">καλύψεις</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your indecency | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.12|<< Deuteronomy 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.14|Deuteronomy 23:14 >>]]</td></tr></table>
 
 

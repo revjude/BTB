@@ -13,25 +13,25 @@ The scepter will not depart from Judah, nor the staff from between his feet, unt
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| shall not fail | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">εκλείψει <sup><small><small>[[G1587]]</small></small></sup> </span> |
-| A ruler | <span class="asgreek">άρχων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Judah, | <span class="asgreek">Ιούδα <sup><small><small>[[G2448]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| one leading | <span class="asgreek">ηγούμενος <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his thighs, | <span class="asgreek">μηρών <sup><small><small>[[G3382]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| should come | <span class="asgreek">έλθη <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| reserved | <span class="asgreek">αποκείμενα <sup><small><small>[[G0606]]</small></small></sup> </span> |
-| to him. | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he \[is\] | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| expectation | <span class="asgreek">προσδοκία <sup><small><small>[[G4329]]</small></small></sup> </span> |
-| of nations. | <span class="asgreek">εθνών <sup><small><small>[[G1484]]</small></small></sup> </span> |
+| shall not fail | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εκλείψει</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| A ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Judah, | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| one leading | <big><span class="asgreek">ηγούμενος</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his thighs, | <big><span class="asgreek">μηρών</span></big> <sup><small><small>[[G3382]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| should come | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| reserved | <big><span class="asgreek">αποκείμενα</span></big> <sup><small><small>[[G0606]]</small></small></sup> |
+| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he \[is\] | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| expectation | <big><span class="asgreek">προσδοκία</span></big> <sup><small><small>[[G4329]]</small></small></sup> |
+| of nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
 [[Gen.49.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.9|<< Genesis 49:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.11|Genesis 49:11 >>]]</td></tr></table>
 
 

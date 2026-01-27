@@ -9,16 +9,16 @@ Many seek the ruler’s favor, but a man receives justice from the LORD.<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Many | <span class="asgreek">πολλοί <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| attend to | <span class="asgreek">θεραπεύουσι <sup><small><small>[[G2323]]</small></small></sup> </span> |
-| \[the\] persons | <span class="asgreek">πρόσωπα <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of leaders; | <span class="asgreek">ηγουμένων <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| but by | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| happens | <span class="asgreek">γίνεται <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| justice | <span class="asgreek">δίκαιον <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| to a man. | <span class="asgreek">ανδρί <sup><small><small>[[G0435]]</small></small></sup> </span> |
+| Many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| attend to | <big><span class="asgreek">θεραπεύουσι</span></big> <sup><small><small>[[G2323]]</small></small></sup> |
+| \[the\] persons | <big><span class="asgreek">πρόσωπα</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of leaders; | <big><span class="asgreek">ηγουμένων</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| but by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| happens | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| justice | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| to a man. | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
 [[Prov.29.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.25|<< Proverbs 29:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.27|Proverbs 29:27 >>]]</td></tr></table>
 
 

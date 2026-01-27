@@ -9,21 +9,21 @@ Total darkness is reserved for his treasures. A fire unfanned will consume him a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| all | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| darkness | <span class="asgreek">σκότος <sup><small><small>[[G4655]]</small></small></sup> </span> |
-| for him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| wait | <span class="asgreek">υπομείναι <sup><small><small>[[G5278]]</small></small></sup> </span> |
-| shall devour | <span class="asgreek">κατέδεται <sup><small><small>[[G2719]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| fire | <span class="asgreek">πυρ <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| inextinguishable | <span class="asgreek">άκαυστον <sup><small><small>[[G6183]]</small></small></sup> </span> |
-| inflict evil on | <span class="asgreek">κακώσαι <sup><small><small>[[G2559]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a stranger | <span class="asgreek">επήλυτος <sup><small><small>[[G7386]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house. | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> </span> |
+| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
+| for him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| wait | <big><span class="asgreek">υπομείναι</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
+| shall devour | <big><span class="asgreek">κατέδεται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| inextinguishable | <big><span class="asgreek">άκαυστον</span></big> <sup><small><small>[[G6183]]</small></small></sup> |
+| inflict evil on | <big><span class="asgreek">κακώσαι</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a stranger | <big><span class="asgreek">επήλυτος</span></big> <sup><small><small>[[G7386]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house. | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
 [[Job.20.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.25|<< Job 20:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.27|Job 20:27 >>]]</td></tr></table>
 
 

@@ -9,26 +9,26 @@ Or if he touches human uncleanness—anything by which one becomes unclean—eve
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| should touch | <span class="asgreek">άψηται <sup><small><small>[[G0680]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] uncleanness | <span class="asgreek">ακαθαρσίας <sup><small><small>[[G0167]]</small></small></sup> </span> |
-| of a man, | <span class="asgreek">ανθρώπου <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| any | <span class="asgreek">πάσης <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| of his uncleanness -- | <span class="asgreek">ακαθαρσίας <sup><small><small>[[G0167]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| what | <span class="asgreek">ης <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| touching | <span class="asgreek">αψάμενος <sup><small><small>[[G0680]]</small></small></sup> </span> |
-| he should be defiled, | <span class="asgreek">μιανθή <sup><small><small>[[G3392]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he be unaware | <span class="asgreek">έλαθεν <sup><small><small>[[G2990]]</small></small></sup> </span> |
-| of it, | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but after | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| he should know | <span class="asgreek">γνώ <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he should have trespassed. | <span class="asgreek">πλημμελήση <sup><small><small>[[G8812]]</small></small></sup> </span> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| should touch | <big><span class="asgreek">άψηται</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] uncleanness | <big><span class="asgreek">ακαθαρσίας</span></big> <sup><small><small>[[G0167]]</small></small></sup> |
+| of a man, | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| any | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| of his uncleanness -- | <big><span class="asgreek">ακαθαρσίας</span></big> <sup><small><small>[[G0167]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| what | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| touching | <big><span class="asgreek">αψάμενος</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
+| he should be defiled, | <big><span class="asgreek">μιανθή</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he be unaware | <big><span class="asgreek">έλαθεν</span></big> <sup><small><small>[[G2990]]</small></small></sup> |
+| of it, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| he should know | <big><span class="asgreek">γνώ</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he should have trespassed. | <big><span class="asgreek">πλημμελήση</span></big> <sup><small><small>[[G8812]]</small></small></sup> |
 [[Lev.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.2|<< Leviticus 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.4|Leviticus 5:4 >>]]</td></tr></table>
 
 

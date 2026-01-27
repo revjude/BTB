@@ -9,26 +9,26 @@ They will ask the way to Zion and turn their faces toward it. They will come and
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| Zion | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| They shall ask | <span class="asgreek">ερωτήσουσι <sup><small><small>[[G2065]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| way | <span class="asgreek">οδόν <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| for here | <span class="asgreek">ώδε <sup><small><small>[[G5602]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their face | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall set | <span class="asgreek">δώσουσι <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall come | <span class="asgreek">ήξουσι <sup><small><small>[[G2240]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall take refuge | <span class="asgreek">καταφεύξονται <sup><small><small>[[G2703]]</small></small></sup> </span> |
-| with | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>; | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| covenant | <span class="asgreek">διαθήκη <sup><small><small>[[G1242]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| \[the\] everlasting | <span class="asgreek">αιώνιος <sup><small><small>[[G0166]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be forgotten. | <span class="asgreek">επιλησθήσεται <sup><small><small>[[G1950]]</small></small></sup> </span> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| They shall ask | <big><span class="asgreek">ερωτήσουσι</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| for here | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall set | <big><span class="asgreek">δώσουσι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall come | <big><span class="asgreek">ήξουσι</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall take refuge | <big><span class="asgreek">καταφεύξονται</span></big> <sup><small><small>[[G2703]]</small></small></sup> |
+| with | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| covenant | <big><span class="asgreek">διαθήκη</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| \[the\] everlasting | <big><span class="asgreek">αιώνιος</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be forgotten. | <big><span class="asgreek">επιλησθήσεται</span></big> <sup><small><small>[[G1950]]</small></small></sup> |
 [[Jer.50.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.4|<< Jeremiah 50:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.6|Jeremiah 50:6 >>]]</td></tr></table>
 
 

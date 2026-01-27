@@ -9,42 +9,42 @@ Then David said to Achish, “If I have found favor in your eyes, let me be assi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| David said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Achish, | <span class="asgreek">Ακχίς <sup><small><small>[[H0397]]</small></small></sup> </span> |
-| If | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">δη <sup><small><small>[[G1211]]</small></small></sup> </span> |
-| has found | <span class="asgreek">εύρηκεν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your servant | <span class="asgreek">δούλός <sup><small><small>[[G1401]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| favor | <span class="asgreek">χάριν <sup><small><small>[[G5485]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| your eyes, | <span class="asgreek">οφθαλμοίς <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| give | <span class="asgreek">δότωσαν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">δη <sup><small><small>[[G1211]]</small></small></sup> </span> |
-| to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a place | <span class="asgreek">τόπον <sup><small><small>[[G5117]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| one | <span class="asgreek">μία <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεων <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in the | <span class="asgreek">κατ΄ <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| country! | <span class="asgreek">αγρόν <sup><small><small>[[G0068]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall settle | <span class="asgreek">καθήσομαι <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| there. | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| For | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| why | <span class="asgreek">ινατί <sup><small><small>[[G2444]]</small></small></sup> </span> |
-| settle | <span class="asgreek">κάθηται <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[does\] your servant | <span class="asgreek">δούλός <sup><small><small>[[G1401]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a city | <span class="asgreek">πόλει <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| reigning | <span class="asgreek">βασιλευομένη <sup><small><small>[[G0936]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you? | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| David said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Achish, | <big><span class="asgreek">Ακχίς</span></big> <sup><small><small>[[H0397]]</small></small></sup> |
+| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
+| has found | <big><span class="asgreek">εύρηκεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| your eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| give | <big><span class="asgreek">δότωσαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
+| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in the | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| country! | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall settle | <big><span class="asgreek">καθήσομαι</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
+| settle | <big><span class="asgreek">κάθηται</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[does\] your servant | <big><span class="asgreek">δούλός</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a city | <big><span class="asgreek">πόλει</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| reigning | <big><span class="asgreek">βασιλευομένη</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you? | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Sam.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.4|<< 1 Samuel 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.6|1 Samuel 27:6 >>]]</td></tr></table>
 
 

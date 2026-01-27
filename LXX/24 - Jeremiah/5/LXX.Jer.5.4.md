@@ -9,21 +9,21 @@ Then I said, “They are only the poor; they have played the fool, for they do n
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| said, | <span class="asgreek">είπα <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| perhaps | <span class="asgreek">ίσως <sup><small><small>[[G2481]]</small></small></sup> </span> |
-| they are poor, | <span class="asgreek">πτωχοί <sup><small><small>[[G4434]]</small></small></sup> <span class="asgreek">εισι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| because | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| they are not able. | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ηδυνήθησαν <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| they do not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| know | <span class="asgreek">έγνωσαν <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| \[the\] way | <span class="asgreek">οδόν <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] equity | <span class="asgreek">κρίσιν <sup><small><small>[[G2920]]</small></small></sup> </span> |
-| of God. | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| perhaps | <big><span class="asgreek">ίσως</span></big> <sup><small><small>[[G2481]]</small></small></sup> |
+| they are poor, | <big><span class="asgreek">πτωχοί</span></big> <sup><small><small>[[G4434]]</small></small></sup> <big><span class="asgreek">εισι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| they are not able. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ηδυνήθησαν</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| they do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| know | <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| \[the\] way | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] equity | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
 [[Jer.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.3|<< Jeremiah 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.5|Jeremiah 5:5 >>]]</td></tr></table>
 
 

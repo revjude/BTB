@@ -9,35 +9,35 @@ He answered and said, Lo, I see four men loose, walking in the midst of the fire
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[the\] king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| Here, | <span class="asgreek">ώδε <sup><small><small>[[G5602]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| see | <span class="asgreek">ορώ <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| men | <span class="asgreek">άνδρας <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| four | <span class="asgreek">τέσσαρας <sup><small><small>[[G5064]]</small></small></sup> </span> |
-| being loose | <span class="asgreek">λελυμένους <sup><small><small>[[G3089]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| walking | <span class="asgreek">περιπατούντας <sup><small><small>[[G4043]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] midst | <span class="asgreek">μέσω <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fire, | <span class="asgreek">πυρός <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| no corruption | <span class="asgreek">διαφθορά <sup><small><small>[[G1312]]</small></small></sup> <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| there is | <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| vision | <span class="asgreek">όρασις <sup><small><small>[[G3706]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fourth | <span class="asgreek">τετάρτου <sup><small><small>[[G5067]]</small></small></sup> </span> |
-| \[is\] likened | <span class="asgreek">ομοία <sup><small><small>[[G3664]]</small></small></sup> </span> |
-| to son | <span class="asgreek">υιώ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of God. | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| Here, | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| see | <big><span class="asgreek">ορώ</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| four | <big><span class="asgreek">τέσσαρας</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| being loose | <big><span class="asgreek">λελυμένους</span></big> <sup><small><small>[[G3089]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| walking | <big><span class="asgreek">περιπατούντας</span></big> <sup><small><small>[[G4043]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fire, | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| no corruption | <big><span class="asgreek">διαφθορά</span></big> <sup><small><small>[[G1312]]</small></small></sup> <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| there is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fourth | <big><span class="asgreek">τετάρτου</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
+| \[is\] likened | <big><span class="asgreek">ομοία</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
+| to son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
 [[Dan.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.24|<< Daniel 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.26|Daniel 3:26 >>]]</td></tr></table>
 
 

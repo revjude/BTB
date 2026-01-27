@@ -9,19 +9,19 @@ But with an overwhelming flood He will make an end of Nineveh and pursue His ene
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a flood | <span class="asgreek">κατακλυσμώ <sup><small><small>[[G2627]]</small></small></sup> </span> |
-| coursing | <span class="asgreek">πορείας <sup><small><small>[[G4197]]</small></small></sup> </span> |
-| a consummation | <span class="asgreek">συντέλειαν <sup><small><small>[[G4930]]</small></small></sup> </span> |
-| he shall execute | <span class="asgreek">ποιήσεται <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rousing up; | <span class="asgreek">επεγειρομένους <sup><small><small>[[G1892]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his enemies | <span class="asgreek">εχθρούς <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall pursue | <span class="asgreek">διώξεται <sup><small><small>[[G1377]]</small></small></sup> </span> |
-| darkness | <span class="asgreek">σκότος <sup><small><small>[[G4655]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a flood | <big><span class="asgreek">κατακλυσμώ</span></big> <sup><small><small>[[G2627]]</small></small></sup> |
+| coursing | <big><span class="asgreek">πορείας</span></big> <sup><small><small>[[G4197]]</small></small></sup> |
+| a consummation | <big><span class="asgreek">συντέλειαν</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
+| he shall execute | <big><span class="asgreek">ποιήσεται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rousing up; | <big><span class="asgreek">επεγειρομένους</span></big> <sup><small><small>[[G1892]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his enemies | <big><span class="asgreek">εχθρούς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall pursue | <big><span class="asgreek">διώξεται</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
+| darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
 [[Nah.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.7|<< Nahum 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.9|Nahum 1:9 >>]]</td></tr></table>
 
 

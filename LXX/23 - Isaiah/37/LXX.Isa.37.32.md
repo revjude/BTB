@@ -9,24 +9,24 @@ For a remnant will go forth from Jerusalem, and survivors from Mount Zion. The z
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Jerusalem | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| shall come forth | <span class="asgreek">εξελεύσονται <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| surviving, | <span class="asgreek">καταλελειμμένοι <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being preserved | <span class="asgreek">σωζόμενοι <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| mount | <span class="asgreek">όρους <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| Zion. | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| zeal | <span class="asgreek">ζήλος <sup><small><small>[[G2205]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| of Hosts | <span class="asgreek">σαβαώθ <sup><small><small>[[G4519]]</small></small></sup> </span> |
-| shall do | <span class="asgreek">ποιήσει <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| these \[things\]. | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| shall come forth | <big><span class="asgreek">εξελεύσονται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| surviving, | <big><span class="asgreek">καταλελειμμένοι</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being preserved | <big><span class="asgreek">σωζόμενοι</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| mount | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| Zion. | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| zeal | <big><span class="asgreek">ζήλος</span></big> <sup><small><small>[[G2205]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
+| shall do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
 [[Isa.37.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.31|<< Isaiah 37:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.33|Isaiah 37:33 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ when the wind passes over, it vanishes, and its place remembers it no more.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| as wind | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| goes | <span class="asgreek">διήλθεν <sup><small><small>[[G1330]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it no longer | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| exists, | <span class="asgreek">υπάρξει <sup><small><small>[[G5225]]</small></small></sup> </span> |
-| so also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| recognize | <span class="asgreek">επιγνώσεται <sup><small><small>[[G1921]]</small></small></sup> </span> |
-| any longer | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his place | <span class="asgreek">τόπον <sup><small><small>[[G5117]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| as wind | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| goes | <big><span class="asgreek">διήλθεν</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it no longer | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| exists, | <big><span class="asgreek">υπάρξει</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
+| so also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| recognize | <big><span class="asgreek">επιγνώσεται</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
+| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.103.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.15|<< Psalm 103:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.17|Psalm 103:17 >>]]</td></tr></table>
 
 

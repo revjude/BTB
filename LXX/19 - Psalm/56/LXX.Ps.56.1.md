@@ -14,20 +14,20 @@ For the choirmaster. To the tune of “A Dove on Distant Oaks.” A Miktam of Da
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Show mercy | <span class="asgreek">ελέησόν <sup><small><small>[[G1653]]</small></small></sup> </span> |
-| on me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God! | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| trampled | <span class="asgreek">κατεπάτησέ <sup><small><small>[[G2662]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| \[The\] entire | <span class="asgreek">όλην <sup><small><small>[[G3650]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέραν <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| in waging war | <span class="asgreek">πολεμών <sup><small><small>[[G4170]]</small></small></sup> </span> |
-| he afflicted | <span class="asgreek">έθλιψέ <sup><small><small>[[G2346]]</small></small></sup> </span> |
-| me. | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Show mercy | <big><span class="asgreek">ελέησόν</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| on me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God! | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| trampled | <big><span class="asgreek">κατεπάτησέ</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| \[The\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| in waging war | <big><span class="asgreek">πολεμών</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
+| he afflicted | <big><span class="asgreek">έθλιψέ</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
+| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.56.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.23|<< Psalm 55:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.2|Psalm 56:2 >>]]</td></tr></table>
 
 

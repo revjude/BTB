@@ -9,20 +9,20 @@ Listen to your father who gave you life, and do not despise your mother when she
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Hear, | <span class="asgreek">άκουε <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| O son, | <span class="asgreek">υιέ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| \[the\] father | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| engendering | <span class="asgreek">γεννήσαντός <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| disdain | <span class="asgreek">καταφρόνει <sup><small><small>[[G2706]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| has grown old | <span class="asgreek">γεγήρακέ <sup><small><small>[[G1095]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mother | <span class="asgreek">μήτηρ <sup><small><small>[[G3384]]</small></small></sup> </span> |
+| Hear, | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| O son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| \[the\] father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| engendering | <big><span class="asgreek">γεννήσαντός</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| disdain | <big><span class="asgreek">καταφρόνει</span></big> <sup><small><small>[[G2706]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| has grown old | <big><span class="asgreek">γεγήρακέ</span></big> <sup><small><small>[[G1095]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mother | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
 [[Prov.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.21|<< Proverbs 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.23|Proverbs 23:23 >>]]</td></tr></table>
 
 

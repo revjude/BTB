@@ -12,26 +12,26 @@ How you have fallen from heaven, O day star, son of the dawn! You have been cut 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| O how | <span class="asgreek">πως <sup><small><small>[[G4459]]</small></small></sup> </span> |
-| fell | <span class="asgreek">εξέπεσεν <sup><small><small>[[G1601]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heaven | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| morning star | <span class="asgreek">εωσφόρος <sup><small><small>[[G7596]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[by\] morning | <span class="asgreek">πρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| rising | <span class="asgreek">ανατέλλων <sup><small><small>[[G0393]]</small></small></sup> </span> |
-| was broken | <span class="asgreek">συνετρίβης <sup><small><small>[[G4937]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sending | <span class="asgreek">αποστέλλων <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
+| O how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
+| fell | <big><span class="asgreek">εξέπεσεν</span></big> <sup><small><small>[[G1601]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| morning star | <big><span class="asgreek">εωσφόρος</span></big> <sup><small><small>[[G7596]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[by\] morning | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| rising | <big><span class="asgreek">ανατέλλων</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
+| was broken | <big><span class="asgreek">συνετρίβης</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sending | <big><span class="asgreek">αποστέλλων</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
 [[Isa.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.11|<< Isaiah 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.13|Isaiah 14:13 >>]]</td></tr></table>
 
 

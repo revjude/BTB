@@ -9,52 +9,52 @@ All the king’s servants, and the people of the king’s provinces, do know, th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| that, | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| All | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| kingdom | <span class="asgreek">βασιλείας <sup><small><small>[[G0932]]</small></small></sup> </span> |
-| know | <span class="asgreek">γινώσκει <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| every | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| woman, | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| shall enter | <span class="asgreek">εισελεύσεται <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king, | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| courtyard | <span class="asgreek">αυλήν <sup><small><small>[[G0833]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| inner | <span class="asgreek">εσωτέραν <sup><small><small>[[G2082]]</small></small></sup> </span> |
-| uncalled, | <span class="asgreek">άκλητος <sup><small><small>[[G6189]]</small></small></sup> </span> |
-| there is no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| deliverance to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">σωτηρία <sup><small><small>[[G4991]]</small></small></sup> </span> |
-| except | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| to whomever | <span class="asgreek">ω <sup><small><small>[[G3739]]</small></small></sup> <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| stretches out | <span class="asgreek">εκτείνη <sup><small><small>[[G1614]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| golden | <span class="asgreek">χρυσήν <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| rod, | <span class="asgreek">ράβδον <sup><small><small>[[G4464]]</small></small></sup> </span> |
-| this one | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| shall be delivered; | <span class="asgreek">σωθήσεται <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| and I | <span class="asgreek">καγώ <sup><small><small>[[G2504]]</small></small></sup> </span> |
-| have not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| been called | <span class="asgreek">κέκλημαι <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| to enter | <span class="asgreek">εισελθείν <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king -- | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| they are | <span class="asgreek">εισίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| these | <span class="asgreek">αύται <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| days | <span class="asgreek">ημέραι <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| thirty | <span class="asgreek">τριάκοντα <sup><small><small>[[G5144]]</small></small></sup> </span> |
+| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| All | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| kingdom | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
+| know | <big><span class="asgreek">γινώσκει</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| woman, | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king, | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| courtyard | <big><span class="asgreek">αυλήν</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| inner | <big><span class="asgreek">εσωτέραν</span></big> <sup><small><small>[[G2082]]</small></small></sup> |
+| uncalled, | <big><span class="asgreek">άκλητος</span></big> <sup><small><small>[[G6189]]</small></small></sup> |
+| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| deliverance to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">σωτηρία</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
+| except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| to whomever | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| stretches out | <big><span class="asgreek">εκτείνη</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| golden | <big><span class="asgreek">χρυσήν</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| rod, | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
+| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| shall be delivered; | <big><span class="asgreek">σωθήσεται</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| and I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
+| have not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| been called | <big><span class="asgreek">κέκλημαι</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| to enter | <big><span class="asgreek">εισελθείν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king -- | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| they are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| these | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
 [[Esth.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.10|<< Esther 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.12|Esther 4:12 >>]]</td></tr></table>
 
 

@@ -9,22 +9,22 @@ I will make your forehead like a diamond, harder than flint. Do not be afraid of
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| always | <span class="asgreek">διαπαντός <sup><small><small>[[G1275]]</small></small></sup> </span> |
-| more strong | <span class="asgreek">κραταιότερον <sup><small><small>[[G2900]]</small></small></sup> </span> |
-| than a rock. | <span class="asgreek">πέτρας <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| You should not fear | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">φοβηθής <sup><small><small>[[G5399]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| nor | <span class="asgreek">μηδέ <sup><small><small>[[G3366]]</small></small></sup> </span> |
-| should you be terrified | <span class="asgreek">πτοηθής <sup><small><small>[[G4422]]</small></small></sup> </span> |
-| before | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| their face; | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκος <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| a rebellious | <span class="asgreek">παραπικραίνων <sup><small><small>[[G3893]]</small></small></sup> </span> |
-| it is | <span class="asgreek">εστί <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| always | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
+| more strong | <big><span class="asgreek">κραταιότερον</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
+| than a rock. | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| You should not fear | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">φοβηθής</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
+| should you be terrified | <big><span class="asgreek">πτοηθής</span></big> <sup><small><small>[[G4422]]</small></small></sup> |
+| before | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| their face; | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| a rebellious | <big><span class="asgreek">παραπικραίνων</span></big> <sup><small><small>[[G3893]]</small></small></sup> |
+| it is | <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Ezek.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.8|<< Ezekiel 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.10|Ezekiel 3:10 >>]]</td></tr></table>
 
 

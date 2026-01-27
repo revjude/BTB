@@ -9,33 +9,33 @@ Take wives and have sons and daughters. Take wives for your sons and give your d
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| take | <span class="asgreek">λάβετε <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| wives, | <span class="asgreek">γυναίκας <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| produce children, | <span class="asgreek">τεκνοποιήσατε <sup><small><small>[[G9411]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| daughters! | <span class="asgreek">θυγατέρας <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| take | <span class="asgreek">λάβετε <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| \[for\]\<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your sons | <span class="asgreek">υιοίς <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| wives, | <span class="asgreek">γυναίκας <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[for\]\<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your daughters | <span class="asgreek">θυγατέρας <sup><small><small>[[G2364]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| give | <span class="asgreek">δότε <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| husbands! | <span class="asgreek">ανδράσι <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall bear | <span class="asgreek">τέξονται <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| daughters, | <span class="asgreek">θυγατέρας <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall be multiplied, | <span class="asgreek">πληθύνεσθε <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall not be diminished. | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">σμικρυνθήτε <sup><small><small>[[G9126]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| take | <big><span class="asgreek">λάβετε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| wives, | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| produce children, | <big><span class="asgreek">τεκνοποιήσατε</span></big> <sup><small><small>[[G9411]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| daughters! | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| take | <big><span class="asgreek">λάβετε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| \[for\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| wives, | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[for\]\<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your daughters | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| give | <big><span class="asgreek">δότε</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| husbands! | <big><span class="asgreek">ανδράσι</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall bear | <big><span class="asgreek">τέξονται</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| daughters, | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall be multiplied, | <big><span class="asgreek">πληθύνεσθε</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall not be diminished. | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">σμικρυνθήτε</span></big> <sup><small><small>[[G9126]]</small></small></sup> |
 [[Jer.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.5|<< Jeremiah 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.7|Jeremiah 29:7 >>]]</td></tr></table>
 
 

@@ -9,29 +9,29 @@ When the LORD had torn Israel away from the house of David, they made Jeroboam s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Except that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| Israel was torn | <span class="asgreek">ερράγη <sup><small><small>[[G4486]]</small></small></sup> <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of David; | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they gave reign to | <span class="asgreek">εβασίλευσαν <sup><small><small>[[G0936]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jeroboam | <span class="asgreek">Ιεροβοάμ <sup><small><small>[[H3379]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόν <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Nebat. | <span class="asgreek">Ναβάτ <sup><small><small>[[H5028]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jeroboam banished | <span class="asgreek">εξέωσεν <sup><small><small>[[G1856]]</small></small></sup> <span class="asgreek">Ιεροβοάμ <sup><small><small>[[H3379]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| from following | <span class="asgreek">εξόπισθε <sup><small><small>[[G7348]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he led them into sin -- | <span class="asgreek">εξήμαρτεν <sup><small><small>[[G7292]]</small></small></sup> <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| sin | <span class="asgreek">αμαρτίαν <sup><small><small>[[G0266]]</small></small></sup> </span> |
-| a great | <span class="asgreek">μεγάλην <sup><small><small>[[G3173]]</small></small></sup> </span> |
+| Except that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| Israel was torn | <big><span class="asgreek">ερράγη</span></big> <sup><small><small>[[G4486]]</small></small></sup> <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of David; | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they gave reign to | <big><span class="asgreek">εβασίλευσαν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Nebat. | <big><span class="asgreek">Ναβάτ</span></big> <sup><small><small>[[H5028]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jeroboam banished | <big><span class="asgreek">εξέωσεν</span></big> <sup><small><small>[[G1856]]</small></small></sup> <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| from following | <big><span class="asgreek">εξόπισθε</span></big> <sup><small><small>[[G7348]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he led them into sin -- | <big><span class="asgreek">εξήμαρτεν</span></big> <sup><small><small>[[G7292]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
 [[2Kgs.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.20|<< 2 Kings 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.22|2 Kings 17:22 >>]]</td></tr></table>
 
 

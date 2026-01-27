@@ -9,30 +9,30 @@ Joshua recorded these things in the Book of the Law of God. Then he took a large
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Joshua wrote | <span class="asgreek">έγραψεν <sup><small><small>[[G1125]]</small></small></sup> <span class="asgreek">Ιησούς <sup><small><small>[[H3091]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| these things | <span class="asgreek">ρήματα <sup><small><small>[[G4487]]</small></small></sup> <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a scroll | <span class="asgreek">βιβλίον <sup><small><small>[[G0975]]</small></small></sup> </span> |
-| of \[the\] law | <span class="asgreek">νόμον <sup><small><small>[[G3551]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of God. | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| took | <span class="asgreek">έλαβεν <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| stone | <span class="asgreek">λίθον <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| a great | <span class="asgreek">μέγαν <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| set | <span class="asgreek">έστησεν <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Joshua | <span class="asgreek">Ιησούς <sup><small><small>[[H3091]]</small></small></sup> </span> |
-| there | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| under | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| terebinth tree | <span class="asgreek">τερέβινθον <sup><small><small>[[G9421]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| before | <span class="asgreek">απέναντι <sup><small><small>[[G0561]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Joshua wrote | <big><span class="asgreek">έγραψεν</span></big> <sup><small><small>[[G1125]]</small></small></sup> <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| these things | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a scroll | <big><span class="asgreek">βιβλίον</span></big> <sup><small><small>[[G0975]]</small></small></sup> |
+| of \[the\] law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| a great | <big><span class="asgreek">μέγαν</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| set | <big><span class="asgreek">έστησεν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Joshua | <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
+| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| terebinth tree | <big><span class="asgreek">τερέβινθον</span></big> <sup><small><small>[[G9421]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Josh.24.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.25|<< Joshua 24:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.27|Joshua 24:27 >>]]</td></tr></table>
 
 

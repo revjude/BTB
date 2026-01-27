@@ -9,40 +9,40 @@ When the Gazites heard that Samson was there, they surrounded that place and lay
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it was reported | <span class="asgreek">απηγγέλη <sup><small><small>[[G0518]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Gazites, | <span class="asgreek">Γαζαίοις <sup><small><small>[[H5841]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγοντες <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Samson comes | <span class="asgreek">ήκει <sup><small><small>[[G2240]]</small></small></sup> <span class="asgreek">Σαμψών <sup><small><small>[[G4546]]</small></small></sup> </span> |
-| here. | <span class="asgreek">ώδε <sup><small><small>[[G5602]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they encircled, | <span class="asgreek">κατεκύκλωσαν <sup><small><small>[[G7863]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| laid in wait | <span class="asgreek">ενήδρευσαν <sup><small><small>[[G1748]]</small></small></sup> </span> |
-| for | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the entire | <span class="asgreek">ολην <sup><small><small>[[G3650]]</small></small></sup> <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| night | <span class="asgreek">νύκτα <sup><small><small>[[G3571]]</small></small></sup> </span> |
-| at | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gate | <span class="asgreek">πύλης <sup><small><small>[[G4439]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| city. | <span class="asgreek">πόλεως <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they were silent | <span class="asgreek">εκωφεύσαν <sup><small><small>[[G8146]]</small></small></sup> </span> |
-| \[the\] entire | <span class="asgreek">όλην <sup><small><small>[[G3650]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| night, | <span class="asgreek">νύκτα <sup><small><small>[[G3571]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγοντες <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| light shows through | <span class="asgreek">διαφαύση <sup><small><small>[[G6898]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| at dawn | <span class="asgreek">όρθρος <sup><small><small>[[G3722]]</small></small></sup> </span> |
-| We should wait | <span class="asgreek">μείνωμεν <sup><small><small>[[G3306]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we should kill | <span class="asgreek">αποκτείνωμεν <sup><small><small>[[G0615]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it was reported | <big><span class="asgreek">απηγγέλη</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Gazites, | <big><span class="asgreek">Γαζαίοις</span></big> <sup><small><small>[[H5841]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Samson comes | <big><span class="asgreek">ήκει</span></big> <sup><small><small>[[G2240]]</small></small></sup> <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
+| here. | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they encircled, | <big><span class="asgreek">κατεκύκλωσαν</span></big> <sup><small><small>[[G7863]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| laid in wait | <big><span class="asgreek">ενήδρευσαν</span></big> <sup><small><small>[[G1748]]</small></small></sup> |
+| for | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the entire | <big><span class="asgreek">ολην</span></big> <sup><small><small>[[G3650]]</small></small></sup> <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| night | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| city. | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they were silent | <big><span class="asgreek">εκωφεύσαν</span></big> <sup><small><small>[[G8146]]</small></small></sup> |
+| \[the\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| night, | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| light shows through | <big><span class="asgreek">διαφαύση</span></big> <sup><small><small>[[G6898]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| at dawn | <big><span class="asgreek">όρθρος</span></big> <sup><small><small>[[G3722]]</small></small></sup> |
+| We should wait | <big><span class="asgreek">μείνωμεν</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we should kill | <big><span class="asgreek">αποκτείνωμεν</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Judg.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.1|<< Judges 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.3|Judges 16:3 >>]]</td></tr></table>
 
 

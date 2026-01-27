@@ -9,19 +9,19 @@ Surely in vain I have kept my heart pure; in innocence I have washed my hands.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I said, | <span class="asgreek">είπα <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Surely | <span class="asgreek">άρα <sup><small><small>[[G0686]]</small></small></sup> </span> |
-| in folly | <span class="asgreek">ματαίως <sup><small><small>[[G8260]]</small></small></sup> </span> |
-| I justified | <span class="asgreek">εδικαίωσα <sup><small><small>[[G1344]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my heart, | <span class="asgreek">καρδίαν <sup><small><small>[[G2588]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| washed | <span class="asgreek">ενιψάμην <sup><small><small>[[G3538]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| innocent \[things\] | <span class="asgreek">αθώοις <sup><small><small>[[G0121]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my hands | <span class="asgreek">χείράς <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Surely | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
+| in folly | <big><span class="asgreek">ματαίως</span></big> <sup><small><small>[[G8260]]</small></small></sup> |
+| I justified | <big><span class="asgreek">εδικαίωσα</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my heart, | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| washed | <big><span class="asgreek">ενιψάμην</span></big> <sup><small><small>[[G3538]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| innocent \[things\] | <big><span class="asgreek">αθώοις</span></big> <sup><small><small>[[G0121]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my hands | <big><span class="asgreek">χείράς</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.73.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.12|<< Psalm 73:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.14|Psalm 73:14 >>]]</td></tr></table>
 
 

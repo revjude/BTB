@@ -9,15 +9,15 @@ because they turned aside from Him and had no regard for any of His ways.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| they turned aside | <span class="asgreek">εξέκλιναν <sup><small><small>[[G1578]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] law | <span class="asgreek">νόμου <sup><small><small>[[G3551]]</small></small></sup> </span> |
-| of God; | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| ordinances | <span class="asgreek">δικαιώματα <sup><small><small>[[G1345]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| recognize | <span class="asgreek">επέγνωσαν <sup><small><small>[[G1921]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| they turned aside | <big><span class="asgreek">εξέκλιναν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] law | <big><span class="asgreek">νόμου</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
+| of God; | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| ordinances | <big><span class="asgreek">δικαιώματα</span></big> <sup><small><small>[[G1345]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| recognize | <big><span class="asgreek">επέγνωσαν</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
 [[Job.34.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.26|<< Job 34:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.28|Job 34:28 >>]]</td></tr></table>
 
 

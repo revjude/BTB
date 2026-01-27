@@ -9,28 +9,28 @@ The young lions have roared at him; they have sounded their voices. They have la
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| roar | <span class="asgreek">ωρύοντο <sup><small><small>[[G5612]]</small></small></sup> </span> |
-| \[the\] lions | <span class="asgreek">λέοντες <sup><small><small>[[G3023]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gave out | <span class="asgreek">έδωκαν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their voice | <span class="asgreek">φωνήν <sup><small><small>[[G5456]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the ones who | <span class="asgreek">οι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ordered | <span class="asgreek">έταξαν <sup><small><small>[[G5021]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his land | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| extinction | <span class="asgreek">αφανισμόν <sup><small><small>[[G0854]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they razed | <span class="asgreek">κατεσκάφησαν <sup><small><small>[[G2679]]</small></small></sup> </span> |
-| so as for | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| no one | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| to dwell. | <span class="asgreek">κατοικείσθαι <sup><small><small>[[G2730]]</small></small></sup> </span> |
+| Upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| roar | <big><span class="asgreek">ωρύοντο</span></big> <sup><small><small>[[G5612]]</small></small></sup> |
+| \[the\] lions | <big><span class="asgreek">λέοντες</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gave out | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ordered | <big><span class="asgreek">έταξαν</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| extinction | <big><span class="asgreek">αφανισμόν</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they razed | <big><span class="asgreek">κατεσκάφησαν</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
+| so as for | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| no one | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| to dwell. | <big><span class="asgreek">κατοικείσθαι</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
 [[Jer.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.14|<< Jeremiah 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.16|Jeremiah 2:16 >>]]</td></tr></table>
 
 

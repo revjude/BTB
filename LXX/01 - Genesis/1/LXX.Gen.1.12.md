@@ -9,35 +9,35 @@ The earth produced vegetation: seed-bearing plants according to their kinds and 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| brought forth | <span class="asgreek">εξήνεγκεν <sup><small><small>[[G1627]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| pasturage | <span class="asgreek">βοτάνην <sup><small><small>[[G1008]]</small></small></sup> </span> |
-| of grass | <span class="asgreek">χόρτου <sup><small><small>[[G5528]]</small></small></sup> </span> |
-| sowing | <span class="asgreek">σπείρον <sup><small><small>[[G4687]]</small></small></sup> </span> |
-| seed, | <span class="asgreek">σπέρμα <sup><small><small>[[G4690]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| type, | <span class="asgreek">γένος <sup><small><small>[[G1085]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| according to | <span class="asgreek">καθ΄ <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| likeness; | <span class="asgreek">ομοιότητα <sup><small><small>[[G3665]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| tree | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| \[the\] fruitful | <span class="asgreek">κάρπιμον <sup><small><small>[[G7802]]</small></small></sup> </span> |
-| producing | <span class="asgreek">ποιούν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| fruit | <span class="asgreek">καρπόν <sup><small><small>[[G2590]]</small></small></sup> </span> |
-| which | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seed | <span class="asgreek">σπέρμα <sup><small><small>[[G4690]]</small></small></sup> </span> |
-| of it | <span class="asgreek">αυτου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[is\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| type | <span class="asgreek">γένος <sup><small><small>[[G1085]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth. | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| brought forth | <big><span class="asgreek">εξήνεγκεν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| pasturage | <big><span class="asgreek">βοτάνην</span></big> <sup><small><small>[[G1008]]</small></small></sup> |
+| of grass | <big><span class="asgreek">χόρτου</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
+| sowing | <big><span class="asgreek">σπείρον</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
+| seed, | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| type, | <big><span class="asgreek">γένος</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| according to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| likeness; | <big><span class="asgreek">ομοιότητα</span></big> <sup><small><small>[[G3665]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| \[the\] fruitful | <big><span class="asgreek">κάρπιμον</span></big> <sup><small><small>[[G7802]]</small></small></sup> |
+| producing | <big><span class="asgreek">ποιούν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| fruit | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
+| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
+| of it | <big><span class="asgreek">αυτου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| type | <big><span class="asgreek">γένος</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
 [[Gen.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.11|<< Genesis 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.13|Genesis 1:13 >>]]</td></tr></table>
 
 

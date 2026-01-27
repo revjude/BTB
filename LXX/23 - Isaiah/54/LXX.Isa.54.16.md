@@ -9,29 +9,29 @@ Behold, I have created the craftsman who fans the coals into flame and forges a 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| created | <span class="asgreek">έκτισά <sup><small><small>[[G2936]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a brazier | <span class="asgreek">χαλκεύς <sup><small><small>[[G5471]]</small></small></sup> </span> |
-| blowing | <span class="asgreek">φυσών <sup><small><small>[[G9684]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a fire | <span class="asgreek">πυρί <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| of coals, | <span class="asgreek">άνθρακας <sup><small><small>[[G0440]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bringing forth | <span class="asgreek">εκφέρων <sup><small><small>[[G1627]]</small></small></sup> </span> |
-| a utensil | <span class="asgreek">σκεύος <sup><small><small>[[G4632]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| work; | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| but I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| created | <span class="asgreek">έκτισά <sup><small><small>[[G2936]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| destruction | <span class="asgreek">απώλειαν <sup><small><small>[[G0684]]</small></small></sup> </span> |
-| to corrupt. | <span class="asgreek">φθείραι <sup><small><small>[[G5351]]</small></small></sup> </span> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| created | <big><span class="asgreek">έκτισά</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a brazier | <big><span class="asgreek">χαλκεύς</span></big> <sup><small><small>[[G5471]]</small></small></sup> |
+| blowing | <big><span class="asgreek">φυσών</span></big> <sup><small><small>[[G9684]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a fire | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| of coals, | <big><span class="asgreek">άνθρακας</span></big> <sup><small><small>[[G0440]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bringing forth | <big><span class="asgreek">εκφέρων</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
+| a utensil | <big><span class="asgreek">σκεύος</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| work; | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| but I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| created | <big><span class="asgreek">έκτισά</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| destruction | <big><span class="asgreek">απώλειαν</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
+| to corrupt. | <big><span class="asgreek">φθείραι</span></big> <sup><small><small>[[G5351]]</small></small></sup> |
 [[Isa.54.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.15|<< Isaiah 54:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.17|Isaiah 54:17 >>]]</td></tr></table>
 
 

@@ -9,24 +9,24 @@ This is what they are to you—those with whom you have labored and traded from 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| these | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| shall be | <span class="asgreek">έσονταί <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| your | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| help. | <span class="asgreek">βοήθεια <sup><small><small>[[G0996]]</small></small></sup> </span> |
-| You tired | <span class="asgreek">εκοπίασας <sup><small><small>[[G2872]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| revolt | <span class="asgreek">μεταβολή <sup><small><small>[[G8294]]</small></small></sup> </span> |
-| from | <span class="asgreek">απο <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your youth. | <span class="asgreek">νεότητός <sup><small><small>[[G3503]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| A man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| by | <span class="asgreek">καθ΄ <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| himself | <span class="asgreek">εαυτόν <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| wanders | <span class="asgreek">επλανήθη <sup><small><small>[[G4105]]</small></small></sup> </span> |
-| but to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| there will be no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| deliverance. | <span class="asgreek">σωτηρία <sup><small><small>[[G4991]]</small></small></sup> </span> |
+| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| shall be | <big><span class="asgreek">έσονταί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| your | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| help. | <big><span class="asgreek">βοήθεια</span></big> <sup><small><small>[[G0996]]</small></small></sup> |
+| You tired | <big><span class="asgreek">εκοπίασας</span></big> <sup><small><small>[[G2872]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| revolt | <big><span class="asgreek">μεταβολή</span></big> <sup><small><small>[[G8294]]</small></small></sup> |
+| from | <big><span class="asgreek">απο</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your youth. | <big><span class="asgreek">νεότητός</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| by | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| himself | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| wanders | <big><span class="asgreek">επλανήθη</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
+| but to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| there will be no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| deliverance. | <big><span class="asgreek">σωτηρία</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
 [[Isa.47.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.14|<< Isaiah 47:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.1|Isaiah 48:1 >>]]</td></tr></table>
 
 

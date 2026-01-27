@@ -9,31 +9,31 @@ In keeping with the forty days you spied out the land, you shall bear your guilt
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| According to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| number | <span class="asgreek">αριθμόν <sup><small><small>[[G0706]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| days, | <span class="asgreek">ημερών <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| as many as | <span class="asgreek">όσας <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| you surveyed | <span class="asgreek">κατεσκέψασθε <sup><small><small>[[G7919]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land -- | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| forty | <span class="asgreek">τεσσαράκοντα <sup><small><small>[[G5062]]</small></small></sup> </span> |
-| days; | <span class="asgreek">ημέρας <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| a day | <span class="asgreek">ημέραν <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| for the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| year | <span class="asgreek">ενιαυτού <sup><small><small>[[G1763]]</small></small></sup> </span> |
-| you will take | <span class="asgreek">λήψεσθε <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for your sins -- | <span class="asgreek">αμαρτίας <sup><small><small>[[G0266]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| forty | <span class="asgreek">τεσσαράκοντα <sup><small><small>[[G5062]]</small></small></sup> </span> |
-| years; | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall know | <span class="asgreek">γνώσεσθε <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rage | <span class="asgreek">θυμόν <sup><small><small>[[G2372]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of my anger. | <span class="asgreek">οργής <sup><small><small>[[G3709]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| days, | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| as many as | <big><span class="asgreek">όσας</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| you surveyed | <big><span class="asgreek">κατεσκέψασθε</span></big> <sup><small><small>[[G7919]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land -- | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
+| days; | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| a day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| year | <big><span class="asgreek">ενιαυτού</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
+| you will take | <big><span class="asgreek">λήψεσθε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for your sins -- | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
+| years; | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall know | <big><span class="asgreek">γνώσεσθε</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of my anger. | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Num.14.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.33|<< Numbers 14:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.35|Numbers 14:35 >>]]</td></tr></table>
 
 

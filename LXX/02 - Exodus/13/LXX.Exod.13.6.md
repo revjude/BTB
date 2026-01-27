@@ -9,16 +9,16 @@ For seven days you are to eat unleavened bread, and on the seventh day there sha
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Six | <span class="asgreek">εξ <sup><small><small>[[G1803]]</small></small></sup> </span> |
-| days | <span class="asgreek">ημέρας <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| you shall eat | <span class="asgreek">έδεσθε <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| unleavened \[breads\], | <span class="asgreek">άζυμα <sup><small><small>[[G0106]]</small></small></sup> </span> |
-| but the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seventh | <span class="asgreek">εβδόμη <sup><small><small>[[G1442]]</small></small></sup> </span> |
-| \[is a\] holiday | <span class="asgreek">εορτή <sup><small><small>[[G1859]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| Six | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1803]]</small></small></sup> |
+| days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| you shall eat | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| unleavened \[breads\], | <big><span class="asgreek">άζυμα</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
+| but the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
+| \[is a\] holiday | <big><span class="asgreek">εορτή</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Exod.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.5|<< Exodus 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.7|Exodus 13:7 >>]]</td></tr></table>
 
 

@@ -9,25 +9,25 @@ The four horns that replaced the broken one represent four kingdoms that will ri
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one being broken, | <span class="asgreek">συντριβέντος <sup><small><small>[[G4937]]</small></small></sup> </span> |
-| of which | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| stood | <span class="asgreek">έστησαν <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| four | <span class="asgreek">τέσσαρα <sup><small><small>[[G5064]]</small></small></sup> </span> |
-| horns | <span class="asgreek">κέρατα <sup><small><small>[[G2768]]</small></small></sup> </span> |
-| underneath -- | <span class="asgreek">υποκάτω <sup><small><small>[[G5270]]</small></small></sup> </span> |
-| four | <span class="asgreek">τέσσαρες <sup><small><small>[[G5064]]</small></small></sup> </span> |
-| kings | <span class="asgreek">βασιλείς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his nation | <span class="asgreek">έθνους <sup><small><small>[[G1484]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall rise up, | <span class="asgreek">αναστήσονται <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his strength. | <span class="asgreek">ισχύϊ αυτού <sup><small><small>[[G2479]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one being broken, | <big><span class="asgreek">συντριβέντος</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| stood | <big><span class="asgreek">έστησαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| horns | <big><span class="asgreek">κέρατα</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
+| underneath -- | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
+| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his nation | <big><span class="asgreek">έθνους</span></big> <sup><small><small>[[G1484]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall rise up, | <big><span class="asgreek">αναστήσονται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his strength. | <big><span class="asgreek">ισχύϊ αυτού</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
 [[Dan.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.21|<< Daniel 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.23|Daniel 8:23 >>]]</td></tr></table>
 
 

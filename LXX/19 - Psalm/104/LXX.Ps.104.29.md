@@ -9,21 +9,21 @@ When You hide Your face, they are terrified; when You take away their breath, th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But \[at the\] turning | <span class="asgreek">αποστρέψαντος <sup><small><small>[[G0654]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| face | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| they shall be disturbed; | <span class="asgreek">ταραχθήσονται <sup><small><small>[[G5015]]</small></small></sup> </span> |
-| you shall take away in return | <span class="asgreek">αντανελείς <sup><small><small>[[G6357]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their spirit, | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall fail, | <span class="asgreek">εκλείψουσι <sup><small><small>[[G1587]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their dust | <span class="asgreek">χουν <sup><small><small>[[G5522]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall return. | <span class="asgreek">επιστρέψουσιν <sup><small><small>[[G1994]]</small></small></sup> </span> |
+| But \[at the\] turning | <big><span class="asgreek">αποστρέψαντος</span></big> <sup><small><small>[[G0654]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| they shall be disturbed; | <big><span class="asgreek">ταραχθήσονται</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
+| you shall take away in return | <big><span class="asgreek">αντανελείς</span></big> <sup><small><small>[[G6357]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their spirit, | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall fail, | <big><span class="asgreek">εκλείψουσι</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their dust | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall return. | <big><span class="asgreek">επιστρέψουσιν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
 [[Ps.104.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.28|<< Psalm 104:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.30|Psalm 104:30 >>]]</td></tr></table>
 
 

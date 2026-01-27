@@ -9,26 +9,26 @@ So I issued a decree that all the wise men of Babylon be brought before me to in
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| by | <span class="asgreek">δι΄ <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| was made | <span class="asgreek">ετέθη <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| a decree | <span class="asgreek">δόγμα <sup><small><small>[[G1378]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to bring in | <span class="asgreek">εισαγαγείν <sup><small><small>[[G1521]]</small></small></sup> </span> |
-| before | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wise men | <span class="asgreek">σοφούς <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| of Babylon, | <span class="asgreek">Βαβυλώνος <sup><small><small>[[G0897]]</small></small></sup> </span> |
-| so that | <span class="asgreek">όπως <sup><small><small>[[G3704]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| interpretation | <span class="asgreek">σύγκρισιν <sup><small><small>[[G9241]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dream | <span class="asgreek">ενυπνίου <sup><small><small>[[G1798]]</small></small></sup> </span> |
-| they should make known | <span class="asgreek">γνωρίσωσί <sup><small><small>[[G1107]]</small></small></sup> </span> |
-| to me. | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| by | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was made | <big><span class="asgreek">ετέθη</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| a decree | <big><span class="asgreek">δόγμα</span></big> <sup><small><small>[[G1378]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to bring in | <big><span class="asgreek">εισαγαγείν</span></big> <sup><small><small>[[G1521]]</small></small></sup> |
+| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wise men | <big><span class="asgreek">σοφούς</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| of Babylon, | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dream | <big><span class="asgreek">ενυπνίου</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
+| they should make known | <big><span class="asgreek">γνωρίσωσί</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
+| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Dan.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.5|<< Daniel 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.7|Daniel 4:7 >>]]</td></tr></table>
 
 

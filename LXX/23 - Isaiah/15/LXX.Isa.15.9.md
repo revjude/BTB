@@ -9,27 +9,27 @@ The waters of Dimon are full of blood, but I will bring more upon Dimon—a lion
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Dimon | <span class="asgreek">Διβών <sup><small><small>[[H1775]]</small></small></sup> </span> |
-| shall be filled | <span class="asgreek">πλησθήσεται <sup><small><small>[[G4130]]</small></small></sup> </span> |
-| with blood. | <span class="asgreek">αίματος <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| For I shall bring | <span class="asgreek">επάξω <sup><small><small>[[G1863]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| Dimon | <span class="asgreek">Διβών <sup><small><small>[[H1775]]</small></small></sup> </span> |
-| \[the\] Arabians, | <span class="asgreek">Άραβας <sup><small><small>[[G0688]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will lift away | <span class="asgreek">αρώ <sup><small><small>[[G0142]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seed | <span class="asgreek">σπέρμα <sup><small><small>[[G4690]]</small></small></sup> </span> |
-| of Moab, | <span class="asgreek">Μωάβ <sup><small><small>[[H6355]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ariel, | <span class="asgreek">Αριήλ <sup><small><small>[[H0740]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| remnant | <span class="asgreek">κατάλοιπον <sup><small><small>[[G2645]]</small></small></sup> </span> |
-| of Adama. | <span class="asgreek">Άδαμα <sup><small><small>[[H0128]]</small></small></sup> </span> |
+| For the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Dimon | <big><span class="asgreek">Διβών</span></big> <sup><small><small>[[H1775]]</small></small></sup> |
+| shall be filled | <big><span class="asgreek">πλησθήσεται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
+| with blood. | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| For I shall bring | <big><span class="asgreek">επάξω</span></big> <sup><small><small>[[G1863]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| Dimon | <big><span class="asgreek">Διβών</span></big> <sup><small><small>[[H1775]]</small></small></sup> |
+| \[the\] Arabians, | <big><span class="asgreek">Άραβας</span></big> <sup><small><small>[[G0688]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will lift away | <big><span class="asgreek">αρώ</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seed | <big><span class="asgreek">σπέρμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
+| of Moab, | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ariel, | <big><span class="asgreek">Αριήλ</span></big> <sup><small><small>[[H0740]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| remnant | <big><span class="asgreek">κατάλοιπον</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
+| of Adama. | <big><span class="asgreek">Άδαμα</span></big> <sup><small><small>[[H0128]]</small></small></sup> |
 [[Isa.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.8|<< Isaiah 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.1|Isaiah 16:1 >>]]</td></tr></table>
 
 

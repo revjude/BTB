@@ -9,32 +9,32 @@ And Joab reported to the king the total number of the troops. In Israel there we
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Joab gave | <span class="asgreek">έδωκεν <sup><small><small>[[G1325]]</small></small></sup> <span class="asgreek">Ιωάβ <sup><small><small>[[H3097]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| number | <span class="asgreek">αριθμόν <sup><small><small>[[G0706]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| numbering | <span class="asgreek">επισκέψεως <sup><small><small>[[G7448]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king. | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| eight hundred | <span class="asgreek">οκτακόσιαι <sup><small><small>[[G8476]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάδες <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανδρών <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| of \[the\] force | <span class="asgreek">δυνάμεως <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| unsheathing | <span class="asgreek">σπωμένων <sup><small><small>[[G4685]]</small></small></sup> </span> |
-| \[the\] broadsword. | <span class="asgreek">ρομφαίαν <sup><small><small>[[G4501]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| men | <span class="asgreek">άνδρες <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| of Judah -- | <span class="asgreek">Ιούδα <sup><small><small>[[G2448]]</small></small></sup> </span> |
-| five hundred | <span class="asgreek">πεντακόσιαι <sup><small><small>[[G4001]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάδες <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανδρών <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| warriors. | <span class="asgreek">μαχητών <sup><small><small>[[G8263]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Joab gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| numbering | <big><span class="asgreek">επισκέψεως</span></big> <sup><small><small>[[G7448]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king. | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| eight hundred | <big><span class="asgreek">οκτακόσιαι</span></big> <sup><small><small>[[G8476]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| of \[the\] force | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| unsheathing | <big><span class="asgreek">σπωμένων</span></big> <sup><small><small>[[G4685]]</small></small></sup> |
+| \[the\] broadsword. | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| of Judah -- | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| five hundred | <big><span class="asgreek">πεντακόσιαι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| warriors. | <big><span class="asgreek">μαχητών</span></big> <sup><small><small>[[G8263]]</small></small></sup> |
 [[2Sam.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.8|<< 2 Samuel 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.10|2 Samuel 24:10 >>]]</td></tr></table>
 
 

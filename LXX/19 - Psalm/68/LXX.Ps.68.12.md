@@ -9,18 +9,18 @@ Kings of armies did flee apace: and she that tarried at home divided the spoil.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| forces | <span class="asgreek">δυνάμεων <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| beloved, | <span class="asgreek">αγαπητού <sup><small><small>[[G0027]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| beauty | <span class="asgreek">ωραιότητι <sup><small><small>[[G9814]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| to divide | <span class="asgreek">διελέσθαι <sup><small><small>[[G1244]]</small></small></sup> </span> |
-| \[the\] spoils. | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| forces | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| beloved, | <big><span class="asgreek">αγαπητού</span></big> <sup><small><small>[[G0027]]</small></small></sup> |
+| for the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| beauty | <big><span class="asgreek">ωραιότητι</span></big> <sup><small><small>[[G9814]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| to divide | <big><span class="asgreek">διελέσθαι</span></big> <sup><small><small>[[G1244]]</small></small></sup> |
+| \[the\] spoils. | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
 [[Ps.68.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.11|<< Psalm 68:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.13|Psalm 68:13 >>]]</td></tr></table>
 
 

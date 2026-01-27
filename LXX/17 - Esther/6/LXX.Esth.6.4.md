@@ -9,42 +9,42 @@ And the king said, Who [is] in the court? Now Haman was come into the outward co
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And during | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| inquiring | <span class="asgreek">πυνθάνεσθαι <sup><small><small>[[G4441]]</small></small></sup> </span> |
-| by the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| concerning | <span class="asgreek">περί <sup><small><small>[[G4012]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| good-will | <span class="asgreek">ευνοίας <sup><small><small>[[G2133]]</small></small></sup> </span> |
-| of Mordecai, | <span class="asgreek">Μαρδοχαίου <sup><small><small>[[H4782]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| Haman | <span class="asgreek">Αμάν <sup><small><small>[[H2001]]</small></small></sup> </span> |
-| \[was\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| courtyard. | <span class="asgreek">αυλή <sup><small><small>[[G0833]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \[is\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| courtyard? | <span class="asgreek">αυλή <sup><small><small>[[G0833]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| he entered | <span class="asgreek">εισήλθεν <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| to speak | <span class="asgreek">ειπείν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| to hang | <span class="asgreek">κρέμασαι <sup><small><small>[[G2910]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Mordecai | <span class="asgreek">Μαρδοχαίον <sup><small><small>[[H4782]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tree | <span class="asgreek">ξύλω <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| which | <span class="asgreek">ω <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he prepared. | <span class="asgreek">ητοίμασε <sup><small><small>[[G2090]]</small></small></sup> </span> |
+| And during | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| inquiring | <big><span class="asgreek">πυνθάνεσθαι</span></big> <sup><small><small>[[G4441]]</small></small></sup> |
+| by the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| concerning | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| good-will | <big><span class="asgreek">ευνοίας</span></big> <sup><small><small>[[G2133]]</small></small></sup> |
+| of Mordecai, | <big><span class="asgreek">Μαρδοχαίου</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| Haman | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
+| \[was\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| courtyard. | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
+| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| courtyard? | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| he entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| to speak | <big><span class="asgreek">ειπείν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| to hang | <big><span class="asgreek">κρέμασαι</span></big> <sup><small><small>[[G2910]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Mordecai | <big><span class="asgreek">Μαρδοχαίον</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tree | <big><span class="asgreek">ξύλω</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he prepared. | <big><span class="asgreek">ητοίμασε</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
 [[Esth.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.3|<< Esther 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.5|Esther 6:5 >>]]</td></tr></table>
 
 

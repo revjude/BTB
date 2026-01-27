@@ -9,27 +9,27 @@ Now let them remove far from Me their prostitution and the funeral offerings for
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| now, | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| thrust away | <span class="asgreek">απωσάσθωσαν <sup><small><small>[[G0683]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their harlotry | <span class="asgreek">πορνείαν <sup><small><small>[[G4202]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| murders | <span class="asgreek">φόνους <sup><small><small>[[G5408]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| leading | <span class="asgreek">ηγουμένων <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will encamp | <span class="asgreek">κατασκηνώσω <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] midst | <span class="asgreek">μέσω <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| of them | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eon. | <span class="asgreek">αιώνα <sup><small><small>[[G0165]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| thrust away | <big><span class="asgreek">απωσάσθωσαν</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their harlotry | <big><span class="asgreek">πορνείαν</span></big> <sup><small><small>[[G4202]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| murders | <big><span class="asgreek">φόνους</span></big> <sup><small><small>[[G5408]]</small></small></sup> |
+| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| leading | <big><span class="asgreek">ηγουμένων</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will encamp | <big><span class="asgreek">κατασκηνώσω</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eon. | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
 [[Ezek.43.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.8|<< Ezekiel 43:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.10|Ezekiel 43:10 >>]]</td></tr></table>
 
 

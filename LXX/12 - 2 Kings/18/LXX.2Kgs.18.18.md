@@ -9,30 +9,30 @@ Then they called for the king. And Eliakim son of Hilkiah the palace administrat
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they yelled | <span class="asgreek">εβοήσαν <sup><small><small>[[G0994]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Hezekiah. | <span class="asgreek">Εζεκίαν <sup><small><small>[[G1478]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| came | <span class="asgreek">εξήλθε <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Eliakim | <span class="asgreek">Ελιακίμ <sup><small><small>[[H0494]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Hilkiah | <span class="asgreek">Χελκίου <sup><small><small>[[H2518]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| manager | <span class="asgreek">οικονόμος <sup><small><small>[[G3623]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shebna | <span class="asgreek">Σωβνάς <sup><small><small>[[H7644]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| scribe, | <span class="asgreek">γραμματεύς <sup><small><small>[[G1122]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Joah | <span class="asgreek">Ιωάχ <sup><small><small>[[H3098]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Asaph | <span class="asgreek">Ασάφ <sup><small><small>[[H0623]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one taking record. | <span class="asgreek">αναμιμνήσκων <sup><small><small>[[G0363]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they yelled | <big><span class="asgreek">εβοήσαν</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Hezekiah. | <big><span class="asgreek">Εζεκίαν</span></big> <sup><small><small>[[G1478]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| came | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Eliakim | <big><span class="asgreek">Ελιακίμ</span></big> <sup><small><small>[[H0494]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Hilkiah | <big><span class="asgreek">Χελκίου</span></big> <sup><small><small>[[H2518]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| manager | <big><span class="asgreek">οικονόμος</span></big> <sup><small><small>[[G3623]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shebna | <big><span class="asgreek">Σωβνάς</span></big> <sup><small><small>[[H7644]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| scribe, | <big><span class="asgreek">γραμματεύς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Joah | <big><span class="asgreek">Ιωάχ</span></big> <sup><small><small>[[H3098]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Asaph | <big><span class="asgreek">Ασάφ</span></big> <sup><small><small>[[H0623]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one taking record. | <big><span class="asgreek">αναμιμνήσκων</span></big> <sup><small><small>[[G0363]]</small></small></sup> |
 [[2Kgs.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.17|<< 2 Kings 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.19|2 Kings 18:19 >>]]</td></tr></table>
 
 

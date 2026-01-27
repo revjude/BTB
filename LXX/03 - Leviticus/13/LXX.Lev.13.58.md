@@ -9,33 +9,33 @@ If the mildew disappears from the fabric, weave, or knit, or any leather article
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| garment, | <span class="asgreek">ιμάτιον <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| warp, | <span class="asgreek">στήμων <sup><small><small>[[G9175]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| woof, | <span class="asgreek">κρόκη <sup><small><small>[[G8097]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| any | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| item | <span class="asgreek">σκεύος <sup><small><small>[[G4632]]</small></small></sup> </span> |
-| made of skin | <span class="asgreek">δερμάτινον <sup><small><small>[[G1193]]</small></small></sup> </span> |
-| which | <span class="asgreek">ο <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| shall be washed, | <span class="asgreek">πλυθήσεται <sup><small><small>[[G4150]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| leaves | <span class="asgreek">αποστήσεται <sup><small><small>[[G0868]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| infection | <span class="asgreek">αφή <sup><small><small>[[G0860]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall be washed | <span class="asgreek">πλυθήσεται <sup><small><small>[[G4150]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| second \[time\], | <span class="asgreek">δεύτερον <sup><small><small>[[G1208]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall be clean. | <span class="asgreek">καθαρόν <sup><small><small>[[G2513]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| garment, | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| warp, | <big><span class="asgreek">στήμων</span></big> <sup><small><small>[[G9175]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| woof, | <big><span class="asgreek">κρόκη</span></big> <sup><small><small>[[G8097]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| item | <big><span class="asgreek">σκεύος</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
+| made of skin | <big><span class="asgreek">δερμάτινον</span></big> <sup><small><small>[[G1193]]</small></small></sup> |
+| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| shall be washed, | <big><span class="asgreek">πλυθήσεται</span></big> <sup><small><small>[[G4150]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| leaves | <big><span class="asgreek">αποστήσεται</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall be washed | <big><span class="asgreek">πλυθήσεται</span></big> <sup><small><small>[[G4150]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| second \[time\], | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall be clean. | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Lev.13.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.57|<< Leviticus 13:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.59|Leviticus 13:59 >>]]</td></tr></table>
 
 

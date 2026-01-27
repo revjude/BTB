@@ -9,13 +9,13 @@ Haughty eyes and a proud heart—the guides of the wicked—are sin.<small><sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A high-minded man | <span class="asgreek">μεγαλόφρων <sup><small><small>[[G8272]]</small></small></sup> </span> |
-| in | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[his\] insolence | <span class="asgreek">ύβρει <sup><small><small>[[G5196]]</small></small></sup> </span> |
-| is bold-hearted | <span class="asgreek">θρασυκάρδιος <sup><small><small>[[G7684]]</small></small></sup> </span> |
-| and \[the\] torch | <span class="asgreek">λαμπτήρ <sup><small><small>[[G8160]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of \[the\] impious | <span class="asgreek">ασεβών <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| \[is\] sin. | <span class="asgreek">αμαρτία <sup><small><small>[[G0266]]</small></small></sup> </span> |
+| A high-minded man | <big><span class="asgreek">μεγαλόφρων</span></big> <sup><small><small>[[G8272]]</small></small></sup> |
+| in | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[his\] insolence | <big><span class="asgreek">ύβρει</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
+| is bold-hearted | <big><span class="asgreek">θρασυκάρδιος</span></big> <sup><small><small>[[G7684]]</small></small></sup> |
+| and \[the\] torch | <big><span class="asgreek">λαμπτήρ</span></big> <sup><small><small>[[G8160]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of \[the\] impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| \[is\] sin. | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
 [[Prov.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.3|<< Proverbs 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.5|Proverbs 21:5 >>]]</td></tr></table>
 
 

@@ -9,25 +9,25 @@ For the conduct of the queen will become known to all women, causing them to des
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| (for | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| he described | <span class="asgreek">διηγήσατο <sup><small><small>[[G1334]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sayings | <span class="asgreek">ρήματα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| queen) | <span class="asgreek">βασιλίσσης <sup><small><small>[[G0938]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| how | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| she contradicted | <span class="asgreek">αντείπε <sup><small><small>[[G0471]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king, | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| then | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| she did contradict | <span class="asgreek">αντείπε <sup><small><small>[[G0471]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| Artaxerxes, | <span class="asgreek">Αρταξέρξη <sup><small><small>[[H0783b]]</small></small></sup> </span> |
+| (for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| he described | <big><span class="asgreek">διηγήσατο</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sayings | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| queen) | <big><span class="asgreek">βασιλίσσης</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| how | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| she contradicted | <big><span class="asgreek">αντείπε</span></big> <sup><small><small>[[G0471]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king, | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| she did contradict | <big><span class="asgreek">αντείπε</span></big> <sup><small><small>[[G0471]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| Artaxerxes, | <big><span class="asgreek">Αρταξέρξη</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
 [[Esth.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.16|<< Esther 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.18|Esther 1:18 >>]]</td></tr></table>
 
 

@@ -14,22 +14,22 @@ A Psalm of David. Ascribe to the LORD, O heavenly beings, ascribe to the LORD gl
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Bring | <span class="asgreek">ενέγκατε <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| O sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of God, | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| bring | <span class="asgreek">ενέγκατε <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| offspring | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of rams! | <span class="asgreek">κριών <sup><small><small>[[G8096]]</small></small></sup> </span> |
-| Bring | <span class="asgreek">ενέγκατε <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| glory | <span class="asgreek">δόξαν <sup><small><small>[[G1391]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| honor! | <span class="asgreek">τιμήν <sup><small><small>[[G5092]]</small></small></sup> </span> |
+| Bring | <big><span class="asgreek">ενέγκατε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| O sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| bring | <big><span class="asgreek">ενέγκατε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| offspring | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of rams! | <big><span class="asgreek">κριών</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| Bring | <big><span class="asgreek">ενέγκατε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| glory | <big><span class="asgreek">δόξαν</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| honor! | <big><span class="asgreek">τιμήν</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
 [[Ps.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.9|<< Psalm 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.2|Psalm 29:2 >>]]</td></tr></table>
 
 

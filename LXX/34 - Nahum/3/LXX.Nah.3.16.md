@@ -9,18 +9,18 @@ You have multiplied your merchants more than the stars of the sky. The young loc
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You multiplied | <span class="asgreek">επλήθυνας <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your trade | <span class="asgreek">εμπορίας <sup><small><small>[[G1711]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| above | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| stars | <span class="asgreek">άστρα <sup><small><small>[[G0798]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heaven. | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| \[The\] grasshopper | <span class="asgreek">βρούχος <sup><small><small>[[G6700]]</small></small></sup> </span> |
-| advanced | <span class="asgreek">ώρμησε <sup><small><small>[[G3729]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| spread forth. | <span class="asgreek">εξεπετάσθη <sup><small><small>[[G1600]]</small></small></sup> </span> |
+| You multiplied | <big><span class="asgreek">επλήθυνας</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your trade | <big><span class="asgreek">εμπορίας</span></big> <sup><small><small>[[G1711]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| stars | <big><span class="asgreek">άστρα</span></big> <sup><small><small>[[G0798]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heaven. | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| \[The\] grasshopper | <big><span class="asgreek">βρούχος</span></big> <sup><small><small>[[G6700]]</small></small></sup> |
+| advanced | <big><span class="asgreek">ώρμησε</span></big> <sup><small><small>[[G3729]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| spread forth. | <big><span class="asgreek">εξεπετάσθη</span></big> <sup><small><small>[[G1600]]</small></small></sup> |
 [[Nah.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.15|<< Nahum 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.17|Nahum 3:17 >>]]</td></tr></table>
 
 

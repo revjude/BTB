@@ -9,22 +9,22 @@ And Babylon, the jewel of the kingdoms, the glory of the pride of the Chaldeans,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Babylon will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> <span class="asgreek">Βαβυλών <sup><small><small>[[G0897]]</small></small></sup> </span> |
-| (\[the place\] which | <span class="asgreek">η <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| is called | <span class="asgreek">καλείται <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| honorable | <span class="asgreek">ένδοξος <sup><small><small>[[G1741]]</small></small></sup> </span> |
-| by | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] king | <span class="asgreek">βασιλέων <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of \[the\] Chaldeans) | <span class="asgreek">Χαλδαίων <sup><small><small>[[G5466]]</small></small></sup> </span> |
-| in which | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| manner | <span class="asgreek">τρόπον <sup><small><small>[[G5158]]</small></small></sup> </span> |
-| eradicated | <span class="asgreek">κατέστρεψεν <sup><small><small>[[G2690]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| Sodom | <span class="asgreek">Σόδομα <sup><small><small>[[G4670]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Gomorrah. | <span class="asgreek">Γόμορρα <sup><small><small>[[G1116]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Babylon will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Βαβυλών</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| (\[the place\] which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| is called | <big><span class="asgreek">καλείται</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| honorable | <big><span class="asgreek">ένδοξος</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
+| by | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] king | <big><span class="asgreek">βασιλέων</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of \[the\] Chaldeans) | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
+| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
+| eradicated | <big><span class="asgreek">κατέστρεψεν</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| Sodom | <big><span class="asgreek">Σόδομα</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Gomorrah. | <big><span class="asgreek">Γόμορρα</span></big> <sup><small><small>[[G1116]]</small></small></sup> |
 [[Isa.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.18|<< Isaiah 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.20|Isaiah 13:20 >>]]</td></tr></table>
 
 

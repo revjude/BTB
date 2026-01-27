@@ -9,24 +9,24 @@ And the descendants of Bela from Ard and Naaman were the Ardite clan from Ard an
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| were | <span class="asgreek">εγένοντο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Bela -- | <span class="asgreek">Βαλέ <sup><small><small>[[H1106a]]</small></small></sup> </span> |
-| Ard | <span class="asgreek">Άδαρ <sup><small><small>[[H0714]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Naaman. | <span class="asgreek">Νοεμάν <sup><small><small>[[G3497]]</small></small></sup> </span> |
-| \[To\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Ard, | <span class="asgreek">Άδαρ <sup><small><small>[[H2301]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Ardites; | <span class="asgreek">Αδαρί <sup><small><small>[[H0714]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Naaman, | <span class="asgreek">Νοεμάν <sup><small><small>[[G3497]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Naamites. | <span class="asgreek">Νοεμανί <sup><small><small>[[G3497]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Bela -- | <big><span class="asgreek">Βαλέ</span></big> <sup><small><small>[[H1106a]]</small></small></sup> |
+| Ard | <big><span class="asgreek">Άδαρ</span></big> <sup><small><small>[[H0714]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Naaman. | <big><span class="asgreek">Νοεμάν</span></big> <sup><small><small>[[G3497]]</small></small></sup> |
+| \[To\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Ard, | <big><span class="asgreek">Άδαρ</span></big> <sup><small><small>[[H2301]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Ardites; | <big><span class="asgreek">Αδαρί</span></big> <sup><small><small>[[H0714]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Naaman, | <big><span class="asgreek">Νοεμάν</span></big> <sup><small><small>[[G3497]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Naamites. | <big><span class="asgreek">Νοεμανί</span></big> <sup><small><small>[[G3497]]</small></small></sup> |
 [[Num.26.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.39|<< Numbers 26:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.41|Numbers 26:41 >>]]</td></tr></table>
 
 

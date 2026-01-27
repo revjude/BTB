@@ -9,32 +9,32 @@ Abijah went into battle with an army of 400,000 chosen men, while Jeroboam drew 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Abijah deployed for | <span class="asgreek">παρετάξατο <sup><small><small>[[G8641]]</small></small></sup> <span class="asgreek">Αβία <sup><small><small>[[G0007]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| war | <span class="asgreek">πόλεμον <sup><small><small>[[G4171]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a force | <span class="asgreek">δυνάμει <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| of warriors | <span class="asgreek">πολεμισταίς <sup><small><small>[[G8841]]</small></small></sup> </span> |
-| of power -- | <span class="asgreek">δυνάμεως <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| four hundred | <span class="asgreek">τετρακοσίαις <sup><small><small>[[G5071]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάσιν <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανδρών <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| chosen | <span class="asgreek">εκλεκτών <sup><small><small>[[G1588]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jeroboam | <span class="asgreek">Ιεροβοάμ <sup><small><small>[[H3379]]</small></small></sup> </span> |
-| deployed | <span class="asgreek">παρετάξατο <sup><small><small>[[G8641]]</small></small></sup> </span> |
-| against | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for war | <span class="asgreek">πόλεμον <sup><small><small>[[G4171]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| eight hundred | <span class="asgreek">οκτακοσίαις <sup><small><small>[[G8476]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάσιν <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανδρών <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| chosen | <span class="asgreek">εκλεκτών <sup><small><small>[[G1588]]</small></small></sup> </span> |
-| mighty | <span class="asgreek">δυνατοί <sup><small><small>[[G1415]]</small></small></sup> </span> |
-| warriors | <span class="asgreek">πολεμισταί <sup><small><small>[[G8841]]</small></small></sup> </span> |
-| of power. | <span class="asgreek">δυνάμεως <sup><small><small>[[G1411]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Abijah deployed for | <big><span class="asgreek">παρετάξατο</span></big> <sup><small><small>[[G8641]]</small></small></sup> <big><span class="asgreek">Αβία</span></big> <sup><small><small>[[G0007]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a force | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| of warriors | <big><span class="asgreek">πολεμισταίς</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
+| of power -- | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| four hundred | <big><span class="asgreek">τετρακοσίαις</span></big> <sup><small><small>[[G5071]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάσιν</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| chosen | <big><span class="asgreek">εκλεκτών</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
+| deployed | <big><span class="asgreek">παρετάξατο</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
+| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| eight hundred | <big><span class="asgreek">οκτακοσίαις</span></big> <sup><small><small>[[G8476]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάσιν</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| chosen | <big><span class="asgreek">εκλεκτών</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
+| mighty | <big><span class="asgreek">δυνατοί</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| warriors | <big><span class="asgreek">πολεμισταί</span></big> <sup><small><small>[[G8841]]</small></small></sup> |
+| of power. | <big><span class="asgreek">δυνάμεως</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
 [[2Chr.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.2|<< 2 Chronicles 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.4|2 Chronicles 13:4 >>]]</td></tr></table>
 
 

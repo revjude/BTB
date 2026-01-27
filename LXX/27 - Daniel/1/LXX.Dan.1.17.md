@@ -9,27 +9,27 @@ To these four young men God gave knowledge and understanding in every kind of li
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gave | <span class="asgreek">έδωκέν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| understanding | <span class="asgreek">σύνεσιν <sup><small><small>[[G4907]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| intelligence | <span class="asgreek">φρόνησιν <sup><small><small>[[G5428]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάση <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| academics, | <span class="asgreek">γραμματική <sup><small><small>[[G6765]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wisdom. | <span class="asgreek">σοφία <sup><small><small>[[G4678]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Daniel | <span class="asgreek">Δανιήλ <sup><small><small>[[G1158]]</small></small></sup> </span> |
-| perceived | <span class="asgreek">συνήκεν <sup><small><small>[[G4920]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάση <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| vision | <span class="asgreek">οράσει <sup><small><small>[[G3706]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in dreams. | <span class="asgreek">ενυπνίοις <sup><small><small>[[G1798]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gave | <big><span class="asgreek">έδωκέν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| understanding | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| intelligence | <big><span class="asgreek">φρόνησιν</span></big> <sup><small><small>[[G5428]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| academics, | <big><span class="asgreek">γραμματική</span></big> <sup><small><small>[[G6765]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wisdom. | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Daniel | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
+| perceived | <big><span class="asgreek">συνήκεν</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| vision | <big><span class="asgreek">οράσει</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in dreams. | <big><span class="asgreek">ενυπνίοις</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
 [[Dan.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.16|<< Daniel 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.18|Daniel 1:18 >>]]</td></tr></table>
 
 

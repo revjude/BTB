@@ -9,25 +9,25 @@ When good things increase, so do those who consume them; what then is the profit
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a multitude | <span class="asgreek">πλήθει <sup><small><small>[[G4128]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of goodness | <span class="asgreek">αγαθωσύνης <sup><small><small>[[G0019]]</small></small></sup> </span> |
-| are multiplied | <span class="asgreek">επληθύνθησαν <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eating | <span class="asgreek">έσθοντες <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| of it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| what | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| courageous \[thing is it\] | <span class="asgreek">ανδρεία <sup><small><small>[[G6326]]</small></small></sup> </span> |
-| to the one | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| having | <span class="asgreek">παρ΄ <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] sum | <span class="asgreek">αρχή <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seeing it | <span class="asgreek">οράν <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| with his eyes? | <span class="asgreek">οφθαλμοίς <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a multitude | <big><span class="asgreek">πλήθει</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of goodness | <big><span class="asgreek">αγαθωσύνης</span></big> <sup><small><small>[[G0019]]</small></small></sup> |
+| are multiplied | <big><span class="asgreek">επληθύνθησαν</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eating | <big><span class="asgreek">έσθοντες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| of it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| what | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| courageous \[thing is it\] | <big><span class="asgreek">ανδρεία</span></big> <sup><small><small>[[G6326]]</small></small></sup> |
+| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| having | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] sum | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seeing it | <big><span class="asgreek">οράν</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| with his eyes? | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Eccl.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.10|<< Ecclesiastes 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.12|Ecclesiastes 5:12 >>]]</td></tr></table>
 
 

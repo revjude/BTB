@@ -9,24 +9,24 @@ On the south side the border began at the outskirts of Kiriath-jearim and extend
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] part | <span class="asgreek">μέρος <sup><small><small>[[G3313]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| towards | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \[the\] south | <span class="asgreek">λίβα <sup><small><small>[[G3047]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] part | <span class="asgreek">μέρους <sup><small><small>[[G3313]]</small></small></sup> </span> |
-| of Kirjath-baal, | <span class="asgreek">Καριαθβαάλ <sup><small><small>[[H7154]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall go through | <span class="asgreek">διελεύσεται <sup><small><small>[[G1330]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Gasin, | <span class="asgreek">Γασήν <sup><small><small>[[H3220]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall go forth | <span class="asgreek">εξελεύσεται <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| to | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] spring | <span class="asgreek">πηγήν <sup><small><small>[[G4077]]</small></small></sup> </span> |
-| of \[the\] water | <span class="asgreek">ύδατος <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| Nephtoah. | <span class="asgreek">Ναφθώ <sup><small><small>[[H5318]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] part | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \[the\] south | <big><span class="asgreek">λίβα</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] part | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
+| of Kirjath-baal, | <big><span class="asgreek">Καριαθβαάλ</span></big> <sup><small><small>[[H7154]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall go through | <big><span class="asgreek">διελεύσεται</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Gasin, | <big><span class="asgreek">Γασήν</span></big> <sup><small><small>[[H3220]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall go forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| to | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] spring | <big><span class="asgreek">πηγήν</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
+| of \[the\] water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| Nephtoah. | <big><span class="asgreek">Ναφθώ</span></big> <sup><small><small>[[H5318]]</small></small></sup> |
 [[Josh.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.14|<< Joshua 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.16|Joshua 18:16 >>]]</td></tr></table>
 
 

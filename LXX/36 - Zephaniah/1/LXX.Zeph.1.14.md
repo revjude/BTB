@@ -9,23 +9,23 @@ The great Day of the LORD is near—near and coming quickly. Listen, the Day of 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[is\] near | <span class="asgreek">εγγύς <sup><small><small>[[G1451]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| \[of the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[the\] great | <span class="asgreek">μεγάλη <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| near | <span class="asgreek">εγγύς <sup><small><small>[[G1451]]</small></small></sup> </span> |
-| quickly | <span class="asgreek">ταχεία <sup><small><small>[[G5036]]</small></small></sup> </span> |
-| very | <span class="asgreek">σφόδρα <sup><small><small>[[G4970]]</small></small></sup> </span> |
-| \[The\] sound | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of \[the\] day | <span class="asgreek">ημέρας <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| bitter | <span class="asgreek">πικρά <sup><small><small>[[G4089]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| harsh | <span class="asgreek">σκληρά <sup><small><small>[[G4642]]</small></small></sup> </span> |
-| is ordered up | <span class="asgreek">τέτακται <sup><small><small>[[G5021]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[is\] near | <big><span class="asgreek">εγγύς</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[the\] great | <big><span class="asgreek">μεγάλη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| near | <big><span class="asgreek">εγγύς</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
+| quickly | <big><span class="asgreek">ταχεία</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
+| very | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| \[The\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of \[the\] day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| bitter | <big><span class="asgreek">πικρά</span></big> <sup><small><small>[[G4089]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| harsh | <big><span class="asgreek">σκληρά</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
+| is ordered up | <big><span class="asgreek">τέτακται</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
 [[Zeph.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.13|<< Zephaniah 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.15|Zephaniah 1:15 >>]]</td></tr></table>
 
 

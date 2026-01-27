@@ -9,22 +9,22 @@ May sinners vanish from the earth and the wicked be no more. Bless the LORD, O m
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| failed | <span class="asgreek">εκλείποιεν <sup><small><small>[[G1587]]</small></small></sup> </span> |
-| Sinners | <span class="asgreek">αμαρτωλοί <sup><small><small>[[G0268]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth, | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lawless ones | <span class="asgreek">άνομοι <sup><small><small>[[G0459]]</small></small></sup> </span> |
-| so as for | <span class="asgreek">ώστε <sup><small><small>[[G5620]]</small></small></sup> </span> |
-| to not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| exist | <span class="asgreek">υπάρχειν <sup><small><small>[[G5225]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Bless | <span class="asgreek">ευλόγει <sup><small><small>[[G2127]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| O my soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| failed | <big><span class="asgreek">εκλείποιεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| Sinners | <big><span class="asgreek">αμαρτωλοί</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lawless ones | <big><span class="asgreek">άνομοι</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
+| so as for | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
+| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| exist | <big><span class="asgreek">υπάρχειν</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Bless | <big><span class="asgreek">ευλόγει</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| O my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Ps.104.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.34|<< Psalm 104:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.1|Psalm 105:1 >>]]</td></tr></table>
 
 

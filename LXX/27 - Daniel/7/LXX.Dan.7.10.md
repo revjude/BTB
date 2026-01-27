@@ -13,27 +13,27 @@ A river of fire was flowing, coming out from His presence. Thousands upon thousa
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A river | <span class="asgreek">ποταμός <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| of fire | <span class="asgreek">πυρός <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| drew | <span class="asgreek">είλκεν <sup><small><small>[[G1670]]</small></small></sup> </span> |
-| exiting | <span class="asgreek">εκπορευόμενος <sup><small><small>[[G1607]]</small></small></sup> </span> |
-| before | <span class="asgreek">έμπροσθεν <sup><small><small>[[G1715]]</small></small></sup> </span> |
-| him; | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a thousand | <span class="asgreek">χίλιαι <sup><small><small>[[G5507]]</small></small></sup> </span> |
-| thousands | <span class="asgreek">χιλιάδες <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| ministering | <span class="asgreek">ελειτούργουν <sup><small><small>[[G3008]]</small></small></sup> </span> |
-| to him; | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| ten thousand | <span class="asgreek">μύριαι <sup><small><small>[[G3463]]</small></small></sup> </span> |
-| ten thousands | <span class="asgreek">μυριάδες <sup><small><small>[[G3461]]</small></small></sup> </span> |
-| were present | <span class="asgreek">παρειστήκεισαν <sup><small><small>[[G3936]]</small></small></sup> </span> |
-| before | <span class="asgreek">έμπροσθεν <sup><small><small>[[G1715]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| A judgment seat | <span class="asgreek">κριτήριον <sup><small><small>[[G2922]]</small></small></sup> </span> |
-| was set, | <span class="asgreek">εκάθισε <sup><small><small>[[G2523]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| books | <span class="asgreek">βίβλοι <sup><small><small>[[G0976]]</small></small></sup> </span> |
-| were opened. | <span class="asgreek">ηνεώχθησαν <sup><small><small>[[G0455]]</small></small></sup> </span> |
+| A river | <big><span class="asgreek">ποταμός</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| of fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| drew | <big><span class="asgreek">είλκεν</span></big> <sup><small><small>[[G1670]]</small></small></sup> |
+| exiting | <big><span class="asgreek">εκπορευόμενος</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
+| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
+| him; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a thousand | <big><span class="asgreek">χίλιαι</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
+| thousands | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| ministering | <big><span class="asgreek">ελειτούργουν</span></big> <sup><small><small>[[G3008]]</small></small></sup> |
+| to him; | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| ten thousand | <big><span class="asgreek">μύριαι</span></big> <sup><small><small>[[G3463]]</small></small></sup> |
+| ten thousands | <big><span class="asgreek">μυριάδες</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
+| were present | <big><span class="asgreek">παρειστήκεισαν</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
+| before | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A judgment seat | <big><span class="asgreek">κριτήριον</span></big> <sup><small><small>[[G2922]]</small></small></sup> |
+| was set, | <big><span class="asgreek">εκάθισε</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| books | <big><span class="asgreek">βίβλοι</span></big> <sup><small><small>[[G0976]]</small></small></sup> |
+| were opened. | <big><span class="asgreek">ηνεώχθησαν</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
 [[Dan.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.9|<< Daniel 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.11|Daniel 7:11 >>]]</td></tr></table>
 
 

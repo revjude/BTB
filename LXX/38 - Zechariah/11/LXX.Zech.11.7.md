@@ -13,33 +13,33 @@ So I pastured the flock marked for slaughter, especially the afflicted of the fl
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will tend | <span class="asgreek">ποιμανώ <sup><small><small>[[G4165]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sheep | <span class="asgreek">πρόβατα <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| slaughter | <span class="asgreek">σφαγής <sup><small><small>[[G4967]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[land of the\] Canaanites. | <span class="asgreek">Χαναανίτιν <sup><small><small>[[G5477]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will take | <span class="asgreek">λήψομαι <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| for myself | <span class="asgreek">εμαυτώ <sup><small><small>[[G1683]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| rods; | <span class="asgreek">ράβδους <sup><small><small>[[G4464]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one | <span class="asgreek">μίαν <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| I called | <span class="asgreek">εκάλεσα <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| Beauty, | <span class="asgreek">κάλλος <sup><small><small>[[G7782]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| other | <span class="asgreek">ετέραν <sup><small><small>[[G2087]]</small></small></sup> </span> |
-| I called, | <span class="asgreek">εκάλεσα <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| A piece of measured out land; | <span class="asgreek">σχοίνισμα <sup><small><small>[[G9385]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will tend | <span class="asgreek">ποιμανώ <sup><small><small>[[G4165]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sheep. | <span class="asgreek">πρόβατα <sup><small><small>[[G4263]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will tend | <big><span class="asgreek">ποιμανώ</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| slaughter | <big><span class="asgreek">σφαγής</span></big> <sup><small><small>[[G4967]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[land of the\] Canaanites. | <big><span class="asgreek">Χαναανίτιν</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will take | <big><span class="asgreek">λήψομαι</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| for myself | <big><span class="asgreek">εμαυτώ</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| rods; | <big><span class="asgreek">ράβδους</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| I called | <big><span class="asgreek">εκάλεσα</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| Beauty, | <big><span class="asgreek">κάλλος</span></big> <sup><small><small>[[G7782]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| other | <big><span class="asgreek">ετέραν</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
+| I called, | <big><span class="asgreek">εκάλεσα</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| A piece of measured out land; | <big><span class="asgreek">σχοίνισμα</span></big> <sup><small><small>[[G9385]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will tend | <big><span class="asgreek">ποιμανώ</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sheep. | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
 [[Zech.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.6|<< Zechariah 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.8|Zechariah 11:8 >>]]</td></tr></table>
 
 

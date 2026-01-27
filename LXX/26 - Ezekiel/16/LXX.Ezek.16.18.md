@@ -9,24 +9,24 @@ You took your embroidered garments to cover them, and you set My oil and incense
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you took | <span class="asgreek">έλαβες <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| clothes | <span class="asgreek">ιματισμόν <sup><small><small>[[G2441]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| colored | <span class="asgreek">ποικίλον <sup><small><small>[[G4164]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| covered them. | <span class="asgreek">περιέβαλες <sup><small><small>[[G4016]]</small></small></sup> <span class="asgreek">αυτα <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my oil | <span class="asgreek">έλαιόν <sup><small><small>[[G1637]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my incense | <span class="asgreek">θυμίαμά <sup><small><small>[[G2368]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you put | <span class="asgreek">έθηκας <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| before | <span class="asgreek">προ <sup><small><small>[[G4253]]</small></small></sup> </span> |
-| their face. | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you took | <big><span class="asgreek">έλαβες</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| clothes | <big><span class="asgreek">ιματισμόν</span></big> <sup><small><small>[[G2441]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| colored | <big><span class="asgreek">ποικίλον</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| covered them. | <big><span class="asgreek">περιέβαλες</span></big> <sup><small><small>[[G4016]]</small></small></sup> <big><span class="asgreek">αυτα</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my oil | <big><span class="asgreek">έλαιόν</span></big> <sup><small><small>[[G1637]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my incense | <big><span class="asgreek">θυμίαμά</span></big> <sup><small><small>[[G2368]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you put | <big><span class="asgreek">έθηκας</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
+| their face. | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.17|<< Ezekiel 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.19|Ezekiel 16:19 >>]]</td></tr></table>
 
 

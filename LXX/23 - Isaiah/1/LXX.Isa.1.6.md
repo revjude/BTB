@@ -9,28 +9,28 @@ From the sole of your foot to the top of your head, there is no soundness—only
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| From | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| feet | <span class="asgreek">ποδών <sup><small><small>[[G4228]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| head | <span class="asgreek">κεφαλής <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| there is no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| wholeness | <span class="asgreek">ολοκληρία <sup><small><small>[[G3647]]</small></small></sup> </span> |
-| Neither | <span class="asgreek">ούτε <sup><small><small>[[G3777]]</small></small></sup> </span> |
-| wound, | <span class="asgreek">τραύμα <sup><small><small>[[G5134]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ούτε <sup><small><small>[[G3777]]</small></small></sup> </span> |
-| stripe, | <span class="asgreek">μώλωψ <sup><small><small>[[G3468]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ούτε <sup><small><small>[[G3777]]</small></small></sup> </span> |
-| wound | <span class="asgreek">πληγή <sup><small><small>[[G4127]]</small></small></sup> </span> |
-| inflamed | <span class="asgreek">φλεγμαίνουσα <sup><small><small>[[G9644]]</small></small></sup> </span> |
-| there is no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| dressing | <span class="asgreek">μάλαγμα <sup><small><small>[[G8241]]</small></small></sup> </span> |
-| to place upon \[it\], | <span class="asgreek">επιθείναι <sup><small><small>[[G2007]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ούτε <sup><small><small>[[G3777]]</small></small></sup> </span> |
-| oil, | <span class="asgreek">έλαιον <sup><small><small>[[G1637]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ούτε <sup><small><small>[[G3777]]</small></small></sup> </span> |
-| bandages. | <span class="asgreek">καταδέσμους <sup><small><small>[[G7834]]</small></small></sup> </span> |
+| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| feet | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| wholeness | <big><span class="asgreek">ολοκληρία</span></big> <sup><small><small>[[G3647]]</small></small></sup> |
+| Neither | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
+| wound, | <big><span class="asgreek">τραύμα</span></big> <sup><small><small>[[G5134]]</small></small></sup> |
+| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
+| stripe, | <big><span class="asgreek">μώλωψ</span></big> <sup><small><small>[[G3468]]</small></small></sup> |
+| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
+| wound | <big><span class="asgreek">πληγή</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
+| inflamed | <big><span class="asgreek">φλεγμαίνουσα</span></big> <sup><small><small>[[G9644]]</small></small></sup> |
+| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| dressing | <big><span class="asgreek">μάλαγμα</span></big> <sup><small><small>[[G8241]]</small></small></sup> |
+| to place upon \[it\], | <big><span class="asgreek">επιθείναι</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
+| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
+| oil, | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
+| bandages. | <big><span class="asgreek">καταδέσμους</span></big> <sup><small><small>[[G7834]]</small></small></sup> |
 [[Isa.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.5|<< Isaiah 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.7|Isaiah 1:7 >>]]</td></tr></table>
 
 

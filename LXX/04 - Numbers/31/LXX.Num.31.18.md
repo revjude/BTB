@@ -9,18 +9,18 @@ but spare for yourselves every girl who has never had relations with a man.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσαν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| chattel | <span class="asgreek">απαρτίαν <sup><small><small>[[G6403]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| women | <span class="asgreek">γυναικών <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| who | <span class="asgreek">ήτις <sup><small><small>[[G3748]]</small></small></sup> </span> |
-| have not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| known | <span class="asgreek">οίδε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| \[the\] marriage-bed | <span class="asgreek">κοίτην <sup><small><small>[[G2845]]</small></small></sup> </span> |
-| of a man, | <span class="asgreek">άρσενος <sup><small><small>[[G0730]]</small></small></sup> </span> |
-| take them alive! | <span class="asgreek">ζωγρήσατε <sup><small><small>[[G2221]]</small></small></sup> <span class="asgreek">αυτάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| chattel | <big><span class="asgreek">απαρτίαν</span></big> <sup><small><small>[[G6403]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| women | <big><span class="asgreek">γυναικών</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| who | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
+| have not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| known | <big><span class="asgreek">οίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| \[the\] marriage-bed | <big><span class="asgreek">κοίτην</span></big> <sup><small><small>[[G2845]]</small></small></sup> |
+| of a man, | <big><span class="asgreek">άρσενος</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
+| take them alive! | <big><span class="asgreek">ζωγρήσατε</span></big> <sup><small><small>[[G2221]]</small></small></sup> <big><span class="asgreek">αυτάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Num.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.17|<< Numbers 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.19|Numbers 31:19 >>]]</td></tr></table>
 
 

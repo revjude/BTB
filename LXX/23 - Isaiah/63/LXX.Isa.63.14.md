@@ -9,26 +9,26 @@ Like cattle going down to the valley, the Spirit of the LORD gave them rest. You
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| cattle | <span class="asgreek">κτήνη <sup><small><small>[[G2934]]</small></small></sup> </span> |
-| \[led\] through | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| a plain, | <span class="asgreek">πεδίου <sup><small><small>[[G8676]]</small></small></sup> </span> |
-| descended | <span class="asgreek">κατέβη <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| spirit | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| of | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| guided | <span class="asgreek">ώδηγησεν <sup><small><small>[[G3594]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| you led | <span class="asgreek">ήγαγες <sup><small><small>[[G0071]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your people | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to make | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| for yourself | <span class="asgreek">σεαυτώ <sup><small><small>[[G4572]]</small></small></sup> </span> |
-| name | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> </span> |
-| a glorious | <span class="asgreek">δόξης <sup><small><small>[[G1391]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| \[led\] through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| a plain, | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
+| descended | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| of | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| guided | <big><span class="asgreek">ώδηγησεν</span></big> <sup><small><small>[[G3594]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| you led | <big><span class="asgreek">ήγαγες</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to make | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| for yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
+| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
+| a glorious | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
 [[Isa.63.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.13|<< Isaiah 63:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.15|Isaiah 63:15 >>]]</td></tr></table>
 
 

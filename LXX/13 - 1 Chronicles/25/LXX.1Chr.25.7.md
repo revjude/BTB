@@ -9,23 +9,23 @@ Together with their relatives, who were all trained and skillful in the songs of
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| was | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| number | <span class="asgreek">αριθμός <sup><small><small>[[G0706]]</small></small></sup> </span> |
-| their | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their brethren, | <span class="asgreek">αδελφών <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] ones being taught | <span class="asgreek">δεδιδαγμένοι <sup><small><small>[[G1321]]</small></small></sup> </span> |
-| to sing | <span class="asgreek">άδειν <sup><small><small>[[G0103]]</small></small></sup> </span> |
-| \[to the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| every one | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| perceiving \[singing\] -- | <span class="asgreek">συνιών <sup><small><small>[[G4920]]</small></small></sup> </span> |
-| two hundred | <span class="asgreek">διακόσιοι <sup><small><small>[[G1250]]</small></small></sup> </span> |
-| eighty | <span class="asgreek">ογδοήκοντα <sup><small><small>[[G3589]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| eight. | <span class="asgreek">οκτώ <sup><small><small>[[G3638]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| number | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
+| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their brethren, | <big><span class="asgreek">αδελφών</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] ones being taught | <big><span class="asgreek">δεδιδαγμένοι</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
+| to sing | <big><span class="asgreek">άδειν</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
+| \[to the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| every one | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| perceiving \[singing\] -- | <big><span class="asgreek">συνιών</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| two hundred | <big><span class="asgreek">διακόσιοι</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
+| eighty | <big><span class="asgreek">ογδοήκοντα</span></big> <sup><small><small>[[G3589]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| eight. | <big><span class="asgreek">οκτώ</span></big> <sup><small><small>[[G3638]]</small></small></sup> |
 [[1Chr.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.6|<< 1 Chronicles 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.8|1 Chronicles 25:8 >>]]</td></tr></table>
 
 

@@ -12,28 +12,28 @@ So I spoke to the people in the morning, and in the evening my wife died. And th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I spoke | <span class="asgreek">ελάλησα <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| in the morning, | <span class="asgreek">τοπρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| in which | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| manner | <span class="asgreek">τρόπον <sup><small><small>[[G5158]]</small></small></sup> </span> |
-| he gave charge | <span class="asgreek">ενετείλατό <sup><small><small>[[G1781]]</small></small></sup> </span> |
-| to me. | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| died | <span class="asgreek">απέθανεν <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my wife | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| at evening. | <span class="asgreek">εσπέρας <sup><small><small>[[G2073]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I did | <span class="asgreek">εποίησα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| in the morning | <span class="asgreek">τοπρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| in which | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| manner | <span class="asgreek">τρόπον <sup><small><small>[[G5158]]</small></small></sup> </span> |
-| orders were given | <span class="asgreek">επετάγη <sup><small><small>[[G2004]]</small></small></sup> </span> |
-| to me. | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I spoke | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| in the morning, | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
+| he gave charge | <big><span class="asgreek">ενετείλατό</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
+| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| died | <big><span class="asgreek">απέθανεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| at evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I did | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
+| orders were given | <big><span class="asgreek">επετάγη</span></big> <sup><small><small>[[G2004]]</small></small></sup> |
+| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.17|<< Ezekiel 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.19|Ezekiel 24:19 >>]]</td></tr></table>
 
 

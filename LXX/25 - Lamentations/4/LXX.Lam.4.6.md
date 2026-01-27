@@ -11,25 +11,25 @@ The punishment of the daughter of my people is greater than that of Sodom, which
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΟΥΑΥ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΟΥΑΥ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| was magnified | <span class="asgreek">εμεγαλύνθη <sup><small><small>[[G3170]]</small></small></sup> </span> |
-| \[the\] lawlessness | <span class="asgreek">ανομία <sup><small><small>[[G0458]]</small></small></sup> </span> |
-| of \[the\] daughter | <span class="asgreek">θυγατρός <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of my people | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| over | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| \[the\] lawlessness | <span class="asgreek">ανομίας <sup><small><small>[[G0458]]</small></small></sup> </span> |
-| of Sodom, | <span class="asgreek">Σοδόμων <sup><small><small>[[G4670]]</small></small></sup> </span> |
-| the \[place\]\<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being eradicated | <span class="asgreek">κατεστραμμένης <sup><small><small>[[G2690]]</small></small></sup> </span> |
-| as \[with\] | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| promptness, | <span class="asgreek">σπουδή <sup><small><small>[[G4710]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| toil | <span class="asgreek">επόνεσαν <sup><small><small>[[G8862]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| hands. | <span class="asgreek">χείρας <sup><small><small>[[G5495]]</small></small></sup> </span> |
+| ΟΥΑΥ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΟΥΑΥ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| was magnified | <big><span class="asgreek">εμεγαλύνθη</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
+| \[the\] lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| of \[the\] daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| \[the\] lawlessness | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| of Sodom, | <big><span class="asgreek">Σοδόμων</span></big> <sup><small><small>[[G4670]]</small></small></sup> |
+| the \[place\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being eradicated | <big><span class="asgreek">κατεστραμμένης</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
+| as \[with\] | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| promptness, | <big><span class="asgreek">σπουδή</span></big> <sup><small><small>[[G4710]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| toil | <big><span class="asgreek">επόνεσαν</span></big> <sup><small><small>[[G8862]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| hands. | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
 [[Lam.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.5|<< Lamentations 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.7|Lamentations 4:7 >>]]</td></tr></table>
 
 

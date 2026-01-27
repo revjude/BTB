@@ -13,40 +13,40 @@ The appearance of the brilliant light all around Him was like that of a rainbow 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] vision | <span class="asgreek">όρασις <sup><small><small>[[G3706]]</small></small></sup> </span> |
-| of a bow | <span class="asgreek">τόξου <sup><small><small>[[G5115]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| it might be | <span class="asgreek">η <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cloud | <span class="asgreek">νεφέλη <sup><small><small>[[G3507]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of rain, | <span class="asgreek">υετού <sup><small><small>[[G5205]]</small></small></sup> </span> |
-| thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| \[was\] the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| position | <span class="asgreek">στάσις <sup><small><small>[[G4714]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| brightness | <span class="asgreek">φέγγους <sup><small><small>[[G5338]]</small></small></sup> </span> |
-| round about. | <span class="asgreek">κυκλόθεν <sup><small><small>[[G2943]]</small></small></sup> </span> |
-| This | <span class="asgreek">αύτη <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[is\] the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| vision | <span class="asgreek">όρασις <sup><small><small>[[G3706]]</small></small></sup> </span> |
-| of \[the\] likeness | <span class="asgreek">ομοίωμα <sup><small><small>[[G3667]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| glory | <span class="asgreek">δόξης <sup><small><small>[[G1391]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I beheld, | <span class="asgreek">ίδον <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I fell | <span class="asgreek">πίπτω <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| my face, | <span class="asgreek">πρόσωπόν <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I heard | <span class="asgreek">ήκουσα <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| a voice | <span class="asgreek">φωνήν <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| speaking. | <span class="asgreek">λαλούντος <sup><small><small>[[G2980]]</small></small></sup> </span> |
+| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
+| of a bow | <big><span class="asgreek">τόξου</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| it might be | <big><span class="asgreek">η</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of rain, | <big><span class="asgreek">υετού</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
+| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| \[was\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| position | <big><span class="asgreek">στάσις</span></big> <sup><small><small>[[G4714]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| brightness | <big><span class="asgreek">φέγγους</span></big> <sup><small><small>[[G5338]]</small></small></sup> |
+| round about. | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| This | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[is\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| vision | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
+| of \[the\] likeness | <big><span class="asgreek">ομοίωμα</span></big> <sup><small><small>[[G3667]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| glory | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I beheld, | <big><span class="asgreek">ίδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I fell | <big><span class="asgreek">πίπτω</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| my face, | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I heard | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| a voice | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| speaking. | <big><span class="asgreek">λαλούντος</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
 [[Ezek.1.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.27|<< Ezekiel 1:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.1|Ezekiel 2:1 >>]]</td></tr></table>
 
 

@@ -13,16 +13,16 @@ He will bless those who fear the LORD—small and great alike.<small><sub>**MT:
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| he blessed | <span class="asgreek">ευλόγησε <sup><small><small>[[G2127]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fearing | <span class="asgreek">φοβουμένους <sup><small><small>[[G5399]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>, | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| small | <span class="asgreek">μικρούς <sup><small><small>[[G3398]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| great. | <span class="asgreek">μεγάλων <sup><small><small>[[G3173]]</small></small></sup> </span> |
+| he blessed | <big><span class="asgreek">ευλόγησε</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fearing | <big><span class="asgreek">φοβουμένους</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| small | <big><span class="asgreek">μικρούς</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| great. | <big><span class="asgreek">μεγάλων</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
 [[Ps.115.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.12|<< Psalm 115:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.14|Psalm 115:14 >>]]</td></tr></table>
 
 

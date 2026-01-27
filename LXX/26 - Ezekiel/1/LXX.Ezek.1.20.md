@@ -9,32 +9,32 @@ Wherever the spirit would go, they would go, and the wheels would rise alongside
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Where | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cloud | <span class="asgreek">νεφέλη <sup><small><small>[[G3507]]</small></small></sup> </span> |
-| there | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| spirit | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[was\] to go; | <span class="asgreek">πορεύεσθαι <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| went | <span class="asgreek">επορεύοντο <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| living creatures | <span class="asgreek">ζώα <sup><small><small>[[G2226]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wheels | <span class="asgreek">τροχοί <sup><small><small>[[G5164]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lifted away | <span class="asgreek">εξήροντο <sup><small><small>[[G1808]]</small></small></sup> </span> |
-| with | <span class="asgreek">συν <sup><small><small>[[G4862]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| because | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| spirit | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| of life | <span class="asgreek">ζωής <sup><small><small>[[G2222]]</small></small></sup> </span> |
-| \[was\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wheels. | <span class="asgreek">τροχοίς <sup><small><small>[[G5164]]</small></small></sup> </span> |
+| Where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
+| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[was\] to go; | <big><span class="asgreek">πορεύεσθαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| went | <big><span class="asgreek">επορεύοντο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| living creatures | <big><span class="asgreek">ζώα</span></big> <sup><small><small>[[G2226]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wheels | <big><span class="asgreek">τροχοί</span></big> <sup><small><small>[[G5164]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lifted away | <big><span class="asgreek">εξήροντο</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
+| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
+| \[was\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wheels. | <big><span class="asgreek">τροχοίς</span></big> <sup><small><small>[[G5164]]</small></small></sup> |
 [[Ezek.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.19|<< Ezekiel 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.21|Ezekiel 1:21 >>]]</td></tr></table>
 
 

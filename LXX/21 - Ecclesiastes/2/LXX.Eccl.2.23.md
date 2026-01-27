@@ -9,26 +9,26 @@ Indeed, all his days are filled with grief, and his task is sorrowful; even at n
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| in all | <span class="asgreek">πάσαι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his days | <span class="asgreek">ημέραι <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[are\] pains | <span class="asgreek">αλγημάτων <sup><small><small>[[G6218]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| rage | <span class="asgreek">θυμού <sup><small><small>[[G2372]]</small></small></sup> </span> |
-| of his distraction; | <span class="asgreek">περισπασμός <sup><small><small>[[G8755]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and indeed | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> <span class="asgreek">γε <sup><small><small>[[G1065]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| night | <span class="asgreek">νυκτί <sup><small><small>[[G3571]]</small></small></sup> </span> |
-| does not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| go to bed | <span class="asgreek">κοιμάται <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heart | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">γε <sup><small><small>[[G1065]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| is folly. | <span class="asgreek">ματαιότης <sup><small><small>[[G3153]]</small></small></sup> <span class="asgreek">εστίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| in all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[are\] pains | <big><span class="asgreek">αλγημάτων</span></big> <sup><small><small>[[G6218]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
+| of his distraction; | <big><span class="asgreek">περισπασμός</span></big> <sup><small><small>[[G8755]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and indeed | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| night | <big><span class="asgreek">νυκτί</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| does not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| go to bed | <big><span class="asgreek">κοιμάται</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| is folly. | <big><span class="asgreek">ματαιότης</span></big> <sup><small><small>[[G3153]]</small></small></sup> <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Eccl.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.22|<< Ecclesiastes 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.24|Ecclesiastes 2:24 >>]]</td></tr></table>
 
 

@@ -9,21 +9,21 @@ When the boys grew up, Esau became a skillful hunter, a man of the field, while 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| grew | <span class="asgreek">ηυξήθησαν <sup><small><small>[[G0837]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| young | <span class="asgreek">νεανίσκοι <sup><small><small>[[G3495]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Esau was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> <span class="asgreek">Ησαύ <sup><small><small>[[G2269]]</small></small></sup> </span> |
-| a man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| knowing | <span class="asgreek">ειδώς <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| to hunt with hounds -- | <span class="asgreek">κυνηγείν <sup><small><small>[[G8124]]</small></small></sup> </span> |
-| rugged; | <span class="asgreek">άγροικος <sup><small><small>[[G6127]]</small></small></sup> </span> |
-| but Jacob | <span class="asgreek">Ιακώβ <sup><small><small>[[G2384]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| \[was\] a simple | <span class="asgreek">άπλαστος <sup><small><small>[[G6413]]</small></small></sup> </span> |
-| living in | <span class="asgreek">οικών <sup><small><small>[[G3611]]</small></small></sup> </span> |
-| a residence. | <span class="asgreek">οικίαν <sup><small><small>[[G3614]]</small></small></sup> </span> |
+| grew | <big><span class="asgreek">ηυξήθησαν</span></big> <sup><small><small>[[G0837]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| young | <big><span class="asgreek">νεανίσκοι</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Esau was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
+| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| knowing | <big><span class="asgreek">ειδώς</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| to hunt with hounds -- | <big><span class="asgreek">κυνηγείν</span></big> <sup><small><small>[[G8124]]</small></small></sup> |
+| rugged; | <big><span class="asgreek">άγροικος</span></big> <sup><small><small>[[G6127]]</small></small></sup> |
+| but Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| \[was\] a simple | <big><span class="asgreek">άπλαστος</span></big> <sup><small><small>[[G6413]]</small></small></sup> |
+| living in | <big><span class="asgreek">οικών</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| a residence. | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
 [[Gen.25.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.26|<< Genesis 25:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.28|Genesis 25:28 >>]]</td></tr></table>
 
 

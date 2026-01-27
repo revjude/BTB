@@ -9,27 +9,27 @@ Go out, go out through the gates; prepare the way for the people! Build it up, b
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Go | <span class="asgreek">πορεύεσθε <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| through | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my gates, | <span class="asgreek">πυλών <sup><small><small>[[G4439]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| open a way | <span class="asgreek">οδοποιήσατε <sup><small><small>[[G8445]]</small></small></sup> </span> |
-| \[for\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my people! | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθους <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| way | <span class="asgreek">οδού <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| scatter away! | <span class="asgreek">διαρρίψατε <sup><small><small>[[G6871]]</small></small></sup> </span> |
-| Lift | <span class="asgreek">εξάρατε <sup><small><small>[[G1808]]</small></small></sup> </span> |
-| the agreed upon sign | <span class="asgreek">σύσσημον <sup><small><small>[[G4953]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations! | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
+| Go | <big><span class="asgreek">πορεύεσθε</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my gates, | <big><span class="asgreek">πυλών</span></big> <sup><small><small>[[G4439]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| open a way | <big><span class="asgreek">οδοποιήσατε</span></big> <sup><small><small>[[G8445]]</small></small></sup> |
+| \[for\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my people! | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| scatter away! | <big><span class="asgreek">διαρρίψατε</span></big> <sup><small><small>[[G6871]]</small></small></sup> |
+| Lift | <big><span class="asgreek">εξάρατε</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
+| the agreed upon sign | <big><span class="asgreek">σύσσημον</span></big> <sup><small><small>[[G4953]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations! | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
 [[Isa.62.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.9|<< Isaiah 62:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.11|Isaiah 62:11 >>]]</td></tr></table>
 
 

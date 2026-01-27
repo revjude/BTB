@@ -9,29 +9,29 @@ a land where you will eat food without scarcity, where you will lack nothing; a 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| which | <span class="asgreek">ης <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| without | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| poorness | <span class="asgreek">πτωχείας <sup><small><small>[[G4432]]</small></small></sup> </span> |
-| you shall eat | <span class="asgreek">φαγή <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your bread | <span class="asgreek">άρτον <sup><small><small>[[G0740]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall not be in want | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ενδεηθήση <sup><small><small>[[G7222]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| A land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of which | <span class="asgreek">ης <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its stones | <span class="asgreek">λίθοι <sup><small><small>[[G3037]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[are\] iron, | <span class="asgreek">σίδηρος <sup><small><small>[[G4604]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its mountains | <span class="asgreek">ορέων <sup><small><small>[[G3735]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall mine | <span class="asgreek">μεταλλεύσεις <sup><small><small>[[G8297]]</small></small></sup> </span> |
-| brass. | <span class="asgreek">χαλκόν <sup><small><small>[[G5475]]</small></small></sup> </span> |
+| A land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| without | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| poorness | <big><span class="asgreek">πτωχείας</span></big> <sup><small><small>[[G4432]]</small></small></sup> |
+| you shall eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall not be in want | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ενδεηθήση</span></big> <sup><small><small>[[G7222]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its stones | <big><span class="asgreek">λίθοι</span></big> <sup><small><small>[[G3037]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[are\] iron, | <big><span class="asgreek">σίδηρος</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall mine | <big><span class="asgreek">μεταλλεύσεις</span></big> <sup><small><small>[[G8297]]</small></small></sup> |
+| brass. | <big><span class="asgreek">χαλκόν</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
 [[Deut.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.8|<< Deuteronomy 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.10|Deuteronomy 8:10 >>]]</td></tr></table>
 
 

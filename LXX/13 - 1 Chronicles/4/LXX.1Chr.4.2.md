@@ -9,26 +9,26 @@ Reaiah son of Shobal was the father of Jahath, and Jahath was the father of Ahum
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Reaiah | <span class="asgreek">Ρειά <sup><small><small>[[H7211]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Shobal | <span class="asgreek">Σοβάλ <sup><small><small>[[H6678]]</small></small></sup> </span> |
-| procreated | <span class="asgreek">εγέννησε <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jahath; | <span class="asgreek">Ιαώθ <sup><small><small>[[H3189]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jahath | <span class="asgreek">Ιαώθ <sup><small><small>[[H3189]]</small></small></sup> </span> |
-| procreated | <span class="asgreek">εγέννησε <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Ahumai, | <span class="asgreek">Αχιμαϊ <sup><small><small>[[H0267]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Lahad. | <span class="asgreek">Λαάδ <sup><small><small>[[H3855]]</small></small></sup> </span> |
-| These \[are\] | <span class="asgreek">αύται <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| genealogies | <span class="asgreek">γενέσεις <sup><small><small>[[G1078]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Zorathites. | <span class="asgreek">Σαραθί <sup><small><small>[[H6881]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Reaiah | <big><span class="asgreek">Ρειά</span></big> <sup><small><small>[[H7211]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Shobal | <big><span class="asgreek">Σοβάλ</span></big> <sup><small><small>[[H6678]]</small></small></sup> |
+| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jahath; | <big><span class="asgreek">Ιαώθ</span></big> <sup><small><small>[[H3189]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jahath | <big><span class="asgreek">Ιαώθ</span></big> <sup><small><small>[[H3189]]</small></small></sup> |
+| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Ahumai, | <big><span class="asgreek">Αχιμαϊ</span></big> <sup><small><small>[[H0267]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Lahad. | <big><span class="asgreek">Λαάδ</span></big> <sup><small><small>[[H3855]]</small></small></sup> |
+| These \[are\] | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| genealogies | <big><span class="asgreek">γενέσεις</span></big> <sup><small><small>[[G1078]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Zorathites. | <big><span class="asgreek">Σαραθί</span></big> <sup><small><small>[[H6881]]</small></small></sup> |
 [[1Chr.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.1|<< 1 Chronicles 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.3|1 Chronicles 4:3 >>]]</td></tr></table>
 
 

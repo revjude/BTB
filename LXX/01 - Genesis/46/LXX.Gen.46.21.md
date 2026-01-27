@@ -9,27 +9,27 @@ The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Hup
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of Benjamin -- | <span class="asgreek">Βενιαμίν <sup><small><small>[[G0958]]</small></small></sup> </span> |
-| Belah, | <span class="asgreek">Βαλά <sup><small><small>[[H1106a]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Becher, | <span class="asgreek">Βοχώρ <sup><small><small>[[H1071]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ashbel, | <span class="asgreek">Ασβή <sup><small><small>[[H0788]]</small></small></sup> </span> |
-| Gera, | <span class="asgreek">Γηρά <sup><small><small>[[H1617]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Naaman, | <span class="asgreek">Νοεμάν <sup><small><small>[[G3497]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ehi, | <span class="asgreek">Αγχίς <sup><small><small>[[H0278]]</small></small></sup> </span> |
-| Rosh, | <span class="asgreek">Ρως <sup><small><small>[[H7220]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Muppim, | <span class="asgreek">Μανφίν <sup><small><small>[[H4649]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Huppim. | <span class="asgreek">Οφιμιν <sup><small><small>[[H2650]]</small></small></sup> </span> |
-| And Gera | <span class="asgreek">Γηρά <sup><small><small>[[H1617]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| procreated | <span class="asgreek">εγέννησε <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Ard. | <span class="asgreek">Αράδ <sup><small><small>[[H0714]]</small></small></sup> </span> |
+| And \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of Benjamin -- | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
+| Belah, | <big><span class="asgreek">Βαλά</span></big> <sup><small><small>[[H1106a]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Becher, | <big><span class="asgreek">Βοχώρ</span></big> <sup><small><small>[[H1071]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ashbel, | <big><span class="asgreek">Ασβή</span></big> <sup><small><small>[[H0788]]</small></small></sup> |
+| Gera, | <big><span class="asgreek">Γηρά</span></big> <sup><small><small>[[H1617]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Naaman, | <big><span class="asgreek">Νοεμάν</span></big> <sup><small><small>[[G3497]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ehi, | <big><span class="asgreek">Αγχίς</span></big> <sup><small><small>[[H0278]]</small></small></sup> |
+| Rosh, | <big><span class="asgreek">Ρως</span></big> <sup><small><small>[[H7220]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Muppim, | <big><span class="asgreek">Μανφίν</span></big> <sup><small><small>[[H4649]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Huppim. | <big><span class="asgreek">Οφιμιν</span></big> <sup><small><small>[[H2650]]</small></small></sup> |
+| And Gera | <big><span class="asgreek">Γηρά</span></big> <sup><small><small>[[H1617]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Ard. | <big><span class="asgreek">Αράδ</span></big> <sup><small><small>[[H0714]]</small></small></sup> |
 [[Gen.46.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.20|<< Genesis 46:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.22|Genesis 46:22 >>]]</td></tr></table>
 
 

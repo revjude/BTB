@@ -9,27 +9,27 @@ and over them three administrators, including Daniel, to whom these satraps were
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| above | <span class="asgreek">επάνω <sup><small><small>[[G1883]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| tacticians | <span class="asgreek">τακτικούς <sup><small><small>[[G9395]]</small></small></sup> </span> |
-| three | <span class="asgreek">τρεις <sup><small><small>[[G5140]]</small></small></sup> </span> |
-| which | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| Daniel was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> <span class="asgreek">Δανιήλ <sup><small><small>[[G1158]]</small></small></sup> </span> |
-| one | <span class="asgreek">εις <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to render | <span class="asgreek">αποδιδόναι <sup><small><small>[[G0591]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| satraps | <span class="asgreek">σατράπας <sup><small><small>[[G9059]]</small></small></sup> </span> |
-| a reckoning | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| so that | <span class="asgreek">όπως <sup><small><small>[[G3704]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| be troubled. | <span class="asgreek">ενοχλήται <sup><small><small>[[G1776]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| above | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| tacticians | <big><span class="asgreek">τακτικούς</span></big> <sup><small><small>[[G9395]]</small></small></sup> |
+| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
+| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| Daniel was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
+| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to render | <big><span class="asgreek">αποδιδόναι</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| satraps | <big><span class="asgreek">σατράπας</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
+| a reckoning | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| be troubled. | <big><span class="asgreek">ενοχλήται</span></big> <sup><small><small>[[G1776]]</small></small></sup> |
 [[Dan.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.1|<< Daniel 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.3|Daniel 6:3 >>]]</td></tr></table>
 
 

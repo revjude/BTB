@@ -12,25 +12,25 @@ This is the account of Terah. Terah became the father of Abram, Nahor, and Haran
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And these \[are\] | <span class="asgreek">αύται <sup><small><small>[[G3778]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| generations | <span class="asgreek">γενέσεις <sup><small><small>[[G1078]]</small></small></sup> </span> |
-| of Terah. | <span class="asgreek">Θαρά <sup><small><small>[[G2291]]</small></small></sup> </span> |
-| Terah | <span class="asgreek">Θαρά <sup><small><small>[[G2291]]</small></small></sup> </span> |
-| procreated | <span class="asgreek">εγέννησε <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Abram, | <span class="asgreek">Άβραμ <sup><small><small>[[H0087]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Nahor, | <span class="asgreek">Ναχώρ <sup><small><small>[[G3493]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Haran. | <span class="asgreek">Αράν <sup><small><small>[[G5488]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Haran | <span class="asgreek">Αράν <sup><small><small>[[G5488]]</small></small></sup> </span> |
-| procreated | <span class="asgreek">εγέννησε <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Lot. | <span class="asgreek">Λωτ <sup><small><small>[[G3091]]</small></small></sup> </span> |
+| And these \[are\] | <big><span class="asgreek">αύται</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| generations | <big><span class="asgreek">γενέσεις</span></big> <sup><small><small>[[G1078]]</small></small></sup> |
+| of Terah. | <big><span class="asgreek">Θαρά</span></big> <sup><small><small>[[G2291]]</small></small></sup> |
+| Terah | <big><span class="asgreek">Θαρά</span></big> <sup><small><small>[[G2291]]</small></small></sup> |
+| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Abram, | <big><span class="asgreek">Άβραμ</span></big> <sup><small><small>[[H0087]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Nahor, | <big><span class="asgreek">Ναχώρ</span></big> <sup><small><small>[[G3493]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Haran. | <big><span class="asgreek">Αράν</span></big> <sup><small><small>[[G5488]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Haran | <big><span class="asgreek">Αράν</span></big> <sup><small><small>[[G5488]]</small></small></sup> |
+| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Lot. | <big><span class="asgreek">Λωτ</span></big> <sup><small><small>[[G3091]]</small></small></sup> |
 [[Gen.11.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.26|<< Genesis 11:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.28|Genesis 11:28 >>]]</td></tr></table>
 
 

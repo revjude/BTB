@@ -9,12 +9,12 @@ The house of the wicked will be destroyed, but the tent of the upright will flou
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] houses | <span class="asgreek">οικίαι <sup><small><small>[[G3614]]</small></small></sup> </span> |
-| of \[the\] impious | <span class="asgreek">ασεβών <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| shall be obliterated; | <span class="asgreek">αφανισθήσονται <sup><small><small>[[G0853]]</small></small></sup> </span> |
-| but \[the\] tents | <span class="asgreek">σκηναί <sup><small><small>[[G4633]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of \[the\] ones keeping straight | <span class="asgreek">κατορθούντων <sup><small><small>[[G7976]]</small></small></sup> </span> |
-| shall stand. | <span class="asgreek">στήσονται <sup><small><small>[[G2476]]</small></small></sup> </span> |
+| \[The\] houses | <big><span class="asgreek">οικίαι</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| of \[the\] impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| shall be obliterated; | <big><span class="asgreek">αφανισθήσονται</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| but \[the\] tents | <big><span class="asgreek">σκηναί</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of \[the\] ones keeping straight | <big><span class="asgreek">κατορθούντων</span></big> <sup><small><small>[[G7976]]</small></small></sup> |
+| shall stand. | <big><span class="asgreek">στήσονται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
 [[Prov.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.10|<< Proverbs 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.12|Proverbs 14:12 >>]]</td></tr></table>
 
 

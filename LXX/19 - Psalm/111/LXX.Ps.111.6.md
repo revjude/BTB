@@ -9,16 +9,16 @@ He has shown His people the power of His works by giving them the inheritance of
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] strength | <span class="asgreek">ισχύν <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| of his works | <span class="asgreek">έργων <sup><small><small>[[G2041]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he announced | <span class="asgreek">ανήγγειλε <sup><small><small>[[G0312]]</small></small></sup> </span> |
-| to | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his people; | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to give | <span class="asgreek">δούναι <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] inheritance | <span class="asgreek">κληρονομίαν <sup><small><small>[[G2817]]</small></small></sup> </span> |
-| of nations. | <span class="asgreek">εθνών <sup><small><small>[[G1484]]</small></small></sup> </span> |
+| \[The\] strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| of his works | <big><span class="asgreek">έργων</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he announced | <big><span class="asgreek">ανήγγειλε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
+| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his people; | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] inheritance | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> |
+| of nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
 [[Ps.111.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.111.5|<< Psalm 111:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.111.7|Psalm 111:7 >>]]</td></tr></table>
 
 

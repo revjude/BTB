@@ -9,16 +9,16 @@ Can anyone indict me? If so, I will be silent and die.<small><sub>**MT:**</sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| passing judgment | <span class="asgreek">κριθησόμενός <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| to me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| I shall be silent | <span class="asgreek">κωφεύσω <sup><small><small>[[G8146]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall cease? | <span class="asgreek">εκλείψω <sup><small><small>[[G1587]]</small></small></sup> </span> |
+| For who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| passing judgment | <big><span class="asgreek">κριθησόμενός</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| I shall be silent | <big><span class="asgreek">κωφεύσω</span></big> <sup><small><small>[[G8146]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall cease? | <big><span class="asgreek">εκλείψω</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
 [[Job.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.18|<< Job 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.20|Job 13:20 >>]]</td></tr></table>
 
 

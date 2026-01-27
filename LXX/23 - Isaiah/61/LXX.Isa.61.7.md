@@ -9,17 +9,17 @@ Instead of shame, My people will have a double portion, and instead of humiliati
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| a second \[time\] | <span class="asgreek">δευτέρας <sup><small><small>[[G1208]]</small></small></sup> </span> |
-| they shall inherit | <span class="asgreek">κληρονομήσουσι <sup><small><small>[[G2816]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land, | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gladness | <span class="asgreek">ευφροσύνη <sup><small><small>[[G2167]]</small></small></sup> </span> |
-| everlasting | <span class="asgreek">αιώνιος <sup><small><small>[[G0166]]</small></small></sup> </span> |
-| \[is\] above | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| their head. | <span class="asgreek">κεφαλής <sup><small><small>[[G2776]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| a second \[time\] | <big><span class="asgreek">δευτέρας</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| they shall inherit | <big><span class="asgreek">κληρονομήσουσι</span></big> <sup><small><small>[[G2816]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
+| everlasting | <big><span class="asgreek">αιώνιος</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| \[is\] above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| their head. | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.61.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.6|<< Isaiah 61:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.8|Isaiah 61:8 >>]]</td></tr></table>
 
 

@@ -9,22 +9,22 @@ Better is a poor but wise youth than an old but foolish king who no longer knows
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Better | <span class="asgreek">αγαθός <sup><small><small>[[G0018]]</small></small></sup> </span> |
-| child | <span class="asgreek">παις <sup><small><small>[[G3816]]</small></small></sup> </span> |
-| a needy | <span class="asgreek">πένης <sup><small><small>[[G3993]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wise | <span class="asgreek">σοφός <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| than | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| an older | <span class="asgreek">πρεσβύτερον <sup><small><small>[[G4245]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| foolish | <span class="asgreek">άφρονα <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| does not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| know | <span class="asgreek">έγνω <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to take heed | <span class="asgreek">προσέχειν <sup><small><small>[[G4337]]</small></small></sup> </span> |
-| any longer. | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
+| Better | <big><span class="asgreek">αγαθός</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| child | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
+| a needy | <big><span class="asgreek">πένης</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wise | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| an older | <big><span class="asgreek">πρεσβύτερον</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| foolish | <big><span class="asgreek">άφρονα</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| know | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to take heed | <big><span class="asgreek">προσέχειν</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
+| any longer. | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
 [[Eccl.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.12|<< Ecclesiastes 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.14|Ecclesiastes 4:14 >>]]</td></tr></table>
 
 

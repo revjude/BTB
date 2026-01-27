@@ -13,22 +13,22 @@ For not a word they speak can be trusted; destruction lies within them. Their th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| there is no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their mouth | <span class="asgreek">στόματι <sup><small><small>[[G4750]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| truth | <span class="asgreek">αλήθεια <sup><small><small>[[G0225]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their heart | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| is vain; | <span class="asgreek">ματαία <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| \[is\] a tomb | <span class="asgreek">τάφος <sup><small><small>[[G5028]]</small></small></sup> </span> |
-| having been opened | <span class="asgreek">ανεωγμένος <sup><small><small>[[G0455]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their throat | <span class="asgreek">λάρυγξ <sup><small><small>[[G2995]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[with\]\<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their tongues | <span class="asgreek">γλώσσαις <sup><small><small>[[G1100]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they used deceit. | <span class="asgreek">εδολιούσαν <sup><small><small>[[G1387]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their mouth | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| truth | <big><span class="asgreek">αλήθεια</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is vain; | <big><span class="asgreek">ματαία</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| \[is\] a tomb | <big><span class="asgreek">τάφος</span></big> <sup><small><small>[[G5028]]</small></small></sup> |
+| having been opened | <big><span class="asgreek">ανεωγμένος</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their throat | <big><span class="asgreek">λάρυγξ</span></big> <sup><small><small>[[G2995]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[with\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their tongues | <big><span class="asgreek">γλώσσαις</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they used deceit. | <big><span class="asgreek">εδολιούσαν</span></big> <sup><small><small>[[G1387]]</small></small></sup> |
 [[Ps.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.8|<< Psalm 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.10|Psalm 5:10 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ You have made us a reproach to our neighbors, a mockery and derision to those ar
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You put | <span class="asgreek">έθου <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| us | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[for\] scorn | <span class="asgreek">όνειδος <sup><small><small>[[G3681]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our neighbors; | <span class="asgreek">γείτοσιν <sup><small><small>[[G1069]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[for\] a sneering | <span class="asgreek">μυκτηρισμόν <sup><small><small>[[G8357]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a taunting | <span class="asgreek">χλευασμόν <sup><small><small>[[G9737]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| round about | <span class="asgreek">κύκλω <sup><small><small>[[G2945]]</small></small></sup> </span> |
-| us. | <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| You put | <big><span class="asgreek">έθου</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[for\] scorn | <big><span class="asgreek">όνειδος</span></big> <sup><small><small>[[G3681]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our neighbors; | <big><span class="asgreek">γείτοσιν</span></big> <sup><small><small>[[G1069]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[for\] a sneering | <big><span class="asgreek">μυκτηρισμόν</span></big> <sup><small><small>[[G8357]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a taunting | <big><span class="asgreek">χλευασμόν</span></big> <sup><small><small>[[G9737]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
+| us. | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.44.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.12|<< Psalm 44:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.14|Psalm 44:14 >>]]</td></tr></table>
 
 

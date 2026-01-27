@@ -9,29 +9,29 @@ But Moses replied, “It would not be right to do that, because the sacrifices w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Moses said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Μωυσής <sup><small><small>[[G3475]]</small></small></sup> </span> |
-| It is not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| possible | <span class="asgreek">δυνατόν <sup><small><small>[[G1415]]</small></small></sup> </span> |
-| to be | <span class="asgreek">γενέσθαι <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| so. | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| For the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| abominations | <span class="asgreek">βδελύγματα <sup><small><small>[[G0946]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Egyptians | <span class="asgreek">Αιγυπτίων <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| we sacrifice | <span class="asgreek">θύσομεν <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| \[to the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our God. | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| For if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| we should sacrifice | <span class="asgreek">θύσωμεν <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| abominations | <span class="asgreek">βδελύγματα <sup><small><small>[[G0946]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Egyptians | <span class="asgreek">Αιγυπτίων <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| before | <span class="asgreek">εναντίον <sup><small><small>[[G1726]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| we shall have stones thrown \[at us\]. | <span class="asgreek">λιθοβοληθησόμεθα <sup><small><small>[[G3036]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Moses said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| It is not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| possible | <big><span class="asgreek">δυνατόν</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| to be | <big><span class="asgreek">γενέσθαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| so. | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| For the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| abominations | <big><span class="asgreek">βδελύγματα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Egyptians | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| we sacrifice | <big><span class="asgreek">θύσομεν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| \[to the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| we should sacrifice | <big><span class="asgreek">θύσωμεν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| abominations | <big><span class="asgreek">βδελύγματα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Egyptians | <big><span class="asgreek">Αιγυπτίων</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| we shall have stones thrown \[at us\]. | <big><span class="asgreek">λιθοβοληθησόμεθα</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
 [[Exod.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.25|<< Exodus 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.27|Exodus 8:27 >>]]</td></tr></table>
 
 

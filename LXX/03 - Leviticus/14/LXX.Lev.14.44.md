@@ -9,25 +9,25 @@ the priest must come and inspect it. If the mildew has spread in the house, it i
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| then | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall enter | <span class="asgreek">εισελεύσεται <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priest | <span class="asgreek">ιερεύς <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall look. | <span class="asgreek">όψεται <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| If | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| be dispersed | <span class="asgreek">διακέχυται <sup><small><small>[[G6904]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| infection | <span class="asgreek">αφή <sup><small><small>[[G0860]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οικία <sup><small><small>[[G3614]]</small></small></sup> </span> |
-| leprosy | <span class="asgreek">λέπρα <sup><small><small>[[G3014]]</small></small></sup> </span> |
-| it is a permanent | <span class="asgreek">έμμονός <sup><small><small>[[G7191]]</small></small></sup> <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house -- | <span class="asgreek">οικία <sup><small><small>[[G3614]]</small></small></sup> </span> |
-| it is unclean. | <span class="asgreek">ακάθαρτός <sup><small><small>[[G0169]]</small></small></sup> <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall look. | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| be dispersed | <big><span class="asgreek">διακέχυται</span></big> <sup><small><small>[[G6904]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| leprosy | <big><span class="asgreek">λέπρα</span></big> <sup><small><small>[[G3014]]</small></small></sup> |
+| it is a permanent | <big><span class="asgreek">έμμονός</span></big> <sup><small><small>[[G7191]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house -- | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| it is unclean. | <big><span class="asgreek">ακάθαρτός</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Lev.14.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.43|<< Leviticus 14:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.45|Leviticus 14:45 >>]]</td></tr></table>
 
 

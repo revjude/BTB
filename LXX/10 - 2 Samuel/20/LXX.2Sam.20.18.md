@@ -9,21 +9,21 @@ Then the woman said, “Long ago they used to say, ‘Seek counsel at Abel,’ a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγουσα <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| a word | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| They spoke | <span class="asgreek">ελάλησαν <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| at | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| first, | <span class="asgreek">πρώτοις <sup><small><small>[[G4413]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγοντες <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| By asking | <span class="asgreek">ερωτώντες <sup><small><small>[[G2065]]</small></small></sup> </span> |
-| they shall ask | <span class="asgreek">επερωτήσουσιν <sup><small><small>[[G1905]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Abel; | <span class="asgreek">Αβέλ <sup><small><small>[[H0059]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| they ceased. | <span class="asgreek">εξέλιπον <sup><small><small>[[G1587]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγουσα</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| a word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| They spoke | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| first, | <big><span class="asgreek">πρώτοις</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| By asking | <big><span class="asgreek">ερωτώντες</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
+| they shall ask | <big><span class="asgreek">επερωτήσουσιν</span></big> <sup><small><small>[[G1905]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Abel; | <big><span class="asgreek">Αβέλ</span></big> <sup><small><small>[[H0059]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| they ceased. | <big><span class="asgreek">εξέλιπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
 [[2Sam.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.17|<< 2 Samuel 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.19|2 Samuel 20:19 >>]]</td></tr></table>
 
 

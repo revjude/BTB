@@ -9,36 +9,36 @@ Before the servant had finished praying, Rebekah came out with her jar on her sh
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it came to pass | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| before | <span class="asgreek">προ <sup><small><small>[[G4253]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| completing | <span class="asgreek">συντελέσαι <sup><small><small>[[G4931]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| speaking | <span class="asgreek">λαλούντα <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his mind, | <span class="asgreek">διανοία <sup><small><small>[[G1271]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| Rebekah | <span class="asgreek">Ρεβέκκα <sup><small><small>[[G4479]]</small></small></sup> </span> |
-| came forth -- | <span class="asgreek">εξεπορεύετο <sup><small><small>[[G1607]]</small></small></sup> </span> |
-| the \[one\]\<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| born to | <span class="asgreek">τεχθείσα <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| Bethuel, | <span class="asgreek">Βαθουήλ <sup><small><small>[[H6602]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιώ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Milcah, | <span class="asgreek">Μελχάς <sup><small><small>[[H4435]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wife | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| of Nahor, | <span class="asgreek">Ναχώρ <sup><small><small>[[G3493]]</small></small></sup> </span> |
-| and brother | <span class="asgreek">αδελφού <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of Abraham, | <span class="asgreek">Αβραάμ <sup><small><small>[[G0011]]</small></small></sup> </span> |
-| having | <span class="asgreek">έχουσα <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| water-pitcher | <span class="asgreek">υδρίαν <sup><small><small>[[G5201]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her shoulders. | <span class="asgreek">ώμων <sup><small><small>[[G5606]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| completing | <big><span class="asgreek">συντελέσαι</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| speaking | <big><span class="asgreek">λαλούντα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his mind, | <big><span class="asgreek">διανοία</span></big> <sup><small><small>[[G1271]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| Rebekah | <big><span class="asgreek">Ρεβέκκα</span></big> <sup><small><small>[[G4479]]</small></small></sup> |
+| came forth -- | <big><span class="asgreek">εξεπορεύετο</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
+| the \[one\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| born to | <big><span class="asgreek">τεχθείσα</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| Bethuel, | <big><span class="asgreek">Βαθουήλ</span></big> <sup><small><small>[[H6602]]</small></small></sup> |
+| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Milcah, | <big><span class="asgreek">Μελχάς</span></big> <sup><small><small>[[H4435]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wife | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| of Nahor, | <big><span class="asgreek">Ναχώρ</span></big> <sup><small><small>[[G3493]]</small></small></sup> |
+| and brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of Abraham, | <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
+| having | <big><span class="asgreek">έχουσα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| water-pitcher | <big><span class="asgreek">υδρίαν</span></big> <sup><small><small>[[G5201]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her shoulders. | <big><span class="asgreek">ώμων</span></big> <sup><small><small>[[G5606]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.14|<< Genesis 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.16|Genesis 24:16 >>]]</td></tr></table>
 
 

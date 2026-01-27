@@ -9,15 +9,15 @@ When Enosh was 90 years old, he became the father of Kenan.<small><sub>**MT:**<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Enos lived | <span class="asgreek">έζησεν <sup><small><small>[[G2198]]</small></small></sup> <span class="asgreek">Ενώς <sup><small><small>[[G1800]]</small></small></sup> </span> |
-| years | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| a hundred | <span class="asgreek">εκατόν <sup><small><small>[[G1540]]</small></small></sup> </span> |
-| ninety | <span class="asgreek">ενενήκοντα <sup><small><small>[[G7249]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he procreated | <span class="asgreek">εγέννησε <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Cainan. | <span class="asgreek">Καϊναν <sup><small><small>[[G2536]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Enos lived | <big><span class="asgreek">έζησεν</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">Ενώς</span></big> <sup><small><small>[[G1800]]</small></small></sup> |
+| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
+| ninety | <big><span class="asgreek">ενενήκοντα</span></big> <sup><small><small>[[G7249]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Cainan. | <big><span class="asgreek">Καϊναν</span></big> <sup><small><small>[[G2536]]</small></small></sup> |
 [[Gen.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.8|<< Genesis 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.10|Genesis 5:10 >>]]</td></tr></table>
 
 

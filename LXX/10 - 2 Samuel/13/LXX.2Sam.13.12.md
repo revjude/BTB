@@ -9,24 +9,24 @@ And she answered him, Nay, my brother, do not force me; for no such thing ought 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| No, | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| O my brother, | <span class="asgreek">αδελφέ μου <sup><small><small>[[G0080]]</small></small></sup> </span> |
-| you should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| abase | <span class="asgreek">ταπεινώσης <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| it shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be done | <span class="asgreek">ποιηθήσεται <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Israel. | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| You should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| do | <span class="asgreek">ποιήσης <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this folly. | <span class="asgreek">αφροσύνην <sup><small><small>[[G0877]]</small></small></sup> <span class="asgreek">ταύτην <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| No, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| O my brother, | <big><span class="asgreek">αδελφέ μου</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
+| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| abase | <big><span class="asgreek">ταπεινώσης</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be done | <big><span class="asgreek">ποιηθήσεται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| do | <big><span class="asgreek">ποιήσης</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this folly. | <big><span class="asgreek">αφροσύνην</span></big> <sup><small><small>[[G0877]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
 [[2Sam.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.11|<< 2 Samuel 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.13|2 Samuel 13:13 >>]]</td></tr></table>
 
 

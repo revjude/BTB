@@ -9,19 +9,19 @@ From the descendants of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Hashum -- | <span class="asgreek">Ασήμ <sup><small><small>[[H2828]]</small></small></sup> </span> |
-| Mattenai, | <span class="asgreek">Ματθαναϊ <sup><small><small>[[H4982]]</small></small></sup> </span> |
-| Mattathah, | <span class="asgreek">Ματθαθά <sup><small><small>[[H4992]]</small></small></sup> </span> |
-| Zabad, | <span class="asgreek">Ζαβάδ <sup><small><small>[[H2066]]</small></small></sup> </span> |
-| Eliphelet, | <span class="asgreek">Ελιφαλέτ <sup><small><small>[[H0467]]</small></small></sup> </span> |
-| Jeremai, | <span class="asgreek">Ιερεμί <sup><small><small>[[H3413]]</small></small></sup> </span> |
-| Manasseh, | <span class="asgreek">Μανασσής <sup><small><small>[[G3128]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shimei. | <span class="asgreek">Σεμεϊ <sup><small><small>[[H8096]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Hashum -- | <big><span class="asgreek">Ασήμ</span></big> <sup><small><small>[[H2828]]</small></small></sup> |
+| Mattenai, | <big><span class="asgreek">Ματθαναϊ</span></big> <sup><small><small>[[H4982]]</small></small></sup> |
+| Mattathah, | <big><span class="asgreek">Ματθαθά</span></big> <sup><small><small>[[H4992]]</small></small></sup> |
+| Zabad, | <big><span class="asgreek">Ζαβάδ</span></big> <sup><small><small>[[H2066]]</small></small></sup> |
+| Eliphelet, | <big><span class="asgreek">Ελιφαλέτ</span></big> <sup><small><small>[[H0467]]</small></small></sup> |
+| Jeremai, | <big><span class="asgreek">Ιερεμί</span></big> <sup><small><small>[[H3413]]</small></small></sup> |
+| Manasseh, | <big><span class="asgreek">Μανασσής</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shimei. | <big><span class="asgreek">Σεμεϊ</span></big> <sup><small><small>[[H8096]]</small></small></sup> |
 [[Ezra.10.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.32|<< Ezra 10:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.34|Ezra 10:34 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ Now My eyes will be open and My ears attentive to the prayers offered in this pl
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| now, | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my eyes | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| open, | <span class="asgreek">ανεωγμένοι <sup><small><small>[[G0455]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my ears | <span class="asgreek">ωτά <sup><small><small>[[G3775]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| attentive | <span class="asgreek">επήκοα <sup><small><small>[[G7385]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prayer | <span class="asgreek">προσευχή <sup><small><small>[[G4335]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of this people. | <span class="asgreek">τόπου <sup><small><small>[[G5117]]</small></small></sup> <span class="asgreek">τούτου <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| now, | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| open, | <big><span class="asgreek">ανεωγμένοι</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my ears | <big><span class="asgreek">ωτά</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| attentive | <big><span class="asgreek">επήκοα</span></big> <sup><small><small>[[G7385]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prayer | <big><span class="asgreek">προσευχή</span></big> <sup><small><small>[[G4335]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of this people. | <big><span class="asgreek">τόπου</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">τούτου</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
 [[2Chr.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.14|<< 2 Chronicles 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.16|2 Chronicles 7:16 >>]]</td></tr></table>
 
 

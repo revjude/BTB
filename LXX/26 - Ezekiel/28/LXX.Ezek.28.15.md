@@ -9,22 +9,22 @@ From the day you were created you were blameless in your ways—until wickedness
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You were | <span class="asgreek">εγενήθης <sup><small><small>[[G1096]]</small></small></sup> <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| unblemished | <span class="asgreek">άμωμος <sup><small><small>[[G0299]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your days | <span class="asgreek">ημέραις <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| of | <span class="asgreek">αφ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| which | <span class="asgreek">ης <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρας <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| you were created, | <span class="asgreek">εκτίσθης <sup><small><small>[[G2936]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| of which \[time\] | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| were found | <span class="asgreek">ευρέθη <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| offences | <span class="asgreek">αδικήματα <sup><small><small>[[G0092]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| You were | <big><span class="asgreek">εγενήθης</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| unblemished | <big><span class="asgreek">άμωμος</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| of | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| you were created, | <big><span class="asgreek">εκτίσθης</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| were found | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| offences | <big><span class="asgreek">αδικήματα</span></big> <sup><small><small>[[G0092]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.14|<< Ezekiel 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.16|Ezekiel 28:16 >>]]</td></tr></table>
 
 

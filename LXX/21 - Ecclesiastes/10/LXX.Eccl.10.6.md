@@ -9,17 +9,17 @@ Folly is appointed to great heights, but the rich sit in lowly positions.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| was put | <span class="asgreek">εδόθη <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fool | <span class="asgreek">άφρων <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| heights | <span class="asgreek">ύψεσι <sup><small><small>[[G5311]]</small></small></sup> </span> |
-| great | <span class="asgreek">μεγάλοις <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] rich | <span class="asgreek">πλούσιοι <sup><small><small>[[G4145]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| low | <span class="asgreek">ταπεινώ <sup><small><small>[[G5011]]</small></small></sup> </span> |
-| shall settle | <span class="asgreek">καθήσονται <sup><small><small>[[G2521]]</small></small></sup> </span> |
+| was put | <big><span class="asgreek">εδόθη</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fool | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| heights | <big><span class="asgreek">ύψεσι</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
+| great | <big><span class="asgreek">μεγάλοις</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] rich | <big><span class="asgreek">πλούσιοι</span></big> <sup><small><small>[[G4145]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| low | <big><span class="asgreek">ταπεινώ</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
+| shall settle | <big><span class="asgreek">καθήσονται</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
 [[Eccl.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.5|<< Ecclesiastes 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.7|Ecclesiastes 10:7 >>]]</td></tr></table>
 
 

@@ -9,19 +9,19 @@ How then can a man be just before God? How can one born of woman be pure?<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For how | <span class="asgreek">πως <sup><small><small>[[G4459]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| just | <span class="asgreek">δίκαιος <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| a mortal | <span class="asgreek">βροτός <sup><small><small>[[G6699]]</small></small></sup> </span> |
-| before | <span class="asgreek">έναντι <sup><small><small>[[G1725]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>? | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| may | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| cleanse | <span class="asgreek">αποκαθαρίσαι <sup><small><small>[[G6435]]</small></small></sup> </span> |
-| himself | <span class="asgreek">εαυτόν <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| born | <span class="asgreek">γεννητός <sup><small><small>[[G1084]]</small></small></sup> </span> |
-| of a woman? | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> </span> |
+| For how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| a mortal | <big><span class="asgreek">βροτός</span></big> <sup><small><small>[[G6699]]</small></small></sup> |
+| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| may | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| cleanse | <big><span class="asgreek">αποκαθαρίσαι</span></big> <sup><small><small>[[G6435]]</small></small></sup> |
+| himself | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| born | <big><span class="asgreek">γεννητός</span></big> <sup><small><small>[[G1084]]</small></small></sup> |
+| of a woman? | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
 [[Job.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.25.3|<< Job 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.5|Job 25:5 >>]]</td></tr></table>
 
 

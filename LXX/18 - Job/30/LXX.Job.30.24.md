@@ -9,17 +9,17 @@ Yet no one stretches out his hand against a ruined man when he cries for help in
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| ought | <span class="asgreek">όφελον <sup><small><small>[[G3784]]</small></small></sup> </span> |
-| \[that\] I should be able | <span class="asgreek">δυναίμην <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| myself | <span class="asgreek">εμαυτόν <sup><small><small>[[G1683]]</small></small></sup> </span> |
-| to lay hands upon | <span class="asgreek">διαχειρώσασθαι <sup><small><small>[[G1315]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| indeed beseech | <span class="asgreek">δεηθείς <sup><small><small>[[G1189]]</small></small></sup> <span class="asgreek">γε <sup><small><small>[[G1065]]</small></small></sup> </span> |
-| another | <span class="asgreek">ετέρου <sup><small><small>[[G2087]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he should do | <span class="asgreek">ποιήσει <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| this to me. | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| ought | <big><span class="asgreek">όφελον</span></big> <sup><small><small>[[G3784]]</small></small></sup> |
+| \[that\] I should be able | <big><span class="asgreek">δυναίμην</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| myself | <big><span class="asgreek">εμαυτόν</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
+| to lay hands upon | <big><span class="asgreek">διαχειρώσασθαι</span></big> <sup><small><small>[[G1315]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| indeed beseech | <big><span class="asgreek">δεηθείς</span></big> <sup><small><small>[[G1189]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
+| another | <big><span class="asgreek">ετέρου</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he should do | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| this to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
 [[Job.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.23|<< Job 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.25|Job 30:25 >>]]</td></tr></table>
 
 

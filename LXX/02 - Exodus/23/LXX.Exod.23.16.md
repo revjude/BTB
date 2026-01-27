@@ -9,36 +9,36 @@ You are also to keep the Feast of Harvest with the firstfruits of the produce fr
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a holiday | <span class="asgreek">εορτήν <sup><small><small>[[G1859]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| harvest | <span class="asgreek">θερισμού <sup><small><small>[[G2326]]</small></small></sup> </span> |
-| of the first produce | <span class="asgreek">πρωτογεννημάτων <sup><small><small>[[G8966]]</small></small></sup> </span> |
-| you shall observe | <span class="asgreek">ποιήσεις <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your works, | <span class="asgreek">έργων <sup><small><small>[[G2041]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| what | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you sow | <span class="asgreek">σπειρείς <sup><small><small>[[G4687]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your field; | <span class="asgreek">αγρώ <sup><small><small>[[G0068]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a holiday | <span class="asgreek">εορτήν <sup><small><small>[[G1859]]</small></small></sup> </span> |
-| of completion | <span class="asgreek">συντελείας <sup><small><small>[[G4930]]</small></small></sup> </span> |
-| at | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] conclusion | <span class="asgreek">εξόδου <sup><small><small>[[G1841]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| year | <span class="asgreek">ενιαυτού <sup><small><small>[[G1763]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gathering | <span class="asgreek">συναγωγή <sup><small><small>[[G4864]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your works, | <span class="asgreek">έργων <sup><small><small>[[G2041]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your field. | <span class="asgreek">άγρου <sup><small><small>[[G0068]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a holiday | <big><span class="asgreek">εορτήν</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| harvest | <big><span class="asgreek">θερισμού</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
+| of the first produce | <big><span class="asgreek">πρωτογεννημάτων</span></big> <sup><small><small>[[G8966]]</small></small></sup> |
+| you shall observe | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your works, | <big><span class="asgreek">έργων</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| what | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you sow | <big><span class="asgreek">σπειρείς</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your field; | <big><span class="asgreek">αγρώ</span></big> <sup><small><small>[[G0068]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a holiday | <big><span class="asgreek">εορτήν</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
+| of completion | <big><span class="asgreek">συντελείας</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
+| at | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] conclusion | <big><span class="asgreek">εξόδου</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| year | <big><span class="asgreek">ενιαυτού</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gathering | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your works, | <big><span class="asgreek">έργων</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your field. | <big><span class="asgreek">άγρου</span></big> <sup><small><small>[[G0068]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Exod.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.15|<< Exodus 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.17|Exodus 23:17 >>]]</td></tr></table>
 
 

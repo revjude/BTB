@@ -9,14 +9,14 @@ then you will discern the fear of the LORD and discover the knowledge of God.<s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| you shall perceive | <span class="asgreek">συνήσεις <sup><small><small>[[G4920]]</small></small></sup> </span> |
-| \[the\] fear | <span class="asgreek">φόβον <sup><small><small>[[G5401]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| full knowledge | <span class="asgreek">επίγνωσιν <sup><small><small>[[G1922]]</small></small></sup> </span> |
-| of God | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| you will find | <span class="asgreek">ευρήσεις <sup><small><small>[[G2147]]</small></small></sup> </span> |
+| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| you shall perceive | <big><span class="asgreek">συνήσεις</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| \[the\] fear | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| full knowledge | <big><span class="asgreek">επίγνωσιν</span></big> <sup><small><small>[[G1922]]</small></small></sup> |
+| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| you will find | <big><span class="asgreek">ευρήσεις</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
 [[Prov.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.4|<< Proverbs 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.6|Proverbs 2:6 >>]]</td></tr></table>
 
 

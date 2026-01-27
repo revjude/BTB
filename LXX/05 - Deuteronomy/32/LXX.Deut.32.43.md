@@ -13,51 +13,51 @@ Rejoice, O heavens, with Him, and let all God’s angels worship Him. Rejoice, O
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Be glad, | <span class="asgreek">ευφράνθητε <sup><small><small>[[G2165]]</small></small></sup> </span> |
-| O heavens, | <span class="asgreek">ουρανοί <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| together | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| with him! | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| do obeisance | <span class="asgreek">προσκυνησάτωσαν <sup><small><small>[[G4352]]</small></small></sup> </span> |
-| to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| angels | <span class="asgreek">άγγελοι <sup><small><small>[[G0032]]</small></small></sup> </span> |
-| of God! | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| Be glad, | <span class="asgreek">ευφράνθητε <sup><small><small>[[G2165]]</small></small></sup> </span> |
-| O nations, | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his people! | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| grow in strength | <span class="asgreek">ενισχυσάτωσαν <sup><small><small>[[G1765]]</small></small></sup> </span> |
-| in him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all, | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| O sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of God! | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| blood | <span class="asgreek">αίμα <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he shall avenge, | <span class="asgreek">εκδικείται <sup><small><small>[[G1556]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall avenge | <span class="asgreek">εκδικήσει <sup><small><small>[[G1556]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| recompense | <span class="asgreek">ανταποδώσει <sup><small><small>[[G0467]]</small></small></sup> </span> |
-| punishment | <span class="asgreek">δίκην <sup><small><small>[[G1349]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| enemies. | <span class="asgreek">εχθροίς <sup><small><small>[[G2190]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones detesting | <span class="asgreek">μισούσιν <sup><small><small>[[G3404]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he will recompense, | <span class="asgreek">ανταποδώσει <sup><small><small>[[G0467]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> shall clear out | <span class="asgreek">εκκαθαριεί <sup><small><small>[[G7096]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for his people. | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Be glad, | <big><span class="asgreek">ευφράνθητε</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| O heavens, | <big><span class="asgreek">ουρανοί</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| with him! | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| do obeisance | <big><span class="asgreek">προσκυνησάτωσαν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
+| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| angels | <big><span class="asgreek">άγγελοι</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
+| of God! | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| Be glad, | <big><span class="asgreek">ευφράνθητε</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| O nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his people! | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| grow in strength | <big><span class="asgreek">ενισχυσάτωσαν</span></big> <sup><small><small>[[G1765]]</small></small></sup> |
+| in him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all, | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| O sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of God! | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he shall avenge, | <big><span class="asgreek">εκδικείται</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall avenge | <big><span class="asgreek">εκδικήσει</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| recompense | <big><span class="asgreek">ανταποδώσει</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
+| punishment | <big><span class="asgreek">δίκην</span></big> <sup><small><small>[[G1349]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| enemies. | <big><span class="asgreek">εχθροίς</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones detesting | <big><span class="asgreek">μισούσιν</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he will recompense, | <big><span class="asgreek">ανταποδώσει</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> shall clear out | <big><span class="asgreek">εκκαθαριεί</span></big> <sup><small><small>[[G7096]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for his people. | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.32.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.42|<< Deuteronomy 32:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.44|Deuteronomy 32:44 >>]]</td></tr></table>
 
 

@@ -9,28 +9,28 @@ The wolf will live with the lamb, and the leopard will lie down with the goat; t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be fed together | <span class="asgreek">συμβοσκηθήσεται <sup><small><small>[[G9260]]</small></small></sup> </span> |
-| \[the\] wolf | <span class="asgreek">λύκος <sup><small><small>[[G3074]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \[the\] lamb; | <span class="asgreek">αρνού <sup><small><small>[[G0704]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] leopard | <span class="asgreek">πάρδαλις <sup><small><small>[[G3917]]</small></small></sup> </span> |
-| shall be refreshed together with | <span class="asgreek">συναναπαύσεται <sup><small><small>[[G4875]]</small></small></sup> </span> |
-| \[the\] kid; | <span class="asgreek">ερίφω <sup><small><small>[[G2056]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a young calf | <span class="asgreek">μοσχάριον <sup><small><small>[[G8349]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a lion | <span class="asgreek">λέων <sup><small><small>[[G3023]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a bull | <span class="asgreek">ταύρος <sup><small><small>[[G5022]]</small></small></sup> </span> |
-| together | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| shall graze | <span class="asgreek">βοσκηθήσονται <sup><small><small>[[G1006]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| child | <span class="asgreek">παιδίον <sup><small><small>[[G3813]]</small></small></sup> </span> |
-| a small | <span class="asgreek">μικρόν <sup><small><small>[[G3398]]</small></small></sup> </span> |
-| shall lead | <span class="asgreek">άξει <sup><small><small>[[G0071]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be fed together | <big><span class="asgreek">συμβοσκηθήσεται</span></big> <sup><small><small>[[G9260]]</small></small></sup> |
+| \[the\] wolf | <big><span class="asgreek">λύκος</span></big> <sup><small><small>[[G3074]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \[the\] lamb; | <big><span class="asgreek">αρνού</span></big> <sup><small><small>[[G0704]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] leopard | <big><span class="asgreek">πάρδαλις</span></big> <sup><small><small>[[G3917]]</small></small></sup> |
+| shall be refreshed together with | <big><span class="asgreek">συναναπαύσεται</span></big> <sup><small><small>[[G4875]]</small></small></sup> |
+| \[the\] kid; | <big><span class="asgreek">ερίφω</span></big> <sup><small><small>[[G2056]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a young calf | <big><span class="asgreek">μοσχάριον</span></big> <sup><small><small>[[G8349]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a bull | <big><span class="asgreek">ταύρος</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
+| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| shall graze | <big><span class="asgreek">βοσκηθήσονται</span></big> <sup><small><small>[[G1006]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| child | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
+| a small | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| shall lead | <big><span class="asgreek">άξει</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.5|<< Isaiah 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.7|Isaiah 11:7 >>]]</td></tr></table>
 
 

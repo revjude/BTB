@@ -9,25 +9,25 @@ All the royal servants at the king’s gate bowed down and paid homage to Haman,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| courtyard | <span class="asgreek">αυλή <sup><small><small>[[G0833]]</small></small></sup> </span> |
-| did obeisance to | <span class="asgreek">προσεκύνουν <sup><small><small>[[G4352]]</small></small></sup> </span> |
-| him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| assigned \[it\] | <span class="asgreek">προσέταξεν <sup><small><small>[[G4367]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| to do. | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| But | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| Mordecai | <span class="asgreek">Μαρδαχαίος <sup><small><small>[[H4782]]</small></small></sup> </span> |
-| did not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| do obeisance to | <span class="asgreek">προσεκύνει <sup><small><small>[[G4352]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| courtyard | <big><span class="asgreek">αυλή</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
+| did obeisance to | <big><span class="asgreek">προσεκύνουν</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
+| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| assigned \[it\] | <big><span class="asgreek">προσέταξεν</span></big> <sup><small><small>[[G4367]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| to do. | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| Mordecai | <big><span class="asgreek">Μαρδαχαίος</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
+| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| do obeisance to | <big><span class="asgreek">προσεκύνει</span></big> <sup><small><small>[[G4352]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Esth.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.1|<< Esther 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.3|Esther 3:3 >>]]</td></tr></table>
 
 

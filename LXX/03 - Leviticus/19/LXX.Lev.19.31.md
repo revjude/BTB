@@ -9,21 +9,21 @@ You must not turn to mediums or spiritists; do not seek them out, or you will be
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| follow after | <span class="asgreek">επακολουθήσετε <sup><small><small>[[G1872]]</small></small></sup> </span> |
-| ones who deliver oracles, | <span class="asgreek">εγγαστριμύθοις <sup><small><small>[[G6995]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| enchanters | <span class="asgreek">επαοιδοίς <sup><small><small>[[G7368]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| cleave | <span class="asgreek">προσκολληθήσεσθε <sup><small><small>[[G4347]]</small></small></sup> </span> |
-| to be thoroughly defiled | <span class="asgreek">εκμιανθήναι <sup><small><small>[[G7121]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I \[am\] | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your God. | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| follow after | <big><span class="asgreek">επακολουθήσετε</span></big> <sup><small><small>[[G1872]]</small></small></sup> |
+| ones who deliver oracles, | <big><span class="asgreek">εγγαστριμύθοις</span></big> <sup><small><small>[[G6995]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| enchanters | <big><span class="asgreek">επαοιδοίς</span></big> <sup><small><small>[[G7368]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| cleave | <big><span class="asgreek">προσκολληθήσεσθε</span></big> <sup><small><small>[[G4347]]</small></small></sup> |
+| to be thoroughly defiled | <big><span class="asgreek">εκμιανθήναι</span></big> <sup><small><small>[[G7121]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lev.19.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.30|<< Leviticus 19:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.32|Leviticus 19:32 >>]]</td></tr></table>
 
 

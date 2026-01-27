@@ -12,40 +12,40 @@ Then the five men who had gone to spy out the land of Laish said to their brothe
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| responded | <span class="asgreek">απεκρίθησαν <sup><small><small>[[G0611]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| men | <span class="asgreek">άνδρες <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| going | <span class="asgreek">πορευθέντες <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| to survey | <span class="asgreek">κατασκέψασθαι <sup><small><small>[[G7919]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of Laish | <span class="asgreek">Λαισά <sup><small><small>[[H3919a]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they said | <span class="asgreek">είπον <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their brethren, | <span class="asgreek">αδελφούς <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Did you know | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> <span class="asgreek">οίδατε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| there is | <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| these houses | <span class="asgreek">οίκοις <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">τούτοις <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| an ephod, | <span class="asgreek">εφούδ <sup><small><small>[[G7587]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| teraphim, | <span class="asgreek">θεραφίν <sup><small><small>[[G7655]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a carved \[image\], | <span class="asgreek">γλυπτόν <sup><small><small>[[G6745]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a molten \[image\]? | <span class="asgreek">χωνευτόν <sup><small><small>[[G9778]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| know | <span class="asgreek">γνώτε <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| what | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| you shall do! | <span class="asgreek">ποιήσετε <sup><small><small>[[G4160]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| responded | <big><span class="asgreek">απεκρίθησαν</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| going | <big><span class="asgreek">πορευθέντες</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| to survey | <big><span class="asgreek">κατασκέψασθαι</span></big> <sup><small><small>[[G7919]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of Laish | <big><span class="asgreek">Λαισά</span></big> <sup><small><small>[[H3919a]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they said | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their brethren, | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Did you know | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">οίδατε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| there is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| these houses | <big><span class="asgreek">οίκοις</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| an ephod, | <big><span class="asgreek">εφούδ</span></big> <sup><small><small>[[G7587]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| teraphim, | <big><span class="asgreek">θεραφίν</span></big> <sup><small><small>[[G7655]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a carved \[image\], | <big><span class="asgreek">γλυπτόν</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a molten \[image\]? | <big><span class="asgreek">χωνευτόν</span></big> <sup><small><small>[[G9778]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| know | <big><span class="asgreek">γνώτε</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| you shall do! | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
 [[Judg.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.13|<< Judges 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.15|Judges 18:15 >>]]</td></tr></table>
 
 

@@ -9,37 +9,37 @@ Look upon Zion, the city of our appointed feasts. Your eyes will see Jerusalem, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| Zion | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| city, | <span class="asgreek">πόλις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our deliverance. | <span class="asgreek">σωτήριον <sup><small><small>[[G4992]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Your eyes | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall see | <span class="asgreek">όψονται <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| Jerusalem, | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| city | <span class="asgreek">πόλις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| a rich | <span class="asgreek">πλουσία <sup><small><small>[[G4145]]</small></small></sup> </span> |
-| tents | <span class="asgreek">σκηναί <sup><small><small>[[G4633]]</small></small></sup> </span> |
-| which | <span class="asgreek">αι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall be shaken, | <span class="asgreek">σεισθώσιν <sup><small><small>[[G4579]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδέ μη <sup><small><small>[[G8565]]</small></small></sup> </span> |
-| be moved | <span class="asgreek">κινηθώσιν <sup><small><small>[[G2795]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| stanchions | <span class="asgreek">πάσσαλοι <sup><small><small>[[G8662]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of her tent | <span class="asgreek">σκηνής <sup><small><small>[[G4633]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eon | <span class="asgreek">αιώνα <sup><small><small>[[G0165]]</small></small></sup> </span> |
-| of time, | <span class="asgreek">χρόνον <sup><small><small>[[G5550]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her rough cords | <span class="asgreek">σχοινία <sup><small><small>[[G4979]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in any way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall | <span class="asgreek">διαρραγώσιν <sup><small><small>[[G1284]]</small></small></sup> </span> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| city, | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our deliverance. | <big><span class="asgreek">σωτήριον</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Your eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall see | <big><span class="asgreek">όψονται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| a rich | <big><span class="asgreek">πλουσία</span></big> <sup><small><small>[[G4145]]</small></small></sup> |
+| tents | <big><span class="asgreek">σκηναί</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| which | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall be shaken, | <big><span class="asgreek">σεισθώσιν</span></big> <sup><small><small>[[G4579]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
+| be moved | <big><span class="asgreek">κινηθώσιν</span></big> <sup><small><small>[[G2795]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| stanchions | <big><span class="asgreek">πάσσαλοι</span></big> <sup><small><small>[[G8662]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of her tent | <big><span class="asgreek">σκηνής</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eon | <big><span class="asgreek">αιώνα</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| of time, | <big><span class="asgreek">χρόνον</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her rough cords | <big><span class="asgreek">σχοινία</span></big> <sup><small><small>[[G4979]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall | <big><span class="asgreek">διαρραγώσιν</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
 [[Isa.33.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.19|<< Isaiah 33:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.21|Isaiah 33:21 >>]]</td></tr></table>
 
 

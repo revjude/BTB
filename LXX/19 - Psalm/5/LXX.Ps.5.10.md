@@ -9,25 +9,25 @@ Declare them guilty, O God; let them fall by their own devices. Drive them out f
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Judge | <span class="asgreek">κρίνον <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God! | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| let them fall away | <span class="asgreek">αποπεσάτωσαν <sup><small><small>[[G0634]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their deliberations! | <span class="asgreek">διαβουλιών <sup><small><small>[[G6818]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| According to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| multitude | <span class="asgreek">πλήθος <sup><small><small>[[G4128]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of their impieties | <span class="asgreek">ασεβειών <sup><small><small>[[G0763]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| banish | <span class="asgreek">έξωσον <sup><small><small>[[G1856]]</small></small></sup> </span> |
-| them! | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| they rebelled against | <span class="asgreek">παρεπίκρανάν <sup><small><small>[[G3893]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>. | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| Judge | <big><span class="asgreek">κρίνον</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God! | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| let them fall away | <big><span class="asgreek">αποπεσάτωσαν</span></big> <sup><small><small>[[G0634]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their deliberations! | <big><span class="asgreek">διαβουλιών</span></big> <sup><small><small>[[G6818]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of their impieties | <big><span class="asgreek">ασεβειών</span></big> <sup><small><small>[[G0763]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| banish | <big><span class="asgreek">έξωσον</span></big> <sup><small><small>[[G1856]]</small></small></sup> |
+| them! | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| they rebelled against | <big><span class="asgreek">παρεπίκρανάν</span></big> <sup><small><small>[[G3893]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Ps.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.9|<< Psalm 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.11|Psalm 5:11 >>]]</td></tr></table>
 
 

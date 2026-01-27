@@ -9,19 +9,19 @@ If I rise on the wings of the dawn, if I settle by the farthest sea,<small><sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| I may take up | <span class="asgreek">αναλάβοιμι <sup><small><small>[[G0353]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my wings | <span class="asgreek">πτέρυγάς <sup><small><small>[[G4420]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| at | <span class="asgreek">κατ΄ <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| dawn, | <span class="asgreek">όρθρον <sup><small><small>[[G3722]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I should encamp | <span class="asgreek">κατασκνηώσω <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ends | <span class="asgreek">έσχατα <sup><small><small>[[G2078]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sea, | <span class="asgreek">θαλάσσης <sup><small><small>[[G2281]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| I may take up | <big><span class="asgreek">αναλάβοιμι</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my wings | <big><span class="asgreek">πτέρυγάς</span></big> <sup><small><small>[[G4420]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| at | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| dawn, | <big><span class="asgreek">όρθρον</span></big> <sup><small><small>[[G3722]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I should encamp | <big><span class="asgreek">κατασκνηώσω</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ends | <big><span class="asgreek">έσχατα</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sea, | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
 [[Ps.139.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.8|<< Psalm 139:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.10|Psalm 139:10 >>]]</td></tr></table>
 
 

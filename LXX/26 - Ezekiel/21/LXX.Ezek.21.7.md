@@ -9,50 +9,50 @@ And when they ask, ‘Why are you groaning?’ you are to say, ‘Because of the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| they should say | <span class="asgreek">είπωσι <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| For what \[reason\] | <span class="asgreek">ένεκε <sup><small><small>[[G1752]]</small></small></sup> <span class="asgreek">τίνος <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| do you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| moan? | <span class="asgreek">στενάζεις <sup><small><small>[[G4727]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall say, | <span class="asgreek">ερείς <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| For | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| message, | <span class="asgreek">αγγελία <sup><small><small>[[G0031]]</small></small></sup> </span> |
-| for | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| it comes, | <span class="asgreek">έρχεται <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be devastated | <span class="asgreek">θραυσθήσεται <sup><small><small>[[G2352]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| heart | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be disabled | <span class="asgreek">παραλυθήσονται <sup><small><small>[[G3886]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσαι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| hands | <span class="asgreek">χείρες <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall expire | <span class="asgreek">εκψύξει <sup><small><small>[[G1634]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| flesh | <span class="asgreek">σαρξ <sup><small><small>[[G4561]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| spirit, | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| thighs | <span class="asgreek">μηροί <sup><small><small>[[G3382]]</small></small></sup> </span> |
-| shall be tainted | <span class="asgreek">μολυνθήσονται <sup><small><small>[[G3435]]</small></small></sup> </span> |
-| \[by\] wetness. | <span class="asgreek">υγρασία <sup><small><small>[[G9526]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| it comes | <span class="asgreek">έρχεται <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall be, | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God. | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| they should say | <big><span class="asgreek">είπωσι</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For what \[reason\] | <big><span class="asgreek">ένεκε</span></big> <sup><small><small>[[G1752]]</small></small></sup> <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| do you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| moan? | <big><span class="asgreek">στενάζεις</span></big> <sup><small><small>[[G4727]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| For | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| message, | <big><span class="asgreek">αγγελία</span></big> <sup><small><small>[[G0031]]</small></small></sup> |
+| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| it comes, | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be devastated | <big><span class="asgreek">θραυσθήσεται</span></big> <sup><small><small>[[G2352]]</small></small></sup> |
+| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be disabled | <big><span class="asgreek">παραλυθήσονται</span></big> <sup><small><small>[[G3886]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| hands | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall expire | <big><span class="asgreek">εκψύξει</span></big> <sup><small><small>[[G1634]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| flesh | <big><span class="asgreek">σαρξ</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| spirit, | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| thighs | <big><span class="asgreek">μηροί</span></big> <sup><small><small>[[G3382]]</small></small></sup> |
+| shall be tainted | <big><span class="asgreek">μολυνθήσονται</span></big> <sup><small><small>[[G3435]]</small></small></sup> |
+| \[by\] wetness. | <big><span class="asgreek">υγρασία</span></big> <sup><small><small>[[G9526]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| it comes | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall be, | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
 [[Ezek.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.6|<< Ezekiel 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.8|Ezekiel 21:8 >>]]</td></tr></table>
 
 

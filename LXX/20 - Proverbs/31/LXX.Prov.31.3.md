@@ -9,26 +9,26 @@ Do not spend your strength on women or your vigor on those who ruin kings.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| give | <span class="asgreek">δως <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to women | <span class="asgreek">γυναιξί <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| your | <span class="asgreek">σον <sup><small><small>[[G4674]]</small></small></sup> </span> |
-| wealth | <span class="asgreek">πλούτον <sup><small><small>[[G4149]]</small></small></sup> </span> |
-| nor | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your | <span class="asgreek">σον <sup><small><small>[[G4674]]</small></small></sup> </span> |
-| mind | <span class="asgreek">νουν <sup><small><small>[[G3563]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| livelihood | <span class="asgreek">βίον <sup><small><small>[[G0979]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| an afterthought. | <span class="asgreek">υστεροβουλίαν <sup><small><small>[[G9604]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| counsel | <span class="asgreek">βουλής <sup><small><small>[[G1012]]</small></small></sup> </span> |
-| all \[things\] | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| Do | <span class="asgreek">ποίει <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| counsel | <span class="asgreek">βουλής <sup><small><small>[[G1012]]</small></small></sup> </span> |
-| Drink wine | <span class="asgreek">οινοπότει <sup><small><small>[[G8462]]</small></small></sup> </span> |
+| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| give | <big><span class="asgreek">δως</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to women | <big><span class="asgreek">γυναιξί</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| your | <big><span class="asgreek">σον</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
+| wealth | <big><span class="asgreek">πλούτον</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
+| nor | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your | <big><span class="asgreek">σον</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
+| mind | <big><span class="asgreek">νουν</span></big> <sup><small><small>[[G3563]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| livelihood | <big><span class="asgreek">βίον</span></big> <sup><small><small>[[G0979]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| an afterthought. | <big><span class="asgreek">υστεροβουλίαν</span></big> <sup><small><small>[[G9604]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| counsel | <big><span class="asgreek">βουλής</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
+| all \[things\] | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| Do | <big><span class="asgreek">ποίει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| counsel | <big><span class="asgreek">βουλής</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
+| Drink wine | <big><span class="asgreek">οινοπότει</span></big> <sup><small><small>[[G8462]]</small></small></sup> |
 [[Prov.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.2|<< Proverbs 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.4|Proverbs 31:4 >>]]</td></tr></table>
 
 

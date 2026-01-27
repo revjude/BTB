@@ -9,33 +9,33 @@ For they have committed an outrage in Israel by committing adultery with the wiv
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Because of | <span class="asgreek">δι΄ <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| they did | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| \[the\] lawlessness | <span class="asgreek">ανομίαν <sup><small><small>[[G0458]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Jerusalem, | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they committed adultery with | <span class="asgreek">εμοιχώντο <sup><small><small>[[G3429]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| women | <span class="asgreek">γυναίκας <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of their fellow-countrymen, | <span class="asgreek">πολιτών <sup><small><small>[[G4177]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a word | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| they executed | <span class="asgreek">εχρημάτισαν <sup><small><small>[[G5537]]</small></small></sup> </span> |
-| by | <span class="asgreek">επι <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my name | <span class="asgreek">ονόματί <sup><small><small>[[G3686]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| which | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I did not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| order | <span class="asgreek">συνέταξα <sup><small><small>[[G4929]]</small></small></sup> </span> |
-| to them; | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I am | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| witness, | <span class="asgreek">μάρτυς <sup><small><small>[[G3144]]</small></small></sup> </span> |
-| says | <span class="asgreek">φησί <sup><small><small>[[G5346]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| Because of | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| they did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \[the\] lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they committed adultery with | <big><span class="asgreek">εμοιχώντο</span></big> <sup><small><small>[[G3429]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| women | <big><span class="asgreek">γυναίκας</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of their fellow-countrymen, | <big><span class="asgreek">πολιτών</span></big> <sup><small><small>[[G4177]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| they executed | <big><span class="asgreek">εχρημάτισαν</span></big> <sup><small><small>[[G5537]]</small></small></sup> |
+| by | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my name | <big><span class="asgreek">ονόματί</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| order | <big><span class="asgreek">συνέταξα</span></big> <sup><small><small>[[G4929]]</small></small></sup> |
+| to them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I am | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| witness, | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
+| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Jer.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.22|<< Jeremiah 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.24|Jeremiah 29:24 >>]]</td></tr></table>
 
 

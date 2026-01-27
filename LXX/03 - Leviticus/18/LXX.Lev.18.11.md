@@ -9,19 +9,19 @@ You must not have sexual relations with the daughter of your father’s wife, bo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] indecency | <span class="asgreek">ασχημοσύνην <sup><small><small>[[G0808]]</small></small></sup> </span> |
-| of \[the\] daughter | <span class="asgreek">θυγατρός <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| wife | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| of your father's | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| uncover, | <span class="asgreek">αποκαλύψεις <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| of the same father | <span class="asgreek">ομοπάτρια <sup><small><small>[[G8510]]</small></small></sup> </span> |
-| your sister | <span class="asgreek">αδελφή <sup><small><small>[[G0079]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| she is | <span class="asgreek">εστίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| uncover | <span class="asgreek">αποκαλύψεις <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her indecency. | <span class="asgreek">ασχημοσύνην <sup><small><small>[[G0808]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[The\] indecency | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> |
+| of \[the\] daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| wife | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| of your father's | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| uncover, | <big><span class="asgreek">αποκαλύψεις</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| of the same father | <big><span class="asgreek">ομοπάτρια</span></big> <sup><small><small>[[G8510]]</small></small></sup> |
+| your sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| she is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| uncover | <big><span class="asgreek">αποκαλύψεις</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her indecency. | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lev.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.10|<< Leviticus 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.12|Leviticus 18:12 >>]]</td></tr></table>
 
 

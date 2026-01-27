@@ -9,33 +9,33 @@ For they assailed you deceitfully when they seduced you in the matter of Peor an
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| are hating | <span class="asgreek">εχθραίνουσιν <sup><small><small>[[G7588]]</small></small></sup> </span> |
-| you | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they | <span class="asgreek">αυτοί <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| deceit | <span class="asgreek">δολιότητι <sup><small><small>[[G6957]]</small></small></sup> </span> |
-| \[with\] as many \[things\] | <span class="asgreek">όσα <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| they used deceit | <span class="asgreek">δολιούσιν <sup><small><small>[[G1387]]</small></small></sup> </span> |
-| against you | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| through | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| Peor, | <span class="asgreek">Φογώρ <sup><small><small>[[H6465]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| through | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| Cozbi, | <span class="asgreek">Χασβί <sup><small><small>[[H3579]]</small></small></sup> </span> |
-| daughter | <span class="asgreek">θυγατέρα <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of \[the\] ruler | <span class="asgreek">άρχοντος <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of Midian, | <span class="asgreek">Μαδιάν <sup><small><small>[[G3099]]</small></small></sup> </span> |
-| their sister, | <span class="asgreek">αδελφήν <sup><small><small>[[G0079]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one being struck | <span class="asgreek">πεπληγύιαν <sup><small><small>[[G4141]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| calamity | <span class="asgreek">πληγής <sup><small><small>[[G4127]]</small></small></sup> </span> |
-| on account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| Peor. | <span class="asgreek">Φογώρ <sup><small><small>[[H6465]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| are hating | <big><span class="asgreek">εχθραίνουσιν</span></big> <sup><small><small>[[G7588]]</small></small></sup> |
+| you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| deceit | <big><span class="asgreek">δολιότητι</span></big> <sup><small><small>[[G6957]]</small></small></sup> |
+| \[with\] as many \[things\] | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| they used deceit | <big><span class="asgreek">δολιούσιν</span></big> <sup><small><small>[[G1387]]</small></small></sup> |
+| against you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| Peor, | <big><span class="asgreek">Φογώρ</span></big> <sup><small><small>[[H6465]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| Cozbi, | <big><span class="asgreek">Χασβί</span></big> <sup><small><small>[[H3579]]</small></small></sup> |
+| daughter | <big><span class="asgreek">θυγατέρα</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of \[the\] ruler | <big><span class="asgreek">άρχοντος</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of Midian, | <big><span class="asgreek">Μαδιάν</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
+| their sister, | <big><span class="asgreek">αδελφήν</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one being struck | <big><span class="asgreek">πεπληγύιαν</span></big> <sup><small><small>[[G4141]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| calamity | <big><span class="asgreek">πληγής</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
+| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| Peor. | <big><span class="asgreek">Φογώρ</span></big> <sup><small><small>[[H6465]]</small></small></sup> |
 [[Num.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.17|<< Numbers 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.1|Numbers 26:1 >>]]</td></tr></table>
 
 

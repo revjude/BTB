@@ -9,47 +9,47 @@ that a search should be made of the record books of your fathers. In these books
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| it should be examined | <span class="asgreek">επισκέψη <sup><small><small>[[G1980]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] book | <span class="asgreek">βίβλω <sup><small><small>[[G0976]]</small></small></sup> </span> |
-| of memoirs | <span class="asgreek">υπομνηματισμάτων <sup><small><small>[[G9582]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your fathers; | <span class="asgreek">πατέρων <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall find | <span class="asgreek">ευρήσεις <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| book | <span class="asgreek">βίβλω <sup><small><small>[[G0976]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| memorial, | <span class="asgreek">μνημοσύνων <sup><small><small>[[G3422]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall know | <span class="asgreek">γνώση <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| that city | <span class="asgreek">πόλις <sup><small><small>[[G4172]]</small></small></sup> <span class="asgreek">εκείνη <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| city | <span class="asgreek">πόλις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| \[is\] a defecting | <span class="asgreek">αποστάτις <sup><small><small>[[G6491]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| one doing evil | <span class="asgreek">κακοποιούσα <sup><small><small>[[G2554]]</small></small></sup> </span> |
-| to kings; | <span class="asgreek">βασιλείς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| for places | <span class="asgreek">χώρας <sup><small><small>[[G5561]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| flights | <span class="asgreek">φυγαδείαι <sup><small><small>[[G9671]]</small></small></sup> </span> |
-| for your \[runaway\] servants | <span class="asgreek">δούλων <sup><small><small>[[G1401]]</small></small></sup> </span> |
-| it is | <span class="asgreek">γίνονται <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] midst | <span class="asgreek">μέσω <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| of it | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] time | <span class="asgreek">χρόνων <sup><small><small>[[G5550]]</small></small></sup> </span> |
-| of \[the\] eon | <span class="asgreek">αιώνος <sup><small><small>[[G0165]]</small></small></sup> </span> |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this, | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this city | <span class="asgreek">πόλις <sup><small><small>[[G4172]]</small></small></sup> <span class="asgreek">αύτη <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| was made desolate. | <span class="asgreek">ηρήμωται <sup><small><small>[[G2049]]</small></small></sup> </span> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| it should be examined | <big><span class="asgreek">επισκέψη</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] book | <big><span class="asgreek">βίβλω</span></big> <sup><small><small>[[G0976]]</small></small></sup> |
+| of memoirs | <big><span class="asgreek">υπομνηματισμάτων</span></big> <sup><small><small>[[G9582]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your fathers; | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall find | <big><span class="asgreek">ευρήσεις</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| book | <big><span class="asgreek">βίβλω</span></big> <sup><small><small>[[G0976]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| memorial, | <big><span class="asgreek">μνημοσύνων</span></big> <sup><small><small>[[G3422]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall know | <big><span class="asgreek">γνώση</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| that city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| \[is\] a defecting | <big><span class="asgreek">αποστάτις</span></big> <sup><small><small>[[G6491]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| one doing evil | <big><span class="asgreek">κακοποιούσα</span></big> <sup><small><small>[[G2554]]</small></small></sup> |
+| to kings; | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| for places | <big><span class="asgreek">χώρας</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| flights | <big><span class="asgreek">φυγαδείαι</span></big> <sup><small><small>[[G9671]]</small></small></sup> |
+| for your \[runaway\] servants | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
+| it is | <big><span class="asgreek">γίνονται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| of it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] time | <big><span class="asgreek">χρόνων</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
+| of \[the\] eon | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| was made desolate. | <big><span class="asgreek">ηρήμωται</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
 [[Ezra.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.14|<< Ezra 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.16|Ezra 4:16 >>]]</td></tr></table>
 
 

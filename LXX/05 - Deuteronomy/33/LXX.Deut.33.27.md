@@ -9,23 +9,23 @@ The eternal God is your dwelling place, and underneath are the everlasting arms.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall shelter | <span class="asgreek">σκεπάσει <sup><small><small>[[G9095]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[of\] God | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \[the\] sovereignty | <span class="asgreek">αρχή <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| and \[that\] | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| under | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| \[the\] strength | <span class="asgreek">ισχύν <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| arms | <span class="asgreek">βραχιόνων <sup><small><small>[[G1023]]</small></small></sup> </span> |
-| of everlasting | <span class="asgreek">αενάων <sup><small><small>[[G6145]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall cast out | <span class="asgreek">εκβαλεί <sup><small><small>[[G1544]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| your face | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] enemy, | <span class="asgreek">εχθρόν <sup><small><small>[[G2190]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| May you perish. | <span class="asgreek">απόλοιο <sup><small><small>[[G0622]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall shelter | <big><span class="asgreek">σκεπάσει</span></big> <sup><small><small>[[G9095]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[of\] God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \[the\] sovereignty | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| and \[that\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| \[the\] strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| arms | <big><span class="asgreek">βραχιόνων</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
+| of everlasting | <big><span class="asgreek">αενάων</span></big> <sup><small><small>[[G6145]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall cast out | <big><span class="asgreek">εκβαλεί</span></big> <sup><small><small>[[G1544]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| your face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] enemy, | <big><span class="asgreek">εχθρόν</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| May you perish. | <big><span class="asgreek">απόλοιο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
 [[Deut.33.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.26|<< Deuteronomy 33:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.28|Deuteronomy 33:28 >>]]</td></tr></table>
 
 

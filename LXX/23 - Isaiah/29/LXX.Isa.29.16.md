@@ -13,28 +13,28 @@ You have turned things upside down, as if the potter were regarded as clay. Shal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| clay | <span class="asgreek">πηλός <sup><small><small>[[G4081]]</small></small></sup> </span> |
-| for the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| potter | <span class="asgreek">κεραμέως <sup><small><small>[[G2763]]</small></small></sup> </span> |
-| be considered | <span class="asgreek">λογισθήσεσθε <sup><small><small>[[G3049]]</small></small></sup> </span> |
-| Shall | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| say | <span class="asgreek">ερεί <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thing shaped | <span class="asgreek">πλάσμα <sup><small><small>[[G4110]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one shaping, | <span class="asgreek">πλάσαντι <sup><small><small>[[G4111]]</small></small></sup> </span> |
-| You did not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shape me. | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">έπλασας <sup><small><small>[[G4111]]</small></small></sup> </span> |
-| Or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thing made | <span class="asgreek">ποίημα <sup><small><small>[[G4161]]</small></small></sup> </span> |
-| by the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one making it, | <span class="asgreek">ποιήσαντι <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| expertly | <span class="asgreek">συνετώς <sup><small><small>[[G9319]]</small></small></sup> </span> |
-| You did | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">εποίησας <sup><small><small>[[G4160]]</small></small></sup> </span> |
+| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| clay | <big><span class="asgreek">πηλός</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
+| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| potter | <big><span class="asgreek">κεραμέως</span></big> <sup><small><small>[[G2763]]</small></small></sup> |
+| be considered | <big><span class="asgreek">λογισθήσεσθε</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
+| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| say | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thing shaped | <big><span class="asgreek">πλάσμα</span></big> <sup><small><small>[[G4110]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one shaping, | <big><span class="asgreek">πλάσαντι</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
+| You did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shape me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έπλασας</span></big> <sup><small><small>[[G4111]]</small></small></sup> |
+| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thing made | <big><span class="asgreek">ποίημα</span></big> <sup><small><small>[[G4161]]</small></small></sup> |
+| by the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one making it, | <big><span class="asgreek">ποιήσαντι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| expertly | <big><span class="asgreek">συνετώς</span></big> <sup><small><small>[[G9319]]</small></small></sup> |
+| You did | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
 [[Isa.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.15|<< Isaiah 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.17|Isaiah 29:17 >>]]</td></tr></table>
 
 

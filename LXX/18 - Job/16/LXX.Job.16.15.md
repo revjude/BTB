@@ -9,16 +9,16 @@ I have sewn sackcloth over my skin; I have buried my horn in the dust.<small><s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| sackcloth | <span class="asgreek">σάκκον <sup><small><small>[[G4526]]</small></small></sup> </span> |
-| they sewed | <span class="asgreek">έρραψαν <sup><small><small>[[G9013]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| my hide; | <span class="asgreek">βύρσης <sup><small><small>[[G6703]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| my strength | <span class="asgreek">σθένος <sup><small><small>[[G9073]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] ground | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| was extinguished | <span class="asgreek">εσβέσθη <sup><small><small>[[G4570]]</small></small></sup> </span> |
+| sackcloth | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
+| they sewed | <big><span class="asgreek">έρραψαν</span></big> <sup><small><small>[[G9013]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| my hide; | <big><span class="asgreek">βύρσης</span></big> <sup><small><small>[[G6703]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| my strength | <big><span class="asgreek">σθένος</span></big> <sup><small><small>[[G9073]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] ground | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| was extinguished | <big><span class="asgreek">εσβέσθη</span></big> <sup><small><small>[[G4570]]</small></small></sup> |
 [[Job.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.14|<< Job 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.16|Job 16:16 >>]]</td></tr></table>
 
 

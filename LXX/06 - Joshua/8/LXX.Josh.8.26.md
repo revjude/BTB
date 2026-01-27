@@ -9,21 +9,21 @@ Joshua did not draw back the hand that held his battle lance until he had devote
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Joshua | <span class="asgreek">Ιησούς <sup><small><small>[[H3091]]</small></small></sup> </span> |
-| returned not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">επέστρεψε <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| his hand | <span class="asgreek">χείρα <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he stretched out | <span class="asgreek">εξέτεινεν <sup><small><small>[[G1614]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| javelin | <span class="asgreek">γαϊσω <sup><small><small>[[G6711]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| he devoted to consumption | <span class="asgreek">ανεθεμάτισε <sup><small><small>[[G0332]]</small></small></sup> </span> |
-| the whole | <span class="asgreek">σύμπαντας <sup><small><small>[[G9270]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">κατοικούντας <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| Ai. | <span class="asgreek">Γαί <sup><small><small>[[H5857]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Joshua | <big><span class="asgreek">Ιησούς</span></big> <sup><small><small>[[H3091]]</small></small></sup> |
+| returned not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">επέστρεψε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| his hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he stretched out | <big><span class="asgreek">εξέτεινεν</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| javelin | <big><span class="asgreek">γαϊσω</span></big> <sup><small><small>[[G6711]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| he devoted to consumption | <big><span class="asgreek">ανεθεμάτισε</span></big> <sup><small><small>[[G0332]]</small></small></sup> |
+| the whole | <big><span class="asgreek">σύμπαντας</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| Ai. | <big><span class="asgreek">Γαί</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
 [[Josh.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.25|<< Joshua 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.27|Joshua 8:27 >>]]</td></tr></table>
 
 

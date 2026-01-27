@@ -13,17 +13,17 @@ May their eyes be darkened so they cannot see, and their backs be bent forever.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| be darkened | <span class="asgreek">σκοτισθήτωσαν <sup><small><small>[[G4654]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their eyes | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| see, | <span class="asgreek">βλέπειν <sup><small><small>[[G0991]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their back | <span class="asgreek">νώτον <sup><small><small>[[G3577]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| always | <span class="asgreek">διαπαντός <sup><small><small>[[G1275]]</small></small></sup> </span> |
-| bent downwards! | <span class="asgreek">σύγκαμψον <sup><small><small>[[G4781]]</small></small></sup> </span> |
+| be darkened | <big><span class="asgreek">σκοτισθήτωσαν</span></big> <sup><small><small>[[G4654]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| see, | <big><span class="asgreek">βλέπειν</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their back | <big><span class="asgreek">νώτον</span></big> <sup><small><small>[[G3577]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| always | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
+| bent downwards! | <big><span class="asgreek">σύγκαμψον</span></big> <sup><small><small>[[G4781]]</small></small></sup> |
 [[Ps.69.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.22|<< Psalm 69:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.24|Psalm 69:24 >>]]</td></tr></table>
 
 

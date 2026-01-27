@@ -9,18 +9,18 @@ If only I had never come to be, but had been carried from the womb to the grave.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and \[that\] | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as if | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| one not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| being | <span class="asgreek">ων <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| I became | <span class="asgreek">εγενόμην <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| For why | <span class="asgreek">διατί <sup><small><small>[[G1302]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] womb | <span class="asgreek">γαστρός <sup><small><small>[[G1064]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] tomb | <span class="asgreek">μνήμα <sup><small><small>[[G3418]]</small></small></sup> </span> |
-| was I not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| dismissed | <span class="asgreek">απηλλάγην <sup><small><small>[[G0525]]</small></small></sup> </span> |
+| and \[that\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| one not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| being | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| I became | <big><span class="asgreek">εγενόμην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| For why | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] womb | <big><span class="asgreek">γαστρός</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] tomb | <big><span class="asgreek">μνήμα</span></big> <sup><small><small>[[G3418]]</small></small></sup> |
+| was I not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| dismissed | <big><span class="asgreek">απηλλάγην</span></big> <sup><small><small>[[G0525]]</small></small></sup> |
 [[Job.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.18|<< Job 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.20|Job 10:20 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ For what does he care about his household after him, when the number of his mont
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his will | <span class="asgreek">θέλημα <sup><small><small>[[G2307]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[is\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| his house | <span class="asgreek">οίκω <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετ΄ <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| him, | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] numbers | <span class="asgreek">αριθμοί <sup><small><small>[[G0706]]</small></small></sup> </span> |
-| of his months | <span class="asgreek">μηνών <sup><small><small>[[G3376]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| were divided. | <span class="asgreek">διηρέθησαν <sup><small><small>[[G1244]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his will | <big><span class="asgreek">θέλημα</span></big> <sup><small><small>[[G2307]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| his house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] numbers | <big><span class="asgreek">αριθμοί</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
+| of his months | <big><span class="asgreek">μηνών</span></big> <sup><small><small>[[G3376]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| were divided. | <big><span class="asgreek">διηρέθησαν</span></big> <sup><small><small>[[G1244]]</small></small></sup> |
 [[Job.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.20|<< Job 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.22|Job 21:22 >>]]</td></tr></table>
 
 

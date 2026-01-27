@@ -9,31 +9,31 @@ So all the men and women of the Israelites whose hearts prompted them brought a 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| woman | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| which | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| brought | <span class="asgreek">έφερεν <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their consideration, | <span class="asgreek">διάνοια <sup><small><small>[[G1271]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| entering | <span class="asgreek">εισελθόντας <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| to do | <span class="asgreek">ποιείν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| work; | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| as many as | <span class="asgreek">όσα <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> ordered | <span class="asgreek">συνέταξε <sup><small><small>[[G4929]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| them to do | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| through | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| Moses -- | <span class="asgreek">Μωυσήν <sup><small><small>[[G3475]]</small></small></sup> </span> |
-| brought | <span class="asgreek">ήνεγκαν <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| \[the\] choice-portion | <span class="asgreek">αφαίρεμα <sup><small><small>[[G6616]]</small></small></sup> </span> |
-| \[to the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| brought | <big><span class="asgreek">έφερεν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their consideration, | <big><span class="asgreek">διάνοια</span></big> <sup><small><small>[[G1271]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| entering | <big><span class="asgreek">εισελθόντας</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| work; | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| as many as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> ordered | <big><span class="asgreek">συνέταξε</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| them to do | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| Moses -- | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| \[the\] choice-portion | <big><span class="asgreek">αφαίρεμα</span></big> <sup><small><small>[[G6616]]</small></small></sup> |
+| \[to the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Exod.35.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.28|<< Exodus 35:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.30|Exodus 35:30 >>]]</td></tr></table>
 
 

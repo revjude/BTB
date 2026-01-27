@@ -9,43 +9,43 @@ Was it not reported to my lord what I did when Jezebel slaughtered the prophets 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| was it not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| reported | <span class="asgreek">απηγγέλη <sup><small><small>[[G0518]]</small></small></sup> </span> |
-| to you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| O my master, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| what \[things\] | <span class="asgreek">οία <sup><small><small>[[G3634]]</small></small></sup> </span> |
-| I have done | <span class="asgreek">πεποίηκα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| when | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jezebel killed | <span class="asgreek">αποκτείνειν <sup><small><small>[[G0615]]</small></small></sup> <span class="asgreek">Ιεζάβελ <sup><small><small>[[G2403]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prophets | <span class="asgreek">προφήτας <sup><small><small>[[G4396]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I took | <span class="asgreek">έλαβον <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| some | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prophets | <span class="asgreek">προφητών <sup><small><small>[[G4396]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> -- | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| a hundred | <span class="asgreek">εκατόν <sup><small><small>[[G1540]]</small></small></sup> </span> |
-| men, | <span class="asgreek">άνδρας <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I hid | <span class="asgreek">έκρυψα <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| caves | <span class="asgreek">σπηλαίοις <sup><small><small>[[G4693]]</small></small></sup> </span> |
-| by | <span class="asgreek">ανά <sup><small><small>[[G0303]]</small></small></sup> </span> |
-| fifty, | <span class="asgreek">πεντήκοντα <sup><small><small>[[G4004]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I maintained | <span class="asgreek">έθρεψα <sup><small><small>[[G5142]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| bread loaves | <span class="asgreek">άρτοις <sup><small><small>[[G0740]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| water? | <span class="asgreek">ύδατι <sup><small><small>[[G5204]]</small></small></sup> </span> |
+| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| was it not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| reported | <big><span class="asgreek">απηγγέλη</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| O my master, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| what \[things\] | <big><span class="asgreek">οία</span></big> <sup><small><small>[[G3634]]</small></small></sup> |
+| I have done | <big><span class="asgreek">πεποίηκα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| when | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jezebel killed | <big><span class="asgreek">αποκτείνειν</span></big> <sup><small><small>[[G0615]]</small></small></sup> <big><span class="asgreek">Ιεζάβελ</span></big> <sup><small><small>[[G2403]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prophets | <big><span class="asgreek">προφήτας</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I took | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| some | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prophets | <big><span class="asgreek">προφητών</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> -- | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
+| men, | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I hid | <big><span class="asgreek">έκρυψα</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| caves | <big><span class="asgreek">σπηλαίοις</span></big> <sup><small><small>[[G4693]]</small></small></sup> |
+| by | <big><span class="asgreek">ανά</span></big> <sup><small><small>[[G0303]]</small></small></sup> |
+| fifty, | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I maintained | <big><span class="asgreek">έθρεψα</span></big> <sup><small><small>[[G5142]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| bread loaves | <big><span class="asgreek">άρτοις</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| water? | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
 [[1Kgs.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.12|<< 1 Kings 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.14|1 Kings 18:14 >>]]</td></tr></table>
 
 

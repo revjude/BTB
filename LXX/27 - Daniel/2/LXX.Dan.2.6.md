@@ -9,33 +9,33 @@ But if you tell me the dream and its interpretation, you will receive from me gi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dream | <span class="asgreek">ενύπνιον <sup><small><small>[[G1798]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| interpretation | <span class="asgreek">σύγκρισιν <sup><small><small>[[G9241]]</small></small></sup> </span> |
-| of it | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you should make known | <span class="asgreek">γνωρίσητέ <sup><small><small>[[G1107]]</small></small></sup> </span> |
-| to me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| gifts | <span class="asgreek">δόματα <sup><small><small>[[G1390]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[favors\] without charge, | <span class="asgreek">δωρεάς <sup><small><small>[[G1431]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| honor | <span class="asgreek">τιμήν <sup><small><small>[[G5092]]</small></small></sup> </span> |
-| much | <span class="asgreek">πολλήν <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| you shall receive | <span class="asgreek">λήψεσθε <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| from | <span class="asgreek">παρ΄ <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| me. | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Except | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dream | <span class="asgreek">ενύπνιον <sup><small><small>[[G1798]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| interpretation | <span class="asgreek">σύγκρισιν <sup><small><small>[[G9241]]</small></small></sup> </span> |
-| of it | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| report | <span class="asgreek">απαγγείλατέ <sup><small><small>[[G0518]]</small></small></sup> </span> |
-| to me! | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dream | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
+| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you should make known | <big><span class="asgreek">γνωρίσητέ</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
+| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| gifts | <big><span class="asgreek">δόματα</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[favors\] without charge, | <big><span class="asgreek">δωρεάς</span></big> <sup><small><small>[[G1431]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| honor | <big><span class="asgreek">τιμήν</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
+| much | <big><span class="asgreek">πολλήν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| you shall receive | <big><span class="asgreek">λήψεσθε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| from | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dream | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
+| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| report | <big><span class="asgreek">απαγγείλατέ</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Dan.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.5|<< Daniel 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.7|Daniel 2:7 >>]]</td></tr></table>
 
 

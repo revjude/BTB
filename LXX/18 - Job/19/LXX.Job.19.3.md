@@ -9,13 +9,13 @@ Ten times now you have reproached me; you shamelessly mistreat me.<small><sub>*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You speak ill | <span class="asgreek">καταλαλείτέ <sup><small><small>[[G2635]]</small></small></sup> </span> |
-| of me; | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| being ashamed | <span class="asgreek">αισχυνόμενοί <sup><small><small>[[G0153]]</small></small></sup> </span> |
-| by me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you press upon | <span class="asgreek">επίκεισθέ <sup><small><small>[[G1945]]</small></small></sup> </span> |
-| me. | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| You speak ill | <big><span class="asgreek">καταλαλείτέ</span></big> <sup><small><small>[[G2635]]</small></small></sup> |
+| of me; | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| being ashamed | <big><span class="asgreek">αισχυνόμενοί</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
+| by me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you press upon | <big><span class="asgreek">επίκεισθέ</span></big> <sup><small><small>[[G1945]]</small></small></sup> |
+| me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.2|<< Job 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.4|Job 19:4 >>]]</td></tr></table>
 
 

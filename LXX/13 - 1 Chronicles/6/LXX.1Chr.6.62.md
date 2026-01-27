@@ -9,32 +9,32 @@ The Gershomites, according to their clans, were allotted thirteen cities from th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοίς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Gershon | <span class="asgreek">Γερσών <sup><small><small>[[H1648]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| their kin | <span class="asgreek">συγγενείας <sup><small><small>[[G4772]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] tribe | <span class="asgreek">φυλής <sup><small><small>[[G5443]]</small></small></sup> </span> |
-| of Issachar, | <span class="asgreek">Ισσάχαρ <sup><small><small>[[G2466]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] tribe | <span class="asgreek">φυλής <sup><small><small>[[G5443]]</small></small></sup> </span> |
-| of Asher, | <span class="asgreek">Ασήρ <sup><small><small>[[G0768]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] tribe | <span class="asgreek">φυλής <sup><small><small>[[G5443]]</small></small></sup> </span> |
-| of Naphtali, | <span class="asgreek">Νεφθαλί <sup><small><small>[[G3508]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] tribe | <span class="asgreek">φυλής <sup><small><small>[[G5443]]</small></small></sup> </span> |
-| of Manasseh, | <span class="asgreek">Μανασσή <sup><small><small>[[G3128]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Bashan -- | <span class="asgreek">Βασάν <sup><small><small>[[H1316]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| thirteen | <span class="asgreek">τρισκαίδεκα <sup><small><small>[[G9490]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Gershon | <big><span class="asgreek">Γερσών</span></big> <sup><small><small>[[H1648]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| their kin | <big><span class="asgreek">συγγενείας</span></big> <sup><small><small>[[G4772]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
+| of Issachar, | <big><span class="asgreek">Ισσάχαρ</span></big> <sup><small><small>[[G2466]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
+| of Asher, | <big><span class="asgreek">Ασήρ</span></big> <sup><small><small>[[G0768]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
+| of Naphtali, | <big><span class="asgreek">Νεφθαλί</span></big> <sup><small><small>[[G3508]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
+| of Manasseh, | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Bashan -- | <big><span class="asgreek">Βασάν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| thirteen | <big><span class="asgreek">τρισκαίδεκα</span></big> <sup><small><small>[[G9490]]</small></small></sup> |
 [[1Chr.6.62|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.61|<< 1 Chronicles 6:61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.63|1 Chronicles 6:63 >>]]</td></tr></table>
 
 

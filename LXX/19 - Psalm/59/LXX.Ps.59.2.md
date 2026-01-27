@@ -9,19 +9,19 @@ Deliver me from workers of iniquity, and save me from men of bloodshed.<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Rescue | <span class="asgreek">ρύσαί <sup><small><small>[[G4506]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| working | <span class="asgreek">εργαζομένων <sup><small><small>[[G2038]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lawlessness, | <span class="asgreek">ανομίαν <sup><small><small>[[G0458]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανδρών <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| of blood | <span class="asgreek">αιμάτων <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| deliver | <span class="asgreek">σώσόν <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Rescue | <big><span class="asgreek">ρύσαί</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| working | <big><span class="asgreek">εργαζομένων</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lawlessness, | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| men | <big><span class="asgreek">ανδρών</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| of blood | <big><span class="asgreek">αιμάτων</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| deliver | <big><span class="asgreek">σώσόν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.59.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.1|<< Psalm 59:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.3|Psalm 59:3 >>]]</td></tr></table>
 
 

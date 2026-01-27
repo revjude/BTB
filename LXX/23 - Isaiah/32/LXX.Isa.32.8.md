@@ -9,15 +9,15 @@ But a noble man makes honorable plans; he stands up for worthy causes.<small><s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| pious | <span class="asgreek">ευσεβείς <sup><small><small>[[G2152]]</small></small></sup> </span> |
-| \[the\] discerning | <span class="asgreek">συνετά <sup><small><small>[[G4908]]</small></small></sup> </span> |
-| consult | <span class="asgreek">εβουλεύσαντο <sup><small><small>[[G1011]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| this | <span class="asgreek">αύτη <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| counsel | <span class="asgreek">βουλή <sup><small><small>[[G1012]]</small></small></sup> </span> |
-| shall abide. | <span class="asgreek">μένει <sup><small><small>[[G3306]]</small></small></sup> </span> |
+| But the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| pious | <big><span class="asgreek">ευσεβείς</span></big> <sup><small><small>[[G2152]]</small></small></sup> |
+| \[the\] discerning | <big><span class="asgreek">συνετά</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
+| consult | <big><span class="asgreek">εβουλεύσαντο</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| counsel | <big><span class="asgreek">βουλή</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
+| shall abide. | <big><span class="asgreek">μένει</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
 [[Isa.32.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.7|<< Isaiah 32:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.9|Isaiah 32:9 >>]]</td></tr></table>
 
 

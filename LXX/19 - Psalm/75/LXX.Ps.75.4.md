@@ -9,17 +9,17 @@ I say to the proud, ‘Do not boast,’ and to the wicked, ‘Do not lift up you
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I said | <span class="asgreek">είπα <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones acting unlawfully, | <span class="asgreek">παρανομούσι <sup><small><small>[[G3891]]</small></small></sup> </span> |
-| Do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| act unlawfully! | <span class="asgreek">παρανομείτε <sup><small><small>[[G3891]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sinners, | <span class="asgreek">αμαρτάνουσι <sup><small><small>[[G0264]]</small></small></sup> </span> |
-| Do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| exalt | <span class="asgreek">υψούτε <sup><small><small>[[G5312]]</small></small></sup> </span> |
-| \[the\] horn! | <span class="asgreek">κέρας <sup><small><small>[[G2768]]</small></small></sup> </span> |
+| I said | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones acting unlawfully, | <big><span class="asgreek">παρανομούσι</span></big> <sup><small><small>[[G3891]]</small></small></sup> |
+| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| act unlawfully! | <big><span class="asgreek">παρανομείτε</span></big> <sup><small><small>[[G3891]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sinners, | <big><span class="asgreek">αμαρτάνουσι</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| exalt | <big><span class="asgreek">υψούτε</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| \[the\] horn! | <big><span class="asgreek">κέρας</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
 [[Ps.75.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.75.3|<< Psalm 75:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.75.5|Psalm 75:5 >>]]</td></tr></table>
 
 

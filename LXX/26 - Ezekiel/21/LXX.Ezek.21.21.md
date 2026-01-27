@@ -9,33 +9,33 @@ For the king of Babylon stands at the fork in the road, at the junction of the t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| shall stand | <span class="asgreek">στήσεται <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| \[the\] king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Babylon | <span class="asgreek">Βαβυλώνος <sup><small><small>[[G0897]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ancient | <span class="asgreek">αρχαίαν <sup><small><small>[[G0744]]</small></small></sup> </span> |
-| way, | <span class="asgreek">οδόν <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] corner | <span class="asgreek">αρχής <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| streets | <span class="asgreek">οδών <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to use oracles | <span class="asgreek">μαντεύσασθαι <sup><small><small>[[G3132]]</small></small></sup> </span> |
-| for divination, | <span class="asgreek">μαντείαν <sup><small><small>[[G8252]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to stir up | <span class="asgreek">αναβράσαι <sup><small><small>[[G6277]]</small></small></sup> </span> |
-| \[the\] rod, | <span class="asgreek">ράβδον <sup><small><small>[[G4464]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to ask | <span class="asgreek">επερωτήσαι <sup><small><small>[[G1905]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| carved \[images\], | <span class="asgreek">γλυπτοίς <sup><small><small>[[G6745]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| livers | <span class="asgreek">ήπατι <sup><small><small>[[G7634]]</small></small></sup> </span> |
-| to watch | <span class="asgreek">σκοπήσασθαι <sup><small><small>[[G4648]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| shall stand | <big><span class="asgreek">στήσεται</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| \[the\] king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Babylon | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ancient | <big><span class="asgreek">αρχαίαν</span></big> <sup><small><small>[[G0744]]</small></small></sup> |
+| way, | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] corner | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| streets | <big><span class="asgreek">οδών</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to use oracles | <big><span class="asgreek">μαντεύσασθαι</span></big> <sup><small><small>[[G3132]]</small></small></sup> |
+| for divination, | <big><span class="asgreek">μαντείαν</span></big> <sup><small><small>[[G8252]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to stir up | <big><span class="asgreek">αναβράσαι</span></big> <sup><small><small>[[G6277]]</small></small></sup> |
+| \[the\] rod, | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to ask | <big><span class="asgreek">επερωτήσαι</span></big> <sup><small><small>[[G1905]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| carved \[images\], | <big><span class="asgreek">γλυπτοίς</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| livers | <big><span class="asgreek">ήπατι</span></big> <sup><small><small>[[G7634]]</small></small></sup> |
+| to watch | <big><span class="asgreek">σκοπήσασθαι</span></big> <sup><small><small>[[G4648]]</small></small></sup> |
 [[Ezek.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.20|<< Ezekiel 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.22|Ezekiel 21:22 >>]]</td></tr></table>
 
 

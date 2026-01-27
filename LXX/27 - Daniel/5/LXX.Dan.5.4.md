@@ -9,24 +9,24 @@ As they drank the wine, they praised their gods of gold and silver, bronze and i
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They drank | <span class="asgreek">έπινον <sup><small><small>[[G4095]]</small></small></sup> </span> |
-| wine, | <span class="asgreek">οίνον <sup><small><small>[[G3631]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they praised | <span class="asgreek">ήνεσαν <sup><small><small>[[G0134]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gods | <span class="asgreek">θεούς <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of gold, | <span class="asgreek">χρυσούς <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of silver, | <span class="asgreek">αργυρούς <sup><small><small>[[G0693]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of brass, | <span class="asgreek">χαλκούς <sup><small><small>[[G5470]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of iron, | <span class="asgreek">σιδηρούς <sup><small><small>[[G4603]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of wood, | <span class="asgreek">ξυλίνους <sup><small><small>[[G3585]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of stones. | <span class="asgreek">λιθίνους <sup><small><small>[[G3035]]</small></small></sup> </span> |
+| They drank | <big><span class="asgreek">έπινον</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| wine, | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they praised | <big><span class="asgreek">ήνεσαν</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gods | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of gold, | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of silver, | <big><span class="asgreek">αργυρούς</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of brass, | <big><span class="asgreek">χαλκούς</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of iron, | <big><span class="asgreek">σιδηρούς</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of wood, | <big><span class="asgreek">ξυλίνους</span></big> <sup><small><small>[[G3585]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of stones. | <big><span class="asgreek">λιθίνους</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
 [[Dan.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.3|<< Daniel 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.5|Daniel 5:5 >>]]</td></tr></table>
 
 

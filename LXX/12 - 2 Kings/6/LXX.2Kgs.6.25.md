@@ -9,34 +9,34 @@ So there was a great famine in Samaria. Indeed, they besieged the city so long t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there was | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| famine | <span class="asgreek">λιμός <sup><small><small>[[G3042]]</small></small></sup> </span> |
-| a great | <span class="asgreek">μέγας <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Samaria. | <span class="asgreek">Σαμαρεία <sup><small><small>[[G4540]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| they laid siege | <span class="asgreek">περιεκάθηντο <sup><small><small>[[G8730]]</small></small></sup> </span> |
-| against | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| of which | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| was \[worth\] | <span class="asgreek">εγενήθη <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \[the\] head | <span class="asgreek">κεφαλή <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| of a donkey | <span class="asgreek">όνου <sup><small><small>[[G3688]]</small></small></sup> </span> |
-| eighty | <span class="asgreek">ογδοήκοντα <sup><small><small>[[G3589]]</small></small></sup> </span> |
-| shekels | <span class="asgreek">σικλών <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| of silver; | <span class="asgreek">αργυρίου <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a fourth | <span class="asgreek">τέταρτον <sup><small><small>[[G5067]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of a cab | <span class="asgreek">κάβου <sup><small><small>[[G7746]]</small></small></sup> </span> |
-| dung | <span class="asgreek">κόπρου <sup><small><small>[[G8068]]</small></small></sup> </span> |
-| of doves | <span class="asgreek">περιστερών <sup><small><small>[[G4058]]</small></small></sup> </span> |
-| five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| shekels | <span class="asgreek">σικλών <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| of silver. | <span class="asgreek">αργυρίου <sup><small><small>[[G0694]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there was | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| famine | <big><span class="asgreek">λιμός</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
+| a great | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Samaria. | <big><span class="asgreek">Σαμαρεία</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| they laid siege | <big><span class="asgreek">περιεκάθηντο</span></big> <sup><small><small>[[G8730]]</small></small></sup> |
+| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| was \[worth\] | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \[the\] head | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| of a donkey | <big><span class="asgreek">όνου</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| eighty | <big><span class="asgreek">ογδοήκοντα</span></big> <sup><small><small>[[G3589]]</small></small></sup> |
+| shekels | <big><span class="asgreek">σικλών</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| of silver; | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a fourth | <big><span class="asgreek">τέταρτον</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of a cab | <big><span class="asgreek">κάβου</span></big> <sup><small><small>[[G7746]]</small></small></sup> |
+| dung | <big><span class="asgreek">κόπρου</span></big> <sup><small><small>[[G8068]]</small></small></sup> |
+| of doves | <big><span class="asgreek">περιστερών</span></big> <sup><small><small>[[G4058]]</small></small></sup> |
+| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| shekels | <big><span class="asgreek">σικλών</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| of silver. | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
 [[2Kgs.6.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.24|<< 2 Kings 6:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.26|2 Kings 6:26 >>]]</td></tr></table>
 
 

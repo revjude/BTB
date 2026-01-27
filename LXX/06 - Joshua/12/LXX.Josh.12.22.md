@@ -9,14 +9,14 @@ the king of Kedesh, one; the king of Jokneam in Carmel, one;<small><sub>**MT:**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[the\] king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Kedesh, | <span class="asgreek">Κεδές <sup><small><small>[[H6943]]</small></small></sup> </span> |
-| one; | <span class="asgreek">ένα <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| \[the\] king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Jokneam | <span class="asgreek">Ιεκονάμ <sup><small><small>[[H3362]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Carmel, | <span class="asgreek">Χερμέλ <sup><small><small>[[H3760]]</small></small></sup> </span> |
-| one; | <span class="asgreek">ένα <sup><small><small>[[G1520]]</small></small></sup> </span> |
+| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Kedesh, | <big><span class="asgreek">Κεδές</span></big> <sup><small><small>[[H6943]]</small></small></sup> |
+| one; | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Jokneam | <big><span class="asgreek">Ιεκονάμ</span></big> <sup><small><small>[[H3362]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Carmel, | <big><span class="asgreek">Χερμέλ</span></big> <sup><small><small>[[H3760]]</small></small></sup> |
+| one; | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
 [[Josh.12.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.21|<< Joshua 12:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.23|Joshua 12:23 >>]]</td></tr></table>
 
 

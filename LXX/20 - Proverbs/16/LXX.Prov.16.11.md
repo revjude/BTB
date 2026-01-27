@@ -9,17 +9,17 @@ Honest scales and balances are from the LORD; all the weights in the bag are His
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] crux | <span class="asgreek">ροπή <sup><small><small>[[G9034]]</small></small></sup> </span> |
-| of \[the\] yoke \[balance scale\] | <span class="asgreek">ζυγού <sup><small><small>[[G2218]]</small></small></sup> </span> |
-| \[is\] righteousness | <span class="asgreek">δικαιοσύνη <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| with | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| God; | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| works | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| weights | <span class="asgreek">στάθμια <sup><small><small>[[G9149]]</small></small></sup> </span> |
-| \[are\] just | <span class="asgreek">δίκαια <sup><small><small>[[G1342]]</small></small></sup> </span> |
+| \[The\] crux | <big><span class="asgreek">ροπή</span></big> <sup><small><small>[[G9034]]</small></small></sup> |
+| of \[the\] yoke \[balance scale\] | <big><span class="asgreek">ζυγού</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
+| \[is\] righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| with | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| God; | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| weights | <big><span class="asgreek">στάθμια</span></big> <sup><small><small>[[G9149]]</small></small></sup> |
+| \[are\] just | <big><span class="asgreek">δίκαια</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
 [[Prov.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.10|<< Proverbs 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.12|Proverbs 16:12 >>]]</td></tr></table>
 
 

@@ -9,28 +9,28 @@ Below the rim, figures of oxen encircled it, ten per cubit all the way around th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a representation | <span class="asgreek">ομοίωμα <sup><small><small>[[G3667]]</small></small></sup> </span> |
-| of calves | <span class="asgreek">μόσχων <sup><small><small>[[G3448]]</small></small></sup> </span> |
-| \[was\] underneath | <span class="asgreek">υποκάτωθεν <sup><small><small>[[G9575]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| round about | <span class="asgreek">κυκλώθεν <sup><small><small>[[G2943]]</small></small></sup> </span> |
-| encircling | <span class="asgreek">κυκλούντες <sup><small><small>[[G2944]]</small></small></sup> </span> |
-| it; | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| ten | <span class="asgreek">δέκα <sup><small><small>[[G1176]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a cubit | <span class="asgreek">πήχει <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| encircling | <span class="asgreek">κυκλούντες <sup><small><small>[[G2944]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sea | <span class="asgreek">θάλασσαν <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| round about; | <span class="asgreek">κυκλόθεν <sup><small><small>[[G2943]]</small></small></sup> </span> |
-| \[with\] two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| rows \[of\] | <span class="asgreek">στίχοι <sup><small><small>[[G9184]]</small></small></sup> </span> |
-| oxen | <span class="asgreek">βόες <sup><small><small>[[G1016]]</small></small></sup> </span> |
-| cast | <span class="asgreek">χωνευτοί <sup><small><small>[[G9778]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their being cast in a furnace, | <span class="asgreek">χωνεύσει <sup><small><small>[[G9779]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a representation | <big><span class="asgreek">ομοίωμα</span></big> <sup><small><small>[[G3667]]</small></small></sup> |
+| of calves | <big><span class="asgreek">μόσχων</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
+| \[was\] underneath | <big><span class="asgreek">υποκάτωθεν</span></big> <sup><small><small>[[G9575]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| round about | <big><span class="asgreek">κυκλώθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| encircling | <big><span class="asgreek">κυκλούντες</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
+| it; | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a cubit | <big><span class="asgreek">πήχει</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| encircling | <big><span class="asgreek">κυκλούντες</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sea | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| round about; | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| \[with\] two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| rows \[of\] | <big><span class="asgreek">στίχοι</span></big> <sup><small><small>[[G9184]]</small></small></sup> |
+| oxen | <big><span class="asgreek">βόες</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
+| cast | <big><span class="asgreek">χωνευτοί</span></big> <sup><small><small>[[G9778]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their being cast in a furnace, | <big><span class="asgreek">χωνεύσει</span></big> <sup><small><small>[[G9779]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[2Chr.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.2|<< 2 Chronicles 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.4|2 Chronicles 4:4 >>]]</td></tr></table>
 
 

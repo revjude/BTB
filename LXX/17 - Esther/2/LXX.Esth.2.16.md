@@ -9,23 +9,23 @@ She was taken to King Xerxes in the royal palace in the tenth month, the month o
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Esther entered | <span class="asgreek">εισήλθεν <sup><small><small>[[G1525]]</small></small></sup> <span class="asgreek">Εσθήρ <sup><small><small>[[H0635]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Artaxerxes | <span class="asgreek">Αρταξέρξην <sup><small><small>[[H0783b]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tenth | <span class="asgreek">δεκάτω <sup><small><small>[[G1181]]</small></small></sup> </span> |
-| month, | <span class="asgreek">μηνί <sup><small><small>[[G3376]]</small></small></sup> </span> |
-| which | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| Tebeth, | <span class="asgreek">Τηβήθ <sup><small><small>[[G9443]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seventh | <span class="asgreek">εβδόμω <sup><small><small>[[G1442]]</small></small></sup> </span> |
-| year | <span class="asgreek">έτει <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his kingship. | <span class="asgreek">βασιλείας <sup><small><small>[[G0932]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Esther entered | <big><span class="asgreek">εισήλθεν</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Artaxerxes | <big><span class="asgreek">Αρταξέρξην</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tenth | <big><span class="asgreek">δεκάτω</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
+| month, | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
+| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| Tebeth, | <big><span class="asgreek">Τηβήθ</span></big> <sup><small><small>[[G9443]]</small></small></sup> |
+| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seventh | <big><span class="asgreek">εβδόμω</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
+| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his kingship. | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Esth.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.15|<< Esther 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.17|Esther 2:17 >>]]</td></tr></table>
 
 

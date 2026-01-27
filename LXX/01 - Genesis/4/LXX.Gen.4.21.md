@@ -9,18 +9,18 @@ And his brother’s name was Jubal; he was the father of all who play the harp a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] name | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his brother | <span class="asgreek">αδελφώ <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[was\] Jubal, | <span class="asgreek">Ιουβάλ <sup><small><small>[[H3106]]</small></small></sup> </span> |
-| this \[one\] | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the \[one\]\<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| introducing | <span class="asgreek">καταδείξας <sup><small><small>[[G7832]]</small></small></sup> </span> |
-| \[the\] psaltery | <span class="asgreek">ψαλτήριον <sup><small><small>[[G9783]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] harp. | <span class="asgreek">κιθάραν <sup><small><small>[[G2788]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his brother | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[was\] Jubal, | <big><span class="asgreek">Ιουβάλ</span></big> <sup><small><small>[[H3106]]</small></small></sup> |
+| this \[one\] | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the \[one\]\<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| introducing | <big><span class="asgreek">καταδείξας</span></big> <sup><small><small>[[G7832]]</small></small></sup> |
+| \[the\] psaltery | <big><span class="asgreek">ψαλτήριον</span></big> <sup><small><small>[[G9783]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] harp. | <big><span class="asgreek">κιθάραν</span></big> <sup><small><small>[[G2788]]</small></small></sup> |
 [[Gen.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.20|<< Genesis 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.22|Genesis 4:22 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ If a priest’s daughter defiles herself by prostituting herself, she profanes h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a daughter | <span class="asgreek">θυγάτηρ <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of a man | <span class="asgreek">ανθρώπου <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| \[being\] a priest, | <span class="asgreek">ιερέως <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| she should be profaned | <span class="asgreek">βεβηλωθή <sup><small><small>[[G0953]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to fornicate, | <span class="asgreek">εκπορνεύσαι <sup><small><small>[[G1608]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| name | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of her father | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| she | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| profanes | <span class="asgreek">βεβηλοί <sup><small><small>[[G0953]]</small></small></sup> </span> |
-| with | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| fire | <span class="asgreek">πυρός <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| she shall be incinerated. | <span class="asgreek">κατακαυθήσεται <sup><small><small>[[G2618]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of a man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| \[being\] a priest, | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| she should be profaned | <big><span class="asgreek">βεβηλωθή</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to fornicate, | <big><span class="asgreek">εκπορνεύσαι</span></big> <sup><small><small>[[G1608]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of her father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| she | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| profanes | <big><span class="asgreek">βεβηλοί</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
+| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| fire | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| she shall be incinerated. | <big><span class="asgreek">κατακαυθήσεται</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
 [[Lev.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.8|<< Leviticus 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.10|Leviticus 21:10 >>]]</td></tr></table>
 
 

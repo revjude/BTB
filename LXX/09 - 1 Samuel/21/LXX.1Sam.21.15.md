@@ -9,22 +9,22 @@ Am I in need of madmen, that you have brought this man to rave in my presence? M
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| feel a want | <span class="asgreek">προσδέομαι <sup><small><small>[[G4326]]</small></small></sup> </span> |
-| of ones overcome by convulsions | <span class="asgreek">επιλήπτων <sup><small><small>[[G7429]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| you carry | <span class="asgreek">εισενέγκατε <sup><small><small>[[G1533]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| being possessed | <span class="asgreek">επιληπτεύεσθαι <sup><small><small>[[G7428]]</small></small></sup> </span> |
-| unto | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| me? | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Shall | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| this one | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| enter | <span class="asgreek">εισελεύσεται <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my house, \[no\]. | <span class="asgreek">οικίαν <sup><small><small>[[G3614]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| feel a want | <big><span class="asgreek">προσδέομαι</span></big> <sup><small><small>[[G4326]]</small></small></sup> |
+| of ones overcome by convulsions | <big><span class="asgreek">επιλήπτων</span></big> <sup><small><small>[[G7429]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| you carry | <big><span class="asgreek">εισενέγκατε</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| being possessed | <big><span class="asgreek">επιληπτεύεσθαι</span></big> <sup><small><small>[[G7428]]</small></small></sup> |
+| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| me? | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| enter | <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my house, \[no\]. | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Sam.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.14|<< 1 Samuel 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.1|1 Samuel 22:1 >>]]</td></tr></table>
 
 

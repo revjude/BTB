@@ -9,23 +9,23 @@ Like a bird that strays from its nest is a man who wanders from his home.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| a bird | <span class="asgreek">όρνεον <sup><small><small>[[G3732]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| it flies down | <span class="asgreek">καταπετασθή <sup><small><small>[[G7892]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its own | <span class="asgreek">ιδίας <sup><small><small>[[G2398]]</small></small></sup> </span> |
-| nest; | <span class="asgreek">νοσσιάς <sup><small><small>[[G3555]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| a man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| \[is\] enslaved | <span class="asgreek">δουλούται <sup><small><small>[[G1402]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| he estranges himself | <span class="asgreek">αποξενωθή <sup><small><small>[[G6461]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his own | <span class="asgreek">ιδίων <sup><small><small>[[G2398]]</small></small></sup> </span> |
-| places. | <span class="asgreek">τόπων <sup><small><small>[[G5117]]</small></small></sup> </span> |
+| As | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| a bird | <big><span class="asgreek">όρνεον</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| it flies down | <big><span class="asgreek">καταπετασθή</span></big> <sup><small><small>[[G7892]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its own | <big><span class="asgreek">ιδίας</span></big> <sup><small><small>[[G2398]]</small></small></sup> |
+| nest; | <big><span class="asgreek">νοσσιάς</span></big> <sup><small><small>[[G3555]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| \[is\] enslaved | <big><span class="asgreek">δουλούται</span></big> <sup><small><small>[[G1402]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| he estranges himself | <big><span class="asgreek">αποξενωθή</span></big> <sup><small><small>[[G6461]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his own | <big><span class="asgreek">ιδίων</span></big> <sup><small><small>[[G2398]]</small></small></sup> |
+| places. | <big><span class="asgreek">τόπων</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
 [[Prov.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.7|<< Proverbs 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.9|Proverbs 27:9 >>]]</td></tr></table>
 
 

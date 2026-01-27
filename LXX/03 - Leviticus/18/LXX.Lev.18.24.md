@@ -9,23 +9,23 @@ Do not defile yourselves by any of these practices, for by all these things the 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| defile \[yourselves\] | <span class="asgreek">μιαίνεσθε <sup><small><small>[[G3392]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| any | <span class="asgreek">πάσι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| of these; | <span class="asgreek">τούτοις <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| these | <span class="asgreek">τούτοις <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| were defiled | <span class="asgreek">εμιάνθησαν <sup><small><small>[[G3392]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| which | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| eject | <span class="asgreek">εξαποστελλώ <sup><small><small>[[G1821]]</small></small></sup> </span> |
-| before | <span class="asgreek">προ <sup><small><small>[[G4253]]</small></small></sup> </span> |
-| your face. | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| defile \[yourselves\] | <big><span class="asgreek">μιαίνεσθε</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| any | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| of these; | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| these | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| were defiled | <big><span class="asgreek">εμιάνθησαν</span></big> <sup><small><small>[[G3392]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| eject | <big><span class="asgreek">εξαποστελλώ</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
+| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
+| your face. | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lev.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.23|<< Leviticus 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.25|Leviticus 18:25 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ For there will be a day when watchmen will call out on the hills of Ephraim, ‘
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| it is | <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[the\] day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of calling, | <span class="asgreek">κλήσεως <sup><small><small>[[G2821]]</small></small></sup> </span> |
-| of ones pleading | <span class="asgreek">απολογουμένων <sup><small><small>[[G0626]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] mountains | <span class="asgreek">όρεσιν <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| of Ephraim, \[saying\], | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
-| Rise up, | <span class="asgreek">ανάστητε <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| ascend | <span class="asgreek">ανάβητε <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Zion | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your God! | <span class="asgreek">θεόν <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| it is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of calling, | <big><span class="asgreek">κλήσεως</span></big> <sup><small><small>[[G2821]]</small></small></sup> |
+| of ones pleading | <big><span class="asgreek">απολογουμένων</span></big> <sup><small><small>[[G0626]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] mountains | <big><span class="asgreek">όρεσιν</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| of Ephraim, \[saying\], | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| Rise up, | <big><span class="asgreek">ανάστητε</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| ascend | <big><span class="asgreek">ανάβητε</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your God! | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.5|<< Jeremiah 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.7|Jeremiah 31:7 >>]]</td></tr></table>
 
 

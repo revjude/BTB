@@ -9,15 +9,15 @@ You are never to use this formula to make incense for yourselves; you shall rega
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| According to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this composition | <span class="asgreek">σύνθεσιν <sup><small><small>[[G9324]]</small></small></sup> <span class="asgreek">ταύτην <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| you shall not make | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ποιήσετε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| to you | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| yourselves -- | <span class="asgreek">εαυτοίς <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| it shall be a sanctified \[thing\] | <span class="asgreek">αγίασμα <sup><small><small>[[G6114]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to you | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[to the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this composition | <big><span class="asgreek">σύνθεσιν</span></big> <sup><small><small>[[G9324]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| you shall not make | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| yourselves -- | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| it shall be a sanctified \[thing\] | <big><span class="asgreek">αγίασμα</span></big> <sup><small><small>[[G6114]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[to the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Exod.30.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.36|<< Exodus 30:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.38|Exodus 30:38 >>]]</td></tr></table>
 
 

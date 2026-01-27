@@ -13,23 +13,23 @@ They sacrificed to demons, not to God, to gods they had not known, to newly arri
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They sacrificed | <span class="asgreek">έθυσαν <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| to demons, | <span class="asgreek">δαιμονίοις <sup><small><small>[[G1140]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| to God -- | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| to gods | <span class="asgreek">θεοίς <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| in whom | <span class="asgreek">οις <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| they did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| know; | <span class="asgreek">ήδεισαν <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| new | <span class="asgreek">καινοί <sup><small><small>[[G2537]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| newly made \[gods\] | <span class="asgreek">πρόσφατοι <sup><small><small>[[G4372]]</small></small></sup> </span> |
-| have come, | <span class="asgreek">ήκασιν <sup><small><small>[[G2240]]</small></small></sup> </span> |
-| in whom | <span class="asgreek">οις <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| knew not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ήδεισαν <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their fathers | <span class="asgreek">πατέρες <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| They sacrificed | <big><span class="asgreek">έθυσαν</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| to demons, | <big><span class="asgreek">δαιμονίοις</span></big> <sup><small><small>[[G1140]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| to God -- | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| to gods | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| in whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| know; | <big><span class="asgreek">ήδεισαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| new | <big><span class="asgreek">καινοί</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| newly made \[gods\] | <big><span class="asgreek">πρόσφατοι</span></big> <sup><small><small>[[G4372]]</small></small></sup> |
+| have come, | <big><span class="asgreek">ήκασιν</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
+| in whom | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| knew not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήδεισαν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.32.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.16|<< Deuteronomy 32:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.18|Deuteronomy 32:18 >>]]</td></tr></table>
 
 

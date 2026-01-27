@@ -9,23 +9,23 @@ All these sons of Jediael were heads of their families, mighty men of valor; the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| All | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| these | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[were\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Jediael, | <span class="asgreek">Ιεδιήλ <sup><small><small>[[H3043]]</small></small></sup> </span> |
-| rulers | <span class="asgreek">άρχοντες <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| families, | <span class="asgreek">πατριών <sup><small><small>[[G3965]]</small></small></sup> </span> |
-| mighty ones | <span class="asgreek">δυνατοί <sup><small><small>[[G1415]]</small></small></sup> </span> |
-| of strength -- | <span class="asgreek">ισχύϊ <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| seventeen | <span class="asgreek">επτακαίδεκα <sup><small><small>[[G7483]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάδες <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| two hundred | <span class="asgreek">διακόσιοι <sup><small><small>[[G1250]]</small></small></sup> </span> |
-| going forth | <span class="asgreek">εκπορευόμενοι <sup><small><small>[[G1607]]</small></small></sup> </span> |
-| in power | <span class="asgreek">δυνάμει <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to wage war. | <span class="asgreek">πολεμείν <sup><small><small>[[G4170]]</small></small></sup> </span> |
+| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[were\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Jediael, | <big><span class="asgreek">Ιεδιήλ</span></big> <sup><small><small>[[H3043]]</small></small></sup> |
+| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| families, | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
+| mighty ones | <big><span class="asgreek">δυνατοί</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| of strength -- | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| seventeen | <big><span class="asgreek">επτακαίδεκα</span></big> <sup><small><small>[[G7483]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| two hundred | <big><span class="asgreek">διακόσιοι</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
+| going forth | <big><span class="asgreek">εκπορευόμενοι</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
+| in power | <big><span class="asgreek">δυνάμει</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to wage war. | <big><span class="asgreek">πολεμείν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
 [[1Chr.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.10|<< 1 Chronicles 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.12|1 Chronicles 7:12 >>]]</td></tr></table>
 
 

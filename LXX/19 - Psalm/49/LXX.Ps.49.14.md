@@ -9,31 +9,31 @@ Like sheep they are destined for Sheol. Death will be their shepherd. The uprigh
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| sheep | <span class="asgreek">πρόβατα <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Hades | <span class="asgreek">άδη <sup><small><small>[[G0086]]</small></small></sup> </span> |
-| They placed \[them\] | <span class="asgreek">έθεντο <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| death | <span class="asgreek">θάνατος <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| tends | <span class="asgreek">ποιμανεί <sup><small><small>[[G4165]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall dominate | <span class="asgreek">κατακυριεύσουσιν <sup><small><small>[[G2634]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| upright | <span class="asgreek">ευθείς <sup><small><small>[[G2117]]</small></small></sup> </span> |
-| in the morning; | <span class="asgreek">τοπρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their help | <span class="asgreek">βοήθεια <sup><small><small>[[G0996]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall grow old | <span class="asgreek">παλαιωθήσεται <sup><small><small>[[G3822]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hades; | <span class="asgreek">άδη <sup><small><small>[[G0086]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their glory | <span class="asgreek">δόξης <sup><small><small>[[G1391]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they were banished | <span class="asgreek">εξώσθησαν <sup><small><small>[[G1856]]</small></small></sup> </span> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Hades | <big><span class="asgreek">άδη</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
+| They placed \[them\] | <big><span class="asgreek">έθεντο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| death | <big><span class="asgreek">θάνατος</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| tends | <big><span class="asgreek">ποιμανεί</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall dominate | <big><span class="asgreek">κατακυριεύσουσιν</span></big> <sup><small><small>[[G2634]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| upright | <big><span class="asgreek">ευθείς</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
+| in the morning; | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their help | <big><span class="asgreek">βοήθεια</span></big> <sup><small><small>[[G0996]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall grow old | <big><span class="asgreek">παλαιωθήσεται</span></big> <sup><small><small>[[G3822]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hades; | <big><span class="asgreek">άδη</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their glory | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they were banished | <big><span class="asgreek">εξώσθησαν</span></big> <sup><small><small>[[G1856]]</small></small></sup> |
 [[Ps.49.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.13|<< Psalm 49:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.15|Psalm 49:15 >>]]</td></tr></table>
 
 

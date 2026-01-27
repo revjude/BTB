@@ -9,27 +9,27 @@ He oppresses the poor and needy; he commits robbery and does not restore a pledg
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] poor | <span class="asgreek">πτωχόν <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| needy | <span class="asgreek">πένητα <sup><small><small>[[G3993]]</small></small></sup> </span> |
-| tyrannized over | <span class="asgreek">κατεδυνάστευσε <sup><small><small>[[G2616]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| seized | <span class="asgreek">άρπαγμα <sup><small><small>[[G6540]]</small></small></sup> </span> |
-| by force, | <span class="asgreek">ήρπασε <sup><small><small>[[G0726]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| collateral taken as a pledge | <span class="asgreek">ενεχυρασμόν <sup><small><small>[[G7238]]</small></small></sup> </span> |
-| did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| give back | <span class="asgreek">απέδωκε <sup><small><small>[[G0591]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| idols | <span class="asgreek">είδωλα <sup><small><small>[[G1497]]</small></small></sup> </span> |
-| put | <span class="asgreek">έθετο <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his eyes | <span class="asgreek">οφθαλμούς <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| lawlessness | <span class="asgreek">ανομίαν <sup><small><small>[[G0458]]</small></small></sup> </span> |
-| to do | <span class="asgreek">πεποίηκε <sup><small><small>[[G4160]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] poor | <big><span class="asgreek">πτωχόν</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| needy | <big><span class="asgreek">πένητα</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
+| tyrannized over | <big><span class="asgreek">κατεδυνάστευσε</span></big> <sup><small><small>[[G2616]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| seized | <big><span class="asgreek">άρπαγμα</span></big> <sup><small><small>[[G6540]]</small></small></sup> |
+| by force, | <big><span class="asgreek">ήρπασε</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| collateral taken as a pledge | <big><span class="asgreek">ενεχυρασμόν</span></big> <sup><small><small>[[G7238]]</small></small></sup> |
+| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| give back | <big><span class="asgreek">απέδωκε</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| idols | <big><span class="asgreek">είδωλα</span></big> <sup><small><small>[[G1497]]</small></small></sup> |
+| put | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| to do | <big><span class="asgreek">πεποίηκε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
 [[Ezek.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.11|<< Ezekiel 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.13|Ezekiel 18:13 >>]]</td></tr></table>
 
 

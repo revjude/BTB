@@ -9,26 +9,26 @@ Now these were the Levites numbered by their clans: The Gershonite clan from Ger
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Levi | <span class="asgreek">Λευί <sup><small><small>[[G3017]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| their peoples -- | <span class="asgreek">δήμους <sup><small><small>[[G1218]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Gershon, | <span class="asgreek">Γερσών <sup><small><small>[[H1648]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Gershonites; | <span class="asgreek">Γερσωνί <sup><small><small>[[H1648]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Kohath, | <span class="asgreek">Καάθ <sup><small><small>[[H6956]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Kohathites; | <span class="asgreek">Κααθί <sup><small><small>[[H6956]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Merari, | <span class="asgreek">Μεραρί <sup><small><small>[[H4847]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Merarites. | <span class="asgreek">Μεραρί <sup><small><small>[[H4847]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Levi | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| their peoples -- | <big><span class="asgreek">δήμους</span></big> <sup><small><small>[[G1218]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Gershon, | <big><span class="asgreek">Γερσών</span></big> <sup><small><small>[[H1648]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Gershonites; | <big><span class="asgreek">Γερσωνί</span></big> <sup><small><small>[[H1648]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Kohath, | <big><span class="asgreek">Καάθ</span></big> <sup><small><small>[[H6956]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Kohathites; | <big><span class="asgreek">Κααθί</span></big> <sup><small><small>[[H6956]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Merari, | <big><span class="asgreek">Μεραρί</span></big> <sup><small><small>[[H4847]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Merarites. | <big><span class="asgreek">Μεραρί</span></big> <sup><small><small>[[H4847]]</small></small></sup> |
 [[Num.26.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.56|<< Numbers 26:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.58|Numbers 26:58 >>]]</td></tr></table>
 
 

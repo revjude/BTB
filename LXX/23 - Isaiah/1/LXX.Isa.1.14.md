@@ -9,27 +9,27 @@ I hate your New Moons and your appointed feasts. They have become a burden to Me
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[Your\] fasting, | <span class="asgreek">νηστείαν <sup><small><small>[[G3521]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| idleness, | <span class="asgreek">αργίαν <sup><small><small>[[G6524]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your new moons, | <span class="asgreek">νουμηνίας <sup><small><small>[[G3561]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your holidays | <span class="asgreek">εορτάς <sup><small><small>[[G1859]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| detests | <span class="asgreek">μισεί <sup><small><small>[[G3404]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| You became | <span class="asgreek">εγενήθητέ <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a glut; | <span class="asgreek">πλησμονήν <sup><small><small>[[G4140]]</small></small></sup> </span> |
-| no longer | <span class="asgreek">ουκέτι <sup><small><small>[[G3765]]</small></small></sup> </span> |
-| shall I spare | <span class="asgreek">ανήσω <sup><small><small>[[G0447]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your sins. | <span class="asgreek">αμαρτίας <sup><small><small>[[G0266]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[Your\] fasting, | <big><span class="asgreek">νηστείαν</span></big> <sup><small><small>[[G3521]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| idleness, | <big><span class="asgreek">αργίαν</span></big> <sup><small><small>[[G6524]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your new moons, | <big><span class="asgreek">νουμηνίας</span></big> <sup><small><small>[[G3561]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your holidays | <big><span class="asgreek">εορτάς</span></big> <sup><small><small>[[G1859]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| detests | <big><span class="asgreek">μισεί</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You became | <big><span class="asgreek">εγενήθητέ</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a glut; | <big><span class="asgreek">πλησμονήν</span></big> <sup><small><small>[[G4140]]</small></small></sup> |
+| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
+| shall I spare | <big><span class="asgreek">ανήσω</span></big> <sup><small><small>[[G0447]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your sins. | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.13|<< Isaiah 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.15|Isaiah 1:15 >>]]</td></tr></table>
 
 

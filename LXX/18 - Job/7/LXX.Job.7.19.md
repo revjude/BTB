@@ -9,18 +9,18 @@ Will You never look away from me, or leave me alone to swallow my spittle?<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For how long | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> <span class="asgreek">τίνος <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| do you not allow | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">εάς <sup><small><small>[[G1439]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| let me go, | <span class="asgreek">προϊη <sup><small><small>[[G8896]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| I should swallow down | <span class="asgreek">καταπίω <sup><small><small>[[G2666]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my spittle | <span class="asgreek">πτύελόν <sup><small><small>[[G8981]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| grief? | <span class="asgreek">οδύνη <sup><small><small>[[G3601]]</small></small></sup> </span> |
+| For how long | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| do you not allow | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εάς</span></big> <sup><small><small>[[G1439]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| let me go, | <big><span class="asgreek">προϊη</span></big> <sup><small><small>[[G8896]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| I should swallow down | <big><span class="asgreek">καταπίω</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my spittle | <big><span class="asgreek">πτύελόν</span></big> <sup><small><small>[[G8981]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| grief? | <big><span class="asgreek">οδύνη</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
 [[Job.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.18|<< Job 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.20|Job 7:20 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ You must be sure to set aside a tenth of all the produce brought forth each year
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A tenth | <span class="asgreek">δεκάτην <sup><small><small>[[G1181]]</small></small></sup> </span> |
-| you shall tithe | <span class="asgreek">αποδεκατώσεις <sup><small><small>[[G0586]]</small></small></sup> </span> |
-| of all | <span class="asgreek">παντός <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| produce | <span class="asgreek">γενήματος <sup><small><small>[[G1081]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of seed | <span class="asgreek">σπέρματός <sup><small><small>[[G4690]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| produce | <span class="asgreek">γένημα <sup><small><small>[[G1081]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your field | <span class="asgreek">αγρού <sup><small><small>[[G0068]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| year | <span class="asgreek">ενιαυτόν <sup><small><small>[[G1763]]</small></small></sup> </span> |
-| by | <span class="asgreek">κατ΄ <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| year. | <span class="asgreek">ενιαυτόν <sup><small><small>[[G1763]]</small></small></sup> </span> |
+| A tenth | <big><span class="asgreek">δεκάτην</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
+| you shall tithe | <big><span class="asgreek">αποδεκατώσεις</span></big> <sup><small><small>[[G0586]]</small></small></sup> |
+| of all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| produce | <big><span class="asgreek">γενήματος</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of seed | <big><span class="asgreek">σπέρματός</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| produce | <big><span class="asgreek">γένημα</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| year | <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
+| by | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| year. | <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
 [[Deut.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.21|<< Deuteronomy 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.23|Deuteronomy 14:23 >>]]</td></tr></table>
 
 

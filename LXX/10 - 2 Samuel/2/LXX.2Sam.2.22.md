@@ -9,32 +9,32 @@ Once again, Abner warned Asahel, “Stop chasing me. Why should I strike you to 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| added | <span class="asgreek">προσέθετο <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| yet | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| Abner | <span class="asgreek">Αβενήρ <sup><small><small>[[H0074]]</small></small></sup> </span> |
-| saying | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Asahel, | <span class="asgreek">Ασαήλ <sup><small><small>[[H6214]]</small></small></sup> </span> |
-| Leave | <span class="asgreek">απόστηθι <sup><small><small>[[G0868]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| me! | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| I should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| strike | <span class="asgreek">πατάξω <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ground. | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| For | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| how | <span class="asgreek">πως <sup><small><small>[[G4459]]</small></small></sup> </span> |
-| shall I lift | <span class="asgreek">αρώ <sup><small><small>[[G0142]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my face | <span class="asgreek">πρόσωπόν <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Joab | <span class="asgreek">Ιωάβ <sup><small><small>[[H3097]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your brother? | <span class="asgreek">αδελφόν <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| added | <big><span class="asgreek">προσέθετο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| Abner | <big><span class="asgreek">Αβενήρ</span></big> <sup><small><small>[[H0074]]</small></small></sup> |
+| saying | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Asahel, | <big><span class="asgreek">Ασαήλ</span></big> <sup><small><small>[[H6214]]</small></small></sup> |
+| Leave | <big><span class="asgreek">απόστηθι</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| me! | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| I should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| strike | <big><span class="asgreek">πατάξω</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ground. | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
+| shall I lift | <big><span class="asgreek">αρώ</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my face | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your brother? | <big><span class="asgreek">αδελφόν</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[2Sam.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.21|<< 2 Samuel 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.23|2 Samuel 2:23 >>]]</td></tr></table>
 
 

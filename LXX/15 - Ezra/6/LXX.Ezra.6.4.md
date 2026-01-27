@@ -9,24 +9,24 @@ with three layers of cut stones and one of timbers. The costs are to be paid fro
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| layers | <span class="asgreek">δόμοι <sup><small><small>[[G6959]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθινοι <sup><small><small>[[G3035]]</small></small></sup> </span> |
-| of fortified | <span class="asgreek">κραταιοί <sup><small><small>[[G2900]]</small></small></sup> </span> |
-| three | <span class="asgreek">τρεις <sup><small><small>[[G5140]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| layer | <span class="asgreek">δόμον <sup><small><small>[[G6959]]</small></small></sup> </span> |
-| timbers | <span class="asgreek">ξύλων <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| of new | <span class="asgreek">καινών <sup><small><small>[[G2537]]</small></small></sup> </span> |
-| one | <span class="asgreek">ένα <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| expense | <span class="asgreek">δαπάνη <sup><small><small>[[G1160]]</small></small></sup> </span> |
-| out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| shall be granted | <span class="asgreek">δοθήσεται <sup><small><small>[[G1325]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| layers | <big><span class="asgreek">δόμοι</span></big> <sup><small><small>[[G6959]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθινοι</span></big> <sup><small><small>[[G3035]]</small></small></sup> |
+| of fortified | <big><span class="asgreek">κραταιοί</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
+| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| layer | <big><span class="asgreek">δόμον</span></big> <sup><small><small>[[G6959]]</small></small></sup> |
+| timbers | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| of new | <big><span class="asgreek">καινών</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
+| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| expense | <big><span class="asgreek">δαπάνη</span></big> <sup><small><small>[[G1160]]</small></small></sup> |
+| out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| shall be granted | <big><span class="asgreek">δοθήσεται</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
 [[Ezra.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.3|<< Ezra 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.5|Ezra 6:5 >>]]</td></tr></table>
 
 

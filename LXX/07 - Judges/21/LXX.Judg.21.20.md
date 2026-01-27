@@ -12,18 +12,18 @@ So they commanded the Benjamites: “Go, hide in the vineyards<small><sub>**MT:
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they gave charge | <span class="asgreek">ενετείλαντο <sup><small><small>[[G1781]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοίς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Benjamin, | <span class="asgreek">Βενιαμίν <sup><small><small>[[G0958]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγοντες <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Go forth | <span class="asgreek">απέλθατε <sup><small><small>[[G0565]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lie in wait | <span class="asgreek">ενεδρεύσατε <sup><small><small>[[G1748]]</small></small></sup> </span> |
-| at | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| vineyards! | <span class="asgreek">αμπελώσι <sup><small><small>[[G0290]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they gave charge | <big><span class="asgreek">ενετείλαντο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Benjamin, | <big><span class="asgreek">Βενιαμίν</span></big> <sup><small><small>[[G0958]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Go forth | <big><span class="asgreek">απέλθατε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lie in wait | <big><span class="asgreek">ενεδρεύσατε</span></big> <sup><small><small>[[G1748]]</small></small></sup> |
+| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| vineyards! | <big><span class="asgreek">αμπελώσι</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
 [[Judg.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.19|<< Judges 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.21|Judges 21:21 >>]]</td></tr></table>
 
 

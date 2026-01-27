@@ -9,32 +9,32 @@ The magicians tried to produce gnats using their magic arts, but they could not.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| did | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| likewise | <span class="asgreek">ωσαύτως <sup><small><small>[[G5615]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| enchanters | <span class="asgreek">επαοιδοί <sup><small><small>[[G7368]]</small></small></sup> </span> |
-| in | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their sorceries, | <span class="asgreek">φαρμακείαις <sup><small><small>[[G5331]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to lead out | <span class="asgreek">εξαγαγείν <sup><small><small>[[G1806]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| midge, | <span class="asgreek">σκνίπα <sup><small><small>[[G9110]]</small></small></sup> </span> |
-| but | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they were not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| able. | <span class="asgreek">ηδύναντο <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there were | <span class="asgreek">εγένοντο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| midges | <span class="asgreek">σκνίπες <sup><small><small>[[G9110]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| both | <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| men, | <span class="asgreek">ανθρώποις <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| four-footed \[creatures\]. | <span class="asgreek">τετράποσιν <sup><small><small>[[G5074]]</small></small></sup> </span> |
+| did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| likewise | <big><span class="asgreek">ωσαύτως</span></big> <sup><small><small>[[G5615]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| enchanters | <big><span class="asgreek">επαοιδοί</span></big> <sup><small><small>[[G7368]]</small></small></sup> |
+| in | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their sorceries, | <big><span class="asgreek">φαρμακείαις</span></big> <sup><small><small>[[G5331]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to lead out | <big><span class="asgreek">εξαγαγείν</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| midge, | <big><span class="asgreek">σκνίπα</span></big> <sup><small><small>[[G9110]]</small></small></sup> |
+| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| able. | <big><span class="asgreek">ηδύναντο</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| midges | <big><span class="asgreek">σκνίπες</span></big> <sup><small><small>[[G9110]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| both | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| men, | <big><span class="asgreek">ανθρώποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| four-footed \[creatures\]. | <big><span class="asgreek">τετράποσιν</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
 [[Exod.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.17|<< Exodus 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.19|Exodus 8:19 >>]]</td></tr></table>
 
 

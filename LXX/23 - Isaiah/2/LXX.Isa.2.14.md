@@ -9,16 +9,16 @@ against all the tall mountains, against all the high hills,<small><sub>**MT:**<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| high | <span class="asgreek">υψηλόν <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| mountain; | <span class="asgreek">όρος <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| hill | <span class="asgreek">βουνόν <sup><small><small>[[G1015]]</small></small></sup> </span> |
-| high | <span class="asgreek">υψηλόν <sup><small><small>[[G5308]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| high | <big><span class="asgreek">υψηλόν</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| mountain; | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| hill | <big><span class="asgreek">βουνόν</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
+| high | <big><span class="asgreek">υψηλόν</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
 [[Isa.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.13|<< Isaiah 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.15|Isaiah 2:15 >>]]</td></tr></table>
 
 

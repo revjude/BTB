@@ -9,22 +9,22 @@ And Zillah gave birth to Tubal-cain, a forger of every implement of bronze and i
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But Zillah | <span class="asgreek">Σελλά <sup><small><small>[[H6741]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| herself | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| bore | <span class="asgreek">έτεκε <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Tubal-cain, | <span class="asgreek">Θοβέλ <sup><small><small>[[H8423]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| a hammer-smith | <span class="asgreek">σφυροκόπος <sup><small><small>[[G9378]]</small></small></sup> </span> |
-| brazier | <span class="asgreek">χαλκεύς <sup><small><small>[[G5471]]</small></small></sup> </span> |
-| of brass | <span class="asgreek">χαλκού <sup><small><small>[[G5475]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of iron. | <span class="asgreek">σιδήρου <sup><small><small>[[G4604]]</small></small></sup> </span> |
-| And \[the\] sister | <span class="asgreek">αδελφή <sup><small><small>[[G0079]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of Tubal-cain | <span class="asgreek">Θοβέλ <sup><small><small>[[H8423]]</small></small></sup> </span> |
-| \[was\] Naamah. | <span class="asgreek">Νοεμά <sup><small><small>[[H5279b]]</small></small></sup> </span> |
+| But Zillah | <big><span class="asgreek">Σελλά</span></big> <sup><small><small>[[H6741]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| herself | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| bore | <big><span class="asgreek">έτεκε</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Tubal-cain, | <big><span class="asgreek">Θοβέλ</span></big> <sup><small><small>[[H8423]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| a hammer-smith | <big><span class="asgreek">σφυροκόπος</span></big> <sup><small><small>[[G9378]]</small></small></sup> |
+| brazier | <big><span class="asgreek">χαλκεύς</span></big> <sup><small><small>[[G5471]]</small></small></sup> |
+| of brass | <big><span class="asgreek">χαλκού</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of iron. | <big><span class="asgreek">σιδήρου</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
+| And \[the\] sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of Tubal-cain | <big><span class="asgreek">Θοβέλ</span></big> <sup><small><small>[[H8423]]</small></small></sup> |
+| \[was\] Naamah. | <big><span class="asgreek">Νοεμά</span></big> <sup><small><small>[[H5279b]]</small></small></sup> |
 [[Gen.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.21|<< Genesis 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.23|Genesis 4:23 >>]]</td></tr></table>
 
 

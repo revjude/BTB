@@ -16,12 +16,12 @@ Jonah, however, was greatly displeased, and he became angry.<small><sub>**MT:**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jonah was grieved | <span class="asgreek">ελυπήθη <sup><small><small>[[G3076]]</small></small></sup> <span class="asgreek">Ιωνάς <sup><small><small>[[G2495]]</small></small></sup> </span> |
-| distress | <span class="asgreek">λύπην <sup><small><small>[[G3077]]</small></small></sup> </span> |
-| \[with\] great | <span class="asgreek">μεγάλην <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| was confounded. | <span class="asgreek">συνεχύθη <sup><small><small>[[G4797]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jonah was grieved | <big><span class="asgreek">ελυπήθη</span></big> <sup><small><small>[[G3076]]</small></small></sup> <big><span class="asgreek">Ιωνάς</span></big> <sup><small><small>[[G2495]]</small></small></sup> |
+| distress | <big><span class="asgreek">λύπην</span></big> <sup><small><small>[[G3077]]</small></small></sup> |
+| \[with\] great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| was confounded. | <big><span class="asgreek">συνεχύθη</span></big> <sup><small><small>[[G4797]]</small></small></sup> |
 [[Jonah.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.10|<< Jonah 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.2|Jonah 4:2 >>]]</td></tr></table>
 
 

@@ -12,25 +12,25 @@ This is what the Lord GOD showed me: He was preparing swarms of locusts just aft
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| showed | <span class="asgreek">έδειξέ <sup><small><small>[[G1166]]</small></small></sup> </span> |
-| to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| a breed | <span class="asgreek">επιγονή <sup><small><small>[[G7399]]</small></small></sup> </span> |
-| of locusts | <span class="asgreek">ακρίδων <sup><small><small>[[G0200]]</small></small></sup> </span> |
-| coming | <span class="asgreek">ερχομένη <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| in early morning, | <span class="asgreek">εωθινή <sup><small><small>[[G7595]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| grasshopper | <span class="asgreek">βρούχος <sup><small><small>[[G6700]]</small></small></sup> </span> |
-| one | <span class="asgreek">εις <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| Gog | <span class="asgreek">Γωγ <sup><small><small>[[G1136]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king. | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
+| Thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| showed | <big><span class="asgreek">έδειξέ</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
+| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| a breed | <big><span class="asgreek">επιγονή</span></big> <sup><small><small>[[G7399]]</small></small></sup> |
+| of locusts | <big><span class="asgreek">ακρίδων</span></big> <sup><small><small>[[G0200]]</small></small></sup> |
+| coming | <big><span class="asgreek">ερχομένη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| in early morning, | <big><span class="asgreek">εωθινή</span></big> <sup><small><small>[[G7595]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| grasshopper | <big><span class="asgreek">βρούχος</span></big> <sup><small><small>[[G6700]]</small></small></sup> |
+| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| Gog | <big><span class="asgreek">Γωγ</span></big> <sup><small><small>[[G1136]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king. | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
 [[Amos.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.14|<< Amos 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.2|Amos 7:2 >>]]</td></tr></table>
 
 

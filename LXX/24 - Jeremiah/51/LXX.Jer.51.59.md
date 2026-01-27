@@ -9,39 +9,39 @@ This is the message that Jeremiah the prophet gave to the quartermaster Seraiah 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| word | <span class="asgreek">λόγος <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| which | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> gave charge | <span class="asgreek">ενετείλατο <sup><small><small>[[G1781]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| to Jeremiah | <span class="asgreek">Ιερεμία <sup><small><small>[[G2408]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prophet | <span class="asgreek">προφήτη <sup><small><small>[[G4396]]</small></small></sup> </span> |
-| to say | <span class="asgreek">ειπείν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Seraiah | <span class="asgreek">Σαραϊα <sup><small><small>[[H8304]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιώ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Neriah, | <span class="asgreek">Νηρίου <sup><small><small>[[H5374]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Maaseiah | <span class="asgreek">Μαασαίου <sup><small><small>[[H4641]]</small></small></sup> </span> |
-| when | <span class="asgreek">ότε <sup><small><small>[[G3753]]</small></small></sup> </span> |
-| he went | <span class="asgreek">επορεύετο <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| with | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| Zedekiah | <span class="asgreek">Σεδεκίου <sup><small><small>[[H6667]]</small></small></sup> </span> |
-| \[the\] king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Judah | <span class="asgreek">Ιούδα <sup><small><small>[[G2448]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Babylon | <span class="asgreek">Βαβυλώνα <sup><small><small>[[G0897]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| year | <span class="asgreek">έτει <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fourth | <span class="asgreek">τετάρτω <sup><small><small>[[G5067]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his kingdom. | <span class="asgreek">βασιλείας <sup><small><small>[[G0932]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Seraiah | <span class="asgreek">Σαραϊας <sup><small><small>[[H8304]]</small></small></sup> </span> |
-| \[was\] ruler | <span class="asgreek">άρχων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of \[the\] gifts. | <span class="asgreek">δώρων <sup><small><small>[[G1435]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| to Jeremiah | <big><span class="asgreek">Ιερεμία</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prophet | <big><span class="asgreek">προφήτη</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| to say | <big><span class="asgreek">ειπείν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Seraiah | <big><span class="asgreek">Σαραϊα</span></big> <sup><small><small>[[H8304]]</small></small></sup> |
+| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Neriah, | <big><span class="asgreek">Νηρίου</span></big> <sup><small><small>[[H5374]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Maaseiah | <big><span class="asgreek">Μαασαίου</span></big> <sup><small><small>[[H4641]]</small></small></sup> |
+| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
+| he went | <big><span class="asgreek">επορεύετο</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| with | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| Zedekiah | <big><span class="asgreek">Σεδεκίου</span></big> <sup><small><small>[[H6667]]</small></small></sup> |
+| \[the\] king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Babylon | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fourth | <big><span class="asgreek">τετάρτω</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his kingdom. | <big><span class="asgreek">βασιλείας</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Seraiah | <big><span class="asgreek">Σαραϊας</span></big> <sup><small><small>[[H8304]]</small></small></sup> |
+| \[was\] ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of \[the\] gifts. | <big><span class="asgreek">δώρων</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
 [[Jer.51.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.58|<< Jeremiah 51:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.60|Jeremiah 51:60 >>]]</td></tr></table>
 
 

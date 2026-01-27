@@ -9,14 +9,14 @@ Who can discern his own errors? Cleanse me from my hidden faults.<small><sub>**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[his\] transgressions | <span class="asgreek">παραπτώματα <sup><small><small>[[G3900]]</small></small></sup> </span> |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall perceive | <span class="asgreek">συνήσει <sup><small><small>[[G4920]]</small></small></sup> </span> |
-| From out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my private \[transgressions\] | <span class="asgreek">κρυφίων <sup><small><small>[[G8107]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| cleanse | <span class="asgreek">κάθαρισόν <sup><small><small>[[G2511]]</small></small></sup> </span> |
-| me! | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[his\] transgressions | <big><span class="asgreek">παραπτώματα</span></big> <sup><small><small>[[G3900]]</small></small></sup> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall perceive | <big><span class="asgreek">συνήσει</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my private \[transgressions\] | <big><span class="asgreek">κρυφίων</span></big> <sup><small><small>[[G8107]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| cleanse | <big><span class="asgreek">κάθαρισόν</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
+| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.11|<< Psalm 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.13|Psalm 19:13 >>]]</td></tr></table>
 
 

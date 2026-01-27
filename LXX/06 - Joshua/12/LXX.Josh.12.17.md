@@ -9,12 +9,12 @@ the king of Tappuah, one; the king of Hepher, one;<small><sub>**MT:**</sub></sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[the\] king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Tappuah, | <span class="asgreek">Ταπφού <sup><small><small>[[H8599b]]</small></small></sup> </span> |
-| one; | <span class="asgreek">ένα <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| \[the\] king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Hepher, | <span class="asgreek">Εφέρ <sup><small><small>[[H2660b]]</small></small></sup> </span> |
-| one; | <span class="asgreek">ένα <sup><small><small>[[G1520]]</small></small></sup> </span> |
+| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Tappuah, | <big><span class="asgreek">Ταπφού</span></big> <sup><small><small>[[H8599b]]</small></small></sup> |
+| one; | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Hepher, | <big><span class="asgreek">Εφέρ</span></big> <sup><small><small>[[H2660b]]</small></small></sup> |
+| one; | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
 [[Josh.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.16|<< Joshua 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.18|Joshua 12:18 >>]]</td></tr></table>
 
 

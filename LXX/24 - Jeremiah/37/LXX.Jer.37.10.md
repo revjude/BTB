@@ -9,33 +9,33 @@ Indeed, if you were to strike down the entire army of the Chaldeans that is figh
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should strike | <span class="asgreek">πατάξητε <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσαν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| force | <span class="asgreek">δύναμιν <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Chaldeans, | <span class="asgreek">Χαλδαίων <sup><small><small>[[G5466]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| waging war against | <span class="asgreek">πολεμούντας <sup><small><small>[[G4170]]</small></small></sup> </span> |
-| you, | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there should be left behind | <span class="asgreek">καταλειφθώσί <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| a certain amount | <span class="asgreek">τινες <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| having been stabbed, | <span class="asgreek">εκκεκεντημένοι <sup><small><small>[[G1574]]</small></small></sup> </span> |
-| each | <span class="asgreek">έκαστος <sup><small><small>[[G1538]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his place, | <span class="asgreek">τόπω <sup><small><small>[[G5117]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| these | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| shall rise up | <span class="asgreek">αναστήσονται <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall burn | <span class="asgreek">καύσουσι <sup><small><small>[[G2545]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this city | <span class="asgreek">πόλιν <sup><small><small>[[G4172]]</small></small></sup> <span class="asgreek">ταύτην <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| fire. | <span class="asgreek">πυρί <sup><small><small>[[G4442]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should strike | <big><span class="asgreek">πατάξητε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| force | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Chaldeans, | <big><span class="asgreek">Χαλδαίων</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| waging war against | <big><span class="asgreek">πολεμούντας</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
+| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there should be left behind | <big><span class="asgreek">καταλειφθώσί</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| a certain amount | <big><span class="asgreek">τινες</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| having been stabbed, | <big><span class="asgreek">εκκεκεντημένοι</span></big> <sup><small><small>[[G1574]]</small></small></sup> |
+| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his place, | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| shall rise up | <big><span class="asgreek">αναστήσονται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall burn | <big><span class="asgreek">καύσουσι</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this city | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| fire. | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
 [[Jer.37.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.9|<< Jeremiah 37:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.11|Jeremiah 37:11 >>]]</td></tr></table>
 
 

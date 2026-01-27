@@ -9,15 +9,15 @@ Open the gates so a righteous nation may enter—one that remains faithful.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Open | <span class="asgreek">ανοίξατε <sup><small><small>[[G0455]]</small></small></sup> </span> |
-| O gates! | <span class="asgreek">πύλας <sup><small><small>[[G4439]]</small></small></sup> </span> |
-| Enter! | <span class="asgreek">εισελθέτω <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| O people | <span class="asgreek">λαός <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| guarding | <span class="asgreek">φυλάσσων <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| righteousness, | <span class="asgreek">δικαιοσύνην <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| guarding | <span class="asgreek">φυλάσσων <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| truth; | <span class="asgreek">αλήθειαν <sup><small><small>[[G0225]]</small></small></sup> </span> |
+| Open | <big><span class="asgreek">ανοίξατε</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
+| O gates! | <big><span class="asgreek">πύλας</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| Enter! | <big><span class="asgreek">εισελθέτω</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| O people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| guarding | <big><span class="asgreek">φυλάσσων</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| righteousness, | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| guarding | <big><span class="asgreek">φυλάσσων</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| truth; | <big><span class="asgreek">αλήθειαν</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
 [[Isa.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.1|<< Isaiah 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.3|Isaiah 26:3 >>]]</td></tr></table>
 
 

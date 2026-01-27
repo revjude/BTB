@@ -9,29 +9,29 @@ But if there is a reddish-white sore on the bald head or forehead, it is an infe
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| there becomes | <span class="asgreek">γένηται <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his baldness, | <span class="asgreek">φαλακρώματι <sup><small><small>[[G9616]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his being forehead bald | <span class="asgreek">αναφαλαντώματι <sup><small><small>[[G6318]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| infection | <span class="asgreek">αφή <sup><small><small>[[G0860]]</small></small></sup> </span> |
-| a white | <span class="asgreek">λευκή <sup><small><small>[[G3022]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| reddening, | <span class="asgreek">πυρρίζουσα <sup><small><small>[[G8997]]</small></small></sup> </span> |
-| leprosy | <span class="asgreek">λέπρα <sup><small><small>[[G3014]]</small></small></sup> </span> |
-| blossoming | <span class="asgreek">εξανθίζουσά <sup><small><small>[[G7296]]</small></small></sup> </span> |
-| it is | <span class="asgreek">εστίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his baldness, | <span class="asgreek">φαλακρώματι <sup><small><small>[[G9616]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his forehead baldness. | <span class="asgreek">αναφαλαντώματι <sup><small><small>[[G6318]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| there becomes | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his baldness, | <big><span class="asgreek">φαλακρώματι</span></big> <sup><small><small>[[G9616]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his being forehead bald | <big><span class="asgreek">αναφαλαντώματι</span></big> <sup><small><small>[[G6318]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| infection | <big><span class="asgreek">αφή</span></big> <sup><small><small>[[G0860]]</small></small></sup> |
+| a white | <big><span class="asgreek">λευκή</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| reddening, | <big><span class="asgreek">πυρρίζουσα</span></big> <sup><small><small>[[G8997]]</small></small></sup> |
+| leprosy | <big><span class="asgreek">λέπρα</span></big> <sup><small><small>[[G3014]]</small></small></sup> |
+| blossoming | <big><span class="asgreek">εξανθίζουσά</span></big> <sup><small><small>[[G7296]]</small></small></sup> |
+| it is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his baldness, | <big><span class="asgreek">φαλακρώματι</span></big> <sup><small><small>[[G9616]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his forehead baldness. | <big><span class="asgreek">αναφαλαντώματι</span></big> <sup><small><small>[[G6318]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lev.13.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.41|<< Leviticus 13:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.43|Leviticus 13:43 >>]]</td></tr></table>
 
 

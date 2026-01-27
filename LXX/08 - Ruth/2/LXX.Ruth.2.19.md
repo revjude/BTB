@@ -9,40 +9,40 @@ Then her mother-in-law asked her, “Where did you glean today, and where did yo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to her | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mother-in-law | <span class="asgreek">πενθερά <sup><small><small>[[G3994]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Where did | <span class="asgreek">που <sup><small><small>[[G4226]]</small></small></sup> </span> |
-| you collect | <span class="asgreek">συνέλεξας <sup><small><small>[[G4816]]</small></small></sup> </span> |
-| today? | <span class="asgreek">σήμερον <sup><small><small>[[G4594]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| where | <span class="asgreek">που <sup><small><small>[[G4226]]</small></small></sup> </span> |
-| did you \[do it\]? | <span class="asgreek">εποίησας <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| May it be | <span class="asgreek">είη <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| recognizing | <span class="asgreek">επιγνούς <sup><small><small>[[G1921]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a blessing. | <span class="asgreek">ευλογημένος <sup><small><small>[[G2127]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ruth reported | <span class="asgreek">απήγγειλε <sup><small><small>[[G0518]]</small></small></sup> <span class="asgreek">Ρουθ <sup><small><small>[[G4503]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her mother-in-law | <span class="asgreek">πενθερά <sup><small><small>[[G3994]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| where | <span class="asgreek">που <sup><small><small>[[G4226]]</small></small></sup> </span> |
-| she did \[it\]. | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| The | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| name | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| man | <span class="asgreek">ανδρός <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| with | <span class="asgreek">μεθ΄ <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| whom | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I did \[this\] | <span class="asgreek">εποίησα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| today | <span class="asgreek">σήμερον <sup><small><small>[[G4594]]</small></small></sup> </span> |
-| \[is\] Boaz. | <span class="asgreek">Βοόζ <sup><small><small>[[G1003]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mother-in-law | <big><span class="asgreek">πενθερά</span></big> <sup><small><small>[[G3994]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Where did | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
+| you collect | <big><span class="asgreek">συνέλεξας</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
+| today? | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
+| did you \[do it\]? | <big><span class="asgreek">εποίησας</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| May it be | <big><span class="asgreek">είη</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| recognizing | <big><span class="asgreek">επιγνούς</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a blessing. | <big><span class="asgreek">ευλογημένος</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ruth reported | <big><span class="asgreek">απήγγειλε</span></big> <sup><small><small>[[G0518]]</small></small></sup> <big><span class="asgreek">Ρουθ</span></big> <sup><small><small>[[G4503]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her mother-in-law | <big><span class="asgreek">πενθερά</span></big> <sup><small><small>[[G3994]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
+| she did \[it\]. | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| whom | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I did \[this\] | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| today | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| \[is\] Boaz. | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
 [[Ruth.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.18|<< Ruth 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.20|Ruth 2:20 >>]]</td></tr></table>
 
 

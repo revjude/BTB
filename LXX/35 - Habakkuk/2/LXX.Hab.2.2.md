@@ -9,23 +9,23 @@ Then the LORD answered me: “Write down this vision and clearly inscribe it on 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| answered | <span class="asgreek">απεκρίθη <sup><small><small>[[G0611]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Write | <span class="asgreek">γράψον <sup><small><small>[[G1125]]</small></small></sup> </span> |
-| \[the\] vision | <span class="asgreek">όρασιν <sup><small><small>[[G3706]]</small></small></sup> </span> |
-| clearly | <span class="asgreek">σαφώς <sup><small><small>[[G9062]]</small></small></sup> </span> |
-| onto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a writing-tablet, | <span class="asgreek">πυξίον <sup><small><small>[[G8989]]</small></small></sup> </span> |
-| so that | <span class="asgreek">όπως <sup><small><small>[[G3704]]</small></small></sup> </span> |
-| should take flight | <span class="asgreek">διώκη <sup><small><small>[[G1377]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| reading | <span class="asgreek">αναγινώσκων <sup><small><small>[[G0314]]</small></small></sup> </span> |
-| these \[things\] | <span class="asgreek">αυτά <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| answered | <big><span class="asgreek">απεκρίθη</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Write | <big><span class="asgreek">γράψον</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| \[the\] vision | <big><span class="asgreek">όρασιν</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
+| clearly | <big><span class="asgreek">σαφώς</span></big> <sup><small><small>[[G9062]]</small></small></sup> |
+| onto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a writing-tablet, | <big><span class="asgreek">πυξίον</span></big> <sup><small><small>[[G8989]]</small></small></sup> |
+| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
+| should take flight | <big><span class="asgreek">διώκη</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| reading | <big><span class="asgreek">αναγινώσκων</span></big> <sup><small><small>[[G0314]]</small></small></sup> |
+| these \[things\] | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
 [[Hab.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.1|<< Habakkuk 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.3|Habakkuk 2:3 >>]]</td></tr></table>
 
 

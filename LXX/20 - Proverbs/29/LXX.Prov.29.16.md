@@ -9,17 +9,17 @@ When the wicked thrive, rebellion increases; but the righteous will see their do
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| of many | <span class="asgreek">πολλών <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| \[With the\] being | <span class="asgreek">όντων <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| impious, | <span class="asgreek">ασεβών <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλαί <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| take place | <span class="asgreek">γίνονται <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| sins | <span class="asgreek">αμαρτίαι <sup><small><small>[[G0266]]</small></small></sup> </span> |
-| but \[with\] the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| just, | <span class="asgreek">δίκαιοι <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| at the falling of those, | <span class="asgreek">εκείνων <sup><small><small>[[G1565]]</small></small></sup> <span class="asgreek">πιπτόντων <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| fear | <span class="asgreek">κατάφοβοι <sup><small><small>[[G7949]]</small></small></sup> </span> |
-| takes place. | <span class="asgreek">γίνονται <sup><small><small>[[G1096]]</small></small></sup> </span> |
+| of many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| \[With the\] being | <big><span class="asgreek">όντων</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| impious, | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλαί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| take place | <big><span class="asgreek">γίνονται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| sins | <big><span class="asgreek">αμαρτίαι</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| but \[with\] the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| just, | <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| at the falling of those, | <big><span class="asgreek">εκείνων</span></big> <sup><small><small>[[G1565]]</small></small></sup> <big><span class="asgreek">πιπτόντων</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| fear | <big><span class="asgreek">κατάφοβοι</span></big> <sup><small><small>[[G7949]]</small></small></sup> |
+| takes place. | <big><span class="asgreek">γίνονται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
 [[Prov.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.15|<< Proverbs 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.17|Proverbs 29:17 >>]]</td></tr></table>
 
 

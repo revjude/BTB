@@ -9,12 +9,12 @@ Give me, I pray, the pledge You demand. Who else will be my guarantor?<small><s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| this | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my hand | <span class="asgreek">χειρί <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| tied together? | <span class="asgreek">συνδεθήτω <sup><small><small>[[G4887]]</small></small></sup> </span> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| this | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| tied together? | <big><span class="asgreek">συνδεθήτω</span></big> <sup><small><small>[[G4887]]</small></small></sup> |
 [[Job.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.2|<< Job 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.4|Job 17:4 >>]]</td></tr></table>
 
 

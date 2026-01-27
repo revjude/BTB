@@ -9,17 +9,17 @@ I said, “O LORD, be gracious to me; heal me, for I have sinned against You.”
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| said, | <span class="asgreek">είπα <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| show mercy | <span class="asgreek">ελέησόν <sup><small><small>[[G1653]]</small></small></sup> </span> |
-| on me! | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Heal | <span class="asgreek">ίασαι <sup><small><small>[[G2390]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my soul! | <span class="asgreek">ψυχήν <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I sinned | <span class="asgreek">ήμαρτόν <sup><small><small>[[G0264]]</small></small></sup> </span> |
-| against you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| show mercy | <big><span class="asgreek">ελέησόν</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| on me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Heal | <big><span class="asgreek">ίασαι</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my soul! | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I sinned | <big><span class="asgreek">ήμαρτόν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| against you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.41.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.3|<< Psalm 41:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.5|Psalm 41:5 >>]]</td></tr></table>
 
 

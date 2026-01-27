@@ -11,21 +11,21 @@ Those who once ate delicacies are destitute in the streets; those brought up in 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Η <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">Η</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| The ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eating | <span class="asgreek">έσθοντες <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| delicacies | <span class="asgreek">τρυφάς <sup><small><small>[[G5172]]</small></small></sup> </span> |
-| were removed | <span class="asgreek">ηφανίσθησαν <sup><small><small>[[G0853]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| streets. | <span class="asgreek">εξόδοις <sup><small><small>[[G1841]]</small></small></sup> </span> |
-| The ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| having been suckled | <span class="asgreek">τιθηνούμενοι <sup><small><small>[[G9449]]</small></small></sup> </span> |
-| in | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| scarlet | <span class="asgreek">κόκκων <sup><small><small>[[G2848]]</small></small></sup> </span> |
-| were embracing | <span class="asgreek">περιελάβοντο <sup><small><small>[[G8736]]</small></small></sup> </span> |
-| dung. | <span class="asgreek">κοπρίας <sup><small><small>[[G2874]]</small></small></sup> </span> |
+| Η <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">Η</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eating | <big><span class="asgreek">έσθοντες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| delicacies | <big><span class="asgreek">τρυφάς</span></big> <sup><small><small>[[G5172]]</small></small></sup> |
+| were removed | <big><span class="asgreek">ηφανίσθησαν</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| streets. | <big><span class="asgreek">εξόδοις</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| having been suckled | <big><span class="asgreek">τιθηνούμενοι</span></big> <sup><small><small>[[G9449]]</small></small></sup> |
+| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| scarlet | <big><span class="asgreek">κόκκων</span></big> <sup><small><small>[[G2848]]</small></small></sup> |
+| were embracing | <big><span class="asgreek">περιελάβοντο</span></big> <sup><small><small>[[G8736]]</small></small></sup> |
+| dung. | <big><span class="asgreek">κοπρίας</span></big> <sup><small><small>[[G2874]]</small></small></sup> |
 [[Lam.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.4|<< Lamentations 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.6|Lamentations 4:6 >>]]</td></tr></table>
 
 

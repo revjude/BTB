@@ -9,37 +9,37 @@ When you offer blind animals for sacrifice, is it not wrong? And when you presen
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should bring | <span class="asgreek">προσαγάγητε <sup><small><small>[[G4317]]</small></small></sup> </span> |
-| a blind \[animal\] | <span class="asgreek">τυφλόν <sup><small><small>[[G5185]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| sacrifice, | <span class="asgreek">θυσίαν <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| \[is it\] not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| evil? | <span class="asgreek">κακόν <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should bring | <span class="asgreek">προσαγάγητε <sup><small><small>[[G4317]]</small></small></sup> </span> |
-| \[the\] lame | <span class="asgreek">χωλόν <sup><small><small>[[G5560]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| ill, | <span class="asgreek">άρρωστον <sup><small><small>[[G0732]]</small></small></sup> </span> |
-| \[is it\] not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| evil? | <span class="asgreek">κακόν <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| Bring | <span class="asgreek">προσάγαγε <sup><small><small>[[G4317]]</small></small></sup> </span> |
-| \[it\] indeed | <span class="asgreek">δη <sup><small><small>[[G1211]]</small></small></sup> </span> |
-| to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to the one | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| leading | <span class="asgreek">ηγουμένω <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| you; | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| he favorably receive | <span class="asgreek">προσδέξεταί <sup><small><small>[[G4327]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| he receive | <span class="asgreek">λήψεται <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| your person, | <span class="asgreek">πρόσωπόν <sup><small><small>[[G4383]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| almighty, \[no\]. | <span class="asgreek">παντοκράτωρ <sup><small><small>[[G3841]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should bring | <big><span class="asgreek">προσαγάγητε</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
+| a blind \[animal\] | <big><span class="asgreek">τυφλόν</span></big> <sup><small><small>[[G5185]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| sacrifice, | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| \[is it\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| evil? | <big><span class="asgreek">κακόν</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should bring | <big><span class="asgreek">προσαγάγητε</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
+| \[the\] lame | <big><span class="asgreek">χωλόν</span></big> <sup><small><small>[[G5560]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| ill, | <big><span class="asgreek">άρρωστον</span></big> <sup><small><small>[[G0732]]</small></small></sup> |
+| \[is it\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| evil? | <big><span class="asgreek">κακόν</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| Bring | <big><span class="asgreek">προσάγαγε</span></big> <sup><small><small>[[G4317]]</small></small></sup> |
+| \[it\] indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
+| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| leading | <big><span class="asgreek">ηγουμένω</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| he favorably receive | <big><span class="asgreek">προσδέξεταί</span></big> <sup><small><small>[[G4327]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| he receive | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| your person, | <big><span class="asgreek">πρόσωπόν</span></big> <sup><small><small>[[G4383]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| almighty, \[no\]. | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
 [[Mal.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.7|<< Malachi 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.9|Malachi 1:9 >>]]</td></tr></table>
 
 

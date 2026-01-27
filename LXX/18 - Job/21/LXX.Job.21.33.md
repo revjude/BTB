@@ -9,20 +9,20 @@ The clods of the valley are sweet to him; everyone follows behind him, and those
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| was sweet | <span class="asgreek">εγλυκάνθησαν <sup><small><small>[[G6739]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[The\] gravel | <span class="asgreek">χάλικες <sup><small><small>[[G9693]]</small></small></sup> </span> |
-| of \[the\] rushing stream | <span class="asgreek">χειμάρρου <sup><small><small>[[G5493]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| after | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| every | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| shall go forth, | <span class="asgreek">απελεύσεται <sup><small><small>[[G0565]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in front of | <span class="asgreek">έμπροσθεν <sup><small><small>[[G1715]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[there are\] innumerable ones. | <span class="asgreek">αναρίθμητοι <sup><small><small>[[G0382]]</small></small></sup> </span> |
+| was sweet | <big><span class="asgreek">εγλυκάνθησαν</span></big> <sup><small><small>[[G6739]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] gravel | <big><span class="asgreek">χάλικες</span></big> <sup><small><small>[[G9693]]</small></small></sup> |
+| of \[the\] rushing stream | <big><span class="asgreek">χειμάρρου</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| shall go forth, | <big><span class="asgreek">απελεύσεται</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in front of | <big><span class="asgreek">έμπροσθεν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[there are\] innumerable ones. | <big><span class="asgreek">αναρίθμητοι</span></big> <sup><small><small>[[G0382]]</small></small></sup> |
 [[Job.21.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.32|<< Job 21:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.34|Job 21:34 >>]]</td></tr></table>
 
 

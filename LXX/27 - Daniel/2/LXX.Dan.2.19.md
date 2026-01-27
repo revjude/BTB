@@ -9,21 +9,21 @@ During the night, the mystery was revealed to Daniel in a vision, and he blessed
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| to Daniel | <span class="asgreek">Δανιηλ <sup><small><small>[[G1158]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| vision | <span class="asgreek">οράματι <sup><small><small>[[G3705]]</small></small></sup> </span> |
-| a night | <span class="asgreek">νυκτός <sup><small><small>[[G3571]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mystery | <span class="asgreek">μυστήριον <sup><small><small>[[G3466]]</small></small></sup> </span> |
-| was uncovered | <span class="asgreek">απεκαλύφθη <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| blessed | <span class="asgreek">ευλόγησε <sup><small><small>[[G2127]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεόν <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of heaven | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| Daniel | <span class="asgreek">Δανιήλ <sup><small><small>[[G1158]]</small></small></sup> </span> |
+| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| to Daniel | <big><span class="asgreek">Δανιηλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| vision | <big><span class="asgreek">οράματι</span></big> <sup><small><small>[[G3705]]</small></small></sup> |
+| a night | <big><span class="asgreek">νυκτός</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mystery | <big><span class="asgreek">μυστήριον</span></big> <sup><small><small>[[G3466]]</small></small></sup> |
+| was uncovered | <big><span class="asgreek">απεκαλύφθη</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| blessed | <big><span class="asgreek">ευλόγησε</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| Daniel | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
 [[Dan.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.18|<< Daniel 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.20|Daniel 2:20 >>]]</td></tr></table>
 
 

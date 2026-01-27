@@ -9,16 +9,16 @@ The arrogant have dug pits for me in violation of Your law.<small><sub>**MT:**<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| described | <span class="asgreek">διηγήσαντό <sup><small><small>[[G1334]]</small></small></sup> </span> |
-| against me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Lawbreakers | <span class="asgreek">παράνομοι <sup><small><small>[[G8627]]</small></small></sup> </span> |
-| a meditation | <span class="asgreek">αδολεσχίας <sup><small><small>[[G6140]]</small></small></sup> </span> |
-| but | <span class="asgreek">αλλ΄ <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| according to | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your law, | <span class="asgreek">νόμος <sup><small><small>[[G3551]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>. | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| described | <big><span class="asgreek">διηγήσαντό</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
+| against me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Lawbreakers | <big><span class="asgreek">παράνομοι</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
+| a meditation | <big><span class="asgreek">αδολεσχίας</span></big> <sup><small><small>[[G6140]]</small></small></sup> |
+| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| according to | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your law, | <big><span class="asgreek">νόμος</span></big> <sup><small><small>[[G3551]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Ps.119.85|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.84|<< Psalm 119:84]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.86|Psalm 119:86 >>]]</td></tr></table>
 
 

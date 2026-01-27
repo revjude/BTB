@@ -9,16 +9,16 @@ all sheep and oxen, and even the beasts of the field,<small><sub>**MT:**</sub><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| sheep | <span class="asgreek">πρόβατα <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| oxen | <span class="asgreek">βόας <sup><small><small>[[G1016]]</small></small></sup> </span> |
-| all together, | <span class="asgreek">απάσας <sup><small><small>[[G0537]]</small></small></sup> </span> |
-| and still | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cattle | <span class="asgreek">κτήνη <sup><small><small>[[G2934]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| plain, | <span class="asgreek">πεδίου <sup><small><small>[[G8676]]</small></small></sup> </span> |
+| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| oxen | <big><span class="asgreek">βόας</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
+| all together, | <big><span class="asgreek">απάσας</span></big> <sup><small><small>[[G0537]]</small></small></sup> |
+| and still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cattle | <big><span class="asgreek">κτήνη</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| plain, | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
 [[Ps.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.8.6|<< Psalm 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.8.8|Psalm 8:8 >>]]</td></tr></table>
 
 

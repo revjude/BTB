@@ -9,26 +9,26 @@ Solomon’s horses were imported from Egypt and Kue; the royal merchants purchas
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| exiting | <span class="asgreek">έξοδος <sup><small><small>[[G1841]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| horsemen | <span class="asgreek">ιππέων <sup><small><small>[[G2460]]</small></small></sup> </span> |
-| of Solomon | <span class="asgreek">Σολομώντος <sup><small><small>[[G4672]]</small></small></sup> </span> |
-| \[was\] from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Egypt. | <span class="asgreek">Αιγύπτου <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Kue | <span class="asgreek">Εκουέ <sup><small><small>[[H4723a]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| merchants | <span class="asgreek">έμποροι <sup><small><small>[[G1713]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| took \[merchandise\] | <span class="asgreek">ελάμβανον <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Kue | <span class="asgreek">Εκουέ <sup><small><small>[[H4723a]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| barter. | <span class="asgreek">αλλάγματι <sup><small><small>[[G6228]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| exiting | <big><span class="asgreek">έξοδος</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| horsemen | <big><span class="asgreek">ιππέων</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
+| of Solomon | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
+| \[was\] from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Kue | <big><span class="asgreek">Εκουέ</span></big> <sup><small><small>[[H4723a]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| merchants | <big><span class="asgreek">έμποροι</span></big> <sup><small><small>[[G1713]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| took \[merchandise\] | <big><span class="asgreek">ελάμβανον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Kue | <big><span class="asgreek">Εκουέ</span></big> <sup><small><small>[[H4723a]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| barter. | <big><span class="asgreek">αλλάγματι</span></big> <sup><small><small>[[G6228]]</small></small></sup> |
 [[1Kgs.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.27|<< 1 Kings 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.29|1 Kings 10:29 >>]]</td></tr></table>
 
 

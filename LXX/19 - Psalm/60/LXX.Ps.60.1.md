@@ -14,16 +14,16 @@ For the choirmaster. To the tune of “The Lily of the Covenant.” A Miktam of 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| O | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God, | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| you thrusted us away, | <span class="asgreek">απώσω <sup><small><small>[[G0683]]</small></small></sup> <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| demolished | <span class="asgreek">καθείλες <sup><small><small>[[G2507]]</small></small></sup> </span> |
-| us. | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| You were provoked to anger, | <span class="asgreek">ωργίσθης <sup><small><small>[[G3710]]</small></small></sup> </span> |
-| yet | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you pitied | <span class="asgreek">ωκτείρησας <sup><small><small>[[G3627]]</small></small></sup> </span> |
-| us. | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| you thrusted us away, | <big><span class="asgreek">απώσω</span></big> <sup><small><small>[[G0683]]</small></small></sup> <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| demolished | <big><span class="asgreek">καθείλες</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
+| us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You were provoked to anger, | <big><span class="asgreek">ωργίσθης</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
+| yet | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you pitied | <big><span class="asgreek">ωκτείρησας</span></big> <sup><small><small>[[G3627]]</small></small></sup> |
+| us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.60.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.17|<< Psalm 59:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.2|Psalm 60:2 >>]]</td></tr></table>
 
 

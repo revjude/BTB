@@ -9,34 +9,34 @@ Moab has been at ease from youth, settled like wine on its dregs; he has not bee
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Moab rested | <span class="asgreek">ανεπαύσατο <sup><small><small>[[G0373]]</small></small></sup> <span class="asgreek">Μωαβ <sup><small><small>[[H6355]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| boyhood, | <span class="asgreek">παιδαρίου <sup><small><small>[[G3808]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| is relying | <span class="asgreek">πεποιθώς <sup><small><small>[[G3982]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his glory. | <span class="asgreek">δόξη <sup><small><small>[[G1391]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| He has not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| poured \[dregs\] | <span class="asgreek">ενέχεεν <sup><small><small>[[G7040]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| receptacle | <span class="asgreek">αγγείου <sup><small><small>[[G0030]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| receptacle, | <span class="asgreek">αγγείον <sup><small><small>[[G0030]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| settlement | <span class="asgreek">αποικισμόν <sup><small><small>[[G6432]]</small></small></sup> </span> |
-| he has not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| set out. | <span class="asgreek">ωχετο <sup><small><small>[[G8468]]</small></small></sup> </span> |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| stood | <span class="asgreek">έστη <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| his taste | <span class="asgreek">γεύμα <sup><small><small>[[G6729]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-|  | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| his scent | <span class="asgreek">οσμή <sup><small><small>[[G3744]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| dissipated not. | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">εξέλιπε <sup><small><small>[[G1587]]</small></small></sup> </span> |
+| Moab rested | <big><span class="asgreek">ανεπαύσατο</span></big> <sup><small><small>[[G0373]]</small></small></sup> <big><span class="asgreek">Μωαβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| boyhood, | <big><span class="asgreek">παιδαρίου</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| is relying | <big><span class="asgreek">πεποιθώς</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his glory. | <big><span class="asgreek">δόξη</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| He has not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| poured \[dregs\] | <big><span class="asgreek">ενέχεεν</span></big> <sup><small><small>[[G7040]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| receptacle | <big><span class="asgreek">αγγείου</span></big> <sup><small><small>[[G0030]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| receptacle, | <big><span class="asgreek">αγγείον</span></big> <sup><small><small>[[G0030]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| settlement | <big><span class="asgreek">αποικισμόν</span></big> <sup><small><small>[[G6432]]</small></small></sup> |
+| he has not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| set out. | <big><span class="asgreek">ωχετο</span></big> <sup><small><small>[[G8468]]</small></small></sup> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| stood | <big><span class="asgreek">έστη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| his taste | <big><span class="asgreek">γεύμα</span></big> <sup><small><small>[[G6729]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| his scent | <big><span class="asgreek">οσμή</span></big> <sup><small><small>[[G3744]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| dissipated not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εξέλιπε</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
 [[Jer.48.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.10|<< Jeremiah 48:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.12|Jeremiah 48:12 >>]]</td></tr></table>
 
 

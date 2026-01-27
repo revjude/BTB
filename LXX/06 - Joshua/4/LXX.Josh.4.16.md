@@ -9,21 +9,21 @@ Command the priests that bear the ark of the testimony, that they come up out of
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Give charge | <span class="asgreek">έντειλαι <sup><small><small>[[G1781]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priests | <span class="asgreek">ιερεύσι <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lifting | <span class="asgreek">αίρουσι <sup><small><small>[[G0142]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ark | <span class="asgreek">κιβωτόν <sup><small><small>[[G2787]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| covenant | <span class="asgreek">διαθήκης <sup><small><small>[[G1242]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| testimony! | <span class="asgreek">μαρτυρίου <sup><small><small>[[G3142]]</small></small></sup> </span> |
-| to go up out | <span class="asgreek">εκβήναι <sup><small><small>[[G6092]]</small></small></sup> </span> |
-| of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jordan. | <span class="asgreek">Ιορδάνου <sup><small><small>[[G2446]]</small></small></sup> </span> |
+| Give charge | <big><span class="asgreek">έντειλαι</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priests | <big><span class="asgreek">ιερεύσι</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lifting | <big><span class="asgreek">αίρουσι</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ark | <big><span class="asgreek">κιβωτόν</span></big> <sup><small><small>[[G2787]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| testimony! | <big><span class="asgreek">μαρτυρίου</span></big> <sup><small><small>[[G3142]]</small></small></sup> |
+| to go up out | <big><span class="asgreek">εκβήναι</span></big> <sup><small><small>[[G6092]]</small></small></sup> |
+| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jordan. | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
 [[Josh.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.15|<< Joshua 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.17|Joshua 4:17 >>]]</td></tr></table>
 
 

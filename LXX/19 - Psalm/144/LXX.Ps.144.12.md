@@ -9,22 +9,22 @@ Then our sons will be like plants nurtured in their youth, our daughters like co
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| whom | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[are\] as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| newly planted, | <span class="asgreek">νεόφυτα <sup><small><small>[[G3504]]</small></small></sup> </span> |
-| secure | <span class="asgreek">ιδρυμένα <sup><small><small>[[G7711]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their youth; | <span class="asgreek">νεότητι <sup><small><small>[[G3503]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their daughters | <span class="asgreek">θυγατέρες <sup><small><small>[[G2364]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| being bedecked, | <span class="asgreek">κακαλλωπισμέναι <sup><small><small>[[G7784]]</small></small></sup> </span> |
-| being adorned sumptuously | <span class="asgreek">περικεκοσμημέναι <sup><small><small>[[G8734]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] likeness | <span class="asgreek">ομοίωμα <sup><small><small>[[G3667]]</small></small></sup> </span> |
-| of a temple; | <span class="asgreek">ναού <sup><small><small>[[G3485]]</small></small></sup> </span> |
+| whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| newly planted, | <big><span class="asgreek">νεόφυτα</span></big> <sup><small><small>[[G3504]]</small></small></sup> |
+| secure | <big><span class="asgreek">ιδρυμένα</span></big> <sup><small><small>[[G7711]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their youth; | <big><span class="asgreek">νεότητι</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| being bedecked, | <big><span class="asgreek">κακαλλωπισμέναι</span></big> <sup><small><small>[[G7784]]</small></small></sup> |
+| being adorned sumptuously | <big><span class="asgreek">περικεκοσμημέναι</span></big> <sup><small><small>[[G8734]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] likeness | <big><span class="asgreek">ομοίωμα</span></big> <sup><small><small>[[G3667]]</small></small></sup> |
+| of a temple; | <big><span class="asgreek">ναού</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
 [[Ps.144.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.11|<< Psalm 144:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.13|Psalm 144:13 >>]]</td></tr></table>
 
 

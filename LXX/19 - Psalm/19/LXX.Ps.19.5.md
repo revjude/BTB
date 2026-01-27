@@ -9,18 +9,18 @@ Like a bridegroom emerging from his chamber, like a champion rejoicing to run hi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he, | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a groom | <span class="asgreek">νυμφίος <sup><small><small>[[G3566]]</small></small></sup> </span> |
-| going forth | <span class="asgreek">εκπορευόμενος <sup><small><small>[[G1607]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| his nuptial chamber, | <span class="asgreek">παστού <sup><small><small>[[G8664]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall exult | <span class="asgreek">αγαλλιάσεται <sup><small><small>[[G0021]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a giant | <span class="asgreek">γίγας <sup><small><small>[[G6736]]</small></small></sup> </span> |
-| running | <span class="asgreek">δραμείν <sup><small><small>[[G5143]]</small></small></sup> </span> |
-| a journey. | <span class="asgreek">οδόν <sup><small><small>[[G3598]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he, | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a groom | <big><span class="asgreek">νυμφίος</span></big> <sup><small><small>[[G3566]]</small></small></sup> |
+| going forth | <big><span class="asgreek">εκπορευόμενος</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| his nuptial chamber, | <big><span class="asgreek">παστού</span></big> <sup><small><small>[[G8664]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall exult | <big><span class="asgreek">αγαλλιάσεται</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a giant | <big><span class="asgreek">γίγας</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
+| running | <big><span class="asgreek">δραμείν</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
+| a journey. | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
 [[Ps.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.4|<< Psalm 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.6|Psalm 19:6 >>]]</td></tr></table>
 
 

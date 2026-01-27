@@ -9,27 +9,27 @@ Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Where | <span class="asgreek">που <sup><small><small>[[G4226]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| god | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| of Hamath | <span class="asgreek">Εμάθ <sup><small><small>[[H2574]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Arpad? | <span class="asgreek">Αρφάθ <sup><small><small>[[H0774]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| where | <span class="asgreek">που <sup><small><small>[[G4226]]</small></small></sup> </span> |
-| \[is\] the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| god | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| city | <span class="asgreek">πόλεως <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| of Sepharvaim? | <span class="asgreek">Σεπφαρουϊμ <sup><small><small>[[H5617]]</small></small></sup> </span> |
-| \[Have\] | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| they been able | <span class="asgreek">εδύναντο <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| to rescue | <span class="asgreek">ρύσασθαι <sup><small><small>[[G4506]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Samaria | <span class="asgreek">Σαμάρειαν <sup><small><small>[[G4540]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| my hand? | <span class="asgreek">χειρός <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
+| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| god | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| of Hamath | <big><span class="asgreek">Εμάθ</span></big> <sup><small><small>[[H2574]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Arpad? | <big><span class="asgreek">Αρφάθ</span></big> <sup><small><small>[[H0774]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
+| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| god | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| of Sepharvaim? | <big><span class="asgreek">Σεπφαρουϊμ</span></big> <sup><small><small>[[H5617]]</small></small></sup> |
+| \[Have\] | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| they been able | <big><span class="asgreek">εδύναντο</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| to rescue | <big><span class="asgreek">ρύσασθαι</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Samaria | <big><span class="asgreek">Σαμάρειαν</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| my hand? | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.36.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.18|<< Isaiah 36:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.20|Isaiah 36:20 >>]]</td></tr></table>
 
 

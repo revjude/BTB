@@ -9,40 +9,40 @@ for when the congregation contended in the Wilderness of Zin, both of you rebell
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| because | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| you \[both\] violated | <span class="asgreek">παρέβητε <sup><small><small>[[G3845]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my word | <span class="asgreek">ρήμά <sup><small><small>[[G4487]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wilderness | <span class="asgreek">ερήμω <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| of Zin, | <span class="asgreek">Σιν <sup><small><small>[[H6790]]</small></small></sup> </span> |
-| when | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rushed headlong against | <span class="asgreek">αντιπίπτειν <sup><small><small>[[G0496]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| congregation | <span class="asgreek">συναγωγήν <sup><small><small>[[G4864]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sanctifying | <span class="asgreek">αγιάσαι <sup><small><small>[[G0037]]</small></small></sup> </span> |
-| me; | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you did not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| sanctify | <span class="asgreek">ηγιάσατέ <sup><small><small>[[G0037]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| at | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδατι <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| before | <span class="asgreek">έναντι <sup><small><small>[[G1725]]</small></small></sup> </span> |
-| them -- | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτό <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| The | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| of Dispute -- | <span class="asgreek">αντιλογίας <sup><small><small>[[G0485]]</small></small></sup> </span> |
-| Kadesh, | <span class="asgreek">Κάδης <sup><small><small>[[H6946]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wilderness | <span class="asgreek">ερήμω <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| of Zin. | <span class="asgreek">Σιν <sup><small><small>[[H6790]]</small></small></sup> </span> |
+| because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| you \[both\] violated | <big><span class="asgreek">παρέβητε</span></big> <sup><small><small>[[G3845]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my word | <big><span class="asgreek">ρήμά</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| of Zin, | <big><span class="asgreek">Σιν</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
+| when | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rushed headlong against | <big><span class="asgreek">αντιπίπτειν</span></big> <sup><small><small>[[G0496]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| congregation | <big><span class="asgreek">συναγωγήν</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sanctifying | <big><span class="asgreek">αγιάσαι</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
+| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| sanctify | <big><span class="asgreek">ηγιάσατέ</span></big> <sup><small><small>[[G0037]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
+| them -- | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτό</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| of Dispute -- | <big><span class="asgreek">αντιλογίας</span></big> <sup><small><small>[[G0485]]</small></small></sup> |
+| Kadesh, | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| of Zin. | <big><span class="asgreek">Σιν</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
 [[Num.27.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.13|<< Numbers 27:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.15|Numbers 27:15 >>]]</td></tr></table>
 
 

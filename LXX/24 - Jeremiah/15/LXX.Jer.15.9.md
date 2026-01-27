@@ -9,34 +9,34 @@ The mother of seven will grow faint; she will breathe her last breath. Her sun w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| was emptied | <span class="asgreek">εκενώθη <sup><small><small>[[G2758]]</small></small></sup> </span> |
-| The one | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| giving birth to | <span class="asgreek">τίκτουσα <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| seven | <span class="asgreek">επτά <sup><small><small>[[G2033]]</small></small></sup> </span> |
-| suffered misfortune | <span class="asgreek">απεκάκησεν <sup><small><small>[[G6437]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Her soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| set | <span class="asgreek">επέδυ <sup><small><small>[[G1931]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her sun | <span class="asgreek">ήλιος <sup><small><small>[[G2246]]</small></small></sup> <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| even | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| in the middle | <span class="asgreek">μεσούσης <sup><small><small>[[G3322]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day. | <span class="asgreek">ημέρας <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| She was disgraced | <span class="asgreek">κατησχύνθη <sup><small><small>[[G2617]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| berated. | <span class="asgreek">ωνειδίσθη <sup><small><small>[[G3679]]</small></small></sup> </span> |
-| Of the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| remaining | <span class="asgreek">καταλοίπους <sup><small><small>[[G2645]]</small></small></sup> </span> |
-| of them | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] sword | <span class="asgreek">μάχαιραν <sup><small><small>[[G3162]]</small></small></sup> </span> |
-| I will give | <span class="asgreek">δώσω <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| before | <span class="asgreek">εναντίον <sup><small><small>[[G1726]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their enemies, | <span class="asgreek">εχθρών <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| says | <span class="asgreek">φησί <sup><small><small>[[G5346]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| was emptied | <big><span class="asgreek">εκενώθη</span></big> <sup><small><small>[[G2758]]</small></small></sup> |
+| The one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| giving birth to | <big><span class="asgreek">τίκτουσα</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
+| suffered misfortune | <big><span class="asgreek">απεκάκησεν</span></big> <sup><small><small>[[G6437]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Her soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| set | <big><span class="asgreek">επέδυ</span></big> <sup><small><small>[[G1931]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her sun | <big><span class="asgreek">ήλιος</span></big> <sup><small><small>[[G2246]]</small></small></sup> <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| even | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| in the middle | <big><span class="asgreek">μεσούσης</span></big> <sup><small><small>[[G3322]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day. | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| She was disgraced | <big><span class="asgreek">κατησχύνθη</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| berated. | <big><span class="asgreek">ωνειδίσθη</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
+| Of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| remaining | <big><span class="asgreek">καταλοίπους</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
+| of them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] sword | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
+| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Jer.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.8|<< Jeremiah 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.10|Jeremiah 15:10 >>]]</td></tr></table>
 
 

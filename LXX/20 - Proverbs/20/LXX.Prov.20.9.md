@@ -13,18 +13,18 @@ Who can say, “I have kept my heart pure; I am cleansed from my sin”?<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall boast | <span class="asgreek">καυχήσεται <sup><small><small>[[G2744]]</small></small></sup> </span> |
-| a pure | <span class="asgreek">αγνήν <sup><small><small>[[G0053]]</small></small></sup> </span> |
-| to have | <span class="asgreek">έχειν <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heart? | <span class="asgreek">καρδίαν <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall speak openly | <span class="asgreek">παρρήσιασεται <sup><small><small>[[G3955]]</small></small></sup> </span> |
-| to be clean | <span class="asgreek">καθαρός <sup><small><small>[[G2513]]</small></small></sup> <span class="asgreek">είναι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| sins? | <span class="asgreek">αμαρτιών <sup><small><small>[[G0266]]</small></small></sup> </span> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall boast | <big><span class="asgreek">καυχήσεται</span></big> <sup><small><small>[[G2744]]</small></small></sup> |
+| a pure | <big><span class="asgreek">αγνήν</span></big> <sup><small><small>[[G0053]]</small></small></sup> |
+| to have | <big><span class="asgreek">έχειν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heart? | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall speak openly | <big><span class="asgreek">παρρήσιασεται</span></big> <sup><small><small>[[G3955]]</small></small></sup> |
+| to be clean | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| sins? | <big><span class="asgreek">αμαρτιών</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
 [[Prov.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.8|<< Proverbs 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.10|Proverbs 20:10 >>]]</td></tr></table>
 
 

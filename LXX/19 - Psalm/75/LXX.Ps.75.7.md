@@ -9,15 +9,15 @@ but it is God who judges; He brings down one and exalts another.<small><sub>**M
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| is judge. | <span class="asgreek">κριτής <sup><small><small>[[G2923]]</small></small></sup> <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| This one | <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| he humbles, | <span class="asgreek">ταπεινοί <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| this one | <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| he raises up high. | <span class="asgreek">υψοί <sup><small><small>[[G5312]]</small></small></sup> </span> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| is judge. | <big><span class="asgreek">κριτής</span></big> <sup><small><small>[[G2923]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| This one | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| he humbles, | <big><span class="asgreek">ταπεινοί</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| this one | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| he raises up high. | <big><span class="asgreek">υψοί</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
 [[Ps.75.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.75.6|<< Psalm 75:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.75.8|Psalm 75:8 >>]]</td></tr></table>
 
 

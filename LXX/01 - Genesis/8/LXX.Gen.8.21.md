@@ -9,47 +9,47 @@ When the LORD smelled the pleasing aroma, He said in His heart, “Never again w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> smelled | <span class="asgreek">ωσφράνθη <sup><small><small>[[G8562]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \[the\] scent | <span class="asgreek">οσμήν <sup><small><small>[[G3744]]</small></small></sup> </span> |
-| of pleasant aroma. | <span class="asgreek">ευωδίας <sup><small><small>[[G2175]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \[In\] considering, | <span class="asgreek">διανοηθείς <sup><small><small>[[G6854]]</small></small></sup> </span> |
-| I will not add | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">προσθήσω <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| yet | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| to curse | <span class="asgreek">καταράσασθαι <sup><small><small>[[G2672]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| on account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| works | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of men, | <span class="asgreek">ανθρώπων <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| clings | <span class="asgreek">έγκειται <sup><small><small>[[G7014]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thought | <span class="asgreek">διάνοια <sup><small><small>[[G1271]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of man | <span class="asgreek">ανθρώπου <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wicked \[things\] | <span class="asgreek">πονηρά <sup><small><small>[[G4190]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| his youth. | <span class="asgreek">νεότητος <sup><small><small>[[G3503]]</small></small></sup> <span class="asgreek">αυτόυ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I will not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| add | <span class="asgreek">προσθήσω <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| then | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| still | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| to strike | <span class="asgreek">πατάξαι <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσαν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| flesh | <span class="asgreek">σάρκα <sup><small><small>[[G4561]]</small></small></sup> </span> |
-| living | <span class="asgreek">ζώσαν <sup><small><small>[[G2198]]</small></small></sup> </span> |
-| as | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| I did. | <span class="asgreek">εποίησα <sup><small><small>[[G4160]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> smelled | <big><span class="asgreek">ωσφράνθη</span></big> <sup><small><small>[[G8562]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[the\] scent | <big><span class="asgreek">οσμήν</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
+| of pleasant aroma. | <big><span class="asgreek">ευωδίας</span></big> <sup><small><small>[[G2175]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \[In\] considering, | <big><span class="asgreek">διανοηθείς</span></big> <sup><small><small>[[G6854]]</small></small></sup> |
+| I will not add | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">προσθήσω</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| to curse | <big><span class="asgreek">καταράσασθαι</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of men, | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| clings | <big><span class="asgreek">έγκειται</span></big> <sup><small><small>[[G7014]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thought | <big><span class="asgreek">διάνοια</span></big> <sup><small><small>[[G1271]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wicked \[things\] | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| his youth. | <big><span class="asgreek">νεότητος</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">αυτόυ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| add | <big><span class="asgreek">προσθήσω</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| to strike | <big><span class="asgreek">πατάξαι</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| flesh | <big><span class="asgreek">σάρκα</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| living | <big><span class="asgreek">ζώσαν</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| I did. | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
 [[Gen.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.20|<< Genesis 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.22|Genesis 8:22 >>]]</td></tr></table>
 
 

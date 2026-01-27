@@ -9,29 +9,29 @@ My righteousness draws near, My salvation is on the way, and My arms will bring 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| approaches | <span class="asgreek">εγγίζει <sup><small><small>[[G1448]]</small></small></sup> </span> |
-| quickly | <span class="asgreek">ταχύ <sup><small><small>[[G5036]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| My righteousness | <span class="asgreek">δικαιοσύνη <sup><small><small>[[G1343]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall go forth | <span class="asgreek">εξελεύσεται <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| light | <span class="asgreek">φως <sup><small><small>[[G5457]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my deliverance | <span class="asgreek">σωτήριόν <sup><small><small>[[G4992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| on | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my arm | <span class="asgreek">βραχίονά <sup><small><small>[[G1023]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall hope. | <span class="asgreek">ελπιούσιν <sup><small><small>[[G1679]]</small></small></sup> </span> |
-| for me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Islands | <span class="asgreek">νήσοι <sup><small><small>[[G3520]]</small></small></sup> </span> |
-| shall wait | <span class="asgreek">υπομενούσι <sup><small><small>[[G5278]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| on | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my arm | <span class="asgreek">βραχιονά <sup><small><small>[[G1023]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall hope. | <span class="asgreek">ελπιούσιν <sup><small><small>[[G1679]]</small></small></sup> </span> |
+| approaches | <big><span class="asgreek">εγγίζει</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| My righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall go forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| light | <big><span class="asgreek">φως</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my deliverance | <big><span class="asgreek">σωτήριόν</span></big> <sup><small><small>[[G4992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my arm | <big><span class="asgreek">βραχίονά</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall hope. | <big><span class="asgreek">ελπιούσιν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
+| for me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Islands | <big><span class="asgreek">νήσοι</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
+| shall wait | <big><span class="asgreek">υπομενούσι</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my arm | <big><span class="asgreek">βραχιονά</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall hope. | <big><span class="asgreek">ελπιούσιν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
 [[Isa.51.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.4|<< Isaiah 51:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.6|Isaiah 51:6 >>]]</td></tr></table>
 
 

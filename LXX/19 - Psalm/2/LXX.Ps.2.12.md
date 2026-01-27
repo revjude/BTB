@@ -9,27 +9,27 @@ Kiss the Son, lest He be angry and you perish in your rebellion, when His wrath 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Grab | <span class="asgreek">δράξασθε <sup><small><small>[[G1405]]</small></small></sup> </span> |
-| instruction! | <span class="asgreek">παιδείας <sup><small><small>[[G3809]]</small></small></sup> </span> |
-| lest at any time | <span class="asgreek">μήποτε <sup><small><small>[[G3379]]</small></small></sup> </span> |
-| you should provoke \[the\] <span class="smallcaps">lord</span> to anger, | <span class="asgreek">οργισθή <sup><small><small>[[G3710]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall perish | <span class="asgreek">απολείσθε <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| way | <span class="asgreek">οδού <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| \[the\] just | <span class="asgreek">δικαίας <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| should be kindled | <span class="asgreek">εκκαυθή <sup><small><small>[[G1572]]</small></small></sup> </span> |
-|  | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| quickly | <span class="asgreek">τάχει <sup><small><small>[[G5034]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his rage | <span class="asgreek">θυμός <sup><small><small>[[G2372]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Blessed \[are\] | <span class="asgreek">μακάριοι <sup><small><small>[[G3107]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| yielding | <span class="asgreek">πεποιθότες <sup><small><small>[[G3982]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Grab | <big><span class="asgreek">δράξασθε</span></big> <sup><small><small>[[G1405]]</small></small></sup> |
+| instruction! | <big><span class="asgreek">παιδείας</span></big> <sup><small><small>[[G3809]]</small></small></sup> |
+| lest at any time | <big><span class="asgreek">μήποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
+| you should provoke \[the\] <span class="smallcaps">lord</span> to anger, | <big><span class="asgreek">οργισθή</span></big> <sup><small><small>[[G3710]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall perish | <big><span class="asgreek">απολείσθε</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| way | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| \[the\] just | <big><span class="asgreek">δικαίας</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| should be kindled | <big><span class="asgreek">εκκαυθή</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
+|  | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| quickly | <big><span class="asgreek">τάχει</span></big> <sup><small><small>[[G5034]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his rage | <big><span class="asgreek">θυμός</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Blessed \[are\] | <big><span class="asgreek">μακάριοι</span></big> <sup><small><small>[[G3107]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| yielding | <big><span class="asgreek">πεποιθότες</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.2.11|<< Psalm 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.3.1|Psalm 3:1 >>]]</td></tr></table>
 
 

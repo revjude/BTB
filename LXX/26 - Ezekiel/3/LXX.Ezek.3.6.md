@@ -9,32 +9,32 @@ not to the many peoples of unfamiliar speech and difficult language whose words 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| peoples | <span class="asgreek">λαούς <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλούς <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| of foreign languages, | <span class="asgreek">αλλοφώνους <sup><small><small>[[G6235]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| foreign tongues, | <span class="asgreek">αλλογλώσσους <sup><small><small>[[G6229]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| dense | <span class="asgreek">στιβαρούς <sup><small><small>[[G9177]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in tongue | <span class="asgreek">γλώσση <sup><small><small>[[G1100]]</small></small></sup> </span> |
-| being | <span class="asgreek">οντας <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| whose | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you hear not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ακούση <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| words | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| But | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| such | <span class="asgreek">τοιούτους <sup><small><small>[[G5108]]</small></small></sup> </span> |
-| I sent | <span class="asgreek">εξαπέστειλά <sup><small><small>[[G1821]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| these | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| would have | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| listened to | <span class="asgreek">εισήκουσάν <sup><small><small>[[G1522]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| peoples | <big><span class="asgreek">λαούς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλούς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| of foreign languages, | <big><span class="asgreek">αλλοφώνους</span></big> <sup><small><small>[[G6235]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| foreign tongues, | <big><span class="asgreek">αλλογλώσσους</span></big> <sup><small><small>[[G6229]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| dense | <big><span class="asgreek">στιβαρούς</span></big> <sup><small><small>[[G9177]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in tongue | <big><span class="asgreek">γλώσση</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
+| being | <big><span class="asgreek">οντας</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| whose | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you hear not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ακούση</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| such | <big><span class="asgreek">τοιούτους</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
+| I sent | <big><span class="asgreek">εξαπέστειλά</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| would have | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| listened to | <big><span class="asgreek">εισήκουσάν</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
+| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.5|<< Ezekiel 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.7|Ezekiel 3:7 >>]]</td></tr></table>
 
 

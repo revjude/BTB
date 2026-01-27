@@ -13,16 +13,16 @@ They will lift you up in their hands, so that you will not strike your foot agai
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| By | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| hands | <span class="asgreek">χειρών <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| they will lift | <span class="asgreek">αρούσί <sup><small><small>[[G0142]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| lest at any time | <span class="asgreek">μήποτε <sup><small><small>[[G3379]]</small></small></sup> </span> |
-| you should stumble | <span class="asgreek">προσκόψης <sup><small><small>[[G4350]]</small></small></sup> </span> |
-| against | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| a stone | <span class="asgreek">λίθον <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your foot | <span class="asgreek">πόδα <sup><small><small>[[G4228]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| By | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| hands | <big><span class="asgreek">χειρών</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| they will lift | <big><span class="asgreek">αρούσί</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| lest at any time | <big><span class="asgreek">μήποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
+| you should stumble | <big><span class="asgreek">προσκόψης</span></big> <sup><small><small>[[G4350]]</small></small></sup> |
+| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| a stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your foot | <big><span class="asgreek">πόδα</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.91.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.11|<< Psalm 91:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.13|Psalm 91:13 >>]]</td></tr></table>
 
 

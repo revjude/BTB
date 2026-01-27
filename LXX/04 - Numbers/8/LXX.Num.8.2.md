@@ -9,27 +9,27 @@ Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamp
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Speak | <span class="asgreek">λάλησον <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Aaron! | <span class="asgreek">Ααρών <sup><small><small>[[G0002]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall say | <span class="asgreek">ερείς <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| him, | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| you should place | <span class="asgreek">επιθής <sup><small><small>[[G2007]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lamps | <span class="asgreek">λύχνους <sup><small><small>[[G3088]]</small></small></sup> </span> |
-| by | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| rank, | <span class="asgreek">μέρους <sup><small><small>[[G3313]]</small></small></sup> </span> |
-| in | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| front | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lamp-stand | <span class="asgreek">λυχνίας <sup><small><small>[[G3087]]</small></small></sup> </span> |
-| shall give light | <span class="asgreek">φωτιούσιν <sup><small><small>[[G5461]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seven | <span class="asgreek">επτά <sup><small><small>[[G2033]]</small></small></sup> </span> |
-| lamps | <span class="asgreek">λύχνοι <sup><small><small>[[G3088]]</small></small></sup> </span> |
+| Speak | <big><span class="asgreek">λάλησον</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Aaron! | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| you should place | <big><span class="asgreek">επιθής</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lamps | <big><span class="asgreek">λύχνους</span></big> <sup><small><small>[[G3088]]</small></small></sup> |
+| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| rank, | <big><span class="asgreek">μέρους</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
+| in | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lamp-stand | <big><span class="asgreek">λυχνίας</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
+| shall give light | <big><span class="asgreek">φωτιούσιν</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
+| lamps | <big><span class="asgreek">λύχνοι</span></big> <sup><small><small>[[G3088]]</small></small></sup> |
 [[Num.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.1|<< Numbers 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.3|Numbers 8:3 >>]]</td></tr></table>
 
 

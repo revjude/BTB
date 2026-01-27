@@ -9,34 +9,34 @@ So that their hearts may melt and many may stumble, I have appointed at all thei
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| so that | <span class="asgreek">όπως <sup><small><small>[[G3704]]</small></small></sup> </span> |
-| should be devastated | <span class="asgreek">θραυσθή <sup><small><small>[[G2352]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heart | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| should be multiplied | <span class="asgreek">πληθυνθώσιν <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being weakened | <span class="asgreek">ασθενούντες <sup><small><small>[[G0770]]</small></small></sup> </span> |
-| at | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάσαν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| gate | <span class="asgreek">πύλην <sup><small><small>[[G4439]]</small></small></sup> </span> |
-| of theirs. | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| They have been delivered up | <span class="asgreek">παραδέδονται <sup><small><small>[[G3860]]</small></small></sup> </span> |
-| as | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| victims for slaughter | <span class="asgreek">σφάγια <sup><small><small>[[G4968]]</small></small></sup> </span> |
-| by \[the\] broadsword. | <span class="asgreek">ρομφαίας <sup><small><small>[[G4501]]</small></small></sup> </span> |
-| Well done | <span class="asgreek">εύγε <sup><small><small>[[G7530]]</small></small></sup> </span> |
-| keen \[one\] | <span class="asgreek">οξεία <sup><small><small>[[G3691]]</small></small></sup> </span> |
-| being | <span class="asgreek">γέγονεν <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| slaughter. | <span class="asgreek">σφαγήν <sup><small><small>[[G4967]]</small></small></sup> </span> |
-| Well done | <span class="asgreek">εύγε <sup><small><small>[[G7530]]</small></small></sup> </span> |
-| one being | <span class="asgreek">γέγονεν <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| shining. | <span class="asgreek">στίλβωσιν <sup><small><small>[[G9183]]</small></small></sup> </span> |
-| As | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| lightning | <span class="asgreek">αστραπή <sup><small><small>[[G0796]]</small></small></sup> </span> |
-| go forth! | <span class="asgreek">διαπορεύου <sup><small><small>[[G1279]]</small></small></sup> </span> |
+| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
+| should be devastated | <big><span class="asgreek">θραυσθή</span></big> <sup><small><small>[[G2352]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| should be multiplied | <big><span class="asgreek">πληθυνθώσιν</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being weakened | <big><span class="asgreek">ασθενούντες</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
+| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| gate | <big><span class="asgreek">πύλην</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| of theirs. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| They have been delivered up | <big><span class="asgreek">παραδέδονται</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
+| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| victims for slaughter | <big><span class="asgreek">σφάγια</span></big> <sup><small><small>[[G4968]]</small></small></sup> |
+| by \[the\] broadsword. | <big><span class="asgreek">ρομφαίας</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| Well done | <big><span class="asgreek">εύγε</span></big> <sup><small><small>[[G7530]]</small></small></sup> |
+| keen \[one\] | <big><span class="asgreek">οξεία</span></big> <sup><small><small>[[G3691]]</small></small></sup> |
+| being | <big><span class="asgreek">γέγονεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| slaughter. | <big><span class="asgreek">σφαγήν</span></big> <sup><small><small>[[G4967]]</small></small></sup> |
+| Well done | <big><span class="asgreek">εύγε</span></big> <sup><small><small>[[G7530]]</small></small></sup> |
+| one being | <big><span class="asgreek">γέγονεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| shining. | <big><span class="asgreek">στίλβωσιν</span></big> <sup><small><small>[[G9183]]</small></small></sup> |
+| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| lightning | <big><span class="asgreek">αστραπή</span></big> <sup><small><small>[[G0796]]</small></small></sup> |
+| go forth! | <big><span class="asgreek">διαπορεύου</span></big> <sup><small><small>[[G1279]]</small></small></sup> |
 [[Ezek.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.14|<< Ezekiel 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.16|Ezekiel 21:16 >>]]</td></tr></table>
 
 

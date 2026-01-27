@@ -9,17 +9,17 @@ My beloved calls to me, “Arise, my darling. Come away with me, my beautiful on
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| responds | <span class="asgreek">αποκρίνεται <sup><small><small>[[G0611]]</small></small></sup> </span> |
-| My beloved \[man\] | <span class="asgreek">αδελφιδός <sup><small><small>[[G6137]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| to me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Rise up, | <span class="asgreek">ανάστα <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| come | <span class="asgreek">ελθέ <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my dear one, | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| my fair \[one\], | <span class="asgreek">καλή <sup><small><small>[[G2570]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| my dove! | <span class="asgreek">περιστερά <sup><small><small>[[G4058]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| responds | <big><span class="asgreek">αποκρίνεται</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
+| My beloved \[man\] | <big><span class="asgreek">αδελφιδός</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Rise up, | <big><span class="asgreek">ανάστα</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| come | <big><span class="asgreek">ελθέ</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my dear one, | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| my fair \[one\], | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| my dove! | <big><span class="asgreek">περιστερά</span></big> <sup><small><small>[[G4058]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Song.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.9|<< Song of Solomon 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.11|Song of Solomon 2:11 >>]]</td></tr></table>
 
 

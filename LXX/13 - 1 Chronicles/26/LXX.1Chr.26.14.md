@@ -9,29 +9,29 @@ The lot for the East Gate fell to Shelemiah. Then lots were cast for his son Zec
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| fell | <span class="asgreek">έπεσεν <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lot | <span class="asgreek">κλήρος <sup><small><small>[[G2819]]</small></small></sup> </span> |
-| of the \[gates\]\<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| towards | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \[the\] east | <span class="asgreek">ανατολάς <sup><small><small>[[G0395]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Shelemiah. | <span class="asgreek">Σελεμία <sup><small><small>[[H8018]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Zechariah | <span class="asgreek">Ζαχαρία <sup><small><small>[[G2197]]</small></small></sup> </span> |
-| his son, | <span class="asgreek">υιώ <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a counselor | <span class="asgreek">βουλευτής <sup><small><small>[[G1010]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| skillfulness -- | <span class="asgreek">συνέσει <sup><small><small>[[G4907]]</small></small></sup> </span> |
-| they threw | <span class="asgreek">έβαλον <sup><small><small>[[G0906]]</small></small></sup> </span> |
-| lots; | <span class="asgreek">κλήρους <sup><small><small>[[G2819]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| came forth | <span class="asgreek">εξήλθεν <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| of his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lot | <span class="asgreek">κλήρος <sup><small><small>[[G2819]]</small></small></sup> </span> |
-| \[for the\] north \[gate\]. | <span class="asgreek">βορρά <sup><small><small>[[G1005]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| fell | <big><span class="asgreek">έπεσεν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lot | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
+| of the \[gates\]\<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \[the\] east | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Shelemiah. | <big><span class="asgreek">Σελεμία</span></big> <sup><small><small>[[H8018]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Zechariah | <big><span class="asgreek">Ζαχαρία</span></big> <sup><small><small>[[G2197]]</small></small></sup> |
+| his son, | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a counselor | <big><span class="asgreek">βουλευτής</span></big> <sup><small><small>[[G1010]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| skillfulness -- | <big><span class="asgreek">συνέσει</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
+| they threw | <big><span class="asgreek">έβαλον</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
+| lots; | <big><span class="asgreek">κλήρους</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| came forth | <big><span class="asgreek">εξήλθεν</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| of his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lot | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
+| \[for the\] north \[gate\]. | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
 [[1Chr.26.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.13|<< 1 Chronicles 26:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.15|1 Chronicles 26:15 >>]]</td></tr></table>
 
 

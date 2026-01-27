@@ -9,33 +9,33 @@ And any person, whether native or foreigner, who eats anything found dead or mau
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| who | <span class="asgreek">ήτις <sup><small><small>[[G3748]]</small></small></sup> </span> |
-| should eat | <span class="asgreek">φάγεται <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| decaying flesh, | <span class="asgreek">θνησιμαίον <sup><small><small>[[G7681]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| \[flesh\] taken by wild beasts, | <span class="asgreek">θηριάλωτον <sup><small><small>[[G7670]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| native born, | <span class="asgreek">αυτόχθοσιν <sup><small><small>[[G6611]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| foreigners, | <span class="asgreek">προσηλύτοις <sup><small><small>[[G4339]]</small></small></sup> </span> |
-| shall wash | <span class="asgreek">πλυνεί <sup><small><small>[[G4150]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his garments, | <span class="asgreek">ιμάτια <sup><small><small>[[G2440]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall bathe | <span class="asgreek">λούσεται <sup><small><small>[[G3068]]</small></small></sup> </span> |
-| in water, | <span class="asgreek">ύδατι <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| will be unclean | <span class="asgreek">ακάθαρτος <sup><small><small>[[G0169]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| evening; | <span class="asgreek">εσπέρας <sup><small><small>[[G2073]]</small></small></sup> </span> |
-| then | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he will be clean. | <span class="asgreek">καθαρός <sup><small><small>[[G2513]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| who | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
+| should eat | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| decaying flesh, | <big><span class="asgreek">θνησιμαίον</span></big> <sup><small><small>[[G7681]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| \[flesh\] taken by wild beasts, | <big><span class="asgreek">θηριάλωτον</span></big> <sup><small><small>[[G7670]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| native born, | <big><span class="asgreek">αυτόχθοσιν</span></big> <sup><small><small>[[G6611]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| foreigners, | <big><span class="asgreek">προσηλύτοις</span></big> <sup><small><small>[[G4339]]</small></small></sup> |
+| shall wash | <big><span class="asgreek">πλυνεί</span></big> <sup><small><small>[[G4150]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his garments, | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall bathe | <big><span class="asgreek">λούσεται</span></big> <sup><small><small>[[G3068]]</small></small></sup> |
+| in water, | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| will be unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| evening; | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
+| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he will be clean. | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Lev.17.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.14|<< Leviticus 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.16|Leviticus 17:16 >>]]</td></tr></table>
 
 

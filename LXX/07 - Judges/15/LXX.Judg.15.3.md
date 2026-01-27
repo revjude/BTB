@@ -12,20 +12,20 @@ Samson said to them, “This time I will be blameless in doing harm to the Phili
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Samson | <span class="asgreek">Σαμψών <sup><small><small>[[G4546]]</small></small></sup> </span> |
-| I am innocent | <span class="asgreek">αθώός <sup><small><small>[[G0121]]</small></small></sup> <span class="asgreek">ειμι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| this | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| once | <span class="asgreek">άπαξ <sup><small><small>[[G0530]]</small></small></sup> </span> |
-| concerning | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] Philistines, | <span class="asgreek">αλλοφύλων <sup><small><small>[[G0246]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I myself should do | <span class="asgreek">ποιώ <sup><small><small>[[G4160]]</small></small></sup> <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">μεθ΄ <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you | <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| evils | <span class="asgreek">κακά <sup><small><small>[[G2556]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Samson | <big><span class="asgreek">Σαμψών</span></big> <sup><small><small>[[G4546]]</small></small></sup> |
+| I am innocent | <big><span class="asgreek">αθώός</span></big> <sup><small><small>[[G0121]]</small></small></sup> <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| this | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| once | <big><span class="asgreek">άπαξ</span></big> <sup><small><small>[[G0530]]</small></small></sup> |
+| concerning | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] Philistines, | <big><span class="asgreek">αλλοφύλων</span></big> <sup><small><small>[[G0246]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I myself should do | <big><span class="asgreek">ποιώ</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| evils | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
 [[Judg.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.2|<< Judges 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.4|Judges 15:4 >>]]</td></tr></table>
 
 

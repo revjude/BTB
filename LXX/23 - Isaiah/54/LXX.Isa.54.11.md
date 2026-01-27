@@ -13,22 +13,22 @@ O thou afflicted, tossed with tempest, [and] not comforted, behold, I will lay t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Humble | <span class="asgreek">ταπεινή <sup><small><small>[[G5011]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| confused, | <span class="asgreek">ακατάστατος <sup><small><small>[[G0182]]</small></small></sup> </span> |
-| you were not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| comforted. | <span class="asgreek">παρεκλήθης <sup><small><small>[[G3870]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| prepare | <span class="asgreek">ετοιμάζω <sup><small><small>[[G2090]]</small></small></sup> </span> |
-| for you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| carbuncle | <span class="asgreek">άνθρακα <sup><small><small>[[G0440]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for your stone, | <span class="asgreek">λίθον <sup><small><small>[[G3037]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and \[for\] | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your foundations | <span class="asgreek">θεμέλιά <sup><small><small>[[G2310]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| sapphire. | <span class="asgreek">σάπφειρον <sup><small><small>[[G4552]]</small></small></sup> </span> |
+| Humble | <big><span class="asgreek">ταπεινή</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| confused, | <big><span class="asgreek">ακατάστατος</span></big> <sup><small><small>[[G0182]]</small></small></sup> |
+| you were not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| comforted. | <big><span class="asgreek">παρεκλήθης</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| prepare | <big><span class="asgreek">ετοιμάζω</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
+| for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| carbuncle | <big><span class="asgreek">άνθρακα</span></big> <sup><small><small>[[G0440]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for your stone, | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and \[for\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your foundations | <big><span class="asgreek">θεμέλιά</span></big> <sup><small><small>[[G2310]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| sapphire. | <big><span class="asgreek">σάπφειρον</span></big> <sup><small><small>[[G4552]]</small></small></sup> |
 [[Isa.54.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.10|<< Isaiah 54:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.12|Isaiah 54:12 >>]]</td></tr></table>
 
 

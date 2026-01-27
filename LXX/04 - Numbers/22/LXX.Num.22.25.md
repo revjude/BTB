@@ -9,32 +9,32 @@ And the donkey saw the angel of the LORD and pressed herself against the wall, c
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| seeing | <span class="asgreek">ιδούσα <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| donkey | <span class="asgreek">όνος <sup><small><small>[[G3688]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| angel | <span class="asgreek">άγγελον <sup><small><small>[[G0032]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of God, | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| pressed | <span class="asgreek">προσέθλιψεν <sup><small><small>[[G8925]]</small></small></sup> </span> |
-| herself | <span class="asgreek">εαυτήν <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| against | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wall, | <span class="asgreek">τοίχον <sup><small><small>[[G5109]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it squeezed | <span class="asgreek">απέθλιψε <sup><small><small>[[G0598]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| foot | <span class="asgreek">πόδα <sup><small><small>[[G4228]]</small></small></sup> </span> |
-| of Balaam | <span class="asgreek">Βαλαάμ <sup><small><small>[[G0903]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wall, | <span class="asgreek">τοίχον <sup><small><small>[[G5109]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he added | <span class="asgreek">προσέθετο <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| again | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| to crack the whip | <span class="asgreek">μαστίξαι <sup><small><small>[[G3147]]</small></small></sup> </span> |
-| on her. | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| seeing | <big><span class="asgreek">ιδούσα</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| donkey | <big><span class="asgreek">όνος</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| angel | <big><span class="asgreek">άγγελον</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of God, | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| pressed | <big><span class="asgreek">προσέθλιψεν</span></big> <sup><small><small>[[G8925]]</small></small></sup> |
+| herself | <big><span class="asgreek">εαυτήν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wall, | <big><span class="asgreek">τοίχον</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it squeezed | <big><span class="asgreek">απέθλιψε</span></big> <sup><small><small>[[G0598]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| foot | <big><span class="asgreek">πόδα</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
+| of Balaam | <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wall, | <big><span class="asgreek">τοίχον</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he added | <big><span class="asgreek">προσέθετο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| again | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| to crack the whip | <big><span class="asgreek">μαστίξαι</span></big> <sup><small><small>[[G3147]]</small></small></sup> |
+| on her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Num.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.24|<< Numbers 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.26|Numbers 22:26 >>]]</td></tr></table>
 
 

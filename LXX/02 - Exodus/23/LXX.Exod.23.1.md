@@ -12,18 +12,18 @@ Thou shalt not raise a false report: put not thine hand with the wicked to be an
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| welcome | <span class="asgreek">παραδέξη <sup><small><small>[[G3858]]</small></small></sup> </span> |
-| report | <span class="asgreek">ακοήν <sup><small><small>[[G0189]]</small></small></sup> </span> |
-| a vain | <span class="asgreek">ματαίαν <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| You shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| assent together | <span class="asgreek">συγκαταθήση <sup><small><small>[[G4784]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| unjust | <span class="asgreek">αδίκου <sup><small><small>[[G0094]]</small></small></sup> </span> |
-| to become | <span class="asgreek">γενέσθαι <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| witness | <span class="asgreek">μάρτυς <sup><small><small>[[G3144]]</small></small></sup> </span> |
-| an unjust | <span class="asgreek">άδικος <sup><small><small>[[G0094]]</small></small></sup> </span> |
+| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| welcome | <big><span class="asgreek">παραδέξη</span></big> <sup><small><small>[[G3858]]</small></small></sup> |
+| report | <big><span class="asgreek">ακοήν</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
+| a vain | <big><span class="asgreek">ματαίαν</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| assent together | <big><span class="asgreek">συγκαταθήση</span></big> <sup><small><small>[[G4784]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| unjust | <big><span class="asgreek">αδίκου</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
+| to become | <big><span class="asgreek">γενέσθαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| witness | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
+| an unjust | <big><span class="asgreek">άδικος</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
 [[Exod.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.31|<< Exodus 22:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.2|Exodus 23:2 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Elioenai -- | <span class="asgreek">Ελιωναϊ <sup><small><small>[[H0454b]]</small></small></sup> </span> |
-| Hodaiah, | <span class="asgreek">Ωδία <sup><small><small>[[H1939]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Eliashib, | <span class="asgreek">Ελιασείβ <sup><small><small>[[H0475]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Pelaiah, | <span class="asgreek">Φαλία <sup><small><small>[[H6411b]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Akkub, | <span class="asgreek">Ακούν <sup><small><small>[[H6126]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Johanan, | <span class="asgreek">Ιωνάν <sup><small><small>[[G2494]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Dalaiah, | <span class="asgreek">Δαλεά <sup><small><small>[[H1806]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Anani -- | <span class="asgreek">Ανανίας <sup><small><small>[[H6054]]</small></small></sup> </span> |
-| seven. | <span class="asgreek">επτά <sup><small><small>[[G2033]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Elioenai -- | <big><span class="asgreek">Ελιωναϊ</span></big> <sup><small><small>[[H0454b]]</small></small></sup> |
+| Hodaiah, | <big><span class="asgreek">Ωδία</span></big> <sup><small><small>[[H1939]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Eliashib, | <big><span class="asgreek">Ελιασείβ</span></big> <sup><small><small>[[H0475]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Pelaiah, | <big><span class="asgreek">Φαλία</span></big> <sup><small><small>[[H6411b]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Akkub, | <big><span class="asgreek">Ακούν</span></big> <sup><small><small>[[H6126]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Johanan, | <big><span class="asgreek">Ιωνάν</span></big> <sup><small><small>[[G2494]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Dalaiah, | <big><span class="asgreek">Δαλεά</span></big> <sup><small><small>[[H1806]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Anani -- | <big><span class="asgreek">Ανανίας</span></big> <sup><small><small>[[H6054]]</small></small></sup> |
+| seven. | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
 [[1Chr.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.23|<< 1 Chronicles 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.1|1 Chronicles 4:1 >>]]</td></tr></table>
 
 

@@ -9,25 +9,25 @@ Let us go early to the vineyards to see if the vine has budded, if the blossom h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| We should rise early | <span class="asgreek">ορθρίσωμεν <sup><small><small>[[G3719]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] vineyards; | <span class="asgreek">αμπελώνας <sup><small><small>[[G0290]]</small></small></sup> </span> |
-| we should see | <span class="asgreek">ίδωμεν <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| bloomed | <span class="asgreek">ήνθησεν <sup><small><small>[[G6341]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| grapevine | <span class="asgreek">άμπελος <sup><small><small>[[G0288]]</small></small></sup> </span> |
-| bloomed | <span class="asgreek">ήνθησεν <sup><small><small>[[G6341]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[the\] blossoms | <span class="asgreek">κυπρισμός <sup><small><small>[[G8132]]</small></small></sup> </span> |
-| bloomed | <span class="asgreek">ήνθησαν <sup><small><small>[[G6341]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| pomegranates | <span class="asgreek">ροαί <sup><small><small>[[G9029]]</small></small></sup> </span> |
-| There | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| I will give | <span class="asgreek">δώσω <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my breasts | <span class="asgreek">μαστούς <sup><small><small>[[G3149]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| We should rise early | <big><span class="asgreek">ορθρίσωμεν</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] vineyards; | <big><span class="asgreek">αμπελώνας</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
+| we should see | <big><span class="asgreek">ίδωμεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| bloomed | <big><span class="asgreek">ήνθησεν</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| grapevine | <big><span class="asgreek">άμπελος</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
+| bloomed | <big><span class="asgreek">ήνθησεν</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[the\] blossoms | <big><span class="asgreek">κυπρισμός</span></big> <sup><small><small>[[G8132]]</small></small></sup> |
+| bloomed | <big><span class="asgreek">ήνθησαν</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| pomegranates | <big><span class="asgreek">ροαί</span></big> <sup><small><small>[[G9029]]</small></small></sup> |
+| There | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| I will give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my breasts | <big><span class="asgreek">μαστούς</span></big> <sup><small><small>[[G3149]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Song.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.7.11|<< Song of Solomon 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.13|Song of Solomon 7:13 >>]]</td></tr></table>
 
 

@@ -9,16 +9,16 @@ The one who quarries stones may be injured by them, and he who splits logs endan
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| One lifting away | <span class="asgreek">εξαιρών <sup><small><small>[[G1808]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθους <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| shall work hard | <span class="asgreek">διαπονηθήσεται <sup><small><small>[[G1278]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| one splitting | <span class="asgreek">σχίζων <sup><small><small>[[G4977]]</small></small></sup> </span> |
-| wood | <span class="asgreek">ξύλα <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| shall be exposed to danger | <span class="asgreek">κινδυνεύσει <sup><small><small>[[G2793]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| One lifting away | <big><span class="asgreek">εξαιρών</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| shall work hard | <big><span class="asgreek">διαπονηθήσεται</span></big> <sup><small><small>[[G1278]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| one splitting | <big><span class="asgreek">σχίζων</span></big> <sup><small><small>[[G4977]]</small></small></sup> |
+| wood | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| shall be exposed to danger | <big><span class="asgreek">κινδυνεύσει</span></big> <sup><small><small>[[G2793]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Eccl.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.8|<< Ecclesiastes 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.10|Ecclesiastes 10:10 >>]]</td></tr></table>
 
 

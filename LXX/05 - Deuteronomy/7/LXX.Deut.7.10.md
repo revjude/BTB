@@ -9,23 +9,23 @@ But those who hate Him He repays to their faces with destruction; He will not he
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| repaying | <span class="asgreek">αποδιδούς <sup><small><small>[[G0591]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones detesting | <span class="asgreek">μισούσι <sup><small><small>[[G3404]]</small></small></sup> </span> |
-| \[his\] | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| face, | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| to utterly destroy | <span class="asgreek">εξολοθρεύσαι <sup><small><small>[[G1842]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall not | <span class="asgreek">ουχί <sup><small><small>[[G3780]]</small></small></sup> </span> |
-| be slow | <span class="asgreek">βραδυνεί <sup><small><small>[[G1019]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| detesting; | <span class="asgreek">μισούσι <sup><small><small>[[G3404]]</small></small></sup> </span> |
-| by | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| person | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| he shall render what is due | <span class="asgreek">αποδώσει <sup><small><small>[[G0591]]</small></small></sup> </span> |
-| to them. | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| repaying | <big><span class="asgreek">αποδιδούς</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones detesting | <big><span class="asgreek">μισούσι</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| \[his\] | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| face, | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| to utterly destroy | <big><span class="asgreek">εξολοθρεύσαι</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
+| be slow | <big><span class="asgreek">βραδυνεί</span></big> <sup><small><small>[[G1019]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| detesting; | <big><span class="asgreek">μισούσι</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| by | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| person | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| he shall render what is due | <big><span class="asgreek">αποδώσει</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.9|<< Deuteronomy 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.11|Deuteronomy 7:11 >>]]</td></tr></table>
 
 

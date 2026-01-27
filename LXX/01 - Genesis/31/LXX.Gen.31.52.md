@@ -9,33 +9,33 @@ This mound is a witness, and this pillar is a witness, that I will not go past t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| witnesses | <span class="asgreek">μαρτυρεί <sup><small><small>[[G3140]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this hill | <span class="asgreek">βουνός <sup><small><small>[[G1015]]</small></small></sup> <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| monument | <span class="asgreek">στήλη <sup><small><small>[[G9171]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I stood -- | <span class="asgreek">έστησα <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| witnesses. | <span class="asgreek">μαρτυρει <sup><small><small>[[G3140]]</small></small></sup> </span> |
-| For if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| I pass over, | <span class="asgreek">διαβώ <sup><small><small>[[G1224]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| neither | <span class="asgreek">μήδε <sup><small><small>[[G3366]]</small></small></sup> </span> |
-| shall you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| pass over | <span class="asgreek">διαβής <sup><small><small>[[G1224]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[beyond\] this hill | <span class="asgreek">βουνόν <sup><small><small>[[G1015]]</small></small></sup> <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this monument, | <span class="asgreek">στήλην <sup><small><small>[[G9171]]</small></small></sup> <span class="asgreek">ταύτην <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| for | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| evil. | <span class="asgreek">κακία <sup><small><small>[[G2549]]</small></small></sup> </span> |
+| witnesses | <big><span class="asgreek">μαρτυρεί</span></big> <sup><small><small>[[G3140]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this hill | <big><span class="asgreek">βουνός</span></big> <sup><small><small>[[G1015]]</small></small></sup> <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| monument | <big><span class="asgreek">στήλη</span></big> <sup><small><small>[[G9171]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I stood -- | <big><span class="asgreek">έστησα</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| witnesses. | <big><span class="asgreek">μαρτυρει</span></big> <sup><small><small>[[G3140]]</small></small></sup> |
+| For if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| I pass over, | <big><span class="asgreek">διαβώ</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| neither | <big><span class="asgreek">μήδε</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
+| shall you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| pass over | <big><span class="asgreek">διαβής</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[beyond\] this hill | <big><span class="asgreek">βουνόν</span></big> <sup><small><small>[[G1015]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this monument, | <big><span class="asgreek">στήλην</span></big> <sup><small><small>[[G9171]]</small></small></sup> <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| evil. | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
 [[Gen.31.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.51|<< Genesis 31:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.53|Genesis 31:53 >>]]</td></tr></table>
 
 

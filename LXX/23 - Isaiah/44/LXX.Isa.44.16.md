@@ -9,33 +9,33 @@ He burns half of it in the fire, and he roasts meat on that half. He eats the ro
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| of which | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| half of it | <span class="asgreek">ήμισυ <sup><small><small>[[G2255]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he incinerates | <span class="asgreek">κατέκαυσεν <sup><small><small>[[G2618]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| fire, | <span class="asgreek">πυρί <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| half of it | <span class="asgreek">ημίσους αυτού <sup><small><small>[[G2255]]</small></small></sup> </span> |
-| meat | <span class="asgreek">κρέας <sup><small><small>[[G2907]]</small></small></sup> </span> |
-| he ate | <span class="asgreek">έφαγεν <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| roasting | <span class="asgreek">οπτήσας <sup><small><small>[[G8541]]</small></small></sup> </span> |
-| he roasted | <span class="asgreek">ώπτησεν <sup><small><small>[[G8541]]</small></small></sup> </span> |
-| a roast, | <span class="asgreek">οπτόν <sup><small><small>[[G3702]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he was filled up. | <span class="asgreek">ενεπλήσθη <sup><small><small>[[G1705]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| heating \[himself\] | <span class="asgreek">θερμανθείς <sup><small><small>[[G2328]]</small></small></sup> </span> |
-| he said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| It is agreeable | <span class="asgreek">ηδύ <sup><small><small>[[G7620]]</small></small></sup> </span> |
-| to me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I was heated, | <span class="asgreek">εθερμάνθην <sup><small><small>[[G2328]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I beheld | <span class="asgreek">είδον <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| a fire. | <span class="asgreek">πυρ <sup><small><small>[[G4442]]</small></small></sup> </span> |
+| of which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| half of it | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he incinerates | <big><span class="asgreek">κατέκαυσεν</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| fire, | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| half of it | <big><span class="asgreek">ημίσους αυτού</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
+| meat | <big><span class="asgreek">κρέας</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
+| he ate | <big><span class="asgreek">έφαγεν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| roasting | <big><span class="asgreek">οπτήσας</span></big> <sup><small><small>[[G8541]]</small></small></sup> |
+| he roasted | <big><span class="asgreek">ώπτησεν</span></big> <sup><small><small>[[G8541]]</small></small></sup> |
+| a roast, | <big><span class="asgreek">οπτόν</span></big> <sup><small><small>[[G3702]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he was filled up. | <big><span class="asgreek">ενεπλήσθη</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| heating \[himself\] | <big><span class="asgreek">θερμανθείς</span></big> <sup><small><small>[[G2328]]</small></small></sup> |
+| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| It is agreeable | <big><span class="asgreek">ηδύ</span></big> <sup><small><small>[[G7620]]</small></small></sup> |
+| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I was heated, | <big><span class="asgreek">εθερμάνθην</span></big> <sup><small><small>[[G2328]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| a fire. | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
 [[Isa.44.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.15|<< Isaiah 44:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.17|Isaiah 44:17 >>]]</td></tr></table>
 
 

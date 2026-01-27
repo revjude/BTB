@@ -9,22 +9,22 @@ and the curtains on the other side fifteen cubits long, with three posts and thr
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[for\] the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| side | <span class="asgreek">κλίτος <sup><small><small>[[G8026]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| second | <span class="asgreek">δεύτερον <sup><small><small>[[G1208]]</small></small></sup> </span> |
-| fifteen | <span class="asgreek">δεκαπέντε <sup><small><small>[[G1178]]</small></small></sup> </span> |
-| cubits | <span class="asgreek">πηχέων <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| for the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shrouds | <span class="asgreek">ιστίων <sup><small><small>[[G7732]]</small></small></sup> </span> |
-| \[is to be\] the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| height; | <span class="asgreek">ύψος <sup><small><small>[[G5311]]</small></small></sup> </span> |
-| their posts -- | <span class="asgreek">στύλοι <sup><small><small>[[G4769]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| three, | <span class="asgreek">τρεις <sup><small><small>[[G5140]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| their bases -- | <span class="asgreek">βάσεις <sup><small><small>[[G0939]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| three. | <span class="asgreek">τρεις <sup><small><small>[[G5140]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[for\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| side | <big><span class="asgreek">κλίτος</span></big> <sup><small><small>[[G8026]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| fifteen | <big><span class="asgreek">δεκαπέντε</span></big> <sup><small><small>[[G1178]]</small></small></sup> |
+| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| for the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shrouds | <big><span class="asgreek">ιστίων</span></big> <sup><small><small>[[G7732]]</small></small></sup> |
+| \[is to be\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| height; | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
+| their posts -- | <big><span class="asgreek">στύλοι</span></big> <sup><small><small>[[G4769]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| three, | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| their bases -- | <big><span class="asgreek">βάσεις</span></big> <sup><small><small>[[G0939]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| three. | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
 [[Exod.27.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.14|<< Exodus 27:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.16|Exodus 27:16 >>]]</td></tr></table>
 
 

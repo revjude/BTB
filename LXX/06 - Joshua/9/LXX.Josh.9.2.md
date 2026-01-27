@@ -9,16 +9,16 @@ they came together to wage war against Joshua and Israel.<small><sub>**MT:**</s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they came together | <span class="asgreek">συνήλθοσαν <sup><small><small>[[G4905]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| same \[place\] | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to wage war against | <span class="asgreek">εκπολεμήσαι <sup><small><small>[[G7134]]</small></small></sup> </span> |
-| Joshua | <span class="asgreek">Ιησούν <sup><small><small>[[G2424]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| all together. | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they came together | <big><span class="asgreek">συνήλθοσαν</span></big> <sup><small><small>[[G4905]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| same \[place\] | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to wage war against | <big><span class="asgreek">εκπολεμήσαι</span></big> <sup><small><small>[[G7134]]</small></small></sup> |
+| Joshua | <big><span class="asgreek">Ιησούν</span></big> <sup><small><small>[[G2424]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| all together. | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
 [[Josh.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.1|<< Joshua 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.3|Joshua 9:3 >>]]</td></tr></table>
 
 

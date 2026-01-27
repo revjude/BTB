@@ -9,44 +9,44 @@ All the leaders of the north and all the Sidonians are there; they went down in 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| There \[are\] | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rulers | <span class="asgreek">άρχοντες <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| north, | <span class="asgreek">βορρά <sup><small><small>[[G1005]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| these, | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| commandants | <span class="asgreek">στρατηγοί <sup><small><small>[[G4755]]</small></small></sup> </span> |
-| of Assyria, | <span class="asgreek">Ασσούρ <sup><small><small>[[H0804]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| going down | <span class="asgreek">καταβαίνοντες <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \[the\] slain, | <span class="asgreek">τραυματιών <sup><small><small>[[G9470]]</small></small></sup> </span> |
-| with | <span class="asgreek">συν <sup><small><small>[[G4862]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fear | <span class="asgreek">φόβω <sup><small><small>[[G5401]]</small></small></sup> </span> |
-| of them. | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their strength | <span class="asgreek">ισχύϊ <sup><small><small>[[G2479]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| being ashamed | <span class="asgreek">αισχυνθέντες <sup><small><small>[[G0153]]</small></small></sup> </span> |
-| they sleep | <span class="asgreek">εκοιμήθησαν <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| uncircumcised | <span class="asgreek">απερίτμητοι <sup><small><small>[[G0564]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| ones slain | <span class="asgreek">τραυματιών <sup><small><small>[[G9470]]</small></small></sup> </span> |
-| of \[the\] sword; | <span class="asgreek">μαχαίρας <sup><small><small>[[G3162]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they carry away | <span class="asgreek">απήνεγκαν <sup><small><small>[[G0667]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their torment | <span class="asgreek">βάσανον <sup><small><small>[[G0931]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| going down | <span class="asgreek">καταβαινόντων <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] pit. | <span class="asgreek">βόθρον <sup><small><small>[[G6679]]</small></small></sup> </span> |
+| There \[are\] | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| north, | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| these, | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| commandants | <big><span class="asgreek">στρατηγοί</span></big> <sup><small><small>[[G4755]]</small></small></sup> |
+| of Assyria, | <big><span class="asgreek">Ασσούρ</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| going down | <big><span class="asgreek">καταβαίνοντες</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \[the\] slain, | <big><span class="asgreek">τραυματιών</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
+| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fear | <big><span class="asgreek">φόβω</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
+| of them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| being ashamed | <big><span class="asgreek">αισχυνθέντες</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
+| they sleep | <big><span class="asgreek">εκοιμήθησαν</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| uncircumcised | <big><span class="asgreek">απερίτμητοι</span></big> <sup><small><small>[[G0564]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| ones slain | <big><span class="asgreek">τραυματιών</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
+| of \[the\] sword; | <big><span class="asgreek">μαχαίρας</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they carry away | <big><span class="asgreek">απήνεγκαν</span></big> <sup><small><small>[[G0667]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their torment | <big><span class="asgreek">βάσανον</span></big> <sup><small><small>[[G0931]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| going down | <big><span class="asgreek">καταβαινόντων</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] pit. | <big><span class="asgreek">βόθρον</span></big> <sup><small><small>[[G6679]]</small></small></sup> |
 [[Ezek.32.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.29|<< Ezekiel 32:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.31|Ezekiel 32:31 >>]]</td></tr></table>
 
 

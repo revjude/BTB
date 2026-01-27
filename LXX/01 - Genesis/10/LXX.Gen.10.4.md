@@ -9,14 +9,14 @@ And the sons of Javan: Elishah, Tarshish, the Kittites, and the Rodanites.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Javan -- | <span class="asgreek">Ιωύαν <sup><small><small>[[H3125]]</small></small></sup> </span> |
-| Elisha, | <span class="asgreek">Ελισά <sup><small><small>[[G1666]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Tarshish, | <span class="asgreek">Θαρσείς <sup><small><small>[[H0948]]</small></small></sup> </span> |
-| Kittim, | <span class="asgreek">Κίτοι <sup><small><small>[[H3794]]</small></small></sup> </span> |
-| Dodanim. | <span class="asgreek">Ρόδιοι <sup><small><small>[[H1721]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Javan -- | <big><span class="asgreek">Ιωύαν</span></big> <sup><small><small>[[H3125]]</small></small></sup> |
+| Elisha, | <big><span class="asgreek">Ελισά</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Tarshish, | <big><span class="asgreek">Θαρσείς</span></big> <sup><small><small>[[H0948]]</small></small></sup> |
+| Kittim, | <big><span class="asgreek">Κίτοι</span></big> <sup><small><small>[[H3794]]</small></small></sup> |
+| Dodanim. | <big><span class="asgreek">Ρόδιοι</span></big> <sup><small><small>[[H1721]]</small></small></sup> |
 [[Gen.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.3|<< Genesis 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.5|Genesis 10:5 >>]]</td></tr></table>
 
 

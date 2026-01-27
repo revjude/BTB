@@ -9,16 +9,16 @@ Do not let the oppressed retreat in shame; may the poor and needy praise Your na
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Let not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| be turned away | <span class="asgreek">αποστραφήτω <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| \[the\] one being humbled | <span class="asgreek">τεταπεινωμένος <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| being disgraced! | <span class="asgreek">κατησχυμμένος <sup><small><small>[[G2617]]</small></small></sup> </span> |
-| \[The\] poor | <span class="asgreek">πτωχός <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| needy | <span class="asgreek">πένης <sup><small><small>[[G3993]]</small></small></sup> </span> |
-| shall praise | <span class="asgreek">αινέσουσι <sup><small><small>[[G0134]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your name. | <span class="asgreek">όνομά <sup><small><small>[[G3686]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| be turned away | <big><span class="asgreek">αποστραφήτω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| \[the\] one being humbled | <big><span class="asgreek">τεταπεινωμένος</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| being disgraced! | <big><span class="asgreek">κατησχυμμένος</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
+| \[The\] poor | <big><span class="asgreek">πτωχός</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| needy | <big><span class="asgreek">πένης</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
+| shall praise | <big><span class="asgreek">αινέσουσι</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your name. | <big><span class="asgreek">όνομά</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.74.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.20|<< Psalm 74:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.22|Psalm 74:22 >>]]</td></tr></table>
 
 

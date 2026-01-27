@@ -9,16 +9,16 @@ Then you told your servants, ‘Bring him down to me so that I can see him for m
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And you said | <span class="asgreek">είπας <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| to | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your servants, | <span class="asgreek">παισί <sup><small><small>[[G3816]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Lead | <span class="asgreek">καταγάγετε <sup><small><small>[[G2609]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me! | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will care for | <span class="asgreek">επιμελούμαι <sup><small><small>[[G1959]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And you said | <big><span class="asgreek">είπας</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| to | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your servants, | <big><span class="asgreek">παισί</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Lead | <big><span class="asgreek">καταγάγετε</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will care for | <big><span class="asgreek">επιμελούμαι</span></big> <sup><small><small>[[G1959]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.44.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.20|<< Genesis 44:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.22|Genesis 44:22 >>]]</td></tr></table>
 
 

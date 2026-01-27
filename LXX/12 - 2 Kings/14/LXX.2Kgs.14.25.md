@@ -9,38 +9,38 @@ This Jeroboam restored the boundary of Israel from Lebo-hamath to the Sea of the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| He | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| restored | <span class="asgreek">απεκατέστσε <sup><small><small>[[G0600]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| boundary | <span class="asgreek">όριον <sup><small><small>[[G3725]]</small></small></sup> </span> |
-| of Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] entrance | <span class="asgreek">εισόδου <sup><small><small>[[G1529]]</small></small></sup> </span> |
-| of Hamath | <span class="asgreek">Αιμάθ <sup><small><small>[[H2574]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sea | <span class="asgreek">θαλάσσης <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Arabah, | <span class="asgreek">άραβα <sup><small><small>[[H6160]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| saying | <span class="asgreek">ρήμα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| of Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| who | <span class="asgreek">ο <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| spoke | <span class="asgreek">ελάλησεν <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] hand | <span class="asgreek">χειρί <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| of his servant | <span class="asgreek">δούλου <sup><small><small>[[G1401]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Jonah, | <span class="asgreek">Ιωνά <sup><small><small>[[G2495]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Amittai, | <span class="asgreek">Αμαθί <sup><small><small>[[H0573]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prophet, | <span class="asgreek">προφήτου <sup><small><small>[[G4396]]</small></small></sup> </span> |
-| the \[one\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Gath-hepher. | <span class="asgreek">Γαιθεφέρ <sup><small><small>[[H1662]]</small></small></sup> </span> |
+| He | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| restored | <big><span class="asgreek">απεκατέστσε</span></big> <sup><small><small>[[G0600]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| boundary | <big><span class="asgreek">όριον</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
+| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] entrance | <big><span class="asgreek">εισόδου</span></big> <sup><small><small>[[G1529]]</small></small></sup> |
+| of Hamath | <big><span class="asgreek">Αιμάθ</span></big> <sup><small><small>[[H2574]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Arabah, | <big><span class="asgreek">άραβα</span></big> <sup><small><small>[[H6160]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| saying | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| who | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| of his servant | <big><span class="asgreek">δούλου</span></big> <sup><small><small>[[G1401]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Jonah, | <big><span class="asgreek">Ιωνά</span></big> <sup><small><small>[[G2495]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Amittai, | <big><span class="asgreek">Αμαθί</span></big> <sup><small><small>[[H0573]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prophet, | <big><span class="asgreek">προφήτου</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| the \[one\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Gath-hepher. | <big><span class="asgreek">Γαιθεφέρ</span></big> <sup><small><small>[[H1662]]</small></small></sup> |
 [[2Kgs.14.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.24|<< 2 Kings 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.26|2 Kings 14:26 >>]]</td></tr></table>
 
 

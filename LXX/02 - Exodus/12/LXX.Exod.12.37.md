@@ -16,24 +16,24 @@ The Israelites journeyed from Rameses to Succoth with about 600,000 men on foot,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| having departed | <span class="asgreek">απάραντες <sup><small><small>[[G0522]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Rameses | <span class="asgreek">Ραμεσσή <sup><small><small>[[H7486]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Succoth, | <span class="asgreek">Σοχώθ <sup><small><small>[[H5523]]</small></small></sup> </span> |
-| to \[the number of\] | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| six hundred | <span class="asgreek">εξακοσίας <sup><small><small>[[G1812]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάδας <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| footmen, | <span class="asgreek">πεζών <sup><small><small>[[G8677]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| males, | <span class="asgreek">άνδρες <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| besides | <span class="asgreek">πλήν <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| belongings, | <span class="asgreek">αποσκευής <sup><small><small>[[G6478]]</small></small></sup> </span> |
+| having departed | <big><span class="asgreek">απάραντες</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Rameses | <big><span class="asgreek">Ραμεσσή</span></big> <sup><small><small>[[H7486]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Succoth, | <big><span class="asgreek">Σοχώθ</span></big> <sup><small><small>[[H5523]]</small></small></sup> |
+| to \[the number of\] | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| six hundred | <big><span class="asgreek">εξακοσίας</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| footmen, | <big><span class="asgreek">πεζών</span></big> <sup><small><small>[[G8677]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| males, | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| besides | <big><span class="asgreek">πλήν</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| belongings, | <big><span class="asgreek">αποσκευής</span></big> <sup><small><small>[[G6478]]</small></small></sup> |
 [[Exod.12.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.36|<< Exodus 12:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.38|Exodus 12:38 >>]]</td></tr></table>
 
 

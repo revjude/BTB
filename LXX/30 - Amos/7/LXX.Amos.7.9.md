@@ -9,25 +9,25 @@ The high places of Isaac will be deserted, and the sanctuaries of Israel will be
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be obliterated | <span class="asgreek">αφανισθήσονται <sup><small><small>[[G0853]]</small></small></sup> </span> |
-| \[the\] shrines | <span class="asgreek">βωμοί <sup><small><small>[[G1041]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of laughter | <span class="asgreek">γέλωτος <sup><small><small>[[G1071]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[sites of the\] mystic rites | <span class="asgreek">τελεταί <sup><small><small>[[G9416]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| shall be made desolate. | <span class="asgreek">ερημωθήσονται <sup><small><small>[[G2049]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will rise up | <span class="asgreek">αναστήσομαι <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| against | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of Jeroboam | <span class="asgreek">Ιεροβοάμ <sup><small><small>[[H3379]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a broadsword. | <span class="asgreek">ρομφαία <sup><small><small>[[G4501]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be obliterated | <big><span class="asgreek">αφανισθήσονται</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| \[the\] shrines | <big><span class="asgreek">βωμοί</span></big> <sup><small><small>[[G1041]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of laughter | <big><span class="asgreek">γέλωτος</span></big> <sup><small><small>[[G1071]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[sites of the\] mystic rites | <big><span class="asgreek">τελεταί</span></big> <sup><small><small>[[G9416]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| shall be made desolate. | <big><span class="asgreek">ερημωθήσονται</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will rise up | <big><span class="asgreek">αναστήσομαι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of Jeroboam | <big><span class="asgreek">Ιεροβοάμ</span></big> <sup><small><small>[[H3379]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a broadsword. | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
 [[Amos.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.8|<< Amos 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.10|Amos 7:10 >>]]</td></tr></table>
 
 

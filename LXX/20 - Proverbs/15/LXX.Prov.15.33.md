@@ -9,20 +9,20 @@ The fear of the LORD is the instruction of wisdom, and humility comes before hon
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] fear | <span class="asgreek">φόβος <sup><small><small>[[G5401]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \[is\] instruction | <span class="asgreek">παιδεία <sup><small><small>[[G3809]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wisdom; | <span class="asgreek">σοφία <sup><small><small>[[G4678]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sum | <span class="asgreek">αρχή <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| of glory | <span class="asgreek">δόξης <sup><small><small>[[G1391]]</small></small></sup> </span> |
-| shall be \[the\] response | <span class="asgreek">αποκριθήσεται <sup><small><small>[[G0611]]</small></small></sup> </span> |
-| for it. | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| go before | <span class="asgreek">προπορεύεται <sup><small><small>[[G4313]]</small></small></sup> </span> |
-| But | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[the\] humble | <span class="asgreek">ταπεινοίς <sup><small><small>[[G5011]]</small></small></sup> </span> |
-| glory; | <span class="asgreek">δόξα <sup><small><small>[[G1391]]</small></small></sup> </span> |
+| \[The\] fear | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[is\] instruction | <big><span class="asgreek">παιδεία</span></big> <sup><small><small>[[G3809]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wisdom; | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sum | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| of glory | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
+| shall be \[the\] response | <big><span class="asgreek">αποκριθήσεται</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
+| for it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| go before | <big><span class="asgreek">προπορεύεται</span></big> <sup><small><small>[[G4313]]</small></small></sup> |
+| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[the\] humble | <big><span class="asgreek">ταπεινοίς</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
+| glory; | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
 [[Prov.15.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.32|<< Proverbs 15:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.1|Proverbs 16:1 >>]]</td></tr></table>
 
 

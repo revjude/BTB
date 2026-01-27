@@ -9,17 +9,17 @@ the Shemidaite clan from Shemida, and the Hepherite clan from Hepher.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Shemida, | <span class="asgreek">Σαμαέρ <sup><small><small>[[H8061]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Shemidaites; | <span class="asgreek">Σαμαερί <sup><small><small>[[H8061]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hepher, | <span class="asgreek">Οφέρ <sup><small><small>[[H2660b]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hepherites. | <span class="asgreek">Οφερί <sup><small><small>[[H2662]]</small></small></sup> </span> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Shemida, | <big><span class="asgreek">Σαμαέρ</span></big> <sup><small><small>[[H8061]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Shemidaites; | <big><span class="asgreek">Σαμαερί</span></big> <sup><small><small>[[H8061]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hepher, | <big><span class="asgreek">Οφέρ</span></big> <sup><small><small>[[H2660b]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hepherites. | <big><span class="asgreek">Οφερί</span></big> <sup><small><small>[[H2662]]</small></small></sup> |
 [[Num.26.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.31|<< Numbers 26:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.33|Numbers 26:33 >>]]</td></tr></table>
 
 

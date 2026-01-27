@@ -9,18 +9,18 @@ There are no signs for us to see. There is no longer any prophet. And none of us
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our signs | <span class="asgreek">σημεία <sup><small><small>[[G4592]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| We did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| see | <span class="asgreek">είδομεν <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| there is not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| yet | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| a prophet; | <span class="asgreek">προφήτης <sup><small><small>[[G4396]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[one of\] us | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| does not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| know | <span class="asgreek">γνώσεται <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| any longer. | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our signs | <big><span class="asgreek">σημεία</span></big> <sup><small><small>[[G4592]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| We did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| see | <big><span class="asgreek">είδομεν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| there is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| a prophet; | <big><span class="asgreek">προφήτης</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[one of\] us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| does not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| know | <big><span class="asgreek">γνώσεται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| any longer. | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
 [[Ps.74.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.8|<< Psalm 74:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.10|Psalm 74:10 >>]]</td></tr></table>
 
 

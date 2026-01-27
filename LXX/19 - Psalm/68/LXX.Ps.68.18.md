@@ -13,19 +13,19 @@ You have ascended on high; You have led captives away. You have received gifts f
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You ascended | <span class="asgreek">ανέβης <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] height; | <span class="asgreek">ύψος <sup><small><small>[[G5311]]</small></small></sup> </span> |
-| you captured | <span class="asgreek">ηχμαλώτευσας <sup><small><small>[[G0162]]</small></small></sup> </span> |
-| captivity; | <span class="asgreek">αιχμαλωσίαν <sup><small><small>[[G0161]]</small></small></sup> </span> |
-| you received | <span class="asgreek">έλαβες <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| gifts | <span class="asgreek">δόματα <sup><small><small>[[G1390]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| men; | <span class="asgreek">ανθρώποις <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| for even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| \[the\] ones resisting persuasion | <span class="asgreek">απειθούντες <sup><small><small>[[G0544]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to encamp among | <span class="asgreek">κατασκηνώσαι <sup><small><small>[[G2681]]</small></small></sup> </span> |
+| You ascended | <big><span class="asgreek">ανέβης</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] height; | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
+| you captured | <big><span class="asgreek">ηχμαλώτευσας</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
+| captivity; | <big><span class="asgreek">αιχμαλωσίαν</span></big> <sup><small><small>[[G0161]]</small></small></sup> |
+| you received | <big><span class="asgreek">έλαβες</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| gifts | <big><span class="asgreek">δόματα</span></big> <sup><small><small>[[G1390]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| men; | <big><span class="asgreek">ανθρώποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| for even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| \[the\] ones resisting persuasion | <big><span class="asgreek">απειθούντες</span></big> <sup><small><small>[[G0544]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to encamp among | <big><span class="asgreek">κατασκηνώσαι</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
 [[Ps.68.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.17|<< Psalm 68:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.19|Psalm 68:19 >>]]</td></tr></table>
 
 

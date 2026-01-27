@@ -9,22 +9,22 @@ I clothed you in embroidered cloth and gave you sandals of fine leather. I wrapp
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I clothed | <span class="asgreek">ενέδυσά <sup><small><small>[[G1746]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in colored \[garments\], | <span class="asgreek">ποικίλα <sup><small><small>[[G4164]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| tied on | <span class="asgreek">υπέδησά <sup><small><small>[[G5265]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| blue \[cloth\]; | <span class="asgreek">υάκινθον <sup><small><small>[[G5192]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| around | <span class="asgreek">έζωσά <sup><small><small>[[G2224]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| linen | <span class="asgreek">βύσσω <sup><small><small>[[G1040]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| put around | <span class="asgreek">περιέβαλόν <sup><small><small>[[G4016]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a braided \[belt\], | <span class="asgreek">τριχάπτω <sup><small><small>[[G9498]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I clothed | <big><span class="asgreek">ενέδυσά</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in colored \[garments\], | <big><span class="asgreek">ποικίλα</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| tied on | <big><span class="asgreek">υπέδησά</span></big> <sup><small><small>[[G5265]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| blue \[cloth\]; | <big><span class="asgreek">υάκινθον</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| around | <big><span class="asgreek">έζωσά</span></big> <sup><small><small>[[G2224]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| linen | <big><span class="asgreek">βύσσω</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| put around | <big><span class="asgreek">περιέβαλόν</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a braided \[belt\], | <big><span class="asgreek">τριχάπτω</span></big> <sup><small><small>[[G9498]]</small></small></sup> |
 [[Ezek.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.9|<< Ezekiel 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.11|Ezekiel 16:11 >>]]</td></tr></table>
 
 

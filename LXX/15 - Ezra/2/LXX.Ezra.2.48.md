@@ -9,12 +9,12 @@ the descendants of Rezin, the descendants of Nekoda, the descendants of Gazzam,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Rezin, | <span class="asgreek">Ρασών <sup><small><small>[[H7526]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Nekoda, | <span class="asgreek">Νεκωδά <sup><small><small>[[H5353]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Gazzam, | <span class="asgreek">Γαζάμ <sup><small><small>[[H1502]]</small></small></sup> </span> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Rezin, | <big><span class="asgreek">Ρασών</span></big> <sup><small><small>[[H7526]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Nekoda, | <big><span class="asgreek">Νεκωδά</span></big> <sup><small><small>[[H5353]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Gazzam, | <big><span class="asgreek">Γαζάμ</span></big> <sup><small><small>[[H1502]]</small></small></sup> |
 [[Ezra.2.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.47|<< Ezra 2:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.49|Ezra 2:49 >>]]</td></tr></table>
 
 

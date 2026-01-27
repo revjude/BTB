@@ -9,25 +9,25 @@ Then the jealousy of Ephraim will depart, and the adversaries of Judah will be c
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be removed | <span class="asgreek">αφαιρεθήσεται <sup><small><small>[[G0851]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| jealousy | <span class="asgreek">ζήλος <sup><small><small>[[G2205]]</small></small></sup> </span> |
-| of Ephraim | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| enemies | <span class="asgreek">εχθροί <sup><small><small>[[G2190]]</small></small></sup> </span> |
-| of Judah | <span class="asgreek">Ιούδα <sup><small><small>[[G2448]]</small></small></sup> </span> |
-| shall be destroyed. | <span class="asgreek">απολούνται <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| Ephraim | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be jealous | <span class="asgreek">ζηλώσει <sup><small><small>[[G2206]]</small></small></sup> </span> |
-| of Judah, | <span class="asgreek">Ιούδαν <sup><small><small>[[G2448]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Judah | <span class="asgreek">Ιούδας <sup><small><small>[[G2448]]</small></small></sup> </span> |
-| will not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| afflict | <span class="asgreek">θλίψει <sup><small><small>[[G2346]]</small></small></sup> </span> |
-| Ephraim. | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be removed | <big><span class="asgreek">αφαιρεθήσεται</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| jealousy | <big><span class="asgreek">ζήλος</span></big> <sup><small><small>[[G2205]]</small></small></sup> |
+| of Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| shall be destroyed. | <big><span class="asgreek">απολούνται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be jealous | <big><span class="asgreek">ζηλώσει</span></big> <sup><small><small>[[G2206]]</small></small></sup> |
+| of Judah, | <big><span class="asgreek">Ιούδαν</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| afflict | <big><span class="asgreek">θλίψει</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
+| Ephraim. | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
 [[Isa.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.12|<< Isaiah 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.14|Isaiah 11:14 >>]]</td></tr></table>
 
 

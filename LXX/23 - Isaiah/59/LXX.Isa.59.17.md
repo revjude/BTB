@@ -13,25 +13,25 @@ He put on righteousness like a breastplate, and the helmet of salvation on His h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he clothed himself \[with\] | <span class="asgreek">ενεδύσατο <sup><small><small>[[G1746]]</small></small></sup> </span> |
-| righteousness | <span class="asgreek">δικαιοσύνην <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a chest \[plate\]; | <span class="asgreek">θώρακα <sup><small><small>[[G2382]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he put | <span class="asgreek">περιέθετο <sup><small><small>[[G4060]]</small></small></sup> </span> |
-| a helmet | <span class="asgreek">περικεφαλαίαν <sup><small><small>[[G4030]]</small></small></sup> </span> |
-| of deliverance | <span class="asgreek">σωτηρίου <sup><small><small>[[G4992]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[his\]\<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| head. | <span class="asgreek">κεφαλής <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he put around himself | <span class="asgreek">περιεβάλετο <sup><small><small>[[G4016]]</small></small></sup> </span> |
-| a cloak | <span class="asgreek">ιμάτιον <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| of vengeance -- | <span class="asgreek">εκδικήσεως <sup><small><small>[[G1557]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| a wrap-around garment, | <span class="asgreek">περιβόλαιον <sup><small><small>[[G4018]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he clothed himself \[with\] | <big><span class="asgreek">ενεδύσατο</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
+| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a chest \[plate\]; | <big><span class="asgreek">θώρακα</span></big> <sup><small><small>[[G2382]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he put | <big><span class="asgreek">περιέθετο</span></big> <sup><small><small>[[G4060]]</small></small></sup> |
+| a helmet | <big><span class="asgreek">περικεφαλαίαν</span></big> <sup><small><small>[[G4030]]</small></small></sup> |
+| of deliverance | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[his\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| head. | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he put around himself | <big><span class="asgreek">περιεβάλετο</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
+| a cloak | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| of vengeance -- | <big><span class="asgreek">εκδικήσεως</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| a wrap-around garment, | <big><span class="asgreek">περιβόλαιον</span></big> <sup><small><small>[[G4018]]</small></small></sup> |
 [[Isa.59.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.16|<< Isaiah 59:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.18|Isaiah 59:18 >>]]</td></tr></table>
 
 

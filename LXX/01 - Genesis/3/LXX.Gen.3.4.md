@@ -9,15 +9,15 @@ And the serpent said unto the woman, Ye shall not surely die:
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| serpent | <span class="asgreek">όφις <sup><small><small>[[G3789]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| woman, | <span class="asgreek">γυναικί <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| Not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| to death | <span class="asgreek">θανάτω <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| will you die. | <span class="asgreek">αποθανείσθε <sup><small><small>[[G0599]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| serpent | <big><span class="asgreek">όφις</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| woman, | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| Not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| will you die. | <big><span class="asgreek">αποθανείσθε</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
 [[Gen.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.3|<< Genesis 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.5|Genesis 3:5 >>]]</td></tr></table>
 
 

@@ -12,40 +12,40 @@ In that day the LORD will take His sharp, great, and mighty sword, and bring jud
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| that day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">εκείνη <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| will bring on | <span class="asgreek">επάξει <sup><small><small>[[G1863]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sword | <span class="asgreek">μάχαιραν <sup><small><small>[[G3162]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| holy | <span class="asgreek">αγίαν <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| great | <span class="asgreek">μεγάλην <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| strong | <span class="asgreek">ισχυράν <sup><small><small>[[G2478]]</small></small></sup> </span> |
-| against | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dragon, | <span class="asgreek">δράκοντα <sup><small><small>[[G1404]]</small></small></sup> </span> |
-| serpent | <span class="asgreek">όφιν <sup><small><small>[[G3789]]</small></small></sup> </span> |
-| \[the\] fleeing | <span class="asgreek">φεύγοντα <sup><small><small>[[G5343]]</small></small></sup> </span> |
-| against | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dragon, | <span class="asgreek">δράκοντα <sup><small><small>[[G1404]]</small></small></sup> </span> |
-| serpent | <span class="asgreek">όφιν <sup><small><small>[[G3789]]</small></small></sup> </span> |
-| \[the\] crooked | <span class="asgreek">σκολιόν <sup><small><small>[[G4646]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he will do away with | <span class="asgreek">ανελεί <sup><small><small>[[G0337]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dragon, | <span class="asgreek">δράκοντα <sup><small><small>[[G1404]]</small></small></sup> </span> |
-| the one | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sea. | <span class="asgreek">θαλάσση <sup><small><small>[[G2281]]</small></small></sup> </span> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| will bring on | <big><span class="asgreek">επάξει</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sword | <big><span class="asgreek">μάχαιραν</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| holy | <big><span class="asgreek">αγίαν</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| strong | <big><span class="asgreek">ισχυράν</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
+| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dragon, | <big><span class="asgreek">δράκοντα</span></big> <sup><small><small>[[G1404]]</small></small></sup> |
+| serpent | <big><span class="asgreek">όφιν</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
+| \[the\] fleeing | <big><span class="asgreek">φεύγοντα</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
+| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dragon, | <big><span class="asgreek">δράκοντα</span></big> <sup><small><small>[[G1404]]</small></small></sup> |
+| serpent | <big><span class="asgreek">όφιν</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
+| \[the\] crooked | <big><span class="asgreek">σκολιόν</span></big> <sup><small><small>[[G4646]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he will do away with | <big><span class="asgreek">ανελεί</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dragon, | <big><span class="asgreek">δράκοντα</span></big> <sup><small><small>[[G1404]]</small></small></sup> |
+| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sea. | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
 [[Isa.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.21|<< Isaiah 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.2|Isaiah 27:2 >>]]</td></tr></table>
 
 

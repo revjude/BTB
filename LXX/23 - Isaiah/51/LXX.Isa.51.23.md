@@ -9,36 +9,36 @@ I will place it in the hands of your tormentors, who told you: ‘Lie down, so w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I give | <span class="asgreek">δώσω <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hand | <span class="asgreek">χείρας <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wronging | <span class="asgreek">αδικησάντων <sup><small><small>[[G0091]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| humbling | <span class="asgreek">ταπεινωσάντων <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| you; | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] ones who | <span class="asgreek">οι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπαν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your soul, | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Bow! | <span class="asgreek">κύψον <sup><small><small>[[G2955]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| we should go by. | <span class="asgreek">παρέλθωμεν <sup><small><small>[[G3928]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you put | <span class="asgreek">έθηκας <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| equal | <span class="asgreek">ίσα <sup><small><small>[[G2470]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ground | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in your midst | <span class="asgreek">μέσα <sup><small><small>[[G3319]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| outside | <span class="asgreek">έξω <sup><small><small>[[G1854]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| coming near. | <span class="asgreek">παραπορευομένοις <sup><small><small>[[G3899]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I give | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hand | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wronging | <big><span class="asgreek">αδικησάντων</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| humbling | <big><span class="asgreek">ταπεινωσάντων</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your soul, | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Bow! | <big><span class="asgreek">κύψον</span></big> <sup><small><small>[[G2955]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| we should go by. | <big><span class="asgreek">παρέλθωμεν</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you put | <big><span class="asgreek">έθηκας</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| equal | <big><span class="asgreek">ίσα</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ground | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in your midst | <big><span class="asgreek">μέσα</span></big> <sup><small><small>[[G3319]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| coming near. | <big><span class="asgreek">παραπορευομένοις</span></big> <sup><small><small>[[G3899]]</small></small></sup> |
 [[Isa.51.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.22|<< Isaiah 51:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.1|Isaiah 52:1 >>]]</td></tr></table>
 
 

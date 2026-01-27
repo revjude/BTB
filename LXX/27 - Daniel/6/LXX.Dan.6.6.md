@@ -9,23 +9,23 @@ So the administrators and satraps went together to the king and said, “O King 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tacticians, | <span class="asgreek">τακτικοί <sup><small><small>[[G9395]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| satraps | <span class="asgreek">σατράπαι <sup><small><small>[[G9059]]</small></small></sup> </span> |
-| stood beside | <span class="asgreek">παρέστησαν <sup><small><small>[[G3936]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king. | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they said | <span class="asgreek">είπαν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O king Darius, | <span class="asgreek">Δαρείε <sup><small><small>[[H1868]]</small></small></sup> <span class="asgreek">βασιλεύ <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eons | <span class="asgreek">αιώνας <sup><small><small>[[G0165]]</small></small></sup> </span> |
-| live | <span class="asgreek">ζήθι <sup><small><small>[[G2198]]</small></small></sup> </span> |
+| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tacticians, | <big><span class="asgreek">τακτικοί</span></big> <sup><small><small>[[G9395]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| satraps | <big><span class="asgreek">σατράπαι</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
+| stood beside | <big><span class="asgreek">παρέστησαν</span></big> <sup><small><small>[[G3936]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king. | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they said | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O king Darius, | <big><span class="asgreek">Δαρείε</span></big> <sup><small><small>[[H1868]]</small></small></sup> <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eons | <big><span class="asgreek">αιώνας</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| live | <big><span class="asgreek">ζήθι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
 [[Dan.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.5|<< Daniel 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.7|Daniel 6:7 >>]]</td></tr></table>
 
 

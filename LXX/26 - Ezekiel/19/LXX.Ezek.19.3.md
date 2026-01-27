@@ -9,20 +9,20 @@ She brought up one of her cubs, and he became a young lion. After learning to te
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| leaped | <span class="asgreek">απεπήδησεν <sup><small><small>[[G6466]]</small></small></sup> </span> |
-| one | <span class="asgreek">εις <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of her cubs | <span class="asgreek">σκύμνων <sup><small><small>[[G9121]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a lion | <span class="asgreek">λέων <sup><small><small>[[G3023]]</small></small></sup> </span> |
-| he became | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| learned | <span class="asgreek">έμαθε <sup><small><small>[[G3129]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to seize by force; | <span class="asgreek">αρπάζειν <sup><small><small>[[G0726]]</small></small></sup> </span> |
-| \[the\] prey | <span class="asgreek">αρπάγματα <sup><small><small>[[G6540]]</small></small></sup> </span> |
-| of men | <span class="asgreek">ανθρώπους <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| he ate | <span class="asgreek">έφαγε <sup><small><small>[[G2068]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| leaped | <big><span class="asgreek">απεπήδησεν</span></big> <sup><small><small>[[G6466]]</small></small></sup> |
+| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of her cubs | <big><span class="asgreek">σκύμνων</span></big> <sup><small><small>[[G9121]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| he became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| learned | <big><span class="asgreek">έμαθε</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to seize by force; | <big><span class="asgreek">αρπάζειν</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
+| \[the\] prey | <big><span class="asgreek">αρπάγματα</span></big> <sup><small><small>[[G6540]]</small></small></sup> |
+| of men | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| he ate | <big><span class="asgreek">έφαγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
 [[Ezek.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.2|<< Ezekiel 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.4|Ezekiel 19:4 >>]]</td></tr></table>
 
 

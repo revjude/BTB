@@ -9,25 +9,25 @@ But I will strip Esau bare; I will uncover his hiding places, and he will be una
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| dragged down | <span class="asgreek">κατέσυρα <sup><small><small>[[G2694]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Esau; | <span class="asgreek">Ησαύ <sup><small><small>[[G2269]]</small></small></sup> </span> |
-| I uncovered | <span class="asgreek">ανεκάλυψα <sup><small><small>[[G0343]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their hidden \[things\]; | <span class="asgreek">κρυπτά <sup><small><small>[[G2927]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to hide | <span class="asgreek">κρυβήναι <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall they be able | <span class="asgreek">δύνωνται <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| they were destroyed | <span class="asgreek">ώλοντο <sup><small><small>[[G8491]]</small></small></sup> </span> |
-| by | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| \[the\] hand | <span class="asgreek">χείρα <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| of his brother, | <span class="asgreek">αδελφού <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| his neighbor; | <span class="asgreek">γείτονος <sup><small><small>[[G1069]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he is not. | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| dragged down | <big><span class="asgreek">κατέσυρα</span></big> <sup><small><small>[[G2694]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Esau; | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
+| I uncovered | <big><span class="asgreek">ανεκάλυψα</span></big> <sup><small><small>[[G0343]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their hidden \[things\]; | <big><span class="asgreek">κρυπτά</span></big> <sup><small><small>[[G2927]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to hide | <big><span class="asgreek">κρυβήναι</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall they be able | <big><span class="asgreek">δύνωνται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| they were destroyed | <big><span class="asgreek">ώλοντο</span></big> <sup><small><small>[[G8491]]</small></small></sup> |
+| by | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| \[the\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| of his brother, | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| his neighbor; | <big><span class="asgreek">γείτονος</span></big> <sup><small><small>[[G1069]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he is not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Jer.49.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.9|<< Jeremiah 49:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.11|Jeremiah 49:11 >>]]</td></tr></table>
 
 

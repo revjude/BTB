@@ -9,46 +9,46 @@ The weight of the gold earrings he had requested was 1,700 shekels, in addition 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| was | <span class="asgreek">εγενήθη <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| weight | <span class="asgreek">σταθμός <sup><small><small>[[G9150]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ear-rings | <span class="asgreek">ενωτίων <sup><small><small>[[G7278]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of gold | <span class="asgreek">χρυσών <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| which | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he asked for -- | <span class="asgreek">ητήσατο <sup><small><small>[[G0154]]</small></small></sup> </span> |
-| shekels | <span class="asgreek">σίκλοι <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| a thousand | <span class="asgreek">χίλιοι <sup><small><small>[[G5507]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| seven hundred | <span class="asgreek">επτακόσιοι <sup><small><small>[[G7485]]</small></small></sup> </span> |
-| of gold, | <span class="asgreek">χρυσοί <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| besides | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ornaments | <span class="asgreek">σιρώνων <sup><small><small>[[G9082]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| crescents, | <span class="asgreek">μηνίσκων <sup><small><small>[[G8319]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wrap around \[garments\] | <span class="asgreek">περιβολαίων <sup><small><small>[[G4018]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of purple, | <span class="asgreek">πορφυρίδων <sup><small><small>[[G8869]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| kings | <span class="asgreek">βασιλεύσι <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Midian, | <span class="asgreek">Μαδιάμ <sup><small><small>[[G3099]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| besides | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| collars | <span class="asgreek">κλοιών <sup><small><small>[[G8027]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| necks | <span class="asgreek">τραχήλοις <sup><small><small>[[G5137]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of their camels. | <span class="asgreek">καμήλων <sup><small><small>[[G2574]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| was | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| weight | <big><span class="asgreek">σταθμός</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ear-rings | <big><span class="asgreek">ενωτίων</span></big> <sup><small><small>[[G7278]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of gold | <big><span class="asgreek">χρυσών</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he asked for -- | <big><span class="asgreek">ητήσατο</span></big> <sup><small><small>[[G0154]]</small></small></sup> |
+| shekels | <big><span class="asgreek">σίκλοι</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| a thousand | <big><span class="asgreek">χίλιοι</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| seven hundred | <big><span class="asgreek">επτακόσιοι</span></big> <sup><small><small>[[G7485]]</small></small></sup> |
+| of gold, | <big><span class="asgreek">χρυσοί</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ornaments | <big><span class="asgreek">σιρώνων</span></big> <sup><small><small>[[G9082]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| crescents, | <big><span class="asgreek">μηνίσκων</span></big> <sup><small><small>[[G8319]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wrap around \[garments\] | <big><span class="asgreek">περιβολαίων</span></big> <sup><small><small>[[G4018]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of purple, | <big><span class="asgreek">πορφυρίδων</span></big> <sup><small><small>[[G8869]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| kings | <big><span class="asgreek">βασιλεύσι</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Midian, | <big><span class="asgreek">Μαδιάμ</span></big> <sup><small><small>[[G3099]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| collars | <big><span class="asgreek">κλοιών</span></big> <sup><small><small>[[G8027]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| necks | <big><span class="asgreek">τραχήλοις</span></big> <sup><small><small>[[G5137]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of their camels. | <big><span class="asgreek">καμήλων</span></big> <sup><small><small>[[G2574]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Judg.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.25|<< Judges 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.27|Judges 8:27 >>]]</td></tr></table>
 
 

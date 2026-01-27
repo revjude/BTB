@@ -12,18 +12,18 @@ You must use honest scales, a just ephah, and a just bath.<small><sub>**MT:**</
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| yoke \[balance scale\] | <span class="asgreek">ζυγόν <sup><small><small>[[G2218]]</small></small></sup> </span> |
-| a just | <span class="asgreek">δίκαιον <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| measure | <span class="asgreek">μέτρον <sup><small><small>[[G3358]]</small></small></sup> </span> |
-| a just | <span class="asgreek">δίκαιον <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| choenix \[measure\] | <span class="asgreek">χοίνιξ <sup><small><small>[[G5518]]</small></small></sup> </span> |
-| a just | <span class="asgreek">δίκαια <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| There shall be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to you | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[for your\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| measure. | <span class="asgreek">μέτρου <sup><small><small>[[G3358]]</small></small></sup> </span> |
+| yoke \[balance scale\] | <big><span class="asgreek">ζυγόν</span></big> <sup><small><small>[[G2218]]</small></small></sup> |
+| a just | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| measure | <big><span class="asgreek">μέτρον</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
+| a just | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| choenix \[measure\] | <big><span class="asgreek">χοίνιξ</span></big> <sup><small><small>[[G5518]]</small></small></sup> |
+| a just | <big><span class="asgreek">δίκαια</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| There shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[for your\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| measure. | <big><span class="asgreek">μέτρου</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
 [[Ezek.45.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.9|<< Ezekiel 45:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.11|Ezekiel 45:11 >>]]</td></tr></table>
 
 

@@ -9,18 +9,18 @@ From there they traveled to Gudgodah, and from Gudgodah to Jotbathah, a land wit
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| From there | <span class="asgreek">εκείθεν <sup><small><small>[[G1564]]</small></small></sup> </span> |
-| they departed | <span class="asgreek">απήραν <sup><small><small>[[G0522]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Gudgodah; | <span class="asgreek">Γαδγάδ <sup><small><small>[[H1412]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| Gudgodah | <span class="asgreek">Γαδγάδ <sup><small><small>[[H1412]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Jobath, | <span class="asgreek">Ετεβαθά <sup><small><small>[[H3193]]</small></small></sup> </span> |
-| a land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of rushing streams | <span class="asgreek">χείμαρροι <sup><small><small>[[G5493]]</small></small></sup> </span> |
-| of waters. | <span class="asgreek">υδάτων <sup><small><small>[[G5204]]</small></small></sup> </span> |
+| From there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
+| they departed | <big><span class="asgreek">απήραν</span></big> <sup><small><small>[[G0522]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Gudgodah; | <big><span class="asgreek">Γαδγάδ</span></big> <sup><small><small>[[H1412]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| Gudgodah | <big><span class="asgreek">Γαδγάδ</span></big> <sup><small><small>[[H1412]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Jobath, | <big><span class="asgreek">Ετεβαθά</span></big> <sup><small><small>[[H3193]]</small></small></sup> |
+| a land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of rushing streams | <big><span class="asgreek">χείμαρροι</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
+| of waters. | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
 [[Deut.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.6|<< Deuteronomy 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.8|Deuteronomy 10:8 >>]]</td></tr></table>
 
 

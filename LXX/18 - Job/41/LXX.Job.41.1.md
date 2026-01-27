@@ -12,14 +12,14 @@ Canst thou draw out leviathan with an hook? or his tongue with a cord [which] th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And shall you lead | <span class="asgreek">άξεις <sup><small><small>[[G0071]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[the\] dragon | <span class="asgreek">δράκοντα <sup><small><small>[[G1404]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a hook, | <span class="asgreek">αγκίστρω <sup><small><small>[[G0044]]</small></small></sup> </span> |
-| and put | <span class="asgreek">περιθήσεις <sup><small><small>[[G4060]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| a halter | <span class="asgreek">φορβέαν <sup><small><small>[[G9657]]</small></small></sup> </span> |
-| around | <span class="asgreek">περί <sup><small><small>[[G4012]]</small></small></sup> </span> |
-| his nose? | <span class="asgreek">ρίνα <sup><small><small>[[G9027]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And shall you lead | <big><span class="asgreek">άξεις</span></big> <sup><small><small>[[G0071]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[the\] dragon | <big><span class="asgreek">δράκοντα</span></big> <sup><small><small>[[G1404]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a hook, | <big><span class="asgreek">αγκίστρω</span></big> <sup><small><small>[[G0044]]</small></small></sup> |
+| and put | <big><span class="asgreek">περιθήσεις</span></big> <sup><small><small>[[G4060]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| a halter | <big><span class="asgreek">φορβέαν</span></big> <sup><small><small>[[G9657]]</small></small></sup> |
+| around | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
+| his nose? | <big><span class="asgreek">ρίνα</span></big> <sup><small><small>[[G9027]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.41.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.24|<< Job 40:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.2|Job 41:2 >>]]</td></tr></table>
 
 

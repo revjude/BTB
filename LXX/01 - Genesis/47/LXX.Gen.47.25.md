@@ -9,20 +9,20 @@ And they said, Thou hast saved our lives: let us find grace in the sight of my l
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they said, | <span class="asgreek">είπαν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| You have delivered | <span class="asgreek">σέσωκας <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| us; | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| we found | <span class="asgreek">εύρομεν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| favor | <span class="asgreek">χάριν <sup><small><small>[[G5485]]</small></small></sup> </span> |
-| before | <span class="asgreek">εναντίον <sup><small><small>[[G1726]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our master, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we will be | <span class="asgreek">εσόμεθα <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| servants | <span class="asgreek">παίδες <sup><small><small>[[G3816]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Pharaoh. | <span class="asgreek">Φαραώ <sup><small><small>[[G5328]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| You have delivered | <big><span class="asgreek">σέσωκας</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| us; | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| we found | <big><span class="asgreek">εύρομεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
+| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our master, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we will be | <big><span class="asgreek">εσόμεθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| servants | <big><span class="asgreek">παίδες</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Pharaoh. | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
 [[Gen.47.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.24|<< Genesis 47:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.26|Genesis 47:26 >>]]</td></tr></table>
 
 

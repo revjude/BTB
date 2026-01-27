@@ -9,16 +9,16 @@ Whoever is slothful in his work is brother to him who destroys.<small><sub>**MT
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| repairing | <span class="asgreek">ιώμενος <sup><small><small>[[G2390]]</small></small></sup> </span> |
-| himself | <span class="asgreek">εαυτόν <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his works | <span class="asgreek">έργοις <sup><small><small>[[G2041]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| is brother | <span class="asgreek">αδελφός <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| of the one | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| laying himself waste. | <span class="asgreek">λυμαινομένου <sup><small><small>[[G3075]]</small></small></sup> <span class="asgreek">εαυτόν <sup><small><small>[[G1438]]</small></small></sup> </span> |
+| \[The\] one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| repairing | <big><span class="asgreek">ιώμενος</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
+| himself | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his works | <big><span class="asgreek">έργοις</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| of the one | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| laying himself waste. | <big><span class="asgreek">λυμαινομένου</span></big> <sup><small><small>[[G3075]]</small></small></sup> <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
 [[Prov.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.8|<< Proverbs 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.10|Proverbs 18:10 >>]]</td></tr></table>
 
 

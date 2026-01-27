@@ -13,47 +13,47 @@ And she gave birth to a son, and Moses named him Gershom, saying, “I have beco
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] womb | <span class="asgreek">γαστρί <sup><small><small>[[G1064]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| conceiving | <span class="asgreek">λαβούσα <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| woman | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| bore | <span class="asgreek">έτεκεν <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| a son, | <span class="asgreek">υιόν <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Moses named | <span class="asgreek">επωνόμασε <sup><small><small>[[G2028]]</small></small></sup> <span class="asgreek">Μωυσής <sup><small><small>[[G3475]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his name | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Gershom, | <span class="asgreek">Γηρσάμ <sup><small><small>[[H1647]]</small></small></sup> </span> |
-| saying | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| that, | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I am a sojourner | <span class="asgreek">πάροικός <sup><small><small>[[G3941]]</small></small></sup> <span class="asgreek">ειμι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| an alien | <span class="asgreek">αλλοτρία <sup><small><small>[[G0245]]</small></small></sup> </span> |
-| And still again | <span class="asgreek">ετι <sup><small><small>[[G2089]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| conceiving, | <span class="asgreek">συλλαβούσα <sup><small><small>[[G4815]]</small></small></sup> </span> |
-| she bore | <span class="asgreek">έτεκεν <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόν <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| a second | <span class="asgreek">δεύτερον <sup><small><small>[[G1208]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he called | <span class="asgreek">εκάλεσε <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his name | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Eliezer, | <span class="asgreek">Ελιέζερ <sup><small><small>[[G1663]]</small></small></sup> </span> |
-| saying | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| that, | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of my father, | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| my helper, | <span class="asgreek">βοηθός <sup><small><small>[[G0998]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| rescued | <span class="asgreek">ερρύσατό <sup><small><small>[[G4506]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] hand | <span class="asgreek">χειρός <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| of Pharaoh. | <span class="asgreek">Φαραω <sup><small><small>[[G5328]]</small></small></sup> </span> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] womb | <big><span class="asgreek">γαστρί</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| conceiving | <big><span class="asgreek">λαβούσα</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| a son, | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Moses named | <big><span class="asgreek">επωνόμασε</span></big> <sup><small><small>[[G2028]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Gershom, | <big><span class="asgreek">Γηρσάμ</span></big> <sup><small><small>[[H1647]]</small></small></sup> |
+| saying | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I am a sojourner | <big><span class="asgreek">πάροικός</span></big> <sup><small><small>[[G3941]]</small></small></sup> <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| an alien | <big><span class="asgreek">αλλοτρία</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| And still again | <big><span class="asgreek">ετι</span></big> <sup><small><small>[[G2089]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| conceiving, | <big><span class="asgreek">συλλαβούσα</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
+| she bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόν</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| a second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he called | <big><span class="asgreek">εκάλεσε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Eliezer, | <big><span class="asgreek">Ελιέζερ</span></big> <sup><small><small>[[G1663]]</small></small></sup> |
+| saying | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of my father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| my helper, | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| rescued | <big><span class="asgreek">ερρύσατό</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| of Pharaoh. | <big><span class="asgreek">Φαραω</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
 [[Exod.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.21|<< Exodus 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.23|Exodus 2:23 >>]]</td></tr></table>
 
 

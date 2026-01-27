@@ -9,29 +9,29 @@ But the Arameans fled before Israel, and David killed seven hundred charioteers 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Syria fled | <span class="asgreek">έφυγε <sup><small><small>[[G5343]]</small></small></sup> <span class="asgreek">Συρία <sup><small><small>[[G4947]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] face | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of Israel. | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| David killed | <span class="asgreek">απέκτεινε <sup><small><small>[[G0615]]</small></small></sup> <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| of the one from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Syria -- | <span class="asgreek">Συρίας <sup><small><small>[[G4947]]</small></small></sup> </span> |
-| seven hundred | <span class="asgreek">επτακόσια <sup><small><small>[[G7485]]</small></small></sup> </span> |
-| chariots, | <span class="asgreek">άρματα <sup><small><small>[[G0716]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| forty | <span class="asgreek">τεσσαράκοντα <sup><small><small>[[G5062]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάδας <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| horsemen. | <span class="asgreek">ιππέων <sup><small><small>[[G2460]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Shobach | <span class="asgreek">Σωβάχ <sup><small><small>[[H7731]]</small></small></sup> </span> |
-| his commander-in-chief | <span class="asgreek">αρχιστράτηγον <sup><small><small>[[G6559]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he struck, | <span class="asgreek">επάταξε <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he died | <span class="asgreek">απέθανεν <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| there. | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Syria fled | <big><span class="asgreek">έφυγε</span></big> <sup><small><small>[[G5343]]</small></small></sup> <big><span class="asgreek">Συρία</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| David killed | <big><span class="asgreek">απέκτεινε</span></big> <sup><small><small>[[G0615]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| of the one from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Syria -- | <big><span class="asgreek">Συρίας</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
+| seven hundred | <big><span class="asgreek">επτακόσια</span></big> <sup><small><small>[[G7485]]</small></small></sup> |
+| chariots, | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| horsemen. | <big><span class="asgreek">ιππέων</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Shobach | <big><span class="asgreek">Σωβάχ</span></big> <sup><small><small>[[H7731]]</small></small></sup> |
+| his commander-in-chief | <big><span class="asgreek">αρχιστράτηγον</span></big> <sup><small><small>[[G6559]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he struck, | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he died | <big><span class="asgreek">απέθανεν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
 [[2Sam.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.17|<< 2 Samuel 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.19|2 Samuel 10:19 >>]]</td></tr></table>
 
 

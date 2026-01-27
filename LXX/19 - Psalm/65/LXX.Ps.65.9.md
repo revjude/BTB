@@ -9,29 +9,29 @@ You attend to the earth and water it; with abundance You enrich it. The streams 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You visited | <span class="asgreek">επεσκέψω <sup><small><small>[[G1980]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth, | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you intoxicated | <span class="asgreek">εμέθυσας <sup><small><small>[[G3184]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| You multiplied | <span class="asgreek">επλήθυνας <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to enrich | <span class="asgreek">πλουτίσαι <sup><small><small>[[G4148]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| river | <span class="asgreek">ποταμός <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of God | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| is filled | <span class="asgreek">επληρώθη <sup><small><small>[[G4137]]</small></small></sup> </span> |
-| \[with\] waters. | <span class="asgreek">υδάτων <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| You prepared | <span class="asgreek">ητοίμασας <sup><small><small>[[G2090]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their nourishment, | <span class="asgreek">τροφήν <sup><small><small>[[G5160]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| \[is its\]\<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| preparation. | <span class="asgreek">ετοιμασία <sup><small><small>[[G2091]]</small></small></sup> </span> |
+| You visited | <big><span class="asgreek">επεσκέψω</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you intoxicated | <big><span class="asgreek">εμέθυσας</span></big> <sup><small><small>[[G3184]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You multiplied | <big><span class="asgreek">επλήθυνας</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to enrich | <big><span class="asgreek">πλουτίσαι</span></big> <sup><small><small>[[G4148]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| river | <big><span class="asgreek">ποταμός</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| is filled | <big><span class="asgreek">επληρώθη</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
+| \[with\] waters. | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| You prepared | <big><span class="asgreek">ητοίμασας</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their nourishment, | <big><span class="asgreek">τροφήν</span></big> <sup><small><small>[[G5160]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| \[is its\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| preparation. | <big><span class="asgreek">ετοιμασία</span></big> <sup><small><small>[[G2091]]</small></small></sup> |
 [[Ps.65.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.8|<< Psalm 65:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.10|Psalm 65:10 >>]]</td></tr></table>
 
 

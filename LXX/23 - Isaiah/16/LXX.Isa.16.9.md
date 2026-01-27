@@ -9,33 +9,33 @@ So I weep with Jazer for the vines of Sibmah; I drench Heshbon and Elealeh with 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| I shall weep | <span class="asgreek">κλαύσομαι <sup><small><small>[[G2799]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one weeping | <span class="asgreek">κλαυθμόν <sup><small><small>[[G2805]]</small></small></sup> </span> |
-| of Jazer | <span class="asgreek">Ιαζήρ <sup><small><small>[[H3270]]</small></small></sup> </span> |
-| \[for the\] grapevine | <span class="asgreek">άμπελον <sup><small><small>[[G0288]]</small></small></sup> </span> |
-| of Sibmah; | <span class="asgreek">Σεβαμά <sup><small><small>[[H7643]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your trees | <span class="asgreek">δένδρα <sup><small><small>[[G1186]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| cast down | <span class="asgreek">κατέβαλεν <sup><small><small>[[G2598]]</small></small></sup> </span> |
-| Heshbon | <span class="asgreek">Εσεβών <sup><small><small>[[H2809]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Elealeh | <span class="asgreek">Ελεάλη <sup><small><small>[[H0500]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| harvest | <span class="asgreek">θερισμώ <sup><small><small>[[G2326]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gathering of your crops | <span class="asgreek">τρυγητώ <sup><small><small>[[G9506]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I shall trample, | <span class="asgreek">καταπατήσω <sup><small><small>[[G2662]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| shall fall. | <span class="asgreek">πεσούνται <sup><small><small>[[G4098]]</small></small></sup> </span> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| I shall weep | <big><span class="asgreek">κλαύσομαι</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one weeping | <big><span class="asgreek">κλαυθμόν</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
+| of Jazer | <big><span class="asgreek">Ιαζήρ</span></big> <sup><small><small>[[H3270]]</small></small></sup> |
+| \[for the\] grapevine | <big><span class="asgreek">άμπελον</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
+| of Sibmah; | <big><span class="asgreek">Σεβαμά</span></big> <sup><small><small>[[H7643]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your trees | <big><span class="asgreek">δένδρα</span></big> <sup><small><small>[[G1186]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| cast down | <big><span class="asgreek">κατέβαλεν</span></big> <sup><small><small>[[G2598]]</small></small></sup> |
+| Heshbon | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Elealeh | <big><span class="asgreek">Ελεάλη</span></big> <sup><small><small>[[H0500]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| harvest | <big><span class="asgreek">θερισμώ</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gathering of your crops | <big><span class="asgreek">τρυγητώ</span></big> <sup><small><small>[[G9506]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I shall trample, | <big><span class="asgreek">καταπατήσω</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| shall fall. | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
 [[Isa.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.8|<< Isaiah 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.10|Isaiah 16:10 >>]]</td></tr></table>
 
 

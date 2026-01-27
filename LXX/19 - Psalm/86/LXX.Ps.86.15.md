@@ -9,19 +9,19 @@ But You, O Lord, are a compassionate and gracious God, slow to anger, abounding 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you, | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span> | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my God, | <span class="asgreek">θεός μου <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \[are\] pitying | <span class="asgreek">οικτίρμων <sup><small><small>[[G3629]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| merciful, | <span class="asgreek">ελεήμων <sup><small><small>[[G1655]]</small></small></sup> </span> |
-| lenient | <span class="asgreek">μακρόθυμος <sup><small><small>[[G8235]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| full of mercy, | <span class="asgreek">πολυέλεος <sup><small><small>[[G8849]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| true. | <span class="asgreek">αληθινός <sup><small><small>[[G0228]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you, | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my God, | <big><span class="asgreek">θεός μου</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \[are\] pitying | <big><span class="asgreek">οικτίρμων</span></big> <sup><small><small>[[G3629]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| merciful, | <big><span class="asgreek">ελεήμων</span></big> <sup><small><small>[[G1655]]</small></small></sup> |
+| lenient | <big><span class="asgreek">μακρόθυμος</span></big> <sup><small><small>[[G8235]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| full of mercy, | <big><span class="asgreek">πολυέλεος</span></big> <sup><small><small>[[G8849]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| true. | <big><span class="asgreek">αληθινός</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
 [[Ps.86.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.14|<< Psalm 86:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.16|Psalm 86:16 >>]]</td></tr></table>
 
 

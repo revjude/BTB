@@ -9,18 +9,18 @@ Your navel is a rounded goblet; it never lacks blended wine. Your waist is a mou
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Your navel \[is as\] | <span class="asgreek">ομαφαλός <sup><small><small>[[G8514]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| basin | <span class="asgreek">κρατήρ <sup><small><small>[[G8089]]</small></small></sup> </span> |
-| a turned | <span class="asgreek">τορευτός <sup><small><small>[[G9467]]</small></small></sup> </span> |
-| not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| lacking | <span class="asgreek">υστερούμενος <sup><small><small>[[G5302]]</small></small></sup> </span> |
-| mixed wine. | <span class="asgreek">κράμα <sup><small><small>[[G8084]]</small></small></sup> </span> |
-| Your belly | <span class="asgreek">κοιλία <sup><small><small>[[G2836]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[is as\] a heap | <span class="asgreek">θημωνία <sup><small><small>[[G7667]]</small></small></sup> </span> |
-| of grain | <span class="asgreek">σίτου <sup><small><small>[[G4621]]</small></small></sup> </span> |
-| shut up | <span class="asgreek">πεφραγμένη <sup><small><small>[[G5420]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| lilies. | <span class="asgreek">κρίνοις <sup><small><small>[[G2918]]</small></small></sup> </span> |
+| Your navel \[is as\] | <big><span class="asgreek">ομαφαλός</span></big> <sup><small><small>[[G8514]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| basin | <big><span class="asgreek">κρατήρ</span></big> <sup><small><small>[[G8089]]</small></small></sup> |
+| a turned | <big><span class="asgreek">τορευτός</span></big> <sup><small><small>[[G9467]]</small></small></sup> |
+| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| lacking | <big><span class="asgreek">υστερούμενος</span></big> <sup><small><small>[[G5302]]</small></small></sup> |
+| mixed wine. | <big><span class="asgreek">κράμα</span></big> <sup><small><small>[[G8084]]</small></small></sup> |
+| Your belly | <big><span class="asgreek">κοιλία</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[is as\] a heap | <big><span class="asgreek">θημωνία</span></big> <sup><small><small>[[G7667]]</small></small></sup> |
+| of grain | <big><span class="asgreek">σίτου</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
+| shut up | <big><span class="asgreek">πεφραγμένη</span></big> <sup><small><small>[[G5420]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| lilies. | <big><span class="asgreek">κρίνοις</span></big> <sup><small><small>[[G2918]]</small></small></sup> |
 [[Song.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.7.1|<< Song of Solomon 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.3|Song of Solomon 7:3 >>]]</td></tr></table>
 
 

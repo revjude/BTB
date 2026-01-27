@@ -9,31 +9,31 @@ How shall I pardon thee for this? thy children have forsaken me, and sworn by [t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| What kind | <span class="asgreek">ποία <sup><small><small>[[G4169]]</small></small></sup> </span> |
-| for these \[things\] | <span class="asgreek">τούτων <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| of kindness | <span class="asgreek">ίλεως <sup><small><small>[[G2436]]</small></small></sup> </span> |
-| should happen | <span class="asgreek">γένωμαί <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Your sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| abandoned | <span class="asgreek">εγκατέλιπόν <sup><small><small>[[G1459]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they swore by an oath | <span class="asgreek">ώμνυον <sup><small><small>[[G3660]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| being | <span class="asgreek">ούσι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| gods. | <span class="asgreek">θεοίς <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I have filled | <span class="asgreek">εχόρτασα <sup><small><small>[[G5526]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they committed adultery, | <span class="asgreek">εμοιχώντο <sup><small><small>[[G3429]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] houses | <span class="asgreek">οίκοις <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of harlots | <span class="asgreek">πορνών <sup><small><small>[[G4204]]</small></small></sup> </span> |
-| rested up | <span class="asgreek">κατέλυον <sup><small><small>[[G2647]]</small></small></sup> </span> |
+| What kind | <big><span class="asgreek">ποία</span></big> <sup><small><small>[[G4169]]</small></small></sup> |
+| for these \[things\] | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| of kindness | <big><span class="asgreek">ίλεως</span></big> <sup><small><small>[[G2436]]</small></small></sup> |
+| should happen | <big><span class="asgreek">γένωμαί</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Your sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| abandoned | <big><span class="asgreek">εγκατέλιπόν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they swore by an oath | <big><span class="asgreek">ώμνυον</span></big> <sup><small><small>[[G3660]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| being | <big><span class="asgreek">ούσι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| gods. | <big><span class="asgreek">θεοίς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I have filled | <big><span class="asgreek">εχόρτασα</span></big> <sup><small><small>[[G5526]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they committed adultery, | <big><span class="asgreek">εμοιχώντο</span></big> <sup><small><small>[[G3429]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] houses | <big><span class="asgreek">οίκοις</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of harlots | <big><span class="asgreek">πορνών</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
+| rested up | <big><span class="asgreek">κατέλυον</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
 [[Jer.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.6|<< Jeremiah 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.8|Jeremiah 5:8 >>]]</td></tr></table>
 
 

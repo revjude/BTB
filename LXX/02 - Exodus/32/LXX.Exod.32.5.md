@@ -9,19 +9,19 @@ When Aaron saw this, he built an altar before the calf and proclaimed: “Tomorr
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| seeing, | <span class="asgreek">ιδών <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| Aaron | <span class="asgreek">Ααρών <sup><small><small>[[G0002]]</small></small></sup> </span> |
-| built | <span class="asgreek">ωκοδόμησε <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| an altar | <span class="asgreek">θυσιαστήριον <sup><small><small>[[G2379]]</small></small></sup> </span> |
-| over against | <span class="asgreek">κατέναντι <sup><small><small>[[G2713]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Aaron proclaimed, | <span class="asgreek">εκήρυξεν <sup><small><small>[[G2784]]</small></small></sup> <span class="asgreek">Ααρών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| A holiday | <span class="asgreek">εορτή <sup><small><small>[[G1859]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| is tomorrow. | <span class="asgreek">άυριον <sup><small><small>[[G0839]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| seeing, | <big><span class="asgreek">ιδών</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
+| built | <big><span class="asgreek">ωκοδόμησε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| an altar | <big><span class="asgreek">θυσιαστήριον</span></big> <sup><small><small>[[G2379]]</small></small></sup> |
+| over against | <big><span class="asgreek">κατέναντι</span></big> <sup><small><small>[[G2713]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Aaron proclaimed, | <big><span class="asgreek">εκήρυξεν</span></big> <sup><small><small>[[G2784]]</small></small></sup> <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| A holiday | <big><span class="asgreek">εορτή</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| is tomorrow. | <big><span class="asgreek">άυριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
 [[Exod.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.4|<< Exodus 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.6|Exodus 32:6 >>]]</td></tr></table>
 
 

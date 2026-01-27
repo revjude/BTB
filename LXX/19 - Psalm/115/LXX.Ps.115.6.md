@@ -9,16 +9,16 @@ they have ears, but cannot hear; they have noses, but cannot smell;<small><sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ears | <span class="asgreek">ώτα <sup><small><small>[[G3775]]</small></small></sup> </span> |
-| they have | <span class="asgreek">έχουσι <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| but | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| hear; | <span class="asgreek">ακούσονται <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| noses | <span class="asgreek">ρίνας <sup><small><small>[[G9027]]</small></small></sup> </span> |
-| they have | <span class="asgreek">έχουσι <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| but | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| smell; | <span class="asgreek">οσφρανθήσονται <sup><small><small>[[G8562]]</small></small></sup> </span> |
+| ears | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
+| they have | <big><span class="asgreek">έχουσι</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| hear; | <big><span class="asgreek">ακούσονται</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| noses | <big><span class="asgreek">ρίνας</span></big> <sup><small><small>[[G9027]]</small></small></sup> |
+| they have | <big><span class="asgreek">έχουσι</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| smell; | <big><span class="asgreek">οσφρανθήσονται</span></big> <sup><small><small>[[G8562]]</small></small></sup> |
 [[Ps.115.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.5|<< Psalm 115:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.7|Psalm 115:7 >>]]</td></tr></table>
 
 

@@ -9,32 +9,32 @@ When David came to Mahanaim, he was met by Shobi son of Nahash from Rabbah of th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it came to pass | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| when | <span class="asgreek">ότε <sup><small><small>[[G3753]]</small></small></sup> </span> |
-| David entered | <span class="asgreek">εισήλθε <sup><small><small>[[G1525]]</small></small></sup> <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Mahanaim, | <span class="asgreek">Μαναϊμ <sup><small><small>[[H4266]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shobi | <span class="asgreek">Σοβί <sup><small><small>[[H7629]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Nahash, | <span class="asgreek">Νάας <sup><small><small>[[H5176]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Rabbah | <span class="asgreek">Ραβάθ <sup><small><small>[[H7237]]</small></small></sup> </span> |
-| of \[the\] sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Ammon, | <span class="asgreek">Αμμών <sup><small><small>[[H5983]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Machir | <span class="asgreek">Μαχίρ <sup><small><small>[[H4353]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Ammiel | <span class="asgreek">Αμιήλ <sup><small><small>[[H5988]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Lo-debar, | <span class="asgreek">Λωδαβάρ <sup><small><small>[[H3810]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Barzillai | <span class="asgreek">Βερζελαϊ <sup><small><small>[[H1271]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Gileadite | <span class="asgreek">Γαλααδίτης <sup><small><small>[[H1568]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Rogelim, | <span class="asgreek">Ρογελίμ <sup><small><small>[[H7274]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
+| David entered | <big><span class="asgreek">εισήλθε</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Mahanaim, | <big><span class="asgreek">Μαναϊμ</span></big> <sup><small><small>[[H4266]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shobi | <big><span class="asgreek">Σοβί</span></big> <sup><small><small>[[H7629]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Nahash, | <big><span class="asgreek">Νάας</span></big> <sup><small><small>[[H5176]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Rabbah | <big><span class="asgreek">Ραβάθ</span></big> <sup><small><small>[[H7237]]</small></small></sup> |
+| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Ammon, | <big><span class="asgreek">Αμμών</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Machir | <big><span class="asgreek">Μαχίρ</span></big> <sup><small><small>[[H4353]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Ammiel | <big><span class="asgreek">Αμιήλ</span></big> <sup><small><small>[[H5988]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Lo-debar, | <big><span class="asgreek">Λωδαβάρ</span></big> <sup><small><small>[[H3810]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Barzillai | <big><span class="asgreek">Βερζελαϊ</span></big> <sup><small><small>[[H1271]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Gileadite | <big><span class="asgreek">Γαλααδίτης</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Rogelim, | <big><span class="asgreek">Ρογελίμ</span></big> <sup><small><small>[[H7274]]</small></small></sup> |
 [[2Sam.17.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.26|<< 2 Samuel 17:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.28|2 Samuel 17:28 >>]]</td></tr></table>
 
 

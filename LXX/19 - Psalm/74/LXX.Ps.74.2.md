@@ -9,23 +9,23 @@ Remember Your congregation, which You purchased long ago and redeemed as the tri
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Remember | <span class="asgreek">μνήσθητι <sup><small><small>[[G3403]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your congregation! | <span class="asgreek">συναγωγής <sup><small><small>[[G4864]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| of which | <span class="asgreek">ης <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you acquired | <span class="asgreek">εκτήσω <sup><small><small>[[G2932]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] beginning. | <span class="asgreek">αρχής <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| You ransomed | <span class="asgreek">ελυτρώσω <sup><small><small>[[G3084]]</small></small></sup> </span> |
-| \[the\] rod | <span class="asgreek">ράβδον <sup><small><small>[[G4464]]</small></small></sup> </span> |
-| of your inheritance; | <span class="asgreek">κληρονομίας <sup><small><small>[[G2817]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| mount | <span class="asgreek">όρος <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| Zion | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| where | <span class="asgreek">ο <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you encamped | <span class="asgreek">κατεσκήνωσας <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Remember | <big><span class="asgreek">μνήσθητι</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your congregation! | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you acquired | <big><span class="asgreek">εκτήσω</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] beginning. | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| You ransomed | <big><span class="asgreek">ελυτρώσω</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
+| \[the\] rod | <big><span class="asgreek">ράβδον</span></big> <sup><small><small>[[G4464]]</small></small></sup> |
+| of your inheritance; | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| mount | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| where | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you encamped | <big><span class="asgreek">κατεσκήνωσας</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.74.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.1|<< Psalm 74:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.3|Psalm 74:3 >>]]</td></tr></table>
 
 

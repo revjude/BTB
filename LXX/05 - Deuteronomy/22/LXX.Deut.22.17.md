@@ -9,33 +9,33 @@ And now he has accused her of shameful conduct, saying, ‘I discovered that you
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| He | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| places upon | <span class="asgreek">επιτίθησιν <sup><small><small>[[G2007]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| offered as an excuse | <span class="asgreek">προφασιστικούς <sup><small><small>[[G8954]]</small></small></sup> </span> |
-| words | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| I did not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| find | <span class="asgreek">εύρηκα <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your daughter | <span class="asgreek">θυγατρί <sup><small><small>[[G2364]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| tokens of virginity | <span class="asgreek">παρθένεια <sup><small><small>[[G8651]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| these are | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tokens of virginity | <span class="asgreek">παρθένεια <sup><small><small>[[G8651]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of my daughter. | <span class="asgreek">θυγατρός <sup><small><small>[[G2364]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall unfold | <span class="asgreek">αναπτύξουσι <sup><small><small>[[G0380]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| garment \[worn by her\] | <span class="asgreek">ιμάτιον <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| before | <span class="asgreek">εναντίον <sup><small><small>[[G1726]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| council of elders | <span class="asgreek">γερουσίας <sup><small><small>[[G1087]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| city. | <span class="asgreek">πόλεως <sup><small><small>[[G4172]]</small></small></sup> </span> |
+| He | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| places upon | <big><span class="asgreek">επιτίθησιν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| offered as an excuse | <big><span class="asgreek">προφασιστικούς</span></big> <sup><small><small>[[G8954]]</small></small></sup> |
+| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| I did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| find | <big><span class="asgreek">εύρηκα</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your daughter | <big><span class="asgreek">θυγατρί</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| tokens of virginity | <big><span class="asgreek">παρθένεια</span></big> <sup><small><small>[[G8651]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| these are | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tokens of virginity | <big><span class="asgreek">παρθένεια</span></big> <sup><small><small>[[G8651]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of my daughter. | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall unfold | <big><span class="asgreek">αναπτύξουσι</span></big> <sup><small><small>[[G0380]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| garment \[worn by her\] | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| council of elders | <big><span class="asgreek">γερουσίας</span></big> <sup><small><small>[[G1087]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| city. | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
 [[Deut.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.16|<< Deuteronomy 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.18|Deuteronomy 22:18 >>]]</td></tr></table>
 
 

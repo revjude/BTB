@@ -9,14 +9,14 @@ From the priests: Jedaiah son of Joiarib; Jachin;<small><sub>**MT:**</sub></sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priests; | <span class="asgreek">ιερέων <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jadaiah | <span class="asgreek">Ιαδεία <sup><small><small>[[H3048]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Joiarib, | <span class="asgreek">Ιωρείβ <sup><small><small>[[H3114]]</small></small></sup> </span> |
-| Jachin. | <span class="asgreek">Ιαχίν <sup><small><small>[[H3199]]</small></small></sup> </span> |
+| Of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priests; | <big><span class="asgreek">ιερέων</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jadaiah | <big><span class="asgreek">Ιαδεία</span></big> <sup><small><small>[[H3048]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Joiarib, | <big><span class="asgreek">Ιωρείβ</span></big> <sup><small><small>[[H3114]]</small></small></sup> |
+| Jachin. | <big><span class="asgreek">Ιαχίν</span></big> <sup><small><small>[[H3199]]</small></small></sup> |
 [[Neh.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.9|<< Nehemiah 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.11|Nehemiah 11:11 >>]]</td></tr></table>
 
 

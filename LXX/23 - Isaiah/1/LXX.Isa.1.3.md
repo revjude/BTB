@@ -9,24 +9,24 @@ The ox knows its owner, and the donkey its master’s manger, but Israel does no
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| knows | <span class="asgreek">έγνω <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| \[The\] ox | <span class="asgreek">βους <sup><small><small>[[G1016]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one acquiring \[it\], | <span class="asgreek">κτησάμενον <sup><small><small>[[G2932]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] donkey | <span class="asgreek">όνος <sup><small><small>[[G3688]]</small></small></sup> </span> |
-| \[knows\] the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| stable | <span class="asgreek">φάτνην <sup><small><small>[[G5336]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of its master; | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| does not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| know | <span class="asgreek">έγνω <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my people | <span class="asgreek">λαός <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| perceived not. | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">συνήκεν <sup><small><small>[[G4920]]</small></small></sup> </span> |
+| knows | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| \[The\] ox | <big><span class="asgreek">βους</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one acquiring \[it\], | <big><span class="asgreek">κτησάμενον</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] donkey | <big><span class="asgreek">όνος</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| \[knows\] the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| stable | <big><span class="asgreek">φάτνην</span></big> <sup><small><small>[[G5336]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of its master; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| know | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| perceived not. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συνήκεν</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
 [[Isa.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.2|<< Isaiah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.4|Isaiah 1:4 >>]]</td></tr></table>
 
 

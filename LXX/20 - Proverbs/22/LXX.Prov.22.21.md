@@ -9,21 +9,21 @@ to show you true and reliable words, that you may soundly answer those who sent 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I teach | <span class="asgreek">διδάσκω <sup><small><small>[[G1321]]</small></small></sup> </span> |
-| you then | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a true | <span class="asgreek">αληθή <sup><small><small>[[G0227]]</small></small></sup> </span> |
-| word, | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| knowledge | <span class="asgreek">γνώσιν <sup><small><small>[[G1108]]</small></small></sup> </span> |
-| good | <span class="asgreek">αγαθήν <sup><small><small>[[G0018]]</small></small></sup> </span> |
-| to hearken to; | <span class="asgreek">υπακούειν <sup><small><small>[[G5219]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for you to answer | <span class="asgreek">αποκρίνεσθαί <sup><small><small>[[G0611]]</small></small></sup> <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| words | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| of truth | <span class="asgreek">αληθείας <sup><small><small>[[G0225]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones propounding \[things\] | <span class="asgreek">προβαλλομένοις <sup><small><small>[[G4261]]</small></small></sup> </span> |
-| to you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| I teach | <big><span class="asgreek">διδάσκω</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
+| you then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a true | <big><span class="asgreek">αληθή</span></big> <sup><small><small>[[G0227]]</small></small></sup> |
+| word, | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| knowledge | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
+| good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| to hearken to; | <big><span class="asgreek">υπακούειν</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for you to answer | <big><span class="asgreek">αποκρίνεσθαί</span></big> <sup><small><small>[[G0611]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| of truth | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones propounding \[things\] | <big><span class="asgreek">προβαλλομένοις</span></big> <sup><small><small>[[G4261]]</small></small></sup> |
+| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.20|<< Proverbs 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.22|Proverbs 22:22 >>]]</td></tr></table>
 
 

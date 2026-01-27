@@ -12,14 +12,14 @@ Call now, if there be any that will answer thee; and to which of the saints wilt
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But call, | <span class="asgreek">επικάλεσαι <sup><small><small>[[G1941]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| if any one | <span class="asgreek">ει τις <sup><small><small>[[G1536]]</small></small></sup> </span> |
-| will hearken to you; | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">υπακούσεται <sup><small><small>[[G5219]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| any | <span class="asgreek">ει τινα <sup><small><small>[[G1536]]</small></small></sup> </span> |
-| angels | <span class="asgreek">αγγέλων <sup><small><small>[[G0032]]</small></small></sup> </span> |
-| holy | <span class="asgreek">αγίων <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| you shall see | <span class="asgreek">όψει <sup><small><small>[[G3708]]</small></small></sup> </span> |
+| But call, | <big><span class="asgreek">επικάλεσαι</span></big> <sup><small><small>[[G1941]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| if any one | <big><span class="asgreek">ει τις</span></big> <sup><small><small>[[G1536]]</small></small></sup> |
+| will hearken to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">υπακούσεται</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| any | <big><span class="asgreek">ει τινα</span></big> <sup><small><small>[[G1536]]</small></small></sup> |
+| angels | <big><span class="asgreek">αγγέλων</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
+| holy | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| you shall see | <big><span class="asgreek">όψει</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
 [[Job.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.21|<< Job 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.2|Job 5:2 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ The lion has roared—who will not fear? The Lord GOD has spoken—who will not 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A lion | <span class="asgreek">λέων <sup><small><small>[[G3023]]</small></small></sup> </span> |
-| shall bellow, | <span class="asgreek">ερεύξεται <sup><small><small>[[G2044]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| who will | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be fearful? | <span class="asgreek">φοβηθήσεται <sup><small><small>[[G5399]]</small></small></sup> </span> |
-| \[The\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| spoke, | <span class="asgreek">ελάλησε <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| will not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| prophesy? | <span class="asgreek">προφητεύσει <sup><small><small>[[G4395]]</small></small></sup> </span> |
+| A lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| shall bellow, | <big><span class="asgreek">ερεύξεται</span></big> <sup><small><small>[[G2044]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| who will | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be fearful? | <big><span class="asgreek">φοβηθήσεται</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| spoke, | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| prophesy? | <big><span class="asgreek">προφητεύσει</span></big> <sup><small><small>[[G4395]]</small></small></sup> |
 [[Amos.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.7|<< Amos 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.9|Amos 3:9 >>]]</td></tr></table>
 
 

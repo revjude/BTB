@@ -9,19 +9,19 @@ You are to make a plate of pure gold and engrave on it as on a seal: HOLY TO THE
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall make | <span class="asgreek">ποιήσεις <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| a panel | <span class="asgreek">πέταλον <sup><small><small>[[G8779]]</small></small></sup> </span> |
-| gold | <span class="asgreek">χρυσούν <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| of pure | <span class="asgreek">καθαρόν <sup><small><small>[[G2513]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall shape | <span class="asgreek">εκτυπώσεις <sup><small><small>[[G7164]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| an impression | <span class="asgreek">εκτύπωμα <sup><small><small>[[G7165]]</small></small></sup> </span> |
-| seal -- | <span class="asgreek">σφραγίδος <sup><small><small>[[G4973]]</small></small></sup> </span> |
-| Sanctified | <span class="asgreek">αγίασμα <sup><small><small>[[G6114]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| a panel | <big><span class="asgreek">πέταλον</span></big> <sup><small><small>[[G8779]]</small></small></sup> |
+| gold | <big><span class="asgreek">χρυσούν</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| of pure | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall shape | <big><span class="asgreek">εκτυπώσεις</span></big> <sup><small><small>[[G7164]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| an impression | <big><span class="asgreek">εκτύπωμα</span></big> <sup><small><small>[[G7165]]</small></small></sup> |
+| seal -- | <big><span class="asgreek">σφραγίδος</span></big> <sup><small><small>[[G4973]]</small></small></sup> |
+| Sanctified | <big><span class="asgreek">αγίασμα</span></big> <sup><small><small>[[G6114]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Exod.28.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.35|<< Exodus 28:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.37|Exodus 28:37 >>]]</td></tr></table>
 
 

@@ -9,16 +9,16 @@ The sons of Naphtali: Jahziel, Guni, Jezer, and Shallum—the descendants of Bil
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Naphtali -- | <span class="asgreek">Νεφθαλί <sup><small><small>[[G3508]]</small></small></sup> </span> |
-| Jahziel, | <span class="asgreek">Ιεσσιήλ <sup><small><small>[[H3185]]</small></small></sup> </span> |
-| Guni, | <span class="asgreek">Γουνί <sup><small><small>[[H1476]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jezer, | <span class="asgreek">Ιεσσέρ <sup><small><small>[[H3337]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shallum, | <span class="asgreek">Σελλήμ <sup><small><small>[[H8006]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Bilhah. | <span class="asgreek">Βαλαά <sup><small><small>[[H1090b]]</small></small></sup> </span> |
+| \[The\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Naphtali -- | <big><span class="asgreek">Νεφθαλί</span></big> <sup><small><small>[[G3508]]</small></small></sup> |
+| Jahziel, | <big><span class="asgreek">Ιεσσιήλ</span></big> <sup><small><small>[[H3185]]</small></small></sup> |
+| Guni, | <big><span class="asgreek">Γουνί</span></big> <sup><small><small>[[H1476]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jezer, | <big><span class="asgreek">Ιεσσέρ</span></big> <sup><small><small>[[H3337]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shallum, | <big><span class="asgreek">Σελλήμ</span></big> <sup><small><small>[[H8006]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Bilhah. | <big><span class="asgreek">Βαλαά</span></big> <sup><small><small>[[H1090b]]</small></small></sup> |
 [[1Chr.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.12|<< 1 Chronicles 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.14|1 Chronicles 7:14 >>]]</td></tr></table>
 
 

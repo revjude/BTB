@@ -12,15 +12,15 @@ The wilderness and the dry land will be glad; the desert will rejoice and blosso
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Be glad, | <span class="asgreek">ευφράνθητι <sup><small><small>[[G2165]]</small></small></sup> </span> |
-| wilderness | <span class="asgreek">έρημος <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| O thirsting | <span class="asgreek">διψώσα <sup><small><small>[[G1372]]</small></small></sup> </span> |
-| Exult, | <span class="asgreek">αγαλλιάσθω <sup><small><small>[[G0021]]</small></small></sup> </span> |
-| O wilderness, | <span class="asgreek">έρημος <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bloom | <span class="asgreek">ανθείτω <sup><small><small>[[G6341]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a lily! | <span class="asgreek">κρίνον <sup><small><small>[[G2918]]</small></small></sup> </span> |
+| Be glad, | <big><span class="asgreek">ευφράνθητι</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| wilderness | <big><span class="asgreek">έρημος</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| O thirsting | <big><span class="asgreek">διψώσα</span></big> <sup><small><small>[[G1372]]</small></small></sup> |
+| Exult, | <big><span class="asgreek">αγαλλιάσθω</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
+| O wilderness, | <big><span class="asgreek">έρημος</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bloom | <big><span class="asgreek">ανθείτω</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a lily! | <big><span class="asgreek">κρίνον</span></big> <sup><small><small>[[G2918]]</small></small></sup> |
 [[Isa.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.17|<< Isaiah 34:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.2|Isaiah 35:2 >>]]</td></tr></table>
 
 

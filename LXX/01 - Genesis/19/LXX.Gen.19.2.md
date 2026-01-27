@@ -9,36 +9,36 @@ and said, “My lords, please turn aside into the house of your servant; wash yo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Behold | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| lords, | <span class="asgreek">κύριοι <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| turn aside | <span class="asgreek">εκκλίνατε <sup><small><small>[[G1578]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your servant, | <span class="asgreek">παιδός <sup><small><small>[[G3816]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| rest up, | <span class="asgreek">καταλύσατε <sup><small><small>[[G2647]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wash | <span class="asgreek">νίψασθε <sup><small><small>[[G3538]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your feet! | <span class="asgreek">πόδας <sup><small><small>[[G4228]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| rising early | <span class="asgreek">ορθρίσαντες <sup><small><small>[[G3719]]</small></small></sup> </span> |
-| you may go forth | <span class="asgreek">απελεύσεσθε <sup><small><small>[[G0565]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your way. | <span class="asgreek">οδόν <sup><small><small>[[G3598]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they said, | <span class="asgreek">είπον <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| No, | <span class="asgreek">ουχι <sup><small><small>[[G3780]]</small></small></sup> </span> |
-| but | <span class="asgreek">αλλ΄ <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| square | <span class="asgreek">πλατεία <sup><small><small>[[G4113]]</small></small></sup> </span> |
-| we will rest up. | <span class="asgreek">καταλύσομεν <sup><small><small>[[G2647]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| lords, | <big><span class="asgreek">κύριοι</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| turn aside | <big><span class="asgreek">εκκλίνατε</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your servant, | <big><span class="asgreek">παιδός</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| rest up, | <big><span class="asgreek">καταλύσατε</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wash | <big><span class="asgreek">νίψασθε</span></big> <sup><small><small>[[G3538]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your feet! | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| rising early | <big><span class="asgreek">ορθρίσαντες</span></big> <sup><small><small>[[G3719]]</small></small></sup> |
+| you may go forth | <big><span class="asgreek">απελεύσεσθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your way. | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| No, | <big><span class="asgreek">ουχι</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
+| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| square | <big><span class="asgreek">πλατεία</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
+| we will rest up. | <big><span class="asgreek">καταλύσομεν</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
 [[Gen.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.1|<< Genesis 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.3|Genesis 19:3 >>]]</td></tr></table>
 
 

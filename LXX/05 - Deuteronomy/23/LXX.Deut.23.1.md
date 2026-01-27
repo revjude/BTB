@@ -12,14 +12,14 @@ No man with crushed or severed genitals may enter the assembly of the LORD.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| shall not enter | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">εισελεύσεται <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| One with crushed testicles | <span class="asgreek">θλαδίας <sup><small><small>[[G7677]]</small></small></sup> </span> |
-| (nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| being cut off) | <span class="asgreek">αποκεκομμένος <sup><small><small>[[G0609]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| assembly | <span class="asgreek">εκκλησίαν <sup><small><small>[[G1577]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| shall not enter | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εισελεύσεται</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| One with crushed testicles | <big><span class="asgreek">θλαδίας</span></big> <sup><small><small>[[G7677]]</small></small></sup> |
+| (nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| being cut off) | <big><span class="asgreek">αποκεκομμένος</span></big> <sup><small><small>[[G0609]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| assembly | <big><span class="asgreek">εκκλησίαν</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Deut.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.30|<< Deuteronomy 22:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.2|Deuteronomy 23:2 >>]]</td></tr></table>
 
 

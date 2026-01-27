@@ -9,20 +9,20 @@ and on the vine were three branches. As it budded, its blossoms opened and its c
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| grapevine | <span class="asgreek">αμπέλω <sup><small><small>[[G0288]]</small></small></sup> </span> |
-| three | <span class="asgreek">τρεις <sup><small><small>[[G5140]]</small></small></sup> </span> |
-| lower branches; | <span class="asgreek">πυθμένες <sup><small><small>[[G8986]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| flourished | <span class="asgreek">θάλλουσα <sup><small><small>[[G7639]]</small></small></sup> </span> |
-| offering | <span class="asgreek">ανενηνοχύια <sup><small><small>[[G0399]]</small></small></sup> </span> |
-| buds | <span class="asgreek">βλαστούς <sup><small><small>[[G0986]]</small></small></sup> </span> |
-| mature | <span class="asgreek">πέπειροι <sup><small><small>[[G8709]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| clusters | <span class="asgreek">βότρυες <sup><small><small>[[G1009]]</small></small></sup> </span> |
-| of \[the\] grape. | <span class="asgreek">σταφυλής <sup><small><small>[[G4718]]</small></small></sup> </span> |
+| And in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| grapevine | <big><span class="asgreek">αμπέλω</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
+| three | <big><span class="asgreek">τρεις</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
+| lower branches; | <big><span class="asgreek">πυθμένες</span></big> <sup><small><small>[[G8986]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| flourished | <big><span class="asgreek">θάλλουσα</span></big> <sup><small><small>[[G7639]]</small></small></sup> |
+| offering | <big><span class="asgreek">ανενηνοχύια</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
+| buds | <big><span class="asgreek">βλαστούς</span></big> <sup><small><small>[[G0986]]</small></small></sup> |
+| mature | <big><span class="asgreek">πέπειροι</span></big> <sup><small><small>[[G8709]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| clusters | <big><span class="asgreek">βότρυες</span></big> <sup><small><small>[[G1009]]</small></small></sup> |
+| of \[the\] grape. | <big><span class="asgreek">σταφυλής</span></big> <sup><small><small>[[G4718]]</small></small></sup> |
 [[Gen.40.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.9|<< Genesis 40:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.11|Genesis 40:11 >>]]</td></tr></table>
 
 

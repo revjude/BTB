@@ -9,21 +9,21 @@ Refute me if you can; prepare your case and confront me.<small><sub>**MT:**</su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should be able, | <span class="asgreek">δύνη <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| give | <span class="asgreek">δος <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| an answer | <span class="asgreek">απόκρισιν <sup><small><small>[[G0612]]</small></small></sup> </span> |
-| for | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| these \[things\]! | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| Wait, | <span class="asgreek">υπόμεινον <sup><small><small>[[G5278]]</small></small></sup> </span> |
-| stand | <span class="asgreek">στήθι <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατ΄ <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| me, | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| you! | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should be able, | <big><span class="asgreek">δύνη</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| give | <big><span class="asgreek">δος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| an answer | <big><span class="asgreek">απόκρισιν</span></big> <sup><small><small>[[G0612]]</small></small></sup> |
+| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| these \[things\]! | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| Wait, | <big><span class="asgreek">υπόμεινον</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
+| stand | <big><span class="asgreek">στήθι</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| against | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| you! | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.33.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.4|<< Job 33:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.6|Job 33:6 >>]]</td></tr></table>
 
 

@@ -9,16 +9,16 @@ He raises the poor from the dust and lifts the needy from the dump<small><sub>*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one raising | <span class="asgreek">εγείρων <sup><small><small>[[G1453]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] earth | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| \[the\] poor | <span class="asgreek">πτωχόν <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] dung | <span class="asgreek">κοπρίας <sup><small><small>[[G2874]]</small></small></sup> </span> |
-| elevating | <span class="asgreek">ανυψών <sup><small><small>[[G6380]]</small></small></sup> </span> |
-| \[the\] needy | <span class="asgreek">πένητα <sup><small><small>[[G3993]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one raising | <big><span class="asgreek">εγείρων</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| \[the\] poor | <big><span class="asgreek">πτωχόν</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] dung | <big><span class="asgreek">κοπρίας</span></big> <sup><small><small>[[G2874]]</small></small></sup> |
+| elevating | <big><span class="asgreek">ανυψών</span></big> <sup><small><small>[[G6380]]</small></small></sup> |
+| \[the\] needy | <big><span class="asgreek">πένητα</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
 [[Ps.113.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.113.6|<< Psalm 113:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.8|Psalm 113:8 >>]]</td></tr></table>
 
 

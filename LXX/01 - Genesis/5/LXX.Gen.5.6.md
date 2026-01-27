@@ -9,17 +9,17 @@ When Seth was 105 years old, he became the father of Enosh.<small><sub>**MT:**<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| lived | <span class="asgreek">έζησε <sup><small><small>[[G2198]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| Seth | <span class="asgreek">Σηθ <sup><small><small>[[G4589]]</small></small></sup> </span> |
-| five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| two hundred | <span class="asgreek">διακόσια <sup><small><small>[[G1250]]</small></small></sup> </span> |
-| years, | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he procreated | <span class="asgreek">εγέννησε <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Enos. | <span class="asgreek">Ενώς <sup><small><small>[[G1800]]</small></small></sup> </span> |
+| lived | <big><span class="asgreek">έζησε</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| Seth | <big><span class="asgreek">Σηθ</span></big> <sup><small><small>[[G4589]]</small></small></sup> |
+| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| two hundred | <big><span class="asgreek">διακόσια</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
+| years, | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Enos. | <big><span class="asgreek">Ενώς</span></big> <sup><small><small>[[G1800]]</small></small></sup> |
 [[Gen.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.5|<< Genesis 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.7|Genesis 5:7 >>]]</td></tr></table>
 
 

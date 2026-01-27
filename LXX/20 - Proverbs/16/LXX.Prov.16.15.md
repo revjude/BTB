@@ -9,17 +9,17 @@ When a king’s face brightens, there is life; his favor is like a rain cloud in
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[is\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] light | <span class="asgreek">φωτί <sup><small><small>[[G5457]]</small></small></sup> </span> |
-| of life | <span class="asgreek">ζωής <sup><small><small>[[G2222]]</small></small></sup> </span> |
-| \[The\] son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of a king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| and the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| acceptable | <span class="asgreek">προσδεκτοί <sup><small><small>[[G8914]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[are\] as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| a cloud | <span class="asgreek">νέφος <sup><small><small>[[G3509]]</small></small></sup> </span> |
-| of late \[rain\]. | <span class="asgreek">όψιμον <sup><small><small>[[G3797]]</small></small></sup> </span> |
+| \[is\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] light | <big><span class="asgreek">φωτί</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
+| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
+| \[The\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of a king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| and the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| acceptable | <big><span class="asgreek">προσδεκτοί</span></big> <sup><small><small>[[G8914]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[are\] as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| a cloud | <big><span class="asgreek">νέφος</span></big> <sup><small><small>[[G3509]]</small></small></sup> |
+| of late \[rain\]. | <big><span class="asgreek">όψιμον</span></big> <sup><small><small>[[G3797]]</small></small></sup> |
 [[Prov.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.14|<< Proverbs 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.16|Proverbs 16:16 >>]]</td></tr></table>
 
 

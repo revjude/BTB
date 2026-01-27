@@ -9,15 +9,15 @@ Though your beginnings were modest, your latter days will flourish.<small><sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| It will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| then | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| that as | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">μεν <sup><small><small>[[G3303]]</small></small></sup> </span> |
-| your first | <span class="asgreek">πρώτά <sup><small><small>[[G4413]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[shall be\] little, | <span class="asgreek">ολίγα <sup><small><small>[[G3641]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| yet | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| your last | <span class="asgreek">έσχατά <sup><small><small>[[G2078]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[will be\] an untold \[amount\]. | <span class="asgreek">αμύθητα <sup><small><small>[[G6266]]</small></small></sup> </span> |
+| It will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| that as | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
+| your first | <big><span class="asgreek">πρώτά</span></big> <sup><small><small>[[G4413]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[shall be\] little, | <big><span class="asgreek">ολίγα</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| yet | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| your last | <big><span class="asgreek">έσχατά</span></big> <sup><small><small>[[G2078]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[will be\] an untold \[amount\]. | <big><span class="asgreek">αμύθητα</span></big> <sup><small><small>[[G6266]]</small></small></sup> |
 [[Job.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.6|<< Job 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.8|Job 8:8 >>]]</td></tr></table>
 
 

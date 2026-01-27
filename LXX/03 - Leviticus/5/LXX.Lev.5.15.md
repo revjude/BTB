@@ -9,40 +9,40 @@ If a soul commit a trespass, and sin through ignorance, in the holy things of th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| who | <span class="asgreek">η <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| should be unaware | <span class="asgreek">λάθη <sup><small><small>[[G2990]]</small></small></sup> </span> |
-| himself | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[with\] forgetfulness, | <span class="asgreek">λήθη <sup><small><small>[[G3024]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| should sin | <span class="asgreek">αμάρτη <sup><small><small>[[G0264]]</small></small></sup> </span> |
-| unintentionally | <span class="asgreek">ακουσίως <sup><small><small>[[G6199]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| holy \[things\] | <span class="asgreek">αγίων <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| then | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall bring | <span class="asgreek">οίσει <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for his trespass \[offering\] | <span class="asgreek">πλημμελείας <sup><small><small>[[G8811]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| ram | <span class="asgreek">κριόν <sup><small><small>[[G8096]]</small></small></sup> </span> |
-| an unblemished | <span class="asgreek">άμωμον <sup><small><small>[[G0299]]</small></small></sup> </span> |
-| of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| flocks, | <span class="asgreek">προβάτων <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| of \[the\] value | <span class="asgreek">τιμής <sup><small><small>[[G5092]]</small></small></sup> </span> |
-| of silver | <span class="asgreek">αργυρίου <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| of shekels, | <span class="asgreek">σικλών <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shekel | <span class="asgreek">σίκλω <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| holy \[place\], | <span class="asgreek">αγίω <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| for | <span class="asgreek">περί <sup><small><small>[[G4012]]</small></small></sup> </span> |
-| what | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he trespassed. | <span class="asgreek">επλημμέλησε <sup><small><small>[[G8812]]</small></small></sup> </span> |
+| \[The\] soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| who | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| should be unaware | <big><span class="asgreek">λάθη</span></big> <sup><small><small>[[G2990]]</small></small></sup> |
+| himself | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[with\] forgetfulness, | <big><span class="asgreek">λήθη</span></big> <sup><small><small>[[G3024]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| should sin | <big><span class="asgreek">αμάρτη</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| unintentionally | <big><span class="asgreek">ακουσίως</span></big> <sup><small><small>[[G6199]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| holy \[things\] | <big><span class="asgreek">αγίων</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall bring | <big><span class="asgreek">οίσει</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for his trespass \[offering\] | <big><span class="asgreek">πλημμελείας</span></big> <sup><small><small>[[G8811]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| ram | <big><span class="asgreek">κριόν</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| an unblemished | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
+| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| flocks, | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| of \[the\] value | <big><span class="asgreek">τιμής</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
+| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| of shekels, | <big><span class="asgreek">σικλών</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shekel | <big><span class="asgreek">σίκλω</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| holy \[place\], | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
+| what | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he trespassed. | <big><span class="asgreek">επλημμέλησε</span></big> <sup><small><small>[[G8812]]</small></small></sup> |
 [[Lev.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.14|<< Leviticus 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.16|Leviticus 5:16 >>]]</td></tr></table>
 
 

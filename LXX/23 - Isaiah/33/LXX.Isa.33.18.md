@@ -13,24 +13,24 @@ Your mind will ponder the former terror: “Where is he who tallies? Where is he
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Your soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall meditate upon | <span class="asgreek">μελετήσει <sup><small><small>[[G3191]]</small></small></sup> </span> |
-| fear. | <span class="asgreek">φόβον <sup><small><small>[[G5401]]</small></small></sup> </span> |
-| Where | <span class="asgreek">που <sup><small><small>[[G4226]]</small></small></sup> </span> |
-| are | <span class="asgreek">εισίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| academics? | <span class="asgreek">γραμματικοί <sup><small><small>[[G6765]]</small></small></sup> </span> |
-| Where | <span class="asgreek">που <sup><small><small>[[G4226]]</small></small></sup> </span> |
-| are | <span class="asgreek">εισίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| advising? | <span class="asgreek">συμβουλεύοντες <sup><small><small>[[G4823]]</small></small></sup> </span> |
-| Where | <span class="asgreek">που <sup><small><small>[[G4226]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| counting | <span class="asgreek">αριθμών <sup><small><small>[[G0705]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being maintained? | <span class="asgreek">τρεφομένους <sup><small><small>[[G5142]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Your soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall meditate upon | <big><span class="asgreek">μελετήσει</span></big> <sup><small><small>[[G3191]]</small></small></sup> |
+| fear. | <big><span class="asgreek">φόβον</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
+| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
+| are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| academics? | <big><span class="asgreek">γραμματικοί</span></big> <sup><small><small>[[G6765]]</small></small></sup> |
+| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
+| are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| advising? | <big><span class="asgreek">συμβουλεύοντες</span></big> <sup><small><small>[[G4823]]</small></small></sup> |
+| Where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
+| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| counting | <big><span class="asgreek">αριθμών</span></big> <sup><small><small>[[G0705]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being maintained? | <big><span class="asgreek">τρεφομένους</span></big> <sup><small><small>[[G5142]]</small></small></sup> |
 [[Isa.33.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.17|<< Isaiah 33:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.19|Isaiah 33:19 >>]]</td></tr></table>
 
 

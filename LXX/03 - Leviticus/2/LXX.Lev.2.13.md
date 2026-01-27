@@ -9,24 +9,24 @@ And you shall season each of your grain offerings with salt. You must not leave 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| gift \[offering\] | <span class="asgreek">δώρον <sup><small><small>[[G1435]]</small></small></sup> </span> |
-| of your sacrifice | <span class="asgreek">θυσίας <sup><small><small>[[G2378]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[with\] salt | <span class="asgreek">αλί <sup><small><small>[[G0251]]</small></small></sup> </span> |
-| shall be salted | <span class="asgreek">αλισθήσεται <sup><small><small>[[G0233]]</small></small></sup> </span> |
-| You shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| discontinue | <span class="asgreek">διαπαύσεται <sup><small><small>[[G6858]]</small></small></sup> </span> |
-| salt | <span class="asgreek">άλας <sup><small><small>[[G0217]]</small></small></sup> </span> |
-| \[from the\] covenant | <span class="asgreek">διαθήκης <sup><small><small>[[G1242]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| with | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| your sacrifices; | <span class="asgreek">θυσιασμάτων <sup><small><small>[[G7701]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| all | <span class="asgreek">παντός <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| your gift \[offering\] | <span class="asgreek">δώρου <sup><small><small>[[G1435]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall offer | <span class="asgreek">προσοίσετε <sup><small><small>[[G4374]]</small></small></sup> </span> |
-| salt | <span class="asgreek">άλας <sup><small><small>[[G0217]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| gift \[offering\] | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
+| of your sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[with\] salt | <big><span class="asgreek">αλί</span></big> <sup><small><small>[[G0251]]</small></small></sup> |
+| shall be salted | <big><span class="asgreek">αλισθήσεται</span></big> <sup><small><small>[[G0233]]</small></small></sup> |
+| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| discontinue | <big><span class="asgreek">διαπαύσεται</span></big> <sup><small><small>[[G6858]]</small></small></sup> |
+| salt | <big><span class="asgreek">άλας</span></big> <sup><small><small>[[G0217]]</small></small></sup> |
+| \[from the\] covenant | <big><span class="asgreek">διαθήκης</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| with | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| your sacrifices; | <big><span class="asgreek">θυσιασμάτων</span></big> <sup><small><small>[[G7701]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| all | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| your gift \[offering\] | <big><span class="asgreek">δώρου</span></big> <sup><small><small>[[G1435]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall offer | <big><span class="asgreek">προσοίσετε</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
+| salt | <big><span class="asgreek">άλας</span></big> <sup><small><small>[[G0217]]</small></small></sup> |
 [[Lev.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.12|<< Leviticus 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.14|Leviticus 2:14 >>]]</td></tr></table>
 
 

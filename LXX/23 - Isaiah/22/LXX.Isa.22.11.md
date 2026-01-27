@@ -9,34 +9,34 @@ You built a reservoir between the walls for the waters of the ancient pool, but 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you produced | <span class="asgreek">εποιήσατε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| for yourselves | <span class="asgreek">εαυτοίς <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| between | <span class="asgreek">αναμέσον <sup><small><small>[[G6271]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| walls | <span class="asgreek">τειχέων <sup><small><small>[[G5038]]</small></small></sup> </span> |
-| inside | <span class="asgreek">εσώτερον <sup><small><small>[[G7520]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| pool | <span class="asgreek">κολυμβήθρας <sup><small><small>[[G2861]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ancient | <span class="asgreek">αρχαίας <sup><small><small>[[G0744]]</small></small></sup> </span> |
-| but | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| look | <span class="asgreek">ενεβλέψατε <sup><small><small>[[G1689]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] beginning | <span class="asgreek">αρχής <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| one making | <span class="asgreek">ποιήσαντα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the one | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| creating | <span class="asgreek">κτίσαντα <sup><small><small>[[G2936]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| behold. | <span class="asgreek">είδετε <sup><small><small>[[G1492]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you produced | <big><span class="asgreek">εποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| for yourselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| walls | <big><span class="asgreek">τειχέων</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
+| inside | <big><span class="asgreek">εσώτερον</span></big> <sup><small><small>[[G7520]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| pool | <big><span class="asgreek">κολυμβήθρας</span></big> <sup><small><small>[[G2861]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ancient | <big><span class="asgreek">αρχαίας</span></big> <sup><small><small>[[G0744]]</small></small></sup> |
+| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| look | <big><span class="asgreek">ενεβλέψατε</span></big> <sup><small><small>[[G1689]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] beginning | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| one making | <big><span class="asgreek">ποιήσαντα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| creating | <big><span class="asgreek">κτίσαντα</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| behold. | <big><span class="asgreek">είδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
 [[Isa.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.10|<< Isaiah 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.12|Isaiah 22:12 >>]]</td></tr></table>
 
 

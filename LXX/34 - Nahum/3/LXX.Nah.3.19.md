@@ -9,31 +9,31 @@ There is no healing for your injury; your wound is severe. All who hear the news
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| There is no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| healing | <span class="asgreek">ίασις <sup><small><small>[[G2392]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your destruction; | <span class="asgreek">συντριβή <sup><small><small>[[G9340]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| is inflamed | <span class="asgreek">εφλέγμανεν <sup><small><small>[[G9644]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your wound | <span class="asgreek">πληγή <sup><small><small>[[G4127]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| All | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hearing | <span class="asgreek">ακούοντες <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| message | <span class="asgreek">αγγελίαν <sup><small><small>[[G0031]]</small></small></sup> </span> |
-| of you | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| clap | <span class="asgreek">κροτήσουσι <sup><small><small>[[G8104]]</small></small></sup> </span> |
-| hands | <span class="asgreek">χείρας <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| For | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| whom | <span class="asgreek">τίνα <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| come upon | <span class="asgreek">επήλθεν <sup><small><small>[[G1904]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| did your evil | <span class="asgreek">κακία <sup><small><small>[[G2549]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| continually? | <span class="asgreek">διαπαντός <sup><small><small>[[G1275]]</small></small></sup> </span> |
+| There is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| healing | <big><span class="asgreek">ίασις</span></big> <sup><small><small>[[G2392]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your destruction; | <big><span class="asgreek">συντριβή</span></big> <sup><small><small>[[G9340]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is inflamed | <big><span class="asgreek">εφλέγμανεν</span></big> <sup><small><small>[[G9644]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your wound | <big><span class="asgreek">πληγή</span></big> <sup><small><small>[[G4127]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hearing | <big><span class="asgreek">ακούοντες</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| message | <big><span class="asgreek">αγγελίαν</span></big> <sup><small><small>[[G0031]]</small></small></sup> |
+| of you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| clap | <big><span class="asgreek">κροτήσουσι</span></big> <sup><small><small>[[G8104]]</small></small></sup> |
+| hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| whom | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| come upon | <big><span class="asgreek">επήλθεν</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| did your evil | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| continually? | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
 [[Nah.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.18|<< Nahum 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.1|Habakkuk 1:1 >>]]</td></tr></table>
 
 

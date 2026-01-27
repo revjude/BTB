@@ -9,27 +9,27 @@ No lion will be there, and no vicious beast will go up on it. Such will not be f
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there will not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| there | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| a lion | <span class="asgreek">λέων <sup><small><small>[[G3023]]</small></small></sup> </span> |
-| Nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ferocious | <span class="asgreek">πονηρών <sup><small><small>[[G4190]]</small></small></sup> </span> |
-| wild beasts | <span class="asgreek">θηρίων <sup><small><small>[[G2342]]</small></small></sup> </span> |
-| in any way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall ascend | <span class="asgreek">αναβή <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| nor even | <span class="asgreek">ουδέ μη <sup><small><small>[[G8565]]</small></small></sup> </span> |
-| should be found | <span class="asgreek">ευρεθή <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| there. | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| But | <span class="asgreek">αλλά <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| shall go | <span class="asgreek">πορεύσονται <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the ones being ransomed | <span class="asgreek">λελυτρωμένοι <sup><small><small>[[G3084]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| Nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ferocious | <big><span class="asgreek">πονηρών</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| wild beasts | <big><span class="asgreek">θηρίων</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
+| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall ascend | <big><span class="asgreek">αναβή</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| nor even | <big><span class="asgreek">ουδέ μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
+| should be found | <big><span class="asgreek">ευρεθή</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| there. | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| shall go | <big><span class="asgreek">πορεύσονται</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the ones being ransomed | <big><span class="asgreek">λελυτρωμένοι</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
 [[Isa.35.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.8|<< Isaiah 35:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.10|Isaiah 35:10 >>]]</td></tr></table>
 
 

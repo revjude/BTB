@@ -9,21 +9,21 @@ In order to stir up wrath and take vengeance, I have placed her blood on the bar
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[But\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ascend | <span class="asgreek">αναβήναι <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| rage | <span class="asgreek">θυμόν <sup><small><small>[[G2372]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a punishment, | <span class="asgreek">εκδίκησιν <sup><small><small>[[G1557]]</small></small></sup> </span> |
-| to be punished | <span class="asgreek">εκδικηθήναι <sup><small><small>[[G1556]]</small></small></sup> </span> |
-| I put | <span class="asgreek">δέδωκα <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her blood | <span class="asgreek">αίμα <sup><small><small>[[G0129]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| a smooth rock, | <span class="asgreek">λεωπετρίαν <sup><small><small>[[G8188]]</small></small></sup> </span> |
-| \[so as\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| cover | <span class="asgreek">καλύψαι <sup><small><small>[[G2572]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[But\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ascend | <big><span class="asgreek">αναβήναι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a punishment, | <big><span class="asgreek">εκδίκησιν</span></big> <sup><small><small>[[G1557]]</small></small></sup> |
+| to be punished | <big><span class="asgreek">εκδικηθήναι</span></big> <sup><small><small>[[G1556]]</small></small></sup> |
+| I put | <big><span class="asgreek">δέδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| a smooth rock, | <big><span class="asgreek">λεωπετρίαν</span></big> <sup><small><small>[[G8188]]</small></small></sup> |
+| \[so as\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| cover | <big><span class="asgreek">καλύψαι</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.7|<< Ezekiel 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.9|Ezekiel 24:9 >>]]</td></tr></table>
 
 

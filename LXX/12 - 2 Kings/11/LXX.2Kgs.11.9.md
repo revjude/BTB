@@ -9,34 +9,34 @@ So the commanders of hundreds did everything that Jehoiada the priest had ordere
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| did | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| commanders of hundreds | <span class="asgreek">εκατόνταρχοι <sup><small><small>[[G1543]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| as much as | <span class="asgreek">όσα <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| Jehoiada gave charge. | <span class="asgreek">ενετείλατο <sup><small><small>[[G1781]]</small></small></sup> <span class="asgreek">Ιωδαέ <sup><small><small>[[H3111]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| took | <span class="asgreek">έλαβεν <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| each \[commander\] | <span class="asgreek">έκαστος <sup><small><small>[[G1538]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his men | <span class="asgreek">άνδρας <sup><small><small>[[G0435]]</small></small></sup> <span class="asgreek">αυτου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| entering | <span class="asgreek">εισπορευομένους <sup><small><small>[[G1531]]</small></small></sup> </span> |
-| on the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Sabbath, | <span class="asgreek">σάββατον <sup><small><small>[[G4521]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| exiting | <span class="asgreek">εκπορευομένων <sup><small><small>[[G1607]]</small></small></sup> </span> |
-| on the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Sabbath. | <span class="asgreek">σάββατον <sup><small><small>[[G4521]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they entered | <span class="asgreek">εισήλθον <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Jehoiada | <span class="asgreek">Ιωδαέ <sup><small><small>[[H3111]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priest. | <span class="asgreek">ιερέα <sup><small><small>[[G2409]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| did | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| commanders of hundreds | <big><span class="asgreek">εκατόνταρχοι</span></big> <sup><small><small>[[G1543]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| Jehoiada gave charge. | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> <big><span class="asgreek">Ιωδαέ</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| took | <big><span class="asgreek">έλαβεν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| each \[commander\] | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his men | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| entering | <big><span class="asgreek">εισπορευομένους</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
+| on the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Sabbath, | <big><span class="asgreek">σάββατον</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| exiting | <big><span class="asgreek">εκπορευομένων</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
+| on the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Sabbath. | <big><span class="asgreek">σάββατον</span></big> <sup><small><small>[[G4521]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they entered | <big><span class="asgreek">εισήλθον</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Jehoiada | <big><span class="asgreek">Ιωδαέ</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priest. | <big><span class="asgreek">ιερέα</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
 [[2Kgs.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.8|<< 2 Kings 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.10|2 Kings 11:10 >>]]</td></tr></table>
 
 

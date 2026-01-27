@@ -9,34 +9,34 @@ Is this the fast I have chosen: a day for a man to deny himself, to bow his head
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| this | <span class="asgreek">ταύτην <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fast | <span class="asgreek">νηστείαν <sup><small><small>[[G3521]]</small></small></sup> </span> |
-| choose | <span class="asgreek">εξελεξάμην <sup><small><small>[[G1586]]</small></small></sup> </span> |
-| nor | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a day | <span class="asgreek">ημέραν <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| to humble | <span class="asgreek">ταπεινούν <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| for a man | <span class="asgreek">άνθρωπον <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his soul; | <span class="asgreek">ψυχήν <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδ΄ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| even | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| should you bend | <span class="asgreek">κάμψης <sup><small><small>[[G2578]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a hook | <span class="asgreek">κρίκον <sup><small><small>[[G8095]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your neck | <span class="asgreek">τράχηλόν <sup><small><small>[[G5137]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| nor | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| sackcloth | <span class="asgreek">σάκκον <sup><small><small>[[G4526]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| ashes | <span class="asgreek">σποδόν <sup><small><small>[[G4700]]</small></small></sup> </span> |
-| should you spread under \[you\] | <span class="asgreek">υποστρώση <sup><small><small>[[G5291]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδ΄ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| thus | <span class="asgreek">ούτω <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| shall you call | <span class="asgreek">καλέσετε <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| fast | <span class="asgreek">νηστείαν <sup><small><small>[[G3521]]</small></small></sup> </span> |
-| an acceptable | <span class="asgreek">δεκτήν <sup><small><small>[[G1184]]</small></small></sup> </span> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| this | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fast | <big><span class="asgreek">νηστείαν</span></big> <sup><small><small>[[G3521]]</small></small></sup> |
+| choose | <big><span class="asgreek">εξελεξάμην</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
+| nor | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| to humble | <big><span class="asgreek">ταπεινούν</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| for a man | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his soul; | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδ΄</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| even | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| should you bend | <big><span class="asgreek">κάμψης</span></big> <sup><small><small>[[G2578]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a hook | <big><span class="asgreek">κρίκον</span></big> <sup><small><small>[[G8095]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your neck | <big><span class="asgreek">τράχηλόν</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| nor | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| sackcloth | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| ashes | <big><span class="asgreek">σποδόν</span></big> <sup><small><small>[[G4700]]</small></small></sup> |
+| should you spread under \[you\] | <big><span class="asgreek">υποστρώση</span></big> <sup><small><small>[[G5291]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδ΄</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| shall you call | <big><span class="asgreek">καλέσετε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| fast | <big><span class="asgreek">νηστείαν</span></big> <sup><small><small>[[G3521]]</small></small></sup> |
+| an acceptable | <big><span class="asgreek">δεκτήν</span></big> <sup><small><small>[[G1184]]</small></small></sup> |
 [[Isa.58.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.4|<< Isaiah 58:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.6|Isaiah 58:6 >>]]</td></tr></table>
 
 

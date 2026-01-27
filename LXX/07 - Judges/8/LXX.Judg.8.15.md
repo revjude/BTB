@@ -9,39 +9,39 @@ And Gideon went to the men of Succoth and said, “Here are Zebah and Zalmunna, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he came | <span class="asgreek">παρεγένετο <sup><small><small>[[G3854]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rulers | <span class="asgreek">άρχοντας <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of Succoth. | <span class="asgreek">Σοκχώθ <sup><small><small>[[H5523]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to them, | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| Zebah | <span class="asgreek">Ζεβεέ <sup><small><small>[[H2078]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Zalmunna, | <span class="asgreek">Σαλμανά <sup><small><small>[[H6759]]</small></small></sup> </span> |
-| by | <span class="asgreek">δι΄ <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| whom | <span class="asgreek">ους <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you berated | <span class="asgreek">ωνειδίσατέ <sup><small><small>[[G3679]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγοντες <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Not \[is\] | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| \[the\] hand | <span class="asgreek">χειρ <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| of Zebah | <span class="asgreek">Ζεβεέ <sup><small><small>[[H2078]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Zalmunna | <span class="asgreek">Σαλμανά <sup><small><small>[[H6759]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| your hand, | <span class="asgreek">χειρί <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| we will give | <span class="asgreek">δώσομεν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your men | <span class="asgreek">ανδράσι <sup><small><small>[[G0435]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fainting | <span class="asgreek">εκλυομένοις <sup><small><small>[[G1590]]</small></small></sup> </span> |
-| bread \[loaves\] | <span class="asgreek">άρτους <sup><small><small>[[G0740]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he came | <big><span class="asgreek">παρεγένετο</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rulers | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of Succoth. | <big><span class="asgreek">Σοκχώθ</span></big> <sup><small><small>[[H5523]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| Zebah | <big><span class="asgreek">Ζεβεέ</span></big> <sup><small><small>[[H2078]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Zalmunna, | <big><span class="asgreek">Σαλμανά</span></big> <sup><small><small>[[H6759]]</small></small></sup> |
+| by | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you berated | <big><span class="asgreek">ωνειδίσατέ</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Not \[is\] | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| \[the\] hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| of Zebah | <big><span class="asgreek">Ζεβεέ</span></big> <sup><small><small>[[H2078]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Zalmunna | <big><span class="asgreek">Σαλμανά</span></big> <sup><small><small>[[H6759]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| your hand, | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| we will give | <big><span class="asgreek">δώσομεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your men | <big><span class="asgreek">ανδράσι</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fainting | <big><span class="asgreek">εκλυομένοις</span></big> <sup><small><small>[[G1590]]</small></small></sup> |
+| bread \[loaves\] | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
 [[Judg.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.14|<< Judges 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.16|Judges 8:16 >>]]</td></tr></table>
 
 

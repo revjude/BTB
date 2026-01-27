@@ -9,15 +9,15 @@ A soothing tongue is a tree of life, but a perverse tongue crushes the spirit.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] healing | <span class="asgreek">ίασις <sup><small><small>[[G2392]]</small></small></sup> </span> |
-| tongue | <span class="asgreek">γλώσσης <sup><small><small>[[G1100]]</small></small></sup> </span> |
-| \[is\] a tree | <span class="asgreek">δένδρον <sup><small><small>[[G1186]]</small></small></sup> </span> |
-| of life, | <span class="asgreek">ζωής <sup><small><small>[[G2222]]</small></small></sup> </span> |
-| and the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| one preserving | <span class="asgreek">συντηρών <sup><small><small>[[G4933]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall be filled | <span class="asgreek">πλησθήσεται <sup><small><small>[[G4130]]</small></small></sup> </span> |
-| of spirit. | <span class="asgreek">πνεύματος <sup><small><small>[[G4151]]</small></small></sup> </span> |
+| \[The\] healing | <big><span class="asgreek">ίασις</span></big> <sup><small><small>[[G2392]]</small></small></sup> |
+| tongue | <big><span class="asgreek">γλώσσης</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
+| \[is\] a tree | <big><span class="asgreek">δένδρον</span></big> <sup><small><small>[[G1186]]</small></small></sup> |
+| of life, | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
+| and the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| one preserving | <big><span class="asgreek">συντηρών</span></big> <sup><small><small>[[G4933]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall be filled | <big><span class="asgreek">πλησθήσεται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
+| of spirit. | <big><span class="asgreek">πνεύματος</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
 [[Prov.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.3|<< Proverbs 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.5|Proverbs 15:5 >>]]</td></tr></table>
 
 

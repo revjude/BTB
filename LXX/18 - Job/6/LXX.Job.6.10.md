@@ -9,26 +9,26 @@ It still brings me comfort, and joy through unrelenting pain, that I have not de
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| be | <span class="asgreek">είη <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| But | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| city | <span class="asgreek">πόλις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| \[the\] grave | <span class="asgreek">τάφος <sup><small><small>[[G5028]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| of which | <span class="asgreek">ης <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] walls | <span class="asgreek">τειχέων <sup><small><small>[[G5038]]</small></small></sup> </span> |
-| I leaped | <span class="asgreek">ηλλόμην <sup><small><small>[[G0242]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| spare; | <span class="asgreek">φείσομαι <sup><small><small>[[G5339]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| I lied | <span class="asgreek">εψευσάμην <sup><small><small>[[G5574]]</small></small></sup> </span> |
-| sayings | <span class="asgreek">ρήματα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| \[the\] holy | <span class="asgreek">άγια <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| of my God. | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| be | <big><span class="asgreek">είη</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| But | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| \[the\] grave | <big><span class="asgreek">τάφος</span></big> <sup><small><small>[[G5028]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| of which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] walls | <big><span class="asgreek">τειχέων</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
+| I leaped | <big><span class="asgreek">ηλλόμην</span></big> <sup><small><small>[[G0242]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| spare; | <big><span class="asgreek">φείσομαι</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| I lied | <big><span class="asgreek">εψευσάμην</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
+| sayings | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| \[the\] holy | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| of my God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.9|<< Job 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.11|Job 6:11 >>]]</td></tr></table>
 
 

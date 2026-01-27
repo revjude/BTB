@@ -9,29 +9,29 @@ But they replied, “We cannot, until all the flocks have been gathered and the 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| they said, | <span class="asgreek">είπον <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| We are not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| able | <span class="asgreek">δυνησόμεθα <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| coming together | <span class="asgreek">συναχθήναι <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| of all | <span class="asgreek">πάντας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shepherds, | <span class="asgreek">ποιμένας <sup><small><small>[[G4166]]</small></small></sup> </span> |
-| for | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they should roll away | <span class="asgreek">αποκυλίσωσι <sup><small><small>[[G0617]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| stone | <span class="asgreek">λίθον <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mouth | <span class="asgreek">στόματος <sup><small><small>[[G4750]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| well, | <span class="asgreek">φρέατος <sup><small><small>[[G5421]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we shall water | <span class="asgreek">ποτιούμεν <sup><small><small>[[G4222]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sheep. | <span class="asgreek">πρόβατα <sup><small><small>[[G4263]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| they said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| We are not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| able | <big><span class="asgreek">δυνησόμεθα</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| coming together | <big><span class="asgreek">συναχθήναι</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| of all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shepherds, | <big><span class="asgreek">ποιμένας</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
+| for | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they should roll away | <big><span class="asgreek">αποκυλίσωσι</span></big> <sup><small><small>[[G0617]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| well, | <big><span class="asgreek">φρέατος</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we shall water | <big><span class="asgreek">ποτιούμεν</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sheep. | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
 [[Gen.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.7|<< Genesis 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.9|Genesis 29:9 >>]]</td></tr></table>
 
 

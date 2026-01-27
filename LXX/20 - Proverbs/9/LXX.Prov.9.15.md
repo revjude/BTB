@@ -9,15 +9,15 @@ calling out to those who pass by, who make their paths straight.<small><sub>**M
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| calling | <span class="asgreek">προσκαλουμένη <sup><small><small>[[G4341]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones passing by | <span class="asgreek">παριόντας <sup><small><small>[[G3935]]</small></small></sup> </span> |
-| \[the\] way, | <span class="asgreek">οδόν <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the ones going straight | <span class="asgreek">κατευθύνοντας <sup><small><small>[[G2720]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their ways, \[saying\], | <span class="asgreek">οδοίς <sup><small><small>[[G3598]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| calling | <big><span class="asgreek">προσκαλουμένη</span></big> <sup><small><small>[[G4341]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones passing by | <big><span class="asgreek">παριόντας</span></big> <sup><small><small>[[G3935]]</small></small></sup> |
+| \[the\] way, | <big><span class="asgreek">οδόν</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the ones going straight | <big><span class="asgreek">κατευθύνοντας</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their ways, \[saying\], | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.14|<< Proverbs 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.16|Proverbs 9:16 >>]]</td></tr></table>
 
 

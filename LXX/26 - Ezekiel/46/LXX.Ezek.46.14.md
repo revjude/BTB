@@ -9,32 +9,32 @@ You are also to provide with it every morning a grain offering of a sixth of an 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a gift \[offering\] | <span class="asgreek">μαναά <sup><small><small>[[G8246]]</small></small></sup> </span> |
-| he shall prepare | <span class="asgreek">ποιήσει <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| for | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| morning | <span class="asgreek">τοπρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| \[by\] morning, | <span class="asgreek">πρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sixth | <span class="asgreek">έκτον <sup><small><small>[[G1623]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of a measure, | <span class="asgreek">μέτρου <sup><small><small>[[G3358]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| olive oil | <span class="asgreek">ελαίου <sup><small><small>[[G1637]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| third | <span class="asgreek">τρίτον <sup><small><small>[[G5154]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of a hin | <span class="asgreek">ιν <sup><small><small>[[G9824]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to intermingle with | <span class="asgreek">αναμίξαι <sup><small><small>[[G6294]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fine flour | <span class="asgreek">σεμίδαλιν <sup><small><small>[[G4585]]</small></small></sup> </span> |
-| as a gift \[offering\] | <span class="asgreek">μαναά <sup><small><small>[[G8246]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| order | <span class="asgreek">πρόσταγμα <sup><small><small>[[G8943]]</small></small></sup> </span> |
-| a continual | <span class="asgreek">διαπαντός <sup><small><small>[[G1275]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a gift \[offering\] | <big><span class="asgreek">μαναά</span></big> <sup><small><small>[[G8246]]</small></small></sup> |
+| he shall prepare | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| for | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| \[by\] morning, | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sixth | <big><span class="asgreek">έκτον</span></big> <sup><small><small>[[G1623]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of a measure, | <big><span class="asgreek">μέτρου</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| olive oil | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| third | <big><span class="asgreek">τρίτον</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of a hin | <big><span class="asgreek">ιν</span></big> <sup><small><small>[[G9824]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to intermingle with | <big><span class="asgreek">αναμίξαι</span></big> <sup><small><small>[[G6294]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fine flour | <big><span class="asgreek">σεμίδαλιν</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
+| as a gift \[offering\] | <big><span class="asgreek">μαναά</span></big> <sup><small><small>[[G8246]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| order | <big><span class="asgreek">πρόσταγμα</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
+| a continual | <big><span class="asgreek">διαπαντός</span></big> <sup><small><small>[[G1275]]</small></small></sup> |
 [[Ezek.46.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.13|<< Ezekiel 46:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.15|Ezekiel 46:15 >>]]</td></tr></table>
 
 

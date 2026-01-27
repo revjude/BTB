@@ -12,22 +12,22 @@ Woe to those who rise early in the morning in pursuit of strong drink, who linge
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Woe | <span class="asgreek">ουαί <sup><small><small>[[G3759]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| arising | <span class="asgreek">εγειρόμενοι <sup><small><small>[[G1453]]</small></small></sup> </span> |
-| in the morning | <span class="asgreek">τοπρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| liquor | <span class="asgreek">σίκερα <sup><small><small>[[G4608]]</small></small></sup> </span> |
-| pursuing | <span class="asgreek">διώκοντες <sup><small><small>[[G1377]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| waiting | <span class="asgreek">μένουντες <sup><small><small>[[G3306]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| late \[for it\]; | <span class="asgreek">οψέ <sup><small><small>[[G3796]]</small></small></sup> </span> |
-| for the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| wine | <span class="asgreek">οίνος <sup><small><small>[[G3631]]</small></small></sup> </span> |
-| shall burn with | <span class="asgreek">συγκαύσει <sup><small><small>[[G9221]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| arising | <big><span class="asgreek">εγειρόμενοι</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
+| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| liquor | <big><span class="asgreek">σίκερα</span></big> <sup><small><small>[[G4608]]</small></small></sup> |
+| pursuing | <big><span class="asgreek">διώκοντες</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| waiting | <big><span class="asgreek">μένουντες</span></big> <sup><small><small>[[G3306]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| late \[for it\]; | <big><span class="asgreek">οψέ</span></big> <sup><small><small>[[G3796]]</small></small></sup> |
+| for the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| wine | <big><span class="asgreek">οίνος</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| shall burn with | <big><span class="asgreek">συγκαύσει</span></big> <sup><small><small>[[G9221]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.10|<< Isaiah 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.12|Isaiah 5:12 >>]]</td></tr></table>
 
 

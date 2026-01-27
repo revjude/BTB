@@ -9,24 +9,24 @@ They will lick the dust like a snake, like reptiles slithering on the ground. Th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They shall lick | <span class="asgreek">λείξουσι <sup><small><small>[[G8176]]</small></small></sup> </span> |
-| dust | <span class="asgreek">χουν <sup><small><small>[[G5522]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| serpents | <span class="asgreek">όφεις <sup><small><small>[[G3789]]</small></small></sup> </span> |
-| dragging on | <span class="asgreek">σύροντες <sup><small><small>[[G4951]]</small></small></sup> </span> |
-| \[the\] earth; | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| they shall be confounded | <span class="asgreek">συγχυθήσονται <sup><small><small>[[G4797]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| their confinement; | <span class="asgreek">συγκλεισμώ <sup><small><small>[[G9233]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| by | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| our God | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall be amazed, | <span class="asgreek">εκστήσονται <sup><small><small>[[G1839]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall fear | <span class="asgreek">φοβηθήσονται <sup><small><small>[[G5399]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| They shall lick | <big><span class="asgreek">λείξουσι</span></big> <sup><small><small>[[G8176]]</small></small></sup> |
+| dust | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| serpents | <big><span class="asgreek">όφεις</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
+| dragging on | <big><span class="asgreek">σύροντες</span></big> <sup><small><small>[[G4951]]</small></small></sup> |
+| \[the\] earth; | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| they shall be confounded | <big><span class="asgreek">συγχυθήσονται</span></big> <sup><small><small>[[G4797]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| their confinement; | <big><span class="asgreek">συγκλεισμώ</span></big> <sup><small><small>[[G9233]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| our God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall be amazed, | <big><span class="asgreek">εκστήσονται</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall fear | <big><span class="asgreek">φοβηθήσονται</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Mic.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.16|<< Micah 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.18|Micah 7:18 >>]]</td></tr></table>
 
 

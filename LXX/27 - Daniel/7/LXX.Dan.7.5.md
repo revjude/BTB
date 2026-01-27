@@ -13,34 +13,34 @@ Suddenly another beast appeared, which looked like a bear. It was raised up on o
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| wild beast | <span class="asgreek">θηρίον <sup><small><small>[[G2342]]</small></small></sup> </span> |
-| a second | <span class="asgreek">δεύτερον <sup><small><small>[[G1208]]</small></small></sup> </span> |
-| likened | <span class="asgreek">όμοιον <sup><small><small>[[G3664]]</small></small></sup> </span> |
-| to a bear, | <span class="asgreek">άρκω <sup><small><small>[[G0715]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| on | <span class="asgreek">εις <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| part | <span class="asgreek">μέρος <sup><small><small>[[G3313]]</small></small></sup> </span> |
-| one | <span class="asgreek">εν <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| she stood, | <span class="asgreek">εστάθη <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| three | <span class="asgreek">τρία <sup><small><small>[[G5140]]</small></small></sup> </span> |
-| ribs | <span class="asgreek">πλευρά <sup><small><small>[[G4125]]</small></small></sup> </span> |
-| \[were\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her mouth, | <span class="asgreek">στόματι <sup><small><small>[[G4750]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in between | <span class="asgreek">αναμέσον <sup><small><small>[[G6271]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her teeth. | <span class="asgreek">οδόντων <sup><small><small>[[G3599]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| they said | <span class="asgreek">έλεγον <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| to her, | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Rise up, | <span class="asgreek">ανάστηθι <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| eat | <span class="asgreek">φάγε <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| flesh | <span class="asgreek">σάρκας <sup><small><small>[[G4561]]</small></small></sup> </span> |
-| much | <span class="asgreek">πολλάς <sup><small><small>[[G4183]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| wild beast | <big><span class="asgreek">θηρίον</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
+| a second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| likened | <big><span class="asgreek">όμοιον</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
+| to a bear, | <big><span class="asgreek">άρκω</span></big> <sup><small><small>[[G0715]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| part | <big><span class="asgreek">μέρος</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
+| one | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| she stood, | <big><span class="asgreek">εστάθη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| three | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
+| ribs | <big><span class="asgreek">πλευρά</span></big> <sup><small><small>[[G4125]]</small></small></sup> |
+| \[were\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her mouth, | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her teeth. | <big><span class="asgreek">οδόντων</span></big> <sup><small><small>[[G3599]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| they said | <big><span class="asgreek">έλεγον</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Rise up, | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| eat | <big><span class="asgreek">φάγε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| flesh | <big><span class="asgreek">σάρκας</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| much | <big><span class="asgreek">πολλάς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
 [[Dan.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.4|<< Daniel 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.6|Daniel 7:6 >>]]</td></tr></table>
 
 

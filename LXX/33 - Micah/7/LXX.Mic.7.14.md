@@ -9,31 +9,31 @@ Shepherd with Your staff Your people, the flock of Your inheritance. They live a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Tend | <span class="asgreek">ποίμαινε <sup><small><small>[[G4165]]</small></small></sup> </span> |
-| your people | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| your rod, | <span class="asgreek">ράβδω <sup><small><small>[[G4464]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] sheep | <span class="asgreek">πρόβατα <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| of your inheritance, | <span class="asgreek">κληρονομίας <sup><small><small>[[G2817]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] ones encamping | <span class="asgreek">κατασκηνούντας <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| by themselves | <span class="asgreek">καθ΄ <sup><small><small>[[G2596]]</small></small></sup> <span class="asgreek">εαυτούς <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a forest, | <span class="asgreek">δρυμώ <sup><small><small>[[G6971]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] midst | <span class="asgreek">μέσω <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Carmel! | <span class="asgreek">Καρμήλου <sup><small><small>[[H3760]]</small></small></sup> </span> |
-| They shall feed | <span class="asgreek">νεμήσονται <sup><small><small>[[G8385]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Bashan, | <span class="asgreek">Βασανίτιν <sup><small><small>[[H1316]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Gilead, | <span class="asgreek">Γαλααδίτιν <sup><small><small>[[H1568]]</small></small></sup> </span> |
-| according to | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| days | <span class="asgreek">ημέραι <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eon. | <span class="asgreek">αιώνος <sup><small><small>[[G0165]]</small></small></sup> </span> |
+| Tend | <big><span class="asgreek">ποίμαινε</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
+| your people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| your rod, | <big><span class="asgreek">ράβδω</span></big> <sup><small><small>[[G4464]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| of your inheritance, | <big><span class="asgreek">κληρονομίας</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] ones encamping | <big><span class="asgreek">κατασκηνούντας</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| by themselves | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">εαυτούς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a forest, | <big><span class="asgreek">δρυμώ</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Carmel! | <big><span class="asgreek">Καρμήλου</span></big> <sup><small><small>[[H3760]]</small></small></sup> |
+| They shall feed | <big><span class="asgreek">νεμήσονται</span></big> <sup><small><small>[[G8385]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Bashan, | <big><span class="asgreek">Βασανίτιν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Gilead, | <big><span class="asgreek">Γαλααδίτιν</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
+| according to | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
 [[Mic.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.13|<< Micah 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.15|Micah 7:15 >>]]</td></tr></table>
 
 

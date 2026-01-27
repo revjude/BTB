@@ -13,15 +13,15 @@ They surround me with hateful words and attack me without cause.<small><sub>**M
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[with\] words | <span class="asgreek">λόγοις <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| of hatred | <span class="asgreek">μίσους <sup><small><small>[[G8332]]</small></small></sup> </span> |
-| they encircled | <span class="asgreek">εκύκλωσάν <sup><small><small>[[G2944]]</small></small></sup> </span> |
-| me; | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they waged war against | <span class="asgreek">επολέμησάν <sup><small><small>[[G4170]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| without charge. | <span class="asgreek">δωρεάν <sup><small><small>[[G1431]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[with\] words | <big><span class="asgreek">λόγοις</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| of hatred | <big><span class="asgreek">μίσους</span></big> <sup><small><small>[[G8332]]</small></small></sup> |
+| they encircled | <big><span class="asgreek">εκύκλωσάν</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
+| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they waged war against | <big><span class="asgreek">επολέμησάν</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| without charge. | <big><span class="asgreek">δωρεάν</span></big> <sup><small><small>[[G1431]]</small></small></sup> |
 [[Ps.109.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.2|<< Psalm 109:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.4|Psalm 109:4 >>]]</td></tr></table>
 
 

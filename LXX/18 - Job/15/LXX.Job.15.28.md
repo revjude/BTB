@@ -9,17 +9,17 @@ he will dwell in ruined cities, in abandoned houses destined to become rubble.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And may he be lodged | <span class="asgreek">αυλισθείη <sup><small><small>[[G0835]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| in desolate | <span class="asgreek">ερήμους <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| and enter | <span class="asgreek">εισέλθοι <sup><small><small>[[G1525]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| houses | <span class="asgreek">οίκους <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| uninhabited | <span class="asgreek">αοικήτους <sup><small><small>[[G6384]]</small></small></sup> </span> |
-| and what | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| these | <span class="asgreek">εκείνοι <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| prepared, | <span class="asgreek">ητοίμασαν <sup><small><small>[[G2090]]</small></small></sup> </span> |
-| others | <span class="asgreek">άλλοι <sup><small><small>[[G0243]]</small></small></sup> </span> |
-| shall carry away. | <span class="asgreek">αποίσονται <sup><small><small>[[G0667]]</small></small></sup> </span> |
+| And may he be lodged | <big><span class="asgreek">αυλισθείη</span></big> <sup><small><small>[[G0835]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| in desolate | <big><span class="asgreek">ερήμους</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| and enter | <big><span class="asgreek">εισέλθοι</span></big> <sup><small><small>[[G1525]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| uninhabited | <big><span class="asgreek">αοικήτους</span></big> <sup><small><small>[[G6384]]</small></small></sup> |
+| and what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| these | <big><span class="asgreek">εκείνοι</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| prepared, | <big><span class="asgreek">ητοίμασαν</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
+| others | <big><span class="asgreek">άλλοι</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
+| shall carry away. | <big><span class="asgreek">αποίσονται</span></big> <sup><small><small>[[G0667]]</small></small></sup> |
 [[Job.15.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.27|<< Job 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.29|Job 15:29 >>]]</td></tr></table>
 
 

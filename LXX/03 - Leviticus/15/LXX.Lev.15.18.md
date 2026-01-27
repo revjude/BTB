@@ -9,22 +9,22 @@ If a man lies with a woman and there is an emission of semen, both must bathe wi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a wife, | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| should have gone to bed | <span class="asgreek">κοιμηθή <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| a husband | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετ΄ <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in a marriage-bed | <span class="asgreek">κοίτην <sup><small><small>[[G2845]]</small></small></sup> </span> |
-| of semen, | <span class="asgreek">σπέρματος <sup><small><small>[[G4690]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall bathe | <span class="asgreek">λούσονται <sup><small><small>[[G3068]]</small></small></sup> </span> |
-| in water, | <span class="asgreek">ύδατι <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they will be unclean | <span class="asgreek">ακάθαρτοι <sup><small><small>[[G0169]]</small></small></sup> <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| evening. | <span class="asgreek">εσπέρας <sup><small><small>[[G2073]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a wife, | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| should have gone to bed | <big><span class="asgreek">κοιμηθή</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| a husband | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in a marriage-bed | <big><span class="asgreek">κοίτην</span></big> <sup><small><small>[[G2845]]</small></small></sup> |
+| of semen, | <big><span class="asgreek">σπέρματος</span></big> <sup><small><small>[[G4690]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall bathe | <big><span class="asgreek">λούσονται</span></big> <sup><small><small>[[G3068]]</small></small></sup> |
+| in water, | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they will be unclean | <big><span class="asgreek">ακάθαρτοι</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| evening. | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
 [[Lev.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.17|<< Leviticus 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.19|Leviticus 15:19 >>]]</td></tr></table>
 
 

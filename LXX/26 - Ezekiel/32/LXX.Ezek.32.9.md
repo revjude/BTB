@@ -9,21 +9,21 @@ I will also vex the hearts of many people, when I shall bring thy destruction am
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will provoke to anger | <span class="asgreek">παροργιώ <sup><small><small>[[G3949]]</small></small></sup> </span> |
-| \[the\] heart | <span class="asgreek">καρδίαν <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| of many | <span class="asgreek">πολλών <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| peoples, | <span class="asgreek">λαών <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">ηνίκα <sup><small><small>[[G2259]]</small></small></sup> <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| I lead | <span class="asgreek">άγω <sup><small><small>[[G0071]]</small></small></sup> </span> |
-| you \[as\] a captivity | <span class="asgreek">αιχμαλωσίαν <sup><small><small>[[G0161]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations, | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a land | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you knew not. | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έγνως <sup><small><small>[[G1097]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will provoke to anger | <big><span class="asgreek">παροργιώ</span></big> <sup><small><small>[[G3949]]</small></small></sup> |
+| \[the\] heart | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| of many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| peoples, | <big><span class="asgreek">λαών</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| whenever | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| I lead | <big><span class="asgreek">άγω</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| you \[as\] a captivity | <big><span class="asgreek">αιχμαλωσίαν</span></big> <sup><small><small>[[G0161]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you knew not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έγνως</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
 [[Ezek.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.8|<< Ezekiel 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.10|Ezekiel 32:10 >>]]</td></tr></table>
 
 

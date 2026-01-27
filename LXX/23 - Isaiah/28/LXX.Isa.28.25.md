@@ -9,29 +9,29 @@ When he has leveled its surface, does he not sow caraway and scatter cumin? He p
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Does he not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| he should level | <span class="asgreek">ομαλίση <sup><small><small>[[G8502]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| face | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of it, | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| sow | <span class="asgreek">σπείρει <sup><small><small>[[G4687]]</small></small></sup> </span> |
-| \[the\] small | <span class="asgreek">μικρόν <sup><small><small>[[G3398]]</small></small></sup> </span> |
-| pepperwort | <span class="asgreek">μελάνθιον <sup><small><small>[[G8279]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| cummin, | <span class="asgreek">κύμινον <sup><small><small>[[G2951]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| again | <span class="asgreek">πάλιν <sup><small><small>[[G3825]]</small></small></sup> </span> |
-| sow | <span class="asgreek">σπείρει <sup><small><small>[[G4687]]</small></small></sup> </span> |
-| wheat, | <span class="asgreek">πυρόν <sup><small><small>[[G8994]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| barley, | <span class="asgreek">κριθήν <sup><small><small>[[G2915]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| spelt, | <span class="asgreek">ζέαν <sup><small><small>[[G7597]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your boundaries? | <span class="asgreek">ορίοις <sup><small><small>[[G3725]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Does he not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| he should level | <big><span class="asgreek">ομαλίση</span></big> <sup><small><small>[[G8502]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| face | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of it, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| sow | <big><span class="asgreek">σπείρει</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
+| \[the\] small | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| pepperwort | <big><span class="asgreek">μελάνθιον</span></big> <sup><small><small>[[G8279]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| cummin, | <big><span class="asgreek">κύμινον</span></big> <sup><small><small>[[G2951]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
+| sow | <big><span class="asgreek">σπείρει</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
+| wheat, | <big><span class="asgreek">πυρόν</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| barley, | <big><span class="asgreek">κριθήν</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| spelt, | <big><span class="asgreek">ζέαν</span></big> <sup><small><small>[[G7597]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your boundaries? | <big><span class="asgreek">ορίοις</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.28.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.24|<< Isaiah 28:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.26|Isaiah 28:26 >>]]</td></tr></table>
 
 

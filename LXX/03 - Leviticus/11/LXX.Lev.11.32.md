@@ -9,44 +9,44 @@ When one of them dies and falls on something, that article becomes unclean; any 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| what | <span class="asgreek">ο <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| should fall | <span class="asgreek">επιπέση <sup><small><small>[[G1968]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| their ones having died, | <span class="asgreek">τεθνηκότων <sup><small><small>[[G2348]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall be unclean | <span class="asgreek">ακάθαρτον <sup><small><small>[[G0169]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| every | <span class="asgreek">παντός <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| item | <span class="asgreek">σκεύους <sup><small><small>[[G4632]]</small></small></sup> </span> |
-| wooden | <span class="asgreek">ξυλίνου <sup><small><small>[[G3585]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| garment, | <span class="asgreek">ιματίου <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| skin, | <span class="asgreek">δέρματος <sup><small><small>[[G1192]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| a sackcloth. | <span class="asgreek">σάκκου <sup><small><small>[[G4526]]</small></small></sup> </span> |
-| Every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| item | <span class="asgreek">σκεύος <sup><small><small>[[G4632]]</small></small></sup> </span> |
-| in which | <span class="asgreek">ω <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">εαν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| should be done | <span class="asgreek">ποιηθή <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| shall be dipped | <span class="asgreek">βαφήσεται <sup><small><small>[[G0911]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall be unclean | <span class="asgreek">ακάθαρτον <sup><small><small>[[G0169]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| evening -- | <span class="asgreek">εσπέρας <sup><small><small>[[G2073]]</small></small></sup> </span> |
-| and \[then\] | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will be clean. | <span class="asgreek">καθαρόν <sup><small><small>[[G2513]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| what | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| should fall | <big><span class="asgreek">επιπέση</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| their ones having died, | <big><span class="asgreek">τεθνηκότων</span></big> <sup><small><small>[[G2348]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall be unclean | <big><span class="asgreek">ακάθαρτον</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| item | <big><span class="asgreek">σκεύους</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
+| wooden | <big><span class="asgreek">ξυλίνου</span></big> <sup><small><small>[[G3585]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| garment, | <big><span class="asgreek">ιματίου</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| skin, | <big><span class="asgreek">δέρματος</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| a sackcloth. | <big><span class="asgreek">σάκκου</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
+| Every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| item | <big><span class="asgreek">σκεύος</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
+| in which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">εαν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| should be done | <big><span class="asgreek">ποιηθή</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| shall be dipped | <big><span class="asgreek">βαφήσεται</span></big> <sup><small><small>[[G0911]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall be unclean | <big><span class="asgreek">ακάθαρτον</span></big> <sup><small><small>[[G0169]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| evening -- | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
+| and \[then\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will be clean. | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Lev.11.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.31|<< Leviticus 11:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.33|Leviticus 11:33 >>]]</td></tr></table>
 
 

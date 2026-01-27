@@ -9,19 +9,19 @@ Better to live on a corner of the roof than to share a house with a quarrelsome 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Better | <span class="asgreek">κρείσσον <sup><small><small>[[G2908]]</small></small></sup> </span> |
-| to live | <span class="asgreek">οικείν <sup><small><small>[[G3611]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| a corner | <span class="asgreek">γωνίας <sup><small><small>[[G1137]]</small></small></sup> </span> |
-| \[of the housetop\] in the open air, | <span class="asgreek">υπαίθρου <sup><small><small>[[G9537]]</small></small></sup> </span> |
-| than | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| \[houses\] being whitewashed | <span class="asgreek">κεκονιαμένοις <sup><small><small>[[G2867]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| injustice, | <span class="asgreek">αδικίας <sup><small><small>[[G0093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκω <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| a profane | <span class="asgreek">κοινώ <sup><small><small>[[G2839]]</small></small></sup> </span> |
+| Better | <big><span class="asgreek">κρείσσον</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
+| to live | <big><span class="asgreek">οικείν</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| a corner | <big><span class="asgreek">γωνίας</span></big> <sup><small><small>[[G1137]]</small></small></sup> |
+| \[of the housetop\] in the open air, | <big><span class="asgreek">υπαίθρου</span></big> <sup><small><small>[[G9537]]</small></small></sup> |
+| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| \[houses\] being whitewashed | <big><span class="asgreek">κεκονιαμένοις</span></big> <sup><small><small>[[G2867]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| injustice, | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| a profane | <big><span class="asgreek">κοινώ</span></big> <sup><small><small>[[G2839]]</small></small></sup> |
 [[Prov.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.8|<< Proverbs 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.10|Proverbs 21:10 >>]]</td></tr></table>
 
 

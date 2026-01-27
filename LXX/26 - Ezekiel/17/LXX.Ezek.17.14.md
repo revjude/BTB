@@ -9,21 +9,21 @@ so that the kingdom would be brought low, unable to lift itself up, surviving on
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to become | <span class="asgreek">γενέσθαι <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| a | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| kingdom | <span class="asgreek">βασιλείαν <sup><small><small>[[G0932]]</small></small></sup> </span> |
-| weak | <span class="asgreek">ασθενή <sup><small><small>[[G0772]]</small></small></sup> </span> |
-| \[so that\]\<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| altogether | <span class="asgreek">καθόλου <sup><small><small>[[G2527]]</small></small></sup> </span> |
-| it should not lift itself up; | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">επαίρεσθαι <sup><small><small>[[G1869]]</small></small></sup> </span> |
-| but | <span class="asgreek">αλλά <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| to keep | <span class="asgreek">φυλάσσειν <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its covenant | <span class="asgreek">διαθήκην <sup><small><small>[[G1242]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to establish | <span class="asgreek">ιστάνειν <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| her. | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to become | <big><span class="asgreek">γενέσθαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| a | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| kingdom | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
+| weak | <big><span class="asgreek">ασθενή</span></big> <sup><small><small>[[G0772]]</small></small></sup> |
+| \[so that\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| altogether | <big><span class="asgreek">καθόλου</span></big> <sup><small><small>[[G2527]]</small></small></sup> |
+| it should not lift itself up; | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">επαίρεσθαι</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
+| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| to keep | <big><span class="asgreek">φυλάσσειν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to establish | <big><span class="asgreek">ιστάνειν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.13|<< Ezekiel 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.15|Ezekiel 17:15 >>]]</td></tr></table>
 
 

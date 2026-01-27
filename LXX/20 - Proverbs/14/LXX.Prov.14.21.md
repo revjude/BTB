@@ -9,13 +9,13 @@ He who despises his neighbor sins, but blessed is he who shows kindness to the p
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one dishonoring | <span class="asgreek">ατιμάζων <sup><small><small>[[G0818]]</small></small></sup> </span> |
-| \[the\] needy | <span class="asgreek">πένητας <sup><small><small>[[G3993]]</small></small></sup> </span> |
-| sins; | <span class="asgreek">αμαρτάνει <sup><small><small>[[G0264]]</small></small></sup> </span> |
-| but \[the\] one showing mercy | <span class="asgreek">ελεών <sup><small><small>[[G1653]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| on \[the\] poor | <span class="asgreek">πτωχούς <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| \[is\] most blessed. | <span class="asgreek">μακαριστός <sup><small><small>[[G8231]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one dishonoring | <big><span class="asgreek">ατιμάζων</span></big> <sup><small><small>[[G0818]]</small></small></sup> |
+| \[the\] needy | <big><span class="asgreek">πένητας</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
+| sins; | <big><span class="asgreek">αμαρτάνει</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| but \[the\] one showing mercy | <big><span class="asgreek">ελεών</span></big> <sup><small><small>[[G1653]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| on \[the\] poor | <big><span class="asgreek">πτωχούς</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| \[is\] most blessed. | <big><span class="asgreek">μακαριστός</span></big> <sup><small><small>[[G8231]]</small></small></sup> |
 [[Prov.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.20|<< Proverbs 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.22|Proverbs 14:22 >>]]</td></tr></table>
 
 

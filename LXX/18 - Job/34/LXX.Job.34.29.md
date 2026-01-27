@@ -9,27 +9,27 @@ But when He remains silent, who can condemn Him? When He hides His face, who can
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| rest | <span class="asgreek">ησυχίαν <sup><small><small>[[G2271]]</small></small></sup> </span> |
-| will furnish | <span class="asgreek">παρέξεται <sup><small><small>[[G3930]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| will condemn? | <span class="asgreek">καταδικάσεται <sup><small><small>[[G2613]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he will hide | <span class="asgreek">κρύψει <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| \[his\] face, | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall see | <span class="asgreek">όψεται <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| him? | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| a nation | <span class="asgreek">έθνους <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| a man | <span class="asgreek">ανθρώπου <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| together; | <span class="asgreek">ομού <sup><small><small>[[G3674]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| rest | <big><span class="asgreek">ησυχίαν</span></big> <sup><small><small>[[G2271]]</small></small></sup> |
+| will furnish | <big><span class="asgreek">παρέξεται</span></big> <sup><small><small>[[G3930]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| will condemn? | <big><span class="asgreek">καταδικάσεται</span></big> <sup><small><small>[[G2613]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he will hide | <big><span class="asgreek">κρύψει</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| \[his\] face, | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall see | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| him? | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| a nation | <big><span class="asgreek">έθνους</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| a man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| together; | <big><span class="asgreek">ομού</span></big> <sup><small><small>[[G3674]]</small></small></sup> |
 [[Job.34.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.28|<< Job 34:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.30|Job 34:30 >>]]</td></tr></table>
 
 

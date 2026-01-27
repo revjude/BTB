@@ -9,19 +9,19 @@ lest my enemy say, “I have overcome him,” and my foes rejoice when I fall.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| lest at any time | <span class="asgreek">μήποτε <sup><small><small>[[G3379]]</small></small></sup> </span> |
-| might say | <span class="asgreek">είποι <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my enemy | <span class="asgreek">εχθρός <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I prevailed | <span class="asgreek">ίσχυσα <sup><small><small>[[G2480]]</small></small></sup> </span> |
-| against | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| The | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones afflicting | <span class="asgreek">θλίβοντές <sup><small><small>[[G2346]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall exult | <span class="asgreek">αγαλλιάσονται <sup><small><small>[[G0021]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| I should be shaken. | <span class="asgreek">σαλευθώ <sup><small><small>[[G4531]]</small></small></sup> </span> |
+| lest at any time | <big><span class="asgreek">μήποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
+| might say | <big><span class="asgreek">είποι</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my enemy | <big><span class="asgreek">εχθρός</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I prevailed | <big><span class="asgreek">ίσχυσα</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
+| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones afflicting | <big><span class="asgreek">θλίβοντές</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall exult | <big><span class="asgreek">αγαλλιάσονται</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| I should be shaken. | <big><span class="asgreek">σαλευθώ</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
 [[Ps.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.13.3|<< Psalm 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.13.5|Psalm 13:5 >>]]</td></tr></table>
 
 

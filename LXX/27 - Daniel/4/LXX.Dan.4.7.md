@@ -9,27 +9,27 @@ When the magicians, enchanters, astrologers, and diviners came in, I told them t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| entered | <span class="asgreek">εισεπορεύοντο <sup><small><small>[[G1531]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| enchanters | <span class="asgreek">επαοιδοί <sup><small><small>[[G7368]]</small></small></sup> </span> |
-| magi | <span class="asgreek">μάγοι <sup><small><small>[[G3097]]</small></small></sup> </span> |
-| astrologers | <span class="asgreek">γαζαρηνοί <sup><small><small>[[G6708]]</small></small></sup> </span> |
-| Chaldeans | <span class="asgreek">Χαλδαίοι <sup><small><small>[[G5466]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dream | <span class="asgreek">ενύπνιον <sup><small><small>[[G1798]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| told | <span class="asgreek">είπα <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| before | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| interpretation | <span class="asgreek">σύγκρισιν <sup><small><small>[[G9241]]</small></small></sup> </span> |
-| of it | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| make known | <span class="asgreek">εγνώρισάν <sup><small><small>[[G1107]]</small></small></sup> </span> |
-| to me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| entered | <big><span class="asgreek">εισεπορεύοντο</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| enchanters | <big><span class="asgreek">επαοιδοί</span></big> <sup><small><small>[[G7368]]</small></small></sup> |
+| magi | <big><span class="asgreek">μάγοι</span></big> <sup><small><small>[[G3097]]</small></small></sup> |
+| astrologers | <big><span class="asgreek">γαζαρηνοί</span></big> <sup><small><small>[[G6708]]</small></small></sup> |
+| Chaldeans | <big><span class="asgreek">Χαλδαίοι</span></big> <sup><small><small>[[G5466]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dream | <big><span class="asgreek">ενύπνιον</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| told | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| interpretation | <big><span class="asgreek">σύγκρισιν</span></big> <sup><small><small>[[G9241]]</small></small></sup> |
+| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| make known | <big><span class="asgreek">εγνώρισάν</span></big> <sup><small><small>[[G1107]]</small></small></sup> |
+| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Dan.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.6|<< Daniel 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.8|Daniel 4:8 >>]]</td></tr></table>
 
 

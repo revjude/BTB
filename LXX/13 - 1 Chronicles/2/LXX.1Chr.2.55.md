@@ -9,25 +9,25 @@ and the clans of the scribes who lived at Jabez—the Tirathites, Shimeathites, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] families | <span class="asgreek">πατριαί <sup><small><small>[[G3965]]</small></small></sup> </span> |
-| of \[the\] scribes | <span class="asgreek">γραμματέων <sup><small><small>[[G1122]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">κατοικούντες <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Jabez -- | <span class="asgreek">Ιαβίς <sup><small><small>[[H3258]]</small></small></sup> </span> |
-| \[the\] Tirathites, | <span class="asgreek">Θαραθείν <sup><small><small>[[H8654]]</small></small></sup> </span> |
-| Shimeathites, | <span class="asgreek">Σαμαθείν <sup><small><small>[[H8100]]</small></small></sup> </span> |
-| Suchathites, | <span class="asgreek">Σουχαθείμ <sup><small><small>[[H7756]]</small></small></sup> </span> |
-| these \[are\] | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Kenites, | <span class="asgreek">Κιναίοι <sup><small><small>[[H7017]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones coming | <span class="asgreek">ελθόντες <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Hemath, | <span class="asgreek">Αιμάθ <sup><small><small>[[H2574]]</small></small></sup> </span> |
-| \[the\] father | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of \[the\] house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of Rechab. | <span class="asgreek">Ρηχάβ <sup><small><small>[[H7394]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] families | <big><span class="asgreek">πατριαί</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
+| of \[the\] scribes | <big><span class="asgreek">γραμματέων</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Jabez -- | <big><span class="asgreek">Ιαβίς</span></big> <sup><small><small>[[H3258]]</small></small></sup> |
+| \[the\] Tirathites, | <big><span class="asgreek">Θαραθείν</span></big> <sup><small><small>[[H8654]]</small></small></sup> |
+| Shimeathites, | <big><span class="asgreek">Σαμαθείν</span></big> <sup><small><small>[[H8100]]</small></small></sup> |
+| Suchathites, | <big><span class="asgreek">Σουχαθείμ</span></big> <sup><small><small>[[H7756]]</small></small></sup> |
+| these \[are\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Kenites, | <big><span class="asgreek">Κιναίοι</span></big> <sup><small><small>[[H7017]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones coming | <big><span class="asgreek">ελθόντες</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Hemath, | <big><span class="asgreek">Αιμάθ</span></big> <sup><small><small>[[H2574]]</small></small></sup> |
+| \[the\] father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of Rechab. | <big><span class="asgreek">Ρηχάβ</span></big> <sup><small><small>[[H7394]]</small></small></sup> |
 [[1Chr.2.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.54|<< 1 Chronicles 2:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.1|1 Chronicles 3:1 >>]]</td></tr></table>
 
 

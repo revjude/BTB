@@ -9,34 +9,34 @@ These were the children of Pharaoh’s daughter Bithiah. Mered also took a Judea
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his wife | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Jehudijah | <span class="asgreek">Ιουδεία <sup><small><small>[[H3057]]</small></small></sup> </span> |
-| bore | <span class="asgreek">έτεκεν <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jered | <span class="asgreek">Ιάρεδ <sup><small><small>[[G2391]]</small></small></sup> </span> |
-| father | <span class="asgreek">πατέρα <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of Gedor, | <span class="asgreek">Γεδδώρ <sup><small><small>[[H1446]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Heber | <span class="asgreek">Άβερ <sup><small><small>[[H2268]]</small></small></sup> </span> |
-| father | <span class="asgreek">πατέρα <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of Socho, | <span class="asgreek">Σωχώ <sup><small><small>[[H7755]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jekuthiel | <span class="asgreek">Ιεχουτιήλ <sup><small><small>[[H3354]]</small></small></sup> </span> |
-| father | <span class="asgreek">πατέρα <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of Zanoah. | <span class="asgreek">Ζανοέ <sup><small><small>[[H2182]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| these \[are\] | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Bithiah | <span class="asgreek">Φαθθουϊα <sup><small><small>[[H1332]]</small></small></sup> </span> |
-| daughter | <span class="asgreek">θυγατρός <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Pharaoh, | <span class="asgreek">Φαραώ <sup><small><small>[[G5328]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| Mered took. | <span class="asgreek">έλαβε <sup><small><small>[[G2983]]</small></small></sup> <span class="asgreek">Μαρώδ <sup><small><small>[[H4778]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Jehudijah | <big><span class="asgreek">Ιουδεία</span></big> <sup><small><small>[[H3057]]</small></small></sup> |
+| bore | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jered | <big><span class="asgreek">Ιάρεδ</span></big> <sup><small><small>[[G2391]]</small></small></sup> |
+| father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of Gedor, | <big><span class="asgreek">Γεδδώρ</span></big> <sup><small><small>[[H1446]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Heber | <big><span class="asgreek">Άβερ</span></big> <sup><small><small>[[H2268]]</small></small></sup> |
+| father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of Socho, | <big><span class="asgreek">Σωχώ</span></big> <sup><small><small>[[H7755]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jekuthiel | <big><span class="asgreek">Ιεχουτιήλ</span></big> <sup><small><small>[[H3354]]</small></small></sup> |
+| father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of Zanoah. | <big><span class="asgreek">Ζανοέ</span></big> <sup><small><small>[[H2182]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| these \[are\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Bithiah | <big><span class="asgreek">Φαθθουϊα</span></big> <sup><small><small>[[H1332]]</small></small></sup> |
+| daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| Mered took. | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Μαρώδ</span></big> <sup><small><small>[[H4778]]</small></small></sup> |
 [[1Chr.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.17|<< 1 Chronicles 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.19|1 Chronicles 4:19 >>]]</td></tr></table>
 
 

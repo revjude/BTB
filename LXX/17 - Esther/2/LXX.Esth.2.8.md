@@ -9,31 +9,31 @@ When the king’s command and edict had been proclaimed, many young women gather
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| when | <span class="asgreek">ότε <sup><small><small>[[G3753]]</small></small></sup> </span> |
-| was heard | <span class="asgreek">ηκούσθη <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king's | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| order | <span class="asgreek">πρόσταγμα <sup><small><small>[[G8943]]</small></small></sup> </span> |
-| were gathered together | <span class="asgreek">συνήχθησαν <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλά <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| young women | <span class="asgreek">κοράσια <sup><small><small>[[G2877]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Shushan | <span class="asgreek">Σούσαν <sup><small><small>[[H7800]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| city, | <span class="asgreek">πόλιν <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| by | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| \[the\] hand | <span class="asgreek">χείρα <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| of Hegai; | <span class="asgreek">Γαϊ <sup><small><small>[[H1896]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Esther was led | <span class="asgreek">ήχθη <sup><small><small>[[G0071]]</small></small></sup> <span class="asgreek">Εσθήρ <sup><small><small>[[H0635]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Hegai | <span class="asgreek">Γαϊ <sup><small><small>[[H1896]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| keeper | <span class="asgreek">φύλακα <sup><small><small>[[G5441]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| women. | <span class="asgreek">γυναικών <sup><small><small>[[G1135]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
+| was heard | <big><span class="asgreek">ηκούσθη</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king's | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| order | <big><span class="asgreek">πρόσταγμα</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
+| were gathered together | <big><span class="asgreek">συνήχθησαν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| young women | <big><span class="asgreek">κοράσια</span></big> <sup><small><small>[[G2877]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Shushan | <big><span class="asgreek">Σούσαν</span></big> <sup><small><small>[[H7800]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| \[the\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| of Hegai; | <big><span class="asgreek">Γαϊ</span></big> <sup><small><small>[[H1896]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Esther was led | <big><span class="asgreek">ήχθη</span></big> <sup><small><small>[[G0071]]</small></small></sup> <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Hegai | <big><span class="asgreek">Γαϊ</span></big> <sup><small><small>[[H1896]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| keeper | <big><span class="asgreek">φύλακα</span></big> <sup><small><small>[[G5441]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| women. | <big><span class="asgreek">γυναικών</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
 [[Esth.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.7|<< Esther 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.9|Esther 2:9 >>]]</td></tr></table>
 
 

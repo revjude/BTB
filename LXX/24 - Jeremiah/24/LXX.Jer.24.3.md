@@ -9,33 +9,33 @@ Then said the LORD unto me, What seest thou, Jeremiah? And I said, Figs; the goo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| What | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| do you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| see, | <span class="asgreek">οράς <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| Jeremiah? | <span class="asgreek">Ιερεμία <sup><small><small>[[G2408]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I said, | <span class="asgreek">είπα <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Figs, | <span class="asgreek">σύκα <sup><small><small>[[G4810]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| figs | <span class="asgreek">σύκα <sup><small><small>[[G4810]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| better | <span class="asgreek">χρηστά <sup><small><small>[[G5543]]</small></small></sup> </span> |
-| better | <span class="asgreek">χρηστά <sup><small><small>[[G5543]]</small></small></sup> </span> |
-| \[are\] exceedingly | <span class="asgreek">λίαν <sup><small><small>[[G3029]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| bad ones | <span class="asgreek">πονηρά <sup><small><small>[[G4190]]</small></small></sup> </span> |
-| bad | <span class="asgreek">πονηρά <sup><small><small>[[G4190]]</small></small></sup> </span> |
-| exceedingly | <span class="asgreek">λίαν <sup><small><small>[[G3029]]</small></small></sup> </span> |
-| which | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| cannot | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be eaten | <span class="asgreek">βρωθήσεται <sup><small><small>[[G0977]]</small></small></sup> </span> |
-| because of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| their badness. | <span class="asgreek">πονηρίας <sup><small><small>[[G4189]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| do you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| see, | <big><span class="asgreek">οράς</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| Jeremiah? | <big><span class="asgreek">Ιερεμία</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Figs, | <big><span class="asgreek">σύκα</span></big> <sup><small><small>[[G4810]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| figs | <big><span class="asgreek">σύκα</span></big> <sup><small><small>[[G4810]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| better | <big><span class="asgreek">χρηστά</span></big> <sup><small><small>[[G5543]]</small></small></sup> |
+| better | <big><span class="asgreek">χρηστά</span></big> <sup><small><small>[[G5543]]</small></small></sup> |
+| \[are\] exceedingly | <big><span class="asgreek">λίαν</span></big> <sup><small><small>[[G3029]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| bad ones | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| bad | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| exceedingly | <big><span class="asgreek">λίαν</span></big> <sup><small><small>[[G3029]]</small></small></sup> |
+| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| cannot | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be eaten | <big><span class="asgreek">βρωθήσεται</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
+| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| their badness. | <big><span class="asgreek">πονηρίας</span></big> <sup><small><small>[[G4189]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.2|<< Jeremiah 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.4|Jeremiah 24:4 >>]]</td></tr></table>
 
 

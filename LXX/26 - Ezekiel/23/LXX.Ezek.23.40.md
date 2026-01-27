@@ -9,31 +9,31 @@ Furthermore, you sisters sent messengers for men who came from afar; and behold,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they sent forth | <span class="asgreek">έπεμπον <sup><small><small>[[G3992]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| men, | <span class="asgreek">ανδράσι <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| having come | <span class="asgreek">ερχομένοις <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| from far off, | <span class="asgreek">μακρόθεν <sup><small><small>[[G3113]]</small></small></sup> </span> |
-| to which | <span class="asgreek">οις <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| messengers | <span class="asgreek">αγγέλους <sup><small><small>[[G0032]]</small></small></sup> </span> |
-| they sent out | <span class="asgreek">εξαπέστειλαν <sup><small><small>[[G1821]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| together | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in their coming | <span class="asgreek">έρχεσθαι <sup><small><small>[[G2064]]</small></small></sup> <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| straight | <span class="asgreek">ευθύς <sup><small><small>[[G2117]]</small></small></sup> </span> |
-| you bathed | <span class="asgreek">ελούου <sup><small><small>[[G3068]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with antimony | <span class="asgreek">εστιβίζου <sup><small><small>[[G9180]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your eyes | <span class="asgreek">οφθαλμούς <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| adorned yourself | <span class="asgreek">εκόσμου <sup><small><small>[[G2885]]</small></small></sup> </span> |
-| with ornamentation, | <span class="asgreek">κόσμω <sup><small><small>[[G2889]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they sent forth | <big><span class="asgreek">έπεμπον</span></big> <sup><small><small>[[G3992]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| men, | <big><span class="asgreek">ανδράσι</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| having come | <big><span class="asgreek">ερχομένοις</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| from far off, | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
+| to which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| messengers | <big><span class="asgreek">αγγέλους</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
+| they sent out | <big><span class="asgreek">εξαπέστειλαν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in their coming | <big><span class="asgreek">έρχεσθαι</span></big> <sup><small><small>[[G2064]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| straight | <big><span class="asgreek">ευθύς</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
+| you bathed | <big><span class="asgreek">ελούου</span></big> <sup><small><small>[[G3068]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with antimony | <big><span class="asgreek">εστιβίζου</span></big> <sup><small><small>[[G9180]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| adorned yourself | <big><span class="asgreek">εκόσμου</span></big> <sup><small><small>[[G2885]]</small></small></sup> |
+| with ornamentation, | <big><span class="asgreek">κόσμω</span></big> <sup><small><small>[[G2889]]</small></small></sup> |
 [[Ezek.23.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.39|<< Ezekiel 23:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.41|Ezekiel 23:41 >>]]</td></tr></table>
 
 

@@ -9,37 +9,37 @@ Though Edom may say, “We have been devastated, but we will rebuild the ruins,�
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Because | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| will say, | <span class="asgreek">ερεί <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Edom | <span class="asgreek">Ιδουμαία <sup><small><small>[[H0123]]</small></small></sup> </span> |
-| He was eradicated, | <span class="asgreek">κατέστραπται <sup><small><small>[[G2690]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we should return | <span class="asgreek">επιστρέψωμεν <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| should rebuild | <span class="asgreek">ανοικοδομήσωμεν <sup><small><small>[[G0456]]</small></small></sup> </span> |
-| places having been made desolate. | <span class="asgreek">ηρημωμένας <sup><small><small>[[G2049]]</small></small></sup> </span> |
-| Thus | <span class="asgreek">τάδε <sup><small><small>[[G3592]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| almighty, | <span class="asgreek">παντοκράτωρ <sup><small><small>[[G3841]]</small></small></sup> </span> |
-| They | <span class="asgreek">αυτοί <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall build, | <span class="asgreek">οικοδομήσουσι <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall eradicate; | <span class="asgreek">καταστρέψω <sup><small><small>[[G2690]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall be called | <span class="asgreek">επικληθήσεται <sup><small><small>[[G1941]]</small></small></sup> </span> |
-| by them, | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Borders | <span class="asgreek">όρια <sup><small><small>[[G3725]]</small></small></sup> </span> |
-| of lawlessness, | <span class="asgreek">ανομίας <sup><small><small>[[G0458]]</small></small></sup> </span> |
-| and, | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a people | <span class="asgreek">λαός <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| against | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| whom | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> deployed | <span class="asgreek">παρατέτακται <sup><small><small>[[G8641]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| \[the\] eon. | <span class="asgreek">αιώνος <sup><small><small>[[G0165]]</small></small></sup> </span> |
+| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| will say, | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Edom | <big><span class="asgreek">Ιδουμαία</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
+| He was eradicated, | <big><span class="asgreek">κατέστραπται</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we should return | <big><span class="asgreek">επιστρέψωμεν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| should rebuild | <big><span class="asgreek">ανοικοδομήσωμεν</span></big> <sup><small><small>[[G0456]]</small></small></sup> |
+| places having been made desolate. | <big><span class="asgreek">ηρημωμένας</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
+| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| almighty, | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
+| They | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall build, | <big><span class="asgreek">οικοδομήσουσι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall eradicate; | <big><span class="asgreek">καταστρέψω</span></big> <sup><small><small>[[G2690]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall be called | <big><span class="asgreek">επικληθήσεται</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
+| by them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
+| of lawlessness, | <big><span class="asgreek">ανομίας</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| and, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| against | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> deployed | <big><span class="asgreek">παρατέτακται</span></big> <sup><small><small>[[G8641]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| \[the\] eon. | <big><span class="asgreek">αιώνος</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
 [[Mal.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.3|<< Malachi 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.5|Malachi 1:5 >>]]</td></tr></table>
 
 

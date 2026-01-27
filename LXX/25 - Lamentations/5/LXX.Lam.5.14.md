@@ -9,15 +9,15 @@ The elders have left the city gate; the young men have stopped their music.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| old men | <span class="asgreek">πρεσβύται <sup><small><small>[[G4246]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] gate | <span class="asgreek">πύλης <sup><small><small>[[G4439]]</small></small></sup> </span> |
-| ceased | <span class="asgreek">κατέπαυσαν <sup><small><small>[[G2664]]</small></small></sup> </span> |
-| chosen \[men\] | <span class="asgreek">εκλεκτοί <sup><small><small>[[G1588]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| their psalms | <span class="asgreek">ψαλμών <sup><small><small>[[G5568]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| ceased | <span class="asgreek">κατέπαυσαν <sup><small><small>[[G2664]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| old men | <big><span class="asgreek">πρεσβύται</span></big> <sup><small><small>[[G4246]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] gate | <big><span class="asgreek">πύλης</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| ceased | <big><span class="asgreek">κατέπαυσαν</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
+| chosen \[men\] | <big><span class="asgreek">εκλεκτοί</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| their psalms | <big><span class="asgreek">ψαλμών</span></big> <sup><small><small>[[G5568]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ceased | <big><span class="asgreek">κατέπαυσαν</span></big> <sup><small><small>[[G2664]]</small></small></sup> |
 [[Lam.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.13|<< Lamentations 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.15|Lamentations 5:15 >>]]</td></tr></table>
 
 

@@ -9,28 +9,28 @@ and he had a bronze helmet on his head. He wore a bronze coat of mail weighing f
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| helmet | <span class="asgreek">περικεφαλαία <sup><small><small>[[G4030]]</small></small></sup> </span> |
-| a bronze | <span class="asgreek">χαλκή <sup><small><small>[[G5470]]</small></small></sup> </span> |
-| \[was\] upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his head, | <span class="asgreek">κεφαλής <sup><small><small>[[G2776]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a chest \[plate\] | <span class="asgreek">θώρακα <sup><small><small>[[G2382]]</small></small></sup> </span> |
-| of chain-work | <span class="asgreek">αλυσιδωτόν <sup><small><small>[[G6244]]</small></small></sup> </span> |
-| he | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| put on | <span class="asgreek">ενδεδυκώς <sup><small><small>[[G1746]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| weight | <span class="asgreek">σταθμός <sup><small><small>[[G9150]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his chest \[plate\] | <span class="asgreek">θώρακος αυτού <sup><small><small>[[G2382]]</small></small></sup> </span> |
-| \[was\] five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάδες <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| shekels | <span class="asgreek">σίκλων <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| of brass | <span class="asgreek">χαλκού <sup><small><small>[[G5475]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| iron. | <span class="asgreek">σιδήρου <sup><small><small>[[G4604]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| helmet | <big><span class="asgreek">περικεφαλαία</span></big> <sup><small><small>[[G4030]]</small></small></sup> |
+| a bronze | <big><span class="asgreek">χαλκή</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
+| \[was\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his head, | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a chest \[plate\] | <big><span class="asgreek">θώρακα</span></big> <sup><small><small>[[G2382]]</small></small></sup> |
+| of chain-work | <big><span class="asgreek">αλυσιδωτόν</span></big> <sup><small><small>[[G6244]]</small></small></sup> |
+| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| put on | <big><span class="asgreek">ενδεδυκώς</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| weight | <big><span class="asgreek">σταθμός</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his chest \[plate\] | <big><span class="asgreek">θώρακος αυτού</span></big> <sup><small><small>[[G2382]]</small></small></sup> |
+| \[was\] five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάδες</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| shekels | <big><span class="asgreek">σίκλων</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| of brass | <big><span class="asgreek">χαλκού</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| iron. | <big><span class="asgreek">σιδήρου</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
 [[1Sam.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.4|<< 1 Samuel 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.6|1 Samuel 17:6 >>]]</td></tr></table>
 
 

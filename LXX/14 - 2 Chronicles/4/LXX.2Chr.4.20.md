@@ -9,23 +9,23 @@ the lampstands of pure gold and their lamps, to burn in front of the inner sanct
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lamp-stands, | <span class="asgreek">λυχνίας <sup><small><small>[[G3087]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lamps | <span class="asgreek">λύχνους <sup><small><small>[[G3088]]</small></small></sup> </span> |
-| for the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| light | <span class="asgreek">φωτός <sup><small><small>[[G5457]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| distinguishing \[manner\] | <span class="asgreek">κρίμα <sup><small><small>[[G2917]]</small></small></sup> </span> |
-| in | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| front | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dabir, | <span class="asgreek">δαβίρ <sup><small><small>[[G6780]]</small></small></sup> </span> |
-| gold | <span class="asgreek">χρυσίου <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| of pure | <span class="asgreek">καθαρού <sup><small><small>[[G2513]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lamp-stands, | <big><span class="asgreek">λυχνίας</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lamps | <big><span class="asgreek">λύχνους</span></big> <sup><small><small>[[G3088]]</small></small></sup> |
+| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| light | <big><span class="asgreek">φωτός</span></big> <sup><small><small>[[G5457]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| distinguishing \[manner\] | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
+| in | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dabir, | <big><span class="asgreek">δαβίρ</span></big> <sup><small><small>[[G6780]]</small></small></sup> |
+| gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| of pure | <big><span class="asgreek">καθαρού</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
 [[2Chr.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.19|<< 2 Chronicles 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.21|2 Chronicles 4:21 >>]]</td></tr></table>
 
 

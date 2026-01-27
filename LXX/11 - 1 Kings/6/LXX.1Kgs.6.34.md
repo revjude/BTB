@@ -9,29 +9,29 @@ The two doors were made of cypress wood, and each had two folding panels.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| both | <span class="asgreek">αμφοτέραις <sup><small><small>[[G0297]]</small></small></sup> </span> |
-| the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| doors | <span class="asgreek">θύραις <sup><small><small>[[G2374]]</small></small></sup> </span> |
-| woods | <span class="asgreek">ξύλα <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| of pines \[were used\] -- | <span class="asgreek">πεύκινα <sup><small><small>[[G8785]]</small></small></sup> </span> |
-| \[was\] bi- | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| fold | <span class="asgreek">πτυχαί <sup><small><small>[[G8983]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| door | <span class="asgreek">θύρα <sup><small><small>[[G2374]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one | <span class="asgreek">μία <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| their hinges \[were there\]; | <span class="asgreek">στροφείς <sup><small><small>[[G9208]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[was\] bi- | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| fold | <span class="asgreek">πτυχαί <sup><small><small>[[G8983]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| door | <span class="asgreek">θύρα <sup><small><small>[[G2374]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| second | <span class="asgreek">δευτέρα <sup><small><small>[[G1208]]</small></small></sup> </span> |
-| to turn; | <span class="asgreek">στρεφόμεναι <sup><small><small>[[G4762]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| both | <big><span class="asgreek">αμφοτέραις</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
+| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| doors | <big><span class="asgreek">θύραις</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
+| woods | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| of pines \[were used\] -- | <big><span class="asgreek">πεύκινα</span></big> <sup><small><small>[[G8785]]</small></small></sup> |
+| \[was\] bi- | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| fold | <big><span class="asgreek">πτυχαί</span></big> <sup><small><small>[[G8983]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| door | <big><span class="asgreek">θύρα</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| their hinges \[were there\]; | <big><span class="asgreek">στροφείς</span></big> <sup><small><small>[[G9208]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[was\] bi- | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| fold | <big><span class="asgreek">πτυχαί</span></big> <sup><small><small>[[G8983]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| door | <big><span class="asgreek">θύρα</span></big> <sup><small><small>[[G2374]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| second | <big><span class="asgreek">δευτέρα</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| to turn; | <big><span class="asgreek">στρεφόμεναι</span></big> <sup><small><small>[[G4762]]</small></small></sup> |
 [[1Kgs.6.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.33|<< 1 Kings 6:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.35|1 Kings 6:35 >>]]</td></tr></table>
 
 

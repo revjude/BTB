@@ -9,27 +9,27 @@ Therefore they will be like the morning mist, like the early dew that vanishes, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this, | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| they will be | <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| cloud | <span class="asgreek">νεφέλη <sup><small><small>[[G3507]]</small></small></sup> </span> |
-| an early morning | <span class="asgreek">πρωϊνή <sup><small><small>[[G4407]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| dew | <span class="asgreek">δρόσος <sup><small><small>[[G6970]]</small></small></sup> </span> |
-| early morning | <span class="asgreek">ορθρινή <sup><small><small>[[G3720]]</small></small></sup> </span> |
-| going \[away\], | <span class="asgreek">πορευομένη <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| dust | <span class="asgreek">χνους <sup><small><small>[[G9741]]</small></small></sup> </span> |
-| being blown away | <span class="asgreek">αποφυσώμενος <sup><small><small>[[G6512]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] threshing floor, | <span class="asgreek">άλωνος <sup><small><small>[[G0257]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a vapor | <span class="asgreek">ατμίς <sup><small><small>[[G0822]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| tears. | <span class="asgreek">δακρύων <sup><small><small>[[G1144]]</small></small></sup> </span> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| cloud | <big><span class="asgreek">νεφέλη</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
+| an early morning | <big><span class="asgreek">πρωϊνή</span></big> <sup><small><small>[[G4407]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| dew | <big><span class="asgreek">δρόσος</span></big> <sup><small><small>[[G6970]]</small></small></sup> |
+| early morning | <big><span class="asgreek">ορθρινή</span></big> <sup><small><small>[[G3720]]</small></small></sup> |
+| going \[away\], | <big><span class="asgreek">πορευομένη</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| dust | <big><span class="asgreek">χνους</span></big> <sup><small><small>[[G9741]]</small></small></sup> |
+| being blown away | <big><span class="asgreek">αποφυσώμενος</span></big> <sup><small><small>[[G6512]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] threshing floor, | <big><span class="asgreek">άλωνος</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a vapor | <big><span class="asgreek">ατμίς</span></big> <sup><small><small>[[G0822]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| tears. | <big><span class="asgreek">δακρύων</span></big> <sup><small><small>[[G1144]]</small></small></sup> |
 [[Hos.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.2|<< Hosea 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.4|Hosea 13:4 >>]]</td></tr></table>
 
 

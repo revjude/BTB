@@ -9,17 +9,17 @@ For he will deliver the needy who cry out and the afflicted who have no helper.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| he rescued | <span class="asgreek">ερρύσατο <sup><small><small>[[G4506]]</small></small></sup> </span> |
-| \[the\] poor | <span class="asgreek">πτωχόν <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] mighty one, | <span class="asgreek">δυνάστου <sup><small><small>[[G1413]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] needy one | <span class="asgreek">πένητα <sup><small><small>[[G3993]]</small></small></sup> </span> |
-| in whom | <span class="asgreek">ω <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| no | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| existed | <span class="asgreek">υπήρχε <sup><small><small>[[G5225]]</small></small></sup> </span> |
-| helper | <span class="asgreek">βοηθός <sup><small><small>[[G0998]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| he rescued | <big><span class="asgreek">ερρύσατο</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
+| \[the\] poor | <big><span class="asgreek">πτωχόν</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] mighty one, | <big><span class="asgreek">δυνάστου</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] needy one | <big><span class="asgreek">πένητα</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
+| in whom | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| no | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| existed | <big><span class="asgreek">υπήρχε</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
+| helper | <big><span class="asgreek">βοηθός</span></big> <sup><small><small>[[G0998]]</small></small></sup> |
 [[Ps.72.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.11|<< Psalm 72:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.13|Psalm 72:13 >>]]</td></tr></table>
 
 

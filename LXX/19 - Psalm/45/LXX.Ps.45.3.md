@@ -9,14 +9,14 @@ Strap your sword at your side, O mighty warrior; appear in your majesty and sple
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Gird | <span class="asgreek">περίζωσαι <sup><small><small>[[G4024]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your broadsword | <span class="asgreek">ρομφαίαν <sup><small><small>[[G4501]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your thigh! | <span class="asgreek">μηρόν <sup><small><small>[[G3382]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O mighty \[one\], | <span class="asgreek">δυνατέ <sup><small><small>[[G1415]]</small></small></sup> </span> |
-| in your beauty. | <span class="asgreek">ωραιότητί <sup><small><small>[[G9814]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Gird | <big><span class="asgreek">περίζωσαι</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your thigh! | <big><span class="asgreek">μηρόν</span></big> <sup><small><small>[[G3382]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O mighty \[one\], | <big><span class="asgreek">δυνατέ</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| in your beauty. | <big><span class="asgreek">ωραιότητί</span></big> <sup><small><small>[[G9814]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.2|<< Psalm 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.4|Psalm 45:4 >>]]</td></tr></table>
 
 

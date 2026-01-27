@@ -9,16 +9,16 @@ I will incline my ear to a proverb; I will express my riddle with the harp:<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I will lean | <span class="asgreek">κλινώ <sup><small><small>[[G2827]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a parable | <span class="asgreek">παραβολήν <sup><small><small>[[G3850]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my ear | <span class="asgreek">ους <sup><small><small>[[G3775]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I will open | <span class="asgreek">ανοίξω <sup><small><small>[[G0455]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a psaltery | <span class="asgreek">ψαλτηρίω <sup><small><small>[[G9783]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my riddle | <span class="asgreek">πρόβλημά <sup><small><small>[[G8892]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| I will lean | <big><span class="asgreek">κλινώ</span></big> <sup><small><small>[[G2827]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a parable | <big><span class="asgreek">παραβολήν</span></big> <sup><small><small>[[G3850]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my ear | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I will open | <big><span class="asgreek">ανοίξω</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a psaltery | <big><span class="asgreek">ψαλτηρίω</span></big> <sup><small><small>[[G9783]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my riddle | <big><span class="asgreek">πρόβλημά</span></big> <sup><small><small>[[G8892]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.49.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.3|<< Psalm 49:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.5|Psalm 49:5 >>]]</td></tr></table>
 
 

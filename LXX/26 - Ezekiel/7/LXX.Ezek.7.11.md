@@ -9,20 +9,20 @@ Their violence has grown into a rod to punish their wickedness. None of them wil
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| insolence | <span class="asgreek">ύβρις <sup><small><small>[[G5196]]</small></small></sup> </span> |
-| has risen up, | <span class="asgreek">εξανέστηκε <sup><small><small>[[G1817]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will break | <span class="asgreek">συντρίψει <sup><small><small>[[G4937]]</small></small></sup> </span> |
-| \[the\] reliance | <span class="asgreek">στήριγμα <sup><small><small>[[G9176]]</small></small></sup> </span> |
-| of \[the\] lawless one, | <span class="asgreek">ανόμου <sup><small><small>[[G0459]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| a tumult | <span class="asgreek">θορύβου <sup><small><small>[[G2351]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| anxiety. | <span class="asgreek">σπουδής <sup><small><small>[[G4710]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| insolence | <big><span class="asgreek">ύβρις</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
+| has risen up, | <big><span class="asgreek">εξανέστηκε</span></big> <sup><small><small>[[G1817]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will break | <big><span class="asgreek">συντρίψει</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| \[the\] reliance | <big><span class="asgreek">στήριγμα</span></big> <sup><small><small>[[G9176]]</small></small></sup> |
+| of \[the\] lawless one, | <big><span class="asgreek">ανόμου</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| a tumult | <big><span class="asgreek">θορύβου</span></big> <sup><small><small>[[G2351]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| anxiety. | <big><span class="asgreek">σπουδής</span></big> <sup><small><small>[[G4710]]</small></small></sup> |
 [[Ezek.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.10|<< Ezekiel 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.12|Ezekiel 7:12 >>]]</td></tr></table>
 
 

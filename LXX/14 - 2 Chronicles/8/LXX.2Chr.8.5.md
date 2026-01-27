@@ -9,23 +9,23 @@ He rebuilt Upper and Lower Beth-horon as fortified cities with walls, gates, and
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he built | <span class="asgreek">ωκοδόμησε <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Beth-horon | <span class="asgreek">Βαιθωρών <sup><small><small>[[H1032]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| upper | <span class="asgreek">άνω <sup><small><small>[[G0507]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Beth-horon | <span class="asgreek">Βαιθωρών <sup><small><small>[[H1032]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lower | <span class="asgreek">κάτω <sup><small><small>[[G2736]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| fortified | <span class="asgreek">οχυράς <sup><small><small>[[G8575]]</small></small></sup> </span> |
-| \[with\] walls, | <span class="asgreek">τείχη <sup><small><small>[[G5038]]</small></small></sup> </span> |
-| gates, | <span class="asgreek">πύλαι <sup><small><small>[[G4439]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bars; | <span class="asgreek">μοχλοί <sup><small><small>[[G8352]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he built | <big><span class="asgreek">ωκοδόμησε</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Beth-horon | <big><span class="asgreek">Βαιθωρών</span></big> <sup><small><small>[[H1032]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| upper | <big><span class="asgreek">άνω</span></big> <sup><small><small>[[G0507]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Beth-horon | <big><span class="asgreek">Βαιθωρών</span></big> <sup><small><small>[[H1032]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lower | <big><span class="asgreek">κάτω</span></big> <sup><small><small>[[G2736]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| fortified | <big><span class="asgreek">οχυράς</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
+| \[with\] walls, | <big><span class="asgreek">τείχη</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
+| gates, | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bars; | <big><span class="asgreek">μοχλοί</span></big> <sup><small><small>[[G8352]]</small></small></sup> |
 [[2Chr.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.4|<< 2 Chronicles 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.6|2 Chronicles 8:6 >>]]</td></tr></table>
 
 

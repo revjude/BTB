@@ -9,31 +9,31 @@ Drip down, O heavens, from above, and let the skies pour down righteousness. Let
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| be glad | <span class="asgreek">ευφρανθήτω <sup><small><small>[[G2165]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heaven | <span class="asgreek">ουρανός <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| above | <span class="asgreek">άνωθεν <sup><small><small>[[G0509]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| clouds | <span class="asgreek">νεφέλαι <sup><small><small>[[G3507]]</small></small></sup> </span> |
-| let | <span class="asgreek">ρανάτωσαν <sup><small><small>[[G9007]]</small></small></sup> </span> |
-| righteousness! | <span class="asgreek">δικαιοσύνην <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| arise | <span class="asgreek">ανατειλάτω <sup><small><small>[[G0393]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| burst forth | <span class="asgreek">βλαστήσατω <sup><small><small>[[G0985]]</small></small></sup> </span> |
-| mercy! | <span class="asgreek">έλεος <sup><small><small>[[G1656]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| let righteousness | <span class="asgreek">δικαιοσύνην <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| burst forth | <span class="asgreek">βλαστησάτω <sup><small><small>[[G0985]]</small></small></sup> </span> |
-| together! | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| am | <span class="asgreek">ειμι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| creating | <span class="asgreek">κτίσας <sup><small><small>[[G2936]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| be glad | <big><span class="asgreek">ευφρανθήτω</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| above | <big><span class="asgreek">άνωθεν</span></big> <sup><small><small>[[G0509]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| clouds | <big><span class="asgreek">νεφέλαι</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
+| let | <big><span class="asgreek">ρανάτωσαν</span></big> <sup><small><small>[[G9007]]</small></small></sup> |
+| righteousness! | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| arise | <big><span class="asgreek">ανατειλάτω</span></big> <sup><small><small>[[G0393]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| burst forth | <big><span class="asgreek">βλαστήσατω</span></big> <sup><small><small>[[G0985]]</small></small></sup> |
+| mercy! | <big><span class="asgreek">έλεος</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| let righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| burst forth | <big><span class="asgreek">βλαστησάτω</span></big> <sup><small><small>[[G0985]]</small></small></sup> |
+| together! | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| am | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| creating | <big><span class="asgreek">κτίσας</span></big> <sup><small><small>[[G2936]]</small></small></sup> |
+| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.45.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.7|<< Isaiah 45:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.9|Isaiah 45:9 >>]]</td></tr></table>
 
 

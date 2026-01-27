@@ -9,20 +9,20 @@ And the gates of Zion will lament and mourn; destitute, she will sit on the grou
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall mourn | <span class="asgreek">πενθήσουσιν <sup><small><small>[[G3996]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cases | <span class="asgreek">θήκαι <sup><small><small>[[G2336]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your ornamentation | <span class="asgreek">κόσμου <sup><small><small>[[G2889]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall be left behind | <span class="asgreek">καταλειφθήση <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| alone; | <span class="asgreek">μόνη <sup><small><small>[[G3441]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| you shall be dashed. | <span class="asgreek">εδαφισθήση <sup><small><small>[[G1474]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall mourn | <big><span class="asgreek">πενθήσουσιν</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cases | <big><span class="asgreek">θήκαι</span></big> <sup><small><small>[[G2336]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your ornamentation | <big><span class="asgreek">κόσμου</span></big> <sup><small><small>[[G2889]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall be left behind | <big><span class="asgreek">καταλειφθήση</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| alone; | <big><span class="asgreek">μόνη</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| you shall be dashed. | <big><span class="asgreek">εδαφισθήση</span></big> <sup><small><small>[[G1474]]</small></small></sup> |
 [[Isa.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.25|<< Isaiah 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.1|Isaiah 4:1 >>]]</td></tr></table>
 
 

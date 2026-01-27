@@ -9,16 +9,16 @@ Righteous lips are a king’s delight, and he who speaks honestly is beloved.<s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[are\] acceptable | <span class="asgreek">δεκτά <sup><small><small>[[G1184]]</small></small></sup> </span> |
-| to \[the\] king | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| lips | <span class="asgreek">χείλη <sup><small><small>[[G5491]]</small></small></sup> </span> |
-| Just | <span class="asgreek">δίκαια <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| words | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| straight | <span class="asgreek">ορθούς <sup><small><small>[[G3717]]</small></small></sup> </span> |
-| loves | <span class="asgreek">αγαπά <sup><small><small>[[G0025]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| \[are\] acceptable | <big><span class="asgreek">δεκτά</span></big> <sup><small><small>[[G1184]]</small></small></sup> |
+| to \[the\] king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
+| Just | <big><span class="asgreek">δίκαια</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| straight | <big><span class="asgreek">ορθούς</span></big> <sup><small><small>[[G3717]]</small></small></sup> |
+| loves | <big><span class="asgreek">αγαπά</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Prov.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.12|<< Proverbs 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.14|Proverbs 16:14 >>]]</td></tr></table>
 
 

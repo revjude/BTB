@@ -9,15 +9,15 @@ I will not die, but I will live and proclaim what the LORD has done.<small><sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| die, | <span class="asgreek">αποθανούμαι <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| but | <span class="asgreek">αλλά <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| I shall live; | <span class="asgreek">ζήσομαι <sup><small><small>[[G2198]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall describe | <span class="asgreek">διηγήσομαι <sup><small><small>[[G1334]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| works | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| I shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| die, | <big><span class="asgreek">αποθανούμαι</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| I shall live; | <big><span class="asgreek">ζήσομαι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall describe | <big><span class="asgreek">διηγήσομαι</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Ps.118.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.16|<< Psalm 118:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.18|Psalm 118:18 >>]]</td></tr></table>
 
 

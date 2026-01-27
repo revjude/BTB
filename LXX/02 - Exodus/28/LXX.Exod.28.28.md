@@ -9,38 +9,38 @@ The rings of the breastpiece shall be tied to the rings of the ephod with a cord
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall clasp | <span class="asgreek">σφίγξεις <sup><small><small>[[G9373]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| oracle | <span class="asgreek">λογείον <sup><small><small>[[G3051]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rings | <span class="asgreek">δακτυλίων <sup><small><small>[[G1146]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rings | <span class="asgreek">δακτυλίους <sup><small><small>[[G1146]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shoulder-piece | <span class="asgreek">επωμίδος <sup><small><small>[[G7490]]</small></small></sup> </span> |
-| banded together | <span class="asgreek">συνεχομένους <sup><small><small>[[G4912]]</small></small></sup> </span> |
-| of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| blue \[work\], | <span class="asgreek">υακίνθου <sup><small><small>[[G5192]]</small></small></sup> </span> |
-| closely joined | <span class="asgreek">συμπεπλεγμένους <sup><small><small>[[G9275]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| woven work | <span class="asgreek">ύφασμα <sup><small><small>[[G9608]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shoulder-piece, | <span class="asgreek">επωμίδος <sup><small><small>[[G7490]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| should not slacken | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">χαλάται <sup><small><small>[[G5465]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| oracle | <span class="asgreek">λογείον <sup><small><small>[[G3051]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shoulder-piece. | <span class="asgreek">επωμίδος <sup><small><small>[[G7490]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall clasp | <big><span class="asgreek">σφίγξεις</span></big> <sup><small><small>[[G9373]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| oracle | <big><span class="asgreek">λογείον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rings | <big><span class="asgreek">δακτυλίων</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rings | <big><span class="asgreek">δακτυλίους</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shoulder-piece | <big><span class="asgreek">επωμίδος</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
+| banded together | <big><span class="asgreek">συνεχομένους</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
+| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| blue \[work\], | <big><span class="asgreek">υακίνθου</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
+| closely joined | <big><span class="asgreek">συμπεπλεγμένους</span></big> <sup><small><small>[[G9275]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| woven work | <big><span class="asgreek">ύφασμα</span></big> <sup><small><small>[[G9608]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shoulder-piece, | <big><span class="asgreek">επωμίδος</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| should not slacken | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">χαλάται</span></big> <sup><small><small>[[G5465]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| oracle | <big><span class="asgreek">λογείον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shoulder-piece. | <big><span class="asgreek">επωμίδος</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
 [[Exod.28.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.27|<< Exodus 28:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.29|Exodus 28:29 >>]]</td></tr></table>
 
 

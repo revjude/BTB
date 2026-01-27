@@ -9,24 +9,24 @@ and I will humiliate and humble myself even more than this. Yet I will be honore
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will be uncovered | <span class="asgreek">αποκαλυφθήσομαι <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| again | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| thus, | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will be | <span class="asgreek">έσομαι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| useless | <span class="asgreek">άχρειος <sup><small><small>[[G0888]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| your eyes, | <span class="asgreek">οφθαλμοίς <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| girls | <span class="asgreek">παιδισκών <sup><small><small>[[G3814]]</small></small></sup> </span> |
-| of whom | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you said | <span class="asgreek">είπάς <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| of me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I was not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| extolled. | <span class="asgreek">δοξασθήναι <sup><small><small>[[G1392]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will be uncovered | <big><span class="asgreek">αποκαλυφθήσομαι</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| again | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| thus, | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will be | <big><span class="asgreek">έσομαι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| useless | <big><span class="asgreek">άχρειος</span></big> <sup><small><small>[[G0888]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| your eyes, | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| girls | <big><span class="asgreek">παιδισκών</span></big> <sup><small><small>[[G3814]]</small></small></sup> |
+| of whom | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you said | <big><span class="asgreek">είπάς</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| of me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I was not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| extolled. | <big><span class="asgreek">δοξασθήναι</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
 [[2Sam.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.21|<< 2 Samuel 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.23|2 Samuel 6:23 >>]]</td></tr></table>
 
 

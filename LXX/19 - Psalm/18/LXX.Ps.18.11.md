@@ -9,19 +9,19 @@ He made darkness His hiding place, and storm clouds a canopy around Him.<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he established | <span class="asgreek">έθετο <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| darkness | <span class="asgreek">σκότος <sup><small><small>[[G4655]]</small></small></sup> </span> |
-| for his concealment. | <span class="asgreek">αποκρυφήν <sup><small><small>[[G6450]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Round about | <span class="asgreek">κύκλω <sup><small><small>[[G2945]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[was\] his tent; | <span class="asgreek">σκηνή <sup><small><small>[[G4633]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| dark | <span class="asgreek">σκοτεινόν <sup><small><small>[[G4652]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| clouds | <span class="asgreek">νεφέλαις <sup><small><small>[[G3507]]</small></small></sup> </span> |
-| of air. | <span class="asgreek">αέρων <sup><small><small>[[G0109]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he established | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
+| for his concealment. | <big><span class="asgreek">αποκρυφήν</span></big> <sup><small><small>[[G6450]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[was\] his tent; | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| dark | <big><span class="asgreek">σκοτεινόν</span></big> <sup><small><small>[[G4652]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| clouds | <big><span class="asgreek">νεφέλαις</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
+| of air. | <big><span class="asgreek">αέρων</span></big> <sup><small><small>[[G0109]]</small></small></sup> |
 [[Ps.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.10|<< Psalm 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.12|Psalm 18:12 >>]]</td></tr></table>
 
 

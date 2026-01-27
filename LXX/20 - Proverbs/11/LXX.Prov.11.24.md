@@ -9,18 +9,18 @@ One gives freely, yet gains even more; another withholds what is right, only to 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| There are | <span class="asgreek">εισίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[their\] own \[seed\] | <span class="asgreek">ίδια <sup><small><small>[[G2398]]</small></small></sup> </span> |
-| sowing | <span class="asgreek">σπείροντες <sup><small><small>[[G4687]]</small></small></sup> </span> |
-| more | <span class="asgreek">πλείονα <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| making | <span class="asgreek">ποιούσιν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| and there are | <span class="asgreek">εισί <sup><small><small>[[G1510]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| gathering | <span class="asgreek">συνάγοντες <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| having less. | <span class="asgreek">ελαττονούνται <sup><small><small>[[G1641]]</small></small></sup> </span> |
+| There are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[their\] own \[seed\] | <big><span class="asgreek">ίδια</span></big> <sup><small><small>[[G2398]]</small></small></sup> |
+| sowing | <big><span class="asgreek">σπείροντες</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
+| more | <big><span class="asgreek">πλείονα</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| making | <big><span class="asgreek">ποιούσιν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| and there are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| gathering | <big><span class="asgreek">συνάγοντες</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| having less. | <big><span class="asgreek">ελαττονούνται</span></big> <sup><small><small>[[G1641]]</small></small></sup> |
 [[Prov.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.23|<< Proverbs 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.25|Proverbs 11:25 >>]]</td></tr></table>
 
 

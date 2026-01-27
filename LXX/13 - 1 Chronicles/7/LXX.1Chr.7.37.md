@@ -9,17 +9,17 @@ Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.<small><sub>**MT:**</sub></smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Bezer, | <span class="asgreek">Βασάρ <sup><small><small>[[H1221]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Hod, | <span class="asgreek">Ιηούδ <sup><small><small>[[H1936]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shamma, | <span class="asgreek">Σεμμά <sup><small><small>[[H8037]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shilshah, | <span class="asgreek">Σελσά <sup><small><small>[[H8030]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ithran, | <span class="asgreek">Ιεθράν <sup><small><small>[[H3506]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Beera. | <span class="asgreek">Βηερά <sup><small><small>[[H0878]]</small></small></sup> </span> |
+| Bezer, | <big><span class="asgreek">Βασάρ</span></big> <sup><small><small>[[H1221]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Hod, | <big><span class="asgreek">Ιηούδ</span></big> <sup><small><small>[[H1936]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shamma, | <big><span class="asgreek">Σεμμά</span></big> <sup><small><small>[[H8037]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shilshah, | <big><span class="asgreek">Σελσά</span></big> <sup><small><small>[[H8030]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ithran, | <big><span class="asgreek">Ιεθράν</span></big> <sup><small><small>[[H3506]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Beera. | <big><span class="asgreek">Βηερά</span></big> <sup><small><small>[[H0878]]</small></small></sup> |
 [[1Chr.7.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.36|<< 1 Chronicles 7:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.38|1 Chronicles 7:38 >>]]</td></tr></table>
 
 

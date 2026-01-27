@@ -9,21 +9,21 @@ Your lamb must be an unblemished year-old male, and you may take it from the she
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| sheep | <span class="asgreek">πρόβατον <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| a perfect | <span class="asgreek">τέλειον <sup><small><small>[[G5046]]</small></small></sup> </span> |
-| male | <span class="asgreek">άρσεν <sup><small><small>[[G0730]]</small></small></sup> </span> |
-| unblemished | <span class="asgreek">άμωμον <sup><small><small>[[G0299]]</small></small></sup> </span> |
-| of a year \[old\] | <span class="asgreek">ενιαύσιον <sup><small><small>[[G7245]]</small></small></sup> </span> |
-| It shall be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to you | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lambs | <span class="asgreek">αρνών <sup><small><small>[[G0704]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| kids | <span class="asgreek">ερίφων <sup><small><small>[[G2056]]</small></small></sup> </span> |
-| you shall take. | <span class="asgreek">λήψεσθε <sup><small><small>[[G2983]]</small></small></sup> </span> |
+| sheep | <big><span class="asgreek">πρόβατον</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| a perfect | <big><span class="asgreek">τέλειον</span></big> <sup><small><small>[[G5046]]</small></small></sup> |
+| male | <big><span class="asgreek">άρσεν</span></big> <sup><small><small>[[G0730]]</small></small></sup> |
+| unblemished | <big><span class="asgreek">άμωμον</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
+| of a year \[old\] | <big><span class="asgreek">ενιαύσιον</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
+| It shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lambs | <big><span class="asgreek">αρνών</span></big> <sup><small><small>[[G0704]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| kids | <big><span class="asgreek">ερίφων</span></big> <sup><small><small>[[G2056]]</small></small></sup> |
+| you shall take. | <big><span class="asgreek">λήψεσθε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
 [[Exod.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.4|<< Exodus 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.6|Exodus 12:6 >>]]</td></tr></table>
 
 

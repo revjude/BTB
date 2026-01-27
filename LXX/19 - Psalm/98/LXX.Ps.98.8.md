@@ -9,18 +9,18 @@ Let the rivers clap their hands, let the mountains sing together for joy<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Rivers | <span class="asgreek">ποταμοί <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| shall clap | <span class="asgreek">κροτήσουσι <sup><small><small>[[G8104]]</small></small></sup> </span> |
-| hand | <span class="asgreek">χειρί <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| together. | <span class="asgreek">επιτοαυτό <sup><small><small>[[G7464]]</small></small></sup> </span> |
-| The | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mountains | <span class="asgreek">όρη <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| shall exult | <span class="asgreek">αγαλλιάσονται <sup><small><small>[[G0021]]</small></small></sup> </span> |
-| from | <span class="asgreek">απο <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] face | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| he comes. | <span class="asgreek">έρχεται <sup><small><small>[[G2064]]</small></small></sup> </span> |
+| Rivers | <big><span class="asgreek">ποταμοί</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| shall clap | <big><span class="asgreek">κροτήσουσι</span></big> <sup><small><small>[[G8104]]</small></small></sup> |
+| hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| together. | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
+| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| shall exult | <big><span class="asgreek">αγαλλιάσονται</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
+| from | <big><span class="asgreek">απο</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| he comes. | <big><span class="asgreek">έρχεται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
 [[Ps.98.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.98.7|<< Psalm 98:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.98.9|Psalm 98:9 >>]]</td></tr></table>
 
 

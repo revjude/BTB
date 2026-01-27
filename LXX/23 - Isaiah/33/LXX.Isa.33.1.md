@@ -12,32 +12,32 @@ Woe to you, O destroyer never destroyed, O traitor never betrayed! When you have
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Woe | <span class="asgreek">ουαί <sup><small><small>[[G3759]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| causing misery, | <span class="asgreek">ταλαιπωρούσιν <sup><small><small>[[G5003]]</small></small></sup> </span> |
-| you | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| no one | <span class="asgreek">ουδείς <sup><small><small>[[G3762]]</small></small></sup> </span> |
-| makes | <span class="asgreek">ποιεί <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| miserable; | <span class="asgreek">ταλαιπώρους <sup><small><small>[[G5005]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| disrespecting | <span class="asgreek">αθετών <sup><small><small>[[G0114]]</small></small></sup> </span> |
-| you, | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| does not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| disrespect; | <span class="asgreek">αθετεί <sup><small><small>[[G0114]]</small></small></sup> </span> |
-| shall be captured | <span class="asgreek">αλώσονται <sup><small><small>[[G6226]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| disrespecting | <span class="asgreek">αθετούντες <sup><small><small>[[G0114]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall be delivered up; | <span class="asgreek">παραδοθήσονται <sup><small><small>[[G3860]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a moth | <span class="asgreek">σης <sup><small><small>[[G4597]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| a cloak, | <span class="asgreek">ιματίου <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| they shall be vanquished. | <span class="asgreek">ηττηθήσονται <sup><small><small>[[G2274]]</small></small></sup> </span> |
+| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| causing misery, | <big><span class="asgreek">ταλαιπωρούσιν</span></big> <sup><small><small>[[G5003]]</small></small></sup> |
+| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| no one | <big><span class="asgreek">ουδείς</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| makes | <big><span class="asgreek">ποιεί</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| miserable; | <big><span class="asgreek">ταλαιπώρους</span></big> <sup><small><small>[[G5005]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| disrespecting | <big><span class="asgreek">αθετών</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
+| you, | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| disrespect; | <big><span class="asgreek">αθετεί</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
+| shall be captured | <big><span class="asgreek">αλώσονται</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| disrespecting | <big><span class="asgreek">αθετούντες</span></big> <sup><small><small>[[G0114]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall be delivered up; | <big><span class="asgreek">παραδοθήσονται</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a moth | <big><span class="asgreek">σης</span></big> <sup><small><small>[[G4597]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| a cloak, | <big><span class="asgreek">ιματίου</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| they shall be vanquished. | <big><span class="asgreek">ηττηθήσονται</span></big> <sup><small><small>[[G2274]]</small></small></sup> |
 [[Isa.33.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.20|<< Isaiah 32:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.2|Isaiah 33:2 >>]]</td></tr></table>
 
 

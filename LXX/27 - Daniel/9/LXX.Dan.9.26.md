@@ -9,42 +9,42 @@ Then after the sixty-two weeks the Messiah will be cut off and will have nothing
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| after | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| periods of seven | <span class="asgreek">εβδομάδας <sup><small><small>[[G6988]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sixty-two | <span class="asgreek">εξηκονταδύο <sup><small><small>[[G7323]]</small></small></sup> </span> |
-| shall be utterly destroyed | <span class="asgreek">εξολοθρευθήσεται <sup><small><small>[[G1842]]</small></small></sup> </span> |
-| \[the\] anointing | <span class="asgreek">χρίσμα <sup><small><small>[[G5545]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| judgment | <span class="asgreek">κρίμα <sup><small><small>[[G2917]]</small></small></sup> </span> |
-| is no longer | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| city, | <span class="asgreek">πόλιν <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| holy place | <span class="asgreek">άγιον <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| he shall corrupt | <span class="asgreek">διαφθερεί <sup><small><small>[[G1311]]</small></small></sup> </span> |
-| with | <span class="asgreek">συν <sup><small><small>[[G4862]]</small></small></sup> </span> |
-| the one | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| taking the lead, | <span class="asgreek">ηγουμένω <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| the one | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| coming, | <span class="asgreek">ερχομένω <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall be cut off | <span class="asgreek">εκκοπήσονται <sup><small><small>[[G1581]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a flood, | <span class="asgreek">κατακλυσμώ <sup><small><small>[[G2627]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| \[the\] end | <span class="asgreek">τέλους <sup><small><small>[[G5056]]</small></small></sup> </span> |
-| of war | <span class="asgreek">πολέμου <sup><small><small>[[G4171]]</small></small></sup> </span> |
-| being terminated | <span class="asgreek">συντετμημένου <sup><small><small>[[G4932]]</small></small></sup> </span> |
-| he shall order | <span class="asgreek">τάξει <sup><small><small>[[G5010]]</small></small></sup> </span> |
-| in extinctions | <span class="asgreek">αφανισμοίς <sup><small><small>[[G0854]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| periods of seven | <big><span class="asgreek">εβδομάδας</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sixty-two | <big><span class="asgreek">εξηκονταδύο</span></big> <sup><small><small>[[G7323]]</small></small></sup> |
+| shall be utterly destroyed | <big><span class="asgreek">εξολοθρευθήσεται</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| \[the\] anointing | <big><span class="asgreek">χρίσμα</span></big> <sup><small><small>[[G5545]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| judgment | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
+| is no longer | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| city, | <big><span class="asgreek">πόλιν</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| holy place | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| he shall corrupt | <big><span class="asgreek">διαφθερεί</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
+| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
+| the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| taking the lead, | <big><span class="asgreek">ηγουμένω</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| coming, | <big><span class="asgreek">ερχομένω</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall be cut off | <big><span class="asgreek">εκκοπήσονται</span></big> <sup><small><small>[[G1581]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a flood, | <big><span class="asgreek">κατακλυσμώ</span></big> <sup><small><small>[[G2627]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| \[the\] end | <big><span class="asgreek">τέλους</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
+| of war | <big><span class="asgreek">πολέμου</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| being terminated | <big><span class="asgreek">συντετμημένου</span></big> <sup><small><small>[[G4932]]</small></small></sup> |
+| he shall order | <big><span class="asgreek">τάξει</span></big> <sup><small><small>[[G5010]]</small></small></sup> |
+| in extinctions | <big><span class="asgreek">αφανισμοίς</span></big> <sup><small><small>[[G0854]]</small></small></sup> |
 [[Dan.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.25|<< Daniel 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.27|Daniel 9:27 >>]]</td></tr></table>
 
 

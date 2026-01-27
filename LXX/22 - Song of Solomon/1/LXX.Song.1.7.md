@@ -9,25 +9,25 @@ Tell me, O one I love, where do you pasture your sheep? Where do you rest them a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Report | <span class="asgreek">απάγγειλόν <sup><small><small>[[G0518]]</small></small></sup> </span> |
-| to me! | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[you\] whom | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| loved | <span class="asgreek">ηγάπησεν <sup><small><small>[[G0025]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| where | <span class="asgreek">που <sup><small><small>[[G4226]]</small></small></sup> </span> |
-| you tend, | <span class="asgreek">ποιμαίνεις <sup><small><small>[[G4165]]</small></small></sup> </span> |
-| where | <span class="asgreek">που <sup><small><small>[[G4226]]</small></small></sup> </span> |
-| you bed | <span class="asgreek">κοιτάζεις <sup><small><small>[[G8045]]</small></small></sup> </span> |
-| at | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| midday; | <span class="asgreek">μεσημβρία <sup><small><small>[[G3314]]</small></small></sup> </span> |
-| lest at any time | <span class="asgreek">μή ποτε <sup><small><small>[[G3379]]</small></small></sup> </span> |
-| I should become | <span class="asgreek">γένωμαι <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| one being covered \[by a veil\] | <span class="asgreek">περιβαλλομένη <sup><small><small>[[G4016]]</small></small></sup> </span> |
-| by | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] herds | <span class="asgreek">αγέλαις <sup><small><small>[[G0034]]</small></small></sup> </span> |
-| of your companions! | <span class="asgreek">εταίρων <sup><small><small>[[G2083]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Report | <big><span class="asgreek">απάγγειλόν</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[you\] whom | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| loved | <big><span class="asgreek">ηγάπησεν</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
+| you tend, | <big><span class="asgreek">ποιμαίνεις</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
+| where | <big><span class="asgreek">που</span></big> <sup><small><small>[[G4226]]</small></small></sup> |
+| you bed | <big><span class="asgreek">κοιτάζεις</span></big> <sup><small><small>[[G8045]]</small></small></sup> |
+| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| midday; | <big><span class="asgreek">μεσημβρία</span></big> <sup><small><small>[[G3314]]</small></small></sup> |
+| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
+| I should become | <big><span class="asgreek">γένωμαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| one being covered \[by a veil\] | <big><span class="asgreek">περιβαλλομένη</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
+| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] herds | <big><span class="asgreek">αγέλαις</span></big> <sup><small><small>[[G0034]]</small></small></sup> |
+| of your companions! | <big><span class="asgreek">εταίρων</span></big> <sup><small><small>[[G2083]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Song.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.6|<< Song of Solomon 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.8|Song of Solomon 1:8 >>]]</td></tr></table>
 
 

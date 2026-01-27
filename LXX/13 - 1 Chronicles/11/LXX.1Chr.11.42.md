@@ -9,18 +9,18 @@ Adina son of Shiza the Reubenite, chief of the Reubenites, and the thirty with h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Adina | <span class="asgreek">Αδεινά <sup><small><small>[[H5721]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Shiza | <span class="asgreek">Σιζά <sup><small><small>[[H7877]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Reubenite, | <span class="asgreek">Ρουβηνί <sup><small><small>[[G4502]]</small></small></sup> </span> |
-| ruler | <span class="asgreek">άρχων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Reuben, | <span class="asgreek">Ρουβήν <sup><small><small>[[G4502]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| thirty. | <span class="asgreek">τριάκοντα <sup><small><small>[[G5144]]</small></small></sup> </span> |
+| Adina | <big><span class="asgreek">Αδεινά</span></big> <sup><small><small>[[H5721]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Shiza | <big><span class="asgreek">Σιζά</span></big> <sup><small><small>[[H7877]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Reubenite, | <big><span class="asgreek">Ρουβηνί</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
+| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Reuben, | <big><span class="asgreek">Ρουβήν</span></big> <sup><small><small>[[G4502]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| thirty. | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
 [[1Chr.11.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.41|<< 1 Chronicles 11:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.43|1 Chronicles 11:43 >>]]</td></tr></table>
 
 

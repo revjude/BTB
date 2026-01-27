@@ -9,35 +9,35 @@ Toward the service of God’s house they gave 5,000 talents and 10,000 darics of
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they gave | <span class="asgreek">έδωκαν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| works | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| of gold | <span class="asgreek">χρυσίου <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| talents | <span class="asgreek">τάλαντα <sup><small><small>[[G5007]]</small></small></sup> </span> |
-| five thousand | <span class="asgreek">πεντακισχίλια <sup><small><small>[[G4000]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| dracmas | <span class="asgreek">δραχμάς <sup><small><small>[[G1406]]</small></small></sup> </span> |
-| ten thousand | <span class="asgreek">μυρίας <sup><small><small>[[G3461]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of silver | <span class="asgreek">αργυρίου <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| talents | <span class="asgreek">ταλάντων <sup><small><small>[[G5007]]</small></small></sup> </span> |
-| ten | <span class="asgreek">δέκα <sup><small><small>[[G1176]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάδας <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of brass | <span class="asgreek">χαλκού <sup><small><small>[[G5475]]</small></small></sup> </span> |
-| talents | <span class="asgreek">τάλαντα <sup><small><small>[[G5007]]</small></small></sup> </span> |
-| ten thousand | <span class="asgreek">μύρια <sup><small><small>[[G3463]]</small></small></sup> </span> |
-| eight thousand | <span class="asgreek">οκτακισχίλια <sup><small><small>[[G8475]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of iron | <span class="asgreek">σιδήρου <sup><small><small>[[G4604]]</small></small></sup> </span> |
-| a hundred | <span class="asgreek">εκατόν <sup><small><small>[[G1540]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλιάδας <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| talents. | <span class="asgreek">ταλάντων <sup><small><small>[[G5007]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they gave | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| of gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| talents | <big><span class="asgreek">τάλαντα</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
+| five thousand | <big><span class="asgreek">πεντακισχίλια</span></big> <sup><small><small>[[G4000]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| dracmas | <big><span class="asgreek">δραχμάς</span></big> <sup><small><small>[[G1406]]</small></small></sup> |
+| ten thousand | <big><span class="asgreek">μυρίας</span></big> <sup><small><small>[[G3461]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of silver | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| talents | <big><span class="asgreek">ταλάντων</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
+| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of brass | <big><span class="asgreek">χαλκού</span></big> <sup><small><small>[[G5475]]</small></small></sup> |
+| talents | <big><span class="asgreek">τάλαντα</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
+| ten thousand | <big><span class="asgreek">μύρια</span></big> <sup><small><small>[[G3463]]</small></small></sup> |
+| eight thousand | <big><span class="asgreek">οκτακισχίλια</span></big> <sup><small><small>[[G8475]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of iron | <big><span class="asgreek">σιδήρου</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
+| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλιάδας</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| talents. | <big><span class="asgreek">ταλάντων</span></big> <sup><small><small>[[G5007]]</small></small></sup> |
 [[1Chr.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.6|<< 1 Chronicles 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.8|1 Chronicles 29:8 >>]]</td></tr></table>
 
 

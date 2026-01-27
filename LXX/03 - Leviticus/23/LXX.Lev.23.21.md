@@ -9,29 +9,29 @@ On that same day you are to proclaim a sacred assembly, and you must not do any 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall call | <span class="asgreek">καλέσετε <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| this | <span class="asgreek">ταύτην <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέραν <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| a convocation, | <span class="asgreek">κλητή <sup><small><small>[[G2822]]</small></small></sup> </span> |
-| it shall be holy | <span class="asgreek">αγία <sup><small><small>[[G0039]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to you. | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| any | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| servile | <span class="asgreek">λατρευτόν <sup><small><small>[[G8167]]</small></small></sup> </span> |
-| You shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| do | <span class="asgreek">ποιήσετε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| law | <span class="asgreek">νόμιμον <sup><small><small>[[G8403]]</small></small></sup> </span> |
-| \[It is\] an eternal | <span class="asgreek">αιώνιον <sup><small><small>[[G0166]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your generations | <span class="asgreek">γενεάς <sup><small><small>[[G1074]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάση <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| your house. | <span class="asgreek">κατοικία <sup><small><small>[[G2733]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall call | <big><span class="asgreek">καλέσετε</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| this | <big><span class="asgreek">ταύτην</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| a convocation, | <big><span class="asgreek">κλητή</span></big> <sup><small><small>[[G2822]]</small></small></sup> |
+| it shall be holy | <big><span class="asgreek">αγία</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| servile | <big><span class="asgreek">λατρευτόν</span></big> <sup><small><small>[[G8167]]</small></small></sup> |
+| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| do | <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| law | <big><span class="asgreek">νόμιμον</span></big> <sup><small><small>[[G8403]]</small></small></sup> |
+| \[It is\] an eternal | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your generations | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| your house. | <big><span class="asgreek">κατοικία</span></big> <sup><small><small>[[G2733]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lev.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.20|<< Leviticus 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.22|Leviticus 23:22 >>]]</td></tr></table>
 
 

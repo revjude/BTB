@@ -9,20 +9,20 @@ But Nebuzaradan captain of the guard left behind some of the poorest of the land
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[some\] from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| poor | <span class="asgreek">πενήτων <sup><small><small>[[G3993]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| left behind | <span class="asgreek">κατέλιπεν <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| chief guard | <span class="asgreek">αρχιμάγειρος <sup><small><small>[[G6554]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| vine dressers | <span class="asgreek">αμπελουργούς <sup><small><small>[[G0289]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| farmers. | <span class="asgreek">γεωργούς <sup><small><small>[[G1092]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[some\] from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| poor | <big><span class="asgreek">πενήτων</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| left behind | <big><span class="asgreek">κατέλιπεν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| chief guard | <big><span class="asgreek">αρχιμάγειρος</span></big> <sup><small><small>[[G6554]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| vine dressers | <big><span class="asgreek">αμπελουργούς</span></big> <sup><small><small>[[G0289]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| farmers. | <big><span class="asgreek">γεωργούς</span></big> <sup><small><small>[[G1092]]</small></small></sup> |
 [[Jer.52.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.15|<< Jeremiah 52:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.17|Jeremiah 52:17 >>]]</td></tr></table>
 
 

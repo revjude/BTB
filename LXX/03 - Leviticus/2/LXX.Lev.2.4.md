@@ -9,26 +9,26 @@ Now if you bring an offering of grain baked in an oven, it must consist of fine 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| he should bring | <span class="asgreek">προσφέρη <sup><small><small>[[G4374]]</small></small></sup> </span> |
-| a gift \[offering\] | <span class="asgreek">δώρον <sup><small><small>[[G1435]]</small></small></sup> </span> |
-| sacrifice | <span class="asgreek">θυσίαν <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| being baked | <span class="asgreek">πεπεμμένην <sup><small><small>[[G8778]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| an oven, | <span class="asgreek">κλιβάνω <sup><small><small>[[G2823]]</small></small></sup> </span> |
-| \[it shall be\] of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| fine flour, | <span class="asgreek">σεμιδάλεως <sup><small><small>[[G4585]]</small></small></sup> </span> |
-| breads | <span class="asgreek">άρτους <sup><small><small>[[G0740]]</small></small></sup> </span> |
-| of unleavened | <span class="asgreek">αζύμους <sup><small><small>[[G0106]]</small></small></sup> </span> |
-| being mixed up | <span class="asgreek">πεφυραμένους <sup><small><small>[[G9681]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| olive oil, | <span class="asgreek">ελαίω <sup><small><small>[[G1637]]</small></small></sup> </span> |
-| or | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| pancakes | <span class="asgreek">λάγανα <sup><small><small>[[G8151]]</small></small></sup> </span> |
-| unleavened \[breads\] | <span class="asgreek">άζυμα <sup><small><small>[[G0106]]</small></small></sup> </span> |
-| being smeared all over | <span class="asgreek">διακεχρισμένα <sup><small><small>[[G6905]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| olive oil. | <span class="asgreek">ελαίω <sup><small><small>[[G1637]]</small></small></sup> </span> |
+| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| he should bring | <big><span class="asgreek">προσφέρη</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
+| a gift \[offering\] | <big><span class="asgreek">δώρον</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
+| sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| being baked | <big><span class="asgreek">πεπεμμένην</span></big> <sup><small><small>[[G8778]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| an oven, | <big><span class="asgreek">κλιβάνω</span></big> <sup><small><small>[[G2823]]</small></small></sup> |
+| \[it shall be\] of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| fine flour, | <big><span class="asgreek">σεμιδάλεως</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
+| breads | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| of unleavened | <big><span class="asgreek">αζύμους</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
+| being mixed up | <big><span class="asgreek">πεφυραμένους</span></big> <sup><small><small>[[G9681]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| olive oil, | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| or | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| pancakes | <big><span class="asgreek">λάγανα</span></big> <sup><small><small>[[G8151]]</small></small></sup> |
+| unleavened \[breads\] | <big><span class="asgreek">άζυμα</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
+| being smeared all over | <big><span class="asgreek">διακεχρισμένα</span></big> <sup><small><small>[[G6905]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| olive oil. | <big><span class="asgreek">ελαίω</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
 [[Lev.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.3|<< Leviticus 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.5|Leviticus 2:5 >>]]</td></tr></table>
 
 

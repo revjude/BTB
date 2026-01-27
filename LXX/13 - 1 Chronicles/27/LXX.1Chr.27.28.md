@@ -9,27 +9,27 @@ Baal-hanan the Gederite was in charge of the olive and sycamore trees in the foo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| olive groves | <span class="asgreek">ελαιώνων <sup><small><small>[[G1638]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sycamine trees | <span class="asgreek">συκαμίνων <sup><small><small>[[G4807]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| plain | <span class="asgreek">πεδινή <sup><small><small>[[G3977]]</small></small></sup> </span> |
-| \[was\] Baal-hanan | <span class="asgreek">Βαλαανάν <sup><small><small>[[H1177]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Gederite. | <span class="asgreek">Γεδωρίτης <sup><small><small>[[H1451]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| over | <span class="asgreek">επι <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| storehouses | <span class="asgreek">θησαυρών <sup><small><small>[[G2344]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| olive oil | <span class="asgreek">ελαίου <sup><small><small>[[G1637]]</small></small></sup> </span> |
-| \[was\] Joash. | <span class="asgreek">Ιωάς <sup><small><small>[[H3135]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| olive groves | <big><span class="asgreek">ελαιώνων</span></big> <sup><small><small>[[G1638]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sycamine trees | <big><span class="asgreek">συκαμίνων</span></big> <sup><small><small>[[G4807]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| plain | <big><span class="asgreek">πεδινή</span></big> <sup><small><small>[[G3977]]</small></small></sup> |
+| \[was\] Baal-hanan | <big><span class="asgreek">Βαλαανάν</span></big> <sup><small><small>[[H1177]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Gederite. | <big><span class="asgreek">Γεδωρίτης</span></big> <sup><small><small>[[H1451]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| over | <big><span class="asgreek">επι</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| storehouses | <big><span class="asgreek">θησαυρών</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| olive oil | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| \[was\] Joash. | <big><span class="asgreek">Ιωάς</span></big> <sup><small><small>[[H3135]]</small></small></sup> |
 [[1Chr.27.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.27|<< 1 Chronicles 27:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.29|1 Chronicles 27:29 >>]]</td></tr></table>
 
 

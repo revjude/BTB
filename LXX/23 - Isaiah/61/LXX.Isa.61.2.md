@@ -13,17 +13,17 @@ to proclaim the year of the LORD’s favor and the day of our God’s vengeance,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| to call | <span class="asgreek">καλέσαι <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| year | <span class="asgreek">ενιαυτόν <sup><small><small>[[G1763]]</small></small></sup> </span> |
-| \[of the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \[the\] acceptable | <span class="asgreek">δεκτόν <sup><small><small>[[G1184]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέραν <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of recompense; | <span class="asgreek">ανταποδόσεως <sup><small><small>[[G0469]]</small></small></sup> </span> |
-| to comfort | <span class="asgreek">παρακαλέσαι <sup><small><small>[[G3870]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mourning; | <span class="asgreek">πενθούντας <sup><small><small>[[G3996]]</small></small></sup> </span> |
+| to call | <big><span class="asgreek">καλέσαι</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| year | <big><span class="asgreek">ενιαυτόν</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
+| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[the\] acceptable | <big><span class="asgreek">δεκτόν</span></big> <sup><small><small>[[G1184]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of recompense; | <big><span class="asgreek">ανταποδόσεως</span></big> <sup><small><small>[[G0469]]</small></small></sup> |
+| to comfort | <big><span class="asgreek">παρακαλέσαι</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mourning; | <big><span class="asgreek">πενθούντας</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
 [[Isa.61.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.1|<< Isaiah 61:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.3|Isaiah 61:3 >>]]</td></tr></table>
 
 

@@ -9,31 +9,31 @@ Now the upper chambers were smaller because the galleries took more space from t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| promenades | <span class="asgreek">περίπατοι <sup><small><small>[[G8745]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| upper | <span class="asgreek">υπερώων <sup><small><small>[[G5253]]</small></small></sup> </span> |
-| \[were\] likewise; | <span class="asgreek">ωσαύτως <sup><small><small>[[G5615]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| protruded | <span class="asgreek">εξείχετο <sup><small><small>[[G7319]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| peristyle | <span class="asgreek">περίστυλον <sup><small><small>[[G8763]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| beneath | <span class="asgreek">υποκάτωθεν <sup><small><small>[[G9575]]</small></small></sup> </span> |
-| peristyle | <span class="asgreek">περιστύλου <sup><small><small>[[G8763]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| interval; | <span class="asgreek">διάστημα <sup><small><small>[[G1292]]</small></small></sup> </span> |
-| thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| a peristyle | <span class="asgreek">περίστυλον <sup><small><small>[[G8763]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| an interval | <span class="asgreek">διάστημα <sup><small><small>[[G1292]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| thus. | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| promenades | <big><span class="asgreek">περίπατοι</span></big> <sup><small><small>[[G8745]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| upper | <big><span class="asgreek">υπερώων</span></big> <sup><small><small>[[G5253]]</small></small></sup> |
+| \[were\] likewise; | <big><span class="asgreek">ωσαύτως</span></big> <sup><small><small>[[G5615]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| protruded | <big><span class="asgreek">εξείχετο</span></big> <sup><small><small>[[G7319]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| peristyle | <big><span class="asgreek">περίστυλον</span></big> <sup><small><small>[[G8763]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| beneath | <big><span class="asgreek">υποκάτωθεν</span></big> <sup><small><small>[[G9575]]</small></small></sup> |
+| peristyle | <big><span class="asgreek">περιστύλου</span></big> <sup><small><small>[[G8763]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| interval; | <big><span class="asgreek">διάστημα</span></big> <sup><small><small>[[G1292]]</small></small></sup> |
+| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| a peristyle | <big><span class="asgreek">περίστυλον</span></big> <sup><small><small>[[G8763]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| an interval | <big><span class="asgreek">διάστημα</span></big> <sup><small><small>[[G1292]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| thus. | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
 [[Ezek.42.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.4|<< Ezekiel 42:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.6|Ezekiel 42:6 >>]]</td></tr></table>
 
 

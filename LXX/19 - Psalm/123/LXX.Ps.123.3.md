@@ -9,16 +9,16 @@ Have mercy on us, O LORD, have mercy, for we have endured much contempt.<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Show mercy on | <span class="asgreek">ελέησον <sup><small><small>[[G1653]]</small></small></sup> </span> |
-| us, | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| show mercy on | <span class="asgreek">ελέησον <sup><small><small>[[G1653]]</small></small></sup> </span> |
-| us! | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| unto | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| greatly | <span class="asgreek">πολύ <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| we filled | <span class="asgreek">επλήσθημεν <sup><small><small>[[G4130]]</small></small></sup> </span> |
-| of contempt. | <span class="asgreek">εξουδενώσεως <sup><small><small>[[G7352]]</small></small></sup> </span> |
+| Show mercy on | <big><span class="asgreek">ελέησον</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| us, | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| show mercy on | <big><span class="asgreek">ελέησον</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| us! | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| greatly | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| we filled | <big><span class="asgreek">επλήσθημεν</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
+| of contempt. | <big><span class="asgreek">εξουδενώσεως</span></big> <sup><small><small>[[G7352]]</small></small></sup> |
 [[Ps.123.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.123.2|<< Psalm 123:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.123.4|Psalm 123:4 >>]]</td></tr></table>
 
 

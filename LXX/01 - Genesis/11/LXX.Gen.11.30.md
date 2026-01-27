@@ -9,12 +9,12 @@ But Sarai was barren; she had no children.<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Sarai was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> <span class="asgreek">Σάρα <sup><small><small>[[H6881]]</small></small></sup> </span> |
-| sterile, | <span class="asgreek">στείρα <sup><small><small>[[G4723]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| able to produce children. | <span class="asgreek">ετεκνοποίει <sup><small><small>[[G9411]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Sarai was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">Σάρα</span></big> <sup><small><small>[[H6881]]</small></small></sup> |
+| sterile, | <big><span class="asgreek">στείρα</span></big> <sup><small><small>[[G4723]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| able to produce children. | <big><span class="asgreek">ετεκνοποίει</span></big> <sup><small><small>[[G9411]]</small></small></sup> |
 [[Gen.11.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.29|<< Genesis 11:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.31|Genesis 11:31 >>]]</td></tr></table>
 
 

@@ -9,25 +9,25 @@ I will also make it a possession for the bittern, and pools of water: and I will
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will make | <span class="asgreek">θήσω <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Babylonian region | <span class="asgreek">Βαβυλώνιαν <sup><small><small>[[G0897]]</small></small></sup> </span> |
-| desolate | <span class="asgreek">έρημον <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| so as for | <span class="asgreek">ώστε <sup><small><small>[[G5620]]</small></small></sup> </span> |
-| to dwell | <span class="asgreek">κατοικείν <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| hedgehogs | <span class="asgreek">εχίνους <sup><small><small>[[G7591]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| nothing, | <span class="asgreek">ουδέν <sup><small><small>[[G3762]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will make | <span class="asgreek">θήσω <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a clay | <span class="asgreek">πηλού <sup><small><small>[[G4081]]</small></small></sup> </span> |
-| pit | <span class="asgreek">βάραθρον <sup><small><small>[[G6653]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| destruction. | <span class="asgreek">απώλειαν <sup><small><small>[[G0684]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will make | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Babylonian region | <big><span class="asgreek">Βαβυλώνιαν</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| desolate | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| so as for | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
+| to dwell | <big><span class="asgreek">κατοικείν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| hedgehogs | <big><span class="asgreek">εχίνους</span></big> <sup><small><small>[[G7591]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| nothing, | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will make | <big><span class="asgreek">θήσω</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a clay | <big><span class="asgreek">πηλού</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
+| pit | <big><span class="asgreek">βάραθρον</span></big> <sup><small><small>[[G6653]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| destruction. | <big><span class="asgreek">απώλειαν</span></big> <sup><small><small>[[G0684]]</small></small></sup> |
 [[Isa.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.22|<< Isaiah 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.24|Isaiah 14:24 >>]]</td></tr></table>
 
 

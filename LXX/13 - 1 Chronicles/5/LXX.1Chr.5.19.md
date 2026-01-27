@@ -9,18 +9,18 @@ They waged war against the Hagrites, as well as Jetur, Naphish, and Nodab.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they made | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| war | <span class="asgreek">πόλεμον <sup><small><small>[[G4171]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hagarites, | <span class="asgreek">Αγαρηνών <sup><small><small>[[G0028]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jeturites, | <span class="asgreek">Ιτουραίων <sup><small><small>[[H3195]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Nepishites, | <span class="asgreek">Ναφισαίων <sup><small><small>[[H5305]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Nodabeans. | <span class="asgreek">Νηδαβαίων <sup><small><small>[[H5114]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hagarites, | <big><span class="asgreek">Αγαρηνών</span></big> <sup><small><small>[[G0028]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jeturites, | <big><span class="asgreek">Ιτουραίων</span></big> <sup><small><small>[[H3195]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Nepishites, | <big><span class="asgreek">Ναφισαίων</span></big> <sup><small><small>[[H5305]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Nodabeans. | <big><span class="asgreek">Νηδαβαίων</span></big> <sup><small><small>[[H5114]]</small></small></sup> |
 [[1Chr.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.18|<< 1 Chronicles 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.20|1 Chronicles 5:20 >>]]</td></tr></table>
 
 

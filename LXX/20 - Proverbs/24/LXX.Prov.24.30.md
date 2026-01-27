@@ -9,16 +9,16 @@ I went past the field of a slacker and by the vineyard of a man lacking judgment
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[is\] as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| a farm | <span class="asgreek">γεώργιον <sup><small><small>[[G1091]]</small></small></sup> </span> |
-| man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| A foolish | <span class="asgreek">άφρων <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[is\] as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| a vineyard | <span class="asgreek">αμπελών <sup><small><small>[[G0290]]</small></small></sup> </span> |
-| a man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| lacking | <span class="asgreek">ενδεής <sup><small><small>[[G1729]]</small></small></sup> </span> |
-| of sense | <span class="asgreek">φρενών <sup><small><small>[[G5424]]</small></small></sup> </span> |
+| \[is\] as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| a farm | <big><span class="asgreek">γεώργιον</span></big> <sup><small><small>[[G1091]]</small></small></sup> |
+| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| A foolish | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[is\] as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| a vineyard | <big><span class="asgreek">αμπελών</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
+| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| lacking | <big><span class="asgreek">ενδεής</span></big> <sup><small><small>[[G1729]]</small></small></sup> |
+| of sense | <big><span class="asgreek">φρενών</span></big> <sup><small><small>[[G5424]]</small></small></sup> |
 [[Prov.24.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.29|<< Proverbs 24:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.31|Proverbs 24:31 >>]]</td></tr></table>
 
 

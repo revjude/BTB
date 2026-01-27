@@ -9,15 +9,15 @@ His snorting flashes with light, and his eyes are like the rays of dawn.<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| his sneezing | <span class="asgreek">πταρμώ <sup><small><small>[[G8972]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shines forth | <span class="asgreek">επιφαύσκεται <sup><small><small>[[G2017]]</small></small></sup> </span> |
-| brightness | <span class="asgreek">φέγγος <sup><small><small>[[G5338]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| his eyes | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[are as the\] appearance | <span class="asgreek">είδος <sup><small><small>[[G1491]]</small></small></sup> </span> |
-| of \[the\] morning star. | <span class="asgreek">Εωσφόρου <sup><small><small>[[G7596]]</small></small></sup> </span> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| his sneezing | <big><span class="asgreek">πταρμώ</span></big> <sup><small><small>[[G8972]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shines forth | <big><span class="asgreek">επιφαύσκεται</span></big> <sup><small><small>[[G2017]]</small></small></sup> |
+| brightness | <big><span class="asgreek">φέγγος</span></big> <sup><small><small>[[G5338]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| his eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[are as the\] appearance | <big><span class="asgreek">είδος</span></big> <sup><small><small>[[G1491]]</small></small></sup> |
+| of \[the\] morning star. | <big><span class="asgreek">Εωσφόρου</span></big> <sup><small><small>[[G7596]]</small></small></sup> |
 [[Job.41.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.17|<< Job 41:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.19|Job 41:19 >>]]</td></tr></table>
 
 

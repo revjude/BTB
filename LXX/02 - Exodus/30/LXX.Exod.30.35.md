@@ -9,17 +9,17 @@ and make a fragrant blend of incense, the work of a perfumer, seasoned with salt
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall make | <span class="asgreek">ποιήσουσιν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| \[with\] it | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| incense | <span class="asgreek">θυμίαμα <sup><small><small>[[G2368]]</small></small></sup> </span> |
-| scented | <span class="asgreek">μυρεψικόν <sup><small><small>[[G8360]]</small></small></sup> </span> |
-| a work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| of a perfumer -- | <span class="asgreek">μυρεψού <sup><small><small>[[G8361]]</small></small></sup> </span> |
-| being mixed | <span class="asgreek">μεμιγμένον <sup><small><small>[[G3396]]</small></small></sup> </span> |
-| a pure | <span class="asgreek">καθαρόν <sup><small><small>[[G2513]]</small></small></sup> </span> |
-| work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| holy | <span class="asgreek">άγιον <sup><small><small>[[G0039]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall make | <big><span class="asgreek">ποιήσουσιν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \[with\] it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| incense | <big><span class="asgreek">θυμίαμα</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
+| scented | <big><span class="asgreek">μυρεψικόν</span></big> <sup><small><small>[[G8360]]</small></small></sup> |
+| a work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| of a perfumer -- | <big><span class="asgreek">μυρεψού</span></big> <sup><small><small>[[G8361]]</small></small></sup> |
+| being mixed | <big><span class="asgreek">μεμιγμένον</span></big> <sup><small><small>[[G3396]]</small></small></sup> |
+| a pure | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
+| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
 [[Exod.30.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.34|<< Exodus 30:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.36|Exodus 30:36 >>]]</td></tr></table>
 
 

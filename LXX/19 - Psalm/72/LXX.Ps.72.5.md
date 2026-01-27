@@ -9,16 +9,16 @@ May they fear him as long as the sun shines, as long as the moon remains, throug
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall continue as | <span class="asgreek">συμπαραμενεί <sup><small><small>[[G4839]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sun, | <span class="asgreek">ηλίω <sup><small><small>[[G2246]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| before | <span class="asgreek">προ <sup><small><small>[[G4253]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| moon | <span class="asgreek">σελήνης <sup><small><small>[[G4582]]</small></small></sup> </span> |
-| \[for\] generations | <span class="asgreek">γενεάς <sup><small><small>[[G1074]]</small></small></sup> </span> |
-| of generations. | <span class="asgreek">γενεών <sup><small><small>[[G1074]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall continue as | <big><span class="asgreek">συμπαραμενεί</span></big> <sup><small><small>[[G4839]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sun, | <big><span class="asgreek">ηλίω</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| moon | <big><span class="asgreek">σελήνης</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
+| \[for\] generations | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
+| of generations. | <big><span class="asgreek">γενεών</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
 [[Ps.72.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.4|<< Psalm 72:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.6|Psalm 72:6 >>]]</td></tr></table>
 
 

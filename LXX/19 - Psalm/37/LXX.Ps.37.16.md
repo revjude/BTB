@@ -9,14 +9,14 @@ Better is the little of the righteous than the abundance of many who are wicked.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Better | <span class="asgreek">κρείσσον <sup><small><small>[[G2908]]</small></small></sup> </span> |
-| \[is\] a little | <span class="asgreek">ολίγον <sup><small><small>[[G3641]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| just, | <span class="asgreek">δικαίω <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| than | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| riches | <span class="asgreek">πλούτον <sup><small><small>[[G4149]]</small></small></sup> </span> |
-| of sinners | <span class="asgreek">αμαρτωλών <sup><small><small>[[G0268]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολύν <sup><small><small>[[G4183]]</small></small></sup> </span> |
+| Better | <big><span class="asgreek">κρείσσον</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
+| \[is\] a little | <big><span class="asgreek">ολίγον</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| just, | <big><span class="asgreek">δικαίω</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| riches | <big><span class="asgreek">πλούτον</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
+| of sinners | <big><span class="asgreek">αμαρτωλών</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
+| many | <big><span class="asgreek">πολύν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
 [[Ps.37.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.15|<< Psalm 37:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.17|Psalm 37:17 >>]]</td></tr></table>
 
 

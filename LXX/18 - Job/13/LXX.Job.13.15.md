@@ -9,21 +9,21 @@ Though He slay me, I will hope in Him. I will still defend my ways to His face.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Though | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| should lay hands against | <span class="asgreek">χειρώσηται <sup><small><small>[[G9713]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mighty one | <span class="asgreek">δυνάστης <sup><small><small>[[G1413]]</small></small></sup> </span> |
-| since | <span class="asgreek">επεί <sup><small><small>[[G1893]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he begins, | <span class="asgreek">ήρκται <sup><small><small>[[G0756]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in fact | <span class="asgreek">μην <sup><small><small>[[G3375]]</small></small></sup> </span> |
-| I shall speak | <span class="asgreek">λαλήσω <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| reprove | <span class="asgreek">ελέγξω <sup><small><small>[[G1651]]</small></small></sup> </span> |
-| before | <span class="asgreek">εναντίον <sup><small><small>[[G1726]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Though | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| should lay hands against | <big><span class="asgreek">χειρώσηται</span></big> <sup><small><small>[[G9713]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mighty one | <big><span class="asgreek">δυνάστης</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
+| since | <big><span class="asgreek">επεί</span></big> <sup><small><small>[[G1893]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he begins, | <big><span class="asgreek">ήρκται</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in fact | <big><span class="asgreek">μην</span></big> <sup><small><small>[[G3375]]</small></small></sup> |
+| I shall speak | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| reprove | <big><span class="asgreek">ελέγξω</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
+| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.14|<< Job 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.16|Job 13:16 >>]]</td></tr></table>
 
 

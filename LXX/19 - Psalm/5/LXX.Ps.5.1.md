@@ -14,13 +14,13 @@ For the choirmaster, to be accompanied by flutes. A Psalm of David. Give ear to 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my words | <span class="asgreek">ρήματά <sup><small><small>[[G4487]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Give ear to | <span class="asgreek">ενώτισαι <sup><small><small>[[G1801]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>! | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| Take notice | <span class="asgreek">σύνες <sup><small><small>[[G4920]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of my cry! | <span class="asgreek">κραυγής <sup><small><small>[[G2906]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my words | <big><span class="asgreek">ρήματά</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Give ear to | <big><span class="asgreek">ενώτισαι</span></big> <sup><small><small>[[G1801]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Take notice | <big><span class="asgreek">σύνες</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of my cry! | <big><span class="asgreek">κραυγής</span></big> <sup><small><small>[[G2906]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.8|<< Psalm 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.2|Psalm 5:2 >>]]</td></tr></table>
 
 

@@ -9,15 +9,15 @@ They are confounded because they had hoped; their arrival brings disappointment.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| for shame | <span class="asgreek">αισχύνην <sup><small><small>[[G0152]]</small></small></sup> </span> |
-| they shall owe -- | <span class="asgreek">οφειλήσουσιν <sup><small><small>[[G3784]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεσι <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] things | <span class="asgreek">χρήμασι <sup><small><small>[[G5536]]</small></small></sup> </span> |
-| relied upon \[there\]. | <span class="asgreek">πεποιθότες <sup><small><small>[[G3982]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| for shame | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
+| they shall owe -- | <big><span class="asgreek">οφειλήσουσιν</span></big> <sup><small><small>[[G3784]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεσι</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] things | <big><span class="asgreek">χρήμασι</span></big> <sup><small><small>[[G5536]]</small></small></sup> |
+| relied upon \[there\]. | <big><span class="asgreek">πεποιθότες</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
 [[Job.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.19|<< Job 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.21|Job 6:21 >>]]</td></tr></table>
 
 

@@ -9,11 +9,11 @@ He has barred my ways with cut stones; He has made my paths crooked.<small><sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| He blocked up | <span class="asgreek">ανωκοδόμησεν <sup><small><small>[[G0456]]</small></small></sup> </span> |
-| my ways; | <span class="asgreek">οδούς <sup><small><small>[[G3598]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he obstructed | <span class="asgreek">ενέφραξε <sup><small><small>[[G7213]]</small></small></sup> </span> |
-| my roads; | <span class="asgreek">τρίβους <sup><small><small>[[G5147]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he disturbed \[me\]. | <span class="asgreek">ετάραξεν <sup><small><small>[[G5015]]</small></small></sup> </span> |
+| He blocked up | <big><span class="asgreek">ανωκοδόμησεν</span></big> <sup><small><small>[[G0456]]</small></small></sup> |
+| my ways; | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he obstructed | <big><span class="asgreek">ενέφραξε</span></big> <sup><small><small>[[G7213]]</small></small></sup> |
+| my roads; | <big><span class="asgreek">τρίβους</span></big> <sup><small><small>[[G5147]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he disturbed \[me\]. | <big><span class="asgreek">ετάραξεν</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
 [[Lam.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.8|<< Lamentations 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.10|Lamentations 3:10 >>]]</td></tr></table>
 
 

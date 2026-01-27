@@ -9,17 +9,17 @@ Teach me what I cannot see; if I have done wrong, I will not do it again.’<sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| apart from | <span class="asgreek">άνευ <sup><small><small>[[G0427]]</small></small></sup> </span> |
-| myself | <span class="asgreek">εμαυτού <sup><small><small>[[G1683]]</small></small></sup> </span> |
-| I will see | <span class="asgreek">όψομαι <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| show | <span class="asgreek">δείξόν <sup><small><small>[[G1166]]</small></small></sup> </span> |
-| to me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| iniquity | <span class="asgreek">αδικίαν <sup><small><small>[[G0093]]</small></small></sup> </span> |
-| I practiced | <span class="asgreek">ειργασάμην <sup><small><small>[[G2038]]</small></small></sup> </span> |
-| \[then\] in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall I proceed. | <span class="asgreek">προσθήσω <sup><small><small>[[G4369]]</small></small></sup> </span> |
+| apart from | <big><span class="asgreek">άνευ</span></big> <sup><small><small>[[G0427]]</small></small></sup> |
+| myself | <big><span class="asgreek">εμαυτού</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
+| I will see | <big><span class="asgreek">όψομαι</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| show | <big><span class="asgreek">δείξόν</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
+| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| iniquity | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
+| I practiced | <big><span class="asgreek">ειργασάμην</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
+| \[then\] in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall I proceed. | <big><span class="asgreek">προσθήσω</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
 [[Job.34.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.31|<< Job 34:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.33|Job 34:33 >>]]</td></tr></table>
 
 

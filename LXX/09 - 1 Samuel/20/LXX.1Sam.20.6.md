@@ -9,33 +9,33 @@ If your father misses me at all, tell him, ‘David urgently requested my permis
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| in numbering | <span class="asgreek">επισκεπτόμενος <sup><small><small>[[G1980]]</small></small></sup> </span> |
-| should number | <span class="asgreek">επισκέψηταί <sup><small><small>[[G1980]]</small></small></sup> </span> |
-| me \[missing\] | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your father | <span class="asgreek">πατήρ <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| then | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall say, | <span class="asgreek">ερείς <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| In asking pardon | <span class="asgreek">παραιτούμενος <sup><small><small>[[G3868]]</small></small></sup> </span> |
-| asks pardon | <span class="asgreek">παρητήσατο <sup><small><small>[[G3868]]</small></small></sup> </span> |
-| of | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| David | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| to run | <span class="asgreek">δραμείν <sup><small><small>[[G5143]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-|  | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Beth-lehem | <span class="asgreek">Βηθλεέμ <sup><small><small>[[G0965]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his city, | <span class="asgreek">πόλεως <sup><small><small>[[G4172]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] sacrifice | <span class="asgreek">θυσία <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[feast\] days | <span class="asgreek">ημερών <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| \[is\] there | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| \[for the\] entire | <span class="asgreek">όλη <sup><small><small>[[G3650]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tribe. | <span class="asgreek">φυλή <sup><small><small>[[G5443]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| in numbering | <big><span class="asgreek">επισκεπτόμενος</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
+| should number | <big><span class="asgreek">επισκέψηταί</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
+| me \[missing\] | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| In asking pardon | <big><span class="asgreek">παραιτούμενος</span></big> <sup><small><small>[[G3868]]</small></small></sup> |
+| asks pardon | <big><span class="asgreek">παρητήσατο</span></big> <sup><small><small>[[G3868]]</small></small></sup> |
+| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| to run | <big><span class="asgreek">δραμείν</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+|  | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Beth-lehem | <big><span class="asgreek">Βηθλεέμ</span></big> <sup><small><small>[[G0965]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his city, | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] sacrifice | <big><span class="asgreek">θυσία</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[feast\] days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| \[is\] there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| \[for the\] entire | <big><span class="asgreek">όλη</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tribe. | <big><span class="asgreek">φυλή</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
 [[1Sam.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.5|<< 1 Samuel 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.7|1 Samuel 20:7 >>]]</td></tr></table>
 
 

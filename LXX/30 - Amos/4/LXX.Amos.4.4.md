@@ -9,27 +9,27 @@ Come to Bethel, and transgress; at Gilgal multiply transgression; and bring your
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You entered | <span class="asgreek">εισήλθετε <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Beth-el, | <span class="asgreek">Βαιθήλ <sup><small><small>[[H1008]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| were impious; | <span class="asgreek">ησεβήσατε <sup><small><small>[[G0764]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Gilgal | <span class="asgreek">Γαλγαλά <sup><small><small>[[H1537]]</small></small></sup> </span> |
-| you multiplied | <span class="asgreek">επληθύνατε <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to be impious; | <span class="asgreek">ασεβήσαι <sup><small><small>[[G0764]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you brought | <span class="asgreek">ηνέγκατε <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the morning | <span class="asgreek">τοπρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| of your sacrifice \[offerings\] | <span class="asgreek">θυσίας <sup><small><small>[[G2378]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| third day | <span class="asgreek">τριημερίαν <sup><small><small>[[G9486]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your tithes. | <span class="asgreek">επιδέκατα <sup><small><small>[[G7400]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| You entered | <big><span class="asgreek">εισήλθετε</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Beth-el, | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| were impious; | <big><span class="asgreek">ησεβήσατε</span></big> <sup><small><small>[[G0764]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Gilgal | <big><span class="asgreek">Γαλγαλά</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
+| you multiplied | <big><span class="asgreek">επληθύνατε</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to be impious; | <big><span class="asgreek">ασεβήσαι</span></big> <sup><small><small>[[G0764]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you brought | <big><span class="asgreek">ηνέγκατε</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| of your sacrifice \[offerings\] | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| third day | <big><span class="asgreek">τριημερίαν</span></big> <sup><small><small>[[G9486]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your tithes. | <big><span class="asgreek">επιδέκατα</span></big> <sup><small><small>[[G7400]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Amos.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.3|<< Amos 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.5|Amos 4:5 >>]]</td></tr></table>
 
 

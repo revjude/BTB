@@ -9,14 +9,14 @@ You sweep them away in their sleep; they are like the new grass of the morning�
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their contempt | <span class="asgreek">εξουδενώματα <sup><small><small>[[G7351]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Years | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| shall be | <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the morning | <span class="asgreek">τοπρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| tender shoots | <span class="asgreek">χλόη <sup><small><small>[[G5514]]</small></small></sup> </span> |
-| may it go by | <span class="asgreek">παρέλθοι <sup><small><small>[[G3928]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their contempt | <big><span class="asgreek">εξουδενώματα</span></big> <sup><small><small>[[G7351]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| tender shoots | <big><span class="asgreek">χλόη</span></big> <sup><small><small>[[G5514]]</small></small></sup> |
+| may it go by | <big><span class="asgreek">παρέλθοι</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
 [[Ps.90.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.4|<< Psalm 90:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.6|Psalm 90:6 >>]]</td></tr></table>
 
 

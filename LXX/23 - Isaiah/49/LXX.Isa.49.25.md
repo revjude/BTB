@@ -9,29 +9,29 @@ Indeed, this is what the LORD says: “Even the captives of the mighty will be t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| thus | <span class="asgreek">ούτω <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| any | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| should capture | <span class="asgreek">αιχμαλωτεύση <sup><small><small>[[G0162]]</small></small></sup> </span> |
-| a giant, | <span class="asgreek">γίγαντα <sup><small><small>[[G6736]]</small></small></sup> </span> |
-| he shall take | <span class="asgreek">λήψεται <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| \[the\] spoils. | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> </span> |
-| And \[the\] one taking | <span class="asgreek">λαμβάνων <sup><small><small>[[G2983]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| from | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| \[the\] one being strong, | <span class="asgreek">ισχύοντος <sup><small><small>[[G2480]]</small></small></sup> </span> |
-| shall be delivered. | <span class="asgreek">σωθήσεται <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| But I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your case | <span class="asgreek">κρίσιν <sup><small><small>[[G2920]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| will plead | <span class="asgreek">κρινώ <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your sons | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| will rescue | <span class="asgreek">ρύσομαι <sup><small><small>[[G4506]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| thus | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| any | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| should capture | <big><span class="asgreek">αιχμαλωτεύση</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
+| a giant, | <big><span class="asgreek">γίγαντα</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
+| he shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| \[the\] spoils. | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
+| And \[the\] one taking | <big><span class="asgreek">λαμβάνων</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| \[the\] one being strong, | <big><span class="asgreek">ισχύοντος</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
+| shall be delivered. | <big><span class="asgreek">σωθήσεται</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| But I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your case | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| will plead | <big><span class="asgreek">κρινώ</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| will rescue | <big><span class="asgreek">ρύσομαι</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
 [[Isa.49.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.24|<< Isaiah 49:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.26|Isaiah 49:26 >>]]</td></tr></table>
 
 

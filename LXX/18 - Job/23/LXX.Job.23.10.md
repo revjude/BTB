@@ -9,14 +9,14 @@ Yet He knows the way I have taken; when He has tested me, I will come forth as g
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For he knows | <span class="asgreek">οίδε <sup><small><small>[[G1492]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| already | <span class="asgreek">ήδη <sup><small><small>[[G2235]]</small></small></sup> </span> |
-| my way | <span class="asgreek">οδόν μου <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| he examined | <span class="asgreek">διέκρινε <sup><small><small>[[G1252]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gold. | <span class="asgreek">χρυσίον <sup><small><small>[[G5553]]</small></small></sup> </span> |
+| For he knows | <big><span class="asgreek">οίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| already | <big><span class="asgreek">ήδη</span></big> <sup><small><small>[[G2235]]</small></small></sup> |
+| my way | <big><span class="asgreek">οδόν μου</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| he examined | <big><span class="asgreek">διέκρινε</span></big> <sup><small><small>[[G1252]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gold. | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
 [[Job.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.9|<< Job 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.11|Job 23:11 >>]]</td></tr></table>
 
 

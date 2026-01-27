@@ -9,37 +9,37 @@ On the first day you are to hold a sacred assembly, and another on the seventh d
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| first | <span class="asgreek">πρώτη <sup><small><small>[[G4413]]</small></small></sup> </span> |
-| shall be called | <span class="asgreek">κεκλήσεται <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| holy. | <span class="asgreek">αγία <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seventh | <span class="asgreek">εβδόμη <sup><small><small>[[G1442]]</small></small></sup> </span> |
-| called | <span class="asgreek">κλητή <sup><small><small>[[G2822]]</small></small></sup> </span> |
-| holy | <span class="asgreek">αγία <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to you. | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| All | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| servile | <span class="asgreek">λατρευτόν <sup><small><small>[[G8167]]</small></small></sup> </span> |
-| shall not be done | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ποιήσετε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυταίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| except | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| as much as | <span class="asgreek">όσα <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| \[is necessary\] to do | <span class="asgreek">ποιηθήσεται <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| for every | <span class="asgreek">πάση <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| soul, | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| only | <span class="asgreek">μόνον <sup><small><small>[[G3440]]</small></small></sup> </span> |
-| shall be done | <span class="asgreek">ποιηθήσεται <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| by you. | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| first | <big><span class="asgreek">πρώτη</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
+| shall be called | <big><span class="asgreek">κεκλήσεται</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| holy. | <big><span class="asgreek">αγία</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seventh | <big><span class="asgreek">εβδόμη</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
+| called | <big><span class="asgreek">κλητή</span></big> <sup><small><small>[[G2822]]</small></small></sup> |
+| holy | <big><span class="asgreek">αγία</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| All | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| servile | <big><span class="asgreek">λατρευτόν</span></big> <sup><small><small>[[G8167]]</small></small></sup> |
+| shall not be done | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ποιήσετε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| except | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| \[is necessary\] to do | <big><span class="asgreek">ποιηθήσεται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| for every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| soul, | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| only | <big><span class="asgreek">μόνον</span></big> <sup><small><small>[[G3440]]</small></small></sup> |
+| shall be done | <big><span class="asgreek">ποιηθήσεται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| by you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Exod.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.15|<< Exodus 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.17|Exodus 12:17 >>]]</td></tr></table>
 
 

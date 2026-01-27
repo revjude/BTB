@@ -9,16 +9,16 @@ I have done what is just and right; do not leave me to my oppressors.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I executed | <span class="asgreek">εποίησα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| judgment | <span class="asgreek">κρίμα <sup><small><small>[[G2917]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| righteousness; | <span class="asgreek">δικαιοσύνην <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| you should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| deliver | <span class="asgreek">παραδώς <sup><small><small>[[G3860]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wronging | <span class="asgreek">αδικούσί <sup><small><small>[[G0091]]</small></small></sup> </span> |
-| me. | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| I executed | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| judgment | <big><span class="asgreek">κρίμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| righteousness; | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| deliver | <big><span class="asgreek">παραδώς</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wronging | <big><span class="asgreek">αδικούσί</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
+| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.119.121|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.120|<< Psalm 119:120]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.122|Psalm 119:122 >>]]</td></tr></table>
 
 

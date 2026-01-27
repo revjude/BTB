@@ -14,16 +14,16 @@ For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David. Do 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Will | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| truly | <span class="asgreek">αληθώς <sup><small><small>[[G0230]]</small></small></sup> </span> |
-| thus | <span class="asgreek">άρα <sup><small><small>[[G0686]]</small></small></sup> </span> |
-| righteousness | <span class="asgreek">δικαιοσύνην <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| you speak | <span class="asgreek">λαλείτε <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| \[and\] rightly | <span class="asgreek">ευθείας <sup><small><small>[[G2117]]</small></small></sup> </span> |
-| judge, | <span class="asgreek">κρίνατε <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| O sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of men? | <span class="asgreek">ανθρώπων <sup><small><small>[[G0444]]</small></small></sup> </span> |
+| Will | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| truly | <big><span class="asgreek">αληθώς</span></big> <sup><small><small>[[G0230]]</small></small></sup> |
+| thus | <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
+| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| you speak | <big><span class="asgreek">λαλείτε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| \[and\] rightly | <big><span class="asgreek">ευθείας</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
+| judge, | <big><span class="asgreek">κρίνατε</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| O sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of men? | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
 [[Ps.58.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.11|<< Psalm 57:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.2|Psalm 58:2 >>]]</td></tr></table>
 
 

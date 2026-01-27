@@ -9,15 +9,15 @@ There they cry out, but He does not answer, because of the pride of evil men.<s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| There | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| they shall cry out, | <span class="asgreek">κεκράξονται <sup><small><small>[[G2896]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall one listen, | <span class="asgreek">εισακούση <sup><small><small>[[G1522]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| because of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] insolence | <span class="asgreek">ύβρεως <sup><small><small>[[G5196]]</small></small></sup> </span> |
-| of wicked men. | <span class="asgreek">πονηρών <sup><small><small>[[G4190]]</small></small></sup> </span> |
+| There | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| they shall cry out, | <big><span class="asgreek">κεκράξονται</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall one listen, | <big><span class="asgreek">εισακούση</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] insolence | <big><span class="asgreek">ύβρεως</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
+| of wicked men. | <big><span class="asgreek">πονηρών</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
 [[Job.35.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.11|<< Job 35:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.13|Job 35:13 >>]]</td></tr></table>
 
 

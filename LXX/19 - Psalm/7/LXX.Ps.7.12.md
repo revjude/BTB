@@ -9,18 +9,18 @@ If one does not repent, God will sharpen His sword; He has bent and strung His b
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| turn, | <span class="asgreek">επιστραφήτε <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his broadsword | <span class="asgreek">ρομφαίαν <sup><small><small>[[G4501]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he will brighten | <span class="asgreek">στιλβώσει <sup><small><small>[[G9182]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| His bow | <span class="asgreek">τόξον <sup><small><small>[[G5115]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he stretched tight, | <span class="asgreek">ενέτεινε <sup><small><small>[[G7265]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he prepared | <span class="asgreek">ητοίμασεν <sup><small><small>[[G2090]]</small></small></sup> </span> |
-| it; | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| turn, | <big><span class="asgreek">επιστραφήτε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he will brighten | <big><span class="asgreek">στιλβώσει</span></big> <sup><small><small>[[G9182]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| His bow | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he stretched tight, | <big><span class="asgreek">ενέτεινε</span></big> <sup><small><small>[[G7265]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he prepared | <big><span class="asgreek">ητοίμασεν</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
+| it; | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.11|<< Psalm 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.13|Psalm 7:13 >>]]</td></tr></table>
 
 

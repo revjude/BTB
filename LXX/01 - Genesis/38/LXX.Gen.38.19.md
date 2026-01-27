@@ -9,21 +9,21 @@ Then Tamar got up and departed. And she removed her veil and put on her widow’
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| rising up | <span class="asgreek">αναστάσα <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| she went forth. | <span class="asgreek">απήλθε <sup><small><small>[[G0565]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she removed | <span class="asgreek">περιείλετο <sup><small><small>[[G4014]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her lightweight garment | <span class="asgreek">θέριστρον <sup><small><small>[[G7658]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">αφ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| herself, | <span class="asgreek">εαυτής <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| put on | <span class="asgreek">ενεδύσατο <sup><small><small>[[G1746]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| garments | <span class="asgreek">ιμάτια <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of her widowhood. | <span class="asgreek">χηρεύσεως <sup><small><small>[[G9724]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| rising up | <big><span class="asgreek">αναστάσα</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| she went forth. | <big><span class="asgreek">απήλθε</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she removed | <big><span class="asgreek">περιείλετο</span></big> <sup><small><small>[[G4014]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her lightweight garment | <big><span class="asgreek">θέριστρον</span></big> <sup><small><small>[[G7658]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| herself, | <big><span class="asgreek">εαυτής</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| put on | <big><span class="asgreek">ενεδύσατο</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| garments | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of her widowhood. | <big><span class="asgreek">χηρεύσεως</span></big> <sup><small><small>[[G9724]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.18|<< Genesis 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.20|Genesis 38:20 >>]]</td></tr></table>
 
 

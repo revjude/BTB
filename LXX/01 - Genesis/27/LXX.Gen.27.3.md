@@ -9,25 +9,25 @@ Take your weapons—your quiver and bow—and go out into the field to hunt some
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| then, | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| take | <span class="asgreek">λάβε <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your \[hunting\] equipment, | <span class="asgreek">σκεύός <sup><small><small>[[G4632]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| both the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| quiver | <span class="asgreek">φάρετραν <sup><small><small>[[G9617]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| bow! | <span class="asgreek">τόξον <sup><small><small>[[G5115]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| go forth | <span class="asgreek">έξελθε <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| plain, | <span class="asgreek">πεδίον <sup><small><small>[[G8676]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| hunt | <span class="asgreek">θήρευσόν <sup><small><small>[[G2340]]</small></small></sup> </span> |
-| for me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| game! | <span class="asgreek">θήραν <sup><small><small>[[G2339]]</small></small></sup> </span> |
+| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your \[hunting\] equipment, | <big><span class="asgreek">σκεύός</span></big> <sup><small><small>[[G4632]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| both the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| quiver | <big><span class="asgreek">φάρετραν</span></big> <sup><small><small>[[G9617]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| bow! | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| go forth | <big><span class="asgreek">έξελθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| plain, | <big><span class="asgreek">πεδίον</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| hunt | <big><span class="asgreek">θήρευσόν</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
+| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| game! | <big><span class="asgreek">θήραν</span></big> <sup><small><small>[[G2339]]</small></small></sup> |
 [[Gen.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.2|<< Genesis 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.4|Genesis 27:4 >>]]</td></tr></table>
 
 

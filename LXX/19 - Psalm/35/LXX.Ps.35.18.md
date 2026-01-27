@@ -9,16 +9,16 @@ Then I will give You thanks in the great assembly; I will praise You among many 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I shall make acknowledgment | <span class="asgreek">εξομολογήσομαί <sup><small><small>[[G1843]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| assembly | <span class="asgreek">εκκλησία <sup><small><small>[[G1577]]</small></small></sup> </span> |
-| \[the\] vast | <span class="asgreek">πολλή <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| grievous | <span class="asgreek">βαρεί <sup><small><small>[[G0926]]</small></small></sup> </span> |
-| I shall praise | <span class="asgreek">αινέσω <sup><small><small>[[G0134]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| I shall make acknowledgment | <big><span class="asgreek">εξομολογήσομαί</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| assembly | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
+| \[the\] vast | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| grievous | <big><span class="asgreek">βαρεί</span></big> <sup><small><small>[[G0926]]</small></small></sup> |
+| I shall praise | <big><span class="asgreek">αινέσω</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
+| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.35.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.17|<< Psalm 35:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.19|Psalm 35:19 >>]]</td></tr></table>
 
 

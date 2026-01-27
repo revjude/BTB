@@ -9,20 +9,20 @@ These men searched for their family records, but they could not find them and so
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| These | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| sought | <span class="asgreek">εζήτησαν <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| \[the\] record | <span class="asgreek">γραφήν <sup><small><small>[[G1124]]</small></small></sup> </span> |
-| of their own | <span class="asgreek">εαυτών <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| group, | <span class="asgreek">συνοδίας <sup><small><small>[[G4923]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it was not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| found, | <span class="asgreek">ευρέθη <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they were thrust away | <span class="asgreek">απώσθησαν <sup><small><small>[[G0683]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priesthood. | <span class="asgreek">ιερατείας <sup><small><small>[[G2405]]</small></small></sup> </span> |
+| These | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| sought | <big><span class="asgreek">εζήτησαν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| \[the\] record | <big><span class="asgreek">γραφήν</span></big> <sup><small><small>[[G1124]]</small></small></sup> |
+| of their own | <big><span class="asgreek">εαυτών</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| group, | <big><span class="asgreek">συνοδίας</span></big> <sup><small><small>[[G4923]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it was not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| found, | <big><span class="asgreek">ευρέθη</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they were thrust away | <big><span class="asgreek">απώσθησαν</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priesthood. | <big><span class="asgreek">ιερατείας</span></big> <sup><small><small>[[G2405]]</small></small></sup> |
 [[Neh.7.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.63|<< Nehemiah 7:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.65|Nehemiah 7:65 >>]]</td></tr></table>
 
 

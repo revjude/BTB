@@ -9,21 +9,21 @@ Blessed is the man whose quiver is full of them. He will not be put to shame whe
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Blessed \[is\] | <span class="asgreek">μακάριος <sup><small><small>[[G3107]]</small></small></sup> </span> |
-| the one who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| shall fill | <span class="asgreek">πληρώσει <sup><small><small>[[G4137]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his desire | <span class="asgreek">επιθυμίαν <sup><small><small>[[G1939]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be disgraced | <span class="asgreek">καταισχυνθήσονται <sup><small><small>[[G2617]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| they should speak | <span class="asgreek">λαλώσι <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his enemies | <span class="asgreek">εχθροίς <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| at | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] gates. | <span class="asgreek">πύλαις <sup><small><small>[[G4439]]</small></small></sup> </span> |
+| Blessed \[is\] | <big><span class="asgreek">μακάριος</span></big> <sup><small><small>[[G3107]]</small></small></sup> |
+| the one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| shall fill | <big><span class="asgreek">πληρώσει</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his desire | <big><span class="asgreek">επιθυμίαν</span></big> <sup><small><small>[[G1939]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be disgraced | <big><span class="asgreek">καταισχυνθήσονται</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| they should speak | <big><span class="asgreek">λαλώσι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his enemies | <big><span class="asgreek">εχθροίς</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] gates. | <big><span class="asgreek">πύλαις</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
 [[Ps.127.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.127.4|<< Psalm 127:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.128.1|Psalm 128:1 >>]]</td></tr></table>
 
 

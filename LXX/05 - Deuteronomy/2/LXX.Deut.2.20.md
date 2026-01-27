@@ -12,23 +12,23 @@ It shall be considered land of Raphaim, for even upon it the Raphaim formerly dw
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of Raphaim | <span class="asgreek">Ραφαϊν <sup><small><small>[[H7497b]]</small></small></sup> </span> |
-| It shall be considered | <span class="asgreek">λογισθήσεται <sup><small><small>[[G3049]]</small></small></sup> </span> |
-| for even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| dwelt | <span class="asgreek">κατώκουν <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Raphaim | <span class="asgreek">Ραφαϊν <sup><small><small>[[H7497b]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| formerly | <span class="asgreek">πρότερον <sup><small><small>[[G4387]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Ammonites | <span class="asgreek">Αμμανίται <sup><small><small>[[H5983]]</small></small></sup> </span> |
-| named | <span class="asgreek">επονομάζουσιν <sup><small><small>[[G2028]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Zummim, | <span class="asgreek">Ζομμίν <sup><small><small>[[H2157]]</small></small></sup> </span> |
+| land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of Raphaim | <big><span class="asgreek">Ραφαϊν</span></big> <sup><small><small>[[H7497b]]</small></small></sup> |
+| It shall be considered | <big><span class="asgreek">λογισθήσεται</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
+| for even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| dwelt | <big><span class="asgreek">κατώκουν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Raphaim | <big><span class="asgreek">Ραφαϊν</span></big> <sup><small><small>[[H7497b]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| formerly | <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Ammonites | <big><span class="asgreek">Αμμανίται</span></big> <sup><small><small>[[H5983]]</small></small></sup> |
+| named | <big><span class="asgreek">επονομάζουσιν</span></big> <sup><small><small>[[G2028]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Zummim, | <big><span class="asgreek">Ζομμίν</span></big> <sup><small><small>[[H2157]]</small></small></sup> |
 [[Deut.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.19|<< Deuteronomy 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.21|Deuteronomy 2:21 >>]]</td></tr></table>
 
 

@@ -9,31 +9,31 @@ acted deceptively and set out as envoys, carrying on their donkeys worn-out sack
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they acted, | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| even indeed | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> <span class="asgreek">γε <sup><small><small>[[G1065]]</small></small></sup> </span> |
-| themselves | <span class="asgreek">αυτοί <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| astuteness. | <span class="asgreek">πανουργίας <sup><small><small>[[G3834]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| coming, | <span class="asgreek">ελθόντες <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| they stood by | <span class="asgreek">επεστήσαντο <sup><small><small>[[G2186]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| prepared. | <span class="asgreek">ητοιμάσαντο <sup><small><small>[[G2090]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| taking | <span class="asgreek">λαβόντες <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| sackcloths | <span class="asgreek">σάκκους <sup><small><small>[[G4526]]</small></small></sup> </span> |
-| old | <span class="asgreek">παλαιούς <sup><small><small>[[G3820]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their donkeys, | <span class="asgreek">όνων <sup><small><small>[[G3688]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| leather bags | <span class="asgreek">ασκούς <sup><small><small>[[G0779]]</small></small></sup> </span> |
-| of wine | <span class="asgreek">οίνου <sup><small><small>[[G3631]]</small></small></sup> </span> |
-| old | <span class="asgreek">παλαιούς <sup><small><small>[[G3820]]</small></small></sup> </span> |
-|  | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| being broken down | <span class="asgreek">κατερρωγότας <sup><small><small>[[G7912]]</small></small></sup> </span> |
-| \[and all\] tied up, | <span class="asgreek">αποδεδεμένους <sup><small><small>[[G6422]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they acted, | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| even indeed | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
+| themselves | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| astuteness. | <big><span class="asgreek">πανουργίας</span></big> <sup><small><small>[[G3834]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| coming, | <big><span class="asgreek">ελθόντες</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| they stood by | <big><span class="asgreek">επεστήσαντο</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| prepared. | <big><span class="asgreek">ητοιμάσαντο</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| taking | <big><span class="asgreek">λαβόντες</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| sackcloths | <big><span class="asgreek">σάκκους</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
+| old | <big><span class="asgreek">παλαιούς</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their donkeys, | <big><span class="asgreek">όνων</span></big> <sup><small><small>[[G3688]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| leather bags | <big><span class="asgreek">ασκούς</span></big> <sup><small><small>[[G0779]]</small></small></sup> |
+| of wine | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| old | <big><span class="asgreek">παλαιούς</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
+|  | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| being broken down | <big><span class="asgreek">κατερρωγότας</span></big> <sup><small><small>[[G7912]]</small></small></sup> |
+| \[and all\] tied up, | <big><span class="asgreek">αποδεδεμένους</span></big> <sup><small><small>[[G6422]]</small></small></sup> |
 [[Josh.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.3|<< Joshua 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.5|Joshua 9:5 >>]]</td></tr></table>
 
 

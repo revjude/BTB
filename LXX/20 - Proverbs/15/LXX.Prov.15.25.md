@@ -9,13 +9,13 @@ The LORD tears down the house of the proud, but He protects the boundaries of th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[the\] houses | <span class="asgreek">οίκους <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of \[the\] arrogant | <span class="asgreek">υβριστών <sup><small><small>[[G5197]]</small></small></sup> </span> |
-| tears down | <span class="asgreek">κατασπά <sup><small><small>[[G7924]]</small></small></sup> </span> |
-| \[The\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and he supports | <span class="asgreek">εστήρισε <sup><small><small>[[G4741]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[the\] boundary | <span class="asgreek">όριον <sup><small><small>[[G3725]]</small></small></sup> </span> |
-| of \[the\] widow. | <span class="asgreek">χήρας <sup><small><small>[[G5503]]</small></small></sup> </span> |
+| \[the\] houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of \[the\] arrogant | <big><span class="asgreek">υβριστών</span></big> <sup><small><small>[[G5197]]</small></small></sup> |
+| tears down | <big><span class="asgreek">κατασπά</span></big> <sup><small><small>[[G7924]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and he supports | <big><span class="asgreek">εστήρισε</span></big> <sup><small><small>[[G4741]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[the\] boundary | <big><span class="asgreek">όριον</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
+| of \[the\] widow. | <big><span class="asgreek">χήρας</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
 [[Prov.15.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.24|<< Proverbs 15:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.26|Proverbs 15:26 >>]]</td></tr></table>
 
 

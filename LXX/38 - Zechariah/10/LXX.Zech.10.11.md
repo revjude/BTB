@@ -9,32 +9,32 @@ They will pass through the sea of distress and strike the waves of the sea; all 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall go through | <span class="asgreek">διελεύσονται <sup><small><small>[[G1330]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| sea | <span class="asgreek">θαλάσση <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| \[the\] narrow | <span class="asgreek">στενή <sup><small><small>[[G4728]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall strike | <span class="asgreek">πατάξουσιν <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] sea | <span class="asgreek">θαλάσση <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| waves | <span class="asgreek">κύματα <sup><small><small>[[G2949]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be dried up | <span class="asgreek">ξηρανθήσεται <sup><small><small>[[G3583]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| depths | <span class="asgreek">βάθη <sup><small><small>[[G0899]]</small></small></sup> </span> |
-| of rivers | <span class="asgreek">ποταμών <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be removed | <span class="asgreek">αφαιρεθήσεται <sup><small><small>[[G0851]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| insolence | <span class="asgreek">ύβρις <sup><small><small>[[G5196]]</small></small></sup> </span> |
-| of \[the\] Assyrians | <span class="asgreek">Ασσυρίων <sup><small><small>[[H0804]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] staff | <span class="asgreek">σκήπτρον <sup><small><small>[[G9104]]</small></small></sup> </span> |
-| of Egypt | <span class="asgreek">Αιγύπτου <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| shall be removed. | <span class="asgreek">περιαιρεθήσεται <sup><small><small>[[G4014]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall go through | <big><span class="asgreek">διελεύσονται</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| sea | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| \[the\] narrow | <big><span class="asgreek">στενή</span></big> <sup><small><small>[[G4728]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall strike | <big><span class="asgreek">πατάξουσιν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] sea | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| waves | <big><span class="asgreek">κύματα</span></big> <sup><small><small>[[G2949]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be dried up | <big><span class="asgreek">ξηρανθήσεται</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| depths | <big><span class="asgreek">βάθη</span></big> <sup><small><small>[[G0899]]</small></small></sup> |
+| of rivers | <big><span class="asgreek">ποταμών</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be removed | <big><span class="asgreek">αφαιρεθήσεται</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| insolence | <big><span class="asgreek">ύβρις</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
+| of \[the\] Assyrians | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] staff | <big><span class="asgreek">σκήπτρον</span></big> <sup><small><small>[[G9104]]</small></small></sup> |
+| of Egypt | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| shall be removed. | <big><span class="asgreek">περιαιρεθήσεται</span></big> <sup><small><small>[[G4014]]</small></small></sup> |
 [[Zech.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.10|<< Zechariah 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.12|Zechariah 10:12 >>]]</td></tr></table>
 
 

@@ -9,14 +9,14 @@ Why do You hide Your face and consider me as Your enemy?<small><sub>**MT:**</su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Why | <span class="asgreek">διατί <sup><small><small>[[G1302]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| do you hide | <span class="asgreek">κρύπτη <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| and esteem | <span class="asgreek">ήγησαι <sup><small><small>[[G2233]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| contrary to | <span class="asgreek">υπεναντίον <sup><small><small>[[G5227]]</small></small></sup> </span> |
-| you? | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Why | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| do you hide | <big><span class="asgreek">κρύπτη</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| and esteem | <big><span class="asgreek">ήγησαι</span></big> <sup><small><small>[[G2233]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| contrary to | <big><span class="asgreek">υπεναντίον</span></big> <sup><small><small>[[G5227]]</small></small></sup> |
+| you? | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.13.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.23|<< Job 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.25|Job 13:25 >>]]</td></tr></table>
 
 

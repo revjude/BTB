@@ -9,17 +9,17 @@ For though a righteous man may fall seven times, he still gets up; but the wicke
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For seven times | <span class="asgreek">επτάκις <sup><small><small>[[G2034]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| shall fall | <span class="asgreek">πεσείται <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| just | <span class="asgreek">δίκαιος <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| rise up; | <span class="asgreek">αναστήσεται <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| but the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| impious | <span class="asgreek">ασεβείς <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| will weaken | <span class="asgreek">ασθενήσουσιν <sup><small><small>[[G0770]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| evils. | <span class="asgreek">κακοίς <sup><small><small>[[G2556]]</small></small></sup> </span> |
+| For seven times | <big><span class="asgreek">επτάκις</span></big> <sup><small><small>[[G2034]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| shall fall | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| rise up; | <big><span class="asgreek">αναστήσεται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| but the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| impious | <big><span class="asgreek">ασεβείς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| will weaken | <big><span class="asgreek">ασθενήσουσιν</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| evils. | <big><span class="asgreek">κακοίς</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
 [[Prov.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.15|<< Proverbs 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.17|Proverbs 24:17 >>]]</td></tr></table>
 
 

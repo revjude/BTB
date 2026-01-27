@@ -9,17 +9,17 @@ It is well with the man who is generous and lends freely, whose affairs are guid
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A gracious | <span class="asgreek">χρηστός <sup><small><small>[[G5543]]</small></small></sup> </span> |
-| man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| \[is\] the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one pitying | <span class="asgreek">οικτείρων <sup><small><small>[[G3627]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lending; | <span class="asgreek">κιχρών <sup><small><small>[[G8014]]</small></small></sup> </span> |
-| he shall manage | <span class="asgreek">οικονομήσει <sup><small><small>[[G3621]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his matters | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| equity. | <span class="asgreek">κρίσει <sup><small><small>[[G2920]]</small></small></sup> </span> |
+| A gracious | <big><span class="asgreek">χρηστός</span></big> <sup><small><small>[[G5543]]</small></small></sup> |
+| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one pitying | <big><span class="asgreek">οικτείρων</span></big> <sup><small><small>[[G3627]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lending; | <big><span class="asgreek">κιχρών</span></big> <sup><small><small>[[G8014]]</small></small></sup> |
+| he shall manage | <big><span class="asgreek">οικονομήσει</span></big> <sup><small><small>[[G3621]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his matters | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| equity. | <big><span class="asgreek">κρίσει</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
 [[Ps.112.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.4|<< Psalm 112:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.112.6|Psalm 112:6 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ And they answered, We will willingly give [them]. And they spread a garment, and
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they said, | <span class="asgreek">είπαν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| In giving | <span class="asgreek">διδόντες <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| we will give. | <span class="asgreek">δώσομεν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he unfolded | <span class="asgreek">ανέπτυξε <sup><small><small>[[G0380]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his garment, | <span class="asgreek">ιμάτιον <sup><small><small>[[G2440]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| tossed | <span class="asgreek">έρριψεν <sup><small><small>[[G4496]]</small></small></sup> </span> |
-| there | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| \[each\] man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| an ear-ring | <span class="asgreek">ενώτιον <sup><small><small>[[G7278]]</small></small></sup> </span> |
-| of his spoils. | <span class="asgreek">σκύλων <sup><small><small>[[G4661]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they said, | <big><span class="asgreek">είπαν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| In giving | <big><span class="asgreek">διδόντες</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| we will give. | <big><span class="asgreek">δώσομεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he unfolded | <big><span class="asgreek">ανέπτυξε</span></big> <sup><small><small>[[G0380]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his garment, | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| tossed | <big><span class="asgreek">έρριψεν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
+| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| \[each\] man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| an ear-ring | <big><span class="asgreek">ενώτιον</span></big> <sup><small><small>[[G7278]]</small></small></sup> |
+| of his spoils. | <big><span class="asgreek">σκύλων</span></big> <sup><small><small>[[G4661]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Judg.8.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.24|<< Judges 8:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.26|Judges 8:26 >>]]</td></tr></table>
 
 

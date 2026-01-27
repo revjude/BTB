@@ -9,16 +9,16 @@ What is crooked cannot be straightened, and what is lacking cannot be counted.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The thing\] being perverted | <span class="asgreek">διεστραμμένον <sup><small><small>[[G1294]]</small></small></sup> </span> |
-| is not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| able | <span class="asgreek">δυνήσεται <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to be embellished. | <span class="asgreek">επικοσμηθήναι <sup><small><small>[[G7419]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| deficiency | <span class="asgreek">υστέρημα <sup><small><small>[[G5303]]</small></small></sup> </span> |
-| is not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| able | <span class="asgreek">δυνήσεται <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| to be counted. | <span class="asgreek">αριθμηθήναι <sup><small><small>[[G0705]]</small></small></sup> </span> |
+| \[The thing\] being perverted | <big><span class="asgreek">διεστραμμένον</span></big> <sup><small><small>[[G1294]]</small></small></sup> |
+| is not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to be embellished. | <big><span class="asgreek">επικοσμηθήναι</span></big> <sup><small><small>[[G7419]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| deficiency | <big><span class="asgreek">υστέρημα</span></big> <sup><small><small>[[G5303]]</small></small></sup> |
+| is not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| able | <big><span class="asgreek">δυνήσεται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| to be counted. | <big><span class="asgreek">αριθμηθήναι</span></big> <sup><small><small>[[G0705]]</small></small></sup> |
 [[Eccl.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.14|<< Ecclesiastes 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.16|Ecclesiastes 1:16 >>]]</td></tr></table>
 
 

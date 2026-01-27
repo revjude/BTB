@@ -9,22 +9,22 @@ Love the LORD, all His saints. The LORD preserves the faithful, but fully repays
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| love | <span class="asgreek">αγαπήσατε <sup><small><small>[[G0025]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his sacred ones | <span class="asgreek">όσιοι <sup><small><small>[[G3741]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| truth | <span class="asgreek">αληθείας <sup><small><small>[[G0225]]</small></small></sup> </span> |
-| requires | <span class="asgreek">εκζητεί <sup><small><small>[[G1567]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he recompenses | <span class="asgreek">ανταποδίδωσι <sup><small><small>[[G0467]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| extremely | <span class="asgreek">περισσώς <sup><small><small>[[G4057]]</small></small></sup> </span> |
-| having | <span class="asgreek">ποιούσιν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| pride. | <span class="asgreek">υπερηφανίαν <sup><small><small>[[G5243]]</small></small></sup> </span> |
+| love | <big><span class="asgreek">αγαπήσατε</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his sacred ones | <big><span class="asgreek">όσιοι</span></big> <sup><small><small>[[G3741]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| truth | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
+| requires | <big><span class="asgreek">εκζητεί</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he recompenses | <big><span class="asgreek">ανταποδίδωσι</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| extremely | <big><span class="asgreek">περισσώς</span></big> <sup><small><small>[[G4057]]</small></small></sup> |
+| having | <big><span class="asgreek">ποιούσιν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| pride. | <big><span class="asgreek">υπερηφανίαν</span></big> <sup><small><small>[[G5243]]</small></small></sup> |
 [[Ps.31.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.22|<< Psalm 31:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.24|Psalm 31:24 >>]]</td></tr></table>
 
 

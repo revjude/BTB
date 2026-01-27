@@ -9,23 +9,23 @@ May the groans of the captives reach You; by the strength of Your arm preserve t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| enter | <span class="asgreek">εισελθέτω <sup><small><small>[[G1525]]</small></small></sup> </span> |
-| before | <span class="asgreek">ενώπιόν <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| you | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| moaning | <span class="asgreek">στεναγμός <sup><small><small>[[G4726]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being shackled | <span class="asgreek">πεπεδημένων <sup><small><small>[[G8675]]</small></small></sup> </span> |
-| According to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| greatness | <span class="asgreek">μεγαλωσύνην <sup><small><small>[[G3172]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your arm | <span class="asgreek">βραχίονός <sup><small><small>[[G1023]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| protect | <span class="asgreek">περιποίησαι <sup><small><small>[[G4046]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones being put to death! | <span class="asgreek">τεθανατωμένων <sup><small><small>[[G2289]]</small></small></sup> </span> |
+| enter | <big><span class="asgreek">εισελθέτω</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
+| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| moaning | <big><span class="asgreek">στεναγμός</span></big> <sup><small><small>[[G4726]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being shackled | <big><span class="asgreek">πεπεδημένων</span></big> <sup><small><small>[[G8675]]</small></small></sup> |
+| According to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| greatness | <big><span class="asgreek">μεγαλωσύνην</span></big> <sup><small><small>[[G3172]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your arm | <big><span class="asgreek">βραχίονός</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| protect | <big><span class="asgreek">περιποίησαι</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones being put to death! | <big><span class="asgreek">τεθανατωμένων</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
 [[Ps.79.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.10|<< Psalm 79:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.12|Psalm 79:12 >>]]</td></tr></table>
 
 

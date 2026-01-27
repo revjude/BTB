@@ -9,25 +9,25 @@ Nor should you stand at the crossroads to cut off their fugitives, nor deliver u
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| nor | <span class="asgreek">μηδέ <sup><small><small>[[G3366]]</small></small></sup> </span> |
-| should you have stood | <span class="asgreek">επιστής <sup><small><small>[[G2186]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their mountain passes | <span class="asgreek">διεκβολάς <sup><small><small>[[G6914]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to utterly destroy | <span class="asgreek">εξολοθρεύσαι <sup><small><small>[[G1842]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| escaping | <span class="asgreek">ανασωζομένους <sup><small><small>[[G6314]]</small></small></sup> </span> |
-| of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| nor | <span class="asgreek">μηδέ <sup><small><small>[[G3366]]</small></small></sup> </span> |
-| should you have closed up | <span class="asgreek">συγκλείσης <sup><small><small>[[G4788]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fleeing | <span class="asgreek">φεύγοντας <sup><small><small>[[G5343]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of \[their\] affliction. | <span class="asgreek">θλίψεως <sup><small><small>[[G2347]]</small></small></sup> </span> |
+| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
+| should you have stood | <big><span class="asgreek">επιστής</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their mountain passes | <big><span class="asgreek">διεκβολάς</span></big> <sup><small><small>[[G6914]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to utterly destroy | <big><span class="asgreek">εξολοθρεύσαι</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| escaping | <big><span class="asgreek">ανασωζομένους</span></big> <sup><small><small>[[G6314]]</small></small></sup> |
+| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
+| should you have closed up | <big><span class="asgreek">συγκλείσης</span></big> <sup><small><small>[[G4788]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fleeing | <big><span class="asgreek">φεύγοντας</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of \[their\] affliction. | <big><span class="asgreek">θλίψεως</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
 [[Obad.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.13|<< Obadiah 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.15|Obadiah 1:15 >>]]</td></tr></table>
 
 

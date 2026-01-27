@@ -9,18 +9,18 @@ You have made us a byword among the nations, a laughingstock among the peoples.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You put | <span class="asgreek">έθου <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| us | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as a | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| parable | <span class="asgreek">παραβολήν <sup><small><small>[[G3850]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations; | <span class="asgreek">έθνεσι <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| a shaking | <span class="asgreek">κίνησιν <sup><small><small>[[G2796]]</small></small></sup> </span> |
-| of \[the\] head | <span class="asgreek">κεφαλής <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| peoples. | <span class="asgreek">λαοίς <sup><small><small>[[G2992]]</small></small></sup> </span> |
+| You put | <big><span class="asgreek">έθου</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as a | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| parable | <big><span class="asgreek">παραβολήν</span></big> <sup><small><small>[[G3850]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations; | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| a shaking | <big><span class="asgreek">κίνησιν</span></big> <sup><small><small>[[G2796]]</small></small></sup> |
+| of \[the\] head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| peoples. | <big><span class="asgreek">λαοίς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
 [[Ps.44.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.13|<< Psalm 44:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.15|Psalm 44:15 >>]]</td></tr></table>
 
 

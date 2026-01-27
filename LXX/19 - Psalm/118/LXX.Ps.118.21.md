@@ -9,16 +9,16 @@ I will give You thanks, for You have answered me, and You have become my salvati
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I shall confess | <span class="asgreek">εξομολογήσομαί <sup><small><small>[[G1843]]</small></small></sup> </span> |
-| to you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| you took heed | <span class="asgreek">επήκουσάς <sup><small><small>[[G1873]]</small></small></sup> </span> |
-| of me, | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you became | <span class="asgreek">εγένου <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| for me | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| deliverance. | <span class="asgreek">σωτηρίαν <sup><small><small>[[G4991]]</small></small></sup> </span> |
+| I shall confess | <big><span class="asgreek">εξομολογήσομαί</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
+| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| you took heed | <big><span class="asgreek">επήκουσάς</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
+| of me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you became | <big><span class="asgreek">εγένου</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| for me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| deliverance. | <big><span class="asgreek">σωτηρίαν</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
 [[Ps.118.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.20|<< Psalm 118:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.22|Psalm 118:22 >>]]</td></tr></table>
 
 

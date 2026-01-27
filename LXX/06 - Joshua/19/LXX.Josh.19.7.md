@@ -9,18 +9,18 @@ Ain, Rimmon, Ether, and Ashan—four cities, along with their villages,<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Ain, | <span class="asgreek">Αϊν <sup><small><small>[[H5871]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Remmon, | <span class="asgreek">Ρεμμών <sup><small><small>[[H7417c]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ether, | <span class="asgreek">Εθέρ <sup><small><small>[[H6281]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ashan; | <span class="asgreek">Ασάν <sup><small><small>[[H6228]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| four | <span class="asgreek">τέσσαρες <sup><small><small>[[G5064]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their towns; | <span class="asgreek">κώμαι <sup><small><small>[[G2968]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Ain, | <big><span class="asgreek">Αϊν</span></big> <sup><small><small>[[H5871]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Remmon, | <big><span class="asgreek">Ρεμμών</span></big> <sup><small><small>[[H7417c]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ether, | <big><span class="asgreek">Εθέρ</span></big> <sup><small><small>[[H6281]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ashan; | <big><span class="asgreek">Ασάν</span></big> <sup><small><small>[[H6228]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| four | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their towns; | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Josh.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.6|<< Joshua 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.8|Joshua 19:8 >>]]</td></tr></table>
 
 

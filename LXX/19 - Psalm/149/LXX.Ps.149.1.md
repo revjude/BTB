@@ -14,16 +14,16 @@ Hallelujah! Sing to the LORD a new song—His praise in the assembly of the godl
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Sing | <span class="asgreek">άσατε <sup><small><small>[[G0103]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| song | <span class="asgreek">άσμα <sup><small><small>[[G6571]]</small></small></sup> </span> |
-| a new | <span class="asgreek">καινόν <sup><small><small>[[G2537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his praise | <span class="asgreek">αίνεσις <sup><small><small>[[G0133]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] assembly | <span class="asgreek">εκκλησία <sup><small><small>[[G1577]]</small></small></sup> </span> |
-| of \[the\] sacred ones! | <span class="asgreek">οσίων <sup><small><small>[[G3741]]</small></small></sup> </span> |
+| Sing | <big><span class="asgreek">άσατε</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| song | <big><span class="asgreek">άσμα</span></big> <sup><small><small>[[G6571]]</small></small></sup> |
+| a new | <big><span class="asgreek">καινόν</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his praise | <big><span class="asgreek">αίνεσις</span></big> <sup><small><small>[[G0133]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] assembly | <big><span class="asgreek">εκκλησία</span></big> <sup><small><small>[[G1577]]</small></small></sup> |
+| of \[the\] sacred ones! | <big><span class="asgreek">οσίων</span></big> <sup><small><small>[[G3741]]</small></small></sup> |
 [[Ps.149.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.14|<< Psalm 148:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.149.2|Psalm 149:2 >>]]</td></tr></table>
 
 

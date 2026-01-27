@@ -9,27 +9,27 @@ They also gave money to the carpenters and builders to buy dressed stone, as wel
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they gave \[it\] | <span class="asgreek">έδωκαν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fabricators | <span class="asgreek">τέκτοσι <sup><small><small>[[G5045]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| builders | <span class="asgreek">οικοδόμοις <sup><small><small>[[G6065]]</small></small></sup> </span> |
-| to buy | <span class="asgreek">αγοράσαι <sup><small><small>[[G0059]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθους <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| quadrangular | <span class="asgreek">τετραπέδους <sup><small><small>[[G9438]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wood | <span class="asgreek">ξύλα <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| beams | <span class="asgreek">δοκούς <sup><small><small>[[G1385]]</small></small></sup> </span> |
-| to roof | <span class="asgreek">στεγάσαι <sup><small><small>[[G9157]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| houses | <span class="asgreek">οίκους <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| which | <span class="asgreek">ους <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| utterly destroyed | <span class="asgreek">εξωλόθρευσαν <sup><small><small>[[G1842]]</small></small></sup> </span> |
-| \[the\] kings | <span class="asgreek">βασιλείς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Judah | <span class="asgreek">Ιούδα <sup><small><small>[[G2448]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they gave \[it\] | <big><span class="asgreek">έδωκαν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fabricators | <big><span class="asgreek">τέκτοσι</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| builders | <big><span class="asgreek">οικοδόμοις</span></big> <sup><small><small>[[G6065]]</small></small></sup> |
+| to buy | <big><span class="asgreek">αγοράσαι</span></big> <sup><small><small>[[G0059]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| quadrangular | <big><span class="asgreek">τετραπέδους</span></big> <sup><small><small>[[G9438]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wood | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| beams | <big><span class="asgreek">δοκούς</span></big> <sup><small><small>[[G1385]]</small></small></sup> |
+| to roof | <big><span class="asgreek">στεγάσαι</span></big> <sup><small><small>[[G9157]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| utterly destroyed | <big><span class="asgreek">εξωλόθρευσαν</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| \[the\] kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
 [[2Chr.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.10|<< 2 Chronicles 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.12|2 Chronicles 34:12 >>]]</td></tr></table>
 
 

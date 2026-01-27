@@ -14,23 +14,23 @@ For the choirmaster. To the tune of “The Lilies of the Covenant.” A Psalm of
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| O one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tending | <span class="asgreek">ποιμαίνων <sup><small><small>[[G4165]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| take heed! | <span class="asgreek">πρόσχες <sup><small><small>[[G4337]]</small></small></sup> </span> |
-| O one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| guiding | <span class="asgreek">οδηγών <sup><small><small>[[G3594]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| sheep | <span class="asgreek">πρόβατα <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Joseph | <span class="asgreek">Ιωσήφ <sup><small><small>[[G2501]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sitting down | <span class="asgreek">καθήμενος <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cherubim -- | <span class="asgreek">χερουβίμ <sup><small><small>[[G5502]]</small></small></sup> </span> |
-| appear! | <span class="asgreek">εμφάνηθι <sup><small><small>[[G7210]]</small></small></sup> </span> |
+| O one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tending | <big><span class="asgreek">ποιμαίνων</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| take heed! | <big><span class="asgreek">πρόσχες</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
+| O one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| guiding | <big><span class="asgreek">οδηγών</span></big> <sup><small><small>[[G3594]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| sheep | <big><span class="asgreek">πρόβατα</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Joseph | <big><span class="asgreek">Ιωσήφ</span></big> <sup><small><small>[[G2501]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sitting down | <big><span class="asgreek">καθήμενος</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cherubim -- | <big><span class="asgreek">χερουβίμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
+| appear! | <big><span class="asgreek">εμφάνηθι</span></big> <sup><small><small>[[G7210]]</small></small></sup> |
 [[Ps.80.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.13|<< Psalm 79:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.2|Psalm 80:2 >>]]</td></tr></table>
 
 

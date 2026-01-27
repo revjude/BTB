@@ -13,23 +13,23 @@ A voice says, “Cry out!” And I asked, “What should I cry out?” “All fl
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A voice | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγοντος <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Yell! | <span class="asgreek">βοήσον <sup><small><small>[[G0994]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I said, | <span class="asgreek">είπα <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| What | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall I yell? | <span class="asgreek">βοήσω <sup><small><small>[[G0994]]</small></small></sup> </span> |
-| All | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| flesh | <span class="asgreek">σαρξ <sup><small><small>[[G4561]]</small></small></sup> </span> |
-| \[is as\] grass, | <span class="asgreek">χόρτος <sup><small><small>[[G5528]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| glory | <span class="asgreek">δόξα <sup><small><small>[[G1391]]</small></small></sup> </span> |
-| of man | <span class="asgreek">ανθρώπου <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| \[is\] as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] flower | <span class="asgreek">άνθος <sup><small><small>[[G0438]]</small></small></sup> </span> |
-| of grass. | <span class="asgreek">χόρτου <sup><small><small>[[G5528]]</small></small></sup> </span> |
+| A voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγοντος</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Yell! | <big><span class="asgreek">βοήσον</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall I yell? | <big><span class="asgreek">βοήσω</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
+| All | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| flesh | <big><span class="asgreek">σαρξ</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| \[is as\] grass, | <big><span class="asgreek">χόρτος</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
+| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| \[is\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] flower | <big><span class="asgreek">άνθος</span></big> <sup><small><small>[[G0438]]</small></small></sup> |
+| of grass. | <big><span class="asgreek">χόρτου</span></big> <sup><small><small>[[G5528]]</small></small></sup> |
 [[Isa.40.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.5|<< Isaiah 40:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.7|Isaiah 40:7 >>]]</td></tr></table>
 
 

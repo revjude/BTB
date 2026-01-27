@@ -9,16 +9,16 @@ It is better to be lowly in spirit among the humble than to divide the spoil wit
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Better | <span class="asgreek">κρείσσων <sup><small><small>[[G2908]]</small></small></sup> </span> |
-| a gentle-minded one | <span class="asgreek">πραύθυμος <sup><small><small>[[G8878]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| a low estate, | <span class="asgreek">ταπεινώσεως <sup><small><small>[[G5014]]</small></small></sup> </span> |
-| than | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| one who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| divides | <span class="asgreek">διαιρείται <sup><small><small>[[G1244]]</small></small></sup> </span> |
-| spoils | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \[the\] arrogant. | <span class="asgreek">υβριστών <sup><small><small>[[G5197]]</small></small></sup> </span> |
+| Better | <big><span class="asgreek">κρείσσων</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
+| a gentle-minded one | <big><span class="asgreek">πραύθυμος</span></big> <sup><small><small>[[G8878]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| a low estate, | <big><span class="asgreek">ταπεινώσεως</span></big> <sup><small><small>[[G5014]]</small></small></sup> |
+| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| divides | <big><span class="asgreek">διαιρείται</span></big> <sup><small><small>[[G1244]]</small></small></sup> |
+| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \[the\] arrogant. | <big><span class="asgreek">υβριστών</span></big> <sup><small><small>[[G5197]]</small></small></sup> |
 [[Prov.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.18|<< Proverbs 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.20|Proverbs 16:20 >>]]</td></tr></table>
 
 

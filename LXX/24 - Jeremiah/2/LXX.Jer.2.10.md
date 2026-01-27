@@ -9,25 +9,25 @@ Cross over to the coasts of Cyprus and take a look; send to Kedar and consider c
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| go | <span class="asgreek">διέλθετε <sup><small><small>[[G1330]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] islands | <span class="asgreek">νήσους <sup><small><small>[[G3520]]</small></small></sup> </span> |
-| of \[the\] Chittim, | <span class="asgreek">Χεττιείμ <sup><small><small>[[H2850]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| see! | <span class="asgreek">ίδετε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Kedar | <span class="asgreek">Κηδάρ <sup><small><small>[[H6938]]</small></small></sup> </span> |
-| send | <span class="asgreek">αποστείλατε <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| comprehend | <span class="asgreek">νοήσατε <sup><small><small>[[G3539]]</small></small></sup> </span> |
-| exceedingly! | <span class="asgreek">σφόδρα <sup><small><small>[[G4970]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| see! | <span class="asgreek">ίδετε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| have taken place | <span class="asgreek">γέγονε <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| such \[things\] | <span class="asgreek">τοιαύτα <sup><small><small>[[G5108]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| go | <big><span class="asgreek">διέλθετε</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] islands | <big><span class="asgreek">νήσους</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
+| of \[the\] Chittim, | <big><span class="asgreek">Χεττιείμ</span></big> <sup><small><small>[[H2850]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| see! | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Kedar | <big><span class="asgreek">Κηδάρ</span></big> <sup><small><small>[[H6938]]</small></small></sup> |
+| send | <big><span class="asgreek">αποστείλατε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| comprehend | <big><span class="asgreek">νοήσατε</span></big> <sup><small><small>[[G3539]]</small></small></sup> |
+| exceedingly! | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| see! | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| have taken place | <big><span class="asgreek">γέγονε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| such \[things\] | <big><span class="asgreek">τοιαύτα</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
 [[Jer.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.9|<< Jeremiah 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.11|Jeremiah 2:11 >>]]</td></tr></table>
 
 

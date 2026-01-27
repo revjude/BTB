@@ -9,15 +9,15 @@ Hide me from the scheming of the wicked, from the mob of workers of iniquity,<s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Shelter | <span class="asgreek">σκέπασόν <sup><small><small>[[G9095]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] conspiracy | <span class="asgreek">συστροφής <sup><small><small>[[G4963]]</small></small></sup> </span> |
-| of \[the\] ones acting wickedly! | <span class="asgreek">πονηρευομένων <sup><small><small>[[G8863]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] multitude | <span class="asgreek">πλήθους <sup><small><small>[[G4128]]</small></small></sup> </span> |
-| of \[the\] ones working | <span class="asgreek">εργαζομένων <sup><small><small>[[G2038]]</small></small></sup> </span> |
-| iniquity. | <span class="asgreek">αδικίαν <sup><small><small>[[G0093]]</small></small></sup> </span> |
+| Shelter | <big><span class="asgreek">σκέπασόν</span></big> <sup><small><small>[[G9095]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] conspiracy | <big><span class="asgreek">συστροφής</span></big> <sup><small><small>[[G4963]]</small></small></sup> |
+| of \[the\] ones acting wickedly! | <big><span class="asgreek">πονηρευομένων</span></big> <sup><small><small>[[G8863]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] multitude | <big><span class="asgreek">πλήθους</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| of \[the\] ones working | <big><span class="asgreek">εργαζομένων</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
+| iniquity. | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
 [[Ps.64.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.1|<< Psalm 64:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.3|Psalm 64:3 >>]]</td></tr></table>
 
 

@@ -9,28 +9,28 @@ Judah recognized the items and said, “She is more righteous than I, since I di
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| realized | <span class="asgreek">επέγνω <sup><small><small>[[G1921]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| Judah | <span class="asgreek">Ιούδας <sup><small><small>[[G2448]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Tamar has done justice | <span class="asgreek">δεδικαίωται <sup><small><small>[[G1344]]</small></small></sup> <span class="asgreek">Θάμαρ <sup><small><small>[[G2283]]</small></small></sup> </span> |
-| rather than | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| I, | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| because | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> <span class="asgreek">ένεκεν <sup><small><small>[[G1752]]</small></small></sup> </span> |
-| I did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| give | <span class="asgreek">έδωκα <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Shelah | <span class="asgreek">Σιλώμ <sup><small><small>[[H7956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my son. | <span class="asgreek">υιώ <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he did not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| add | <span class="asgreek">προσέθετο <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| any longer | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to know | <span class="asgreek">γνώναι <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| her. | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| realized | <big><span class="asgreek">επέγνω</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| Judah | <big><span class="asgreek">Ιούδας</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Tamar has done justice | <big><span class="asgreek">δεδικαίωται</span></big> <sup><small><small>[[G1344]]</small></small></sup> <big><span class="asgreek">Θάμαρ</span></big> <sup><small><small>[[G2283]]</small></small></sup> |
+| rather than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| because | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
+| I did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| give | <big><span class="asgreek">έδωκα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Shelah | <big><span class="asgreek">Σιλώμ</span></big> <sup><small><small>[[H7956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my son. | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| add | <big><span class="asgreek">προσέθετο</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| any longer | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to know | <big><span class="asgreek">γνώναι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.38.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.25|<< Genesis 38:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.27|Genesis 38:27 >>]]</td></tr></table>
 
 

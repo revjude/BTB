@@ -9,16 +9,16 @@ A wicked man writhes in pain all his days; only a few years are reserved for the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| All | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| existence | <span class="asgreek">βίος <sup><small><small>[[G0979]]</small></small></sup> </span> |
-| of \[the\] impious | <span class="asgreek">ασεβούς <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| \[is spent\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| bewilderment; | <span class="asgreek">φροντίδι <sup><small><small>[[G9665]]</small></small></sup> </span> |
-| and \[the\] years | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| are counted | <span class="asgreek">αριθμητά <sup><small><small>[[G6531]]</small></small></sup> </span> |
-| being given | <span class="asgreek">δεδομένα <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to \[the\] mighty one | <span class="asgreek">δυνάστη <sup><small><small>[[G1413]]</small></small></sup> </span> |
+| All | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| existence | <big><span class="asgreek">βίος</span></big> <sup><small><small>[[G0979]]</small></small></sup> |
+| of \[the\] impious | <big><span class="asgreek">ασεβούς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| \[is spent\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| bewilderment; | <big><span class="asgreek">φροντίδι</span></big> <sup><small><small>[[G9665]]</small></small></sup> |
+| and \[the\] years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| are counted | <big><span class="asgreek">αριθμητά</span></big> <sup><small><small>[[G6531]]</small></small></sup> |
+| being given | <big><span class="asgreek">δεδομένα</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to \[the\] mighty one | <big><span class="asgreek">δυνάστη</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
 [[Job.15.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.19|<< Job 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.21|Job 15:21 >>]]</td></tr></table>
 
 

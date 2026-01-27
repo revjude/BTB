@@ -9,20 +9,20 @@ The infant will play by the cobra’s den, and the toddler will reach into the v
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a child, | <span class="asgreek">παιδίον <sup><small><small>[[G3813]]</small></small></sup> </span> |
-| an infant | <span class="asgreek">νήπιον <sup><small><small>[[G3516]]</small></small></sup> </span> |
-| at | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| burrows | <span class="asgreek">τρώγλων <sup><small><small>[[G9512]]</small></small></sup> </span> |
-| of asps, | <span class="asgreek">ασπίδων <sup><small><small>[[G0785]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| at | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] bed | <span class="asgreek">κοίτην <sup><small><small>[[G2845]]</small></small></sup> </span> |
-| of \[the\] progeny | <span class="asgreek">εκγόνων <sup><small><small>[[G1549]]</small></small></sup> </span> |
-| of asps, | <span class="asgreek">ασπίδων <sup><small><small>[[G0785]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[his\] hand | <span class="asgreek">χείρα <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| will put | <span class="asgreek">επιβαλεί <sup><small><small>[[G1911]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a child, | <big><span class="asgreek">παιδίον</span></big> <sup><small><small>[[G3813]]</small></small></sup> |
+| an infant | <big><span class="asgreek">νήπιον</span></big> <sup><small><small>[[G3516]]</small></small></sup> |
+| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| burrows | <big><span class="asgreek">τρώγλων</span></big> <sup><small><small>[[G9512]]</small></small></sup> |
+| of asps, | <big><span class="asgreek">ασπίδων</span></big> <sup><small><small>[[G0785]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] bed | <big><span class="asgreek">κοίτην</span></big> <sup><small><small>[[G2845]]</small></small></sup> |
+| of \[the\] progeny | <big><span class="asgreek">εκγόνων</span></big> <sup><small><small>[[G1549]]</small></small></sup> |
+| of asps, | <big><span class="asgreek">ασπίδων</span></big> <sup><small><small>[[G0785]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[his\] hand | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| will put | <big><span class="asgreek">επιβαλεί</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
 [[Isa.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.7|<< Isaiah 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.9|Isaiah 11:9 >>]]</td></tr></table>
 
 

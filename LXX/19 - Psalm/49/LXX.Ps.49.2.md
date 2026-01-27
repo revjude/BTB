@@ -9,17 +9,17 @@ both low and high, rich and poor alike.<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| both the | <span class="asgreek">οι <sup><small><small>[[G3739]]</small></small></sup> <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| earth-born, | <span class="asgreek">γηγενείς <sup><small><small>[[G6734]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of men | <span class="asgreek">ανθρώπων <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| together, | <span class="asgreek">επιτοαυτό <sup><small><small>[[G7464]]</small></small></sup> </span> |
-| rich | <span class="asgreek">πλούσιος <sup><small><small>[[G4145]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| needy! | <span class="asgreek">πένης <sup><small><small>[[G3993]]</small></small></sup> </span> |
+| both the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| earth-born, | <big><span class="asgreek">γηγενείς</span></big> <sup><small><small>[[G6734]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| together, | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
+| rich | <big><span class="asgreek">πλούσιος</span></big> <sup><small><small>[[G4145]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| needy! | <big><span class="asgreek">πένης</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
 [[Ps.49.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.1|<< Psalm 49:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.3|Psalm 49:3 >>]]</td></tr></table>
 
 

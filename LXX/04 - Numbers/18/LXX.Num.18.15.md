@@ -9,36 +9,36 @@ The firstborn of every womb, whether man or beast, that is offered to the LORD b
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every \[thing\] | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| opening wide | <span class="asgreek">διανοίγον <sup><small><small>[[G1272]]</small></small></sup> </span> |
-| \[the\] womb | <span class="asgreek">μήτραν <sup><small><small>[[G3388]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσης <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| flesh, | <span class="asgreek">σαρκός <sup><small><small>[[G4561]]</small></small></sup> </span> |
-| as many \[things\] as | <span class="asgreek">όσα <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| they offer | <span class="asgreek">προσφέρουσι <sup><small><small>[[G4374]]</small></small></sup> </span> |
-| \[to the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| man | <span class="asgreek">ανθρώπου <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| beast, | <span class="asgreek">κτήνους <sup><small><small>[[G2934]]</small></small></sup> </span> |
-| it will be to you; | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| only | <span class="asgreek">αλλ΄ η <sup><small><small>[[G6227]]</small></small></sup> </span> |
-| with ransoms | <span class="asgreek">λύτροις <sup><small><small>[[G3083]]</small></small></sup> </span> |
-| you shall ransom | <span class="asgreek">λυτρωθήσεται <sup><small><small>[[G3084]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| first-born | <span class="asgreek">πρωτότοκα <sup><small><small>[[G4416]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of men; | <span class="asgreek">ανθρώπων <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| first-born | <span class="asgreek">πρωτότοκα <sup><small><small>[[G4416]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cattle | <span class="asgreek">κτηνών <sup><small><small>[[G2934]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| unclean | <span class="asgreek">ακαθάρτων <sup><small><small>[[G0169]]</small></small></sup> </span> |
-| you shall ransom. | <span class="asgreek">λυτρώση <sup><small><small>[[G3084]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every \[thing\] | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| opening wide | <big><span class="asgreek">διανοίγον</span></big> <sup><small><small>[[G1272]]</small></small></sup> |
+| \[the\] womb | <big><span class="asgreek">μήτραν</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| flesh, | <big><span class="asgreek">σαρκός</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| as many \[things\] as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| they offer | <big><span class="asgreek">προσφέρουσι</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
+| \[to the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| beast, | <big><span class="asgreek">κτήνους</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| it will be to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| only | <big><span class="asgreek">αλλ΄ η</span></big> <sup><small><small>[[G6227]]</small></small></sup> |
+| with ransoms | <big><span class="asgreek">λύτροις</span></big> <sup><small><small>[[G3083]]</small></small></sup> |
+| you shall ransom | <big><span class="asgreek">λυτρωθήσεται</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| first-born | <big><span class="asgreek">πρωτότοκα</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of men; | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| first-born | <big><span class="asgreek">πρωτότοκα</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cattle | <big><span class="asgreek">κτηνών</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| unclean | <big><span class="asgreek">ακαθάρτων</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
+| you shall ransom. | <big><span class="asgreek">λυτρώση</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
 [[Num.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.14|<< Numbers 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.16|Numbers 18:16 >>]]</td></tr></table>
 
 

@@ -9,32 +9,32 @@ And said, If it please the king, and if I have found favour in his sight, and th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Esther said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Εσθήρ <sup><small><small>[[H0635]]</small></small></sup> </span> |
-| If | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| it seems \[good\] | <span class="asgreek">δοκεί <sup><small><small>[[G1380]]</small></small></sup> </span> |
-| to you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I found | <span class="asgreek">εύρον <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| favor, | <span class="asgreek">χάριν <sup><small><small>[[G5485]]</small></small></sup> </span> |
-| let it be sent forth | <span class="asgreek">πεμφθήτω <sup><small><small>[[G3992]]</small></small></sup> </span> |
-| to return | <span class="asgreek">αποστραφήναι <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| letters | <span class="asgreek">γράμματα <sup><small><small>[[G1121]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being sent | <span class="asgreek">απεσταλμένα <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| Haman, | <span class="asgreek">Αμάν <sup><small><small>[[H2001]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| having been written | <span class="asgreek">γραφέντα <sup><small><small>[[G1125]]</small></small></sup> </span> |
-| to destroy | <span class="asgreek">απολέσθαι <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jews | <span class="asgreek">Ιουδαίους <sup><small><small>[[G2453]]</small></small></sup> </span> |
-| who | <span class="asgreek">οι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| are | <span class="asgreek">είσιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your kingdom. | <span class="asgreek">βασιλεία <sup><small><small>[[G0932]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Esther said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
+| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| it seems \[good\] | <big><span class="asgreek">δοκεί</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
+| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I found | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| favor, | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
+| let it be sent forth | <big><span class="asgreek">πεμφθήτω</span></big> <sup><small><small>[[G3992]]</small></small></sup> |
+| to return | <big><span class="asgreek">αποστραφήναι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| letters | <big><span class="asgreek">γράμματα</span></big> <sup><small><small>[[G1121]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being sent | <big><span class="asgreek">απεσταλμένα</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| Haman, | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| having been written | <big><span class="asgreek">γραφέντα</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| to destroy | <big><span class="asgreek">απολέσθαι</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jews | <big><span class="asgreek">Ιουδαίους</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
+| who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| are | <big><span class="asgreek">είσιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your kingdom. | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Esth.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.4|<< Esther 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.6|Esther 8:6 >>]]</td></tr></table>
 
 

@@ -9,22 +9,22 @@ The couriers left, spurred on by the king’s command, and the edict was issued 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| was hastened | <span class="asgreek">εσπεύδετο <sup><small><small>[[G4692]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thing | <span class="asgreek">πράγμα <sup><small><small>[[G4229]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Shushan. | <span class="asgreek">Σούσαν <sup><small><small>[[H7800]]</small></small></sup> </span> |
-| And the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Haman | <span class="asgreek">Αμάν <sup><small><small>[[H2001]]</small></small></sup> </span> |
-| toasted, | <span class="asgreek">εκωθωνίζοντο <sup><small><small>[[G8140]]</small></small></sup> </span> |
-| was disturbed | <span class="asgreek">εταράσσετο <sup><small><small>[[G5015]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| city | <span class="asgreek">πόλις <sup><small><small>[[G4172]]</small></small></sup> </span> |
+| was hastened | <big><span class="asgreek">εσπεύδετο</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thing | <big><span class="asgreek">πράγμα</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Shushan. | <big><span class="asgreek">Σούσαν</span></big> <sup><small><small>[[H7800]]</small></small></sup> |
+| And the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Haman | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
+| toasted, | <big><span class="asgreek">εκωθωνίζοντο</span></big> <sup><small><small>[[G8140]]</small></small></sup> |
+| was disturbed | <big><span class="asgreek">εταράσσετο</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
 [[Esth.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.14|<< Esther 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.1|Esther 4:1 >>]]</td></tr></table>
 
 

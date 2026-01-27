@@ -9,17 +9,17 @@ how Your enemies have taunted, O LORD, and have mocked every step of Your anoint
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| where | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| berated | <span class="asgreek">ωνείδισαν <sup><small><small>[[G3679]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your enemies | <span class="asgreek">εχθροί <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| where | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| they berated | <span class="asgreek">ωνείδισαν <sup><small><small>[[G3679]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| equivalent | <span class="asgreek">αντάλλαγμα <sup><small><small>[[G0465]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your anointed one. | <span class="asgreek">χριστού <sup><small><small>[[G5547]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| berated | <big><span class="asgreek">ωνείδισαν</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| they berated | <big><span class="asgreek">ωνείδισαν</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| equivalent | <big><span class="asgreek">αντάλλαγμα</span></big> <sup><small><small>[[G0465]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your anointed one. | <big><span class="asgreek">χριστού</span></big> <sup><small><small>[[G5547]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.89.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.50|<< Psalm 89:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.52|Psalm 89:52 >>]]</td></tr></table>
 
 

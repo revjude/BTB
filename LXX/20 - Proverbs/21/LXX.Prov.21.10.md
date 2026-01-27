@@ -9,15 +9,15 @@ The soul of the wicked man craves evil; his neighbor finds no favor in his eyes.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| of \[the\] impious | <span class="asgreek">ασεβούς <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| desires | <span class="asgreek">επιθυμεί <sup><small><small>[[G1937]]</small></small></sup> </span> |
-| evils; | <span class="asgreek">κακών <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| it shall not be shown mercy | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ελεηθήσεται <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| by | <span class="asgreek">υπ΄ <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| anyone | <span class="asgreek">ουδενός <sup><small><small>[[G3762]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of men. | <span class="asgreek">ανθρώπων <sup><small><small>[[G0444]]</small></small></sup> </span> |
+| \[The\] soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| of \[the\] impious | <big><span class="asgreek">ασεβούς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| desires | <big><span class="asgreek">επιθυμεί</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
+| evils; | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| it shall not be shown mercy | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ελεηθήσεται</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| by | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| anyone | <big><span class="asgreek">ουδενός</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of men. | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
 [[Prov.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.9|<< Proverbs 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.11|Proverbs 21:11 >>]]</td></tr></table>
 
 

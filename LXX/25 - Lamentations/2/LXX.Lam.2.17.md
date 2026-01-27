@@ -11,29 +11,29 @@ The LORD has done what He planned; He has accomplished His decree, which He orda
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΦΗ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΦΗ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| \[The\] <span class="smallcaps">lord</span> did | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| what | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he pondered. | <span class="asgreek">ενεθυμήθη <sup><small><small>[[G1760]]</small></small></sup> </span> |
-| He completed | <span class="asgreek">συνετέλεσε <sup><small><small>[[G4931]]</small></small></sup> </span> |
-| his word | <span class="asgreek">ρήμα <sup><small><small>[[G4487]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| which | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he gave charge | <span class="asgreek">ενετείλατο <sup><small><small>[[G1781]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| days | <span class="asgreek">ημερών <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of old. | <span class="asgreek">αρχαίων <sup><small><small>[[G0744]]</small></small></sup> </span> |
-| He demolished, | <span class="asgreek">καθείλε <sup><small><small>[[G2507]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| spared not, | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">εφείσατο <sup><small><small>[[G5339]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he gladdened | <span class="asgreek">εύφρανεν <sup><small><small>[[G2165]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] enemy | <span class="asgreek">εχθρόν <sup><small><small>[[G2190]]</small></small></sup> </span> |
-| He raised up high | <span class="asgreek">ύψωσε <sup><small><small>[[G5312]]</small></small></sup> </span> |
-| \[the\] horn | <span class="asgreek">κέρας <sup><small><small>[[G2768]]</small></small></sup> </span> |
-| of \[the\] one afflicting | <span class="asgreek">θλίβοντός <sup><small><small>[[G2346]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| ΦΗ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΦΗ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he pondered. | <big><span class="asgreek">ενεθυμήθη</span></big> <sup><small><small>[[G1760]]</small></small></sup> |
+| He completed | <big><span class="asgreek">συνετέλεσε</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
+| his word | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he gave charge | <big><span class="asgreek">ενετείλατο</span></big> <sup><small><small>[[G1781]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of old. | <big><span class="asgreek">αρχαίων</span></big> <sup><small><small>[[G0744]]</small></small></sup> |
+| He demolished, | <big><span class="asgreek">καθείλε</span></big> <sup><small><small>[[G2507]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| spared not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εφείσατο</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he gladdened | <big><span class="asgreek">εύφρανεν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] enemy | <big><span class="asgreek">εχθρόν</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| He raised up high | <big><span class="asgreek">ύψωσε</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| \[the\] horn | <big><span class="asgreek">κέρας</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
+| of \[the\] one afflicting | <big><span class="asgreek">θλίβοντός</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
+| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lam.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.16|<< Lamentations 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.18|Lamentations 2:18 >>]]</td></tr></table>
 
 

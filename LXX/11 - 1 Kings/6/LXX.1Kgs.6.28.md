@@ -9,11 +9,11 @@ He also overlaid the cherubim with gold.<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he compassed | <span class="asgreek">περιέσχε <sup><small><small>[[G4023]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cherubim | <span class="asgreek">χερουβίμ <sup><small><small>[[G5502]]</small></small></sup> </span> |
-| with gold. | <span class="asgreek">χρυσίω <sup><small><small>[[G5553]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he compassed | <big><span class="asgreek">περιέσχε</span></big> <sup><small><small>[[G4023]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cherubim | <big><span class="asgreek">χερουβίμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
+| with gold. | <big><span class="asgreek">χρυσίω</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
 [[1Kgs.6.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.27|<< 1 Kings 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.29|1 Kings 6:29 >>]]</td></tr></table>
 
 

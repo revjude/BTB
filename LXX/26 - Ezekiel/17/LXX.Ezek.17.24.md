@@ -9,37 +9,37 @@ Then all the trees of the field will know that I am the LORD. I bring the tall t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall know | <span class="asgreek">γνώσονται <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| trees | <span class="asgreek">ξύλα <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| plain | <span class="asgreek">πεδίου <sup><small><small>[[G8676]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I \[am\] | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one humbling | <span class="asgreek">ταπεινών <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| tree | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| \[the\] high | <span class="asgreek">υψηλόν <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| raising up high | <span class="asgreek">υψών <sup><small><small>[[G5312]]</small></small></sup> </span> |
-| tree | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| \[the\] low | <span class="asgreek">ταπεινόν <sup><small><small>[[G5011]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| drying | <span class="asgreek">ξηραίνων <sup><small><small>[[G3583]]</small></small></sup> </span> |
-| tree | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| \[the\] green | <span class="asgreek">χλωρόν <sup><small><small>[[G5515]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| again flourishing | <span class="asgreek">αναθάλλων <sup><small><small>[[G0330]]</small></small></sup> </span> |
-| tree | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| \[the\] dry | <span class="asgreek">ξηρόν <sup><small><small>[[G3584]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| I have spoken | <span class="asgreek">λελάληκα <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall act. | <span class="asgreek">ποιήσω <sup><small><small>[[G4160]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| trees | <big><span class="asgreek">ξύλα</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| plain | <big><span class="asgreek">πεδίου</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I \[am\] | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one humbling | <big><span class="asgreek">ταπεινών</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| \[the\] high | <big><span class="asgreek">υψηλόν</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| raising up high | <big><span class="asgreek">υψών</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| \[the\] low | <big><span class="asgreek">ταπεινόν</span></big> <sup><small><small>[[G5011]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| drying | <big><span class="asgreek">ξηραίνων</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| \[the\] green | <big><span class="asgreek">χλωρόν</span></big> <sup><small><small>[[G5515]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| again flourishing | <big><span class="asgreek">αναθάλλων</span></big> <sup><small><small>[[G0330]]</small></small></sup> |
+| tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| \[the\] dry | <big><span class="asgreek">ξηρόν</span></big> <sup><small><small>[[G3584]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| I have spoken | <big><span class="asgreek">λελάληκα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall act. | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
 [[Ezek.17.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.23|<< Ezekiel 17:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.1|Ezekiel 18:1 >>]]</td></tr></table>
 
 

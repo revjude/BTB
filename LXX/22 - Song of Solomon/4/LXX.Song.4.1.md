@@ -12,29 +12,29 @@ How beautiful you are, my darling—how very beautiful! Your eyes are like doves
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| you are | <span class="asgreek">ει <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| fair | <span class="asgreek">καλή <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my dear one; | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| you are | <span class="asgreek">ει <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| fair. | <span class="asgreek">καλή <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| Your eyes -- | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| doves | <span class="asgreek">περιστεραί <sup><small><small>[[G4058]]</small></small></sup> </span> |
-| outside | <span class="asgreek">εκτός <sup><small><small>[[G1622]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your veil. | <span class="asgreek">σιωπήσεώς <sup><small><small>[[G9091]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Your head of hair | <span class="asgreek">τριχωμά <sup><small><small>[[G9499]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[is\] as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| herds | <span class="asgreek">αγέλαι <sup><small><small>[[G0034]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of goats, | <span class="asgreek">αιγών <sup><small><small>[[G6167]]</small></small></sup> </span> |
-| the ones who | <span class="asgreek">αι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| were revealed | <span class="asgreek">απεκαλύφθησαν <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Gilead. | <span class="asgreek">Γαλαάδ <sup><small><small>[[H1568]]</small></small></sup> </span> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| you are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| fair | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my dear one; | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| you are | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| fair. | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| Your eyes -- | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| doves | <big><span class="asgreek">περιστεραί</span></big> <sup><small><small>[[G4058]]</small></small></sup> |
+| outside | <big><span class="asgreek">εκτός</span></big> <sup><small><small>[[G1622]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your veil. | <big><span class="asgreek">σιωπήσεώς</span></big> <sup><small><small>[[G9091]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Your head of hair | <big><span class="asgreek">τριχωμά</span></big> <sup><small><small>[[G9499]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[is\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| herds | <big><span class="asgreek">αγέλαι</span></big> <sup><small><small>[[G0034]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of goats, | <big><span class="asgreek">αιγών</span></big> <sup><small><small>[[G6167]]</small></small></sup> |
+| the ones who | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| were revealed | <big><span class="asgreek">απεκαλύφθησαν</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Gilead. | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
 [[Song.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.3.11|<< Song of Solomon 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.2|Song of Solomon 4:2 >>]]</td></tr></table>
 
 

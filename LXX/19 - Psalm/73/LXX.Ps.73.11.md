@@ -9,16 +9,16 @@ The wicked say, “How can God know? Does the Most High have knowledge?”<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they said, | <span class="asgreek">είπον <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| How did | <span class="asgreek">πως <sup><small><small>[[G4459]]</small></small></sup> </span> |
-| God know? | <span class="asgreek">έγνω <sup><small><small>[[G1097]]</small></small></sup> <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| and, | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Is there | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> <span class="asgreek">έστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| knowledge | <span class="asgreek">γνώσις <sup><small><small>[[G1108]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| highest? | <span class="asgreek">υψίστω <sup><small><small>[[G5310]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they said, | <big><span class="asgreek">είπον</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| How did | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
+| God know? | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| and, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Is there | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| knowledge | <big><span class="asgreek">γνώσις</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| highest? | <big><span class="asgreek">υψίστω</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
 [[Ps.73.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.10|<< Psalm 73:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.12|Psalm 73:12 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ for the LORD detests the perverse, but He is a friend to the upright.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[is\] unclean | <span class="asgreek">ακάθαρτος <sup><small><small>[[G0169]]</small></small></sup> </span> |
-| For | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| before | <span class="asgreek">έναντι <sup><small><small>[[G1725]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| every | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| lawbreaker | <span class="asgreek">παράνομος <sup><small><small>[[G8627]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[the\] righteous | <span class="asgreek">δικαίοις <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| they do not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| sit together | <span class="asgreek">συνεδριάζει <sup><small><small>[[G9304]]</small></small></sup> </span> |
+| \[is\] unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
+| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| lawbreaker | <big><span class="asgreek">παράνομος</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[the\] righteous | <big><span class="asgreek">δικαίοις</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| they do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| sit together | <big><span class="asgreek">συνεδριάζει</span></big> <sup><small><small>[[G9304]]</small></small></sup> |
 [[Prov.3.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.31|<< Proverbs 3:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.33|Proverbs 3:33 >>]]</td></tr></table>
 
 

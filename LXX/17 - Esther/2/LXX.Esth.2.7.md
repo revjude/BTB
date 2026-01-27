@@ -9,35 +9,35 @@ And Mordecai had brought up Hadassah (that is, Esther), the daughter of his uncl
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to this man | <span class="asgreek">τούτω <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| a child | <span class="asgreek">παις <sup><small><small>[[G3816]]</small></small></sup> </span> |
-| \[that\] he brought up, | <span class="asgreek">θρεπτή <sup><small><small>[[G7690]]</small></small></sup> </span> |
-| \[the\] daughter | <span class="asgreek">θυγάτηρ <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of \[the\] brother | <span class="asgreek">αδελφού <sup><small><small>[[G0080]]</small></small></sup> </span> |
-| of his father, | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| her name | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[was\] Esther. | <span class="asgreek">Εσθήρ <sup><small><small>[[H0635]]</small></small></sup> </span> |
-| And at | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| changeover | <span class="asgreek">μεταλλάξαι <sup><small><small>[[G3337]]</small></small></sup> </span> |
-| of her | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| parents, | <span class="asgreek">γονείς <sup><small><small>[[G1118]]</small></small></sup> </span> |
-| he instructed | <span class="asgreek">επαίδευσεν <sup><small><small>[[G3811]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to himself | <span class="asgreek">εαυτώ <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a woman. | <span class="asgreek">γυναίκα <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| young woman | <span class="asgreek">κοράσιον <sup><small><small>[[G2877]]</small></small></sup> </span> |
-| good | <span class="asgreek">καλόν <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in appearance. | <span class="asgreek">είδει <sup><small><small>[[G1491]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to this man | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| a child | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
+| \[that\] he brought up, | <big><span class="asgreek">θρεπτή</span></big> <sup><small><small>[[G7690]]</small></small></sup> |
+| \[the\] daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of \[the\] brother | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
+| of his father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| her name | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[was\] Esther. | <big><span class="asgreek">Εσθήρ</span></big> <sup><small><small>[[H0635]]</small></small></sup> |
+| And at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| changeover | <big><span class="asgreek">μεταλλάξαι</span></big> <sup><small><small>[[G3337]]</small></small></sup> |
+| of her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| parents, | <big><span class="asgreek">γονείς</span></big> <sup><small><small>[[G1118]]</small></small></sup> |
+| he instructed | <big><span class="asgreek">επαίδευσεν</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a woman. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| young woman | <big><span class="asgreek">κοράσιον</span></big> <sup><small><small>[[G2877]]</small></small></sup> |
+| good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in appearance. | <big><span class="asgreek">είδει</span></big> <sup><small><small>[[G1491]]</small></small></sup> |
 [[Esth.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.6|<< Esther 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.8|Esther 2:8 >>]]</td></tr></table>
 
 

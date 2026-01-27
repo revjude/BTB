@@ -9,24 +9,24 @@ Is there no balm in Gilead? Is no physician there? Why then has the health of th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-|  | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| balm | <span class="asgreek">ρητίνη <sup><small><small>[[G9023]]</small></small></sup> </span> |
-| no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| is | <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Gilead? | <span class="asgreek">Γαλαάδ <sup><small><small>[[H1568]]</small></small></sup> </span> |
-| and | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| physician | <span class="asgreek">ιατρός <sup><small><small>[[G2395]]</small></small></sup> </span> |
-| no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| Is | <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| there? | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| Why \[did\] | <span class="asgreek">διατί <sup><small><small>[[G1302]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| ascend | <span class="asgreek">ανέβη <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| a healing | <span class="asgreek">ίασις <sup><small><small>[[G2392]]</small></small></sup> </span> |
-| \[for the\] daughter | <span class="asgreek">θυγατρός <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of my people? | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+|  | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| balm | <big><span class="asgreek">ρητίνη</span></big> <sup><small><small>[[G9023]]</small></small></sup> |
+| no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Gilead? | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
+| and | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| physician | <big><span class="asgreek">ιατρός</span></big> <sup><small><small>[[G2395]]</small></small></sup> |
+| no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| Is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| there? | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| Why \[did\] | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| ascend | <big><span class="asgreek">ανέβη</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| a healing | <big><span class="asgreek">ίασις</span></big> <sup><small><small>[[G2392]]</small></small></sup> |
+| \[for the\] daughter | <big><span class="asgreek">θυγατρός</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of my people? | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.21|<< Jeremiah 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.1|Jeremiah 9:1 >>]]</td></tr></table>
 
 

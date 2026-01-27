@@ -9,31 +9,31 @@ Then compare our appearances with those of the young men who are eating the roya
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| be seen | <span class="asgreek">οφθήτωσαν <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| before | <span class="asgreek">ενώπιόν <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| you | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our shape | <span class="asgreek">ιδέαι <sup><small><small>[[G2397]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shapes | <span class="asgreek">ιδέαι <sup><small><small>[[G2397]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| boys | <span class="asgreek">παιδαρίων <sup><small><small>[[G3808]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eating | <span class="asgreek">εσθιόντων <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| at the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| table | <span class="asgreek">τράπεζαν <sup><small><small>[[G5132]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king. | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| how | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| ever | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should behold, | <span class="asgreek">ίδης <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| do | <span class="asgreek">ποίησον <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| accordingly with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your servants! | <span class="asgreek">παίδων σου <sup><small><small>[[G3816]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| be seen | <big><span class="asgreek">οφθήτωσαν</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| before | <big><span class="asgreek">ενώπιόν</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our shape | <big><span class="asgreek">ιδέαι</span></big> <sup><small><small>[[G2397]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shapes | <big><span class="asgreek">ιδέαι</span></big> <sup><small><small>[[G2397]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| boys | <big><span class="asgreek">παιδαρίων</span></big> <sup><small><small>[[G3808]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eating | <big><span class="asgreek">εσθιόντων</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| at the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| table | <big><span class="asgreek">τράπεζαν</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| how | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should behold, | <big><span class="asgreek">ίδης</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| do | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| accordingly with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your servants! | <big><span class="asgreek">παίδων σου</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
 [[Dan.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.12|<< Daniel 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.14|Daniel 1:14 >>]]</td></tr></table>
 
 

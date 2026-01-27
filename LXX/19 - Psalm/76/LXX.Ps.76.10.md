@@ -9,16 +9,16 @@ Even the wrath of man shall praise You; with the survivors of wrath You will clo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] inner thought | <span class="asgreek">ενθύμιον <sup><small><small>[[G7244]]</small></small></sup> </span> |
-| of man | <span class="asgreek">ανθρώπου <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| shall make acknowledgment | <span class="asgreek">εξομολογήσεταί <sup><small><small>[[G1843]]</small></small></sup> </span> |
-| to you; | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[what is\] left | <span class="asgreek">εγκατάλειμμα <sup><small><small>[[G7010]]</small></small></sup> </span> |
-| of \[the\] inner thought | <span class="asgreek">ενθυμίου <sup><small><small>[[G7244]]</small></small></sup> </span> |
-| shall solemnize a holiday | <span class="asgreek">εορτάσει <sup><small><small>[[G1858]]</small></small></sup> </span> |
-| to you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] inner thought | <big><span class="asgreek">ενθύμιον</span></big> <sup><small><small>[[G7244]]</small></small></sup> |
+| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| shall make acknowledgment | <big><span class="asgreek">εξομολογήσεταί</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
+| to you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[what is\] left | <big><span class="asgreek">εγκατάλειμμα</span></big> <sup><small><small>[[G7010]]</small></small></sup> |
+| of \[the\] inner thought | <big><span class="asgreek">ενθυμίου</span></big> <sup><small><small>[[G7244]]</small></small></sup> |
+| shall solemnize a holiday | <big><span class="asgreek">εορτάσει</span></big> <sup><small><small>[[G1858]]</small></small></sup> |
+| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.76.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.9|<< Psalm 76:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.11|Psalm 76:11 >>]]</td></tr></table>
 
 

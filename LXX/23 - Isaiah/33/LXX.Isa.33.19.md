@@ -9,26 +9,26 @@ You will no longer see the insolent, a people whose speech is unintelligible, wh
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A small | <span class="asgreek">μικρόν <sup><small><small>[[G3398]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| great | <span class="asgreek">μέγαν <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| which | <span class="asgreek">ω <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| did not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| take advice, | <span class="asgreek">συνεβουλεύσατο <sup><small><small>[[G4823]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| had beheld | <span class="asgreek">ήδει <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| a deep voice, | <span class="asgreek">βαθύφωνον <sup><small><small>[[G6644]]</small></small></sup> </span> |
-| so that | <span class="asgreek">ώστε <sup><small><small>[[G5620]]</small></small></sup> </span> |
-| should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| hear | <span class="asgreek">ακούσαι <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| a people | <span class="asgreek">λαός <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| being treated as worthless | <span class="asgreek">πεφαυλισμένος <sup><small><small>[[G9626]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there is no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to the one | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hearing | <span class="asgreek">ακούοντι <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| understanding | <span class="asgreek">σύνεσις <sup><small><small>[[G4907]]</small></small></sup> </span> |
+| A small | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| great | <big><span class="asgreek">μέγαν</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| take advice, | <big><span class="asgreek">συνεβουλεύσατο</span></big> <sup><small><small>[[G4823]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| had beheld | <big><span class="asgreek">ήδει</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| a deep voice, | <big><span class="asgreek">βαθύφωνον</span></big> <sup><small><small>[[G6644]]</small></small></sup> |
+| so that | <big><span class="asgreek">ώστε</span></big> <sup><small><small>[[G5620]]</small></small></sup> |
+| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| hear | <big><span class="asgreek">ακούσαι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| a people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| being treated as worthless | <big><span class="asgreek">πεφαυλισμένος</span></big> <sup><small><small>[[G9626]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hearing | <big><span class="asgreek">ακούοντι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| understanding | <big><span class="asgreek">σύνεσις</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
 [[Isa.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.18|<< Isaiah 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.20|Isaiah 33:20 >>]]</td></tr></table>
 
 

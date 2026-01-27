@@ -13,15 +13,15 @@ May his days be few; may another take his position.<small><sub>**MT:**</sub></s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| become | <span class="asgreek">γενηθήτωσαν <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his days | <span class="asgreek">ημέραι <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| few, | <span class="asgreek">ολίγαι <sup><small><small>[[G3641]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his overseeing | <span class="asgreek">επισκοπήν <sup><small><small>[[G1984]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| take | <span class="asgreek">λάβοι <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| another | <span class="asgreek">έτερος <sup><small><small>[[G2087]]</small></small></sup> </span> |
+| become | <big><span class="asgreek">γενηθήτωσαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| few, | <big><span class="asgreek">ολίγαι</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his overseeing | <big><span class="asgreek">επισκοπήν</span></big> <sup><small><small>[[G1984]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| take | <big><span class="asgreek">λάβοι</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| another | <big><span class="asgreek">έτερος</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
 [[Ps.109.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.7|<< Psalm 109:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.9|Psalm 109:9 >>]]</td></tr></table>
 
 

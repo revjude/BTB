@@ -9,26 +9,26 @@ Do not weep for him who is dead; do not mourn his loss. Weep bitterly for him wh
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| weep | <span class="asgreek">κλαίετε <sup><small><small>[[G2799]]</small></small></sup> </span> |
-| for the one | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| having died, | <span class="asgreek">τεθνηκότα <sup><small><small>[[G2348]]</small></small></sup> </span> |
-| nor | <span class="asgreek">μηδέ <sup><small><small>[[G3366]]</small></small></sup> </span> |
-| lament | <span class="asgreek">θρηνείτε <sup><small><small>[[G2354]]</small></small></sup> </span> |
-| him! | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Weep! | <span class="asgreek">κλαύσατε <sup><small><small>[[G2799]]</small></small></sup> </span> |
-| by weeping | <span class="asgreek">κλαυθμώ <sup><small><small>[[G2805]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one going forth, | <span class="asgreek">εκπορευόμενον <sup><small><small>[[G1607]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| he shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| return | <span class="asgreek">επιστρέψει <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| again, | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| shall he see | <span class="asgreek">όψεται <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of his fatherland. | <span class="asgreek">πατρίδος <sup><small><small>[[G3968]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| weep | <big><span class="asgreek">κλαίετε</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
+| for the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| having died, | <big><span class="asgreek">τεθνηκότα</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
+| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
+| lament | <big><span class="asgreek">θρηνείτε</span></big> <sup><small><small>[[G2354]]</small></small></sup> |
+| him! | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Weep! | <big><span class="asgreek">κλαύσατε</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
+| by weeping | <big><span class="asgreek">κλαυθμώ</span></big> <sup><small><small>[[G2805]]</small></small></sup> |
+| for the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one going forth, | <big><span class="asgreek">εκπορευόμενον</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| he shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| return | <big><span class="asgreek">επιστρέψει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| again, | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| shall he see | <big><span class="asgreek">όψεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of his fatherland. | <big><span class="asgreek">πατρίδος</span></big> <sup><small><small>[[G3968]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.9|<< Jeremiah 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.11|Jeremiah 22:11 >>]]</td></tr></table>
 
 

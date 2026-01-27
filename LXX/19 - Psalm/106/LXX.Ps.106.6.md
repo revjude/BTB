@@ -9,12 +9,12 @@ We have sinned like our fathers; we have done wrong and acted wickedly.<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| We sinned | <span class="asgreek">ημάρτομεν <sup><small><small>[[G0264]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our fathers; | <span class="asgreek">πατέρων <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| we acted lawlessly; | <span class="asgreek">ηνομήσαμεν <sup><small><small>[[G6349]]</small></small></sup> </span> |
-| we did wrong. | <span class="asgreek">ηδικήσαμεν <sup><small><small>[[G0091]]</small></small></sup> </span> |
+| We sinned | <big><span class="asgreek">ημάρτομεν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our fathers; | <big><span class="asgreek">πατέρων</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| we acted lawlessly; | <big><span class="asgreek">ηνομήσαμεν</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
+| we did wrong. | <big><span class="asgreek">ηδικήσαμεν</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
 [[Ps.106.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.5|<< Psalm 106:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.7|Psalm 106:7 >>]]</td></tr></table>
 
 

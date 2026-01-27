@@ -9,13 +9,13 @@ I discern more than the elders, for I obey Your precepts.<small><sub>**MT:**</s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Above | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| \[the\] elders | <span class="asgreek">πρεσβυτέρους <sup><small><small>[[G4245]]</small></small></sup> </span> |
-| I perceived; | <span class="asgreek">συνήκα <sup><small><small>[[G4920]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your commandments | <span class="asgreek">εντολάς <sup><small><small>[[G1785]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I sought after | <span class="asgreek">εξεζήτησα <sup><small><small>[[G1567]]</small></small></sup> </span> |
+| Above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| \[the\] elders | <big><span class="asgreek">πρεσβυτέρους</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
+| I perceived; | <big><span class="asgreek">συνήκα</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your commandments | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I sought after | <big><span class="asgreek">εξεζήτησα</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
 [[Ps.119.100|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.99|<< Psalm 119:99]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.101|Psalm 119:101 >>]]</td></tr></table>
 
 

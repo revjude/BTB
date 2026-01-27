@@ -9,18 +9,18 @@ The Teacher searched to find delightful sayings and to record accurate words of 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| much | <span class="asgreek">πολλά <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| sought | <span class="asgreek">εζήτησεν <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| \[The\] ecclesiastic | <span class="asgreek">εκκλησιαστής <sup><small><small>[[G7103]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to find | <span class="asgreek">ευρείν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| of words | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| a wanting | <span class="asgreek">θελήματος <sup><small><small>[[G2307]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| writing | <span class="asgreek">γεγραμμένον <sup><small><small>[[G1125]]</small></small></sup> </span> |
-| of uprightness | <span class="asgreek">ευθύτητος <sup><small><small>[[G2118]]</small></small></sup> </span> |
-| of words | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| of truth. | <span class="asgreek">αληθείας <sup><small><small>[[G0225]]</small></small></sup> </span> |
+| much | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| sought | <big><span class="asgreek">εζήτησεν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| \[The\] ecclesiastic | <big><span class="asgreek">εκκλησιαστής</span></big> <sup><small><small>[[G7103]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to find | <big><span class="asgreek">ευρείν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| of words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| a wanting | <big><span class="asgreek">θελήματος</span></big> <sup><small><small>[[G2307]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| writing | <big><span class="asgreek">γεγραμμένον</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| of uprightness | <big><span class="asgreek">ευθύτητος</span></big> <sup><small><small>[[G2118]]</small></small></sup> |
+| of words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| of truth. | <big><span class="asgreek">αληθείας</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
 [[Eccl.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.9|<< Ecclesiastes 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.11|Ecclesiastes 12:11 >>]]</td></tr></table>
 
 

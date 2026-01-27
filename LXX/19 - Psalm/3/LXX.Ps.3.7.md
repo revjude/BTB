@@ -9,23 +9,23 @@ Arise, O LORD! Save me, O my God! Strike all my enemies on the jaw; break the te
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Rise up, | <span class="asgreek">ανάστα <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>! | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| Deliver | <span class="asgreek">σώσόν <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my God! | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| struck | <span class="asgreek">επάταξας <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hating | <span class="asgreek">εχθραίνοντάς <sup><small><small>[[G7588]]</small></small></sup> </span> |
-| me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for no cause; | <span class="asgreek">ματαίως <sup><small><small>[[G8260]]</small></small></sup> </span> |
-| \[the\] teeth | <span class="asgreek">οδόντας <sup><small><small>[[G3599]]</small></small></sup> </span> |
-| of sinners | <span class="asgreek">αμαρτωλών <sup><small><small>[[G0268]]</small></small></sup> </span> |
-| you broke | <span class="asgreek">συνέτριψας <sup><small><small>[[G4937]]</small></small></sup> </span> |
+| Rise up, | <big><span class="asgreek">ανάστα</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>! | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Deliver | <big><span class="asgreek">σώσόν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my God! | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| struck | <big><span class="asgreek">επάταξας</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hating | <big><span class="asgreek">εχθραίνοντάς</span></big> <sup><small><small>[[G7588]]</small></small></sup> |
+| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for no cause; | <big><span class="asgreek">ματαίως</span></big> <sup><small><small>[[G8260]]</small></small></sup> |
+| \[the\] teeth | <big><span class="asgreek">οδόντας</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
+| of sinners | <big><span class="asgreek">αμαρτωλών</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
+| you broke | <big><span class="asgreek">συνέτριψας</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
 [[Ps.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.3.6|<< Psalm 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.3.8|Psalm 3:8 >>]]</td></tr></table>
 
 

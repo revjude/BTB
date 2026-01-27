@@ -9,29 +9,29 @@ What the devouring locust has left, the swarming locust has eaten; what the swar
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| remaining | <span class="asgreek">κατάλοιπα <sup><small><small>[[G2645]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| caterpillar | <span class="asgreek">κάμπης <sup><small><small>[[G7791]]</small></small></sup> </span> |
-| devoured | <span class="asgreek">κατέφαγεν <sup><small><small>[[G2719]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| locust | <span class="asgreek">ακρίς <sup><small><small>[[G0200]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| remaining | <span class="asgreek">κατάλοιπα <sup><small><small>[[G2645]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| locust | <span class="asgreek">ακρίδος <sup><small><small>[[G0200]]</small></small></sup> </span> |
-| devoured | <span class="asgreek">κατέφαγεν <sup><small><small>[[G2719]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| grasshopper | <span class="asgreek">βρούχος <sup><small><small>[[G6700]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| remaining | <span class="asgreek">κατάλοιπα <sup><small><small>[[G2645]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| grasshopper | <span class="asgreek">βρούχου <sup><small><small>[[G6700]]</small></small></sup> </span> |
-| devoured | <span class="asgreek">κατέφαγεν <sup><small><small>[[G2719]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| blight | <span class="asgreek">ερυσίβη <sup><small><small>[[G7511]]</small></small></sup> </span> |
+| The \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| remaining | <big><span class="asgreek">κατάλοιπα</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| caterpillar | <big><span class="asgreek">κάμπης</span></big> <sup><small><small>[[G7791]]</small></small></sup> |
+| devoured | <big><span class="asgreek">κατέφαγεν</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| locust | <big><span class="asgreek">ακρίς</span></big> <sup><small><small>[[G0200]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| remaining | <big><span class="asgreek">κατάλοιπα</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| locust | <big><span class="asgreek">ακρίδος</span></big> <sup><small><small>[[G0200]]</small></small></sup> |
+| devoured | <big><span class="asgreek">κατέφαγεν</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| grasshopper | <big><span class="asgreek">βρούχος</span></big> <sup><small><small>[[G6700]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| remaining | <big><span class="asgreek">κατάλοιπα</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| grasshopper | <big><span class="asgreek">βρούχου</span></big> <sup><small><small>[[G6700]]</small></small></sup> |
+| devoured | <big><span class="asgreek">κατέφαγεν</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| blight | <big><span class="asgreek">ερυσίβη</span></big> <sup><small><small>[[G7511]]</small></small></sup> |
 [[Joel.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.3|<< Joel 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.5|Joel 1:5 >>]]</td></tr></table>
 
 

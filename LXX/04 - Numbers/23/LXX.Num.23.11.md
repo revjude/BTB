@@ -9,22 +9,22 @@ Then Balak said to Balaam, “What have you done to me? I brought you here to cu
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Balak said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Βαλαάκ <sup><small><small>[[G0904]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Balaam, | <span class="asgreek">Βαλαάμ <sup><small><small>[[G0903]]</small></small></sup> </span> |
-| What | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| have you done | <span class="asgreek">πεποίηκάς <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| to me? | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| For | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a curse | <span class="asgreek">κατάρασιν <sup><small><small>[[G7906]]</small></small></sup> </span> |
-| for my enemies | <span class="asgreek">εχθρών <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I have called | <span class="asgreek">κέκληκά <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| you have blessed | <span class="asgreek">ευλόγηκας <sup><small><small>[[G2127]]</small></small></sup> </span> |
-| a blessing. | <span class="asgreek">ευλογίαν <sup><small><small>[[G2129]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Balak said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Βαλαάκ</span></big> <sup><small><small>[[G0904]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Balaam, | <big><span class="asgreek">Βαλαάμ</span></big> <sup><small><small>[[G0903]]</small></small></sup> |
+| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| have you done | <big><span class="asgreek">πεποίηκάς</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| to me? | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a curse | <big><span class="asgreek">κατάρασιν</span></big> <sup><small><small>[[G7906]]</small></small></sup> |
+| for my enemies | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I have called | <big><span class="asgreek">κέκληκά</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| you have blessed | <big><span class="asgreek">ευλόγηκας</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
+| a blessing. | <big><span class="asgreek">ευλογίαν</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
 [[Num.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.10|<< Numbers 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.12|Numbers 23:12 >>]]</td></tr></table>
 
 

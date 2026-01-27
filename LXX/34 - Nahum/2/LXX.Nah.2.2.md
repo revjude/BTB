@@ -9,22 +9,22 @@ For the LORD will restore the splendor of Jacob like the splendor of Israel, tho
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> perverted | <span class="asgreek">απέστρεψε <sup><small><small>[[G0654]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| insolence | <span class="asgreek">ύβριν <sup><small><small>[[G5196]]</small></small></sup> </span> |
-| of Jacob, | <span class="asgreek">Ιακώβ <sup><small><small>[[G2384]]</small></small></sup> </span> |
-| as | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| \[the\] insolence | <span class="asgreek">ύβριν <sup><small><small>[[G5196]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Israel; | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| for \[the ones\] | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| shaking off | <span class="asgreek">εκτινάσσοντες <sup><small><small>[[G1621]]</small></small></sup> </span> |
-| shook them off, | <span class="asgreek">εξετίναξαν <sup><small><small>[[G1621]]</small></small></sup> <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their vine branches | <span class="asgreek">κλήματα <sup><small><small>[[G2814]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they ruined | <span class="asgreek">διέφθειραν <sup><small><small>[[G1311]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> perverted | <big><span class="asgreek">απέστρεψε</span></big> <sup><small><small>[[G0654]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| insolence | <big><span class="asgreek">ύβριν</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
+| of Jacob, | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| \[the\] insolence | <big><span class="asgreek">ύβριν</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Israel; | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| for \[the ones\] | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| shaking off | <big><span class="asgreek">εκτινάσσοντες</span></big> <sup><small><small>[[G1621]]</small></small></sup> |
+| shook them off, | <big><span class="asgreek">εξετίναξαν</span></big> <sup><small><small>[[G1621]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their vine branches | <big><span class="asgreek">κλήματα</span></big> <sup><small><small>[[G2814]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they ruined | <big><span class="asgreek">διέφθειραν</span></big> <sup><small><small>[[G1311]]</small></small></sup> |
 [[Nah.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.1|<< Nahum 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.3|Nahum 2:3 >>]]</td></tr></table>
 
 

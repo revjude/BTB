@@ -9,20 +9,20 @@ Egypt’s help is futile and empty; therefore I have called her Rahab Who Sits S
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] Egyptians | <span class="asgreek">Αιγύπτιοι <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| in vain | <span class="asgreek">μάταια <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with emptiness | <span class="asgreek">κενά <sup><small><small>[[G2756]]</small></small></sup> </span> |
-| shall benefit | <span class="asgreek">ωφελήσουσιν <sup><small><small>[[G5623]]</small></small></sup> </span> |
-| you | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Report | <span class="asgreek">απάγγελον <sup><small><small>[[G0518]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that, | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[is\] vain | <span class="asgreek">μάταια <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| comfort | <span class="asgreek">παράκλησις <sup><small><small>[[G3874]]</small></small></sup> </span> |
-| of yours | <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| This | <span class="asgreek">αύτη <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| \[The\] Egyptians | <big><span class="asgreek">Αιγύπτιοι</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| in vain | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with emptiness | <big><span class="asgreek">κενά</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
+| shall benefit | <big><span class="asgreek">ωφελήσουσιν</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
+| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Report | <big><span class="asgreek">απάγγελον</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[is\] vain | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| comfort | <big><span class="asgreek">παράκλησις</span></big> <sup><small><small>[[G3874]]</small></small></sup> |
+| of yours | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| This | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
 [[Isa.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.6|<< Isaiah 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.8|Isaiah 30:8 >>]]</td></tr></table>
 
 

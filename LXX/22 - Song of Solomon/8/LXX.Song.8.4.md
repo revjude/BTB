@@ -9,27 +9,27 @@ O daughters of Jerusalem, I adjure you: Do not arouse or awaken love until the t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I bound you by an oath, | <span class="asgreek">ώρκισα <sup><small><small>[[G3726]]</small></small></sup> <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O daughters | <span class="asgreek">θυγατέρες <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Jerusalem, | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| powers, | <span class="asgreek">δυνάμεσι <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| strengths | <span class="asgreek">ισχύσεσι <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| field, | <span class="asgreek">αγρού <sup><small><small>[[G0068]]</small></small></sup> </span> |
-| why | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| should you arise | <span class="asgreek">εγείρητε <sup><small><small>[[G1453]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| why | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| should you awaken | <span class="asgreek">εξεγείρητε <sup><small><small>[[G1825]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| love | <span class="asgreek">αγάπην <sup><small><small>[[G0026]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| it should want? | <span class="asgreek">θελήση <sup><small><small>[[G2309]]</small></small></sup> </span> |
+| I bound you by an oath, | <big><span class="asgreek">ώρκισα</span></big> <sup><small><small>[[G3726]]</small></small></sup> <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| powers, | <big><span class="asgreek">δυνάμεσι</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| strengths | <big><span class="asgreek">ισχύσεσι</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| field, | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
+| why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| should you arise | <big><span class="asgreek">εγείρητε</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| should you awaken | <big><span class="asgreek">εξεγείρητε</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| love | <big><span class="asgreek">αγάπην</span></big> <sup><small><small>[[G0026]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| it should want? | <big><span class="asgreek">θελήση</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
 [[Song.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.3|<< Song of Solomon 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.5|Song of Solomon 8:5 >>]]</td></tr></table>
 
 

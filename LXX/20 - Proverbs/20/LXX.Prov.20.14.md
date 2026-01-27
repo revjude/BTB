@@ -9,16 +9,16 @@ Bad, bad says the one buying, but when he should depart then he shall boast.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Bad, | <span class="asgreek">κακόν <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| bad | <span class="asgreek">κακόν <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| buying, | <span class="asgreek">αγοράζων <sup><small><small>[[G0059]]</small></small></sup> </span> |
-| but | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| when | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| he should depart | <span class="asgreek">απέλθη <sup><small><small>[[G0565]]</small></small></sup> </span> |
-| then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| he shall boast. | <span class="asgreek">καυχήσεται <sup><small><small>[[G2744]]</small></small></sup> </span> |
+| Bad, | <big><span class="asgreek">κακόν</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| bad | <big><span class="asgreek">κακόν</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| buying, | <big><span class="asgreek">αγοράζων</span></big> <sup><small><small>[[G0059]]</small></small></sup> |
+| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| when | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| he should depart | <big><span class="asgreek">απέλθη</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
+| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| he shall boast. | <big><span class="asgreek">καυχήσεται</span></big> <sup><small><small>[[G2744]]</small></small></sup> |
 [[Prov.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.13|<< Proverbs 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.15|Proverbs 20:15 >>]]</td></tr></table>
 
 

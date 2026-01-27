@@ -9,20 +9,20 @@ Then she added, “We have plenty of straw and feed, as well as a place for you 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| straw | <span class="asgreek">άχυρα <sup><small><small>[[G0892]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| fodder | <span class="asgreek">χορτάσματα <sup><small><small>[[G5527]]</small></small></sup> </span> |
-| \[there is\] much | <span class="asgreek">πολλά <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| by | <span class="asgreek">παρ΄ <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| us, | <span class="asgreek">ημίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a place | <span class="asgreek">τόπος <sup><small><small>[[G5117]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to rest up. | <span class="asgreek">καταλύσαι <sup><small><small>[[G2647]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| straw | <big><span class="asgreek">άχυρα</span></big> <sup><small><small>[[G0892]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| fodder | <big><span class="asgreek">χορτάσματα</span></big> <sup><small><small>[[G5527]]</small></small></sup> |
+| \[there is\] much | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| us, | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to rest up. | <big><span class="asgreek">καταλύσαι</span></big> <sup><small><small>[[G2647]]</small></small></sup> |
 [[Gen.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.24|<< Genesis 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.26|Genesis 24:26 >>]]</td></tr></table>
 
 

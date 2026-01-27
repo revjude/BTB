@@ -9,11 +9,11 @@ the descendants of Azgad, 2,322;<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Azgad, | <span class="asgreek">Ασγάδ <sup><small><small>[[H5803]]</small></small></sup> </span> |
-| two thousand | <span class="asgreek">δισχίλιοι <sup><small><small>[[G1367]]</small></small></sup> </span> |
-| three hundred | <span class="asgreek">τριακόσιοι <sup><small><small>[[G5145]]</small></small></sup> </span> |
-| twenty-two; | <span class="asgreek">εικοσιδύο <sup><small><small>[[G7053]]</small></small></sup> </span> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Azgad, | <big><span class="asgreek">Ασγάδ</span></big> <sup><small><small>[[H5803]]</small></small></sup> |
+| two thousand | <big><span class="asgreek">δισχίλιοι</span></big> <sup><small><small>[[G1367]]</small></small></sup> |
+| three hundred | <big><span class="asgreek">τριακόσιοι</span></big> <sup><small><small>[[G5145]]</small></small></sup> |
+| twenty-two; | <big><span class="asgreek">εικοσιδύο</span></big> <sup><small><small>[[G7053]]</small></small></sup> |
 [[Neh.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.16|<< Nehemiah 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.18|Nehemiah 7:18 >>]]</td></tr></table>
 
 

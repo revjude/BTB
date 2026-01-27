@@ -9,18 +9,18 @@ If a wise man goes to court with a fool, there will be raving and laughing with 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| A wise | <span class="asgreek">σοφός <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| judges | <span class="asgreek">κρινεί <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| nations; | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| a heedless | <span class="asgreek">φαύλος <sup><small><small>[[G5337]]</small></small></sup> </span> |
-| in provoking to anger, | <span class="asgreek">οργιζόμενος <sup><small><small>[[G3710]]</small></small></sup> </span> |
-| ridicules | <span class="asgreek">καταγελάται <sup><small><small>[[G2606]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| is not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| struck with awe. | <span class="asgreek">καταπτήσσει <sup><small><small>[[G7904]]</small></small></sup> </span> |
+| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| A wise | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| judges | <big><span class="asgreek">κρινεί</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| nations; | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| a heedless | <big><span class="asgreek">φαύλος</span></big> <sup><small><small>[[G5337]]</small></small></sup> |
+| in provoking to anger, | <big><span class="asgreek">οργιζόμενος</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
+| ridicules | <big><span class="asgreek">καταγελάται</span></big> <sup><small><small>[[G2606]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| is not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| struck with awe. | <big><span class="asgreek">καταπτήσσει</span></big> <sup><small><small>[[G7904]]</small></small></sup> |
 [[Prov.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.8|<< Proverbs 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.10|Proverbs 29:10 >>]]</td></tr></table>
 
 

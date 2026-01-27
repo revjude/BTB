@@ -9,18 +9,18 @@ to grant him relief from days of trouble, until a pit is dug for the wicked.<sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to calm | <span class="asgreek">πραύναι <sup><small><small>[[G8879]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">αφ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| days | <span class="asgreek">ημερών <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| evil | <span class="asgreek">πονηρών <sup><small><small>[[G4190]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| of which \[time\] | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he should have dug | <span class="asgreek">ορυγή <sup><small><small>[[G3736]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sinner | <span class="asgreek">αμαρτωλώ <sup><small><small>[[G0268]]</small></small></sup> </span> |
-| \[the\] pit | <span class="asgreek">βόθρος <sup><small><small>[[G6679]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to calm | <big><span class="asgreek">πραύναι</span></big> <sup><small><small>[[G8879]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| days | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| evil | <big><span class="asgreek">πονηρών</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| of which \[time\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he should have dug | <big><span class="asgreek">ορυγή</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
+| for the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sinner | <big><span class="asgreek">αμαρτωλώ</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
+| \[the\] pit | <big><span class="asgreek">βόθρος</span></big> <sup><small><small>[[G6679]]</small></small></sup> |
 [[Ps.94.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.12|<< Psalm 94:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.14|Psalm 94:14 >>]]</td></tr></table>
 
 

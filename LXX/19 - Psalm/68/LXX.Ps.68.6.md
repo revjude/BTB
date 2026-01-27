@@ -9,23 +9,23 @@ God settles the lonely in families; He leads the prisoners out to prosperity, bu
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| settles | <span class="asgreek">κατοικίζει <sup><small><small>[[G6052]]</small></small></sup> </span> |
-| simple \[people\] | <span class="asgreek">μονοτρόπους <sup><small><small>[[G8347]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a house; | <span class="asgreek">οίκω <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| leading out | <span class="asgreek">εξάγων <sup><small><small>[[G1806]]</small></small></sup> </span> |
-| \[the prisoners\] being shackled | <span class="asgreek">πεπεδημένους <sup><small><small>[[G8675]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| courage; | <span class="asgreek">ανδρεία <sup><small><small>[[G6326]]</small></small></sup> </span> |
-| in like manner | <span class="asgreek">ομοίως <sup><small><small>[[G3668]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones being greatly embittered, | <span class="asgreek">παραπικραίνοντας <sup><small><small>[[G3893]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">κατοικούντας <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| tombs. | <span class="asgreek">τάφοις <sup><small><small>[[G5028]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| settles | <big><span class="asgreek">κατοικίζει</span></big> <sup><small><small>[[G6052]]</small></small></sup> |
+| simple \[people\] | <big><span class="asgreek">μονοτρόπους</span></big> <sup><small><small>[[G8347]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a house; | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| leading out | <big><span class="asgreek">εξάγων</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
+| \[the prisoners\] being shackled | <big><span class="asgreek">πεπεδημένους</span></big> <sup><small><small>[[G8675]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| courage; | <big><span class="asgreek">ανδρεία</span></big> <sup><small><small>[[G6326]]</small></small></sup> |
+| in like manner | <big><span class="asgreek">ομοίως</span></big> <sup><small><small>[[G3668]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones being greatly embittered, | <big><span class="asgreek">παραπικραίνοντας</span></big> <sup><small><small>[[G3893]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| tombs. | <big><span class="asgreek">τάφοις</span></big> <sup><small><small>[[G5028]]</small></small></sup> |
 [[Ps.68.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.5|<< Psalm 68:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.7|Psalm 68:7 >>]]</td></tr></table>
 
 

@@ -9,27 +9,27 @@ What will you say when He sets over you close allies whom you yourself trained? 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| What | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall you say | <span class="asgreek">ερείς <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| they should visit | <span class="asgreek">επισκέπτωνταί <sup><small><small>[[G1980]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| taught | <span class="asgreek">εδίδαξας <sup><small><small>[[G1321]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| against | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| yourself | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| lessons | <span class="asgreek">μαθήματα <sup><small><small>[[G8227]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| rule | <span class="asgreek">αρχήν <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| Shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| pangs | <span class="asgreek">ωδίνες <sup><small><small>[[G5604]]</small></small></sup> </span> |
-| control | <span class="asgreek">καθέξουσί <sup><small><small>[[G2722]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| a woman | <span class="asgreek">γυναίκα <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| giving birth? | <span class="asgreek">τίκτουσαν <sup><small><small>[[G5088]]</small></small></sup> </span> |
+| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall you say | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| they should visit | <big><span class="asgreek">επισκέπτωνταί</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| taught | <big><span class="asgreek">εδίδαξας</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| yourself | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| lessons | <big><span class="asgreek">μαθήματα</span></big> <sup><small><small>[[G8227]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| rule | <big><span class="asgreek">αρχήν</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| Shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| pangs | <big><span class="asgreek">ωδίνες</span></big> <sup><small><small>[[G5604]]</small></small></sup> |
+| control | <big><span class="asgreek">καθέξουσί</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| a woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| giving birth? | <big><span class="asgreek">τίκτουσαν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
 [[Jer.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.20|<< Jeremiah 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.22|Jeremiah 13:22 >>]]</td></tr></table>
 
 

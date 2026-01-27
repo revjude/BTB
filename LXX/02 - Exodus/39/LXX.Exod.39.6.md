@@ -9,28 +9,28 @@ They mounted the onyx stones in gold filigree settings, engraved like a seal wit
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they made | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| both | <span class="asgreek">αμφοτέρους <sup><small><small>[[G0297]]</small></small></sup> </span> |
-| of the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθους <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of emerald, | <span class="asgreek">σμαράγδου <sup><small><small>[[G4665]]</small></small></sup> </span> |
-| being clasped together | <span class="asgreek">συμπεπορπημένους <sup><small><small>[[G9279]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| being inlaid | <span class="asgreek">περισιαλωμένους <sup><small><small>[[G8752]]</small></small></sup> </span> |
-| in gold, | <span class="asgreek">χρυσίω <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| being carved | <span class="asgreek">γεγλυμμένους <sup><small><small>[[G6747]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| being engraved -- | <span class="asgreek">κεκολαμμένους <sup><small><small>[[G8050]]</small></small></sup> </span> |
-| an engraved | <span class="asgreek">εκκόλαμμα <sup><small><small>[[G7105]]</small></small></sup> </span> |
-| seal | <span class="asgreek">σφραγίδος <sup><small><small>[[G4973]]</small></small></sup> </span> |
-| of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| names | <span class="asgreek">ονομάτων <sup><small><small>[[G3686]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Israel. | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| both | <big><span class="asgreek">αμφοτέρους</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
+| of the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of emerald, | <big><span class="asgreek">σμαράγδου</span></big> <sup><small><small>[[G4665]]</small></small></sup> |
+| being clasped together | <big><span class="asgreek">συμπεπορπημένους</span></big> <sup><small><small>[[G9279]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| being inlaid | <big><span class="asgreek">περισιαλωμένους</span></big> <sup><small><small>[[G8752]]</small></small></sup> |
+| in gold, | <big><span class="asgreek">χρυσίω</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| being carved | <big><span class="asgreek">γεγλυμμένους</span></big> <sup><small><small>[[G6747]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| being engraved -- | <big><span class="asgreek">κεκολαμμένους</span></big> <sup><small><small>[[G8050]]</small></small></sup> |
+| an engraved | <big><span class="asgreek">εκκόλαμμα</span></big> <sup><small><small>[[G7105]]</small></small></sup> |
+| seal | <big><span class="asgreek">σφραγίδος</span></big> <sup><small><small>[[G4973]]</small></small></sup> |
+| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| names | <big><span class="asgreek">ονομάτων</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
 [[Exod.39.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.5|<< Exodus 39:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.7|Exodus 39:7 >>]]</td></tr></table>
 
 

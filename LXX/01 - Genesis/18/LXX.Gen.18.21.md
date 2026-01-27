@@ -9,21 +9,21 @@ I will go down to see if their actions fully justify the outcry that has reached
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Going down | <span class="asgreek">καταβάς <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| then, | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| I will see | <span class="asgreek">όψομαι <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| \[it is\] according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their cry, | <span class="asgreek">κραυγήν <sup><small><small>[[G2906]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the \[cry\]\<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| coming | <span class="asgreek">ερχομένην <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[that\] they exhaust; | <span class="asgreek">συντελούνται <sup><small><small>[[G4931]]</small></small></sup> </span> |
-| and if not, | <span class="asgreek">ει δε μη <sup><small><small>[[G1490]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| I may know. | <span class="asgreek">γνώ <sup><small><small>[[G1097]]</small></small></sup> </span> |
+| Going down | <big><span class="asgreek">καταβάς</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| I will see | <big><span class="asgreek">όψομαι</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| \[it is\] according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their cry, | <big><span class="asgreek">κραυγήν</span></big> <sup><small><small>[[G2906]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the \[cry\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| coming | <big><span class="asgreek">ερχομένην</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[that\] they exhaust; | <big><span class="asgreek">συντελούνται</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
+| and if not, | <big><span class="asgreek">ει δε μη</span></big> <sup><small><small>[[G1490]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| I may know. | <big><span class="asgreek">γνώ</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
 [[Gen.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.20|<< Genesis 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.22|Genesis 18:22 >>]]</td></tr></table>
 
 

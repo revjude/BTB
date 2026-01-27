@@ -9,16 +9,16 @@ The sons of Lotan: Hori and Homam. Timna was Lotan’s sister.<small><sub>**MT:
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Lotan -- | <span class="asgreek">Λωτάν <sup><small><small>[[H3877]]</small></small></sup> </span> |
-| Hori, | <span class="asgreek">Χορρεί <sup><small><small>[[H2753]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Honam; | <span class="asgreek">Ιμάμ <sup><small><small>[[H1950]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sister | <span class="asgreek">αδελφή <sup><small><small>[[G0079]]</small></small></sup> </span> |
-| of Lotan -- | <span class="asgreek">Λωτάν <sup><small><small>[[H3877]]</small></small></sup> </span> |
-| Timna. | <span class="asgreek">Θαμνά <sup><small><small>[[H8556b]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Lotan -- | <big><span class="asgreek">Λωτάν</span></big> <sup><small><small>[[H3877]]</small></small></sup> |
+| Hori, | <big><span class="asgreek">Χορρεί</span></big> <sup><small><small>[[H2753]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Honam; | <big><span class="asgreek">Ιμάμ</span></big> <sup><small><small>[[H1950]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
+| of Lotan -- | <big><span class="asgreek">Λωτάν</span></big> <sup><small><small>[[H3877]]</small></small></sup> |
+| Timna. | <big><span class="asgreek">Θαμνά</span></big> <sup><small><small>[[H8556b]]</small></small></sup> |
 [[1Chr.1.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.38|<< 1 Chronicles 1:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.40|1 Chronicles 1:40 >>]]</td></tr></table>
 
 

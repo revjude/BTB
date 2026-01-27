@@ -13,16 +13,16 @@ They sharpen their tongues like snakes; the venom of vipers is on their lips. Se
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They sharpened | <span class="asgreek">ηκόνησαν <sup><small><small>[[G6193]]</small></small></sup> </span> |
-| their tongue | <span class="asgreek">γλώσσαν <sup><small><small>[[G1100]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| a serpent; | <span class="asgreek">όφεως <sup><small><small>[[G3789]]</small></small></sup> </span> |
-| \[the\] poison | <span class="asgreek">ιός <sup><small><small>[[G2447]]</small></small></sup> </span> |
-| of asps | <span class="asgreek">ασπίδων <sup><small><small>[[G0785]]</small></small></sup> </span> |
-| \[is\] under | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their lips. | <span class="asgreek">χείλη <sup><small><small>[[G5491]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| PAUSE. | <span class="asgreek">διάψαλμα <sup><small><small>[[G6908]]</small></small></sup> </span> |
+| They sharpened | <big><span class="asgreek">ηκόνησαν</span></big> <sup><small><small>[[G6193]]</small></small></sup> |
+| their tongue | <big><span class="asgreek">γλώσσαν</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| a serpent; | <big><span class="asgreek">όφεως</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
+| \[the\] poison | <big><span class="asgreek">ιός</span></big> <sup><small><small>[[G2447]]</small></small></sup> |
+| of asps | <big><span class="asgreek">ασπίδων</span></big> <sup><small><small>[[G0785]]</small></small></sup> |
+| \[is\] under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their lips. | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
 [[Ps.140.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.2|<< Psalm 140:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.4|Psalm 140:4 >>]]</td></tr></table>
 
 

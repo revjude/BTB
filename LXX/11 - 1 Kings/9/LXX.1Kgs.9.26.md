@@ -9,28 +9,28 @@ King Solomon also assembled a fleet of ships at Ezion-geber, which is near Eloth
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| made | <span class="asgreek">εποίησεν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| Solomon | <span class="asgreek">Σολομών <sup><small><small>[[G4672]]</small></small></sup> </span> |
-| a ship | <span class="asgreek">ναύν <sup><small><small>[[G3491]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Ezion | <span class="asgreek">Γασιών <sup><small><small>[[H6100]]</small></small></sup> </span> |
-| Geber, | <span class="asgreek">Γαβέρ <sup><small><small>[[H6100]]</small></small></sup> </span> |
-| the \[city\]\<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being | <span class="asgreek">ούσαν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| next to | <span class="asgreek">εχόμενα <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| Eloth, | <span class="asgreek">Αιλάθ <sup><small><small>[[H0359b]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| edge | <span class="asgreek">χείλους <sup><small><small>[[G5491]]</small></small></sup> </span> |
-| of \[the\] sea | <span class="asgreek">θαλάσσης <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| extreme \[part\], | <span class="asgreek">εσχάτης <sup><small><small>[[G2078]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of Edom. | <span class="asgreek">Εδώμ <sup><small><small>[[H0123]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| Solomon | <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
+| a ship | <big><span class="asgreek">ναύν</span></big> <sup><small><small>[[G3491]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Ezion | <big><span class="asgreek">Γασιών</span></big> <sup><small><small>[[H6100]]</small></small></sup> |
+| Geber, | <big><span class="asgreek">Γαβέρ</span></big> <sup><small><small>[[H6100]]</small></small></sup> |
+| the \[city\]\<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being | <big><span class="asgreek">ούσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| next to | <big><span class="asgreek">εχόμενα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| Eloth, | <big><span class="asgreek">Αιλάθ</span></big> <sup><small><small>[[H0359b]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| edge | <big><span class="asgreek">χείλους</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
+| of \[the\] sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| extreme \[part\], | <big><span class="asgreek">εσχάτης</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of Edom. | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
 [[1Kgs.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.25|<< 1 Kings 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.27|1 Kings 9:27 >>]]</td></tr></table>
 
 

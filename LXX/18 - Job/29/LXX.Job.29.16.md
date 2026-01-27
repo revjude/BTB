@@ -9,15 +9,15 @@ I was a father to the needy, and I took up the case of the stranger.<small><sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| was | <span class="asgreek">ήμην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[the\] father | <span class="asgreek">πατήρ <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of the disabled; | <span class="asgreek">αδυνάτων <sup><small><small>[[G0102]]</small></small></sup> </span> |
-| \[the\] cause | <span class="asgreek">δίκην <sup><small><small>[[G1349]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I knew not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ήδειν <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| I tracked out | <span class="asgreek">εξιχνίασα <sup><small><small>[[G7337]]</small></small></sup> </span> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was | <big><span class="asgreek">ήμην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[the\] father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of the disabled; | <big><span class="asgreek">αδυνάτων</span></big> <sup><small><small>[[G0102]]</small></small></sup> |
+| \[the\] cause | <big><span class="asgreek">δίκην</span></big> <sup><small><small>[[G1349]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I knew not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ήδειν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| I tracked out | <big><span class="asgreek">εξιχνίασα</span></big> <sup><small><small>[[G7337]]</small></small></sup> |
 [[Job.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.15|<< Job 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.17|Job 29:17 >>]]</td></tr></table>
 
 

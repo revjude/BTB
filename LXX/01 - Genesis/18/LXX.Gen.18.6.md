@@ -9,25 +9,25 @@ So Abraham hurried into the tent and said to Sarah, “Quick! Prepare three seah
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Abraham hastened | <span class="asgreek">έσπευσεν <sup><small><small>[[G4692]]</small></small></sup> <span class="asgreek">Αβραάμ <sup><small><small>[[G0011]]</small></small></sup> </span> |
-| unto | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tent | <span class="asgreek">σκηνήν <sup><small><small>[[G4633]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Sarah. | <span class="asgreek">Σάρραν <sup><small><small>[[G4564]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to her, | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Hasten | <span class="asgreek">σπεύσον <sup><small><small>[[G4692]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| mix up | <span class="asgreek">φύρασον <sup><small><small>[[G9681]]</small></small></sup> </span> |
-| three | <span class="asgreek">τρία <sup><small><small>[[G5140]]</small></small></sup> </span> |
-| measures | <span class="asgreek">μέτρα <sup><small><small>[[G3358]]</small></small></sup> </span> |
-| of fine flour, | <span class="asgreek">σεμιδάλεως <sup><small><small>[[G4585]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| make | <span class="asgreek">ποίησον <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| a cake baked in hot ashes! | <span class="asgreek">εγκρυφίας <sup><small><small>[[G7030]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Abraham hastened | <big><span class="asgreek">έσπευσεν</span></big> <sup><small><small>[[G4692]]</small></small></sup> <big><span class="asgreek">Αβραάμ</span></big> <sup><small><small>[[G0011]]</small></small></sup> |
+| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Sarah. | <big><span class="asgreek">Σάρραν</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to her, | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Hasten | <big><span class="asgreek">σπεύσον</span></big> <sup><small><small>[[G4692]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| mix up | <big><span class="asgreek">φύρασον</span></big> <sup><small><small>[[G9681]]</small></small></sup> |
+| three | <big><span class="asgreek">τρία</span></big> <sup><small><small>[[G5140]]</small></small></sup> |
+| measures | <big><span class="asgreek">μέτρα</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
+| of fine flour, | <big><span class="asgreek">σεμιδάλεως</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| make | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| a cake baked in hot ashes! | <big><span class="asgreek">εγκρυφίας</span></big> <sup><small><small>[[G7030]]</small></small></sup> |
 [[Gen.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.5|<< Genesis 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.7|Genesis 18:7 >>]]</td></tr></table>
 
 

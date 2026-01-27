@@ -13,34 +13,34 @@ all the rest of the bull—he must take outside the camp to a ceremonially clean
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall bring forth | <span class="asgreek">εξοίσουσιν <sup><small><small>[[G1627]]</small></small></sup> </span> |
-| \[the\] entire | <span class="asgreek">όλον <sup><small><small>[[G3650]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| calf | <span class="asgreek">μόσχον <sup><small><small>[[G3448]]</small></small></sup> </span> |
-| outside | <span class="asgreek">έξω <sup><small><small>[[G1854]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| camp | <span class="asgreek">παρεμβολής <sup><small><small>[[G3925]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| place | <span class="asgreek">τόπον <sup><small><small>[[G5117]]</small></small></sup> </span> |
-| a clean | <span class="asgreek">καθαρόν <sup><small><small>[[G2513]]</small></small></sup> </span> |
-| where | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| they shall pour out | <span class="asgreek">εκχέουσι <sup><small><small>[[G1632]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ashes. | <span class="asgreek">σποδιάν <sup><small><small>[[G9142]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall incinerate | <span class="asgreek">κατακαύσουσιν <sup><small><small>[[G2618]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| wood | <span class="asgreek">ξύλων <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| fire; | <span class="asgreek">πυρί <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| outpouring | <span class="asgreek">εκχύσεως <sup><small><small>[[G7172]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ashes | <span class="asgreek">σποδιάς <sup><small><small>[[G9142]]</small></small></sup> </span> |
-| it shall be burnt | <span class="asgreek">καυθήσεται <sup><small><small>[[G2545]]</small></small></sup> </span> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall bring forth | <big><span class="asgreek">εξοίσουσιν</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
+| \[the\] entire | <big><span class="asgreek">όλον</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
+| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| camp | <big><span class="asgreek">παρεμβολής</span></big> <sup><small><small>[[G3925]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
+| a clean | <big><span class="asgreek">καθαρόν</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
+| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| they shall pour out | <big><span class="asgreek">εκχέουσι</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ashes. | <big><span class="asgreek">σποδιάν</span></big> <sup><small><small>[[G9142]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall incinerate | <big><span class="asgreek">κατακαύσουσιν</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| wood | <big><span class="asgreek">ξύλων</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| fire; | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| outpouring | <big><span class="asgreek">εκχύσεως</span></big> <sup><small><small>[[G7172]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ashes | <big><span class="asgreek">σποδιάς</span></big> <sup><small><small>[[G9142]]</small></small></sup> |
+| it shall be burnt | <big><span class="asgreek">καυθήσεται</span></big> <sup><small><small>[[G2545]]</small></small></sup> |
 [[Lev.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.11|<< Leviticus 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.13|Leviticus 4:13 >>]]</td></tr></table>
 
 

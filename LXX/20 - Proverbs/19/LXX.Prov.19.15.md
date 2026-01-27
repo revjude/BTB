@@ -9,12 +9,12 @@ Laziness brings on deep sleep, and an idle soul will suffer hunger.<small><sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Dread | <span class="asgreek">δειλία <sup><small><small>[[G1167]]</small></small></sup> </span> |
-| holds down | <span class="asgreek">κατέχει <sup><small><small>[[G2722]]</small></small></sup> </span> |
-| an effeminate \[man\]; | <span class="asgreek">ανδρόγυνον <sup><small><small>[[G6328]]</small></small></sup> </span> |
-| and \[the\] soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of \[the\] idle | <span class="asgreek">αεργού <sup><small><small>[[G6146]]</small></small></sup> </span> |
-| hungers. | <span class="asgreek">πεινάσει <sup><small><small>[[G3983]]</small></small></sup> </span> |
+| Dread | <big><span class="asgreek">δειλία</span></big> <sup><small><small>[[G1167]]</small></small></sup> |
+| holds down | <big><span class="asgreek">κατέχει</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
+| an effeminate \[man\]; | <big><span class="asgreek">ανδρόγυνον</span></big> <sup><small><small>[[G6328]]</small></small></sup> |
+| and \[the\] soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of \[the\] idle | <big><span class="asgreek">αεργού</span></big> <sup><small><small>[[G6146]]</small></small></sup> |
+| hungers. | <big><span class="asgreek">πεινάσει</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
 [[Prov.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.14|<< Proverbs 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.16|Proverbs 19:16 >>]]</td></tr></table>
 
 

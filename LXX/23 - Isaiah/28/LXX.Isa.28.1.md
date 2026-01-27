@@ -12,31 +12,31 @@ Woe to the majestic crown of Ephraim’s drunkards, to the fading flower of his 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Woe | <span class="asgreek">ουαί <sup><small><small>[[G3759]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| crown | <span class="asgreek">στεφάνω <sup><small><small>[[G4735]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of insolence, | <span class="asgreek">ύβρεως <sup><small><small>[[G5196]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hirelings | <span class="asgreek">μισθωτοί <sup><small><small>[[G3411]]</small></small></sup> </span> |
-| of Ephraim, | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| flower, | <span class="asgreek">άνθος <sup><small><small>[[G0438]]</small></small></sup> </span> |
-| the one | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| having fallen | <span class="asgreek">εκπεσόν <sup><small><small>[[G1601]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| glory | <span class="asgreek">δόξης <sup><small><small>[[G1391]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| top | <span class="asgreek">κορυφής <sup><small><small>[[G8073]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mountain | <span class="asgreek">όρους <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thick \[branched\] | <span class="asgreek">παχέος <sup><small><small>[[G8674]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being intoxicated | <span class="asgreek">μεθύοντες <sup><small><small>[[G3184]]</small></small></sup> </span> |
-| without | <span class="asgreek">άνευ <sup><small><small>[[G0427]]</small></small></sup> </span> |
-| wine. | <span class="asgreek">οίνου <sup><small><small>[[G3631]]</small></small></sup> </span> |
+| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| crown | <big><span class="asgreek">στεφάνω</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of insolence, | <big><span class="asgreek">ύβρεως</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hirelings | <big><span class="asgreek">μισθωτοί</span></big> <sup><small><small>[[G3411]]</small></small></sup> |
+| of Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| flower, | <big><span class="asgreek">άνθος</span></big> <sup><small><small>[[G0438]]</small></small></sup> |
+| the one | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| having fallen | <big><span class="asgreek">εκπεσόν</span></big> <sup><small><small>[[G1601]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| glory | <big><span class="asgreek">δόξης</span></big> <sup><small><small>[[G1391]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| top | <big><span class="asgreek">κορυφής</span></big> <sup><small><small>[[G8073]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mountain | <big><span class="asgreek">όρους</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thick \[branched\] | <big><span class="asgreek">παχέος</span></big> <sup><small><small>[[G8674]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being intoxicated | <big><span class="asgreek">μεθύοντες</span></big> <sup><small><small>[[G3184]]</small></small></sup> |
+| without | <big><span class="asgreek">άνευ</span></big> <sup><small><small>[[G0427]]</small></small></sup> |
+| wine. | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
 [[Isa.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.13|<< Isaiah 27:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.2|Isaiah 28:2 >>]]</td></tr></table>
 
 

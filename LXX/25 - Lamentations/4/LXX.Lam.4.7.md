@@ -11,20 +11,20 @@ Her dignitaries were brighter than snow, whiter than milk; their bodies were mor
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΖΑΙΝ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΖΑΙΝ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| were clean | <span class="asgreek">εκαθαριώθησαν <sup><small><small>[[G7752]]</small></small></sup> </span> |
-| Her Nazarites | <span class="asgreek">Ναζαραίοι <sup><small><small>[[H5139]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| more than | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| snow | <span class="asgreek">χιόνα <sup><small><small>[[G5510]]</small></small></sup> </span> |
-| they radiated | <span class="asgreek">έλαμψαν <sup><small><small>[[G2989]]</small></small></sup> </span> |
-| more than | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| milk | <span class="asgreek">γάλα <sup><small><small>[[G1051]]</small></small></sup> </span> |
-| they were purified | <span class="asgreek">επυρώθησαν <sup><small><small>[[G4448]]</small></small></sup> </span> |
-| \[were\] above | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| stone | <span class="asgreek">λίθου <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| of sapphire | <span class="asgreek">σαπφείρου <sup><small><small>[[G4552]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Their broken \[pieces\] | <span class="asgreek">απόσπασμα <sup><small><small>[[G6485]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| ΖΑΙΝ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΖΑΙΝ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| were clean | <big><span class="asgreek">εκαθαριώθησαν</span></big> <sup><small><small>[[G7752]]</small></small></sup> |
+| Her Nazarites | <big><span class="asgreek">Ναζαραίοι</span></big> <sup><small><small>[[H5139]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| more than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| snow | <big><span class="asgreek">χιόνα</span></big> <sup><small><small>[[G5510]]</small></small></sup> |
+| they radiated | <big><span class="asgreek">έλαμψαν</span></big> <sup><small><small>[[G2989]]</small></small></sup> |
+| more than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| milk | <big><span class="asgreek">γάλα</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
+| they were purified | <big><span class="asgreek">επυρώθησαν</span></big> <sup><small><small>[[G4448]]</small></small></sup> |
+| \[were\] above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| stone | <big><span class="asgreek">λίθου</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| of sapphire | <big><span class="asgreek">σαπφείρου</span></big> <sup><small><small>[[G4552]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Their broken \[pieces\] | <big><span class="asgreek">απόσπασμα</span></big> <sup><small><small>[[G6485]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lam.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.6|<< Lamentations 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.8|Lamentations 4:8 >>]]</td></tr></table>
 
 

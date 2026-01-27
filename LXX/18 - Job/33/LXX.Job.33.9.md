@@ -9,14 +9,14 @@ I am clean without transgression, I [am] innocent; neither [is there] iniquity i
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I am pure, | <span class="asgreek">καθαρός <sup><small><small>[[G2513]]</small></small></sup> <span class="asgreek">ειμι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| having sinned; | <span class="asgreek">αμαρτών <sup><small><small>[[G0264]]</small></small></sup> </span> |
-| blameless | <span class="asgreek">άμεμπτος <sup><small><small>[[G0273]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| I am | <span class="asgreek">ειμί <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| for I did not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| act lawlessly. | <span class="asgreek">ηνόμησα <sup><small><small>[[G6349]]</small></small></sup> </span> |
+| I am pure, | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| having sinned; | <big><span class="asgreek">αμαρτών</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| blameless | <big><span class="asgreek">άμεμπτος</span></big> <sup><small><small>[[G0273]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| I am | <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| for I did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| act lawlessly. | <big><span class="asgreek">ηνόμησα</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
 [[Job.33.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.8|<< Job 33:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.10|Job 33:10 >>]]</td></tr></table>
 
 

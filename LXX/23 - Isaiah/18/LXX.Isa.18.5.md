@@ -9,31 +9,31 @@ For before the harvest, when the blossom is gone and the flower becomes a ripeni
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Before | <span class="asgreek">προ <sup><small><small>[[G4253]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| harvest, | <span class="asgreek">θερισμού <sup><small><small>[[G2326]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| should be completely \[formed\] | <span class="asgreek">συντελεσθή <sup><small><small>[[G4931]]</small></small></sup> </span> |
-| \[the\] flower | <span class="asgreek">άνθος <sup><small><small>[[G0438]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] unripe grape | <span class="asgreek">όμφαξ <sup><small><small>[[G8515]]</small></small></sup> </span> |
-| should blossom | <span class="asgreek">εξανθήση <sup><small><small>[[G7296]]</small></small></sup> </span> |
-| a flower | <span class="asgreek">άνθος <sup><small><small>[[G0438]]</small></small></sup> </span> |
-| being sour, | <span class="asgreek">ομφακίζουσα <sup><small><small>[[G8513]]</small></small></sup> </span> |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall remove | <span class="asgreek">αφελεί <sup><small><small>[[G0851]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| grape-clusters | <span class="asgreek">βοτρύδια <sup><small><small>[[G6687]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| small | <span class="asgreek">μικρά <sup><small><small>[[G3398]]</small></small></sup> </span> |
-| with the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[pruning\] sickles; | <span class="asgreek">δρεπάνοις <sup><small><small>[[G1407]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| small vine branches | <span class="asgreek">κληματίδας <sup><small><small>[[G8020]]</small></small></sup> </span> |
-| he shall remove | <span class="asgreek">αφελεί <sup><small><small>[[G0851]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall cut off. | <span class="asgreek">αποκόψει <sup><small><small>[[G0609]]</small></small></sup> </span> |
+| Before | <big><span class="asgreek">προ</span></big> <sup><small><small>[[G4253]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| harvest, | <big><span class="asgreek">θερισμού</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| should be completely \[formed\] | <big><span class="asgreek">συντελεσθή</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
+| \[the\] flower | <big><span class="asgreek">άνθος</span></big> <sup><small><small>[[G0438]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] unripe grape | <big><span class="asgreek">όμφαξ</span></big> <sup><small><small>[[G8515]]</small></small></sup> |
+| should blossom | <big><span class="asgreek">εξανθήση</span></big> <sup><small><small>[[G7296]]</small></small></sup> |
+| a flower | <big><span class="asgreek">άνθος</span></big> <sup><small><small>[[G0438]]</small></small></sup> |
+| being sour, | <big><span class="asgreek">ομφακίζουσα</span></big> <sup><small><small>[[G8513]]</small></small></sup> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall remove | <big><span class="asgreek">αφελεί</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| grape-clusters | <big><span class="asgreek">βοτρύδια</span></big> <sup><small><small>[[G6687]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| small | <big><span class="asgreek">μικρά</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| with the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[pruning\] sickles; | <big><span class="asgreek">δρεπάνοις</span></big> <sup><small><small>[[G1407]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| small vine branches | <big><span class="asgreek">κληματίδας</span></big> <sup><small><small>[[G8020]]</small></small></sup> |
+| he shall remove | <big><span class="asgreek">αφελεί</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall cut off. | <big><span class="asgreek">αποκόψει</span></big> <sup><small><small>[[G0609]]</small></small></sup> |
 [[Isa.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.18.4|<< Isaiah 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.18.6|Isaiah 18:6 >>]]</td></tr></table>
 
 

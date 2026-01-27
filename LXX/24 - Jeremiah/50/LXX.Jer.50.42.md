@@ -9,31 +9,31 @@ They grasp the bow and spear; they are cruel and merciless. Their voice roars li
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| a bow | <span class="asgreek">τόξον <sup><small><small>[[G5115]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a knife | <span class="asgreek">εγχειρίδιον <sup><small><small>[[G7038]]</small></small></sup> </span> |
-| They are holding | <span class="asgreek">έχοντες <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| They are audacious, | <span class="asgreek">ιταμός <sup><small><small>[[G7739]]</small></small></sup> <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall they show mercy. | <span class="asgreek">ελεήση <sup><small><small>[[G1653]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Their voice | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] sea | <span class="asgreek">θάλασσα <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| shall sound | <span class="asgreek">ηχήσει <sup><small><small>[[G2278]]</small></small></sup> </span> |
-| Upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| horses | <span class="asgreek">ίπποις <sup><small><small>[[G2462]]</small></small></sup> </span> |
-| they shall ride, | <span class="asgreek">ιππάσονται <sup><small><small>[[G7725]]</small></small></sup> </span> |
-| being prepared | <span class="asgreek">παρεσκευασμένοι <sup><small><small>[[G3903]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| fire | <span class="asgreek">πυρ <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| war | <span class="asgreek">πόλεμον <sup><small><small>[[G4171]]</small></small></sup> </span> |
-| against | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O daughter | <span class="asgreek">θυγάτηρ <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Babylon. | <span class="asgreek">Βαβυλώνος <sup><small><small>[[G0897]]</small></small></sup> </span> |
+| a bow | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a knife | <big><span class="asgreek">εγχειρίδιον</span></big> <sup><small><small>[[G7038]]</small></small></sup> |
+| They are holding | <big><span class="asgreek">έχοντες</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| They are audacious, | <big><span class="asgreek">ιταμός</span></big> <sup><small><small>[[G7739]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall they show mercy. | <big><span class="asgreek">ελεήση</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Their voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| shall sound | <big><span class="asgreek">ηχήσει</span></big> <sup><small><small>[[G2278]]</small></small></sup> |
+| Upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| horses | <big><span class="asgreek">ίπποις</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| they shall ride, | <big><span class="asgreek">ιππάσονται</span></big> <sup><small><small>[[G7725]]</small></small></sup> |
+| being prepared | <big><span class="asgreek">παρεσκευασμένοι</span></big> <sup><small><small>[[G3903]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| war | <big><span class="asgreek">πόλεμον</span></big> <sup><small><small>[[G4171]]</small></small></sup> |
+| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Babylon. | <big><span class="asgreek">Βαβυλώνος</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
 [[Jer.50.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.41|<< Jeremiah 50:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.43|Jeremiah 50:43 >>]]</td></tr></table>
 
 

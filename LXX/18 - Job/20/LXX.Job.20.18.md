@@ -9,20 +9,20 @@ He must return the fruit of his labor without consuming it; he cannot enjoy the 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| in emptiness | <span class="asgreek">κενά <sup><small><small>[[G2756]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| vanity | <span class="asgreek">μάταια <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| he tired | <span class="asgreek">εκοπίασε <sup><small><small>[[G2872]]</small></small></sup> </span> |
-| for riches | <span class="asgreek">πλούτον <sup><small><small>[[G4149]]</small></small></sup> </span> |
-| of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| which | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| taste; | <span class="asgreek">γεύσεται <sup><small><small>[[G1089]]</small></small></sup> </span> |
-| \[it is\] as if | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| tough, | <span class="asgreek">στρίφνος <sup><small><small>[[G9201]]</small></small></sup> </span> |
-| unchewable, | <span class="asgreek">αμάσητος <sup><small><small>[[G6250]]</small></small></sup> </span> |
-| \[and\] impotable. | <span class="asgreek">ακατάποτος <sup><small><small>[[G6180]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| in emptiness | <big><span class="asgreek">κενά</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| vanity | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| he tired | <big><span class="asgreek">εκοπίασε</span></big> <sup><small><small>[[G2872]]</small></small></sup> |
+| for riches | <big><span class="asgreek">πλούτον</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
+| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| which | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| taste; | <big><span class="asgreek">γεύσεται</span></big> <sup><small><small>[[G1089]]</small></small></sup> |
+| \[it is\] as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| tough, | <big><span class="asgreek">στρίφνος</span></big> <sup><small><small>[[G9201]]</small></small></sup> |
+| unchewable, | <big><span class="asgreek">αμάσητος</span></big> <sup><small><small>[[G6250]]</small></small></sup> |
+| \[and\] impotable. | <big><span class="asgreek">ακατάποτος</span></big> <sup><small><small>[[G6180]]</small></small></sup> |
 [[Job.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.17|<< Job 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.19|Job 20:19 >>]]</td></tr></table>
 
 

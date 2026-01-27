@@ -9,16 +9,16 @@ In the midst of his plenty, he will be distressed; the full force of misery will
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| it should seem | <span class="asgreek">δοκή <sup><small><small>[[G1380]]</small></small></sup> </span> |
-| urgent | <span class="asgreek">ήδη <sup><small><small>[[G2235]]</small></small></sup> </span> |
-| to accomplish \[something\], | <span class="asgreek">πεπληρώσθαι <sup><small><small>[[G4137]]</small></small></sup> </span> |
-| he shall be afflicted; | <span class="asgreek">θλιβήσεται <sup><small><small>[[G2346]]</small></small></sup> </span> |
-| and all | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| distress | <span class="asgreek">ανάγκη <sup><small><small>[[G0318]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall come | <span class="asgreek">επελεύσεται <sup><small><small>[[G1904]]</small></small></sup> </span> |
+| And whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| it should seem | <big><span class="asgreek">δοκή</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
+| urgent | <big><span class="asgreek">ήδη</span></big> <sup><small><small>[[G2235]]</small></small></sup> |
+| to accomplish \[something\], | <big><span class="asgreek">πεπληρώσθαι</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
+| he shall be afflicted; | <big><span class="asgreek">θλιβήσεται</span></big> <sup><small><small>[[G2346]]</small></small></sup> |
+| and all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| distress | <big><span class="asgreek">ανάγκη</span></big> <sup><small><small>[[G0318]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall come | <big><span class="asgreek">επελεύσεται</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
 [[Job.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.21|<< Job 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.23|Job 20:23 >>]]</td></tr></table>
 
 

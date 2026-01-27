@@ -9,16 +9,16 @@ Joel, Jehu son of Joshibiah (son of Seraiah, son of Asiel),<small><sub>**MT:**<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Joel, | <span class="asgreek">Ιωήλ <sup><small><small>[[G2493]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jehu | <span class="asgreek">Ηού <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Josibiah, | <span class="asgreek">Ιωσαβία <sup><small><small>[[H3143]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Seraiah, | <span class="asgreek">Σαρέα <sup><small><small>[[H8304]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Asiel, | <span class="asgreek">Ασιήλ <sup><small><small>[[H6221]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Joel, | <big><span class="asgreek">Ιωήλ</span></big> <sup><small><small>[[G2493]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jehu | <big><span class="asgreek">Ηού</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Josibiah, | <big><span class="asgreek">Ιωσαβία</span></big> <sup><small><small>[[H3143]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Seraiah, | <big><span class="asgreek">Σαρέα</span></big> <sup><small><small>[[H8304]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Asiel, | <big><span class="asgreek">Ασιήλ</span></big> <sup><small><small>[[H6221]]</small></small></sup> |
 [[1Chr.4.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.34|<< 1 Chronicles 4:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.36|1 Chronicles 4:36 >>]]</td></tr></table>
 
 

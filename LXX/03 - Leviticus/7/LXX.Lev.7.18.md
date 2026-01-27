@@ -9,35 +9,35 @@ If any of the meat from his peace offering is eaten on the third day, it will no
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| in eating | <span class="asgreek">φαγών <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| he should eat | <span class="asgreek">φαγή <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| meats | <span class="asgreek">κρεών <sup><small><small>[[G2907]]</small></small></sup> </span> |
-| of the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| third | <span class="asgreek">τρίτη <sup><small><small>[[G5154]]</small></small></sup> </span> |
-| it shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be accepted | <span class="asgreek">δεχθήσεται <sup><small><small>[[G1209]]</small></small></sup> </span> |
-| to the one | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| offering | <span class="asgreek">προσφέροντι <sup><small><small>[[G4374]]</small></small></sup> </span> |
-| it; | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| it shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be imputed | <span class="asgreek">λογισθήσεται <sup><small><small>[[G3049]]</small></small></sup> </span> |
-| to him -- | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| it is a defilement, | <span class="asgreek">μίασμά <sup><small><small>[[G3393]]</small></small></sup> <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| who | <span class="asgreek">ήτις <sup><small><small>[[G3748]]</small></small></sup> </span> |
-| should | <span class="asgreek">εαν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| eat | <span class="asgreek">φαγή <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| of | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sin | <span class="asgreek">αμαρτίαν <sup><small><small>[[G0266]]</small></small></sup> </span> |
-| he shall bear | <span class="asgreek">λήψεται <sup><small><small>[[G2983]]</small></small></sup> </span> |
+| And if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| in eating | <big><span class="asgreek">φαγών</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| he should eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| meats | <big><span class="asgreek">κρεών</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
+| of the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| third | <big><span class="asgreek">τρίτη</span></big> <sup><small><small>[[G5154]]</small></small></sup> |
+| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be accepted | <big><span class="asgreek">δεχθήσεται</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
+| to the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| offering | <big><span class="asgreek">προσφέροντι</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
+| it; | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| it shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be imputed | <big><span class="asgreek">λογισθήσεται</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
+| to him -- | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| it is a defilement, | <big><span class="asgreek">μίασμά</span></big> <sup><small><small>[[G3393]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| who | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
+| should | <big><span class="asgreek">εαν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| eat | <big><span class="asgreek">φαγή</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| of | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| he shall bear | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
 [[Lev.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.17|<< Leviticus 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.19|Leviticus 7:19 >>]]</td></tr></table>
 
 

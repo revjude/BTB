@@ -12,27 +12,27 @@ If thou hast run with the footmen, and they have wearied thee, then how canst th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| feet | <span class="asgreek">πόδες <sup><small><small>[[G4228]]</small></small></sup> </span> |
-| run, | <span class="asgreek">τρέχουσι <sup><small><small>[[G5143]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they cause you to faint. | <span class="asgreek">εκλύουσί <sup><small><small>[[G1590]]</small></small></sup> <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| How | <span class="asgreek">πως <sup><small><small>[[G4459]]</small></small></sup> </span> |
-| will you make preparations | <span class="asgreek">παρασκευάση <sup><small><small>[[G3903]]</small></small></sup> </span> |
-| \[to ride\] upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| horses? | <span class="asgreek">ίπποις <sup><small><small>[[G2462]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of your peace | <span class="asgreek">ειρήνης <sup><small><small>[[G1515]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you have relied | <span class="asgreek">πέποιθας <sup><small><small>[[G3982]]</small></small></sup> </span> |
-| How | <span class="asgreek">πως <sup><small><small>[[G4459]]</small></small></sup> </span> |
-| will you do | <span class="asgreek">ποιήσεις <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] neighing | <span class="asgreek">φρυάγματι <sup><small><small>[[G9668]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jordan? | <span class="asgreek">Ιορδάνου <sup><small><small>[[G2446]]</small></small></sup> </span> |
+| Your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| feet | <big><span class="asgreek">πόδες</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
+| run, | <big><span class="asgreek">τρέχουσι</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they cause you to faint. | <big><span class="asgreek">εκλύουσί</span></big> <sup><small><small>[[G1590]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| How | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
+| will you make preparations | <big><span class="asgreek">παρασκευάση</span></big> <sup><small><small>[[G3903]]</small></small></sup> |
+| \[to ride\] upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| horses? | <big><span class="asgreek">ίπποις</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of your peace | <big><span class="asgreek">ειρήνης</span></big> <sup><small><small>[[G1515]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you have relied | <big><span class="asgreek">πέποιθας</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
+| How | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
+| will you do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] neighing | <big><span class="asgreek">φρυάγματι</span></big> <sup><small><small>[[G9668]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jordan? | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
 [[Jer.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.4|<< Jeremiah 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.6|Jeremiah 12:6 >>]]</td></tr></table>
 
 

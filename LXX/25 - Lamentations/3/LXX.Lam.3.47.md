@@ -9,14 +9,14 @@ Panic and pitfall have come upon us—devastation and destruction.<small><sub>*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Fear | <span class="asgreek">φόβος <sup><small><small>[[G5401]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| stupefaction | <span class="asgreek">θάμβος <sup><small><small>[[G2285]]</small></small></sup> </span> |
-| was | <span class="asgreek">εγενήθη <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| to us; | <span class="asgreek">ημίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| haughtiness | <span class="asgreek">έπαρσις <sup><small><small>[[G7371]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| destruction. | <span class="asgreek">συντριβή <sup><small><small>[[G9340]]</small></small></sup> </span> |
+| Fear | <big><span class="asgreek">φόβος</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| stupefaction | <big><span class="asgreek">θάμβος</span></big> <sup><small><small>[[G2285]]</small></small></sup> |
+| was | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| to us; | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| haughtiness | <big><span class="asgreek">έπαρσις</span></big> <sup><small><small>[[G7371]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| destruction. | <big><span class="asgreek">συντριβή</span></big> <sup><small><small>[[G9340]]</small></small></sup> |
 [[Lam.3.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.46|<< Lamentations 3:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.48|Lamentations 3:48 >>]]</td></tr></table>
 
 

@@ -9,12 +9,12 @@ the son of Hashabiah, the son of Amaziah, the son of Hilkiah,<small><sub>**MT:*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Hashabiah, | <span class="asgreek">Ασαβία <sup><small><small>[[H2811]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Amaziah | <span class="asgreek">Αμασία <sup><small><small>[[H0558]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Helkiah | <span class="asgreek">Χελκία <sup><small><small>[[H2518]]</small></small></sup> </span> |
+| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Hashabiah, | <big><span class="asgreek">Ασαβία</span></big> <sup><small><small>[[H2811]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Amaziah | <big><span class="asgreek">Αμασία</span></big> <sup><small><small>[[H0558]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Helkiah | <big><span class="asgreek">Χελκία</span></big> <sup><small><small>[[H2518]]</small></small></sup> |
 [[1Chr.6.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.44|<< 1 Chronicles 6:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.46|1 Chronicles 6:46 >>]]</td></tr></table>
 
 

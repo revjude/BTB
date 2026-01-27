@@ -9,26 +9,26 @@ When I lie down I think: ‘When will I get up?’ But the night drags on, and I
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| When | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| I should go to bed, | <span class="asgreek">κοιμηθώ <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| I say, | <span class="asgreek">λέγω <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| When \[will it be\] | <span class="asgreek">πότε <sup><small><small>[[G4219]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day? | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| and | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> <span class="asgreek">δ΄ <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| I rise up, | <span class="asgreek">αναστώ <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| again \[I say\], | <span class="asgreek">πάλιν <sup><small><small>[[G3825]]</small></small></sup> </span> |
-| When | <span class="asgreek">πότε <sup><small><small>[[G4219]]</small></small></sup> </span> |
-| \[will it be\] evening? | <span class="asgreek">εσπέρα <sup><small><small>[[G2073]]</small></small></sup> </span> |
-| full | <span class="asgreek">πλήρης <sup><small><small>[[G4134]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| I am | <span class="asgreek">γίνομαι <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| of griefs, | <span class="asgreek">οδυνών <sup><small><small>[[G3601]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| evening | <span class="asgreek">εσπέρας <sup><small><small>[[G2073]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| morning. | <span class="asgreek">πρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
+| When | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| I should go to bed, | <big><span class="asgreek">κοιμηθώ</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| I say, | <big><span class="asgreek">λέγω</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| When \[will it be\] | <big><span class="asgreek">πότε</span></big> <sup><small><small>[[G4219]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day? | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| and | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">δ΄</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| I rise up, | <big><span class="asgreek">αναστώ</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| again \[I say\], | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
+| When | <big><span class="asgreek">πότε</span></big> <sup><small><small>[[G4219]]</small></small></sup> |
+| \[will it be\] evening? | <big><span class="asgreek">εσπέρα</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
+| full | <big><span class="asgreek">πλήρης</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| I am | <big><span class="asgreek">γίνομαι</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| of griefs, | <big><span class="asgreek">οδυνών</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| morning. | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
 [[Job.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.3|<< Job 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.5|Job 7:5 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ A man or a woman who is a medium or spiritist must surely be put to death. They 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| woman | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| of them should become | <span class="asgreek">γένηται <sup><small><small>[[G1096]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a deliverer of oracles | <span class="asgreek">εγγαστρίμυθος <sup><small><small>[[G6995]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| enchanter, | <span class="asgreek">επαοιδός <sup><small><small>[[G7368]]</small></small></sup> </span> |
-| to death | <span class="asgreek">θανάτω <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| let them be put to death -- | <span class="asgreek">θανατούσθωσαν <sup><small><small>[[G2289]]</small></small></sup> </span> |
-| both! | <span class="asgreek">αμφότεροι <sup><small><small>[[G0297]]</small></small></sup> </span> |
-| By stones | <span class="asgreek">λίθοις <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| stone | <span class="asgreek">λιθοβολήσετε <sup><small><small>[[G3036]]</small></small></sup> </span> |
-| them! | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they are liable. | <span class="asgreek">ένοχοί <sup><small><small>[[G1777]]</small></small></sup> <span class="asgreek">εισι <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| of them should become | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a deliverer of oracles | <big><span class="asgreek">εγγαστρίμυθος</span></big> <sup><small><small>[[G6995]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| enchanter, | <big><span class="asgreek">επαοιδός</span></big> <sup><small><small>[[G7368]]</small></small></sup> |
+| to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| let them be put to death -- | <big><span class="asgreek">θανατούσθωσαν</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
+| both! | <big><span class="asgreek">αμφότεροι</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
+| By stones | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| stone | <big><span class="asgreek">λιθοβολήσετε</span></big> <sup><small><small>[[G3036]]</small></small></sup> |
+| them! | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they are liable. | <big><span class="asgreek">ένοχοί</span></big> <sup><small><small>[[G1777]]</small></small></sup> <big><span class="asgreek">εισι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Lev.20.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.26|<< Leviticus 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.1|Leviticus 21:1 >>]]</td></tr></table>
 
 

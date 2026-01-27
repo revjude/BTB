@@ -9,15 +9,15 @@ By me kings reign, and rulers enact just laws;<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| By | <span class="asgreek">δι΄ <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| kings | <span class="asgreek">βασιλείς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| reign, | <span class="asgreek">βασιλεύουσι <sup><small><small>[[G0936]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mighty ones | <span class="asgreek">δυνάσται <sup><small><small>[[G1413]]</small></small></sup> </span> |
-| write | <span class="asgreek">γράφουσι <sup><small><small>[[G1125]]</small></small></sup> </span> |
-| righteousness. | <span class="asgreek">δικαιοσύνην <sup><small><small>[[G1343]]</small></small></sup> </span> |
+| By | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| reign, | <big><span class="asgreek">βασιλεύουσι</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mighty ones | <big><span class="asgreek">δυνάσται</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
+| write | <big><span class="asgreek">γράφουσι</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| righteousness. | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
 [[Prov.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.14|<< Proverbs 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.16|Proverbs 8:16 >>]]</td></tr></table>
 
 

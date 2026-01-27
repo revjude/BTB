@@ -9,17 +9,17 @@ But you too will be shattered and lie down among the uncircumcised, with those s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] midst | <span class="asgreek">μέσω <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| of \[the\] uncircumcised | <span class="asgreek">απεριτμήτων <sup><small><small>[[G0564]]</small></small></sup> </span> |
-| shall be destroyed | <span class="asgreek">συντριβήση <sup><small><small>[[G4937]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall sleep | <span class="asgreek">κοιμηθήση <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \[the\] ones being slain | <span class="asgreek">τετραυματισμένων <sup><small><small>[[G5135]]</small></small></sup> </span> |
-| by sword. | <span class="asgreek">μαχαίρα <sup><small><small>[[G3162]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| of \[the\] uncircumcised | <big><span class="asgreek">απεριτμήτων</span></big> <sup><small><small>[[G0564]]</small></small></sup> |
+| shall be destroyed | <big><span class="asgreek">συντριβήση</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall sleep | <big><span class="asgreek">κοιμηθήση</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \[the\] ones being slain | <big><span class="asgreek">τετραυματισμένων</span></big> <sup><small><small>[[G5135]]</small></small></sup> |
+| by sword. | <big><span class="asgreek">μαχαίρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
 [[Ezek.32.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.27|<< Ezekiel 32:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.29|Ezekiel 32:29 >>]]</td></tr></table>
 
 

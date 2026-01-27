@@ -9,18 +9,18 @@ He provides food for the animals, and for the young ravens when they call.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| giving | <span class="asgreek">διδόντι <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cattle | <span class="asgreek">κτήνεσι <sup><small><small>[[G2934]]</small></small></sup> </span> |
-| their nourishment, | <span class="asgreek">τροφήν <sup><small><small>[[G5160]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| young | <span class="asgreek">νεοσσοίς <sup><small><small>[[G3502]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| crows -- | <span class="asgreek">κοράκων <sup><small><small>[[G2876]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| calling upon | <span class="asgreek">επικαλουμένοις <sup><small><small>[[G1941]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| giving | <big><span class="asgreek">διδόντι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cattle | <big><span class="asgreek">κτήνεσι</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| their nourishment, | <big><span class="asgreek">τροφήν</span></big> <sup><small><small>[[G5160]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| young | <big><span class="asgreek">νεοσσοίς</span></big> <sup><small><small>[[G3502]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| crows -- | <big><span class="asgreek">κοράκων</span></big> <sup><small><small>[[G2876]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| calling upon | <big><span class="asgreek">επικαλουμένοις</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.147.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.8|<< Psalm 147:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.10|Psalm 147:10 >>]]</td></tr></table>
 
 

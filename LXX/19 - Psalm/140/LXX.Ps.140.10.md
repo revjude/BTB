@@ -9,19 +9,19 @@ May burning coals fall on them; may they be thrown into the fire, into the miry 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| shall fall | <span class="asgreek">πεσούνται <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Coals | <span class="asgreek">άνθρακες <sup><small><small>[[G0440]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| fire | <span class="asgreek">πυρί <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| you shall throw | <span class="asgreek">καταβαλείς <sup><small><small>[[G2598]]</small></small></sup> </span> |
-| them down | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| miseries, | <span class="asgreek">ταλαιπωρίαις <sup><small><small>[[G5004]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| should they stand. | <span class="asgreek">υποστώσιν <sup><small><small>[[G9609]]</small></small></sup> </span> |
+| shall fall | <big><span class="asgreek">πεσούνται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Coals | <big><span class="asgreek">άνθρακες</span></big> <sup><small><small>[[G0440]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| fire | <big><span class="asgreek">πυρί</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| you shall throw | <big><span class="asgreek">καταβαλείς</span></big> <sup><small><small>[[G2598]]</small></small></sup> |
+| them down | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| miseries, | <big><span class="asgreek">ταλαιπωρίαις</span></big> <sup><small><small>[[G5004]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| should they stand. | <big><span class="asgreek">υποστώσιν</span></big> <sup><small><small>[[G9609]]</small></small></sup> |
 [[Ps.140.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.9|<< Psalm 140:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.11|Psalm 140:11 >>]]</td></tr></table>
 
 

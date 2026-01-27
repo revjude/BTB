@@ -9,20 +9,20 @@ Acquitting the guilty and condemning the righteous—both are detestable to the 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The one who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \[as\] just | <span class="asgreek">δίκαιον <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| judges | <span class="asgreek">κρίνει <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| unjust | <span class="asgreek">άδικον <sup><small><small>[[G0094]]</small></small></sup> </span> |
-| \[as\] unjust | <span class="asgreek">άδικον <sup><small><small>[[G0094]]</small></small></sup> </span> |
-| or | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| just | <span class="asgreek">δίκαιον <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| \[is\] unclean | <span class="asgreek">ακάθαρτος <sup><small><small>[[G0169]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| abominable | <span class="asgreek">βδελυκτός <sup><small><small>[[G0947]]</small></small></sup> </span> |
-| before | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| God. | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> </span> |
+| The one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \[as\] just | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| judges | <big><span class="asgreek">κρίνει</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| unjust | <big><span class="asgreek">άδικον</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
+| \[as\] unjust | <big><span class="asgreek">άδικον</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
+| or | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| just | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| \[is\] unclean | <big><span class="asgreek">ακάθαρτος</span></big> <sup><small><small>[[G0169]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| abominable | <big><span class="asgreek">βδελυκτός</span></big> <sup><small><small>[[G0947]]</small></small></sup> |
+| before | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| God. | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
 [[Prov.17.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.14|<< Proverbs 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.16|Proverbs 17:16 >>]]</td></tr></table>
 
 

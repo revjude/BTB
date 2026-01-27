@@ -14,16 +14,16 @@ For the choirmaster. A Maskil of David. After Doeg the Edomite went to Saul and 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Why | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| do you boast | <span class="asgreek">εγκαυχά <sup><small><small>[[G7013]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| evil, | <span class="asgreek">κακία <sup><small><small>[[G2549]]</small></small></sup> </span> |
-| O | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mighty \[man\], | <span class="asgreek">δυνατός <sup><small><small>[[G1415]]</small></small></sup> </span> |
-| \[with\] lawlessness | <span class="asgreek">ανομίαν <sup><small><small>[[G0458]]</small></small></sup> </span> |
-| \[the\] entire | <span class="asgreek">όλην <sup><small><small>[[G3650]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day? | <span class="asgreek">ημέραν <sup><small><small>[[G2250]]</small></small></sup> </span> |
+| Why | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| do you boast | <big><span class="asgreek">εγκαυχά</span></big> <sup><small><small>[[G7013]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| evil, | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
+| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mighty \[man\], | <big><span class="asgreek">δυνατός</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| \[with\] lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| \[the\] entire | <big><span class="asgreek">όλην</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day? | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
 [[Ps.52.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.19|<< Psalm 51:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.52.2|Psalm 52:2 >>]]</td></tr></table>
 
 

@@ -12,31 +12,31 @@ Hear this word, you cows of Bashan on Mount Samaria, you women who oppress the p
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Hear | <span class="asgreek">ακούσατε <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this word, | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| O heifers | <span class="asgreek">δαμάλεις <sup><small><small>[[G1151]]</small></small></sup> </span> |
-| of the \[land\]\<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Bashan! | <span class="asgreek">Βασάν <sup><small><small>[[H1316]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mountain | <span class="asgreek">όρει <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| of Samaria, | <span class="asgreek">Σαμαρείας <sup><small><small>[[G4541]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tyrannizing over | <span class="asgreek">καταδυναστεύουσαι <sup><small><small>[[G2616]]</small></small></sup> </span> |
-| \[the\] poor, | <span class="asgreek">πτωχούς <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| trampling upon | <span class="asgreek">καταπατούσαι <sup><small><small>[[G2662]]</small></small></sup> </span> |
-| \[the\] needy; | <span class="asgreek">πένητας <sup><small><small>[[G3993]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| saying | <span class="asgreek">λέγουσαι <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to their masters, | <span class="asgreek">κυρίοις <sup><small><small>[[G2962]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Give over | <span class="asgreek">επίδοτε <sup><small><small>[[G1929]]</small></small></sup> </span> |
-| to us | <span class="asgreek">ημίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| so that | <span class="asgreek">όπως <sup><small><small>[[G3704]]</small></small></sup> </span> |
-| we should drink! | <span class="asgreek">πίωμεν <sup><small><small>[[G4095]]</small></small></sup> </span> |
+| Hear | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this word, | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| O heifers | <big><span class="asgreek">δαμάλεις</span></big> <sup><small><small>[[G1151]]</small></small></sup> |
+| of the \[land\]\<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Bashan! | <big><span class="asgreek">Βασάν</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
+| the ones | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mountain | <big><span class="asgreek">όρει</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| of Samaria, | <big><span class="asgreek">Σαμαρείας</span></big> <sup><small><small>[[G4541]]</small></small></sup> |
+| the ones | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tyrannizing over | <big><span class="asgreek">καταδυναστεύουσαι</span></big> <sup><small><small>[[G2616]]</small></small></sup> |
+| \[the\] poor, | <big><span class="asgreek">πτωχούς</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| trampling upon | <big><span class="asgreek">καταπατούσαι</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
+| \[the\] needy; | <big><span class="asgreek">πένητας</span></big> <sup><small><small>[[G3993]]</small></small></sup> |
+| the ones | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| saying | <big><span class="asgreek">λέγουσαι</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to their masters, | <big><span class="asgreek">κυρίοις</span></big> <sup><small><small>[[G2962]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Give over | <big><span class="asgreek">επίδοτε</span></big> <sup><small><small>[[G1929]]</small></small></sup> |
+| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
+| we should drink! | <big><span class="asgreek">πίωμεν</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
 [[Amos.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.15|<< Amos 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.2|Amos 4:2 >>]]</td></tr></table>
 
 

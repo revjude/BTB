@@ -9,21 +9,21 @@ The number of all the males a month old or more was 7,500.<small><sub>**MT:**</
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their numbering | <span class="asgreek">επίσκεψις <sup><small><small>[[G7448]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \[the\] number | <span class="asgreek">αριθμόν <sup><small><small>[[G0706]]</small></small></sup> </span> |
-| of every | <span class="asgreek">παντός <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| male | <span class="asgreek">αρσενικού <sup><small><small>[[G6544]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| a month | <span class="asgreek">μηνιαίου <sup><small><small>[[G8317]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| up | <span class="asgreek">επάνω <sup><small><small>[[G1883]]</small></small></sup> </span> |
-| \[in\]\<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their numbering -- | <span class="asgreek">επίσκεψις <sup><small><small>[[G7448]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| seven thousand | <span class="asgreek">επτακισχίλιοι <sup><small><small>[[G2035]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| five hundred. | <span class="asgreek">πεντακόσιοι <sup><small><small>[[G4001]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their numbering | <big><span class="asgreek">επίσκεψις</span></big> <sup><small><small>[[G7448]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \[the\] number | <big><span class="asgreek">αριθμόν</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
+| of every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| male | <big><span class="asgreek">αρσενικού</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| a month | <big><span class="asgreek">μηνιαίου</span></big> <sup><small><small>[[G8317]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| up | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
+| \[in\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their numbering -- | <big><span class="asgreek">επίσκεψις</span></big> <sup><small><small>[[G7448]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| seven thousand | <big><span class="asgreek">επτακισχίλιοι</span></big> <sup><small><small>[[G2035]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| five hundred. | <big><span class="asgreek">πεντακόσιοι</span></big> <sup><small><small>[[G4001]]</small></small></sup> |
 [[Num.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.21|<< Numbers 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.23|Numbers 3:23 >>]]</td></tr></table>
 
 

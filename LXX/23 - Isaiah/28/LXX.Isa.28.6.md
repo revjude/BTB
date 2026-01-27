@@ -9,17 +9,17 @@ a spirit of justice to him who sits in judgment, and a strength to those who rep
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall be left behind | <span class="asgreek">καταλειφθήσονται <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| spirit | <span class="asgreek">πνεύματι <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| of equity | <span class="asgreek">κρίσεως <sup><small><small>[[G2920]]</small></small></sup> </span> |
-| for | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| judgment, | <span class="asgreek">κρίσιν <sup><small><small>[[G2920]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[for the\] strength | <span class="asgreek">ισχύν <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| restraining | <span class="asgreek">κωλυόντων <sup><small><small>[[G2967]]</small></small></sup> </span> |
-| doing away with. | <span class="asgreek">ανελείν <sup><small><small>[[G0337]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall be left behind | <big><span class="asgreek">καταλειφθήσονται</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| spirit | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| of equity | <big><span class="asgreek">κρίσεως</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| judgment, | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[for the\] strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| restraining | <big><span class="asgreek">κωλυόντων</span></big> <sup><small><small>[[G2967]]</small></small></sup> |
+| doing away with. | <big><span class="asgreek">ανελείν</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
 [[Isa.28.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.5|<< Isaiah 28:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.7|Isaiah 28:7 >>]]</td></tr></table>
 
 

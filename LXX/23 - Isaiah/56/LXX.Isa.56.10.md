@@ -9,19 +9,19 @@ Israel’s watchmen are blind, they are all oblivious; they are all mute dogs, t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| See | <span class="asgreek">ίδετε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| how | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| they all have been blinded! | <span class="asgreek">εκτετύφλωνται <sup><small><small>[[G7167]]</small></small></sup> <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| they knew not. | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έγνωσαν <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| All | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| dogs | <span class="asgreek">κύνες <sup><small><small>[[G2965]]</small></small></sup> </span> |
-| \[are\] dumb | <span class="asgreek">ενεοί <sup><small><small>[[G1769]]</small></small></sup> </span> |
-| they shall not be able | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">δυνήσονται <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| to bark; | <span class="asgreek">υλακτείν <sup><small><small>[[G9533]]</small></small></sup> </span> |
-| ones dreaming | <span class="asgreek">ενυπνιαζόμενοι <sup><small><small>[[G1797]]</small></small></sup> </span> |
-| \[of\] a bed, | <span class="asgreek">κοίτην <sup><small><small>[[G2845]]</small></small></sup> </span> |
-| being fond of | <span class="asgreek">φιλούντες <sup><small><small>[[G5368]]</small></small></sup> </span> |
-| slumber. | <span class="asgreek">νυστάξαι <sup><small><small>[[G3573]]</small></small></sup> </span> |
+| See | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| how | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| they all have been blinded! | <big><span class="asgreek">εκτετύφλωνται</span></big> <sup><small><small>[[G7167]]</small></small></sup> <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| they knew not. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| dogs | <big><span class="asgreek">κύνες</span></big> <sup><small><small>[[G2965]]</small></small></sup> |
+| \[are\] dumb | <big><span class="asgreek">ενεοί</span></big> <sup><small><small>[[G1769]]</small></small></sup> |
+| they shall not be able | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">δυνήσονται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| to bark; | <big><span class="asgreek">υλακτείν</span></big> <sup><small><small>[[G9533]]</small></small></sup> |
+| ones dreaming | <big><span class="asgreek">ενυπνιαζόμενοι</span></big> <sup><small><small>[[G1797]]</small></small></sup> |
+| \[of\] a bed, | <big><span class="asgreek">κοίτην</span></big> <sup><small><small>[[G2845]]</small></small></sup> |
+| being fond of | <big><span class="asgreek">φιλούντες</span></big> <sup><small><small>[[G5368]]</small></small></sup> |
+| slumber. | <big><span class="asgreek">νυστάξαι</span></big> <sup><small><small>[[G3573]]</small></small></sup> |
 [[Isa.56.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.9|<< Isaiah 56:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.11|Isaiah 56:11 >>]]</td></tr></table>
 
 

@@ -9,32 +9,32 @@ Have these men judge the people at all times. Then they can bring you any major 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall judge | <span class="asgreek">κρινούσι <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| at every | <span class="asgreek">πάσαν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| hour. | <span class="asgreek">ώραν <sup><small><small>[[G5610]]</small></small></sup> </span> |
-| But the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| thing | <span class="asgreek">ρήμα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| enormous | <span class="asgreek">υπέρογκον <sup><small><small>[[G5246]]</small></small></sup> </span> |
-| they shall offer | <span class="asgreek">ανοίσουσιν <sup><small><small>[[G0399]]</small></small></sup> </span> |
-| unto | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you; | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| little \[matters\] | <span class="asgreek">βραχέα <sup><small><small>[[G1024]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| judgments, | <span class="asgreek">κριμάτων <sup><small><small>[[G2917]]</small></small></sup> </span> |
-| they shall judge | <span class="asgreek">κρινούσιν <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτοί <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall lighten \[the load\] | <span class="asgreek">κουφιούσιν <sup><small><small>[[G2893]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall give aid | <span class="asgreek">συναντιλήψονταί <sup><small><small>[[G4878]]</small></small></sup> </span> |
-| to you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall judge | <big><span class="asgreek">κρινούσι</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| at every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| hour. | <big><span class="asgreek">ώραν</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
+| But the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| thing | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| enormous | <big><span class="asgreek">υπέρογκον</span></big> <sup><small><small>[[G5246]]</small></small></sup> |
+| they shall offer | <big><span class="asgreek">ανοίσουσιν</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
+| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| little \[matters\] | <big><span class="asgreek">βραχέα</span></big> <sup><small><small>[[G1024]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| judgments, | <big><span class="asgreek">κριμάτων</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
+| they shall judge | <big><span class="asgreek">κρινούσιν</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall lighten \[the load\] | <big><span class="asgreek">κουφιούσιν</span></big> <sup><small><small>[[G2893]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall give aid | <big><span class="asgreek">συναντιλήψονταί</span></big> <sup><small><small>[[G4878]]</small></small></sup> |
+| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Exod.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.21|<< Exodus 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.23|Exodus 18:23 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ Moreover, your skirts are stained with the blood of the innocent poor, though yo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your hands | <span class="asgreek">χερσί <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| was found | <span class="asgreek">ευρέθησαν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| blood | <span class="asgreek">αίματα <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| souls | <span class="asgreek">ψυχών <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| of innocent | <span class="asgreek">αθώων <sup><small><small>[[G0121]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| ditches | <span class="asgreek">διορύγμασιν <sup><small><small>[[G6939]]</small></small></sup> </span> |
-| I found | <span class="asgreek">εύρον <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but | <span class="asgreek">αλλ΄ <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάση <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| oak. | <span class="asgreek">δρυϊ <sup><small><small>[[G6972]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your hands | <big><span class="asgreek">χερσί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was found | <big><span class="asgreek">ευρέθησαν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| blood | <big><span class="asgreek">αίματα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| souls | <big><span class="asgreek">ψυχών</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| of innocent | <big><span class="asgreek">αθώων</span></big> <sup><small><small>[[G0121]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| ditches | <big><span class="asgreek">διορύγμασιν</span></big> <sup><small><small>[[G6939]]</small></small></sup> |
+| I found | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| oak. | <big><span class="asgreek">δρυϊ</span></big> <sup><small><small>[[G6972]]</small></small></sup> |
 [[Jer.2.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.33|<< Jeremiah 2:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.35|Jeremiah 2:35 >>]]</td></tr></table>
 
 

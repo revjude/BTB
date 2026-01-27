@@ -13,16 +13,16 @@ Then four great beasts came up out of the sea, each one different from the other
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| four | <span class="asgreek">τέσσαρα <sup><small><small>[[G5064]]</small></small></sup> </span> |
-| wild beasts | <span class="asgreek">θηρία <sup><small><small>[[G2342]]</small></small></sup> </span> |
-| great | <span class="asgreek">μεγάλα <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| ascended | <span class="asgreek">ανέβαινον <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sea, | <span class="asgreek">θαλάσσης <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| differing | <span class="asgreek">διαφέροντα <sup><small><small>[[G1308]]</small></small></sup> </span> |
-| from one another. | <span class="asgreek">αλλήλων <sup><small><small>[[G0240]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| wild beasts | <big><span class="asgreek">θηρία</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
+| great | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| ascended | <big><span class="asgreek">ανέβαινον</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sea, | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| differing | <big><span class="asgreek">διαφέροντα</span></big> <sup><small><small>[[G1308]]</small></small></sup> |
+| from one another. | <big><span class="asgreek">αλλήλων</span></big> <sup><small><small>[[G0240]]</small></small></sup> |
 [[Dan.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.2|<< Daniel 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.4|Daniel 7:4 >>]]</td></tr></table>
 
 

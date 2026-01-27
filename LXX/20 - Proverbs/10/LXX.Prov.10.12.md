@@ -13,16 +13,16 @@ Hatred stirs up dissension, but love covers all transgressions.<small><sub>**MT
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Hatred | <span class="asgreek">μίσος <sup><small><small>[[G8332]]</small></small></sup> </span> |
-| raises up | <span class="asgreek">εγειρεί <sup><small><small>[[G1453]]</small></small></sup> </span> |
-| altercation; | <span class="asgreek">νείκος <sup><small><small>[[G8384]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| fond of altercations | <span class="asgreek">φιλονεικούντας <sup><small><small>[[G9642]]</small></small></sup> </span> |
-| shall cover | <span class="asgreek">καλύπψει <sup><small><small>[[G2572]]</small></small></sup> </span> |
-| friendship | <span class="asgreek">φιλία <sup><small><small>[[G5373]]</small></small></sup> </span> |
+| Hatred | <big><span class="asgreek">μίσος</span></big> <sup><small><small>[[G8332]]</small></small></sup> |
+| raises up | <big><span class="asgreek">εγειρεί</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
+| altercation; | <big><span class="asgreek">νείκος</span></big> <sup><small><small>[[G8384]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| fond of altercations | <big><span class="asgreek">φιλονεικούντας</span></big> <sup><small><small>[[G9642]]</small></small></sup> |
+| shall cover | <big><span class="asgreek">καλύπψει</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
+| friendship | <big><span class="asgreek">φιλία</span></big> <sup><small><small>[[G5373]]</small></small></sup> |
 [[Prov.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.11|<< Proverbs 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.13|Proverbs 10:13 >>]]</td></tr></table>
 
 

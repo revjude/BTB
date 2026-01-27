@@ -9,25 +9,25 @@ They entered the interior of the house as if to get some wheat, and they stabbed
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| doorkeeper | <span class="asgreek">θυρωρός <sup><small><small>[[G2377]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| was cleansing | <span class="asgreek">εκάθαιρε <sup><small><small>[[G2508]]</small></small></sup> </span> |
-| wheat, | <span class="asgreek">πυρούς <sup><small><small>[[G8994]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he slumbered | <span class="asgreek">ενύσταξε <sup><small><small>[[G3573]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| slept. | <span class="asgreek">εκάθευδε <sup><small><small>[[G2518]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Rechab | <span class="asgreek">Ρεχάβ <sup><small><small>[[H7394]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Baanah | <span class="asgreek">Βαανά <sup><small><small>[[H1196]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his brother | <span class="asgreek">αδελφός <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| escaped notice. | <span class="asgreek">διέλαθον <sup><small><small>[[G6841]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| doorkeeper | <big><span class="asgreek">θυρωρός</span></big> <sup><small><small>[[G2377]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| was cleansing | <big><span class="asgreek">εκάθαιρε</span></big> <sup><small><small>[[G2508]]</small></small></sup> |
+| wheat, | <big><span class="asgreek">πυρούς</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he slumbered | <big><span class="asgreek">ενύσταξε</span></big> <sup><small><small>[[G3573]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| slept. | <big><span class="asgreek">εκάθευδε</span></big> <sup><small><small>[[G2518]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Rechab | <big><span class="asgreek">Ρεχάβ</span></big> <sup><small><small>[[H7394]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Baanah | <big><span class="asgreek">Βαανά</span></big> <sup><small><small>[[H1196]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| escaped notice. | <big><span class="asgreek">διέλαθον</span></big> <sup><small><small>[[G6841]]</small></small></sup> |
 [[2Sam.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.5|<< 2 Samuel 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.7|2 Samuel 4:7 >>]]</td></tr></table>
 
 

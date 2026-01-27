@@ -9,24 +9,24 @@ The head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| head | <span class="asgreek">κεφαλή <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| of Ephraim, | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
-| \[is\] Samaria, | <span class="asgreek">Σομόρων <sup><small><small>[[G4540]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| head | <span class="asgreek">κεφαλή <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| of Samaria | <span class="asgreek">Σομόρων <sup><small><small>[[G4540]]</small></small></sup> </span> |
-| \[is the\] son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Remaliah. | <span class="asgreek">Ρομελίου <sup><small><small>[[H7425]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| trust, | <span class="asgreek">πιστεύσητε <sup><small><small>[[G4100]]</small></small></sup> </span> |
-| neither | <span class="asgreek">ουδε μη <sup><small><small>[[G8565]]</small></small></sup> </span> |
-| should you perceive. | <span class="asgreek">συνήτε <sup><small><small>[[G4920]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| head | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| of Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| \[is\] Samaria, | <big><span class="asgreek">Σομόρων</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| head | <big><span class="asgreek">κεφαλή</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| of Samaria | <big><span class="asgreek">Σομόρων</span></big> <sup><small><small>[[G4540]]</small></small></sup> |
+| \[is the\] son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Remaliah. | <big><span class="asgreek">Ρομελίου</span></big> <sup><small><small>[[H7425]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| trust, | <big><span class="asgreek">πιστεύσητε</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
+| neither | <big><span class="asgreek">ουδε μη</span></big> <sup><small><small>[[G8565]]</small></small></sup> |
+| should you perceive. | <big><span class="asgreek">συνήτε</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
 [[Isa.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.8|<< Isaiah 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.10|Isaiah 7:10 >>]]</td></tr></table>
 
 

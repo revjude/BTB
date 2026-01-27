@@ -9,28 +9,28 @@ Turn and run! Lie low, O dwellers of Dedan, for I will bring disaster on Esau at
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| was beguiled | <span class="asgreek">ηπατήθη <sup><small><small>[[G0538]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Their place | <span class="asgreek">τόπος <sup><small><small>[[G5117]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Deepen | <span class="asgreek">βαθύνατε <sup><small><small>[[G0900]]</small></small></sup> </span> |
-| to yourselves | <span class="asgreek">εαυτοίς <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| sitting, | <span class="asgreek">κάθισιν <sup><small><small>[[G7759]]</small></small></sup> </span> |
-| O ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">κατοικούντες <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Dedan, | <span class="asgreek">Δαιδάν <sup><small><small>[[H1719a]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| difficult | <span class="asgreek">δύσκολα <sup><small><small>[[G1422]]</small></small></sup> </span> |
-| he made | <span class="asgreek">εποίησεν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| I led | <span class="asgreek">ήγαγον <sup><small><small>[[G0071]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] time | <span class="asgreek">χρόνω <sup><small><small>[[G5550]]</small></small></sup> </span> |
-| which | <span class="asgreek">ω <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I visited | <span class="asgreek">επεσκεψάμην <sup><small><small>[[G1980]]</small></small></sup> </span> |
-| against | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| was beguiled | <big><span class="asgreek">ηπατήθη</span></big> <sup><small><small>[[G0538]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Their place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Deepen | <big><span class="asgreek">βαθύνατε</span></big> <sup><small><small>[[G0900]]</small></small></sup> |
+| to yourselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| sitting, | <big><span class="asgreek">κάθισιν</span></big> <sup><small><small>[[G7759]]</small></small></sup> |
+| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Dedan, | <big><span class="asgreek">Δαιδάν</span></big> <sup><small><small>[[H1719a]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| difficult | <big><span class="asgreek">δύσκολα</span></big> <sup><small><small>[[G1422]]</small></small></sup> |
+| he made | <big><span class="asgreek">εποίησεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| I led | <big><span class="asgreek">ήγαγον</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] time | <big><span class="asgreek">χρόνω</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
+| which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I visited | <big><span class="asgreek">επεσκεψάμην</span></big> <sup><small><small>[[G1980]]</small></small></sup> |
+| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.49.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.7|<< Jeremiah 49:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.9|Jeremiah 49:9 >>]]</td></tr></table>
 
 

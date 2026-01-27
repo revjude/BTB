@@ -9,26 +9,26 @@ Tell us the things that are to come, so that we may know that you are gods. Yes,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Tell | <span class="asgreek">είπατε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to us! | <span class="asgreek">ημίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| announce | <span class="asgreek">αναγγείλατε <sup><small><small>[[G0312]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| coming | <span class="asgreek">επερχόμενα <sup><small><small>[[G1904]]</small></small></sup> </span> |
-| at | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] latter end! | <span class="asgreek">εσχάτου <sup><small><small>[[G2078]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we shall know | <span class="asgreek">γνωσόμεθα <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| you are gods. | <span class="asgreek">θεοί <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">εστέ <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| good | <span class="asgreek">ευ <sup><small><small>[[G2095]]</small></small></sup> </span> |
-| Do | <span class="asgreek">ποιήσατε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| do evil! | <span class="asgreek">κακώσατε <sup><small><small>[[G2559]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we shall wonder, | <span class="asgreek">θαυμασόμεθα <sup><small><small>[[G2296]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we shall see | <span class="asgreek">οψόμεθα <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| at the same time; | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
+| Tell | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to us! | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| announce | <big><span class="asgreek">αναγγείλατε</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| coming | <big><span class="asgreek">επερχόμενα</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
+| at | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] latter end! | <big><span class="asgreek">εσχάτου</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we shall know | <big><span class="asgreek">γνωσόμεθα</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| you are gods. | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| good | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
+| Do | <big><span class="asgreek">ποιήσατε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| do evil! | <big><span class="asgreek">κακώσατε</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we shall wonder, | <big><span class="asgreek">θαυμασόμεθα</span></big> <sup><small><small>[[G2296]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we shall see | <big><span class="asgreek">οψόμεθα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| at the same time; | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
 [[Isa.41.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.22|<< Isaiah 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.24|Isaiah 41:24 >>]]</td></tr></table>
 
 

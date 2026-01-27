@@ -9,29 +9,29 @@ This very day the noble women of Persia and Media who have heard about the queen
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| so | <span class="asgreek">ούτω <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| today, | <span class="asgreek">σήμερον <sup><small><small>[[G4594]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wives of the sovereigns | <span class="asgreek">τυραννίδες <sup><small><small>[[G9517]]</small></small></sup> </span> |
-| of the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rest | <span class="asgreek">λοιπαί <sup><small><small>[[G3062]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rulers | <span class="asgreek">αρχόντων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of \[the\] Persians | <span class="asgreek">Περσών <sup><small><small>[[H6539]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Medes | <span class="asgreek">Μήδων <sup><small><small>[[G3370]]</small></small></sup> </span> |
-| hearing | <span class="asgreek">ακούσασαι <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| against the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| having been said | <span class="asgreek">λεχθέντα <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| by | <span class="asgreek">υπ΄ <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| her, | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall dare | <span class="asgreek">τολμήσουσιν <sup><small><small>[[G5111]]</small></small></sup> </span> |
-| in like manner | <span class="asgreek">ομοίως <sup><small><small>[[G3668]]</small></small></sup> </span> |
-| to dishonor | <span class="asgreek">ατιμάσαι <sup><small><small>[[G0818]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their husbands. | <span class="asgreek">άνδρας <sup><small><small>[[G0435]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| so | <big><span class="asgreek">ούτω</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| today, | <big><span class="asgreek">σήμερον</span></big> <sup><small><small>[[G4594]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wives of the sovereigns | <big><span class="asgreek">τυραννίδες</span></big> <sup><small><small>[[G9517]]</small></small></sup> |
+| of the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rest | <big><span class="asgreek">λοιπαί</span></big> <sup><small><small>[[G3062]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rulers | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of \[the\] Persians | <big><span class="asgreek">Περσών</span></big> <sup><small><small>[[H6539]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Medes | <big><span class="asgreek">Μήδων</span></big> <sup><small><small>[[G3370]]</small></small></sup> |
+| hearing | <big><span class="asgreek">ακούσασαι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| against the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| having been said | <big><span class="asgreek">λεχθέντα</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| by | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall dare | <big><span class="asgreek">τολμήσουσιν</span></big> <sup><small><small>[[G5111]]</small></small></sup> |
+| in like manner | <big><span class="asgreek">ομοίως</span></big> <sup><small><small>[[G3668]]</small></small></sup> |
+| to dishonor | <big><span class="asgreek">ατιμάσαι</span></big> <sup><small><small>[[G0818]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their husbands. | <big><span class="asgreek">άνδρας</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Esth.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.17|<< Esther 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.19|Esther 1:19 >>]]</td></tr></table>
 
 

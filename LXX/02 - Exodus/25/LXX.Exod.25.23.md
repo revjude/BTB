@@ -16,26 +16,26 @@ You are also to make a table of acacia wood two cubits long, a cubit wide, and a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall make | <span class="asgreek">ποιήσεις <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| a table | <span class="asgreek">τράπεζαν <sup><small><small>[[G5132]]</small></small></sup> </span> |
-| of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| woods | <span class="asgreek">ξύλου <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| incorruptible | <span class="asgreek">ασήπτων <sup><small><small>[[G6568]]</small></small></sup> </span> |
-| of two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| cubits | <span class="asgreek">πηχέων <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| \[being\] the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| length, | <span class="asgreek">μήκος <sup><small><small>[[G3372]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a cubit | <span class="asgreek">πήχεος <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| breadth, | <span class="asgreek">εύρος <sup><small><small>[[G7563]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a cubit | <span class="asgreek">πήχεος <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a half | <span class="asgreek">ημίσους <sup><small><small>[[G2255]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| height. | <span class="asgreek">ύψος <sup><small><small>[[G5311]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| a table | <big><span class="asgreek">τράπεζαν</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
+| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| woods | <big><span class="asgreek">ξύλου</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| incorruptible | <big><span class="asgreek">ασήπτων</span></big> <sup><small><small>[[G6568]]</small></small></sup> |
+| of two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| \[being\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| length, | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a cubit | <big><span class="asgreek">πήχεος</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| breadth, | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a cubit | <big><span class="asgreek">πήχεος</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a half | <big><span class="asgreek">ημίσους</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| height. | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
 [[Exod.25.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.22|<< Exodus 25:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.24|Exodus 25:24 >>]]</td></tr></table>
 
 

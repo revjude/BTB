@@ -9,15 +9,15 @@ But the way of the wicked is like the darkest gloom; they do not know what makes
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| ways | <span class="asgreek">οδοί <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| impious | <span class="asgreek">ασεβών <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| \[are\] dark; | <span class="asgreek">σκοτειναί <sup><small><small>[[G4652]]</small></small></sup> </span> |
-| they do not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| know | <span class="asgreek">οίδασι <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| how | <span class="asgreek">πως <sup><small><small>[[G4459]]</small></small></sup> </span> |
-| they stumble. | <span class="asgreek">προσκόπτουσιν <sup><small><small>[[G4350]]</small></small></sup> </span> |
+| But the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| \[are\] dark; | <big><span class="asgreek">σκοτειναί</span></big> <sup><small><small>[[G4652]]</small></small></sup> |
+| they do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| know | <big><span class="asgreek">οίδασι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
+| they stumble. | <big><span class="asgreek">προσκόπτουσιν</span></big> <sup><small><small>[[G4350]]</small></small></sup> |
 [[Prov.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.18|<< Proverbs 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.20|Proverbs 4:20 >>]]</td></tr></table>
 
 

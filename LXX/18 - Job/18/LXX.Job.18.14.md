@@ -9,16 +9,16 @@ He is torn from the shelter of his tent and is marched off to the king of terror
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| be torn | <span class="asgreek">εκραγείη <sup><small><small>[[G7140]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| his habitation | <span class="asgreek">διαίτης <sup><small><small>[[G6829]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| healing | <span class="asgreek">ίασις <sup><small><small>[[G2392]]</small></small></sup> </span> |
-| and may he have | <span class="asgreek">σχοίη <sup><small><small>[[G2192]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| himself | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| distress | <span class="asgreek">ανάγκη <sup><small><small>[[G0318]]</small></small></sup> </span> |
-| by reason | <span class="asgreek">αιτία <sup><small><small>[[G0156]]</small></small></sup> </span> |
-| of a royal \[decree\]. | <span class="asgreek">βασιλική <sup><small><small>[[G0937]]</small></small></sup> </span> |
+| be torn | <big><span class="asgreek">εκραγείη</span></big> <sup><small><small>[[G7140]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| his habitation | <big><span class="asgreek">διαίτης</span></big> <sup><small><small>[[G6829]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| healing | <big><span class="asgreek">ίασις</span></big> <sup><small><small>[[G2392]]</small></small></sup> |
+| and may he have | <big><span class="asgreek">σχοίη</span></big> <sup><small><small>[[G2192]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| himself | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| distress | <big><span class="asgreek">ανάγκη</span></big> <sup><small><small>[[G0318]]</small></small></sup> |
+| by reason | <big><span class="asgreek">αιτία</span></big> <sup><small><small>[[G0156]]</small></small></sup> |
+| of a royal \[decree\]. | <big><span class="asgreek">βασιλική</span></big> <sup><small><small>[[G0937]]</small></small></sup> |
 [[Job.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.13|<< Job 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.15|Job 18:15 >>]]</td></tr></table>
 
 

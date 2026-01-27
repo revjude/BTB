@@ -9,23 +9,23 @@ Your neck is like the tower of David, built with rows of stones; on it hang a th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[is\] as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] tower | <span class="asgreek">πύργος <sup><small><small>[[G4444]]</small></small></sup> </span> |
-| of David | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| Your neck | <span class="asgreek">τράχηλός <sup><small><small>[[G5137]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[tower\] having been built | <span class="asgreek">ωκοδομημένος <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] armory; | <span class="asgreek">θαλπιώθ <sup><small><small>[[G7640]]</small></small></sup> </span> |
-| a thousand | <span class="asgreek">χίλιοι <sup><small><small>[[G5507]]</small></small></sup> </span> |
-| shields | <span class="asgreek">θυρεοί <sup><small><small>[[G2375]]</small></small></sup> </span> |
-| hang | <span class="asgreek">κρέμανται <sup><small><small>[[G2910]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσαι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \[the\] arrows | <span class="asgreek">βολίδες <sup><small><small>[[G1002]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mighty. | <span class="asgreek">δυνατών <sup><small><small>[[G1415]]</small></small></sup> </span> |
+| \[is\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] tower | <big><span class="asgreek">πύργος</span></big> <sup><small><small>[[G4444]]</small></small></sup> |
+| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| Your neck | <big><span class="asgreek">τράχηλός</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[tower\] having been built | <big><span class="asgreek">ωκοδομημένος</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] armory; | <big><span class="asgreek">θαλπιώθ</span></big> <sup><small><small>[[G7640]]</small></small></sup> |
+| a thousand | <big><span class="asgreek">χίλιοι</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
+| shields | <big><span class="asgreek">θυρεοί</span></big> <sup><small><small>[[G2375]]</small></small></sup> |
+| hang | <big><span class="asgreek">κρέμανται</span></big> <sup><small><small>[[G2910]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \[the\] arrows | <big><span class="asgreek">βολίδες</span></big> <sup><small><small>[[G1002]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mighty. | <big><span class="asgreek">δυνατών</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
 [[Song.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.3|<< Song of Solomon 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.5|Song of Solomon 4:5 >>]]</td></tr></table>
 
 

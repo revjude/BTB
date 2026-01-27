@@ -9,15 +9,15 @@ Like a broken tooth or a foot out of joint is confidence in a faithless man in t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| way | <span class="asgreek">οδός <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| An evil | <span class="asgreek">κακού <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] foot | <span class="asgreek">πους <sup><small><small>[[G4228]]</small></small></sup> </span> |
-| of a lawbreaker | <span class="asgreek">παρανόμου <sup><small><small>[[G8627]]</small></small></sup> </span> |
-| shall be destroyed | <span class="asgreek">ολείται <sup><small><small>[[G8491]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| an evil | <span class="asgreek">κακή <sup><small><small>[[G2556]]</small></small></sup> </span> |
+| way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| An evil | <big><span class="asgreek">κακού</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] foot | <big><span class="asgreek">πους</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
+| of a lawbreaker | <big><span class="asgreek">παρανόμου</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
+| shall be destroyed | <big><span class="asgreek">ολείται</span></big> <sup><small><small>[[G8491]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| an evil | <big><span class="asgreek">κακή</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
 [[Prov.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.18|<< Proverbs 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.20|Proverbs 25:20 >>]]</td></tr></table>
 
 

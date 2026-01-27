@@ -9,23 +9,23 @@ So take your stand with your spells and with your many sorceries, with which you
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Stand | <span class="asgreek">στήθι <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| now! | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your enchantments, | <span class="asgreek">επαοιδαίς <sup><small><small>[[G7367]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| abundance | <span class="asgreek">πολλή <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| of your sorcery! | <span class="asgreek">φαρμακεία <sup><small><small>[[G5331]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| which | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you learned | <span class="asgreek">εμάνθανες <sup><small><small>[[G3129]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| your youth -- | <span class="asgreek">νεότητός <sup><small><small>[[G3503]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| you shall be able | <span class="asgreek">δυνήση <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| to derive benefit. | <span class="asgreek">ωφεληθήναι <sup><small><small>[[G5623]]</small></small></sup> </span> |
+| Stand | <big><span class="asgreek">στήθι</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| now! | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your enchantments, | <big><span class="asgreek">επαοιδαίς</span></big> <sup><small><small>[[G7367]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| abundance | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| of your sorcery! | <big><span class="asgreek">φαρμακεία</span></big> <sup><small><small>[[G5331]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you learned | <big><span class="asgreek">εμάνθανες</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| your youth -- | <big><span class="asgreek">νεότητός</span></big> <sup><small><small>[[G3503]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| you shall be able | <big><span class="asgreek">δυνήση</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| to derive benefit. | <big><span class="asgreek">ωφεληθήναι</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
 [[Isa.47.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.11|<< Isaiah 47:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.13|Isaiah 47:13 >>]]</td></tr></table>
 
 

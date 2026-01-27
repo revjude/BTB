@@ -9,20 +9,20 @@ For He has humbled those who dwell on high; He lays the lofty city low. He bring
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| humbling, | <span class="asgreek">ταπεινώσας <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| he led down | <span class="asgreek">κατήγαγεν <sup><small><small>[[G2609]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">ενοικούντας <sup><small><small>[[G1774]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| high. | <span class="asgreek">υψηλοίς <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| fortified | <span class="asgreek">οχυράς <sup><small><small>[[G8575]]</small></small></sup> </span> |
-| You shall throw down | <span class="asgreek">καταβαλείς <sup><small><small>[[G2598]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lead \[them\] down | <span class="asgreek">κατάξεις <sup><small><small>[[G2609]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| \[the\] ground. | <span class="asgreek">εδάφους <sup><small><small>[[G1475]]</small></small></sup> </span> |
+| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| humbling, | <big><span class="asgreek">ταπεινώσας</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| he led down | <big><span class="asgreek">κατήγαγεν</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">ενοικούντας</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| high. | <big><span class="asgreek">υψηλοίς</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| fortified | <big><span class="asgreek">οχυράς</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
+| You shall throw down | <big><span class="asgreek">καταβαλείς</span></big> <sup><small><small>[[G2598]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lead \[them\] down | <big><span class="asgreek">κατάξεις</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| \[the\] ground. | <big><span class="asgreek">εδάφους</span></big> <sup><small><small>[[G1475]]</small></small></sup> |
 [[Isa.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.4|<< Isaiah 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.6|Isaiah 26:6 >>]]</td></tr></table>
 
 

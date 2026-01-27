@@ -9,27 +9,27 @@ Therefore the earth will mourn and the heavens above will grow dark. I have spok
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| these \[things\] | <span class="asgreek">τούτοις <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| mourn | <span class="asgreek">πενθείτω <sup><small><small>[[G3996]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| be darkened | <span class="asgreek">συσκοτασάτω <sup><small><small>[[G9355]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heaven | <span class="asgreek">ουρανός <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| above | <span class="asgreek">άνωθεν <sup><small><small>[[G0509]]</small></small></sup> </span> |
-| Because | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| I have spoken, | <span class="asgreek">ελάλησα <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| change my mind. | <span class="asgreek">μετανοήσω <sup><small><small>[[G3340]]</small></small></sup> </span> |
-| I advanced it, | <span class="asgreek">ώρμησα <sup><small><small>[[G3729]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| turn | <span class="asgreek">αποστρέψω <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| these \[things\] | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| mourn | <big><span class="asgreek">πενθείτω</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| be darkened | <big><span class="asgreek">συσκοτασάτω</span></big> <sup><small><small>[[G9355]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heaven | <big><span class="asgreek">ουρανός</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| above | <big><span class="asgreek">άνωθεν</span></big> <sup><small><small>[[G0509]]</small></small></sup> |
+| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| I have spoken, | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| change my mind. | <big><span class="asgreek">μετανοήσω</span></big> <sup><small><small>[[G3340]]</small></small></sup> |
+| I advanced it, | <big><span class="asgreek">ώρμησα</span></big> <sup><small><small>[[G3729]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| turn | <big><span class="asgreek">αποστρέψω</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.27|<< Jeremiah 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.29|Jeremiah 4:29 >>]]</td></tr></table>
 
 

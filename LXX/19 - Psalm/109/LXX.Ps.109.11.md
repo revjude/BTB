@@ -9,17 +9,17 @@ May the creditor seize all he owns, and strangers plunder the fruits of his labo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| search out | <span class="asgreek">εξερευνησάτω <sup><small><small>[[G1830]]</small></small></sup> </span> |
-| \[the\] money-lender | <span class="asgreek">δανειστής <sup><small><small>[[G1157]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| as much as | <span class="asgreek">όσα <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| exists | <span class="asgreek">υπάρχει <sup><small><small>[[G5225]]</small></small></sup> </span> |
-| to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| plunder | <span class="asgreek">διαρπασάτωσαν <sup><small><small>[[G1283]]</small></small></sup> </span> |
-| strangers | <span class="asgreek">αλλότριοι <sup><small><small>[[G0245]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his toils! | <span class="asgreek">πόνους <sup><small><small>[[G4192]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| search out | <big><span class="asgreek">εξερευνησάτω</span></big> <sup><small><small>[[G1830]]</small></small></sup> |
+| \[the\] money-lender | <big><span class="asgreek">δανειστής</span></big> <sup><small><small>[[G1157]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| as much as | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| exists | <big><span class="asgreek">υπάρχει</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
+| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| plunder | <big><span class="asgreek">διαρπασάτωσαν</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
+| strangers | <big><span class="asgreek">αλλότριοι</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his toils! | <big><span class="asgreek">πόνους</span></big> <sup><small><small>[[G4192]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.109.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.10|<< Psalm 109:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.12|Psalm 109:12 >>]]</td></tr></table>
 
 

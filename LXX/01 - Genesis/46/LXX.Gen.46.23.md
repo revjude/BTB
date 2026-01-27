@@ -9,9 +9,9 @@ The son of Dan: Hushim.<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of Dan -- | <span class="asgreek">Δαν <sup><small><small>[[H1835]]</small></small></sup> </span> |
-| Hushim. | <span class="asgreek">Ασώμ <sup><small><small>[[H0684]]</small></small></sup> </span> |
+| And \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of Dan -- | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
+| Hushim. | <big><span class="asgreek">Ασώμ</span></big> <sup><small><small>[[H0684]]</small></small></sup> |
 [[Gen.46.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.22|<< Genesis 46:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.24|Genesis 46:24 >>]]</td></tr></table>
 
 

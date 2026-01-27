@@ -9,28 +9,28 @@ Then you will call, and the LORD will answer; you will cry out, and He will say,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| you shall yell, | <span class="asgreek">βοήση <sup><small><small>[[G0994]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| shall hearken to | <span class="asgreek">εισακούσεταί <sup><small><small>[[G1522]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Yet \[while\] | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| you \[are\] speaking | <span class="asgreek">λαλούντός <sup><small><small>[[G2980]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he shall say, | <span class="asgreek">ερεί <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| I am at hand. | <span class="asgreek">πάρειμι <sup><small><small>[[G3918]]</small></small></sup> </span> |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you remove | <span class="asgreek">αφέλης <sup><small><small>[[G0851]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| yourself | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| conspiracy, | <span class="asgreek">σύνδεσμον <sup><small><small>[[G4886]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| stretching forth of the hands, | <span class="asgreek">χειροτονίαν <sup><small><small>[[G9712]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| discourse | <span class="asgreek">ρήμα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| grumbling | <span class="asgreek">γογγυσμόυ <sup><small><small>[[G1112]]</small></small></sup> </span> |
+| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| you shall yell, | <big><span class="asgreek">βοήση</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| shall hearken to | <big><span class="asgreek">εισακούσεταί</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
+| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Yet \[while\] | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| you \[are\] speaking | <big><span class="asgreek">λαλούντός</span></big> <sup><small><small>[[G2980]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he shall say, | <big><span class="asgreek">ερεί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| I am at hand. | <big><span class="asgreek">πάρειμι</span></big> <sup><small><small>[[G3918]]</small></small></sup> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you remove | <big><span class="asgreek">αφέλης</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| yourself | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| conspiracy, | <big><span class="asgreek">σύνδεσμον</span></big> <sup><small><small>[[G4886]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| stretching forth of the hands, | <big><span class="asgreek">χειροτονίαν</span></big> <sup><small><small>[[G9712]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| discourse | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| grumbling | <big><span class="asgreek">γογγυσμόυ</span></big> <sup><small><small>[[G1112]]</small></small></sup> |
 [[Isa.58.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.8|<< Isaiah 58:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.10|Isaiah 58:10 >>]]</td></tr></table>
 
 

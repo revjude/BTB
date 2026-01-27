@@ -9,18 +9,18 @@ For that night did not shut the doors of the womb to hide the sorrow from my eye
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| it did not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| close up | <span class="asgreek">συνέκλεισε <sup><small><small>[[G4788]]</small></small></sup> </span> |
-| \[the\] gates | <span class="asgreek">πύλας <sup><small><small>[[G4439]]</small></small></sup> </span> |
-| womb | <span class="asgreek">γαστρός <sup><small><small>[[G1064]]</small></small></sup> </span> |
-| of my mother's | <span class="asgreek">μητρός <sup><small><small>[[G3384]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| dismissed | <span class="asgreek">απήλλαξε <sup><small><small>[[G0525]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| it would have | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| misery | <span class="asgreek">πόνον <sup><small><small>[[G4192]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| my eyes. | <span class="asgreek">οφθαλμών <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| it did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| close up | <big><span class="asgreek">συνέκλεισε</span></big> <sup><small><small>[[G4788]]</small></small></sup> |
+| \[the\] gates | <big><span class="asgreek">πύλας</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| womb | <big><span class="asgreek">γαστρός</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
+| of my mother's | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| dismissed | <big><span class="asgreek">απήλλαξε</span></big> <sup><small><small>[[G0525]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| it would have | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| misery | <big><span class="asgreek">πόνον</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| my eyes. | <big><span class="asgreek">οφθαλμών</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.9|<< Job 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.11|Job 3:11 >>]]</td></tr></table>
 
 

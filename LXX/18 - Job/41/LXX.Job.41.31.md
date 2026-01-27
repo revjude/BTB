@@ -9,16 +9,16 @@ He makes the depths seethe like a cauldron; he makes the sea like a jar of ointm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| breaks out | <span class="asgreek">άναζει <sup><small><small>[[G6280]]</small></small></sup> </span> |
-| The | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| abyss | <span class="asgreek">άβυσσον <sup><small><small>[[G0012]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| a brazen cauldron; | <span class="asgreek">χαλκείον <sup><small><small>[[G9694]]</small></small></sup> </span> |
-| and he esteems | <span class="asgreek">ήγηται <sup><small><small>[[G2233]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sea | <span class="asgreek">θάλασσαν <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| an ointment jar. | <span class="asgreek">εξάλειπτρον <sup><small><small>[[G7288]]</small></small></sup> </span> |
+| breaks out | <big><span class="asgreek">άναζει</span></big> <sup><small><small>[[G6280]]</small></small></sup> |
+| The | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| abyss | <big><span class="asgreek">άβυσσον</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| a brazen cauldron; | <big><span class="asgreek">χαλκείον</span></big> <sup><small><small>[[G9694]]</small></small></sup> |
+| and he esteems | <big><span class="asgreek">ήγηται</span></big> <sup><small><small>[[G2233]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sea | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| an ointment jar. | <big><span class="asgreek">εξάλειπτρον</span></big> <sup><small><small>[[G7288]]</small></small></sup> |
 [[Job.41.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.30|<< Job 41:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.32|Job 41:32 >>]]</td></tr></table>
 
 

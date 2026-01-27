@@ -9,26 +9,26 @@ Behold, the Lord GOD of Hosts will lop off the branches with terrifying power. T
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| master, | <span class="asgreek">δεσπότης <sup><small><small>[[G1203]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| of Hosts | <span class="asgreek">σαβαώθ <sup><small><small>[[G4519]]</small></small></sup> </span> |
-| puts in disorder | <span class="asgreek">συνταράσσει <sup><small><small>[[G9337]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| honorable ones | <span class="asgreek">ενδόξους <sup><small><small>[[G1741]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| strength. | <span class="asgreek">ισχύος <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| haughty ones | <span class="asgreek">υψηλοί <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| with | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| insolence | <span class="asgreek">ύβρει <sup><small><small>[[G5196]]</small></small></sup> </span> |
-| shall be broken, | <span class="asgreek">συντριβήσονται <sup><small><small>[[G4937]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| haughty ones | <span class="asgreek">υψηλοί <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| shall be humbled. | <span class="asgreek">ταπεινωθήσονται <sup><small><small>[[G5013]]</small></small></sup> </span> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| master, | <big><span class="asgreek">δεσπότης</span></big> <sup><small><small>[[G1203]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| of Hosts | <big><span class="asgreek">σαβαώθ</span></big> <sup><small><small>[[G4519]]</small></small></sup> |
+| puts in disorder | <big><span class="asgreek">συνταράσσει</span></big> <sup><small><small>[[G9337]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| honorable ones | <big><span class="asgreek">ενδόξους</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| strength. | <big><span class="asgreek">ισχύος</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| haughty ones | <big><span class="asgreek">υψηλοί</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| with | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| insolence | <big><span class="asgreek">ύβρει</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
+| shall be broken, | <big><span class="asgreek">συντριβήσονται</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| haughty ones | <big><span class="asgreek">υψηλοί</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| shall be humbled. | <big><span class="asgreek">ταπεινωθήσονται</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
 [[Isa.10.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.32|<< Isaiah 10:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.34|Isaiah 10:34 >>]]</td></tr></table>
 
 

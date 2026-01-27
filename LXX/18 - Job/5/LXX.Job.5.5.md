@@ -9,20 +9,20 @@ The hungry consume his harvest, taking it even from the thorns, and the thirsty 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| which | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| For | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| those \[things\] | <span class="asgreek">εκείνοι <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| they harvested, | <span class="asgreek">εθέρισαν <sup><small><small>[[G2325]]</small></small></sup> </span> |
-| one hungering | <span class="asgreek">πεινών <sup><small><small>[[G3983]]</small></small></sup> </span> |
-| shall eat; | <span class="asgreek">φάγεται <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| but they | <span class="asgreek">αυτοί <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| ones armed | <span class="asgreek">ενόπλων <sup><small><small>[[G7257]]</small></small></sup> </span> |
-| shall be carried | <span class="asgreek">αρθήσονται <sup><small><small>[[G0142]]</small></small></sup> </span> |
-| be siphoned off | <span class="asgreek">εκσιφωνισθείη <sup><small><small>[[G7144]]</small></small></sup> </span> |
-| their | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| strength | <span class="asgreek">ισχύς <sup><small><small>[[G2479]]</small></small></sup> </span> |
+| which | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| those \[things\] | <big><span class="asgreek">εκείνοι</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| they harvested, | <big><span class="asgreek">εθέρισαν</span></big> <sup><small><small>[[G2325]]</small></small></sup> |
+| one hungering | <big><span class="asgreek">πεινών</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
+| shall eat; | <big><span class="asgreek">φάγεται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| but they | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| ones armed | <big><span class="asgreek">ενόπλων</span></big> <sup><small><small>[[G7257]]</small></small></sup> |
+| shall be carried | <big><span class="asgreek">αρθήσονται</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
+| be siphoned off | <big><span class="asgreek">εκσιφωνισθείη</span></big> <sup><small><small>[[G7144]]</small></small></sup> |
+| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| strength | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
 [[Job.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.4|<< Job 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.6|Job 5:6 >>]]</td></tr></table>
 
 

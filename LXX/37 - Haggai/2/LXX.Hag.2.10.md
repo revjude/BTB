@@ -12,25 +12,25 @@ On the twenty-fourth day of the ninth month, in the second year of Darius, the w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In the | <span class="asgreek">τη <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| fourth | <span class="asgreek">τετράδι <sup><small><small>[[G9440]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| twentieth day | <span class="asgreek">εικάδι <sup><small><small>[[G7051]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ninth | <span class="asgreek">εννάτω <sup><small><small>[[G1766]]</small></small></sup> </span> |
-| month, | <span class="asgreek">μηνί <sup><small><small>[[G3376]]</small></small></sup> </span> |
-| year | <span class="asgreek">έτει <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| second | <span class="asgreek">δευτέρω <sup><small><small>[[G1208]]</small></small></sup> </span> |
-| of | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| Darius, | <span class="asgreek">Δαρείου <sup><small><small>[[H1868]]</small></small></sup> </span> |
-| came to pass | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \[the\] word | <span class="asgreek">λόγος <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Haggai | <span class="asgreek">Αγγαίαν <sup><small><small>[[H2292b]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prophet, | <span class="asgreek">προφήτην <sup><small><small>[[G4396]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
+| In the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| fourth | <big><span class="asgreek">τετράδι</span></big> <sup><small><small>[[G9440]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| twentieth day | <big><span class="asgreek">εικάδι</span></big> <sup><small><small>[[G7051]]</small></small></sup> |
+| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ninth | <big><span class="asgreek">εννάτω</span></big> <sup><small><small>[[G1766]]</small></small></sup> |
+| month, | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
+| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| second | <big><span class="asgreek">δευτέρω</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| of | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| Darius, | <big><span class="asgreek">Δαρείου</span></big> <sup><small><small>[[H1868]]</small></small></sup> |
+| came to pass | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \[the\] word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Haggai | <big><span class="asgreek">Αγγαίαν</span></big> <sup><small><small>[[H2292b]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prophet, | <big><span class="asgreek">προφήτην</span></big> <sup><small><small>[[G4396]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
 [[Hag.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.9|<< Haggai 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.11|Haggai 2:11 >>]]</td></tr></table>
 
 

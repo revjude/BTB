@@ -9,43 +9,43 @@ Make pomegranates of blue, purple, and scarlet yarn all the way around the lower
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall make | <span class="asgreek">ποιήσεις <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hem | <span class="asgreek">λώμα <sup><small><small>[[G8215]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| undergarment | <span class="asgreek">υποδύτου <sup><small><small>[[G9571]]</small></small></sup> </span> |
-| below, | <span class="asgreek">κάτωθεν <sup><small><small>[[G7985]]</small></small></sup> </span> |
-| as it were | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| of a blossoming | <span class="asgreek">εξανθούσης <sup><small><small>[[G7296]]</small></small></sup> </span> |
-| pomegranate -- | <span class="asgreek">ρόας <sup><small><small>[[G9029]]</small></small></sup> </span> |
-| figures of pomegranates | <span class="asgreek">ροϊσκους <sup><small><small>[[G9032]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| blue, | <span class="asgreek">υακίνθου <sup><small><small>[[G5192]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| purple, | <span class="asgreek">πορφύρας <sup><small><small>[[G4209]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| scarlet | <span class="asgreek">κοκκίνου <sup><small><small>[[G2847]]</small></small></sup> </span> |
-| being spun, | <span class="asgreek">διανενησμένου <sup><small><small>[[G6851]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| linen | <span class="asgreek">βύσσου <sup><small><small>[[G1040]]</small></small></sup> </span> |
-| being twined | <span class="asgreek">κεκλωσμένης <sup><small><small>[[G8029]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hem | <span class="asgreek">λώματος <sup><small><small>[[G8215]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| undergarment | <span class="asgreek">υποδύτου <sup><small><small>[[G9571]]</small></small></sup> </span> |
-| round about. | <span class="asgreek">κύκλω <sup><small><small>[[G2945]]</small></small></sup> </span> |
-| And the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| form of it | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">είδος <sup><small><small>[[G1491]]</small></small></sup> </span> |
-| \[as the\] figures of pomegranates | <span class="asgreek">ροϊσκους <sup><small><small>[[G9032]]</small></small></sup> </span> |
-| of gold, | <span class="asgreek">χρυσούς <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bells | <span class="asgreek">κώδωνας <sup><small><small>[[G8138]]</small></small></sup> </span> |
-| in between | <span class="asgreek">αναμέσον <sup><small><small>[[G6271]]</small></small></sup> </span> |
-| these | <span class="asgreek">τούτων <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[that are\] surrounding. | <span class="asgreek">περικύκλω <sup><small><small>[[G8735]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hem | <big><span class="asgreek">λώμα</span></big> <sup><small><small>[[G8215]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| undergarment | <big><span class="asgreek">υποδύτου</span></big> <sup><small><small>[[G9571]]</small></small></sup> |
+| below, | <big><span class="asgreek">κάτωθεν</span></big> <sup><small><small>[[G7985]]</small></small></sup> |
+| as it were | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| of a blossoming | <big><span class="asgreek">εξανθούσης</span></big> <sup><small><small>[[G7296]]</small></small></sup> |
+| pomegranate -- | <big><span class="asgreek">ρόας</span></big> <sup><small><small>[[G9029]]</small></small></sup> |
+| figures of pomegranates | <big><span class="asgreek">ροϊσκους</span></big> <sup><small><small>[[G9032]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| blue, | <big><span class="asgreek">υακίνθου</span></big> <sup><small><small>[[G5192]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| purple, | <big><span class="asgreek">πορφύρας</span></big> <sup><small><small>[[G4209]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| scarlet | <big><span class="asgreek">κοκκίνου</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
+| being spun, | <big><span class="asgreek">διανενησμένου</span></big> <sup><small><small>[[G6851]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| linen | <big><span class="asgreek">βύσσου</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
+| being twined | <big><span class="asgreek">κεκλωσμένης</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hem | <big><span class="asgreek">λώματος</span></big> <sup><small><small>[[G8215]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| undergarment | <big><span class="asgreek">υποδύτου</span></big> <sup><small><small>[[G9571]]</small></small></sup> |
+| round about. | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
+| And the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| form of it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">είδος</span></big> <sup><small><small>[[G1491]]</small></small></sup> |
+| \[as the\] figures of pomegranates | <big><span class="asgreek">ροϊσκους</span></big> <sup><small><small>[[G9032]]</small></small></sup> |
+| of gold, | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bells | <big><span class="asgreek">κώδωνας</span></big> <sup><small><small>[[G8138]]</small></small></sup> |
+| in between | <big><span class="asgreek">αναμέσον</span></big> <sup><small><small>[[G6271]]</small></small></sup> |
+| these | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[that are\] surrounding. | <big><span class="asgreek">περικύκλω</span></big> <sup><small><small>[[G8735]]</small></small></sup> |
 [[Exod.28.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.32|<< Exodus 28:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.34|Exodus 28:34 >>]]</td></tr></table>
 
 

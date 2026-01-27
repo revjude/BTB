@@ -13,36 +13,36 @@ And He will be a sanctuary—but to both houses of Israel a stone of stumbling a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| even | <span class="asgreek">καν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| yielding | <span class="asgreek">πεποιθώς <sup><small><small>[[G3982]]</small></small></sup> </span> |
-| You should be | <span class="asgreek">ης <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| he will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a sanctuary; | <span class="asgreek">αγίασμα <sup><small><small>[[G6114]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a stone | <span class="asgreek">λίθου <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| of stumbling | <span class="asgreek">προσκόμματι <sup><small><small>[[G4348]]</small></small></sup> </span> |
-| for you to meet up with, | <span class="asgreek">συναντήσεσθε <sup><small><small>[[G4876]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδ΄ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a rock | <span class="asgreek">πέτρας <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| downfall; | <span class="asgreek">πτώματι <sup><small><small>[[G4430]]</small></small></sup> </span> |
-| but the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| houses | <span class="asgreek">οίκοι <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of Jacob | <span class="asgreek">Ιακώβ <sup><small><small>[[G2384]]</small></small></sup> </span> |
-| \[are\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a snare, | <span class="asgreek">παγίδι <sup><small><small>[[G3803]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a hollow | <span class="asgreek">κοιλώματι <sup><small><small>[[G8043]]</small></small></sup> </span> |
-| lying in wait | <span class="asgreek">εγκαθήμενοι <sup><small><small>[[G7002]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Jerusalem. | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
+| even | <big><span class="asgreek">καν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| yielding | <big><span class="asgreek">πεποιθώς</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
+| You should be | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| he will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a sanctuary; | <big><span class="asgreek">αγίασμα</span></big> <sup><small><small>[[G6114]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a stone | <big><span class="asgreek">λίθου</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| of stumbling | <big><span class="asgreek">προσκόμματι</span></big> <sup><small><small>[[G4348]]</small></small></sup> |
+| for you to meet up with, | <big><span class="asgreek">συναντήσεσθε</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδ΄</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a rock | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| downfall; | <big><span class="asgreek">πτώματι</span></big> <sup><small><small>[[G4430]]</small></small></sup> |
+| but the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| houses | <big><span class="asgreek">οίκοι</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of Jacob | <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| \[are\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a snare, | <big><span class="asgreek">παγίδι</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a hollow | <big><span class="asgreek">κοιλώματι</span></big> <sup><small><small>[[G8043]]</small></small></sup> |
+| lying in wait | <big><span class="asgreek">εγκαθήμενοι</span></big> <sup><small><small>[[G7002]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Jerusalem. | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
 [[Isa.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.13|<< Isaiah 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.15|Isaiah 8:15 >>]]</td></tr></table>
 
 

@@ -9,16 +9,16 @@ with the bountiful harvest from the sun and the abundant yield of the seasons,<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| according to | <span class="asgreek">καθ΄ <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \[the\] season | <span class="asgreek">ώραν <sup><small><small>[[G5610]]</small></small></sup> </span> |
-| of \[the\] offsprings | <span class="asgreek">γενημάτων <sup><small><small>[[G1081]]</small></small></sup> </span> |
-| of \[the\] sun | <span class="asgreek">ηλίου <sup><small><small>[[G2246]]</small></small></sup> </span> |
-| of \[the\] circuits | <span class="asgreek">τροπών <sup><small><small>[[G5157]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] returns | <span class="asgreek">συνόδων <sup><small><small>[[G9331]]</small></small></sup> </span> |
-| of \[the\] months; | <span class="asgreek">μηνών <sup><small><small>[[G3376]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| according to | <big><span class="asgreek">καθ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \[the\] season | <big><span class="asgreek">ώραν</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
+| of \[the\] offsprings | <big><span class="asgreek">γενημάτων</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
+| of \[the\] sun | <big><span class="asgreek">ηλίου</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
+| of \[the\] circuits | <big><span class="asgreek">τροπών</span></big> <sup><small><small>[[G5157]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] returns | <big><span class="asgreek">συνόδων</span></big> <sup><small><small>[[G9331]]</small></small></sup> |
+| of \[the\] months; | <big><span class="asgreek">μηνών</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
 [[Deut.33.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.13|<< Deuteronomy 33:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.15|Deuteronomy 33:15 >>]]</td></tr></table>
 
 

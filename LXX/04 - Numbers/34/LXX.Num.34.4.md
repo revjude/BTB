@@ -9,36 +9,36 @@ cross south of the Ascent of Akrabbim, continue to Zin, and go south of Kadesh-b
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall encircle | <span class="asgreek">κυκλώσει <sup><small><small>[[G2944]]</small></small></sup> </span> |
-| you | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| borders | <span class="asgreek">όρια <sup><small><small>[[G3725]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] south | <span class="asgreek">λιβός <sup><small><small>[[G3047]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \[the\] ascending | <span class="asgreek">ανάβασιν <sup><small><small>[[G6273]]</small></small></sup> </span> |
-| of Akrabbim, | <span class="asgreek">Ακραβίν <sup><small><small>[[H4610]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall go by | <span class="asgreek">παρελεύσεται <sup><small><small>[[G3928]]</small></small></sup> </span> |
-| Ennak. | <span class="asgreek">Εννάκ <sup><small><small>[[H6790]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its outer reaches | <span class="asgreek">διέξοδος <sup><small><small>[[G1327]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| towards | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \[the\] south -- | <span class="asgreek">λίβα <sup><small><small>[[G3047]]</small></small></sup> </span> |
-| Kadesh | <span class="asgreek">Κάδης <sup><small><small>[[H6946]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Barnea. | <span class="asgreek">Βαρνή <sup><small><small>[[H6947]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall come forth | <span class="asgreek">εξελεύσεται <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] property | <span class="asgreek">έπαυλιν <sup><small><small>[[G1886]]</small></small></sup> </span> |
-| of Addar, | <span class="asgreek">Αράδ <sup><small><small>[[H0146]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall go by | <span class="asgreek">παρελεύσεται <sup><small><small>[[G3928]]</small></small></sup> </span> |
-| Azmon. | <span class="asgreek">Ασεμωνά <sup><small><small>[[H6111]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall encircle | <big><span class="asgreek">κυκλώσει</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
+| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] south | <big><span class="asgreek">λιβός</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \[the\] ascending | <big><span class="asgreek">ανάβασιν</span></big> <sup><small><small>[[G6273]]</small></small></sup> |
+| of Akrabbim, | <big><span class="asgreek">Ακραβίν</span></big> <sup><small><small>[[H4610]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall go by | <big><span class="asgreek">παρελεύσεται</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
+| Ennak. | <big><span class="asgreek">Εννάκ</span></big> <sup><small><small>[[H6790]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its outer reaches | <big><span class="asgreek">διέξοδος</span></big> <sup><small><small>[[G1327]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| towards | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \[the\] south -- | <big><span class="asgreek">λίβα</span></big> <sup><small><small>[[G3047]]</small></small></sup> |
+| Kadesh | <big><span class="asgreek">Κάδης</span></big> <sup><small><small>[[H6946]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Barnea. | <big><span class="asgreek">Βαρνή</span></big> <sup><small><small>[[H6947]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall come forth | <big><span class="asgreek">εξελεύσεται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] property | <big><span class="asgreek">έπαυλιν</span></big> <sup><small><small>[[G1886]]</small></small></sup> |
+| of Addar, | <big><span class="asgreek">Αράδ</span></big> <sup><small><small>[[H0146]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall go by | <big><span class="asgreek">παρελεύσεται</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
+| Azmon. | <big><span class="asgreek">Ασεμωνά</span></big> <sup><small><small>[[H6111]]</small></small></sup> |
 [[Num.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.3|<< Numbers 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.5|Numbers 34:5 >>]]</td></tr></table>
 
 

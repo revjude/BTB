@@ -9,27 +9,27 @@ Then I said, “I will no longer shepherd you. Let the dying die, and the perish
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I said, | <span class="asgreek">είπα <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| I will not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| tend | <span class="asgreek">ποιμανώ <sup><small><small>[[G4165]]</small></small></sup> </span> |
-| you. | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| The | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dying, | <span class="asgreek">αποθνήσκον <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| let it die! | <span class="asgreek">αποθνησκέτω <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| failing, | <span class="asgreek">εκλείπον <sup><small><small>[[G1587]]</small></small></sup> </span> |
-| let it fail! | <span class="asgreek">εκλιπέτω <sup><small><small>[[G1587]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rest, | <span class="asgreek">κατάλοιπα <sup><small><small>[[G2645]]</small></small></sup> </span> |
-| eat | <span class="asgreek">κατεσθιέτωσαν <sup><small><small>[[G2719]]</small></small></sup> </span> |
-| each | <span class="asgreek">έκαστος <sup><small><small>[[G1538]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| flesh | <span class="asgreek">σάρκας <sup><small><small>[[G4561]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his neighbor! | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| I will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| tend | <big><span class="asgreek">ποιμανώ</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
+| you. | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dying, | <big><span class="asgreek">αποθνήσκον</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| let it die! | <big><span class="asgreek">αποθνησκέτω</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| failing, | <big><span class="asgreek">εκλείπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| let it fail! | <big><span class="asgreek">εκλιπέτω</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rest, | <big><span class="asgreek">κατάλοιπα</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
+| eat | <big><span class="asgreek">κατεσθιέτωσαν</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
+| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| flesh | <big><span class="asgreek">σάρκας</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his neighbor! | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Zech.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.8|<< Zechariah 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.10|Zechariah 11:10 >>]]</td></tr></table>
 
 

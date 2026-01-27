@@ -9,22 +9,22 @@ it is sharpened for the slaughter, polished to flash like lightning! Should we r
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| so that | <span class="asgreek">όπως <sup><small><small>[[G3704]]</small></small></sup> </span> |
-| you should slay | <span class="asgreek">σφάξης <sup><small><small>[[G4969]]</small></small></sup> </span> |
-| victims for slaughter. | <span class="asgreek">σφάγια <sup><small><small>[[G4968]]</small></small></sup> </span> |
-| Be sharpened! | <span class="asgreek">οξύνου <sup><small><small>[[G8528]]</small></small></sup> </span> |
-| so that | <span class="asgreek">όπως <sup><small><small>[[G3704]]</small></small></sup> </span> |
-| you should become | <span class="asgreek">γένη <sup><small><small>[[G1096]]</small></small></sup> </span> |
-|  | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| shiny. | <span class="asgreek">στίλβωσιν <sup><small><small>[[G9183]]</small></small></sup> </span> |
-| Prepare | <span class="asgreek">ετοίμη <sup><small><small>[[G2092]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| paralysis! | <span class="asgreek">παράλυσιν <sup><small><small>[[G8625]]</small></small></sup> </span> |
-| Slay! | <span class="asgreek">σφάζε <sup><small><small>[[G4969]]</small></small></sup> </span> |
-| Treat with contempt! | <span class="asgreek">εξουδένει <sup><small><small>[[G1847]]</small></small></sup> </span> |
-| Put aside | <span class="asgreek">απόθου <sup><small><small>[[G0659]]</small></small></sup> </span> |
-| every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| tree! | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
+| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
+| you should slay | <big><span class="asgreek">σφάξης</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
+| victims for slaughter. | <big><span class="asgreek">σφάγια</span></big> <sup><small><small>[[G4968]]</small></small></sup> |
+| Be sharpened! | <big><span class="asgreek">οξύνου</span></big> <sup><small><small>[[G8528]]</small></small></sup> |
+| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
+| you should become | <big><span class="asgreek">γένη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+|  | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| shiny. | <big><span class="asgreek">στίλβωσιν</span></big> <sup><small><small>[[G9183]]</small></small></sup> |
+| Prepare | <big><span class="asgreek">ετοίμη</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| paralysis! | <big><span class="asgreek">παράλυσιν</span></big> <sup><small><small>[[G8625]]</small></small></sup> |
+| Slay! | <big><span class="asgreek">σφάζε</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
+| Treat with contempt! | <big><span class="asgreek">εξουδένει</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
+| Put aside | <big><span class="asgreek">απόθου</span></big> <sup><small><small>[[G0659]]</small></small></sup> |
+| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| tree! | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
 [[Ezek.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.9|<< Ezekiel 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.11|Ezekiel 21:11 >>]]</td></tr></table>
 
 

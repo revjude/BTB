@@ -12,21 +12,21 @@ You have deceived me, O LORD, and I was deceived. You have overcome me and preva
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You deceived | <span class="asgreek">ηπάτησάς <sup><small><small>[[G0538]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I was deceived. | <span class="asgreek">ηπατήθην <sup><small><small>[[G0538]]</small></small></sup> </span> |
-| You held | <span class="asgreek">εκράτησας <sup><small><small>[[G2902]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| prevailed. | <span class="asgreek">ηδυνάσθης <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| I became | <span class="asgreek">εγενόμην <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| laughter. | <span class="asgreek">γέλωτα <sup><small><small>[[G1071]]</small></small></sup> </span> |
-| Every | <span class="asgreek">πάσαν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέραν <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| I continue | <span class="asgreek">διετέλεσα <sup><small><small>[[G1300]]</small></small></sup> </span> |
-| being sneered at. | <span class="asgreek">μυκτηριζόμενος <sup><small><small>[[G3456]]</small></small></sup> </span> |
+| You deceived | <big><span class="asgreek">ηπάτησάς</span></big> <sup><small><small>[[G0538]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I was deceived. | <big><span class="asgreek">ηπατήθην</span></big> <sup><small><small>[[G0538]]</small></small></sup> |
+| You held | <big><span class="asgreek">εκράτησας</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| prevailed. | <big><span class="asgreek">ηδυνάσθης</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| I became | <big><span class="asgreek">εγενόμην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| laughter. | <big><span class="asgreek">γέλωτα</span></big> <sup><small><small>[[G1071]]</small></small></sup> |
+| Every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| I continue | <big><span class="asgreek">διετέλεσα</span></big> <sup><small><small>[[G1300]]</small></small></sup> |
+| being sneered at. | <big><span class="asgreek">μυκτηριζόμενος</span></big> <sup><small><small>[[G3456]]</small></small></sup> |
 [[Jer.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.6|<< Jeremiah 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.8|Jeremiah 20:8 >>]]</td></tr></table>
 
 

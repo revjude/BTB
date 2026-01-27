@@ -14,17 +14,17 @@ Sing to the LORD a new song; sing to the LORD, all the earth.<small><sub>**MT:*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Sing | <span class="asgreek">άσατε <sup><small><small>[[G0103]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| song | <span class="asgreek">άσμα <sup><small><small>[[G6571]]</small></small></sup> </span> |
-| a new | <span class="asgreek">καινόν <sup><small><small>[[G2537]]</small></small></sup> </span> |
-| Sing | <span class="asgreek">άσατε <sup><small><small>[[G0103]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth! | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| Sing | <big><span class="asgreek">άσατε</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| song | <big><span class="asgreek">άσμα</span></big> <sup><small><small>[[G6571]]</small></small></sup> |
+| a new | <big><span class="asgreek">καινόν</span></big> <sup><small><small>[[G2537]]</small></small></sup> |
+| Sing | <big><span class="asgreek">άσατε</span></big> <sup><small><small>[[G0103]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth! | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
 [[Ps.96.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.11|<< Psalm 95:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.2|Psalm 96:2 >>]]</td></tr></table>
 
 

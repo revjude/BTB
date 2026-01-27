@@ -9,18 +9,18 @@ From the descendants of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Bebai -- | <span class="asgreek">Βαβί <sup><small><small>[[H0893]]</small></small></sup> </span> |
-| Jehohanan, | <span class="asgreek">Ιανάν <sup><small><small>[[H3076]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Hananiah, | <span class="asgreek">Ανανί <sup><small><small>[[H2607]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Zabbai, | <span class="asgreek">Ζαβού <sup><small><small>[[H2079]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Athlai. | <span class="asgreek">Θαλί <sup><small><small>[[H6270]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Bebai -- | <big><span class="asgreek">Βαβί</span></big> <sup><small><small>[[H0893]]</small></small></sup> |
+| Jehohanan, | <big><span class="asgreek">Ιανάν</span></big> <sup><small><small>[[H3076]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Hananiah, | <big><span class="asgreek">Ανανί</span></big> <sup><small><small>[[H2607]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Zabbai, | <big><span class="asgreek">Ζαβού</span></big> <sup><small><small>[[H2079]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Athlai. | <big><span class="asgreek">Θαλί</span></big> <sup><small><small>[[H6270]]</small></small></sup> |
 [[Ezra.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.27|<< Ezra 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.29|Ezra 10:29 >>]]</td></tr></table>
 
 

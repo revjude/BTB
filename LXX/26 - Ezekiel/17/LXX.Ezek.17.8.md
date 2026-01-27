@@ -9,25 +9,25 @@ It had been planted in good soil by abundant waters in order to yield branches a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| ground | <span class="asgreek">πεδίον <sup><small><small>[[G8676]]</small></small></sup> </span> |
-| good | <span class="asgreek">καλόν <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδατι <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| much | <span class="asgreek">πολλώ <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| she | <span class="asgreek">αύτη <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| was fattened | <span class="asgreek">πιαίνεται <sup><small><small>[[G8790]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to produce | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| buds | <span class="asgreek">βλαστούς <sup><small><small>[[G0986]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to bear | <span class="asgreek">φέρειν <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| fruit, | <span class="asgreek">καρπόν <sup><small><small>[[G2590]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to be | <span class="asgreek">είναι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[made\] into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| vine | <span class="asgreek">άμπελον <sup><small><small>[[G0288]]</small></small></sup> </span> |
-| a great | <span class="asgreek">μεγάλην <sup><small><small>[[G3173]]</small></small></sup> </span> |
+| In | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| ground | <big><span class="asgreek">πεδίον</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
+| good | <big><span class="asgreek">καλόν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| much | <big><span class="asgreek">πολλώ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| she | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| was fattened | <big><span class="asgreek">πιαίνεται</span></big> <sup><small><small>[[G8790]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to produce | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| buds | <big><span class="asgreek">βλαστούς</span></big> <sup><small><small>[[G0986]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to bear | <big><span class="asgreek">φέρειν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| fruit, | <big><span class="asgreek">καρπόν</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[made\] into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| vine | <big><span class="asgreek">άμπελον</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
+| a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
 [[Ezek.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.7|<< Ezekiel 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.9|Ezekiel 17:9 >>]]</td></tr></table>
 
 

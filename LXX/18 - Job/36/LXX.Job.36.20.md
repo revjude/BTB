@@ -9,14 +9,14 @@ Do not long for the night, when people vanish from their homes.<small><sub>**MT
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You shall not drag away | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">εξελκύσης <sup><small><small>[[G1828]]</small></small></sup> </span> |
-| by | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| night, | <span class="asgreek">νύκτα <sup><small><small>[[G3571]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| should ascend | <span class="asgreek">αναβήναι <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| \[so that\] others | <span class="asgreek">άλλους <sup><small><small>[[G0243]]</small></small></sup> </span> |
-| instead of | <span class="asgreek">αντ΄ <sup><small><small>[[G0473]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| You shall not drag away | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εξελκύσης</span></big> <sup><small><small>[[G1828]]</small></small></sup> |
+| by | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| night, | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| should ascend | <big><span class="asgreek">αναβήναι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| \[so that\] others | <big><span class="asgreek">άλλους</span></big> <sup><small><small>[[G0243]]</small></small></sup> |
+| instead of | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.36.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.19|<< Job 36:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.21|Job 36:21 >>]]</td></tr></table>
 
 

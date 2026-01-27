@@ -9,18 +9,18 @@ For the breastpiece they made braided chains like cords of pure gold.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they made | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| oracle | <span class="asgreek">λογείον <sup><small><small>[[G3051]]</small></small></sup> </span> |
-| a border | <span class="asgreek">κροσσούς <sup><small><small>[[G8101]]</small></small></sup> </span> |
-| being closely joined | <span class="asgreek">συμπεπλεγμένους <sup><small><small>[[G9275]]</small></small></sup> </span> |
-| a work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| of wreath | <span class="asgreek">εμπλοκίου <sup><small><small>[[G7199]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| gold | <span class="asgreek">χρυσίου <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| pure | <span class="asgreek">καθαρού <sup><small><small>[[G2513]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| oracle | <big><span class="asgreek">λογείον</span></big> <sup><small><small>[[G3051]]</small></small></sup> |
+| a border | <big><span class="asgreek">κροσσούς</span></big> <sup><small><small>[[G8101]]</small></small></sup> |
+| being closely joined | <big><span class="asgreek">συμπεπλεγμένους</span></big> <sup><small><small>[[G9275]]</small></small></sup> |
+| a work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| of wreath | <big><span class="asgreek">εμπλοκίου</span></big> <sup><small><small>[[G7199]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| pure | <big><span class="asgreek">καθαρού</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
 [[Exod.39.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.14|<< Exodus 39:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.16|Exodus 39:16 >>]]</td></tr></table>
 
 

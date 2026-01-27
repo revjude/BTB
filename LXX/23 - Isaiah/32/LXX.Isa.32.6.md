@@ -9,34 +9,34 @@ For a fool speaks foolishness; his mind plots iniquity. He practices ungodliness
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| moron | <span class="asgreek">μωρός <sup><small><small>[[G3474]]</small></small></sup> </span> |
-| moronish | <span class="asgreek">μωρά <sup><small><small>[[G3474]]</small></small></sup> </span> |
-| shall speak | <span class="asgreek">λαλήσει <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his heart | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| vanities | <span class="asgreek">μάταια <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| shall purpose | <span class="asgreek">νοήσει <sup><small><small>[[G3539]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to complete | <span class="asgreek">συντελείν <sup><small><small>[[G4931]]</small></small></sup> </span> |
-| lawless deeds, | <span class="asgreek">άνομα <sup><small><small>[[G0459]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to speak | <span class="asgreek">λαλείν <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| against | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| a delusion | <span class="asgreek">πλάνησιν <sup><small><small>[[G8801]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to scatter | <span class="asgreek">διασπείραι <sup><small><small>[[G1289]]</small></small></sup> </span> |
-| souls | <span class="asgreek">ψυχάς <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| hungering | <span class="asgreek">πεινώσας <sup><small><small>[[G3983]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| souls | <span class="asgreek">ψυχάς <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thirsting | <span class="asgreek">διψώσας <sup><small><small>[[G1372]]</small></small></sup> </span> |
-| vain \[things\] | <span class="asgreek">κενάς <sup><small><small>[[G2756]]</small></small></sup> </span> |
-| causing | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> </span> |
+| For the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| moron | <big><span class="asgreek">μωρός</span></big> <sup><small><small>[[G3474]]</small></small></sup> |
+| moronish | <big><span class="asgreek">μωρά</span></big> <sup><small><small>[[G3474]]</small></small></sup> |
+| shall speak | <big><span class="asgreek">λαλήσει</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| vanities | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| shall purpose | <big><span class="asgreek">νοήσει</span></big> <sup><small><small>[[G3539]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to complete | <big><span class="asgreek">συντελείν</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
+| lawless deeds, | <big><span class="asgreek">άνομα</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to speak | <big><span class="asgreek">λαλείν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| against | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| a delusion | <big><span class="asgreek">πλάνησιν</span></big> <sup><small><small>[[G8801]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to scatter | <big><span class="asgreek">διασπείραι</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
+| souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| hungering | <big><span class="asgreek">πεινώσας</span></big> <sup><small><small>[[G3983]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| for the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thirsting | <big><span class="asgreek">διψώσας</span></big> <sup><small><small>[[G1372]]</small></small></sup> |
+| vain \[things\] | <big><span class="asgreek">κενάς</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
+| causing | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
 [[Isa.32.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.5|<< Isaiah 32:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.7|Isaiah 32:7 >>]]</td></tr></table>
 
 

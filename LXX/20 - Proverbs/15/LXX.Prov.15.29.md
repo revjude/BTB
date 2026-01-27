@@ -9,25 +9,25 @@ The LORD is far from the wicked, but He hears the prayer of the righteous.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[is\] far | <span class="asgreek">μακράν <sup><small><small>[[G3112]]</small></small></sup> </span> |
-| at a distance | <span class="asgreek">απέχει <sup><small><small>[[G0568]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] impious; | <span class="asgreek">ασεβών <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| but vows | <span class="asgreek">ευχαίς <sup><small><small>[[G2171]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of just ones | <span class="asgreek">δικαίων <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| he heeds. | <span class="asgreek">επακούει <sup><small><small>[[G1873]]</small></small></sup> </span> |
-| Better | <span class="asgreek">κρείσσων <sup><small><small>[[G2908]]</small></small></sup> </span> |
-| \[are\] few | <span class="asgreek">ολίγη <sup><small><small>[[G3641]]</small></small></sup> </span> |
-| receipts | <span class="asgreek">λήψις <sup><small><small>[[G3028]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| righteousness, | <span class="asgreek">δικαιοσύνης <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| than | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| abundant | <span class="asgreek">πολλά <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| produce | <span class="asgreek">γεννήματα <sup><small><small>[[G1081]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| injustice. | <span class="asgreek">αδικίας <sup><small><small>[[G0093]]</small></small></sup> </span> |
+| \[is\] far | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
+| at a distance | <big><span class="asgreek">απέχει</span></big> <sup><small><small>[[G0568]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] impious; | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| but vows | <big><span class="asgreek">ευχαίς</span></big> <sup><small><small>[[G2171]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of just ones | <big><span class="asgreek">δικαίων</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| he heeds. | <big><span class="asgreek">επακούει</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
+| Better | <big><span class="asgreek">κρείσσων</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
+| \[are\] few | <big><span class="asgreek">ολίγη</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
+| receipts | <big><span class="asgreek">λήψις</span></big> <sup><small><small>[[G3028]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| righteousness, | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| abundant | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| produce | <big><span class="asgreek">γεννήματα</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| injustice. | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
 [[Prov.15.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.28|<< Proverbs 15:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.30|Proverbs 15:30 >>]]</td></tr></table>
 
 

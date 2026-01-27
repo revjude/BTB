@@ -9,19 +9,19 @@ Their bulls breed without fail; their cows bear calves and do not miscarry.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Their ox | <span class="asgreek">βους <sup><small><small>[[G1016]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| does not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| bring forth prematurely, | <span class="asgreek">ωμοτόκησε <sup><small><small>[[G9812]]</small></small></sup> </span> |
-| are preserved | <span class="asgreek">διεσώθη <sup><small><small>[[G1295]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| their | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| ones | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| pregnant | <span class="asgreek">γαστρί <sup><small><small>[[G1064]]</small></small></sup> </span> |
-| to have, | <span class="asgreek">έχουσα <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| to trip. | <span class="asgreek">έσφαλε <sup><small><small>[[G9366]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Their ox | <big><span class="asgreek">βους</span></big> <sup><small><small>[[G1016]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| does not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| bring forth prematurely, | <big><span class="asgreek">ωμοτόκησε</span></big> <sup><small><small>[[G9812]]</small></small></sup> |
+| are preserved | <big><span class="asgreek">διεσώθη</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ones | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| pregnant | <big><span class="asgreek">γαστρί</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
+| to have, | <big><span class="asgreek">έχουσα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| to trip. | <big><span class="asgreek">έσφαλε</span></big> <sup><small><small>[[G9366]]</small></small></sup> |
 [[Job.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.9|<< Job 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.11|Job 21:11 >>]]</td></tr></table>
 
 

@@ -9,32 +9,32 @@ Look at Assyria, a cedar in Lebanon, with beautiful branches that shaded the for
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| Assyria | <span class="asgreek">Ασσούρ <sup><small><small>[[H0804]]</small></small></sup> </span> |
-| \[was\] a cypress | <span class="asgreek">κυπάρισσος <sup><small><small>[[G8130]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Lebanon, | <span class="asgreek">Λιβάνω <sup><small><small>[[H3844]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| goodly | <span class="asgreek">καλός <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| in | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shoots, | <span class="asgreek">παραφυάσι <sup><small><small>[[G8644]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| dense | <span class="asgreek">πυκνός <sup><small><small>[[G4437]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| protection, | <span class="asgreek">σκέπη <sup><small><small>[[G9098]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| high | <span class="asgreek">υψηλός <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in size; | <span class="asgreek">μεγέθει <sup><small><small>[[G3174]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] midst | <span class="asgreek">μέσον <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| of \[the\] clouds | <span class="asgreek">νεφελών <sup><small><small>[[G3507]]</small></small></sup> </span> |
-| came | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his top | <span class="asgreek">αρχή <sup><small><small>[[G0746]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| Assyria | <big><span class="asgreek">Ασσούρ</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
+| \[was\] a cypress | <big><span class="asgreek">κυπάρισσος</span></big> <sup><small><small>[[G8130]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Lebanon, | <big><span class="asgreek">Λιβάνω</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| goodly | <big><span class="asgreek">καλός</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| in | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shoots, | <big><span class="asgreek">παραφυάσι</span></big> <sup><small><small>[[G8644]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| dense | <big><span class="asgreek">πυκνός</span></big> <sup><small><small>[[G4437]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| protection, | <big><span class="asgreek">σκέπη</span></big> <sup><small><small>[[G9098]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| high | <big><span class="asgreek">υψηλός</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in size; | <big><span class="asgreek">μεγέθει</span></big> <sup><small><small>[[G3174]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] midst | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| of \[the\] clouds | <big><span class="asgreek">νεφελών</span></big> <sup><small><small>[[G3507]]</small></small></sup> |
+| came | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his top | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.2|<< Ezekiel 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.4|Ezekiel 31:4 >>]]</td></tr></table>
 
 

@@ -9,26 +9,26 @@ Yes, he struggled with the angel and prevailed; he wept and sought His favor; he
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he grew in strength | <span class="asgreek">ενίσχυσε <sup><small><small>[[G1765]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \[the\] angel, | <span class="asgreek">αγγέλου <sup><small><small>[[G0032]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he prevailed; | <span class="asgreek">ηδυνάσθη <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| they wept | <span class="asgreek">έκλαυσαν <sup><small><small>[[G2799]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| beseeched | <span class="asgreek">εδεήθησάν <sup><small><small>[[G1189]]</small></small></sup> </span> |
-| me; | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκω <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of On | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| they found | <span class="asgreek">ευροσάν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| me. | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| There | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| it was spoken | <span class="asgreek">ελαλήθη <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he grew in strength | <big><span class="asgreek">ενίσχυσε</span></big> <sup><small><small>[[G1765]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \[the\] angel, | <big><span class="asgreek">αγγέλου</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he prevailed; | <big><span class="asgreek">ηδυνάσθη</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| they wept | <big><span class="asgreek">έκλαυσαν</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| beseeched | <big><span class="asgreek">εδεήθησάν</span></big> <sup><small><small>[[G1189]]</small></small></sup> |
+| me; | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of On | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| they found | <big><span class="asgreek">ευροσάν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| There | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| it was spoken | <big><span class="asgreek">ελαλήθη</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Hos.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.3|<< Hosea 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.5|Hosea 12:5 >>]]</td></tr></table>
 
 

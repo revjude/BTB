@@ -9,25 +9,25 @@ The shekel will consist of twenty gerahs. Twenty shekels plus twenty-five shekel
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| weight | <span class="asgreek">στάθμιον <sup><small><small>[[G9149]]</small></small></sup> </span> |
-| twenty | <span class="asgreek">είκοσι <sup><small><small>[[G1501]]</small></small></sup> </span> |
-| oboli | <span class="asgreek">οβολοί <sup><small><small>[[G8438]]</small></small></sup> </span> |
-| five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| shekels; | <span class="asgreek">σίκλοι <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| twenty | <span class="asgreek">είκοσι <sup><small><small>[[G1501]]</small></small></sup> </span> |
-| five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| shekels, | <span class="asgreek">σίκλοι <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| ten | <span class="asgreek">δέκα <sup><small><small>[[G1176]]</small></small></sup> </span> |
-| shekels | <span class="asgreek">σίκλοι <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| for the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mina | <span class="asgreek">μνα <sup><small><small>[[G3414]]</small></small></sup> </span> |
-| let it be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to you | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| weight | <big><span class="asgreek">στάθμιον</span></big> <sup><small><small>[[G9149]]</small></small></sup> |
+| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
+| oboli | <big><span class="asgreek">οβολοί</span></big> <sup><small><small>[[G8438]]</small></small></sup> |
+| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| shekels; | <big><span class="asgreek">σίκλοι</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
+| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| shekels, | <big><span class="asgreek">σίκλοι</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| shekels | <big><span class="asgreek">σίκλοι</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| for the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mina | <big><span class="asgreek">μνα</span></big> <sup><small><small>[[G3414]]</small></small></sup> |
+| let it be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ezek.45.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.11|<< Ezekiel 45:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.13|Ezekiel 45:13 >>]]</td></tr></table>
 
 

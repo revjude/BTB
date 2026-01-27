@@ -9,18 +9,18 @@ I am dark, yet lovely, O daughters of Jerusalem, like the tents of Kedar, like t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| black | <span class="asgreek">μέλαινα <sup><small><small>[[G3189]]</small></small></sup> </span> |
-| I am | <span class="asgreek">ειμί <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| fair, | <span class="asgreek">καλή <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| O daughters | <span class="asgreek">θυγατέρες <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Jerusalem, | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] tents | <span class="asgreek">σκηνώματα <sup><small><small>[[G4638]]</small></small></sup> </span> |
-| of Kedar, | <span class="asgreek">Κηδάρ <sup><small><small>[[H6938]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] hide coverings | <span class="asgreek">δέρρεις <sup><small><small>[[G6801]]</small></small></sup> </span> |
-| of Solomon. | <span class="asgreek">Σολομώντος <sup><small><small>[[G4672]]</small></small></sup> </span> |
+| black | <big><span class="asgreek">μέλαινα</span></big> <sup><small><small>[[G3189]]</small></small></sup> |
+| I am | <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| fair, | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| O daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] tents | <big><span class="asgreek">σκηνώματα</span></big> <sup><small><small>[[G4638]]</small></small></sup> |
+| of Kedar, | <big><span class="asgreek">Κηδάρ</span></big> <sup><small><small>[[H6938]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] hide coverings | <big><span class="asgreek">δέρρεις</span></big> <sup><small><small>[[G6801]]</small></small></sup> |
+| of Solomon. | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
 [[Song.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.4|<< Song of Solomon 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.6|Song of Solomon 1:6 >>]]</td></tr></table>
 
 

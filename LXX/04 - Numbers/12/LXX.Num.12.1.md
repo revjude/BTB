@@ -12,21 +12,21 @@ Then Miriam and Aaron criticized Moses because of the Cushite woman he had marri
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| spoke | <span class="asgreek">ελάλησε <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| Miriam | <span class="asgreek">Μαριάμ <sup><small><small>[[G3137]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Aaron | <span class="asgreek">Ααρών <sup><small><small>[[G0002]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| Moses, | <span class="asgreek">Μωυσή <sup><small><small>[[G3475]]</small></small></sup> </span> |
-| because of | <span class="asgreek">ένεκεν <sup><small><small>[[G1752]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Ethiopian wife, | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">Αιθιοπίσσης <sup><small><small>[[G0128]]</small></small></sup> </span> |
-| whom | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| Moses took, | <span class="asgreek">έλαβε <sup><small><small>[[G2983]]</small></small></sup> <span class="asgreek">Μωυσής <sup><small><small>[[G3475]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| an Ethiopian woman | <span class="asgreek">γυναίκα <sup><small><small>[[G1135]]</small></small></sup> <span class="asgreek">Αιθιοπίσσαν <sup><small><small>[[G0128]]</small></small></sup> </span> |
-| he took | <span class="asgreek">έλαβε <sup><small><small>[[G2983]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| spoke | <big><span class="asgreek">ελάλησε</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| Miriam | <big><span class="asgreek">Μαριάμ</span></big> <sup><small><small>[[G3137]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Aaron | <big><span class="asgreek">Ααρών</span></big> <sup><small><small>[[G0002]]</small></small></sup> |
+| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| Moses, | <big><span class="asgreek">Μωυσή</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| because of | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Ethiopian wife, | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">Αιθιοπίσσης</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
+| whom | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| Moses took, | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">Μωυσής</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| an Ethiopian woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">Αιθιοπίσσαν</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
+| he took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
 [[Num.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.35|<< Numbers 11:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.2|Numbers 12:2 >>]]</td></tr></table>
 
 

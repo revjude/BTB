@@ -9,15 +9,15 @@ He will not enjoy the streams, the rivers flowing with honey and cream.<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| May he not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| behold | <span class="asgreek">ίδοι <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| \[the\] milking | <span class="asgreek">άμελξιν <sup><small><small>[[G6256]]</small></small></sup> </span> |
-| of grazing \[animals\], | <span class="asgreek">νομάδων <sup><small><small>[[G8402]]</small></small></sup> </span> |
-| nor | <span class="asgreek">μηδέ <sup><small><small>[[G3366]]</small></small></sup> </span> |
-| \[the\] pastures | <span class="asgreek">νομάς <sup><small><small>[[G3542]]</small></small></sup> </span> |
-| of honey | <span class="asgreek">μέλιτος <sup><small><small>[[G3192]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| butter. | <span class="asgreek">βουτύρου <sup><small><small>[[G6694]]</small></small></sup> </span> |
+| May he not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| behold | <big><span class="asgreek">ίδοι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| \[the\] milking | <big><span class="asgreek">άμελξιν</span></big> <sup><small><small>[[G6256]]</small></small></sup> |
+| of grazing \[animals\], | <big><span class="asgreek">νομάδων</span></big> <sup><small><small>[[G8402]]</small></small></sup> |
+| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
+| \[the\] pastures | <big><span class="asgreek">νομάς</span></big> <sup><small><small>[[G3542]]</small></small></sup> |
+| of honey | <big><span class="asgreek">μέλιτος</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| butter. | <big><span class="asgreek">βουτύρου</span></big> <sup><small><small>[[G6694]]</small></small></sup> |
 [[Job.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.16|<< Job 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.18|Job 20:18 >>]]</td></tr></table>
 
 

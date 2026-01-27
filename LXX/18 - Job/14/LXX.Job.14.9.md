@@ -9,14 +9,14 @@ at the scent of water it will bud and put forth twigs like a sapling.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] scent | <span class="asgreek">οσμής <sup><small><small>[[G3744]]</small></small></sup> </span> |
-| of water | <span class="asgreek">ύδατος <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| it shall bloom, | <span class="asgreek">ανθήσει <sup><small><small>[[G6341]]</small></small></sup> </span> |
-| and shall produce | <span class="asgreek">ποιήσει <sup><small><small>[[G4160]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| a harvest | <span class="asgreek">θερισμόν <sup><small><small>[[G2326]]</small></small></sup> </span> |
-| as if | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| newly planted. | <span class="asgreek">νεόφυτον <sup><small><small>[[G3504]]</small></small></sup> </span> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] scent | <big><span class="asgreek">οσμής</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
+| of water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| it shall bloom, | <big><span class="asgreek">ανθήσει</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
+| and shall produce | <big><span class="asgreek">ποιήσει</span></big> <sup><small><small>[[G4160]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| a harvest | <big><span class="asgreek">θερισμόν</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
+| as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| newly planted. | <big><span class="asgreek">νεόφυτον</span></big> <sup><small><small>[[G3504]]</small></small></sup> |
 [[Job.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.8|<< Job 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.10|Job 14:10 >>]]</td></tr></table>
 
 

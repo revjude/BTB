@@ -9,15 +9,15 @@ You must not have sexual relations with your mother’s sister, for she is your 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] indecency | <span class="asgreek">ασχημοσύνην <sup><small><small>[[G0808]]</small></small></sup> </span> |
-| sister | <span class="asgreek">αδελφής <sup><small><small>[[G0079]]</small></small></sup> </span> |
-| of your mother's | <span class="asgreek">μητρός <sup><small><small>[[G3384]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| uncover, | <span class="asgreek">αποκαλύψεις <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| a member of the family | <span class="asgreek">οικεία <sup><small><small>[[G3609]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| of your mother | <span class="asgreek">μητρός <sup><small><small>[[G3384]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| she is | <span class="asgreek">εστίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| \[The\] indecency | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> |
+| sister | <big><span class="asgreek">αδελφής</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
+| of your mother's | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| uncover, | <big><span class="asgreek">αποκαλύψεις</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| a member of the family | <big><span class="asgreek">οικεία</span></big> <sup><small><small>[[G3609]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| of your mother | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| she is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Lev.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.12|<< Leviticus 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.14|Leviticus 18:14 >>]]</td></tr></table>
 
 

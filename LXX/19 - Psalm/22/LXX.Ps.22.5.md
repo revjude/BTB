@@ -13,17 +13,17 @@ They cried out to You and were set free; they trusted in You and were not disapp
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| To | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they cried out, | <span class="asgreek">εκέκραξαν <sup><small><small>[[G2896]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they were delivered; | <span class="asgreek">εσώθησαν <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they hoped, | <span class="asgreek">ήλπισαν <sup><small><small>[[G1679]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they were not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| disgraced. | <span class="asgreek">κατησχύνθησαν <sup><small><small>[[G2617]]</small></small></sup> </span> |
+| To | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they cried out, | <big><span class="asgreek">εκέκραξαν</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they were delivered; | <big><span class="asgreek">εσώθησαν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they hoped, | <big><span class="asgreek">ήλπισαν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they were not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| disgraced. | <big><span class="asgreek">κατησχύνθησαν</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
 [[Ps.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.4|<< Psalm 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.6|Psalm 22:6 >>]]</td></tr></table>
 
 

@@ -13,24 +13,24 @@ Now the earth was formless and void, and darkness was over the surface of the de
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| unseen | <span class="asgreek">αόρατος <sup><small><small>[[G0517]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| unready, | <span class="asgreek">ακατασκεύαστος <sup><small><small>[[G6181]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| darkness | <span class="asgreek">σκότος <sup><small><small>[[G4655]]</small></small></sup> </span> |
-| \[was\] upon | <span class="asgreek">επάνω <sup><small><small>[[G1883]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| abyss, | <span class="asgreek">αβύσσου <sup><small><small>[[G0012]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| spirit | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| \[of\] God | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| bore | <span class="asgreek">επεφέρετο <sup><small><small>[[G2018]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επάνω <sup><small><small>[[G1883]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| water. | <span class="asgreek">ύδατος <sup><small><small>[[G5204]]</small></small></sup> </span> |
+| But the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| earth | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| unseen | <big><span class="asgreek">αόρατος</span></big> <sup><small><small>[[G0517]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| unready, | <big><span class="asgreek">ακατασκεύαστος</span></big> <sup><small><small>[[G6181]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| darkness | <big><span class="asgreek">σκότος</span></big> <sup><small><small>[[G4655]]</small></small></sup> |
+| \[was\] upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| abyss, | <big><span class="asgreek">αβύσσου</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| \[of\] God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| bore | <big><span class="asgreek">επεφέρετο</span></big> <sup><small><small>[[G2018]]</small></small></sup> |
+| upon | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| water. | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
 [[Gen.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.1|<< Genesis 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.3|Genesis 1:3 >>]]</td></tr></table>
 
 

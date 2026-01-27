@@ -9,17 +9,17 @@ before He made the land or fields, or any of the dust of the earth.<small><sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| made | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| regions, | <span class="asgreek">χώρας <sup><small><small>[[G5561]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| uninhabited places, | <span class="asgreek">αοικήτους <sup><small><small>[[G6384]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| uttermost parts | <span class="asgreek">άκρα <sup><small><small>[[G6208]]</small></small></sup> </span> |
-| of the inhabitable world | <span class="asgreek">οικούμενα <sup><small><small>[[G3611]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| under | <span class="asgreek">υπ΄ <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| \[the\] heavens. | <span class="asgreek">ουρανών <sup><small><small>[[G3772]]</small></small></sup> </span> |
+| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| regions, | <big><span class="asgreek">χώρας</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| uninhabited places, | <big><span class="asgreek">αοικήτους</span></big> <sup><small><small>[[G6384]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| uttermost parts | <big><span class="asgreek">άκρα</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
+| of the inhabitable world | <big><span class="asgreek">οικούμενα</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| under | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| \[the\] heavens. | <big><span class="asgreek">ουρανών</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
 [[Prov.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.25|<< Proverbs 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.27|Proverbs 8:27 >>]]</td></tr></table>
 
 

@@ -9,30 +9,30 @@ In the days of Eliashib, Joiada, Johanan, and Jaddua, during the reign of Darius
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Levites | <span class="asgreek">Λευίται <sup><small><small>[[G3017]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] days | <span class="asgreek">ημέραις <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of Eliashib, | <span class="asgreek">Ελιασίβ <sup><small><small>[[H0475]]</small></small></sup> </span> |
-| \[were\] Joiada, | <span class="asgreek">Ιωάδα <sup><small><small>[[H3111]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Joa, | <span class="asgreek">Ιωά <sup><small><small>[[H3098]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Johanan, | <span class="asgreek">Ιωανάν <sup><small><small>[[H3110]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jaddua | <span class="asgreek">Ιδουά <sup><small><small>[[H3037]]</small></small></sup> </span> |
-| \[they were\] written down | <span class="asgreek">γεγραμμένοι <sup><small><small>[[G1125]]</small></small></sup> </span> |
-| \[as\] rulers | <span class="asgreek">άρχοντες <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| families; | <span class="asgreek">πατριών <sup><small><small>[[G3965]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priests | <span class="asgreek">ιερείς <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] kingdom | <span class="asgreek">βασιλεία <sup><small><small>[[G0932]]</small></small></sup> </span> |
-| of Darius | <span class="asgreek">Δαρείου <sup><small><small>[[H1868]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Persian. | <span class="asgreek">Πέρσου <sup><small><small>[[H6539]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Levites | <big><span class="asgreek">Λευίται</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] days | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of Eliashib, | <big><span class="asgreek">Ελιασίβ</span></big> <sup><small><small>[[H0475]]</small></small></sup> |
+| \[were\] Joiada, | <big><span class="asgreek">Ιωάδα</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Joa, | <big><span class="asgreek">Ιωά</span></big> <sup><small><small>[[H3098]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Johanan, | <big><span class="asgreek">Ιωανάν</span></big> <sup><small><small>[[H3110]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jaddua | <big><span class="asgreek">Ιδουά</span></big> <sup><small><small>[[H3037]]</small></small></sup> |
+| \[they were\] written down | <big><span class="asgreek">γεγραμμένοι</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| \[as\] rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| families; | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
+| of Darius | <big><span class="asgreek">Δαρείου</span></big> <sup><small><small>[[H1868]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Persian. | <big><span class="asgreek">Πέρσου</span></big> <sup><small><small>[[H6539]]</small></small></sup> |
 [[Neh.12.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.21|<< Nehemiah 12:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.23|Nehemiah 12:23 >>]]</td></tr></table>
 
 

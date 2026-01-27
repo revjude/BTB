@@ -9,31 +9,31 @@ Who is this coming up from the wilderness, leaning on her beloved? I roused you 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \[is\] this | <span class="asgreek">αύτη <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ascending | <span class="asgreek">αναβαίνουσα <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] wilderness, | <span class="asgreek">ηρήμου <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| staying | <span class="asgreek">επιστηριζομένη <sup><small><small>[[G1991]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her beloved \[man\]? | <span class="asgreek">αδελφιδόν <sup><small><small>[[G6137]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Under | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| \[the\] apple \[tree\] | <span class="asgreek">μήλον <sup><small><small>[[G8316]]</small></small></sup> </span> |
-| I awakened | <span class="asgreek">εξήγειρά <sup><small><small>[[G1825]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| There | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| travailed | <span class="asgreek">ωδίνησέ <sup><small><small>[[G5605]]</small></small></sup> </span> |
-| with you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your mother | <span class="asgreek">μήτηρ <sup><small><small>[[G3384]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| There | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| she travailed | <span class="asgreek">ωδίνησέ <sup><small><small>[[G5605]]</small></small></sup> </span> |
-| with you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| giving birth to | <span class="asgreek">τεκούσά <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \[is\] this | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ascending | <big><span class="asgreek">αναβαίνουσα</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] wilderness, | <big><span class="asgreek">ηρήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| staying | <big><span class="asgreek">επιστηριζομένη</span></big> <sup><small><small>[[G1991]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her beloved \[man\]? | <big><span class="asgreek">αδελφιδόν</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| \[the\] apple \[tree\] | <big><span class="asgreek">μήλον</span></big> <sup><small><small>[[G8316]]</small></small></sup> |
+| I awakened | <big><span class="asgreek">εξήγειρά</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
+| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| There | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| travailed | <big><span class="asgreek">ωδίνησέ</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
+| with you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your mother | <big><span class="asgreek">μήτηρ</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| There | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| she travailed | <big><span class="asgreek">ωδίνησέ</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
+| with you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| giving birth to | <big><span class="asgreek">τεκούσά</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Song.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.4|<< Song of Solomon 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.6|Song of Solomon 8:6 >>]]</td></tr></table>
 
 

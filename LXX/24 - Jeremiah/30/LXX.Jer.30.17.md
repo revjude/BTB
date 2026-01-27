@@ -9,25 +9,25 @@ But I will restore your health and heal your wounds, declares the LORD, because 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I will lead up | <span class="asgreek">ανάξω <sup><small><small>[[G0321]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your cure, | <span class="asgreek">ίαμά <sup><small><small>[[G2386]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| wound | <span class="asgreek">πληγής <sup><small><small>[[G4127]]</small></small></sup> </span> |
-| a grievous | <span class="asgreek">οδυνηράς <sup><small><small>[[G8446]]</small></small></sup> </span> |
-| I will treat you | <span class="asgreek">ιατρεύσω <sup><small><small>[[G7707]]</small></small></sup> <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| says | <span class="asgreek">φησί <sup><small><small>[[G5346]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| Her Having Been Sown | <span class="asgreek">εσπαρμένη <sup><small><small>[[G4687]]</small></small></sup> </span> |
-| you are called | <span class="asgreek">εκλήθης <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| Zion, | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| seeking | <span class="asgreek">ζητών <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| there is | <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| her. | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I will lead up | <big><span class="asgreek">ανάξω</span></big> <sup><small><small>[[G0321]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your cure, | <big><span class="asgreek">ίαμά</span></big> <sup><small><small>[[G2386]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| wound | <big><span class="asgreek">πληγής</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
+| a grievous | <big><span class="asgreek">οδυνηράς</span></big> <sup><small><small>[[G8446]]</small></small></sup> |
+| I will treat you | <big><span class="asgreek">ιατρεύσω</span></big> <sup><small><small>[[G7707]]</small></small></sup> <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| Her Having Been Sown | <big><span class="asgreek">εσπαρμένη</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
+| you are called | <big><span class="asgreek">εκλήθης</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| Zion, | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| seeking | <big><span class="asgreek">ζητών</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| there is | <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.16|<< Jeremiah 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.18|Jeremiah 30:18 >>]]</td></tr></table>
 
 

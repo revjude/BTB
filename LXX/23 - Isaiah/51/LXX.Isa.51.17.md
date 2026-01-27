@@ -9,31 +9,31 @@ Awake, awake! Rise up, O Jerusalem, you who have drunk from the hand of the LORD
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Awaken! | <span class="asgreek">εξεγείρου <sup><small><small>[[G1825]]</small></small></sup> </span> |
-| Awaken! | <span class="asgreek">εξεγείρου <sup><small><small>[[G1825]]</small></small></sup> </span> |
-| Rise up, | <span class="asgreek">ανάστηθι <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| O Jerusalem! | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| the one | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| drinking | <span class="asgreek">πιούσα <sup><small><small>[[G4095]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] hand | <span class="asgreek">χειρός <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cup | <span class="asgreek">ποτήριον <sup><small><small>[[G4221]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his rage. | <span class="asgreek">θυμού <sup><small><small>[[G2372]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cup | <span class="asgreek">ποτήριον <sup><small><small>[[G4221]]</small></small></sup> </span> |
-| For | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| blow, | <span class="asgreek">πτώσεως <sup><small><small>[[G4431]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| drinking cup | <span class="asgreek">κόνδυ <sup><small><small>[[G8059]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of rage | <span class="asgreek">θυμού <sup><small><small>[[G2372]]</small></small></sup> </span> |
-| you drank | <span class="asgreek">εξέπιες <sup><small><small>[[G7130]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| emptied out. | <span class="asgreek">εξεκένωσας <sup><small><small>[[G7100]]</small></small></sup> </span> |
+| Awaken! | <big><span class="asgreek">εξεγείρου</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
+| Awaken! | <big><span class="asgreek">εξεγείρου</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
+| Rise up, | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| O Jerusalem! | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| drinking | <big><span class="asgreek">πιούσα</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cup | <big><span class="asgreek">ποτήριον</span></big> <sup><small><small>[[G4221]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his rage. | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cup | <big><span class="asgreek">ποτήριον</span></big> <sup><small><small>[[G4221]]</small></small></sup> |
+| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| blow, | <big><span class="asgreek">πτώσεως</span></big> <sup><small><small>[[G4431]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| drinking cup | <big><span class="asgreek">κόνδυ</span></big> <sup><small><small>[[G8059]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
+| you drank | <big><span class="asgreek">εξέπιες</span></big> <sup><small><small>[[G7130]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| emptied out. | <big><span class="asgreek">εξεκένωσας</span></big> <sup><small><small>[[G7100]]</small></small></sup> |
 [[Isa.51.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.16|<< Isaiah 51:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.18|Isaiah 51:18 >>]]</td></tr></table>
 
 

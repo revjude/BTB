@@ -9,15 +9,15 @@ A fool does not delight in understanding, but only in airing his opinions.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| no | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| need | <span class="asgreek">χρείαν <sup><small><small>[[G5532]]</small></small></sup> </span> |
-| has | <span class="asgreek">έχει <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| for wisdom | <span class="asgreek">σοφίας <sup><small><small>[[G4678]]</small></small></sup> </span> |
-| One lacking | <span class="asgreek">ενδεής <sup><small><small>[[G1729]]</small></small></sup> </span> |
-| of sense | <span class="asgreek">φρενών <sup><small><small>[[G5424]]</small></small></sup> </span> |
-| for rather | <span class="asgreek">μάλλον <sup><small><small>[[G3123]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| he is led | <span class="asgreek">άγεται <sup><small><small>[[G0071]]</small></small></sup> </span> |
-| by folly. | <span class="asgreek">αφροσύνη <sup><small><small>[[G0877]]</small></small></sup> </span> |
+| no | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| need | <big><span class="asgreek">χρείαν</span></big> <sup><small><small>[[G5532]]</small></small></sup> |
+| has | <big><span class="asgreek">έχει</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| for wisdom | <big><span class="asgreek">σοφίας</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
+| One lacking | <big><span class="asgreek">ενδεής</span></big> <sup><small><small>[[G1729]]</small></small></sup> |
+| of sense | <big><span class="asgreek">φρενών</span></big> <sup><small><small>[[G5424]]</small></small></sup> |
+| for rather | <big><span class="asgreek">μάλλον</span></big> <sup><small><small>[[G3123]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| he is led | <big><span class="asgreek">άγεται</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| by folly. | <big><span class="asgreek">αφροσύνη</span></big> <sup><small><small>[[G0877]]</small></small></sup> |
 [[Prov.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.1|<< Proverbs 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.3|Proverbs 18:3 >>]]</td></tr></table>
 
 

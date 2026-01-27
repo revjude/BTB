@@ -11,28 +11,28 @@ What can I say for you? To what can I compare you, O Daughter of Jerusalem? To w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΜΗΜ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΜΗΜ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| What | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall I testify? | <span class="asgreek">μαρτυρήσω <sup><small><small>[[G3140]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| what | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall I liken | <span class="asgreek">ομοιώσω <sup><small><small>[[G3666]]</small></small></sup> </span> |
-| to you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O daughter | <span class="asgreek">θύγατερ <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Jerusalem? | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall deliver | <span class="asgreek">σώσει <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O virgin | <span class="asgreek">παρθένος <sup><small><small>[[G3933]]</small></small></sup> </span> |
-| daughter | <span class="asgreek">θυγάτηρ <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Zion? | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| was enlarged | <span class="asgreek">εμεγαλύνθη <sup><small><small>[[G3170]]</small></small></sup> </span> |
-| \[the\] cup | <span class="asgreek">ποτήριον <sup><small><small>[[G4221]]</small></small></sup> </span> |
-| of your destruction | <span class="asgreek">συντριβής <sup><small><small>[[G9340]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall heal | <span class="asgreek">ιάσεταί <sup><small><small>[[G2390]]</small></small></sup> </span> |
-| you? | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| ΜΗΜ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΜΗΜ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall I testify? | <big><span class="asgreek">μαρτυρήσω</span></big> <sup><small><small>[[G3140]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall I liken | <big><span class="asgreek">ομοιώσω</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
+| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O daughter | <big><span class="asgreek">θύγατερ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Jerusalem? | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall deliver | <big><span class="asgreek">σώσει</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O virgin | <big><span class="asgreek">παρθένος</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
+| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Zion? | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| was enlarged | <big><span class="asgreek">εμεγαλύνθη</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
+| \[the\] cup | <big><span class="asgreek">ποτήριον</span></big> <sup><small><small>[[G4221]]</small></small></sup> |
+| of your destruction | <big><span class="asgreek">συντριβής</span></big> <sup><small><small>[[G9340]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall heal | <big><span class="asgreek">ιάσεταί</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
+| you? | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lam.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.12|<< Lamentations 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.14|Lamentations 2:14 >>]]</td></tr></table>
 
 

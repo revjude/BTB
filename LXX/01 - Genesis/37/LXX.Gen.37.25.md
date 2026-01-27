@@ -9,34 +9,34 @@ And as they sat down to eat a meal, they looked up and saw a caravan of Ishmaeli
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And they sat | <span class="asgreek">εκάθισαν <sup><small><small>[[G2523]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| to eat | <span class="asgreek">φαγείν <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| bread. | <span class="asgreek">άρτον <sup><small><small>[[G0740]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| looking up | <span class="asgreek">αναβλέψαντες <sup><small><small>[[G0308]]</small></small></sup> </span> |
-| with the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eyes | <span class="asgreek">οφθαλμοίς <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| they saw. | <span class="asgreek">είδον <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| journeying | <span class="asgreek">οδοιπόροι <sup><small><small>[[G8444]]</small></small></sup> </span> |
-| Ishmaelites | <span class="asgreek">Ισμαηλίται <sup><small><small>[[H3459]]</small></small></sup> </span> |
-| having come | <span class="asgreek">ήρχοντο <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Gilead, | <span class="asgreek">Γαλαάδ <sup><small><small>[[H1568]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their camels | <span class="asgreek">κάμηλοι <sup><small><small>[[G2574]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| full | <span class="asgreek">έγεμον <sup><small><small>[[G1073]]</small></small></sup> </span> |
-| of incenses, | <span class="asgreek">θυμιαμάτων <sup><small><small>[[G2368]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| balm, | <span class="asgreek">ρητίνης <sup><small><small>[[G9023]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| balsam. | <span class="asgreek">στακτής <sup><small><small>[[G9152]]</small></small></sup> </span> |
-| And they were going | <span class="asgreek">επορεύοντο <sup><small><small>[[G4198]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| leading down | <span class="asgreek">καταγαγείν <sup><small><small>[[G2609]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Egypt. | <span class="asgreek">Αίγυπτον <sup><small><small>[[G0125]]</small></small></sup> </span> |
+| And they sat | <big><span class="asgreek">εκάθισαν</span></big> <sup><small><small>[[G2523]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| to eat | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| bread. | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| looking up | <big><span class="asgreek">αναβλέψαντες</span></big> <sup><small><small>[[G0308]]</small></small></sup> |
+| with the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| they saw. | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| journeying | <big><span class="asgreek">οδοιπόροι</span></big> <sup><small><small>[[G8444]]</small></small></sup> |
+| Ishmaelites | <big><span class="asgreek">Ισμαηλίται</span></big> <sup><small><small>[[H3459]]</small></small></sup> |
+| having come | <big><span class="asgreek">ήρχοντο</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Gilead, | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their camels | <big><span class="asgreek">κάμηλοι</span></big> <sup><small><small>[[G2574]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| full | <big><span class="asgreek">έγεμον</span></big> <sup><small><small>[[G1073]]</small></small></sup> |
+| of incenses, | <big><span class="asgreek">θυμιαμάτων</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| balm, | <big><span class="asgreek">ρητίνης</span></big> <sup><small><small>[[G9023]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| balsam. | <big><span class="asgreek">στακτής</span></big> <sup><small><small>[[G9152]]</small></small></sup> |
+| And they were going | <big><span class="asgreek">επορεύοντο</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| leading down | <big><span class="asgreek">καταγαγείν</span></big> <sup><small><small>[[G2609]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Egypt. | <big><span class="asgreek">Αίγυπτον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
 [[Gen.37.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.24|<< Genesis 37:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.26|Genesis 37:26 >>]]</td></tr></table>
 
 

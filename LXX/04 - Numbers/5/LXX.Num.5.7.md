@@ -9,29 +9,29 @@ and must confess the sin he has committed. He must make full restitution, add a 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| he should declare openly | <span class="asgreek">εξαγορεύση <sup><small><small>[[G7279]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sin | <span class="asgreek">αμαρτίαν <sup><small><small>[[G0266]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he did, | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall give | <span class="asgreek">αποδώσει <sup><small><small>[[G0591]]</small></small></sup> </span> |
-| for the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| trespass \[offering\] | <span class="asgreek">πλημμέλειαν <sup><small><small>[[G8811]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| total sum, | <span class="asgreek">κεφάλαιον <sup><small><small>[[G2774]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fifth part | <span class="asgreek">επίπεμπτον <sup><small><small>[[G7436]]</small></small></sup> </span> |
-| of it | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he shall add | <span class="asgreek">προσθήσει <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| unto | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall give back | <span class="asgreek">αποδώσει <sup><small><small>[[G0591]]</small></small></sup> </span> |
-| to whomever | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| he trespassed \[against\] | <span class="asgreek">επλημμέλησεν <sup><small><small>[[G8812]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| he should declare openly | <big><span class="asgreek">εξαγορεύση</span></big> <sup><small><small>[[G7279]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he did, | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall give | <big><span class="asgreek">αποδώσει</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| for the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| trespass \[offering\] | <big><span class="asgreek">πλημμέλειαν</span></big> <sup><small><small>[[G8811]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| total sum, | <big><span class="asgreek">κεφάλαιον</span></big> <sup><small><small>[[G2774]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fifth part | <big><span class="asgreek">επίπεμπτον</span></big> <sup><small><small>[[G7436]]</small></small></sup> |
+| of it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he shall add | <big><span class="asgreek">προσθήσει</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall give back | <big><span class="asgreek">αποδώσει</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| to whomever | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| he trespassed \[against\] | <big><span class="asgreek">επλημμέλησεν</span></big> <sup><small><small>[[G8812]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Num.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.6|<< Numbers 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.8|Numbers 5:8 >>]]</td></tr></table>
 
 

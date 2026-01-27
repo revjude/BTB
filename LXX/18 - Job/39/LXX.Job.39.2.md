@@ -9,15 +9,15 @@ Can you count the months they are pregnant? Do you know the time they give birth
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And did you count | <span class="asgreek">ηρίθμησας <sup><small><small>[[G0705]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| months | <span class="asgreek">μήνας <sup><small><small>[[G3376]]</small></small></sup> </span> |
-| their | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| full | <span class="asgreek">πλήρεις <sup><small><small>[[G4134]]</small></small></sup> </span> |
-| of birthing? | <span class="asgreek">τοκετού <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[birth\] pangs | <span class="asgreek">ωδίνας <sup><small><small>[[G5604]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| their | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| did you untie | <span class="asgreek">έλυσας <sup><small><small>[[G3089]]</small></small></sup> </span> |
+| And did you count | <big><span class="asgreek">ηρίθμησας</span></big> <sup><small><small>[[G0705]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| months | <big><span class="asgreek">μήνας</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
+| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| full | <big><span class="asgreek">πλήρεις</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
+| of birthing? | <big><span class="asgreek">τοκετού</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[birth\] pangs | <big><span class="asgreek">ωδίνας</span></big> <sup><small><small>[[G5604]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| did you untie | <big><span class="asgreek">έλυσας</span></big> <sup><small><small>[[G3089]]</small></small></sup> |
 [[Job.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.1|<< Job 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.3|Job 39:3 >>]]</td></tr></table>
 
 

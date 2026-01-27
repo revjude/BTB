@@ -9,36 +9,36 @@ His closest advisors were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| came forward | <span class="asgreek">προσήλθεν <sup><small><small>[[G4334]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Carshena, | <span class="asgreek">Καρσενά <sup><small><small>[[H3771]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shethar | <span class="asgreek">Σηθάρ <sup><small><small>[[H8369]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Admatha, | <span class="asgreek">Αδμαθά <sup><small><small>[[H0133]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Tarshish, | <span class="asgreek">Θαρσίς <sup><small><small>[[H8659]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Meres | <span class="asgreek">Μέρες <sup><small><small>[[H4825]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Marsena | <span class="asgreek">Μαρσενά <sup><small><small>[[H4826]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Memucan | <span class="asgreek">Μεμουχάν <sup><small><small>[[H4462]]</small></small></sup> </span> |
-| seven | <span class="asgreek">επτά <sup><small><small>[[G2033]]</small></small></sup> </span> |
-| rulers | <span class="asgreek">άρχοντες <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of \[the\] Persians | <span class="asgreek">Περσών <sup><small><small>[[H6539]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Medes, | <span class="asgreek">Μήδων <sup><small><small>[[G3370]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| near | <span class="asgreek">εγγύς <sup><small><small>[[G1451]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king, | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| foremost | <span class="asgreek">πρώτοι <sup><small><small>[[G4413]]</small></small></sup> </span> |
-| being seated near | <span class="asgreek">παρακαθήμενοι <sup><small><small>[[G8615]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king. | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| came forward | <big><span class="asgreek">προσήλθεν</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Carshena, | <big><span class="asgreek">Καρσενά</span></big> <sup><small><small>[[H3771]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shethar | <big><span class="asgreek">Σηθάρ</span></big> <sup><small><small>[[H8369]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Admatha, | <big><span class="asgreek">Αδμαθά</span></big> <sup><small><small>[[H0133]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Tarshish, | <big><span class="asgreek">Θαρσίς</span></big> <sup><small><small>[[H8659]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Meres | <big><span class="asgreek">Μέρες</span></big> <sup><small><small>[[H4825]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Marsena | <big><span class="asgreek">Μαρσενά</span></big> <sup><small><small>[[H4826]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Memucan | <big><span class="asgreek">Μεμουχάν</span></big> <sup><small><small>[[H4462]]</small></small></sup> |
+| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
+| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of \[the\] Persians | <big><span class="asgreek">Περσών</span></big> <sup><small><small>[[H6539]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Medes, | <big><span class="asgreek">Μήδων</span></big> <sup><small><small>[[G3370]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| near | <big><span class="asgreek">εγγύς</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| foremost | <big><span class="asgreek">πρώτοι</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
+| being seated near | <big><span class="asgreek">παρακαθήμενοι</span></big> <sup><small><small>[[G8615]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king. | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
 [[Esth.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.13|<< Esther 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.15|Esther 1:15 >>]]</td></tr></table>
 
 

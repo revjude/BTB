@@ -9,13 +9,13 @@ He does not keep the wicked alive, but He grants justice to the afflicted.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] impious | <span class="asgreek">ασεβή <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| will he restore to life; | <span class="asgreek">ζωοποιήση <sup><small><small>[[G2227]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| equity | <span class="asgreek">κριμα <sup><small><small>[[G2917]]</small></small></sup> </span> |
-| for \[the\] poor | <span class="asgreek">πτωχών <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| he shall impute | <span class="asgreek">δώσει <sup><small><small>[[G1325]]</small></small></sup> </span> |
+| \[The\] impious | <big><span class="asgreek">ασεβή</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| will he restore to life; | <big><span class="asgreek">ζωοποιήση</span></big> <sup><small><small>[[G2227]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| equity | <big><span class="asgreek">κριμα</span></big> <sup><small><small>[[G2917]]</small></small></sup> |
+| for \[the\] poor | <big><span class="asgreek">πτωχών</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| he shall impute | <big><span class="asgreek">δώσει</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
 [[Job.36.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.5|<< Job 36:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.7|Job 36:7 >>]]</td></tr></table>
 
 

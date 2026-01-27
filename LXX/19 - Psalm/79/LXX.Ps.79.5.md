@@ -9,17 +9,17 @@ How long, O LORD? Will You be angry forever? Will Your jealousy burn like fire?
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| how long, | <span class="asgreek">πότε <sup><small><small>[[G4219]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>? | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| Will you be provoked to anger | <span class="asgreek">οργισθήση <sup><small><small>[[G3710]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] end? | <span class="asgreek">τέλος <sup><small><small>[[G5056]]</small></small></sup> </span> |
-| burn | <span class="asgreek">εκκαυθήσεται <sup><small><small>[[G1572]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| fire | <span class="asgreek">πυρ <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your zeal | <span class="asgreek">ζήλός <sup><small><small>[[G2205]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| how long, | <big><span class="asgreek">πότε</span></big> <sup><small><small>[[G4219]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Will you be provoked to anger | <big><span class="asgreek">οργισθήση</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] end? | <big><span class="asgreek">τέλος</span></big> <sup><small><small>[[G5056]]</small></small></sup> |
+| burn | <big><span class="asgreek">εκκαυθήσεται</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your zeal | <big><span class="asgreek">ζήλός</span></big> <sup><small><small>[[G2205]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.79.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.4|<< Psalm 79:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.6|Psalm 79:6 >>]]</td></tr></table>
 
 

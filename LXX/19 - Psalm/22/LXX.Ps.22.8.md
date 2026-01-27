@@ -13,16 +13,16 @@ He trusted on the LORD [that] he would deliver him: let him deliver him, seeing 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| He hoped | <span class="asgreek">ήλπισεν <sup><small><small>[[G1679]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| let him rescue | <span class="asgreek">ρυσάσθω <sup><small><small>[[G4506]]</small></small></sup> </span> |
-| him! | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Let \[him\] deliver | <span class="asgreek">σωσάτω <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| him! | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| he desired | <span class="asgreek">θέλει <sup><small><small>[[G2309]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| He hoped | <big><span class="asgreek">ήλπισεν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| let him rescue | <big><span class="asgreek">ρυσάσθω</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
+| him! | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Let \[him\] deliver | <big><span class="asgreek">σωσάτω</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| him! | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| he desired | <big><span class="asgreek">θέλει</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.7|<< Psalm 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.9|Psalm 22:9 >>]]</td></tr></table>
 
 

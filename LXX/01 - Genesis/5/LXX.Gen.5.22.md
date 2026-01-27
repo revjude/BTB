@@ -9,25 +9,25 @@ And after he had become the father of Methuselah, Enoch walked with God 300 year
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| was well-pleasing | <span class="asgreek">ευηρέστησε <sup><small><small>[[G2100]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| Enoch | <span class="asgreek">Ενώχ <sup><small><small>[[H2599]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God. | <span class="asgreek">θεω <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Enoch lived | <span class="asgreek">έζησεν <sup><small><small>[[G2198]]</small></small></sup> <span class="asgreek">Ενώχ <sup><small><small>[[H2599]]</small></small></sup> </span> |
-| after | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his procreating | <span class="asgreek">γεννήσαι <sup><small><small>[[G1080]]</small></small></sup> <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Methuseleh, | <span class="asgreek">Μαθουσαλά <sup><small><small>[[G3103]]</small></small></sup> </span> |
-| two hundred | <span class="asgreek">διακόσια <sup><small><small>[[G1250]]</small></small></sup> </span> |
-| years, | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he procreated | <span class="asgreek">εγέννησεν <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| daughters. | <span class="asgreek">θυγατέρας <sup><small><small>[[G2364]]</small></small></sup> </span> |
+| was well-pleasing | <big><span class="asgreek">ευηρέστησε</span></big> <sup><small><small>[[G2100]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| Enoch | <big><span class="asgreek">Ενώχ</span></big> <sup><small><small>[[H2599]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God. | <big><span class="asgreek">θεω</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Enoch lived | <big><span class="asgreek">έζησεν</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">Ενώχ</span></big> <sup><small><small>[[H2599]]</small></small></sup> |
+| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his procreating | <big><span class="asgreek">γεννήσαι</span></big> <sup><small><small>[[G1080]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Methuseleh, | <big><span class="asgreek">Μαθουσαλά</span></big> <sup><small><small>[[G3103]]</small></small></sup> |
+| two hundred | <big><span class="asgreek">διακόσια</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
+| years, | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he procreated | <big><span class="asgreek">εγέννησεν</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| daughters. | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
 [[Gen.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.21|<< Genesis 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.23|Genesis 5:23 >>]]</td></tr></table>
 
 

@@ -9,9 +9,9 @@ Hodiah, Hashum, Bezai,<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Hodijah, | <span class="asgreek">Ωδουϊα <sup><small><small>[[H1938]]</small></small></sup> </span> |
-| Hashum, | <span class="asgreek">Ασσόμ <sup><small><small>[[H2828]]</small></small></sup> </span> |
-| Bezai, | <span class="asgreek">Βησί <sup><small><small>[[H1153]]</small></small></sup> </span> |
+| Hodijah, | <big><span class="asgreek">Ωδουϊα</span></big> <sup><small><small>[[H1938]]</small></small></sup> |
+| Hashum, | <big><span class="asgreek">Ασσόμ</span></big> <sup><small><small>[[H2828]]</small></small></sup> |
+| Bezai, | <big><span class="asgreek">Βησί</span></big> <sup><small><small>[[H1153]]</small></small></sup> |
 [[Neh.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.17|<< Nehemiah 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.19|Nehemiah 10:19 >>]]</td></tr></table>
 
 

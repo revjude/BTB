@@ -13,27 +13,27 @@ Those who hate me without cause outnumber the hairs of my head; many are those w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| multiplied | <span class="asgreek">επληθύνθησαν <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| over | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hairs | <span class="asgreek">τρίχας <sup><small><small>[[G2359]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of my head | <span class="asgreek">κεφαλής <sup><small><small>[[G2776]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| The ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| detesting | <span class="asgreek">μισούντές <sup><small><small>[[G3404]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Freely | <span class="asgreek">δωρεάν <sup><small><small>[[G1431]]</small></small></sup> </span> |
-| were strengthened | <span class="asgreek">εκραταιώθησαν <sup><small><small>[[G2901]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my enemies | <span class="asgreek">εχθροί <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| driving me out | <span class="asgreek">εκδιώκοντές <sup><small><small>[[G1559]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| unjustly; | <span class="asgreek">αδίκως <sup><small><small>[[G0095]]</small></small></sup> </span> |
-| what | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I did not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| seize by force | <span class="asgreek">ήρπαζον <sup><small><small>[[G0726]]</small></small></sup> </span> |
-| then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| I paid for | <span class="asgreek">απετίννυον <sup><small><small>[[G6502]]</small></small></sup> </span> |
+| multiplied | <big><span class="asgreek">επληθύνθησαν</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| over | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hairs | <big><span class="asgreek">τρίχας</span></big> <sup><small><small>[[G2359]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of my head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| detesting | <big><span class="asgreek">μισούντές</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Freely | <big><span class="asgreek">δωρεάν</span></big> <sup><small><small>[[G1431]]</small></small></sup> |
+| were strengthened | <big><span class="asgreek">εκραταιώθησαν</span></big> <sup><small><small>[[G2901]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| driving me out | <big><span class="asgreek">εκδιώκοντές</span></big> <sup><small><small>[[G1559]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| unjustly; | <big><span class="asgreek">αδίκως</span></big> <sup><small><small>[[G0095]]</small></small></sup> |
+| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| seize by force | <big><span class="asgreek">ήρπαζον</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
+| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| I paid for | <big><span class="asgreek">απετίννυον</span></big> <sup><small><small>[[G6502]]</small></small></sup> |
 [[Ps.69.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.3|<< Psalm 69:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.5|Psalm 69:5 >>]]</td></tr></table>
 
 

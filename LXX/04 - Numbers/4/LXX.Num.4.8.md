@@ -9,23 +9,23 @@ And they shall spread a scarlet cloth over them, cover them with fine leather, a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall put | <span class="asgreek">επιβαλούσιν <sup><small><small>[[G1911]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| garment | <span class="asgreek">ιμάτιον <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| a scarlet | <span class="asgreek">κόκκινον <sup><small><small>[[G2847]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall cover | <span class="asgreek">καλύψουσιν <sup><small><small>[[G2572]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with a covering | <span class="asgreek">καλύμματι <sup><small><small>[[G2571]]</small></small></sup> </span> |
-| made of a skin | <span class="asgreek">δερματίνω <sup><small><small>[[G1193]]</small></small></sup> </span> |
-| of blue. | <span class="asgreek">υακινθίνω <sup><small><small>[[G5191]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall insert | <span class="asgreek">διεμβαλούσι <sup><small><small>[[G6917]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| bearing poles | <span class="asgreek">αναφορείς <sup><small><small>[[G6320]]</small></small></sup> </span> |
-| in it. | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall put | <big><span class="asgreek">επιβαλούσιν</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| garment | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| a scarlet | <big><span class="asgreek">κόκκινον</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall cover | <big><span class="asgreek">καλύψουσιν</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with a covering | <big><span class="asgreek">καλύμματι</span></big> <sup><small><small>[[G2571]]</small></small></sup> |
+| made of a skin | <big><span class="asgreek">δερματίνω</span></big> <sup><small><small>[[G1193]]</small></small></sup> |
+| of blue. | <big><span class="asgreek">υακινθίνω</span></big> <sup><small><small>[[G5191]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall insert | <big><span class="asgreek">διεμβαλούσι</span></big> <sup><small><small>[[G6917]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| bearing poles | <big><span class="asgreek">αναφορείς</span></big> <sup><small><small>[[G6320]]</small></small></sup> |
+| in it. | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Num.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.7|<< Numbers 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.9|Numbers 4:9 >>]]</td></tr></table>
 
 

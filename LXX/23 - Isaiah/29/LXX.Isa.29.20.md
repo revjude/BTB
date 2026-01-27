@@ -9,17 +9,17 @@ For the ruthless will vanish, the mockers will disappear, and all who look for e
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| failed | <span class="asgreek">εξέλιπεν <sup><small><small>[[G1587]]</small></small></sup> </span> |
-| \[The\] lawless one | <span class="asgreek">άνομος <sup><small><small>[[G0459]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| is destroyed | <span class="asgreek">απώλετο <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| \[the\] proud one | <span class="asgreek">υπερήφανος <sup><small><small>[[G5244]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be utterly destroyed | <span class="asgreek">εξωλοθρεύθησαν <sup><small><small>[[G1842]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| acting lawlessly | <span class="asgreek">ανομούντες <sup><small><small>[[G6349]]</small></small></sup> </span> |
-| concerning | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| evil | <span class="asgreek">κακία <sup><small><small>[[G2549]]</small></small></sup> </span> |
+| failed | <big><span class="asgreek">εξέλιπεν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| \[The\] lawless one | <big><span class="asgreek">άνομος</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| is destroyed | <big><span class="asgreek">απώλετο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| \[the\] proud one | <big><span class="asgreek">υπερήφανος</span></big> <sup><small><small>[[G5244]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be utterly destroyed | <big><span class="asgreek">εξωλοθρεύθησαν</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| acting lawlessly | <big><span class="asgreek">ανομούντες</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
+| concerning | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| evil | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> |
 [[Isa.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.19|<< Isaiah 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.21|Isaiah 29:21 >>]]</td></tr></table>
 
 

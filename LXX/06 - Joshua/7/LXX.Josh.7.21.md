@@ -9,46 +9,46 @@ When I saw among the spoils a beautiful cloak from Shinar, two hundred shekels o
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I beheld | <span class="asgreek">είδον <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| spoils | <span class="asgreek">προνομή <sup><small><small>[[G8903]]</small></small></sup> </span> |
-| \[standing\] bare | <span class="asgreek">ψιλήν <sup><small><small>[[G9795]]</small></small></sup> </span> |
-| colored \[robe\] | <span class="asgreek">ποικίλην <sup><small><small>[[G4164]]</small></small></sup> </span> |
-| one | <span class="asgreek">μίαν <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| goodly | <span class="asgreek">καλήν <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| two hundred | <span class="asgreek">διακόσια <sup><small><small>[[G1250]]</small></small></sup> </span> |
-| double-drachmas | <span class="asgreek">δίδραχμα <sup><small><small>[[G1323]]</small></small></sup> </span> |
-| of silver, | <span class="asgreek">αργυρίου <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wedge | <span class="asgreek">γλώσσαν <sup><small><small>[[G1100]]</small></small></sup> </span> |
-| of gold | <span class="asgreek">χρυσήν <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| one | <span class="asgreek">μίαν <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| fifty | <span class="asgreek">πεντήκοντα <sup><small><small>[[G4004]]</small></small></sup> </span> |
-| double-drachmas | <span class="asgreek">διδράχμων <sup><small><small>[[G1323]]</small></small></sup> </span> |
-| its scale weight. | <span class="asgreek">ολκή <sup><small><small>[[G8490]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I coveted | <span class="asgreek">επεθύμησα <sup><small><small>[[G1937]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I took. | <span class="asgreek">έλαβον <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| these | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| are hid | <span class="asgreek">κέκρυπται <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ground | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my tent, | <span class="asgreek">σκηνή <sup><small><small>[[G4633]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| silver | <span class="asgreek">αργύριον <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| is hid | <span class="asgreek">κέκρυπται <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| underneath | <span class="asgreek">υποκάτω <sup><small><small>[[G5270]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| I beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| spoils | <big><span class="asgreek">προνομή</span></big> <sup><small><small>[[G8903]]</small></small></sup> |
+| \[standing\] bare | <big><span class="asgreek">ψιλήν</span></big> <sup><small><small>[[G9795]]</small></small></sup> |
+| colored \[robe\] | <big><span class="asgreek">ποικίλην</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
+| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| goodly | <big><span class="asgreek">καλήν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| two hundred | <big><span class="asgreek">διακόσια</span></big> <sup><small><small>[[G1250]]</small></small></sup> |
+| double-drachmas | <big><span class="asgreek">δίδραχμα</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
+| of silver, | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wedge | <big><span class="asgreek">γλώσσαν</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
+| of gold | <big><span class="asgreek">χρυσήν</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
+| double-drachmas | <big><span class="asgreek">διδράχμων</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
+| its scale weight. | <big><span class="asgreek">ολκή</span></big> <sup><small><small>[[G8490]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I coveted | <big><span class="asgreek">επεθύμησα</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I took. | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| these | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| are hid | <big><span class="asgreek">κέκρυπται</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ground | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my tent, | <big><span class="asgreek">σκηνή</span></big> <sup><small><small>[[G4633]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| is hid | <big><span class="asgreek">κέκρυπται</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| underneath | <big><span class="asgreek">υποκάτω</span></big> <sup><small><small>[[G5270]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Josh.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.20|<< Joshua 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.22|Joshua 7:22 >>]]</td></tr></table>
 
 

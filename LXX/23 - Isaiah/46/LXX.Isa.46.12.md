@@ -9,17 +9,17 @@ Listen to Me, you stubborn people, far removed from righteousness:<small><sub>*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Hear | <span class="asgreek">ακούσατέ <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| me, | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| destroying | <span class="asgreek">απολωλεκότες <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heart! | <span class="asgreek">καρδίαν <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| O ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| far | <span class="asgreek">μακράν <sup><small><small>[[G3112]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| righteousness. | <span class="asgreek">δικαιοσύνης <sup><small><small>[[G1343]]</small></small></sup> </span> |
+| Hear | <big><span class="asgreek">ακούσατέ</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| me, | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| destroying | <big><span class="asgreek">απολωλεκότες</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heart! | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| far | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| righteousness. | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
 [[Isa.46.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.11|<< Isaiah 46:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.13|Isaiah 46:13 >>]]</td></tr></table>
 
 

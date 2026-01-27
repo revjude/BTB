@@ -9,14 +9,14 @@ I call for my servant, but he does not answer, though I implore him with my own 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| attendant | <span class="asgreek">θεράποντά <sup><small><small>[[G2324]]</small></small></sup> </span> |
-| I called my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">εκάλεσα <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he obeyed not; | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">υπήκουσε <sup><small><small>[[G5219]]</small></small></sup> </span> |
-| mouth | <span class="asgreek">στόμα <sup><small><small>[[G4750]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| beseeched \[him\]. | <span class="asgreek">εδέετο <sup><small><small>[[G1189]]</small></small></sup> </span> |
+| attendant | <big><span class="asgreek">θεράποντά</span></big> <sup><small><small>[[G2324]]</small></small></sup> |
+| I called my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εκάλεσα</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he obeyed not; | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">υπήκουσε</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
+| mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| beseeched \[him\]. | <big><span class="asgreek">εδέετο</span></big> <sup><small><small>[[G1189]]</small></small></sup> |
 [[Job.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.15|<< Job 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.17|Job 19:17 >>]]</td></tr></table>
 
 

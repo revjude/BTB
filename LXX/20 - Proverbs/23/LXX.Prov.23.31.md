@@ -13,20 +13,20 @@ Do not gaze at wine while it is red, when it sparkles in the cup and goes down s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| bowls | <span class="asgreek">φιάλας <sup><small><small>[[G5357]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cups | <span class="asgreek">ποτήρια <sup><small><small>[[G4221]]</small></small></sup> </span> |
-| you should give | <span class="asgreek">δως <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your eyes, | <span class="asgreek">οφθαλμούς <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| afterwards | <span class="asgreek">ύστερον <sup><small><small>[[G5305]]</small></small></sup> </span> |
-| you shall walk | <span class="asgreek">περιπατήσεις <sup><small><small>[[G4043]]</small></small></sup> </span> |
-| more naked than | <span class="asgreek">γυμνότερος <sup><small><small>[[G1131]]</small></small></sup> </span> |
-| a pestle. | <span class="asgreek">υπέρου <sup><small><small>[[G9555]]</small></small></sup> </span> |
+| For if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| bowls | <big><span class="asgreek">φιάλας</span></big> <sup><small><small>[[G5357]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cups | <big><span class="asgreek">ποτήρια</span></big> <sup><small><small>[[G4221]]</small></small></sup> |
+| you should give | <big><span class="asgreek">δως</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your eyes, | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| afterwards | <big><span class="asgreek">ύστερον</span></big> <sup><small><small>[[G5305]]</small></small></sup> |
+| you shall walk | <big><span class="asgreek">περιπατήσεις</span></big> <sup><small><small>[[G4043]]</small></small></sup> |
+| more naked than | <big><span class="asgreek">γυμνότερος</span></big> <sup><small><small>[[G1131]]</small></small></sup> |
+| a pestle. | <big><span class="asgreek">υπέρου</span></big> <sup><small><small>[[G9555]]</small></small></sup> |
 [[Prov.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.30|<< Proverbs 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.32|Proverbs 23:32 >>]]</td></tr></table>
 
 

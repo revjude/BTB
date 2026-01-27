@@ -9,15 +9,15 @@ Elam the fifth, Jehohanan the sixth, and Eliehoenai the seventh.<small><sub>**M
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Elam | <span class="asgreek">Αιλάμ <sup><small><small>[[G1639]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fifth, | <span class="asgreek">πέμπτος <sup><small><small>[[G3991]]</small></small></sup> </span> |
-| Jehohanan | <span class="asgreek">Ιωναθάν <sup><small><small>[[H3129]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sixth, | <span class="asgreek">έκτος <sup><small><small>[[G1623]]</small></small></sup> </span> |
-| Elioenai | <span class="asgreek">Ελιωναϊ <sup><small><small>[[H0454b]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seventh. | <span class="asgreek">έβδομος <sup><small><small>[[G1442]]</small></small></sup> </span> |
+| Elam | <big><span class="asgreek">Αιλάμ</span></big> <sup><small><small>[[G1639]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fifth, | <big><span class="asgreek">πέμπτος</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
+| Jehohanan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sixth, | <big><span class="asgreek">έκτος</span></big> <sup><small><small>[[G1623]]</small></small></sup> |
+| Elioenai | <big><span class="asgreek">Ελιωναϊ</span></big> <sup><small><small>[[H0454b]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seventh. | <big><span class="asgreek">έβδομος</span></big> <sup><small><small>[[G1442]]</small></small></sup> |
 [[1Chr.26.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.2|<< 1 Chronicles 26:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.4|1 Chronicles 26:4 >>]]</td></tr></table>
 
 

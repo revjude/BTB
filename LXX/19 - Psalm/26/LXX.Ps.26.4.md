@@ -9,15 +9,15 @@ I do not sit with deceitful men, nor keep company with hypocrites.<small><sub>*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I sat not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">εκάθισα <sup><small><small>[[G2523]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \[the\] sanhedrin | <span class="asgreek">συνεδρίου <sup><small><small>[[G4892]]</small></small></sup> </span> |
-| of folly; | <span class="asgreek">ματαιότητος <sup><small><small>[[G3153]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| ones acting unlawfully | <span class="asgreek">παρανομούντων <sup><small><small>[[G3891]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall I enter. | <span class="asgreek">εισέλθω <sup><small><small>[[G1525]]</small></small></sup> </span> |
+| I sat not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εκάθισα</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \[the\] sanhedrin | <big><span class="asgreek">συνεδρίου</span></big> <sup><small><small>[[G4892]]</small></small></sup> |
+| of folly; | <big><span class="asgreek">ματαιότητος</span></big> <sup><small><small>[[G3153]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| ones acting unlawfully | <big><span class="asgreek">παρανομούντων</span></big> <sup><small><small>[[G3891]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall I enter. | <big><span class="asgreek">εισέλθω</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
 [[Ps.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.26.3|<< Psalm 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.5|Psalm 26:5 >>]]</td></tr></table>
 
 

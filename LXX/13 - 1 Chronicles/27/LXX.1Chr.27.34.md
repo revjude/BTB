@@ -9,21 +9,21 @@ Ahithophel was succeeded by Jehoiada son of Benaiah, then by Abiathar. Joab was 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| after | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| Ahithophel | <span class="asgreek">Αχιτόφελ <sup><small><small>[[H0302]]</small></small></sup> </span> |
-| next | <span class="asgreek">εχόμενος <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| \[was\] Jehoiada | <span class="asgreek">Ιωαδέ <sup><small><small>[[H3111]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[son\] of | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Benaiah, | <span class="asgreek">Βανέου <sup><small><small>[[H1141]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Abiathar. | <span class="asgreek">Αβιάθαρ <sup><small><small>[[G0008]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Joab | <span class="asgreek">Ιωάβ <sup><small><small>[[H3097]]</small></small></sup> </span> |
-| \[was\] commander-in-chief | <span class="asgreek">αρχιστράτηγος <sup><small><small>[[G6559]]</small></small></sup> </span> |
-| for the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king. | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| Ahithophel | <big><span class="asgreek">Αχιτόφελ</span></big> <sup><small><small>[[H0302]]</small></small></sup> |
+| next | <big><span class="asgreek">εχόμενος</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| \[was\] Jehoiada | <big><span class="asgreek">Ιωαδέ</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[son\] of | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Benaiah, | <big><span class="asgreek">Βανέου</span></big> <sup><small><small>[[H1141]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Abiathar. | <big><span class="asgreek">Αβιάθαρ</span></big> <sup><small><small>[[G0008]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Joab | <big><span class="asgreek">Ιωάβ</span></big> <sup><small><small>[[H3097]]</small></small></sup> |
+| \[was\] commander-in-chief | <big><span class="asgreek">αρχιστράτηγος</span></big> <sup><small><small>[[G6559]]</small></small></sup> |
+| for the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
 [[1Chr.27.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.33|<< 1 Chronicles 27:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.1|1 Chronicles 28:1 >>]]</td></tr></table>
 
 

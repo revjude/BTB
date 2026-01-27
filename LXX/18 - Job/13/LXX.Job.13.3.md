@@ -9,16 +9,16 @@ Yet I desire to speak to the Almighty and argue my case before God.<small><sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But nevertheless, | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">μην <sup><small><small>[[G3375]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> <span class="asgreek">αλλ <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| will speak | <span class="asgreek">λαλήσω <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| and I will reprove | <span class="asgreek">ελέγξω <sup><small><small>[[G1651]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| before | <span class="asgreek">εναντίον <sup><small><small>[[G1726]]</small></small></sup> </span> |
-| him, | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| he should be willing. | <span class="asgreek">βούληται <sup><small><small>[[G1014]]</small></small></sup> </span> |
+| But nevertheless, | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">μην</span></big> <sup><small><small>[[G3375]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> <big><span class="asgreek">αλλ</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| will speak | <big><span class="asgreek">λαλήσω</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| and I will reprove | <big><span class="asgreek">ελέγξω</span></big> <sup><small><small>[[G1651]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| before | <big><span class="asgreek">εναντίον</span></big> <sup><small><small>[[G1726]]</small></small></sup> |
+| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| he should be willing. | <big><span class="asgreek">βούληται</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
 [[Job.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.2|<< Job 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.4|Job 13:4 >>]]</td></tr></table>
 
 

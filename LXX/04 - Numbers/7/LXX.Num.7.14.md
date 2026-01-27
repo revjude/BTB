@@ -9,12 +9,12 @@ one gold dish weighing ten shekels, filled with incense;<small><sub>**MT:**</su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| incense pan | <span class="asgreek">θυϊσκην <sup><small><small>[[G7695]]</small></small></sup> </span> |
-| one | <span class="asgreek">μίαν <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| of ten | <span class="asgreek">δέκα <sup><small><small>[[G1176]]</small></small></sup> </span> |
-| \[weights\] of gold, | <span class="asgreek">χρυσών <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| full | <span class="asgreek">πλήρη <sup><small><small>[[G4134]]</small></small></sup> </span> |
-| of incense; | <span class="asgreek">θυμιάματος <sup><small><small>[[G2368]]</small></small></sup> </span> |
+| incense pan | <big><span class="asgreek">θυϊσκην</span></big> <sup><small><small>[[G7695]]</small></small></sup> |
+| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| of ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| \[weights\] of gold, | <big><span class="asgreek">χρυσών</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| full | <big><span class="asgreek">πλήρη</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
+| of incense; | <big><span class="asgreek">θυμιάματος</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
 [[Num.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.13|<< Numbers 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.15|Numbers 7:15 >>]]</td></tr></table>
 
 

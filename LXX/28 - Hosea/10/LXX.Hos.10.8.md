@@ -13,32 +13,32 @@ The high places of Aven will be destroyed—it is the sin of Israel; thorns and 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be lifted away | <span class="asgreek">εξαρθήσονται <sup><small><small>[[G1808]]</small></small></sup> </span> |
-| \[the\] shrines | <span class="asgreek">βωμοί <sup><small><small>[[G1041]]</small></small></sup> </span> |
-| of On | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \[even the\] sins | <span class="asgreek">αμαρτήματα <sup><small><small>[[G0265]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Israel. | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| Thorn-bushes | <span class="asgreek">άκανθαι <sup><small><small>[[G0173]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| thistles | <span class="asgreek">τρίβολοι <sup><small><small>[[G5146]]</small></small></sup> </span> |
-| shall ascend | <span class="asgreek">αναβήσονται <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their altars; | <span class="asgreek">θυσιαστήρια <sup><small><small>[[G2379]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall say | <span class="asgreek">ερούσι <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mountains, | <span class="asgreek">όρεσι <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| Cover | <span class="asgreek">καλύψατε <sup><small><small>[[G2572]]</small></small></sup> </span> |
-| us! | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hills, | <span class="asgreek">βουνοίς <sup><small><small>[[G1015]]</small></small></sup> </span> |
-| Fall | <span class="asgreek">πέσατε <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| us! | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be lifted away | <big><span class="asgreek">εξαρθήσονται</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
+| \[the\] shrines | <big><span class="asgreek">βωμοί</span></big> <sup><small><small>[[G1041]]</small></small></sup> |
+| of On | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \[even the\] sins | <big><span class="asgreek">αμαρτήματα</span></big> <sup><small><small>[[G0265]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| Thorn-bushes | <big><span class="asgreek">άκανθαι</span></big> <sup><small><small>[[G0173]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| thistles | <big><span class="asgreek">τρίβολοι</span></big> <sup><small><small>[[G5146]]</small></small></sup> |
+| shall ascend | <big><span class="asgreek">αναβήσονται</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their altars; | <big><span class="asgreek">θυσιαστήρια</span></big> <sup><small><small>[[G2379]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall say | <big><span class="asgreek">ερούσι</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mountains, | <big><span class="asgreek">όρεσι</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| Cover | <big><span class="asgreek">καλύψατε</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
+| us! | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hills, | <big><span class="asgreek">βουνοίς</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
+| Fall | <big><span class="asgreek">πέσατε</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| us! | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Hos.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.7|<< Hosea 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.9|Hosea 10:9 >>]]</td></tr></table>
 
 

@@ -9,39 +9,39 @@ Sheba and Dedan and the merchants of Tarshish with all its villages will ask, �
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Sheba, | <span class="asgreek">Σαβά <sup><small><small>[[H7614]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Dedan, | <span class="asgreek">Δαιδάν <sup><small><small>[[H1719a]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| merchants | <span class="asgreek">έμποροι <sup><small><small>[[G1713]]</small></small></sup> </span> |
-| of Carthage, | <span class="asgreek">Καρχηδόνιοι <sup><small><small>[[H8659]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσαι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their towns | <span class="asgreek">κώμαι <sup><small><small>[[G2968]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall say | <span class="asgreek">ερούσί <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| to you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| For | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| plunder | <span class="asgreek">προνομήν <sup><small><small>[[G8903]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to plunder | <span class="asgreek">προνομεύσαι <sup><small><small>[[G8902]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| come | <span class="asgreek">έρχη <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to despoil | <span class="asgreek">σκυλεύσαι <sup><small><small>[[G9120]]</small></small></sup> </span> |
-| spoils. | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> </span> |
-| You gathered together | <span class="asgreek">συνήγαγες <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| your gathering | <span class="asgreek">συναγωγήν <sup><small><small>[[G4864]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to take | <span class="asgreek">λαβείν <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| silver | <span class="asgreek">αργύριον <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gold, | <span class="asgreek">χρυσίον <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| to carry away | <span class="asgreek">απενέγκασθαι <sup><small><small>[[G0667]]</small></small></sup> </span> |
-| property, | <span class="asgreek">κτήσιν <sup><small><small>[[G8111]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to despoil | <span class="asgreek">σκυλεύσαι <sup><small><small>[[G9120]]</small></small></sup> </span> |
-| spoils | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> </span> |
-| great | <span class="asgreek">μεγάλα <sup><small><small>[[G3173]]</small></small></sup> </span> |
+| Sheba, | <big><span class="asgreek">Σαβά</span></big> <sup><small><small>[[H7614]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Dedan, | <big><span class="asgreek">Δαιδάν</span></big> <sup><small><small>[[H1719a]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| merchants | <big><span class="asgreek">έμποροι</span></big> <sup><small><small>[[G1713]]</small></small></sup> |
+| of Carthage, | <big><span class="asgreek">Καρχηδόνιοι</span></big> <sup><small><small>[[H8659]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their towns | <big><span class="asgreek">κώμαι</span></big> <sup><small><small>[[G2968]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall say | <big><span class="asgreek">ερούσί</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| For | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| plunder | <big><span class="asgreek">προνομήν</span></big> <sup><small><small>[[G8903]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to plunder | <big><span class="asgreek">προνομεύσαι</span></big> <sup><small><small>[[G8902]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| come | <big><span class="asgreek">έρχη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to despoil | <big><span class="asgreek">σκυλεύσαι</span></big> <sup><small><small>[[G9120]]</small></small></sup> |
+| spoils. | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
+| You gathered together | <big><span class="asgreek">συνήγαγες</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| your gathering | <big><span class="asgreek">συναγωγήν</span></big> <sup><small><small>[[G4864]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to take | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gold, | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| to carry away | <big><span class="asgreek">απενέγκασθαι</span></big> <sup><small><small>[[G0667]]</small></small></sup> |
+| property, | <big><span class="asgreek">κτήσιν</span></big> <sup><small><small>[[G8111]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to despoil | <big><span class="asgreek">σκυλεύσαι</span></big> <sup><small><small>[[G9120]]</small></small></sup> |
+| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
+| great | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
 [[Ezek.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.12|<< Ezekiel 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.14|Ezekiel 38:14 >>]]</td></tr></table>
 
 

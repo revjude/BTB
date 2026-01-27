@@ -9,24 +9,24 @@ Abandon the towns and settle among the rocks, O dwellers of Moab! Be like a dove
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| left | <span class="asgreek">κατέλιπον <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lived | <span class="asgreek">ώκησαν <sup><small><small>[[G3611]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| rocks | <span class="asgreek">πέτραις <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| The ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">κατοικούντες <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| in Moab | <span class="asgreek">Μωάβ <sup><small><small>[[H6355]]</small></small></sup> </span> |
-| they became | <span class="asgreek">εγενήθησαν <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| doves | <span class="asgreek">περιστεραί <sup><small><small>[[G4058]]</small></small></sup> </span> |
-| nesting | <span class="asgreek">νοσσεύουσαι <sup><small><small>[[G8407]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| rocks, | <span class="asgreek">πέτραις <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| at \[the\] mouth | <span class="asgreek">στόματι <sup><small><small>[[G4750]]</small></small></sup> </span> |
-| of a pit. | <span class="asgreek">βοθύνου <sup><small><small>[[G0999]]</small></small></sup> </span> |
+| left | <big><span class="asgreek">κατέλιπον</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lived | <big><span class="asgreek">ώκησαν</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| rocks | <big><span class="asgreek">πέτραις</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">κατοικούντες</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| in Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| they became | <big><span class="asgreek">εγενήθησαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| doves | <big><span class="asgreek">περιστεραί</span></big> <sup><small><small>[[G4058]]</small></small></sup> |
+| nesting | <big><span class="asgreek">νοσσεύουσαι</span></big> <sup><small><small>[[G8407]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| rocks, | <big><span class="asgreek">πέτραις</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| at \[the\] mouth | <big><span class="asgreek">στόματι</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
+| of a pit. | <big><span class="asgreek">βοθύνου</span></big> <sup><small><small>[[G0999]]</small></small></sup> |
 [[Jer.48.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.27|<< Jeremiah 48:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.29|Jeremiah 48:29 >>]]</td></tr></table>
 
 

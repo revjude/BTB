@@ -9,15 +9,15 @@ The boar from the forest ravages it, and the creatures of the field feed upon it
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| laid her wasted | <span class="asgreek">ελυμήνατο <sup><small><small>[[G3075]]</small></small></sup> <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[The\] pig | <span class="asgreek">υς <sup><small><small>[[G5300]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] forest | <span class="asgreek">δρυμού <sup><small><small>[[G6971]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| boar | <span class="asgreek">μονιός <sup><small><small>[[G8342]]</small></small></sup> </span> |
-| \[the\] wild | <span class="asgreek">άγριος <sup><small><small>[[G0066]]</small></small></sup> </span> |
-| feeds on | <span class="asgreek">κατενεμήσατο <sup><small><small>[[G7879]]</small></small></sup> </span> |
-| her. | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| laid her wasted | <big><span class="asgreek">ελυμήνατο</span></big> <sup><small><small>[[G3075]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] pig | <big><span class="asgreek">υς</span></big> <sup><small><small>[[G5300]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] forest | <big><span class="asgreek">δρυμού</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| boar | <big><span class="asgreek">μονιός</span></big> <sup><small><small>[[G8342]]</small></small></sup> |
+| \[the\] wild | <big><span class="asgreek">άγριος</span></big> <sup><small><small>[[G0066]]</small></small></sup> |
+| feeds on | <big><span class="asgreek">κατενεμήσατο</span></big> <sup><small><small>[[G7879]]</small></small></sup> |
+| her. | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.80.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.12|<< Psalm 80:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.14|Psalm 80:14 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ A mocker seeks wisdom and finds none, but knowledge comes easily to the discerni
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You shall seek | <span class="asgreek">ζητήσεις <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| wisdom | <span class="asgreek">σοφίαν <sup><small><small>[[G4678]]</small></small></sup> </span> |
-| with | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| bad men, | <span class="asgreek">κακοίς <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| find \[it\]; | <span class="asgreek">ευρήσεις <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| but good sense | <span class="asgreek">αίσθησις <sup><small><small>[[G0144]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| from | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| \[the\] intelligent | <span class="asgreek">φρονίμοις <sup><small><small>[[G5429]]</small></small></sup> </span> |
-| \[is\] easily managed. | <span class="asgreek">ευχερής <sup><small><small>[[G7572]]</small></small></sup> </span> |
+| You shall seek | <big><span class="asgreek">ζητήσεις</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| wisdom | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
+| with | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| bad men, | <big><span class="asgreek">κακοίς</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| find \[it\]; | <big><span class="asgreek">ευρήσεις</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| but good sense | <big><span class="asgreek">αίσθησις</span></big> <sup><small><small>[[G0144]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| \[the\] intelligent | <big><span class="asgreek">φρονίμοις</span></big> <sup><small><small>[[G5429]]</small></small></sup> |
+| \[is\] easily managed. | <big><span class="asgreek">ευχερής</span></big> <sup><small><small>[[G7572]]</small></small></sup> |
 [[Prov.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.5|<< Proverbs 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.7|Proverbs 14:7 >>]]</td></tr></table>
 
 

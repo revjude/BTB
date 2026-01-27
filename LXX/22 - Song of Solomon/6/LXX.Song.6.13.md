@@ -9,16 +9,16 @@ Come back, come back, O Shulammite! Come back, come back, that we may gaze upon 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Return! | <span class="asgreek">επίστρεφε <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| return! | <span class="asgreek">επίστρεφε <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| O Shulamite. | <span class="asgreek">Σουλαμίτις <sup><small><small>[[H7759]]</small></small></sup> </span> |
-| Return! | <span class="asgreek">επίστρεφε <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| return! | <span class="asgreek">επίστρεφε <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we will look | <span class="asgreek">οψόμεθα <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| to | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Return! | <big><span class="asgreek">επίστρεφε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| return! | <big><span class="asgreek">επίστρεφε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| O Shulamite. | <big><span class="asgreek">Σουλαμίτις</span></big> <sup><small><small>[[H7759]]</small></small></sup> |
+| Return! | <big><span class="asgreek">επίστρεφε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| return! | <big><span class="asgreek">επίστρεφε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we will look | <big><span class="asgreek">οψόμεθα</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Song.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.12|<< Song of Solomon 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.1|Song of Solomon 7:1 >>]]</td></tr></table>
 
 

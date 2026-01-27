@@ -9,22 +9,22 @@ Because of your many products and your great wealth of goods, Damascus traded wi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Damascus | <span class="asgreek">Δαμασκός <sup><small><small>[[G1154]]</small></small></sup> </span> |
-| \[was\] your trade | <span class="asgreek">εμπορία σου <sup><small><small>[[G1711]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] abundance | <span class="asgreek">πλήθει <sup><small><small>[[G4128]]</small></small></sup> </span> |
-| of your works, | <span class="asgreek">έργων <sup><small><small>[[G2041]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| an abundance | <span class="asgreek">πλήθους <sup><small><small>[[G4128]]</small></small></sup> </span> |
-| of your power; | <span class="asgreek">δυνάμεώς <sup><small><small>[[G1411]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| wine | <span class="asgreek">οίνος <sup><small><small>[[G3631]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Helbon, | <span class="asgreek">Χελμόν <sup><small><small>[[H2463]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wool | <span class="asgreek">έριον <sup><small><small>[[G2053]]</small></small></sup> </span> |
-| shining | <span class="asgreek">στιλβον <sup><small><small>[[G4744]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Miletus. | <span class="asgreek">Μιλήτου <sup><small><small>[[G3399]]</small></small></sup> </span> |
+| Damascus | <big><span class="asgreek">Δαμασκός</span></big> <sup><small><small>[[G1154]]</small></small></sup> |
+| \[was\] your trade | <big><span class="asgreek">εμπορία σου</span></big> <sup><small><small>[[G1711]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] abundance | <big><span class="asgreek">πλήθει</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| of your works, | <big><span class="asgreek">έργων</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| an abundance | <big><span class="asgreek">πλήθους</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| of your power; | <big><span class="asgreek">δυνάμεώς</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| wine | <big><span class="asgreek">οίνος</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Helbon, | <big><span class="asgreek">Χελμόν</span></big> <sup><small><small>[[H2463]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wool | <big><span class="asgreek">έριον</span></big> <sup><small><small>[[G2053]]</small></small></sup> |
+| shining | <big><span class="asgreek">στιλβον</span></big> <sup><small><small>[[G4744]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Miletus. | <big><span class="asgreek">Μιλήτου</span></big> <sup><small><small>[[G3399]]</small></small></sup> |
 [[Ezek.27.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.17|<< Ezekiel 27:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.19|Ezekiel 27:19 >>]]</td></tr></table>
 
 

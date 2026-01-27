@@ -9,26 +9,26 @@
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| (after | <span class="asgreek">ύστερον <sup><small><small>[[G5305]]</small></small></sup> </span> |
-| \[the\] coming forth | <span class="asgreek">εξελθόντος <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| of Jeconiah | <span class="asgreek">Ιεχονίου <sup><small><small>[[G2423]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king, | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| queen, | <span class="asgreek">βασιλίσσης <sup><small><small>[[G0938]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eunuchs, | <span class="asgreek">ευνούχων <sup><small><small>[[G2135]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">παντός <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| free \[man\], | <span class="asgreek">ελευθέρου <sup><small><small>[[G1658]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bondman, | <span class="asgreek">δεσμώτου <sup><small><small>[[G1202]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| craftsman | <span class="asgreek">τεχνίτου <sup><small><small>[[G5079]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Jerusalem;) | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
+| (after | <big><span class="asgreek">ύστερον</span></big> <sup><small><small>[[G5305]]</small></small></sup> |
+| \[the\] coming forth | <big><span class="asgreek">εξελθόντος</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| of Jeconiah | <big><span class="asgreek">Ιεχονίου</span></big> <sup><small><small>[[G2423]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king, | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| queen, | <big><span class="asgreek">βασιλίσσης</span></big> <sup><small><small>[[G0938]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eunuchs, | <big><span class="asgreek">ευνούχων</span></big> <sup><small><small>[[G2135]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| free \[man\], | <big><span class="asgreek">ελευθέρου</span></big> <sup><small><small>[[G1658]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bondman, | <big><span class="asgreek">δεσμώτου</span></big> <sup><small><small>[[G1202]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| craftsman | <big><span class="asgreek">τεχνίτου</span></big> <sup><small><small>[[G5079]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Jerusalem;) | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
 [[Jer.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.1|<< Jeremiah 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.3|Jeremiah 29:3 >>]]</td></tr></table>
 
 

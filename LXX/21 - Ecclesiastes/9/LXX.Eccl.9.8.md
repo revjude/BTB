@@ -9,18 +9,18 @@ Let your garments always be white, and never spare the oil for your head.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| every | <span class="asgreek">παντί <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| time | <span class="asgreek">καιρώ <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| be | <span class="asgreek">έστωσαν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| your garments | <span class="asgreek">ιμάτιά <sup><small><small>[[G2440]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| white, | <span class="asgreek">λευκά <sup><small><small>[[G3022]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| oil | <span class="asgreek">έλαιον <sup><small><small>[[G1637]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| your head | <span class="asgreek">κεφαλής <sup><small><small>[[G2776]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| let not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| be lacking | <span class="asgreek">υστερησάτω <sup><small><small>[[G5302]]</small></small></sup> </span> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| be | <big><span class="asgreek">έστωσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| your garments | <big><span class="asgreek">ιμάτιά</span></big> <sup><small><small>[[G2440]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| white, | <big><span class="asgreek">λευκά</span></big> <sup><small><small>[[G3022]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| your head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| be lacking | <big><span class="asgreek">υστερησάτω</span></big> <sup><small><small>[[G5302]]</small></small></sup> |
 [[Eccl.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.7|<< Ecclesiastes 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.9|Ecclesiastes 9:9 >>]]</td></tr></table>
 
 

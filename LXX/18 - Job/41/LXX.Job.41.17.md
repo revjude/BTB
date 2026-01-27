@@ -9,15 +9,15 @@ They are joined to one another; they clasp and cannot be separated.<small><sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his brother | <span class="asgreek">αδελφώ <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall be cleaved; | <span class="asgreek">προσκολληθήσονται <sup><small><small>[[G4347]]</small></small></sup> </span> |
-| they are held together, | <span class="asgreek">συνέχονται <sup><small><small>[[G4912]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| draw apart. | <span class="asgreek">αποσπασθώσιν <sup><small><small>[[G0645]]</small></small></sup> </span> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his brother | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall be cleaved; | <big><span class="asgreek">προσκολληθήσονται</span></big> <sup><small><small>[[G4347]]</small></small></sup> |
+| they are held together, | <big><span class="asgreek">συνέχονται</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| draw apart. | <big><span class="asgreek">αποσπασθώσιν</span></big> <sup><small><small>[[G0645]]</small></small></sup> |
 [[Job.41.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.16|<< Job 41:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.18|Job 41:18 >>]]</td></tr></table>
 
 

@@ -9,28 +9,28 @@ Gilead remained beyond the Jordan. Dan, why did you linger by the ships? Asher s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Gilead | <span class="asgreek">Γαλαάδ <sup><small><small>[[H1568]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| other side | <span class="asgreek">πέραν <sup><small><small>[[G4008]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jordan | <span class="asgreek">Ιορδάνου <sup><small><small>[[G2446]]</small></small></sup> </span> |
-| encamped | <span class="asgreek">κατεσκήνωσε <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Dan -- | <span class="asgreek">Δαν <sup><small><small>[[H1835]]</small></small></sup> </span> |
-| why | <span class="asgreek">ινατί <sup><small><small>[[G2444]]</small></small></sup> </span> |
-| does he sojourn | <span class="asgreek">παροικείς <sup><small><small>[[G3939]]</small></small></sup> </span> |
-| in boats? | <span class="asgreek">πλοίοις <sup><small><small>[[G4143]]</small></small></sup> </span> |
-| Asher | <span class="asgreek">Ασήρ <sup><small><small>[[G0768]]</small></small></sup> </span> |
-| sojourns | <span class="asgreek">παρώκησεν <sup><small><small>[[G3939]]</small></small></sup> </span> |
-| by | <span class="asgreek">παρ΄ <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| \[the\] shore | <span class="asgreek">αιγιαλόν <sup><small><small>[[G0123]]</small></small></sup> </span> |
-| of seas, | <span class="asgreek">θαλασσών <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| at | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his breaches | <span class="asgreek">διακοπάς <sup><small><small>[[G6838]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he will encamp. | <span class="asgreek">κατεσκήνωσεν <sup><small><small>[[G2681]]</small></small></sup> </span> |
+| Gilead | <big><span class="asgreek">Γαλαάδ</span></big> <sup><small><small>[[H1568]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| other side | <big><span class="asgreek">πέραν</span></big> <sup><small><small>[[G4008]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
+| encamped | <big><span class="asgreek">κατεσκήνωσε</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Dan -- | <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
+| why | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
+| does he sojourn | <big><span class="asgreek">παροικείς</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
+| in boats? | <big><span class="asgreek">πλοίοις</span></big> <sup><small><small>[[G4143]]</small></small></sup> |
+| Asher | <big><span class="asgreek">Ασήρ</span></big> <sup><small><small>[[G0768]]</small></small></sup> |
+| sojourns | <big><span class="asgreek">παρώκησεν</span></big> <sup><small><small>[[G3939]]</small></small></sup> |
+| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| \[the\] shore | <big><span class="asgreek">αιγιαλόν</span></big> <sup><small><small>[[G0123]]</small></small></sup> |
+| of seas, | <big><span class="asgreek">θαλασσών</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his breaches | <big><span class="asgreek">διακοπάς</span></big> <sup><small><small>[[G6838]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he will encamp. | <big><span class="asgreek">κατεσκήνωσεν</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
 [[Judg.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.16|<< Judges 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.18|Judges 5:18 >>]]</td></tr></table>
 
 

@@ -9,32 +9,32 @@ These were the families of the Levites: The Libnite clan, the Hebronite clan, th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| These are | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| peoples | <span class="asgreek">δήμοι <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| of \[the\] sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Levi; | <span class="asgreek">Λευί <sup><small><small>[[G3017]]</small></small></sup> </span> |
-| \[the\] people -- | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Libinites; | <span class="asgreek">Λιβενί <sup><small><small>[[H3846]]</small></small></sup> </span> |
-| \[the\] people -- | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hebronites; | <span class="asgreek">Χεβρωνί <sup><small><small>[[H2275b]]</small></small></sup> </span> |
-| \[the\] people -- | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Mahlites; | <span class="asgreek">Μολί <sup><small><small>[[H4249]]</small></small></sup> </span> |
-| \[the\] people -- | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Mushites; | <span class="asgreek">Μουσί <sup><small><small>[[H4187]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] people -- | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Korathites; | <span class="asgreek">Κορέ <sup><small><small>[[G2879]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Kohath | <span class="asgreek">Καάθ <sup><small><small>[[H6955]]</small></small></sup> </span> |
-| procreated | <span class="asgreek">εγέννησε <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Amram. | <span class="asgreek">Άμβραμ <sup><small><small>[[H6019]]</small></small></sup> </span> |
+| These are | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| peoples | <big><span class="asgreek">δήμοι</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Levi; | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
+| \[the\] people -- | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Libinites; | <big><span class="asgreek">Λιβενί</span></big> <sup><small><small>[[H3846]]</small></small></sup> |
+| \[the\] people -- | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hebronites; | <big><span class="asgreek">Χεβρωνί</span></big> <sup><small><small>[[H2275b]]</small></small></sup> |
+| \[the\] people -- | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Mahlites; | <big><span class="asgreek">Μολί</span></big> <sup><small><small>[[H4249]]</small></small></sup> |
+| \[the\] people -- | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Mushites; | <big><span class="asgreek">Μουσί</span></big> <sup><small><small>[[H4187]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] people -- | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Korathites; | <big><span class="asgreek">Κορέ</span></big> <sup><small><small>[[G2879]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Kohath | <big><span class="asgreek">Καάθ</span></big> <sup><small><small>[[H6955]]</small></small></sup> |
+| procreated | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Amram. | <big><span class="asgreek">Άμβραμ</span></big> <sup><small><small>[[H6019]]</small></small></sup> |
 [[Num.26.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.57|<< Numbers 26:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.59|Numbers 26:59 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ Woe to him who gives drink to his neighbors, pouring it from the wineskin until 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| O, | <span class="asgreek">ω <sup><small><small>[[G5599]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| giving a drink | <span class="asgreek">ποτίζων <sup><small><small>[[G4222]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to his neighbor | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| diet of \[lees\] | <span class="asgreek">ανατροπήν <sup><small><small>[[G6316]]</small></small></sup> </span> |
-| a clouded | <span class="asgreek">θολεράν <sup><small><small>[[G7682]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| intoxicating | <span class="asgreek">μεθύσκων <sup><small><small>[[G3182]]</small></small></sup> </span> |
-| so that | <span class="asgreek">όπως <sup><small><small>[[G3704]]</small></small></sup> </span> |
-| he should look | <span class="asgreek">επιβλέπη <sup><small><small>[[G1914]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their private parts. | <span class="asgreek">σπήλαια <sup><small><small>[[G4693]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| O, | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G5599]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| giving a drink | <big><span class="asgreek">ποτίζων</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to his neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| diet of \[lees\] | <big><span class="asgreek">ανατροπήν</span></big> <sup><small><small>[[G6316]]</small></small></sup> |
+| a clouded | <big><span class="asgreek">θολεράν</span></big> <sup><small><small>[[G7682]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| intoxicating | <big><span class="asgreek">μεθύσκων</span></big> <sup><small><small>[[G3182]]</small></small></sup> |
+| so that | <big><span class="asgreek">όπως</span></big> <sup><small><small>[[G3704]]</small></small></sup> |
+| he should look | <big><span class="asgreek">επιβλέπη</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their private parts. | <big><span class="asgreek">σπήλαια</span></big> <sup><small><small>[[G4693]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Hab.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.14|<< Habakkuk 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.16|Habakkuk 2:16 >>]]</td></tr></table>
 
 

@@ -9,30 +9,30 @@ They that sanctify themselves, and purify themselves in the gardens behind one [
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| purifying themselves | <span class="asgreek">αγνιζόμενοι <sup><small><small>[[G0048]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| cleansing themselves | <span class="asgreek">καθαριζόμενοι <sup><small><small>[[G2511]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gardens, | <span class="asgreek">κήπους <sup><small><small>[[G2779]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thresholds | <span class="asgreek">προθύροις <sup><small><small>[[G8895]]</small></small></sup> </span> |
-| \[the ones\] eating | <span class="asgreek">έσθοντες <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| \[the\] meat | <span class="asgreek">κρέας <sup><small><small>[[G2907]]</small></small></sup> </span> |
-| of a pig | <span class="asgreek">ύειον <sup><small><small>[[G9531]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| abominations | <span class="asgreek">βδελύγματα <sup><small><small>[[G0946]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mouse | <span class="asgreek">μυν <sup><small><small>[[G8367]]</small></small></sup> </span> |
-| together | <span class="asgreek">επιτοαυτό <sup><small><small>[[G7464]]</small></small></sup> </span> |
-| shall be consumed, | <span class="asgreek">αναλωθήσονται <sup><small><small>[[G0355]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| purifying themselves | <big><span class="asgreek">αγνιζόμενοι</span></big> <sup><small><small>[[G0048]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| cleansing themselves | <big><span class="asgreek">καθαριζόμενοι</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gardens, | <big><span class="asgreek">κήπους</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thresholds | <big><span class="asgreek">προθύροις</span></big> <sup><small><small>[[G8895]]</small></small></sup> |
+| \[the ones\] eating | <big><span class="asgreek">έσθοντες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| \[the\] meat | <big><span class="asgreek">κρέας</span></big> <sup><small><small>[[G2907]]</small></small></sup> |
+| of a pig | <big><span class="asgreek">ύειον</span></big> <sup><small><small>[[G9531]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| abominations | <big><span class="asgreek">βδελύγματα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mouse | <big><span class="asgreek">μυν</span></big> <sup><small><small>[[G8367]]</small></small></sup> |
+| together | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
+| shall be consumed, | <big><span class="asgreek">αναλωθήσονται</span></big> <sup><small><small>[[G0355]]</small></small></sup> |
+| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Isa.66.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.16|<< Isaiah 66:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.18|Isaiah 66:18 >>]]</td></tr></table>
 
 

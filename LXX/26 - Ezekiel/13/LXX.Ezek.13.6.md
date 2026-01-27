@@ -9,24 +9,24 @@ They see false visions and speak lying divinations. They claim, ‘Thus declares
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Ones seeing | <span class="asgreek">βλέποντες <sup><small><small>[[G0991]]</small></small></sup> </span> |
-| false \[visions\], | <span class="asgreek">ψευδή <sup><small><small>[[G5571]]</small></small></sup> </span> |
-| oracles | <span class="asgreek">μαντεύομενοι <sup><small><small>[[G3132]]</small></small></sup> </span> |
-| vain | <span class="asgreek">μάταια <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγοντες <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[Thus\] says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| has not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| sent | <span class="asgreek">απέσταλκεν <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they began | <span class="asgreek">ήρξαντο <sup><small><small>[[G0756]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to raise up | <span class="asgreek">αναστήσαι <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| a \[false\] word. | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
+| Ones seeing | <big><span class="asgreek">βλέποντες</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
+| false \[visions\], | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| oracles | <big><span class="asgreek">μαντεύομενοι</span></big> <sup><small><small>[[G3132]]</small></small></sup> |
+| vain | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[Thus\] says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| has not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| sent | <big><span class="asgreek">απέσταλκεν</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they began | <big><span class="asgreek">ήρξαντο</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to raise up | <big><span class="asgreek">αναστήσαι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| a \[false\] word. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
 [[Ezek.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.5|<< Ezekiel 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.7|Ezekiel 13:7 >>]]</td></tr></table>
 
 

@@ -12,21 +12,21 @@ Keep silence before me, O islands; and let the people renew [their] strength: le
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Dedicate \[a feast\] | <span class="asgreek">εγκαινίζεσθε <sup><small><small>[[G1457]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O islands, | <span class="asgreek">νήσοι <sup><small><small>[[G3520]]</small></small></sup> </span> |
-| for the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| rulers | <span class="asgreek">άρχοντες <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| shall change | <span class="asgreek">αλλάξουσιν <sup><small><small>[[G0236]]</small></small></sup> </span> |
-| strength. | <span class="asgreek">ισχύν <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| Let them approach | <span class="asgreek">εγγισάτωσαν <sup><small><small>[[G1448]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| speak | <span class="asgreek">λαλησάτωσαν <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| together, | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| judgment | <span class="asgreek">κρίσιν <sup><small><small>[[G2920]]</small></small></sup> </span> |
-| let them announce | <span class="asgreek">αναγγειλάτωσαν <sup><small><small>[[G0312]]</small></small></sup> </span> |
+| Dedicate \[a feast\] | <big><span class="asgreek">εγκαινίζεσθε</span></big> <sup><small><small>[[G1457]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O islands, | <big><span class="asgreek">νήσοι</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
+| for the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| shall change | <big><span class="asgreek">αλλάξουσιν</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
+| strength. | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| Let them approach | <big><span class="asgreek">εγγισάτωσαν</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| speak | <big><span class="asgreek">λαλησάτωσαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| together, | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| judgment | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| let them announce | <big><span class="asgreek">αναγγειλάτωσαν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
 [[Isa.41.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.31|<< Isaiah 40:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.2|Isaiah 41:2 >>]]</td></tr></table>
 
 

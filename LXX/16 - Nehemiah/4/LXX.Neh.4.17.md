@@ -9,31 +9,31 @@ who were rebuilding the wall. The laborers who carried materials worked with one
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones building | <span class="asgreek">οικοδομούντων <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wall, | <span class="asgreek">τείχει <sup><small><small>[[G5038]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lifting \[things\] | <span class="asgreek">αίροντες <sup><small><small>[[G0142]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| their | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shoulders, | <span class="asgreek">αρτήρσιν <sup><small><small>[[G6547]]</small></small></sup> </span> |
-| armed | <span class="asgreek">ένοπλοι <sup><small><small>[[G7257]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| one | <span class="asgreek">μία <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| hand | <span class="asgreek">χειρί <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| did | <span class="asgreek">εποίει <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| one \[hand\] | <span class="asgreek">μία <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| held | <span class="asgreek">εκράτει <sup><small><small>[[G2902]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| arrow. | <span class="asgreek">βολίδα <sup><small><small>[[G1002]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones building | <big><span class="asgreek">οικοδομούντων</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wall, | <big><span class="asgreek">τείχει</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lifting \[things\] | <big><span class="asgreek">αίροντες</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| their | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shoulders, | <big><span class="asgreek">αρτήρσιν</span></big> <sup><small><small>[[G6547]]</small></small></sup> |
+| armed | <big><span class="asgreek">ένοπλοι</span></big> <sup><small><small>[[G7257]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| did | <big><span class="asgreek">εποίει</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| one \[hand\] | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| held | <big><span class="asgreek">εκράτει</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| arrow. | <big><span class="asgreek">βολίδα</span></big> <sup><small><small>[[G1002]]</small></small></sup> |
 [[Neh.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.16|<< Nehemiah 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.18|Nehemiah 4:18 >>]]</td></tr></table>
 
 

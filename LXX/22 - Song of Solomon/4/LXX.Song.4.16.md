@@ -9,17 +9,17 @@ Awake, O north wind, and come, O south wind. Breathe on my garden and spread the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Awake, | <span class="asgreek">εξεγέρθητι <sup><small><small>[[G1825]]</small></small></sup> </span> |
-| O north \[wind\]! | <span class="asgreek">βορρά <sup><small><small>[[G1005]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| come, | <span class="asgreek">έρχου <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| O south! | <span class="asgreek">νότε <sup><small><small>[[G3558]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| refresh | <span class="asgreek">διάπνευσον <sup><small><small>[[G6866]]</small></small></sup> </span> |
-| my garden, | <span class="asgreek">κήπον <sup><small><small>[[G2779]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| let flow | <span class="asgreek">ρευσάτωσαν <sup><small><small>[[G4482]]</small></small></sup> </span> |
-| my aromatics! | <span class="asgreek">αρώματά <sup><small><small>[[G0759]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Awake, | <big><span class="asgreek">εξεγέρθητι</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
+| O north \[wind\]! | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| come, | <big><span class="asgreek">έρχου</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| O south! | <big><span class="asgreek">νότε</span></big> <sup><small><small>[[G3558]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| refresh | <big><span class="asgreek">διάπνευσον</span></big> <sup><small><small>[[G6866]]</small></small></sup> |
+| my garden, | <big><span class="asgreek">κήπον</span></big> <sup><small><small>[[G2779]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| let flow | <big><span class="asgreek">ρευσάτωσαν</span></big> <sup><small><small>[[G4482]]</small></small></sup> |
+| my aromatics! | <big><span class="asgreek">αρώματά</span></big> <sup><small><small>[[G0759]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Song.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.15|<< Song of Solomon 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.1|Song of Solomon 5:1 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ Not only was the Teacher wise, but he also taught the people knowledge; he ponde
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[it was\] extra | <span class="asgreek">περισσόν <sup><small><small>[[G4053]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| became | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \[the\] ecclesiastic | <span class="asgreek">εκκλησιαστής <sup><small><small>[[G7103]]</small></small></sup> </span> |
-| wise, | <span class="asgreek">σοφός <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he taught | <span class="asgreek">εδίδαξε <sup><small><small>[[G1321]]</small></small></sup> </span> |
-| knowledge | <span class="asgreek">γνώσιν <sup><small><small>[[G1108]]</small></small></sup> </span> |
-| with | <span class="asgreek">συν <sup><small><small>[[G4862]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| man, | <span class="asgreek">άνθρωπον <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| which | <span class="asgreek">ους <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| he shall trace | <span class="asgreek">εξιχνιάσεται <sup><small><small>[[G7337]]</small></small></sup> </span> |
-| composed | <span class="asgreek">κόσμιον <sup><small><small>[[G2887]]</small></small></sup> </span> |
-| parables. | <span class="asgreek">παραβολών <sup><small><small>[[G3850]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[it was\] extra | <big><span class="asgreek">περισσόν</span></big> <sup><small><small>[[G4053]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| became | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \[the\] ecclesiastic | <big><span class="asgreek">εκκλησιαστής</span></big> <sup><small><small>[[G7103]]</small></small></sup> |
+| wise, | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he taught | <big><span class="asgreek">εδίδαξε</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
+| knowledge | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
+| with | <big><span class="asgreek">συν</span></big> <sup><small><small>[[G4862]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| man, | <big><span class="asgreek">άνθρωπον</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| he shall trace | <big><span class="asgreek">εξιχνιάσεται</span></big> <sup><small><small>[[G7337]]</small></small></sup> |
+| composed | <big><span class="asgreek">κόσμιον</span></big> <sup><small><small>[[G2887]]</small></small></sup> |
+| parables. | <big><span class="asgreek">παραβολών</span></big> <sup><small><small>[[G3850]]</small></small></sup> |
 [[Eccl.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.8|<< Ecclesiastes 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.10|Ecclesiastes 12:10 >>]]</td></tr></table>
 
 

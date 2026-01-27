@@ -9,16 +9,16 @@ Who can strip off his outer coat? Who can approach him with a bridle?<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| will uncover | <span class="asgreek">αποκαλύψει <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| \[the\] front | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of his clothing? | <span class="asgreek">ενδύσεως <sup><small><small>[[G1745]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[the\] fold | <span class="asgreek">πτύξιν <sup><small><small>[[G8982]]</small></small></sup> </span> |
-| of his chest \[plate\] | <span class="asgreek">θώρακος <sup><small><small>[[G2382]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| can | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| enter? | <span class="asgreek">εισέλθοι <sup><small><small>[[G1525]]</small></small></sup> </span> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| will uncover | <big><span class="asgreek">αποκαλύψει</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| \[the\] front | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of his clothing? | <big><span class="asgreek">ενδύσεως</span></big> <sup><small><small>[[G1745]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[the\] fold | <big><span class="asgreek">πτύξιν</span></big> <sup><small><small>[[G8982]]</small></small></sup> |
+| of his chest \[plate\] | <big><span class="asgreek">θώρακος</span></big> <sup><small><small>[[G2382]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| can | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| enter? | <big><span class="asgreek">εισέλθοι</span></big> <sup><small><small>[[G1525]]</small></small></sup> |
 [[Job.41.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.12|<< Job 41:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.14|Job 41:14 >>]]</td></tr></table>
 
 

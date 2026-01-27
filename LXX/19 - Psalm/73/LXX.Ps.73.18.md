@@ -9,16 +9,16 @@ Surely You set them on slick ground; You cast them down into ruin.<small><sub>*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Besides, | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| on account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their deceits | <span class="asgreek">δολιότητας <sup><small><small>[[G6957]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you appointed | <span class="asgreek">έθου <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| evils unto them; | <span class="asgreek">αυτοις <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">κακά <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| you threw them down | <span class="asgreek">κατέβαλες <sup><small><small>[[G2598]]</small></small></sup> <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| their | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being lifted up. | <span class="asgreek">επαρθήναι <sup><small><small>[[G1869]]</small></small></sup> </span> |
+| Besides, | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their deceits | <big><span class="asgreek">δολιότητας</span></big> <sup><small><small>[[G6957]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you appointed | <big><span class="asgreek">έθου</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| evils unto them; | <big><span class="asgreek">αυτοις</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| you threw them down | <big><span class="asgreek">κατέβαλες</span></big> <sup><small><small>[[G2598]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| their | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being lifted up. | <big><span class="asgreek">επαρθήναι</span></big> <sup><small><small>[[G1869]]</small></small></sup> |
 [[Ps.73.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.17|<< Psalm 73:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.19|Psalm 73:19 >>]]</td></tr></table>
 
 

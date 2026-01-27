@@ -12,37 +12,37 @@ So Hilkiah and those the king had designated went and spoke to Huldah the prophe
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Helkiah went, | <span class="asgreek">επορεύθη <sup><small><small>[[G4198]]</small></small></sup> <span class="asgreek">Χελκίας <sup><small><small>[[H2518]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the ones\] who | <span class="asgreek">οις <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| told | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king, | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Huldah | <span class="asgreek">Ολδάν <sup><small><small>[[H2468]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prophetess, | <span class="asgreek">προφήτιν <sup><small><small>[[G4398]]</small></small></sup> </span> |
-| wife | <span class="asgreek">γυναίκα <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| of Shallum, | <span class="asgreek">Σελλήμ <sup><small><small>[[H8006]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιού <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Tikvath, | <span class="asgreek">Θεκώε <sup><small><small>[[H8616]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιού <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Hazrah | <span class="asgreek">Ασέρ <sup><small><small>[[H2641]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| keeper of the cloaks; | <span class="asgreek">ιματιοφύλακος <sup><small><small>[[G7721]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she | <span class="asgreek">αύτη <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| dwelt | <span class="asgreek">κατώκει <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Jerusalem | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] second section. | <span class="asgreek">μασαναί <sup><small><small>[[G8258]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they spoke | <span class="asgreek">ελάλησαν <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| to her | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| these \[things\]. | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Helkiah went, | <big><span class="asgreek">επορεύθη</span></big> <sup><small><small>[[G4198]]</small></small></sup> <big><span class="asgreek">Χελκίας</span></big> <sup><small><small>[[H2518]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the ones\] who | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| told | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king, | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Huldah | <big><span class="asgreek">Ολδάν</span></big> <sup><small><small>[[H2468]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prophetess, | <big><span class="asgreek">προφήτιν</span></big> <sup><small><small>[[G4398]]</small></small></sup> |
+| wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| of Shallum, | <big><span class="asgreek">Σελλήμ</span></big> <sup><small><small>[[H8006]]</small></small></sup> |
+| son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Tikvath, | <big><span class="asgreek">Θεκώε</span></big> <sup><small><small>[[H8616]]</small></small></sup> |
+| son | <big><span class="asgreek">υιού</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Hazrah | <big><span class="asgreek">Ασέρ</span></big> <sup><small><small>[[H2641]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| keeper of the cloaks; | <big><span class="asgreek">ιματιοφύλακος</span></big> <sup><small><small>[[G7721]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| dwelt | <big><span class="asgreek">κατώκει</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] second section. | <big><span class="asgreek">μασαναί</span></big> <sup><small><small>[[G8258]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they spoke | <big><span class="asgreek">ελάλησαν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| to her | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
 [[2Chr.34.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.21|<< 2 Chronicles 34:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.23|2 Chronicles 34:23 >>]]</td></tr></table>
 
 

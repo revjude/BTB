@@ -9,14 +9,14 @@ He laughs at fear, frightened of nothing; he does not turn back from the sword.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| meeting up with | <span class="asgreek">συναντών <sup><small><small>[[G4876]]</small></small></sup> </span> |
-| spears | <span class="asgreek">βέλη <sup><small><small>[[G0956]]</small></small></sup> </span> |
-| He ridicules | <span class="asgreek">καταγελά <sup><small><small>[[G2606]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| turns | <span class="asgreek">αποστραφή <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| an iron \[weapon\]. | <span class="asgreek">σιδήρου <sup><small><small>[[G4604]]</small></small></sup> </span> |
+| meeting up with | <big><span class="asgreek">συναντών</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
+| spears | <big><span class="asgreek">βέλη</span></big> <sup><small><small>[[G0956]]</small></small></sup> |
+| He ridicules | <big><span class="asgreek">καταγελά</span></big> <sup><small><small>[[G2606]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| turns | <big><span class="asgreek">αποστραφή</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| an iron \[weapon\]. | <big><span class="asgreek">σιδήρου</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
 [[Job.39.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.21|<< Job 39:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.23|Job 39:23 >>]]</td></tr></table>
 
 

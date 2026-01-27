@@ -9,18 +9,18 @@ Abandon your orphans; I will preserve their lives. Let your widows trust in Me.�
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| be left behind | <span class="asgreek">υπολειπέσθαι <sup><small><small>[[G5275]]</small></small></sup> </span> |
-| your orphan | <span class="asgreek">ορφανόν <sup><small><small>[[G3737]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| he should live, | <span class="asgreek">ζήσηται <sup><small><small>[[G2198]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall enliven, | <span class="asgreek">ζήσομαι <sup><small><small>[[G2198]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| your widows | <span class="asgreek">χήραι <sup><small><small>[[G5503]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall hope | <span class="asgreek">ελπιούσιν <sup><small><small>[[G1679]]</small></small></sup> </span> |
+| be left behind | <big><span class="asgreek">υπολειπέσθαι</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
+| your orphan | <big><span class="asgreek">ορφανόν</span></big> <sup><small><small>[[G3737]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| he should live, | <big><span class="asgreek">ζήσηται</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall enliven, | <big><span class="asgreek">ζήσομαι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| your widows | <big><span class="asgreek">χήραι</span></big> <sup><small><small>[[G5503]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall hope | <big><span class="asgreek">ελπιούσιν</span></big> <sup><small><small>[[G1679]]</small></small></sup> |
 [[Jer.49.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.10|<< Jeremiah 49:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.12|Jeremiah 49:12 >>]]</td></tr></table>
 
 

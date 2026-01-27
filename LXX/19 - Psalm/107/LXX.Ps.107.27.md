@@ -9,16 +9,16 @@ They reeled and staggered like drunkards, and all their skill was useless.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They were disturbed; | <span class="asgreek">εταράχθησαν <sup><small><small>[[G5015]]</small></small></sup> </span> |
-| they were shaken | <span class="asgreek">εσαλεύθησαν <sup><small><small>[[G4531]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being intoxicated, | <span class="asgreek">μεθύων <sup><small><small>[[G3184]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their wisdom | <span class="asgreek">σοφία <sup><small><small>[[G4678]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| was swallowed down. | <span class="asgreek">κατεπόθη <sup><small><small>[[G2666]]</small></small></sup> </span> |
+| They were disturbed; | <big><span class="asgreek">εταράχθησαν</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
+| they were shaken | <big><span class="asgreek">εσαλεύθησαν</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being intoxicated, | <big><span class="asgreek">μεθύων</span></big> <sup><small><small>[[G3184]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was swallowed down. | <big><span class="asgreek">κατεπόθη</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
 [[Ps.107.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.26|<< Psalm 107:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.28|Psalm 107:28 >>]]</td></tr></table>
 
 

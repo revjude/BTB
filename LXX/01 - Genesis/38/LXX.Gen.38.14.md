@@ -9,40 +9,40 @@ she removed her widow’s garments, covered her face with a veil to disguise her
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| removing | <span class="asgreek">περιελομένη <sup><small><small>[[G4014]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| garments | <span class="asgreek">ιμάτια <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| widowhood | <span class="asgreek">χηρεύσεως <sup><small><small>[[G9724]]</small></small></sup> </span> |
-| from | <span class="asgreek">αφ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| herself, | <span class="asgreek">εαυτής <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| she put around | <span class="asgreek">περιέβαλετο <sup><small><small>[[G4016]]</small></small></sup> </span> |
-| a lightweight covering, | <span class="asgreek">θέριστρον <sup><small><small>[[G7658]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bedecked \[herself\], | <span class="asgreek">εκαλλωπίσατο <sup><small><small>[[G7784]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| sat | <span class="asgreek">εκάθισε <sup><small><small>[[G2523]]</small></small></sup> </span> |
-| by | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gates | <span class="asgreek">πύλαις <sup><small><small>[[G4439]]</small></small></sup> </span> |
-| of Enaim, | <span class="asgreek">Ενάν <sup><small><small>[[H5881]]</small></small></sup> </span> |
-| which | <span class="asgreek">η <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] byway | <span class="asgreek">παρόδω <sup><small><small>[[G3938]]</small></small></sup> </span> |
-| of Timnath. | <span class="asgreek">Θαμνάν <sup><small><small>[[H8553]]</small></small></sup> </span> |
-| For she knew | <span class="asgreek">είδε <sup><small><small>[[G1492]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| older | <span class="asgreek">μέγας <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| was | <span class="asgreek">γέγονε <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| Shelah | <span class="asgreek">Σιλώμ <sup><small><small>[[H7956]]</small></small></sup> </span> |
-| but he | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| give | <span class="asgreek">έδωκεν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as wife. | <span class="asgreek">γυναίκα <sup><small><small>[[G1135]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| removing | <big><span class="asgreek">περιελομένη</span></big> <sup><small><small>[[G4014]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| garments | <big><span class="asgreek">ιμάτια</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| widowhood | <big><span class="asgreek">χηρεύσεως</span></big> <sup><small><small>[[G9724]]</small></small></sup> |
+| from | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| herself, | <big><span class="asgreek">εαυτής</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| she put around | <big><span class="asgreek">περιέβαλετο</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
+| a lightweight covering, | <big><span class="asgreek">θέριστρον</span></big> <sup><small><small>[[G7658]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bedecked \[herself\], | <big><span class="asgreek">εκαλλωπίσατο</span></big> <sup><small><small>[[G7784]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| sat | <big><span class="asgreek">εκάθισε</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
+| by | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gates | <big><span class="asgreek">πύλαις</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| of Enaim, | <big><span class="asgreek">Ενάν</span></big> <sup><small><small>[[H5881]]</small></small></sup> |
+| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] byway | <big><span class="asgreek">παρόδω</span></big> <sup><small><small>[[G3938]]</small></small></sup> |
+| of Timnath. | <big><span class="asgreek">Θαμνάν</span></big> <sup><small><small>[[H8553]]</small></small></sup> |
+| For she knew | <big><span class="asgreek">είδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| older | <big><span class="asgreek">μέγας</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| was | <big><span class="asgreek">γέγονε</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| Shelah | <big><span class="asgreek">Σιλώμ</span></big> <sup><small><small>[[H7956]]</small></small></sup> |
+| but he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| give | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as wife. | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
 [[Gen.38.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.13|<< Genesis 38:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.15|Genesis 38:15 >>]]</td></tr></table>
 
 

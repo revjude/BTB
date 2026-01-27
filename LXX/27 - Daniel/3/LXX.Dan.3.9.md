@@ -9,11 +9,11 @@ saying to King Nebuchadnezzar, “O king, may you live forever!<small><sub>**MT
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| O king, | <span class="asgreek">βασιλεύ <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eons | <span class="asgreek">αιώνας <sup><small><small>[[G0165]]</small></small></sup> </span> |
-| live | <span class="asgreek">ζήθι <sup><small><small>[[G2198]]</small></small></sup> </span> |
+| O king, | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eons | <big><span class="asgreek">αιώνας</span></big> <sup><small><small>[[G0165]]</small></small></sup> |
+| live | <big><span class="asgreek">ζήθι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
 [[Dan.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.8|<< Daniel 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.10|Daniel 3:10 >>]]</td></tr></table>
 
 

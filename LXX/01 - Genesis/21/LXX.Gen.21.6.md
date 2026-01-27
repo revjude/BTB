@@ -9,17 +9,17 @@ Then Sarah said, “God has made me laugh, and everyone who hears of this will l
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| Sarah | <span class="asgreek">Σάρρα <sup><small><small>[[G4564]]</small></small></sup> </span> |
-| laughter | <span class="asgreek">γέλωτά <sup><small><small>[[G1071]]</small></small></sup> </span> |
-| to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| caused | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| \[The\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| for whoever | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| may hear | <span class="asgreek">ακούση <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| will rejoice along with | <span class="asgreek">συγχαρείταί <sup><small><small>[[G4796]]</small></small></sup> </span> |
-| me. | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| Sarah | <big><span class="asgreek">Σάρρα</span></big> <sup><small><small>[[G4564]]</small></small></sup> |
+| laughter | <big><span class="asgreek">γέλωτά</span></big> <sup><small><small>[[G1071]]</small></small></sup> |
+| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| caused | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| for whoever | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| may hear | <big><span class="asgreek">ακούση</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| will rejoice along with | <big><span class="asgreek">συγχαρείταί</span></big> <sup><small><small>[[G4796]]</small></small></sup> |
+| me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.5|<< Genesis 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.7|Genesis 21:7 >>]]</td></tr></table>
 
 

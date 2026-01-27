@@ -14,24 +14,24 @@ Of David. To You, O LORD, I call; be not deaf to me, O my Rock. For if You remai
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| To | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| I shall cry out. | <span class="asgreek">κεκράξομαι <sup><small><small>[[G2896]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| My God, | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| remain silent | <span class="asgreek">παρασιωπήσης <sup><small><small>[[G8637]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| me! | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| lest at any time | <span class="asgreek">μή ποτε <sup><small><small>[[G3379]]</small></small></sup> </span> |
-| you should remain silent, | <span class="asgreek">παρασιωπήσης <sup><small><small>[[G8637]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall be likened | <span class="asgreek">ομοιωθήσομαι <sup><small><small>[[G3666]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones going down | <span class="asgreek">καταβαίνουσιν <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] pit. | <span class="asgreek">λάκκον <sup><small><small>[[G8154]]</small></small></sup> </span> |
+| To | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| I shall cry out. | <big><span class="asgreek">κεκράξομαι</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| My God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| remain silent | <big><span class="asgreek">παρασιωπήσης</span></big> <sup><small><small>[[G8637]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| me! | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
+| you should remain silent, | <big><span class="asgreek">παρασιωπήσης</span></big> <sup><small><small>[[G8637]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall be likened | <big><span class="asgreek">ομοιωθήσομαι</span></big> <sup><small><small>[[G3666]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones going down | <big><span class="asgreek">καταβαίνουσιν</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] pit. | <big><span class="asgreek">λάκκον</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
 [[Ps.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.14|<< Psalm 27:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.28.2|Psalm 28:2 >>]]</td></tr></table>
 
 

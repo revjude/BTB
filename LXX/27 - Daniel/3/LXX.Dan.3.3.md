@@ -13,41 +13,41 @@ So the satraps, prefects, governors, advisers, treasurers, judges, magistrates, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gathered together | <span class="asgreek">συνήχθησαν <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| toparchs, | <span class="asgreek">τοπάρχαι <sup><small><small>[[G9466]]</small></small></sup> </span> |
-| supreme \[leaders\], | <span class="asgreek">υπατοι <sup><small><small>[[G9538]]</small></small></sup> </span> |
-| commandants, | <span class="asgreek">στρατηγοί <sup><small><small>[[G4755]]</small></small></sup> </span> |
-| leaders, | <span class="asgreek">ηγούμενοι <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| sovereigns, | <span class="asgreek">τύραννοι <sup><small><small>[[G5181]]</small></small></sup> </span> |
-| great ones, | <span class="asgreek">μεγάλοι <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| authorities, | <span class="asgreek">εξουσιών <sup><small><small>[[G1849]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rulers | <span class="asgreek">άρχοντες <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| regions, | <span class="asgreek">χωρών <sup><small><small>[[G5561]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dedication | <span class="asgreek">εγκαινισμόν <sup><small><small>[[G7004]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| image | <span class="asgreek">εικόνος <sup><small><small>[[G1504]]</small></small></sup> </span> |
-| which | <span class="asgreek">ης <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| stationed | <span class="asgreek">έστησεν <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| Nebuchadnezzar | <span class="asgreek">Ναβουχοδονόσορ <sup><small><small>[[H5020]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they stood | <span class="asgreek">ειστήκεισαν <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| before | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| image | <span class="asgreek">εικόνος <sup><small><small>[[G1504]]</small></small></sup> </span> |
-| which | <span class="asgreek">ης <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| Nebuchadnezzar stationed. | <span class="asgreek">έστησεν <sup><small><small>[[G2476]]</small></small></sup> <span class="asgreek">Ναβουχοδονόσορ <sup><small><small>[[H5020]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gathered together | <big><span class="asgreek">συνήχθησαν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| toparchs, | <big><span class="asgreek">τοπάρχαι</span></big> <sup><small><small>[[G9466]]</small></small></sup> |
+| supreme \[leaders\], | <big><span class="asgreek">υπατοι</span></big> <sup><small><small>[[G9538]]</small></small></sup> |
+| commandants, | <big><span class="asgreek">στρατηγοί</span></big> <sup><small><small>[[G4755]]</small></small></sup> |
+| leaders, | <big><span class="asgreek">ηγούμενοι</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| sovereigns, | <big><span class="asgreek">τύραννοι</span></big> <sup><small><small>[[G5181]]</small></small></sup> |
+| great ones, | <big><span class="asgreek">μεγάλοι</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| authorities, | <big><span class="asgreek">εξουσιών</span></big> <sup><small><small>[[G1849]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rulers | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| regions, | <big><span class="asgreek">χωρών</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dedication | <big><span class="asgreek">εγκαινισμόν</span></big> <sup><small><small>[[G7004]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| image | <big><span class="asgreek">εικόνος</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
+| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| stationed | <big><span class="asgreek">έστησεν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| Nebuchadnezzar | <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they stood | <big><span class="asgreek">ειστήκεισαν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| image | <big><span class="asgreek">εικόνος</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
+| which | <big><span class="asgreek">ης</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| Nebuchadnezzar stationed. | <big><span class="asgreek">έστησεν</span></big> <sup><small><small>[[G2476]]</small></small></sup> <big><span class="asgreek">Ναβουχοδονόσορ</span></big> <sup><small><small>[[H5020]]</small></small></sup> |
 [[Dan.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.2|<< Daniel 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.4|Daniel 3:4 >>]]</td></tr></table>
 
 

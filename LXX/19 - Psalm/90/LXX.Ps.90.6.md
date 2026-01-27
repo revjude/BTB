@@ -9,16 +9,16 @@ in the morning it springs up new, but by evening it fades and withers.<small><s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| in the morning | <span class="asgreek">τοπρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| blooming | <span class="asgreek">ανθήσαι <sup><small><small>[[G6341]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| may it go by; | <span class="asgreek">παρέλθοι <sup><small><small>[[G3928]]</small></small></sup> </span> |
-| in the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| evening | <span class="asgreek">εσπέρας <sup><small><small>[[G2073]]</small></small></sup> </span> |
-| it shall fall away, | <span class="asgreek">αποπέσοι <sup><small><small>[[G0634]]</small></small></sup> </span> |
-| may it be hardened | <span class="asgreek">σκληρυνθείη <sup><small><small>[[G4645]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| dried up. | <span class="asgreek">ξηρανθείη <sup><small><small>[[G3583]]</small></small></sup> </span> |
+| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| blooming | <big><span class="asgreek">ανθήσαι</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| may it go by; | <big><span class="asgreek">παρέλθοι</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
+| in the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| evening | <big><span class="asgreek">εσπέρας</span></big> <sup><small><small>[[G2073]]</small></small></sup> |
+| it shall fall away, | <big><span class="asgreek">αποπέσοι</span></big> <sup><small><small>[[G0634]]</small></small></sup> |
+| may it be hardened | <big><span class="asgreek">σκληρυνθείη</span></big> <sup><small><small>[[G4645]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| dried up. | <big><span class="asgreek">ξηρανθείη</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
 [[Ps.90.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.5|<< Psalm 90:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.7|Psalm 90:7 >>]]</td></tr></table>
 
 

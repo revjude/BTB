@@ -9,18 +9,18 @@ My ears had heard of You, but now my eyes have seen You.<small><sub>**MT:**</su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Hearing | <span class="asgreek">ακοήν <sup><small><small>[[G0189]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">μεν <sup><small><small>[[G3303]]</small></small></sup> </span> |
-| \[in my\] ear, | <span class="asgreek">ωτός <sup><small><small>[[G3775]]</small></small></sup> </span> |
-| I heard | <span class="asgreek">ήκουόν <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| of you | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| formerly; | <span class="asgreek">πρότερον <sup><small><small>[[G4387]]</small></small></sup> </span> |
-| but now | <span class="asgreek">νυνί <sup><small><small>[[G3568]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my eye | <span class="asgreek">οφθαλμός <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| sees | <span class="asgreek">εώρακέ <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Hearing | <big><span class="asgreek">ακοήν</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
+| indeed | <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> |
+| \[in my\] ear, | <big><span class="asgreek">ωτός</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
+| I heard | <big><span class="asgreek">ήκουόν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| of you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| formerly; | <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
+| but now | <big><span class="asgreek">νυνί</span></big> <sup><small><small>[[G3568]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| sees | <big><span class="asgreek">εώρακέ</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.42.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.4|<< Job 42:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.6|Job 42:6 >>]]</td></tr></table>
 
 

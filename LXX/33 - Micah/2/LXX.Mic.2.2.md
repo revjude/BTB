@@ -9,25 +9,25 @@ They covet fields and seize them; they take away houses. They deprive a man of h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they desired | <span class="asgreek">επεθύμουν <sup><small><small>[[G1937]]</small></small></sup> </span> |
-| fields, | <span class="asgreek">αγρούς <sup><small><small>[[G0068]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they plundered | <span class="asgreek">διήρπαζον <sup><small><small>[[G1283]]</small></small></sup> </span> |
-| orphans, | <span class="asgreek">ορφανούς <sup><small><small>[[G3737]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| households | <span class="asgreek">οίκους <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| tyrannized | <span class="asgreek">κατεδυνάστευον <sup><small><small>[[G2616]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| plundered | <span class="asgreek">διήρπαζον <sup><small><small>[[G1283]]</small></small></sup> </span> |
-| a man | <span class="asgreek">άνδρα <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his house, | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a man | <span class="asgreek">άνδρα <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his inheritance. | <span class="asgreek">κληρονομίαν <sup><small><small>[[G2817]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they desired | <big><span class="asgreek">επεθύμουν</span></big> <sup><small><small>[[G1937]]</small></small></sup> |
+| fields, | <big><span class="asgreek">αγρούς</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they plundered | <big><span class="asgreek">διήρπαζον</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
+| orphans, | <big><span class="asgreek">ορφανούς</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| households | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| tyrannized | <big><span class="asgreek">κατεδυνάστευον</span></big> <sup><small><small>[[G2616]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| plundered | <big><span class="asgreek">διήρπαζον</span></big> <sup><small><small>[[G1283]]</small></small></sup> |
+| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his house, | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his inheritance. | <big><span class="asgreek">κληρονομίαν</span></big> <sup><small><small>[[G2817]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Mic.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.1|<< Micah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.3|Micah 2:3 >>]]</td></tr></table>
 
 

@@ -9,15 +9,15 @@ They are led in with joy and gladness; they enter the palace of the king.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They shall be carried | <span class="asgreek">απενεχθήσονται <sup><small><small>[[G0667]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| gladness | <span class="asgreek">ευφροσύνη <sup><small><small>[[G2167]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| exultation; | <span class="asgreek">αγαλλιάσει <sup><small><small>[[G0020]]</small></small></sup> </span> |
-| they shall be led | <span class="asgreek">αχθήσονται <sup><small><small>[[G0071]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] temple | <span class="asgreek">ναόν <sup><small><small>[[G3485]]</small></small></sup> </span> |
-| of \[the\] king. | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
+| They shall be carried | <big><span class="asgreek">απενεχθήσονται</span></big> <sup><small><small>[[G0667]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| gladness | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| exultation; | <big><span class="asgreek">αγαλλιάσει</span></big> <sup><small><small>[[G0020]]</small></small></sup> |
+| they shall be led | <big><span class="asgreek">αχθήσονται</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] temple | <big><span class="asgreek">ναόν</span></big> <sup><small><small>[[G3485]]</small></small></sup> |
+| of \[the\] king. | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
 [[Ps.45.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.14|<< Psalm 45:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.16|Psalm 45:16 >>]]</td></tr></table>
 
 

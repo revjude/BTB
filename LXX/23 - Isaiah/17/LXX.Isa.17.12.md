@@ -9,22 +9,22 @@ Alas, the tumult of many peoples; they rage like the roaring seas and clamoring 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Woe | <span class="asgreek">ουαί <sup><small><small>[[G3759]]</small></small></sup> </span> |
-| \[to the\] multitude | <span class="asgreek">πλήθος <sup><small><small>[[G4128]]</small></small></sup> </span> |
-| nations | <span class="asgreek">εθνών <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| of many | <span class="asgreek">πολλών <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a sea | <span class="asgreek">θάλασσα <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| swelling up, | <span class="asgreek">κυμαίνουσα <sup><small><small>[[G8121]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| you shall be disturbed; | <span class="asgreek">ταραχθήσεσθε <sup><small><small>[[G5015]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sound | <span class="asgreek">ήχος <sup><small><small>[[G2279]]</small></small></sup> </span> |
-| nations | <span class="asgreek">εθνών <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| of many | <span class="asgreek">πολλών <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| shall sound | <span class="asgreek">ηχήσει <sup><small><small>[[G2278]]</small></small></sup> </span> |
+| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
+| \[to the\] multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| of many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a sea | <big><span class="asgreek">θάλασσα</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| swelling up, | <big><span class="asgreek">κυμαίνουσα</span></big> <sup><small><small>[[G8121]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| you shall be disturbed; | <big><span class="asgreek">ταραχθήσεσθε</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sound | <big><span class="asgreek">ήχος</span></big> <sup><small><small>[[G2279]]</small></small></sup> |
+| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| of many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| shall sound | <big><span class="asgreek">ηχήσει</span></big> <sup><small><small>[[G2278]]</small></small></sup> |
 [[Isa.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.11|<< Isaiah 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.13|Isaiah 17:13 >>]]</td></tr></table>
 
 

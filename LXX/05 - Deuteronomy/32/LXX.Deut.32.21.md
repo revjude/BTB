@@ -13,24 +13,24 @@ They have provoked My jealousy by that which is not God; they have enraged Me wi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They | <span class="asgreek">αυτοί <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| provoked me to jealousy | <span class="asgreek">παρεζήλωσάν <sup><small><small>[[G3863]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| over | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[that which is\] not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| god; | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| they provoked me to anger | <span class="asgreek">παρώργισάν <sup><small><small>[[G3949]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their idols. | <span class="asgreek">ειδώλοις <sup><small><small>[[G1497]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And I | <span class="asgreek">καγώ <sup><small><small>[[G2504]]</small></small></sup> </span> |
-| shall provoke them to jealousy | <span class="asgreek">παραζηλώσω <sup><small><small>[[G3863]]</small></small></sup> <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| over | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[that which is\] not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| a nation. | <span class="asgreek">έθνει <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| Over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| nation | <span class="asgreek">έθνει <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| a senseless | <span class="asgreek">ασυνέτω <sup><small><small>[[G0801]]</small></small></sup> </span> |
-| I will provoke them to anger. | <span class="asgreek">παροργιώ <sup><small><small>[[G3949]]</small></small></sup> <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| They | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| provoked me to jealousy | <big><span class="asgreek">παρεζήλωσάν</span></big> <sup><small><small>[[G3863]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[that which is\] not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| god; | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| they provoked me to anger | <big><span class="asgreek">παρώργισάν</span></big> <sup><small><small>[[G3949]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their idols. | <big><span class="asgreek">ειδώλοις</span></big> <sup><small><small>[[G1497]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And I | <big><span class="asgreek">καγώ</span></big> <sup><small><small>[[G2504]]</small></small></sup> |
+| shall provoke them to jealousy | <big><span class="asgreek">παραζηλώσω</span></big> <sup><small><small>[[G3863]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[that which is\] not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| a nation. | <big><span class="asgreek">έθνει</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| Over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| nation | <big><span class="asgreek">έθνει</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| a senseless | <big><span class="asgreek">ασυνέτω</span></big> <sup><small><small>[[G0801]]</small></small></sup> |
+| I will provoke them to anger. | <big><span class="asgreek">παροργιώ</span></big> <sup><small><small>[[G3949]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.32.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.20|<< Deuteronomy 32:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.22|Deuteronomy 32:22 >>]]</td></tr></table>
 
 

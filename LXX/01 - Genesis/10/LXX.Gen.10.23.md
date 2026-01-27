@@ -9,16 +9,16 @@ The sons of Aram: Uz, Hul, Gether, and Mash.<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Aram -- | <span class="asgreek">Αράμ <sup><small><small>[[H7410]]</small></small></sup> </span> |
-| Uz, | <span class="asgreek">Ως <sup><small><small>[[H5780]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Hul, | <span class="asgreek">Ουλ <sup><small><small>[[H2343]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Gether, | <span class="asgreek">Γαθέρ <sup><small><small>[[H1666]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Mash. | <span class="asgreek">Μοσόχ <sup><small><small>[[H4851]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Aram -- | <big><span class="asgreek">Αράμ</span></big> <sup><small><small>[[H7410]]</small></small></sup> |
+| Uz, | <big><span class="asgreek">Ως</span></big> <sup><small><small>[[H5780]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Hul, | <big><span class="asgreek">Ουλ</span></big> <sup><small><small>[[H2343]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Gether, | <big><span class="asgreek">Γαθέρ</span></big> <sup><small><small>[[H1666]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Mash. | <big><span class="asgreek">Μοσόχ</span></big> <sup><small><small>[[H4851]]</small></small></sup> |
 [[Gen.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.22|<< Genesis 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.24|Genesis 10:24 >>]]</td></tr></table>
 
 

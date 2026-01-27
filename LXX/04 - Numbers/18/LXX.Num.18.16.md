@@ -9,24 +9,24 @@ You are to pay the redemption price for a month-old male according to your valua
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ransoming | <span class="asgreek">λύτρωσις <sup><small><small>[[G3085]]</small></small></sup> </span> |
-| of him | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| a month \[old\] -- | <span class="asgreek">μηνιαίου <sup><small><small>[[G8317]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| price is | <span class="asgreek">συντίμησις <sup><small><small>[[G9339]]</small></small></sup> </span> |
-| five | <span class="asgreek">πέντε <sup><small><small>[[G4002]]</small></small></sup> </span> |
-| shekels, | <span class="asgreek">σικλών <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shekel | <span class="asgreek">σίκλον <sup><small><small>[[G9079]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| holy | <span class="asgreek">άγιον <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| twenty | <span class="asgreek">είκοσιν <sup><small><small>[[G1501]]</small></small></sup> </span> |
-| oboli | <span class="asgreek">οβολοί <sup><small><small>[[G8438]]</small></small></sup> </span> |
-| they are \[worth\]. | <span class="asgreek">εισι <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ransoming | <big><span class="asgreek">λύτρωσις</span></big> <sup><small><small>[[G3085]]</small></small></sup> |
+| of him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| a month \[old\] -- | <big><span class="asgreek">μηνιαίου</span></big> <sup><small><small>[[G8317]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| price is | <big><span class="asgreek">συντίμησις</span></big> <sup><small><small>[[G9339]]</small></small></sup> |
+| five | <big><span class="asgreek">πέντε</span></big> <sup><small><small>[[G4002]]</small></small></sup> |
+| shekels, | <big><span class="asgreek">σικλών</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shekel | <big><span class="asgreek">σίκλον</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| holy | <big><span class="asgreek">άγιον</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| twenty | <big><span class="asgreek">είκοσιν</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
+| oboli | <big><span class="asgreek">οβολοί</span></big> <sup><small><small>[[G8438]]</small></small></sup> |
+| they are \[worth\]. | <big><span class="asgreek">εισι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Num.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.15|<< Numbers 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.17|Numbers 18:17 >>]]</td></tr></table>
 
 

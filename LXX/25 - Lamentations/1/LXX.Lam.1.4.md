@@ -11,31 +11,31 @@ The roads to Zion mourn, because no one comes to her appointed feasts. All her g
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΔΑΛΕΘ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΔΑΛΕΘ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| \[The\] ways | <span class="asgreek">οδοί <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| of Zion | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| mourn | <span class="asgreek">πενθούσι <sup><small><small>[[G3996]]</small></small></sup> </span> |
-| by \[reason of\] | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| there not being | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">είναι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| ones coming | <span class="asgreek">ερχομένους <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| to | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] holiday \[feast\]. | <span class="asgreek">εορτή <sup><small><small>[[G1859]]</small></small></sup> </span> |
-| All | <span class="asgreek">πάσαι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her gates | <span class="asgreek">πύλαι <sup><small><small>[[G4439]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| have been obliterated. | <span class="asgreek">ηφανισμέναι <sup><small><small>[[G0853]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Her priests | <span class="asgreek">ιερείς <sup><small><small>[[G2409]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| are groaning, | <span class="asgreek">αναστενάζουσιν <sup><small><small>[[G0389]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her virgins | <span class="asgreek">παρθένοι <sup><small><small>[[G3933]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| are being led \[captive\], | <span class="asgreek">αγόμεναι <sup><small><small>[[G0071]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| is being embittered | <span class="asgreek">πικραινομένη <sup><small><small>[[G4087]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| herself. | <span class="asgreek">εαυτή <sup><small><small>[[G1438]]</small></small></sup> </span> |
+| ΔΑΛΕΘ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΔΑΛΕΘ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| \[The\] ways | <big><span class="asgreek">οδοί</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| of Zion | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| mourn | <big><span class="asgreek">πενθούσι</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
+| by \[reason of\] | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| there not being | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| ones coming | <big><span class="asgreek">ερχομένους</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] holiday \[feast\]. | <big><span class="asgreek">εορτή</span></big> <sup><small><small>[[G1859]]</small></small></sup> |
+| All | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her gates | <big><span class="asgreek">πύλαι</span></big> <sup><small><small>[[G4439]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| have been obliterated. | <big><span class="asgreek">ηφανισμέναι</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Her priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| are groaning, | <big><span class="asgreek">αναστενάζουσιν</span></big> <sup><small><small>[[G0389]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her virgins | <big><span class="asgreek">παρθένοι</span></big> <sup><small><small>[[G3933]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| are being led \[captive\], | <big><span class="asgreek">αγόμεναι</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is being embittered | <big><span class="asgreek">πικραινομένη</span></big> <sup><small><small>[[G4087]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| herself. | <big><span class="asgreek">εαυτή</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
 [[Lam.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.3|<< Lamentations 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.5|Lamentations 1:5 >>]]</td></tr></table>
 
 

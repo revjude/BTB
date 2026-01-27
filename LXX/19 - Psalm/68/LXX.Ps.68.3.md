@@ -9,17 +9,17 @@ But the righteous will be glad and rejoice before God; they will celebrate with 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| just | <span class="asgreek">δίκαιοι <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| let | <span class="asgreek">ευφρανθήτωσαν <sup><small><small>[[G2165]]</small></small></sup> </span> |
-| Let them exult | <span class="asgreek">αγαλλιάσθωσαν <sup><small><small>[[G0021]]</small></small></sup> </span> |
-| in the presence of | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God! | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| Let them be made happy | <span class="asgreek">τερφθήτωσαν <sup><small><small>[[G9425]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| gladness! | <span class="asgreek">ευφροσύνη <sup><small><small>[[G2167]]</small></small></sup> </span> |
+| But | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| just | <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| let | <big><span class="asgreek">ευφρανθήτωσαν</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| Let them exult | <big><span class="asgreek">αγαλλιάσθωσαν</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
+| in the presence of | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God! | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| Let them be made happy | <big><span class="asgreek">τερφθήτωσαν</span></big> <sup><small><small>[[G9425]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| gladness! | <big><span class="asgreek">ευφροσύνη</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
 [[Ps.68.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.2|<< Psalm 68:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.4|Psalm 68:4 >>]]</td></tr></table>
 
 

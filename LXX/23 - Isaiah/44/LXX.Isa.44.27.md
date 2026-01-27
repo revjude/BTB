@@ -9,15 +9,15 @@ who says to the depths of the sea, ‘Be dry, and I will dry up your currents,�
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| saying | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| deep, | <span class="asgreek">αβύσσω <sup><small><small>[[G0012]]</small></small></sup> </span> |
-| You shall be made desolate, | <span class="asgreek">ερημωθήση <sup><small><small>[[G2049]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your rivers | <span class="asgreek">ποταμούς <sup><small><small>[[G4215]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I will dry up | <span class="asgreek">ξηρανώ <sup><small><small>[[G3583]]</small></small></sup> </span> |
+| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| saying | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| deep, | <big><span class="asgreek">αβύσσω</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
+| You shall be made desolate, | <big><span class="asgreek">ερημωθήση</span></big> <sup><small><small>[[G2049]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your rivers | <big><span class="asgreek">ποταμούς</span></big> <sup><small><small>[[G4215]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I will dry up | <big><span class="asgreek">ξηρανώ</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
 [[Isa.44.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.26|<< Isaiah 44:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.28|Isaiah 44:28 >>]]</td></tr></table>
 
 

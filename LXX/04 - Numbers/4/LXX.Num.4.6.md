@@ -9,25 +9,25 @@ They are to place over this a covering of fine leather, spread a solid blue clot
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall place | <span class="asgreek">επιθήσουσιν <sup><small><small>[[G2007]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| overcovering | <span class="asgreek">κατακάλυμμα <sup><small><small>[[G7845]]</small></small></sup> </span> |
-| a skin | <span class="asgreek">δέρμα <sup><small><small>[[G1192]]</small></small></sup> </span> |
-| of blue. | <span class="asgreek">υακίνθινον <sup><small><small>[[G5191]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall put | <span class="asgreek">επιβαλούσιν <sup><small><small>[[G1911]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a garment | <span class="asgreek">ιμάτιον <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| entirely | <span class="asgreek">όλον <sup><small><small>[[G3650]]</small></small></sup> </span> |
-| of blue | <span class="asgreek">υακίνθινον <sup><small><small>[[G5191]]</small></small></sup> </span> |
-| from above. | <span class="asgreek">άνωθεν <sup><small><small>[[G0509]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall insert | <span class="asgreek">διεμβαλούσι <sup><small><small>[[G6917]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| bearing poles. | <span class="asgreek">αναφορείς <sup><small><small>[[G6320]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall place | <big><span class="asgreek">επιθήσουσιν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| overcovering | <big><span class="asgreek">κατακάλυμμα</span></big> <sup><small><small>[[G7845]]</small></small></sup> |
+| a skin | <big><span class="asgreek">δέρμα</span></big> <sup><small><small>[[G1192]]</small></small></sup> |
+| of blue. | <big><span class="asgreek">υακίνθινον</span></big> <sup><small><small>[[G5191]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall put | <big><span class="asgreek">επιβαλούσιν</span></big> <sup><small><small>[[G1911]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a garment | <big><span class="asgreek">ιμάτιον</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| entirely | <big><span class="asgreek">όλον</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
+| of blue | <big><span class="asgreek">υακίνθινον</span></big> <sup><small><small>[[G5191]]</small></small></sup> |
+| from above. | <big><span class="asgreek">άνωθεν</span></big> <sup><small><small>[[G0509]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall insert | <big><span class="asgreek">διεμβαλούσι</span></big> <sup><small><small>[[G6917]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| bearing poles. | <big><span class="asgreek">αναφορείς</span></big> <sup><small><small>[[G6320]]</small></small></sup> |
 [[Num.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.5|<< Numbers 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.7|Numbers 4:7 >>]]</td></tr></table>
 
 

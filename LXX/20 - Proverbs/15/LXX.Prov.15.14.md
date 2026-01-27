@@ -9,14 +9,14 @@ A discerning heart seeks knowledge, but the mouth of a fool feeds on folly.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| heart | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| An upright | <span class="asgreek">ορθή <sup><small><small>[[G3717]]</small></small></sup> </span> |
-| seeks | <span class="asgreek">ζητεί <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| perception; | <span class="asgreek">αίσθησιν <sup><small><small>[[G0144]]</small></small></sup> </span> |
-| but \[the\] mouth | <span class="asgreek">στόμα δε <sup><small><small>[[G4750]]</small></small></sup> </span> |
-| of \[the\] uninstructed | <span class="asgreek">απαιδεύτων <sup><small><small>[[G0521]]</small></small></sup> </span> |
-| shall know | <span class="asgreek">γνώσεται <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| evils. | <span class="asgreek">κακά <sup><small><small>[[G2556]]</small></small></sup> </span> |
+| heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| An upright | <big><span class="asgreek">ορθή</span></big> <sup><small><small>[[G3717]]</small></small></sup> |
+| seeks | <big><span class="asgreek">ζητεί</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| perception; | <big><span class="asgreek">αίσθησιν</span></big> <sup><small><small>[[G0144]]</small></small></sup> |
+| but \[the\] mouth | <big><span class="asgreek">στόμα δε</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
+| of \[the\] uninstructed | <big><span class="asgreek">απαιδεύτων</span></big> <sup><small><small>[[G0521]]</small></small></sup> |
+| shall know | <big><span class="asgreek">γνώσεται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| evils. | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
 [[Prov.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.13|<< Proverbs 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.15|Proverbs 15:15 >>]]</td></tr></table>
 
 

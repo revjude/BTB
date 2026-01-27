@@ -9,22 +9,22 @@ If you are honest, leave one of your brothers in custody while the rest of you g
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| you are peaceable, | <span class="asgreek">ειρηνικοί <sup><small><small>[[G1516]]</small></small></sup> <span class="asgreek">εστέ <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| of your brothers | <span class="asgreek">αδελφός <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| be held | <span class="asgreek">κατασχεθήτω <sup><small><small>[[G2722]]</small></small></sup> </span> |
-| one | <span class="asgreek">εις <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prison! | <span class="asgreek">φυλακή <sup><small><small>[[G5438]]</small></small></sup> </span> |
-| but you yourselves | <span class="asgreek">αυτοί <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| proceed, | <span class="asgreek">βαδίσατε <sup><small><small>[[G6642]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| take back | <span class="asgreek">απαγάγετε <sup><small><small>[[G0520]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| purchase | <span class="asgreek">αγορασμόν <sup><small><small>[[G6123]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your provision! | <span class="asgreek">σιτοδοσίας <sup><small><small>[[G9087]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| you are peaceable, | <big><span class="asgreek">ειρηνικοί</span></big> <sup><small><small>[[G1516]]</small></small></sup> <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| of your brothers | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| be held | <big><span class="asgreek">κατασχεθήτω</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
+| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prison! | <big><span class="asgreek">φυλακή</span></big> <sup><small><small>[[G5438]]</small></small></sup> |
+| but you yourselves | <big><span class="asgreek">αυτοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| proceed, | <big><span class="asgreek">βαδίσατε</span></big> <sup><small><small>[[G6642]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| take back | <big><span class="asgreek">απαγάγετε</span></big> <sup><small><small>[[G0520]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| purchase | <big><span class="asgreek">αγορασμόν</span></big> <sup><small><small>[[G6123]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your provision! | <big><span class="asgreek">σιτοδοσίας</span></big> <sup><small><small>[[G9087]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.42.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.18|<< Genesis 42:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.20|Genesis 42:20 >>]]</td></tr></table>
 
 

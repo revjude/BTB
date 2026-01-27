@@ -9,31 +9,31 @@ You, O king, have issued a decree that everyone who hears the sound of the horn,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O king | <span class="asgreek">βασιλεύ <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| established | <span class="asgreek">έθηκας <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| a decree, | <span class="asgreek">δόγμα <sup><small><small>[[G1378]]</small></small></sup> </span> |
-| Every | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| should hear | <span class="asgreek">ακούση <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sound | <span class="asgreek">φωνής <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| trumpet, | <span class="asgreek">σάλπιγγος <sup><small><small>[[G4536]]</small></small></sup> </span> |
-| even flute | <span class="asgreek">σύριγγός <sup><small><small>[[G9348]]</small></small></sup> <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| harp, | <span class="asgreek">κιθαρας <sup><small><small>[[G2788]]</small></small></sup> </span> |
-| even sambuke | <span class="asgreek">σαμβύκης <sup><small><small>[[G9052]]</small></small></sup> <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| psaltery, | <span class="asgreek">ψαλτηρίου <sup><small><small>[[G9783]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| harmony of sound, | <span class="asgreek">συμφωνίας <sup><small><small>[[G4858]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">παντός <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| kind | <span class="asgreek">γένους <sup><small><small>[[G1085]]</small></small></sup> </span> |
-| of music, | <span class="asgreek">μουσικών <sup><small><small>[[G3451]]</small></small></sup> </span> |
+| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O king | <big><span class="asgreek">βασιλεύ</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| established | <big><span class="asgreek">έθηκας</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| a decree, | <big><span class="asgreek">δόγμα</span></big> <sup><small><small>[[G1378]]</small></small></sup> |
+| Every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| should hear | <big><span class="asgreek">ακούση</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sound | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| trumpet, | <big><span class="asgreek">σάλπιγγος</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
+| even flute | <big><span class="asgreek">σύριγγός</span></big> <sup><small><small>[[G9348]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| harp, | <big><span class="asgreek">κιθαρας</span></big> <sup><small><small>[[G2788]]</small></small></sup> |
+| even sambuke | <big><span class="asgreek">σαμβύκης</span></big> <sup><small><small>[[G9052]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| psaltery, | <big><span class="asgreek">ψαλτηρίου</span></big> <sup><small><small>[[G9783]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| harmony of sound, | <big><span class="asgreek">συμφωνίας</span></big> <sup><small><small>[[G4858]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">παντός</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| kind | <big><span class="asgreek">γένους</span></big> <sup><small><small>[[G1085]]</small></small></sup> |
+| of music, | <big><span class="asgreek">μουσικών</span></big> <sup><small><small>[[G3451]]</small></small></sup> |
 [[Dan.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.9|<< Daniel 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.11|Daniel 3:11 >>]]</td></tr></table>
 
 

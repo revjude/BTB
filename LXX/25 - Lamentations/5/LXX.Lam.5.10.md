@@ -9,16 +9,16 @@ Our skin is as hot as an oven with fever from our hunger.<small><sub>**MT:**</s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Our skin | <span class="asgreek">δέρμα <sup><small><small>[[G1192]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| an oven | <span class="asgreek">κλίβανος <sup><small><small>[[G2823]]</small></small></sup> </span> |
-| was darkened | <span class="asgreek">επελιώθη <sup><small><small>[[G8687]]</small></small></sup> </span> |
-| they were made to shrivel | <span class="asgreek">συνεσπάσθησαν <sup><small><small>[[G9356]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] face | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of blasts | <span class="asgreek">καταιγίδων <sup><small><small>[[G7844]]</small></small></sup> </span> |
-| of famine. | <span class="asgreek">λιμού <sup><small><small>[[G3042]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Our skin | <big><span class="asgreek">δέρμα</span></big> <sup><small><small>[[G1192]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| an oven | <big><span class="asgreek">κλίβανος</span></big> <sup><small><small>[[G2823]]</small></small></sup> |
+| was darkened | <big><span class="asgreek">επελιώθη</span></big> <sup><small><small>[[G8687]]</small></small></sup> |
+| they were made to shrivel | <big><span class="asgreek">συνεσπάσθησαν</span></big> <sup><small><small>[[G9356]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] face | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of blasts | <big><span class="asgreek">καταιγίδων</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
+| of famine. | <big><span class="asgreek">λιμού</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
 [[Lam.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.9|<< Lamentations 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.11|Lamentations 5:11 >>]]</td></tr></table>
 
 

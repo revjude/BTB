@@ -9,26 +9,26 @@ If you see your brother’s donkey or ox fallen on the road, you must not ignore
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| see | <span class="asgreek">όψη <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| donkey | <span class="asgreek">όνον <sup><small><small>[[G3688]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your brother, | <span class="asgreek">αδελφού <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his calf | <span class="asgreek">μόσχον <sup><small><small>[[G3448]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| fallen | <span class="asgreek">πεπτωκότα <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| way, | <span class="asgreek">οδώ <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| and not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| overlook | <span class="asgreek">υπερίδης <sup><small><small>[[G5237]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| by raising | <span class="asgreek">ανιστών <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| you shall raise \[them\] up | <span class="asgreek">αναστήσεις <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| for | <span class="asgreek">μετ΄ <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| You shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| see | <big><span class="asgreek">όψη</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| donkey | <big><span class="asgreek">όνον</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your brother, | <big><span class="asgreek">αδελφού</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his calf | <big><span class="asgreek">μόσχον</span></big> <sup><small><small>[[G3448]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| fallen | <big><span class="asgreek">πεπτωκότα</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| way, | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| and not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| overlook | <big><span class="asgreek">υπερίδης</span></big> <sup><small><small>[[G5237]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| by raising | <big><span class="asgreek">ανιστών</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| you shall raise \[them\] up | <big><span class="asgreek">αναστήσεις</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| for | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.3|<< Deuteronomy 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.5|Deuteronomy 22:5 >>]]</td></tr></table>
 
 

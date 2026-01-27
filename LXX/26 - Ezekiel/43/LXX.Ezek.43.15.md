@@ -9,20 +9,20 @@ The altar hearth shall be four cubits high, and four horns shall project upward 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| altar hearth -- | <span class="asgreek">αριήλ <sup><small><small>[[G6529]]</small></small></sup> </span> |
-| cubits | <span class="asgreek">πηχεών <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| four | <span class="asgreek">τέσσαρα <sup><small><small>[[G5064]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| altar hearth | <span class="asgreek">αριήλ <sup><small><small>[[G6529]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| up above | <span class="asgreek">υπεράνω <sup><small><small>[[G5231]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| horns, | <span class="asgreek">κεράτων <sup><small><small>[[G2768]]</small></small></sup> </span> |
-| a cubit. | <span class="asgreek">πήχυς <sup><small><small>[[G4083]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| altar hearth -- | <big><span class="asgreek">αριήλ</span></big> <sup><small><small>[[G6529]]</small></small></sup> |
+| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| altar hearth | <big><span class="asgreek">αριήλ</span></big> <sup><small><small>[[G6529]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| up above | <big><span class="asgreek">υπεράνω</span></big> <sup><small><small>[[G5231]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| horns, | <big><span class="asgreek">κεράτων</span></big> <sup><small><small>[[G2768]]</small></small></sup> |
+| a cubit. | <big><span class="asgreek">πήχυς</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
 [[Ezek.43.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.14|<< Ezekiel 43:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.16|Ezekiel 43:16 >>]]</td></tr></table>
 
 

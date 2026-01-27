@@ -9,16 +9,16 @@ When you sacrifice a peace offering to the LORD, you shall offer it for your acc
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should sacrifice | <span class="asgreek">θύσητε <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| a sacrifice | <span class="asgreek">θυσίαν <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| of deliverance | <span class="asgreek">σωτηρίου <sup><small><small>[[G4992]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| acceptable | <span class="asgreek">δεκτήν <sup><small><small>[[G1184]]</small></small></sup> </span> |
-| for yourselves | <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall sacrifice | <span class="asgreek">θύσετε <sup><small><small>[[G2380]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should sacrifice | <big><span class="asgreek">θύσητε</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| a sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| of deliverance | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| acceptable | <big><span class="asgreek">δεκτήν</span></big> <sup><small><small>[[G1184]]</small></small></sup> |
+| for yourselves | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall sacrifice | <big><span class="asgreek">θύσετε</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
 [[Lev.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.4|<< Leviticus 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.6|Leviticus 19:6 >>]]</td></tr></table>
 
 

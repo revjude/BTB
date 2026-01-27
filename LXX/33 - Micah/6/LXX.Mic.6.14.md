@@ -9,28 +9,28 @@ You will eat but not be satisfied, and your hunger will remain with you. What yo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall eat, | <span class="asgreek">φάγεσαι <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| be filled up. | <span class="asgreek">εμπλησθής <sup><small><small>[[G1705]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall banish | <span class="asgreek">εξώσω <sup><small><small>[[G1856]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| yourself, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall be forsaken, | <span class="asgreek">καταλήψη <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| should you be preserved; | <span class="asgreek">διασωθής <sup><small><small>[[G1295]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as many as | <span class="asgreek">όσοι <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| should | <span class="asgreek">εαν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| be preserved | <span class="asgreek">διασωθώσιν <sup><small><small>[[G1295]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] broadsword | <span class="asgreek">ρομφαίαν <sup><small><small>[[G4501]]</small></small></sup> </span> |
-| shall be delivered up | <span class="asgreek">παραδοθήσονται <sup><small><small>[[G3860]]</small></small></sup> </span> |
+| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall eat, | <big><span class="asgreek">φάγεσαι</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| be filled up. | <big><span class="asgreek">εμπλησθής</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall banish | <big><span class="asgreek">εξώσω</span></big> <sup><small><small>[[G1856]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| yourself, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall be forsaken, | <big><span class="asgreek">καταλήψη</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| should you be preserved; | <big><span class="asgreek">διασωθής</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as many as | <big><span class="asgreek">όσοι</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| should | <big><span class="asgreek">εαν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| be preserved | <big><span class="asgreek">διασωθώσιν</span></big> <sup><small><small>[[G1295]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] broadsword | <big><span class="asgreek">ρομφαίαν</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| shall be delivered up | <big><span class="asgreek">παραδοθήσονται</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
 [[Mic.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.13|<< Micah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.15|Micah 6:15 >>]]</td></tr></table>
 
 

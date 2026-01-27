@@ -9,27 +9,27 @@ I have surely heard Ephraim’s moaning: ‘You disciplined me severely, like an
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In hearing | <span class="asgreek">ακούων <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| I heard | <span class="asgreek">ήκουσα <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| Ephraim | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
-| grieving, \[saying\], | <span class="asgreek">οδυρομένου <sup><small><small>[[G8447]]</small></small></sup> </span> |
-| You corrected | <span class="asgreek">επαίδευσάς <sup><small><small>[[G3811]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I was corrected. | <span class="asgreek">επαιδεύθην <sup><small><small>[[G3811]]</small></small></sup> </span> |
-| I, | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| a calf, | <span class="asgreek">μόσχος <sup><small><small>[[G3448]]</small></small></sup> </span> |
-| was not taught. | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">εδιδάχθην <sup><small><small>[[G1321]]</small></small></sup> </span> |
-| Turn | <span class="asgreek">επίστρεψόν <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| me! | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will turn. | <span class="asgreek">επιστρέψω <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| you \[are\] | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my God. | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| In hearing | <big><span class="asgreek">ακούων</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| I heard | <big><span class="asgreek">ήκουσα</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| grieving, \[saying\], | <big><span class="asgreek">οδυρομένου</span></big> <sup><small><small>[[G8447]]</small></small></sup> |
+| You corrected | <big><span class="asgreek">επαίδευσάς</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I was corrected. | <big><span class="asgreek">επαιδεύθην</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
+| I, | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| a calf, | <big><span class="asgreek">μόσχος</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
+| was not taught. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εδιδάχθην</span></big> <sup><small><small>[[G1321]]</small></small></sup> |
+| Turn | <big><span class="asgreek">επίστρεψόν</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| me! | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will turn. | <big><span class="asgreek">επιστρέψω</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| you \[are\] | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my God. | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.17|<< Jeremiah 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.19|Jeremiah 31:19 >>]]</td></tr></table>
 
 

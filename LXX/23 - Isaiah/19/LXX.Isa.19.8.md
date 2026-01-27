@@ -9,27 +9,27 @@ Then the fishermen will mourn, all who cast a hook into the Nile will lament, an
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall moan | <span class="asgreek">στενάξουσιν <sup><small><small>[[G4727]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fishermen | <span class="asgreek">αλιείς <sup><small><small>[[G0231]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall moan | <span class="asgreek">στενάξουσι <sup><small><small>[[G4727]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| throwing | <span class="asgreek">βάλλοντες <sup><small><small>[[G0906]]</small></small></sup> </span> |
-| a hook | <span class="asgreek">άγκιστρον <sup><small><small>[[G0044]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| river | <span class="asgreek">ποταμόν <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones throwing | <span class="asgreek">βάλλοντες <sup><small><small>[[G0906]]</small></small></sup> </span> |
-| dragnets | <span class="asgreek">σαγήνας <sup><small><small>[[G4522]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| casting-net fishermen | <span class="asgreek">αμφιβολείς <sup><small><small>[[G6268]]</small></small></sup> </span> |
-| shall mourn. | <span class="asgreek">πενθήσουσι <sup><small><small>[[G3996]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall moan | <big><span class="asgreek">στενάξουσιν</span></big> <sup><small><small>[[G4727]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fishermen | <big><span class="asgreek">αλιείς</span></big> <sup><small><small>[[G0231]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall moan | <big><span class="asgreek">στενάξουσι</span></big> <sup><small><small>[[G4727]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| throwing | <big><span class="asgreek">βάλλοντες</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
+| a hook | <big><span class="asgreek">άγκιστρον</span></big> <sup><small><small>[[G0044]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| river | <big><span class="asgreek">ποταμόν</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones throwing | <big><span class="asgreek">βάλλοντες</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
+| dragnets | <big><span class="asgreek">σαγήνας</span></big> <sup><small><small>[[G4522]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| casting-net fishermen | <big><span class="asgreek">αμφιβολείς</span></big> <sup><small><small>[[G6268]]</small></small></sup> |
+| shall mourn. | <big><span class="asgreek">πενθήσουσι</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
 [[Isa.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.7|<< Isaiah 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.9|Isaiah 19:9 >>]]</td></tr></table>
 
 

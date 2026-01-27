@@ -13,13 +13,13 @@ You shall not bear false witness against your neighbor.<small><sub>**MT:**</sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| witness falsely | <span class="asgreek">ψευδομαρτυρήσεις <sup><small><small>[[G5576]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your neighbor | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| witness | <span class="asgreek">μαρτυρίαν <sup><small><small>[[G3141]]</small></small></sup> </span> |
-| \[as a\] lying | <span class="asgreek">ψευδή <sup><small><small>[[G5571]]</small></small></sup> </span> |
+| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| witness falsely | <big><span class="asgreek">ψευδομαρτυρήσεις</span></big> <sup><small><small>[[G5576]]</small></small></sup> |
+| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| witness | <big><span class="asgreek">μαρτυρίαν</span></big> <sup><small><small>[[G3141]]</small></small></sup> |
+| \[as a\] lying | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
 [[Exod.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.15|<< Exodus 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.17|Exodus 20:17 >>]]</td></tr></table>
 
 

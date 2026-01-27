@@ -9,13 +9,13 @@ They are worthless, a work to be mocked. In the time of their punishment they wi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They are vanities, | <span class="asgreek">ματαία <sup><small><small>[[G3152]]</small></small></sup> <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| works | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| mocking | <span class="asgreek">εμπεπαιγμένα <sup><small><small>[[G1702]]</small></small></sup> </span> |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] time | <span class="asgreek">καιρώ <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| of their visitation | <span class="asgreek">επισκοπής <sup><small><small>[[G1984]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall be destroyed. | <span class="asgreek">απολούνται <sup><small><small>[[G0622]]</small></small></sup> </span> |
+| They are vanities, | <big><span class="asgreek">ματαία</span></big> <sup><small><small>[[G3152]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| mocking | <big><span class="asgreek">εμπεπαιγμένα</span></big> <sup><small><small>[[G1702]]</small></small></sup> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] time | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| of their visitation | <big><span class="asgreek">επισκοπής</span></big> <sup><small><small>[[G1984]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall be destroyed. | <big><span class="asgreek">απολούνται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
 [[Jer.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.14|<< Jeremiah 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.16|Jeremiah 10:16 >>]]</td></tr></table>
 
 

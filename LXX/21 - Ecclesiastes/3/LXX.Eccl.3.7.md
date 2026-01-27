@@ -9,20 +9,20 @@ a time to tear and a time to mend, a time to be silent and a time to speak,<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| a season | <span class="asgreek">καιρός <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to tear, | <span class="asgreek">ρήξαι <sup><small><small>[[G4486]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a season | <span class="asgreek">καιρός <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to sew; | <span class="asgreek">ράψαι <sup><small><small>[[G9013]]</small></small></sup> </span> |
-| a season | <span class="asgreek">καιρός <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to be quiet, | <span class="asgreek">σιγάν <sup><small><small>[[G4601]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a season | <span class="asgreek">καιρός <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to speak; | <span class="asgreek">λαλείν <sup><small><small>[[G2980]]</small></small></sup> </span> |
+| a season | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to tear, | <big><span class="asgreek">ρήξαι</span></big> <sup><small><small>[[G4486]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a season | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to sew; | <big><span class="asgreek">ράψαι</span></big> <sup><small><small>[[G9013]]</small></small></sup> |
+| a season | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to be quiet, | <big><span class="asgreek">σιγάν</span></big> <sup><small><small>[[G4601]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a season | <big><span class="asgreek">καιρός</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to speak; | <big><span class="asgreek">λαλείν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
 [[Eccl.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.6|<< Ecclesiastes 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.8|Ecclesiastes 3:8 >>]]</td></tr></table>
 
 

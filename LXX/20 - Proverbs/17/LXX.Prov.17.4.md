@@ -9,14 +9,14 @@ A wicked man listens to evil lips; a liar gives ear to a destructive tongue.<sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A bad \[man\] | <span class="asgreek">κακός <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| obeys | <span class="asgreek">υπακούει <sup><small><small>[[G5219]]</small></small></sup> </span> |
-| \[the\] tongue | <span class="asgreek">γλώσσης <sup><small><small>[[G1100]]</small></small></sup> </span> |
-| of lawbreakers; | <span class="asgreek">παρανόμων <sup><small><small>[[G8627]]</small></small></sup> </span> |
-| and an unjust \[man\] | <span class="asgreek">άδικος <sup><small><small>[[G0094]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| heeds | <span class="asgreek">προσέχει <sup><small><small>[[G4337]]</small></small></sup> </span> |
-| lips | <span class="asgreek">χείλεσι <sup><small><small>[[G5491]]</small></small></sup> </span> |
-| lying | <span class="asgreek">ψεύδεσιν <sup><small><small>[[G5571]]</small></small></sup> </span> |
+| A bad \[man\] | <big><span class="asgreek">κακός</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| obeys | <big><span class="asgreek">υπακούει</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
+| \[the\] tongue | <big><span class="asgreek">γλώσσης</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
+| of lawbreakers; | <big><span class="asgreek">παρανόμων</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
+| and an unjust \[man\] | <big><span class="asgreek">άδικος</span></big> <sup><small><small>[[G0094]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| heeds | <big><span class="asgreek">προσέχει</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
+| lips | <big><span class="asgreek">χείλεσι</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
+| lying | <big><span class="asgreek">ψεύδεσιν</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
 [[Prov.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.3|<< Proverbs 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.5|Proverbs 17:5 >>]]</td></tr></table>
 
 

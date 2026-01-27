@@ -9,19 +9,19 @@ Do you see a man who is wise in his own eyes? There is more hope for a fool than
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I beheld | <span class="asgreek">είδον <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| a man | <span class="asgreek">άνδρα <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| seeming | <span class="asgreek">δόξαντα <sup><small><small>[[G1380]]</small></small></sup> </span> |
-| of | <span class="asgreek">παρ΄ <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| himself | <span class="asgreek">εαυτώ <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| wise | <span class="asgreek">σοφόν <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| to be | <span class="asgreek">είναι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[more\] hope | <span class="asgreek">ελπίδα <sup><small><small>[[G1680]]</small></small></sup> </span> |
-| however | <span class="asgreek">μέντοι <sup><small><small>[[G3305]]</small></small></sup> </span> |
-| had | <span class="asgreek">έσχε <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| rather than | <span class="asgreek">μάλλον <sup><small><small>[[G3123]]</small></small></sup> </span> |
-| a fool | <span class="asgreek">άφρων <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| he. | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| I beheld | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| seeming | <big><span class="asgreek">δόξαντα</span></big> <sup><small><small>[[G1380]]</small></small></sup> |
+| of | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| wise | <big><span class="asgreek">σοφόν</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| to be | <big><span class="asgreek">είναι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[more\] hope | <big><span class="asgreek">ελπίδα</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
+| however | <big><span class="asgreek">μέντοι</span></big> <sup><small><small>[[G3305]]</small></small></sup> |
+| had | <big><span class="asgreek">έσχε</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| rather than | <big><span class="asgreek">μάλλον</span></big> <sup><small><small>[[G3123]]</small></small></sup> |
+| a fool | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| he. | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.11|<< Proverbs 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.13|Proverbs 26:13 >>]]</td></tr></table>
 
 

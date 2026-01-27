@@ -9,13 +9,13 @@ If it is a matter of strength, He is indeed mighty! If it is a matter of justice
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For indeed | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> <span class="asgreek">μεν <sup><small><small>[[G3303]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| by strength | <span class="asgreek">ισχύϊ <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| he prevails; | <span class="asgreek">κρατεί <sup><small><small>[[G2902]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| then | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| his judgment | <span class="asgreek">κρίματι <sup><small><small>[[G2917]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall oppose | <span class="asgreek">αντιστήσεται <sup><small><small>[[G0436]]</small></small></sup> </span> |
+| For indeed | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> <big><span class="asgreek">μεν</span></big> <sup><small><small>[[G3303]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| by strength | <big><span class="asgreek">ισχύϊ</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| he prevails; | <big><span class="asgreek">κρατεί</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| his judgment | <big><span class="asgreek">κρίματι</span></big> <sup><small><small>[[G2917]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall oppose | <big><span class="asgreek">αντιστήσεται</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
 [[Job.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.18|<< Job 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.20|Job 9:20 >>]]</td></tr></table>
 
 

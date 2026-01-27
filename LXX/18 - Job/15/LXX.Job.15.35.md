@@ -9,19 +9,19 @@ They conceive trouble and give birth to evil; their womb is pregnant with deceit
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] womb | <span class="asgreek">γαστρί <sup><small><small>[[G1064]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| he shall conceive | <span class="asgreek">λήψεται <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| griefs | <span class="asgreek">οδύνας <sup><small><small>[[G3601]]</small></small></sup> </span> |
-| and there shall result | <span class="asgreek">αποβήσεται <sup><small><small>[[G0576]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| unto him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| emptiness, | <span class="asgreek">κενά <sup><small><small>[[G2756]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| his belly | <span class="asgreek">κοιλία <sup><small><small>[[G2836]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall endure | <span class="asgreek">υποίσει <sup><small><small>[[G5297]]</small></small></sup> </span> |
-| deceit. | <span class="asgreek">δόλον <sup><small><small>[[G1388]]</small></small></sup> </span> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] womb | <big><span class="asgreek">γαστρί</span></big> <sup><small><small>[[G1064]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| he shall conceive | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| griefs | <big><span class="asgreek">οδύνας</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
+| and there shall result | <big><span class="asgreek">αποβήσεται</span></big> <sup><small><small>[[G0576]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| unto him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| emptiness, | <big><span class="asgreek">κενά</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| his belly | <big><span class="asgreek">κοιλία</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall endure | <big><span class="asgreek">υποίσει</span></big> <sup><small><small>[[G5297]]</small></small></sup> |
+| deceit. | <big><span class="asgreek">δόλον</span></big> <sup><small><small>[[G1388]]</small></small></sup> |
 [[Job.15.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.34|<< Job 15:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.1|Job 16:1 >>]]</td></tr></table>
 
 

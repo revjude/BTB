@@ -9,17 +9,17 @@ They made the robe of the ephod entirely of blue cloth, the work of a weaver,<s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they made | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| undergarment | <span class="asgreek">υποδύτην <sup><small><small>[[G9571]]</small></small></sup> </span> |
-| under | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shoulder-piece, | <span class="asgreek">επωμίδα <sup><small><small>[[G7490]]</small></small></sup> </span> |
-| work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| a woven | <span class="asgreek">υφαντόν <sup><small><small>[[G5307]]</small></small></sup> </span> |
-| entirely | <span class="asgreek">όλον <sup><small><small>[[G3650]]</small></small></sup> </span> |
-| of blue. | <span class="asgreek">υακίνθινον <sup><small><small>[[G5191]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| undergarment | <big><span class="asgreek">υποδύτην</span></big> <sup><small><small>[[G9571]]</small></small></sup> |
+| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shoulder-piece, | <big><span class="asgreek">επωμίδα</span></big> <sup><small><small>[[G7490]]</small></small></sup> |
+| work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| a woven | <big><span class="asgreek">υφαντόν</span></big> <sup><small><small>[[G5307]]</small></small></sup> |
+| entirely | <big><span class="asgreek">όλον</span></big> <sup><small><small>[[G3650]]</small></small></sup> |
+| of blue. | <big><span class="asgreek">υακίνθινον</span></big> <sup><small><small>[[G5191]]</small></small></sup> |
 [[Exod.39.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.21|<< Exodus 39:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.23|Exodus 39:23 >>]]</td></tr></table>
 
 

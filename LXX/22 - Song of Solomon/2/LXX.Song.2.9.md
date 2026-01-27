@@ -9,27 +9,27 @@ My beloved is like a gazelle or a young stag. Look, he stands behind our wall, g
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| is likened | <span class="asgreek">ομοιός <sup><small><small>[[G3664]]</small></small></sup> <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| My beloved \[man\] | <span class="asgreek">αδελφιδός <sup><small><small>[[G6137]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| doe | <span class="asgreek">δορκάδι <sup><small><small>[[G1393]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| a fawn | <span class="asgreek">νεβρώ <sup><small><small>[[G8381]]</small></small></sup> </span> |
-| of the hinds. | <span class="asgreek">ελάφων <sup><small><small>[[G7180]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| he | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| stands | <span class="asgreek">έστηκεν <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| behind | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our wall, | <span class="asgreek">τοίχου <sup><small><small>[[G5109]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| leaning over | <span class="asgreek">παρακύπτων <sup><small><small>[[G3879]]</small></small></sup> </span> |
-| through | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| windows, | <span class="asgreek">θυρίδων <sup><small><small>[[G2376]]</small></small></sup> </span> |
-| looking out | <span class="asgreek">εκκύπτων <sup><small><small>[[G7107]]</small></small></sup> </span> |
-| through | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lattice. | <span class="asgreek">δικτύων <sup><small><small>[[G1350]]</small></small></sup> </span> |
+| is likened | <big><span class="asgreek">ομοιός</span></big> <sup><small><small>[[G3664]]</small></small></sup> <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| My beloved \[man\] | <big><span class="asgreek">αδελφιδός</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| doe | <big><span class="asgreek">δορκάδι</span></big> <sup><small><small>[[G1393]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| a fawn | <big><span class="asgreek">νεβρώ</span></big> <sup><small><small>[[G8381]]</small></small></sup> |
+| of the hinds. | <big><span class="asgreek">ελάφων</span></big> <sup><small><small>[[G7180]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| he | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| stands | <big><span class="asgreek">έστηκεν</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our wall, | <big><span class="asgreek">τοίχου</span></big> <sup><small><small>[[G5109]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| leaning over | <big><span class="asgreek">παρακύπτων</span></big> <sup><small><small>[[G3879]]</small></small></sup> |
+| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| windows, | <big><span class="asgreek">θυρίδων</span></big> <sup><small><small>[[G2376]]</small></small></sup> |
+| looking out | <big><span class="asgreek">εκκύπτων</span></big> <sup><small><small>[[G7107]]</small></small></sup> |
+| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lattice. | <big><span class="asgreek">δικτύων</span></big> <sup><small><small>[[G1350]]</small></small></sup> |
 [[Song.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.8|<< Song of Solomon 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.10|Song of Solomon 2:10 >>]]</td></tr></table>
 
 

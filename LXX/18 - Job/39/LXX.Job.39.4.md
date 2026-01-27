@@ -9,17 +9,17 @@ Their young ones thrive and grow up in the open field; they leave and do not ret
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| shall rip forth | <span class="asgreek">απορρήξουσι <sup><small><small>[[G6473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Their young | <span class="asgreek">τέκνα <sup><small><small>[[G5043]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall be multiplied | <span class="asgreek">πληθυνθήσονται <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| offspring; | <span class="asgreek">γεννήματι <sup><small><small>[[G1081]]</small></small></sup> </span> |
-| \[their young\] will go forth | <span class="asgreek">εξελεύσονται <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall return | <span class="asgreek">ανακάμψουσιν <sup><small><small>[[G0344]]</small></small></sup> </span> |
-| to them. | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| shall rip forth | <big><span class="asgreek">απορρήξουσι</span></big> <sup><small><small>[[G6473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Their young | <big><span class="asgreek">τέκνα</span></big> <sup><small><small>[[G5043]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall be multiplied | <big><span class="asgreek">πληθυνθήσονται</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| offspring; | <big><span class="asgreek">γεννήματι</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
+| \[their young\] will go forth | <big><span class="asgreek">εξελεύσονται</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall return | <big><span class="asgreek">ανακάμψουσιν</span></big> <sup><small><small>[[G0344]]</small></small></sup> |
+| to them. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.3|<< Job 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.5|Job 39:5 >>]]</td></tr></table>
 
 

@@ -9,27 +9,27 @@ The godly man has perished from the earth; there is no one upright among men. Th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[is\] destroyed | <span class="asgreek">απόλωλεν <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| \[the\] reverent one | <span class="asgreek">ευλαβής <sup><small><small>[[G2126]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth; | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| one keeping straight | <span class="asgreek">κατορθών <sup><small><small>[[G7976]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανθρώποις <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| there does not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| exist | <span class="asgreek">υπάρχει <sup><small><small>[[G5225]]</small></small></sup> </span> |
-| All | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| blood | <span class="asgreek">αίματα <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| adjudicate | <span class="asgreek">δικάζονται <sup><small><small>[[G6927]]</small></small></sup> </span> |
-| each | <span class="asgreek">έκαστος <sup><small><small>[[G1538]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his neighbor | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| squeezes out | <span class="asgreek">εκθλίβουσιν <sup><small><small>[[G7095]]</small></small></sup> </span> |
-| by oppression; | <span class="asgreek">εκθλίψει <sup><small><small>[[G7095]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[is\] destroyed | <big><span class="asgreek">απόλωλεν</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| \[the\] reverent one | <big><span class="asgreek">ευλαβής</span></big> <sup><small><small>[[G2126]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| one keeping straight | <big><span class="asgreek">κατορθών</span></big> <sup><small><small>[[G7976]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| men | <big><span class="asgreek">ανθρώποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| there does not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| exist | <big><span class="asgreek">υπάρχει</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
+| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| blood | <big><span class="asgreek">αίματα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| adjudicate | <big><span class="asgreek">δικάζονται</span></big> <sup><small><small>[[G6927]]</small></small></sup> |
+| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| squeezes out | <big><span class="asgreek">εκθλίβουσιν</span></big> <sup><small><small>[[G7095]]</small></small></sup> |
+| by oppression; | <big><span class="asgreek">εκθλίψει</span></big> <sup><small><small>[[G7095]]</small></small></sup> |
 [[Mic.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.1|<< Micah 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.3|Micah 7:3 >>]]</td></tr></table>
 
 

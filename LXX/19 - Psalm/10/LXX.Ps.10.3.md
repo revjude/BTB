@@ -9,19 +9,19 @@ For the wicked man boasts in the cravings of his heart; he blesses the greedy an
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| applauds | <span class="asgreek">επαινείται <sup><small><small>[[G1867]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sinner | <span class="asgreek">αμαρτωλός <sup><small><small>[[G0268]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| desires | <span class="asgreek">επιθυμίαις <sup><small><small>[[G1939]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of his soul; | <span class="asgreek">ψυχής <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one doing wrong | <span class="asgreek">αδικών <sup><small><small>[[G0091]]</small></small></sup> </span> |
-| blesses \[himself\]. | <span class="asgreek">ευλογείται <sup><small><small>[[G2127]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| applauds | <big><span class="asgreek">επαινείται</span></big> <sup><small><small>[[G1867]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sinner | <big><span class="asgreek">αμαρτωλός</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| desires | <big><span class="asgreek">επιθυμίαις</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of his soul; | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one doing wrong | <big><span class="asgreek">αδικών</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
+| blesses \[himself\]. | <big><span class="asgreek">ευλογείται</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
 [[Ps.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.2|<< Psalm 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.4|Psalm 10:4 >>]]</td></tr></table>
 
 

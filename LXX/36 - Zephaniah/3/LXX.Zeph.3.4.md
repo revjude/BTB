@@ -9,20 +9,20 @@ Her prophets are reckless, faithless men. Her priests profane the sanctuary; the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Her prophets | <span class="asgreek">προφήται <sup><small><small>[[G4396]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| carried by the wind | <span class="asgreek">πνευματοφόροι <sup><small><small>[[G8826]]</small></small></sup> </span> |
-| \[are\] men | <span class="asgreek">άνδρες <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| despisers. | <span class="asgreek">καταφρονηταί <sup><small><small>[[G2707]]</small></small></sup> </span> |
-| Her priests | <span class="asgreek">ιερείς <sup><small><small>[[G2409]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| profane | <span class="asgreek">βεβηλούσι <sup><small><small>[[G0953]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| holy \[things\], | <span class="asgreek">άγια <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they are impious | <span class="asgreek">ασεβούσιν <sup><small><small>[[G0764]]</small></small></sup> </span> |
-| against | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| law. | <span class="asgreek">νόμον <sup><small><small>[[G3551]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Her prophets | <big><span class="asgreek">προφήται</span></big> <sup><small><small>[[G4396]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| carried by the wind | <big><span class="asgreek">πνευματοφόροι</span></big> <sup><small><small>[[G8826]]</small></small></sup> |
+| \[are\] men | <big><span class="asgreek">άνδρες</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| despisers. | <big><span class="asgreek">καταφρονηταί</span></big> <sup><small><small>[[G2707]]</small></small></sup> |
+| Her priests | <big><span class="asgreek">ιερείς</span></big> <sup><small><small>[[G2409]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| profane | <big><span class="asgreek">βεβηλούσι</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| holy \[things\], | <big><span class="asgreek">άγια</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they are impious | <big><span class="asgreek">ασεβούσιν</span></big> <sup><small><small>[[G0764]]</small></small></sup> |
+| against | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| law. | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
 [[Zeph.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.3|<< Zephaniah 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.5|Zephaniah 3:5 >>]]</td></tr></table>
 
 

@@ -9,18 +9,18 @@ He sends forth His word and melts them; He unleashes His winds, and the waters f
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| He shall send out | <span class="asgreek">εξαποστελεί <sup><small><small>[[G1821]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his word, | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| melt | <span class="asgreek">τήξει <sup><small><small>[[G5080]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| He shall breathe | <span class="asgreek">πνεύσει <sup><small><small>[[G4154]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his breath | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall flow | <span class="asgreek">ρυήσεται <sup><small><small>[[G4482]]</small></small></sup> </span> |
-| waters | <span class="asgreek">ύδατα <sup><small><small>[[G5204]]</small></small></sup> </span> |
+| He shall send out | <big><span class="asgreek">εξαποστελεί</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his word, | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| melt | <big><span class="asgreek">τήξει</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| He shall breathe | <big><span class="asgreek">πνεύσει</span></big> <sup><small><small>[[G4154]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his breath | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall flow | <big><span class="asgreek">ρυήσεται</span></big> <sup><small><small>[[G4482]]</small></small></sup> |
+| waters | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
 [[Ps.147.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.17|<< Psalm 147:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.19|Psalm 147:19 >>]]</td></tr></table>
 
 

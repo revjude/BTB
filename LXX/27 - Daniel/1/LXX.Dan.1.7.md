@@ -9,27 +9,27 @@ The chief official gave them new names: To Daniel he gave the name Belteshazzar;
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| added | <span class="asgreek">επέθηκεν <sup><small><small>[[G2007]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| chief eunuch | <span class="asgreek">αρχιευνούχος <sup><small><small>[[G6553]]</small></small></sup> </span> |
-| names | <span class="asgreek">ονόματα <sup><small><small>[[G3686]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Daniel -- | <span class="asgreek">Δανιήλ <sup><small><small>[[G1158]]</small></small></sup> </span> |
-| Belteshazzar, | <span class="asgreek">Βαλτάσαρ <sup><small><small>[[H1113]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hananiah -- | <span class="asgreek">Ανανία <sup><small><small>[[H2608b]]</small></small></sup> </span> |
-| Shadrach, | <span class="asgreek">Σεδράχ <sup><small><small>[[H7715]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Mishael -- | <span class="asgreek">Μισαήλ <sup><small><small>[[H4333]]</small></small></sup> </span> |
-| Meshach, | <span class="asgreek">Μισάκ <sup><small><small>[[H4336]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Azariah -- | <span class="asgreek">Αζαρία <sup><small><small>[[H5839]]</small></small></sup> </span> |
-| Abed-nego. | <span class="asgreek">Αβδεναγώ <sup><small><small>[[H5665]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| added | <big><span class="asgreek">επέθηκεν</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| chief eunuch | <big><span class="asgreek">αρχιευνούχος</span></big> <sup><small><small>[[G6553]]</small></small></sup> |
+| names | <big><span class="asgreek">ονόματα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Daniel -- | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
+| Belteshazzar, | <big><span class="asgreek">Βαλτάσαρ</span></big> <sup><small><small>[[H1113]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hananiah -- | <big><span class="asgreek">Ανανία</span></big> <sup><small><small>[[H2608b]]</small></small></sup> |
+| Shadrach, | <big><span class="asgreek">Σεδράχ</span></big> <sup><small><small>[[H7715]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Mishael -- | <big><span class="asgreek">Μισαήλ</span></big> <sup><small><small>[[H4333]]</small></small></sup> |
+| Meshach, | <big><span class="asgreek">Μισάκ</span></big> <sup><small><small>[[H4336]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Azariah -- | <big><span class="asgreek">Αζαρία</span></big> <sup><small><small>[[H5839]]</small></small></sup> |
+| Abed-nego. | <big><span class="asgreek">Αβδεναγώ</span></big> <sup><small><small>[[H5665]]</small></small></sup> |
 [[Dan.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.6|<< Daniel 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.8|Daniel 1:8 >>]]</td></tr></table>
 
 

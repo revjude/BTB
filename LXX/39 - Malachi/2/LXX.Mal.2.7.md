@@ -9,21 +9,21 @@ For the lips of a priest should preserve knowledge, and people should seek instr
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| lips | <span class="asgreek">χείλη <sup><small><small>[[G5491]]</small></small></sup> </span> |
-| of priests | <span class="asgreek">ιερέως <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| shall guard | <span class="asgreek">φυλάξεται <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| knowledge, | <span class="asgreek">γνώσιν <sup><small><small>[[G1108]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] law | <span class="asgreek">νόμον <sup><small><small>[[G3551]]</small></small></sup> </span> |
-| they shall seek | <span class="asgreek">εκζητήσουσιν <sup><small><small>[[G1567]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| his mouth; | <span class="asgreek">στόματος <sup><small><small>[[G4750]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| a messenger | <span class="asgreek">άγγελος <sup><small><small>[[G0032]]</small></small></sup> </span> |
-| \[of the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| almighty | <span class="asgreek">παντοκράτορός <sup><small><small>[[G3841]]</small></small></sup> </span> |
-| he is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
+| of priests | <big><span class="asgreek">ιερέως</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| shall guard | <big><span class="asgreek">φυλάξεται</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| knowledge, | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] law | <big><span class="asgreek">νόμον</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
+| they shall seek | <big><span class="asgreek">εκζητήσουσιν</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| his mouth; | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| a messenger | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
+| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| almighty | <big><span class="asgreek">παντοκράτορός</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
+| he is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Mal.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.6|<< Malachi 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.8|Malachi 2:8 >>]]</td></tr></table>
 
 

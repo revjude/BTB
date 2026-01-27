@@ -9,23 +9,23 @@ They are created now, and not long ago; you have not heard of them before today.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| it takes place, | <span class="asgreek">γίνεται <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| earlier; | <span class="asgreek">πάλαι <sup><small><small>[[G3819]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| in former | <span class="asgreek">προτέραις <sup><small><small>[[G4387]]</small></small></sup> </span> |
-| days, | <span class="asgreek">ημέραις <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| you heard | <span class="asgreek">ήκουσας <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Lest you should say, | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">είπης <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Yes, | <span class="asgreek">ναι <sup><small><small>[[G3483]]</small></small></sup> </span> |
-| I know | <span class="asgreek">γινώσκω <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| them. | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| it takes place, | <big><span class="asgreek">γίνεται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| earlier; | <big><span class="asgreek">πάλαι</span></big> <sup><small><small>[[G3819]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| in former | <big><span class="asgreek">προτέραις</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
+| days, | <big><span class="asgreek">ημέραις</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| you heard | <big><span class="asgreek">ήκουσας</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Lest you should say, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">είπης</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Yes, | <big><span class="asgreek">ναι</span></big> <sup><small><small>[[G3483]]</small></small></sup> |
+| I know | <big><span class="asgreek">γινώσκω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.48.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.6|<< Isaiah 48:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.8|Isaiah 48:8 >>]]</td></tr></table>
 
 

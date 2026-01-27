@@ -9,15 +9,15 @@ Eloquent words are unfit for a fool; how much worse are lying lips to a ruler!<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| shall not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| suit | <span class="asgreek">αρμόσει <sup><small><small>[[G0718]]</small></small></sup> </span> |
-| a fool | <span class="asgreek">άφρονι <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| lips | <span class="asgreek">χείλη <sup><small><small>[[G5491]]</small></small></sup> </span> |
-| Trustworthy | <span class="asgreek">πιστά <sup><small><small>[[G4103]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ουδέ <sup><small><small>[[G3761]]</small></small></sup> </span> |
-| to \[the\] just | <span class="asgreek">δικαίω <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| lips | <span class="asgreek">χείλη <sup><small><small>[[G5491]]</small></small></sup> </span> |
-| lying | <span class="asgreek">ψευδή <sup><small><small>[[G5571]]</small></small></sup> </span> |
+| shall not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| suit | <big><span class="asgreek">αρμόσει</span></big> <sup><small><small>[[G0718]]</small></small></sup> |
+| a fool | <big><span class="asgreek">άφρονι</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
+| Trustworthy | <big><span class="asgreek">πιστά</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
+| nor | <big><span class="asgreek">ουδέ</span></big> <sup><small><small>[[G3761]]</small></small></sup> |
+| to \[the\] just | <big><span class="asgreek">δικαίω</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
+| lying | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
 [[Prov.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.6|<< Proverbs 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.8|Proverbs 17:8 >>]]</td></tr></table>
 
 

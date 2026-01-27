@@ -9,24 +9,24 @@ Like the cold of snow in the time of harvest is a trustworthy messenger to those
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As a | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| delivery | <span class="asgreek">έξοδος <sup><small><small>[[G1841]]</small></small></sup> </span> |
-| of snow | <span class="asgreek">χιόνος <sup><small><small>[[G5510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] harvest | <span class="asgreek">αμήτω <sup><small><small>[[G6259]]</small></small></sup> </span> |
-| for | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| sweltering heat, | <span class="asgreek">καύμα <sup><small><small>[[G2738]]</small></small></sup> </span> |
-| benefits | <span class="asgreek">ωφελεί <sup><small><small>[[G5623]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| messenger | <span class="asgreek">άγγελος <sup><small><small>[[G0032]]</small></small></sup> </span> |
-| a trustworthy | <span class="asgreek">πιστός <sup><small><small>[[G4103]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sending | <span class="asgreek">αποστείλαντας <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| him; | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for \[the\] souls | <span class="asgreek">ψυχάς <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dealing with him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">χρωμένων <sup><small><small>[[G5530]]</small></small></sup> </span> |
-| derive benefit. | <span class="asgreek">ωφελεί <sup><small><small>[[G5623]]</small></small></sup> </span> |
+| As a | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| delivery | <big><span class="asgreek">έξοδος</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| of snow | <big><span class="asgreek">χιόνος</span></big> <sup><small><small>[[G5510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] harvest | <big><span class="asgreek">αμήτω</span></big> <sup><small><small>[[G6259]]</small></small></sup> |
+| for | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| sweltering heat, | <big><span class="asgreek">καύμα</span></big> <sup><small><small>[[G2738]]</small></small></sup> |
+| benefits | <big><span class="asgreek">ωφελεί</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| messenger | <big><span class="asgreek">άγγελος</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
+| a trustworthy | <big><span class="asgreek">πιστός</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sending | <big><span class="asgreek">αποστείλαντας</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for \[the\] souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dealing with him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">χρωμένων</span></big> <sup><small><small>[[G5530]]</small></small></sup> |
+| derive benefit. | <big><span class="asgreek">ωφελεί</span></big> <sup><small><small>[[G5623]]</small></small></sup> |
 [[Prov.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.12|<< Proverbs 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.14|Proverbs 25:14 >>]]</td></tr></table>
 
 

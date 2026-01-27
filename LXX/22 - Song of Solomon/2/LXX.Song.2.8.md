@@ -9,19 +9,19 @@ Listen! My beloved approaches. Look! Here he comes, leaping across the mountains
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] voice | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of my beloved \[man\]. | <span class="asgreek">αδελφιδού <sup><small><small>[[G6137]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| he comes | <span class="asgreek">ήκει <sup><small><small>[[G2240]]</small></small></sup> </span> |
-| springing up | <span class="asgreek">πηδών <sup><small><small>[[G8788]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mountains, | <span class="asgreek">όρη <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| leaping | <span class="asgreek">διαλλόμενος <sup><small><small>[[G6843]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hills. | <span class="asgreek">βουνους <sup><small><small>[[G1015]]</small></small></sup> </span> |
+| \[The\] voice | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of my beloved \[man\]. | <big><span class="asgreek">αδελφιδού</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| he comes | <big><span class="asgreek">ήκει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
+| springing up | <big><span class="asgreek">πηδών</span></big> <sup><small><small>[[G8788]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mountains, | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| leaping | <big><span class="asgreek">διαλλόμενος</span></big> <sup><small><small>[[G6843]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hills. | <big><span class="asgreek">βουνους</span></big> <sup><small><small>[[G1015]]</small></small></sup> |
 [[Song.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.7|<< Song of Solomon 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.9|Song of Solomon 2:9 >>]]</td></tr></table>
 
 

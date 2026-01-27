@@ -9,17 +9,17 @@ then his flesh is refreshed like a child’s; he returns to the days of his yout
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| He will make tender | <span class="asgreek">απαλυνεί <sup><small><small>[[G6393]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| flesh | <span class="asgreek">σάρκας <sup><small><small>[[G4561]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| an infant, | <span class="asgreek">νηπίου <sup><small><small>[[G3516]]</small></small></sup> </span> |
-| and he shall restore | <span class="asgreek">αποκαταστήσει <sup><small><small>[[G0600]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to manhood | <span class="asgreek">ανδρωθέντα <sup><small><small>[[G6329]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| men. | <span class="asgreek">ανθρώποις <sup><small><small>[[G0444]]</small></small></sup> </span> |
+| He will make tender | <big><span class="asgreek">απαλυνεί</span></big> <sup><small><small>[[G6393]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| flesh | <big><span class="asgreek">σάρκας</span></big> <sup><small><small>[[G4561]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| an infant, | <big><span class="asgreek">νηπίου</span></big> <sup><small><small>[[G3516]]</small></small></sup> |
+| and he shall restore | <big><span class="asgreek">αποκαταστήσει</span></big> <sup><small><small>[[G0600]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to manhood | <big><span class="asgreek">ανδρωθέντα</span></big> <sup><small><small>[[G6329]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| men. | <big><span class="asgreek">ανθρώποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
 [[Job.33.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.24|<< Job 33:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.26|Job 33:26 >>]]</td></tr></table>
 
 

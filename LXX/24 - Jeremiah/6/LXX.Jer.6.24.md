@@ -9,18 +9,18 @@ We have heard the report; our hands hang limp. Anguish has gripped us, pain like
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| We heard | <span class="asgreek">ηκούσαμεν <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| report | <span class="asgreek">ακοήν <sup><small><small>[[G0189]]</small></small></sup> </span> |
-| of them; | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| were disabled | <span class="asgreek">παρελύθησαν <sup><small><small>[[G3886]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our hands | <span class="asgreek">χείρες <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| affliction | <span class="asgreek">θλίψις <sup><small><small>[[G2347]]</small></small></sup> </span> |
-| holds us down; | <span class="asgreek">κατέσχεν <sup><small><small>[[G2722]]</small></small></sup> <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| pangs | <span class="asgreek">ωδίνες <sup><small><small>[[G5604]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a woman giving birth. | <span class="asgreek">τικτούσης <sup><small><small>[[G5088]]</small></small></sup> </span> |
+| We heard | <big><span class="asgreek">ηκούσαμεν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| report | <big><span class="asgreek">ακοήν</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
+| of them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| were disabled | <big><span class="asgreek">παρελύθησαν</span></big> <sup><small><small>[[G3886]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our hands | <big><span class="asgreek">χείρες</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| affliction | <big><span class="asgreek">θλίψις</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
+| holds us down; | <big><span class="asgreek">κατέσχεν</span></big> <sup><small><small>[[G2722]]</small></small></sup> <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| pangs | <big><span class="asgreek">ωδίνες</span></big> <sup><small><small>[[G5604]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a woman giving birth. | <big><span class="asgreek">τικτούσης</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
 [[Jer.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.23|<< Jeremiah 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.25|Jeremiah 6:25 >>]]</td></tr></table>
 
 

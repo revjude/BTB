@@ -9,21 +9,21 @@ The oxen and donkeys that work the ground will eat salted fodder, winnowed with 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Your bulls | <span class="asgreek">ταύροι <sup><small><small>[[G5022]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| oxen | <span class="asgreek">βόες <sup><small><small>[[G1016]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| working | <span class="asgreek">εργαζόμενοι <sup><small><small>[[G2038]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ground | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| shall eat | <span class="asgreek">φάγονται <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| straw | <span class="asgreek">άχυρα <sup><small><small>[[G0892]]</small></small></sup> </span> |
-| being prepared | <span class="asgreek">αναπεποιημένα <sup><small><small>[[G6305]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| barley | <span class="asgreek">κριθή <sup><small><small>[[G2915]]</small></small></sup> </span> |
-| being winnowed. | <span class="asgreek">λελικμημένη <sup><small><small>[[G3039]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Your bulls | <big><span class="asgreek">ταύροι</span></big> <sup><small><small>[[G5022]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| oxen | <big><span class="asgreek">βόες</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| working | <big><span class="asgreek">εργαζόμενοι</span></big> <sup><small><small>[[G2038]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ground | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| shall eat | <big><span class="asgreek">φάγονται</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| straw | <big><span class="asgreek">άχυρα</span></big> <sup><small><small>[[G0892]]</small></small></sup> |
+| being prepared | <big><span class="asgreek">αναπεποιημένα</span></big> <sup><small><small>[[G6305]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| barley | <big><span class="asgreek">κριθή</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
+| being winnowed. | <big><span class="asgreek">λελικμημένη</span></big> <sup><small><small>[[G3039]]</small></small></sup> |
 [[Isa.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.23|<< Isaiah 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.25|Isaiah 30:25 >>]]</td></tr></table>
 
 

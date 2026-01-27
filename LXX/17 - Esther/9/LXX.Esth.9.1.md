@@ -12,25 +12,25 @@ On the thirteenth day of the twelfth month, the month of Adar, the king’s comm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| twelfth | <span class="asgreek">δωδεκάτω <sup><small><small>[[G1428]]</small></small></sup> </span> |
-| month, | <span class="asgreek">μηνί <sup><small><small>[[G3376]]</small></small></sup> </span> |
-| on the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thirteenth | <span class="asgreek">τρισκαιδεκάτη <sup><small><small>[[G9491]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| month, | <span class="asgreek">μηνός <sup><small><small>[[G3376]]</small></small></sup> </span> |
-| which | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| Adar, | <span class="asgreek">Αδάρ <sup><small><small>[[G6135]]</small></small></sup> </span> |
-| were at hand | <span class="asgreek">παρήν <sup><small><small>[[G3918]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| letters | <span class="asgreek">γράμματα <sup><small><small>[[G1121]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| written | <span class="asgreek">γραφέντα <sup><small><small>[[G1125]]</small></small></sup> </span> |
-| by | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
+| For in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| twelfth | <big><span class="asgreek">δωδεκάτω</span></big> <sup><small><small>[[G1428]]</small></small></sup> |
+| month, | <big><span class="asgreek">μηνί</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
+| on the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thirteenth | <big><span class="asgreek">τρισκαιδεκάτη</span></big> <sup><small><small>[[G9491]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| month, | <big><span class="asgreek">μηνός</span></big> <sup><small><small>[[G3376]]</small></small></sup> |
+| which | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| Adar, | <big><span class="asgreek">Αδάρ</span></big> <sup><small><small>[[G6135]]</small></small></sup> |
+| were at hand | <big><span class="asgreek">παρήν</span></big> <sup><small><small>[[G3918]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| letters | <big><span class="asgreek">γράμματα</span></big> <sup><small><small>[[G1121]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| written | <big><span class="asgreek">γραφέντα</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| by | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
 [[Esth.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.17|<< Esther 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.2|Esther 9:2 >>]]</td></tr></table>
 
 

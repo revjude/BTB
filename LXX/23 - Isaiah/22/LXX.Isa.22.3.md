@@ -9,23 +9,23 @@ All your rulers have fled together, captured without a bow. All your fugitives w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| All | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your rulers | <span class="asgreek">άρχοντές <sup><small><small>[[G0758]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| have fled | <span class="asgreek">πεφεύγασι <sup><small><small>[[G5343]]</small></small></sup> </span> |
-| together | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| bow, | <span class="asgreek">τόξου <sup><small><small>[[G5115]]</small></small></sup> </span> |
-| being tied | <span class="asgreek">δεδεμένοι <sup><small><small>[[G1210]]</small></small></sup> </span> |
-| they are | <span class="asgreek">εισί <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being strong | <span class="asgreek">ισχύοντες <sup><small><small>[[G2480]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| at a distance | <span class="asgreek">πόρρω <sup><small><small>[[G4206]]</small></small></sup> </span> |
-| have fled | <span class="asgreek">πεφεύγασι <sup><small><small>[[G5343]]</small></small></sup> </span> |
+| All | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your rulers | <big><span class="asgreek">άρχοντές</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| have fled | <big><span class="asgreek">πεφεύγασι</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
+| together | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| bow, | <big><span class="asgreek">τόξου</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
+| being tied | <big><span class="asgreek">δεδεμένοι</span></big> <sup><small><small>[[G1210]]</small></small></sup> |
+| they are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being strong | <big><span class="asgreek">ισχύοντες</span></big> <sup><small><small>[[G2480]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| at a distance | <big><span class="asgreek">πόρρω</span></big> <sup><small><small>[[G4206]]</small></small></sup> |
+| have fled | <big><span class="asgreek">πεφεύγασι</span></big> <sup><small><small>[[G5343]]</small></small></sup> |
 [[Isa.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.2|<< Isaiah 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.4|Isaiah 22:4 >>]]</td></tr></table>
 
 

@@ -9,25 +9,25 @@ So Ruth stayed close to the servant girls of Boaz to glean grain until the barle
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ruth cleaved | <span class="asgreek">προσεκολλήθη <sup><small><small>[[G4347]]</small></small></sup> <span class="asgreek">Ρουθ <sup><small><small>[[G4503]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| young women | <span class="asgreek">κορασίοις <sup><small><small>[[G2877]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Boaz | <span class="asgreek">Βοόζ <sup><small><small>[[G1003]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to collect | <span class="asgreek">συλλέγειν <sup><small><small>[[G4816]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| they completed | <span class="asgreek">συντέλεσεν <sup><small><small>[[G4931]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| harvest | <span class="asgreek">θερισμόν <sup><small><small>[[G2326]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| barley, | <span class="asgreek">κριθών <sup><small><small>[[G2915]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| harvest | <span class="asgreek">θερισμόν <sup><small><small>[[G2326]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wheat. | <span class="asgreek">πυρών <sup><small><small>[[G8994]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ruth cleaved | <big><span class="asgreek">προσεκολλήθη</span></big> <sup><small><small>[[G4347]]</small></small></sup> <big><span class="asgreek">Ρουθ</span></big> <sup><small><small>[[G4503]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| young women | <big><span class="asgreek">κορασίοις</span></big> <sup><small><small>[[G2877]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Boaz | <big><span class="asgreek">Βοόζ</span></big> <sup><small><small>[[G1003]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to collect | <big><span class="asgreek">συλλέγειν</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| they completed | <big><span class="asgreek">συντέλεσεν</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| harvest | <big><span class="asgreek">θερισμόν</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| barley, | <big><span class="asgreek">κριθών</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| harvest | <big><span class="asgreek">θερισμόν</span></big> <sup><small><small>[[G2326]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wheat. | <big><span class="asgreek">πυρών</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
 [[Ruth.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.22|<< Ruth 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.1|Ruth 3:1 >>]]</td></tr></table>
 
 

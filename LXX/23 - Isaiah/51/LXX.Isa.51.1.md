@@ -12,31 +12,31 @@ Hearken to me, ye that follow after righteousness, ye that seek the LORD: look u
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Hearken to | <span class="asgreek">ακούσατέ <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| me! | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| pursuing | <span class="asgreek">διώκοντες <sup><small><small>[[G1377]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| just \[thing\], | <span class="asgreek">δίκαιον <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| seeking | <span class="asgreek">ζητούντες <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>. | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| Look | <span class="asgreek">εμβλέψατε <sup><small><small>[[G1689]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| solid | <span class="asgreek">στερεάν <sup><small><small>[[G4731]]</small></small></sup> </span> |
-| rock! | <span class="asgreek">πέτραν <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| which | <span class="asgreek">ην <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you quarried, | <span class="asgreek">ελατομήσατε <sup><small><small>[[G2998]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| pit | <span class="asgreek">βόθυνον <sup><small><small>[[G0999]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| well | <span class="asgreek">λάκκου <sup><small><small>[[G8154]]</small></small></sup> </span> |
-| which | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you dug. | <span class="asgreek">ωρύξατε <sup><small><small>[[G3736]]</small></small></sup> </span> |
+| Hearken to | <big><span class="asgreek">ακούσατέ</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| me! | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| pursuing | <big><span class="asgreek">διώκοντες</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| just \[thing\], | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| seeking | <big><span class="asgreek">ζητούντες</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Look | <big><span class="asgreek">εμβλέψατε</span></big> <sup><small><small>[[G1689]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| solid | <big><span class="asgreek">στερεάν</span></big> <sup><small><small>[[G4731]]</small></small></sup> |
+| rock! | <big><span class="asgreek">πέτραν</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| which | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you quarried, | <big><span class="asgreek">ελατομήσατε</span></big> <sup><small><small>[[G2998]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| pit | <big><span class="asgreek">βόθυνον</span></big> <sup><small><small>[[G0999]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| well | <big><span class="asgreek">λάκκου</span></big> <sup><small><small>[[G8154]]</small></small></sup> |
+| which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you dug. | <big><span class="asgreek">ωρύξατε</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
 [[Isa.51.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.11|<< Isaiah 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.2|Isaiah 51:2 >>]]</td></tr></table>
 
 

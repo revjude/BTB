@@ -9,25 +9,25 @@ to be gracious to him and say, ‘Spare him from going down to the Pit; I have f
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| he shall hold \[him\] | <span class="asgreek">ανθέξεται <sup><small><small>[[G0472]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| fall | <span class="asgreek">πεσείν <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| death; | <span class="asgreek">θάνατον <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| and he shall renew | <span class="asgreek">ανανεώσει <sup><small><small>[[G0365]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| body | <span class="asgreek">σώμα <sup><small><small>[[G4983]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| \[new\] plaster | <span class="asgreek">αλοιφήν <sup><small><small>[[G6241]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| a wall; | <span class="asgreek">τοίχου <sup><small><small>[[G5109]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| his bones | <span class="asgreek">οστά <sup><small><small>[[G3747]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he will fill up | <span class="asgreek">εμπλήσει <sup><small><small>[[G1705]]</small></small></sup> </span> |
-| with marrow. | <span class="asgreek">μυελού <sup><small><small>[[G3452]]</small></small></sup> </span> |
+| he shall hold \[him\] | <big><span class="asgreek">ανθέξεται</span></big> <sup><small><small>[[G0472]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| fall | <big><span class="asgreek">πεσείν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| death; | <big><span class="asgreek">θάνατον</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| and he shall renew | <big><span class="asgreek">ανανεώσει</span></big> <sup><small><small>[[G0365]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| body | <big><span class="asgreek">σώμα</span></big> <sup><small><small>[[G4983]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| \[new\] plaster | <big><span class="asgreek">αλοιφήν</span></big> <sup><small><small>[[G6241]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| a wall; | <big><span class="asgreek">τοίχου</span></big> <sup><small><small>[[G5109]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| his bones | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he will fill up | <big><span class="asgreek">εμπλήσει</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
+| with marrow. | <big><span class="asgreek">μυελού</span></big> <sup><small><small>[[G3452]]</small></small></sup> |
 [[Job.33.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.23|<< Job 33:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.25|Job 33:25 >>]]</td></tr></table>
 
 

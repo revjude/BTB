@@ -9,32 +9,32 @@ He who despises instruction will pay the penalty, but the one who respects a com
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The one who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| disdains | <span class="asgreek">καταφρονεί <sup><small><small>[[G2706]]</small></small></sup> </span> |
-| a matter, | <span class="asgreek">πράγματος <sup><small><small>[[G4229]]</small></small></sup> </span> |
-| shall be disdained | <span class="asgreek">καταφρονηθήσεται <sup><small><small>[[G2706]]</small></small></sup> </span> |
-| by | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| it; | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| one fearing | <span class="asgreek">φοβούμενος <sup><small><small>[[G5399]]</small></small></sup> </span> |
-| a commandment, | <span class="asgreek">εντολήν <sup><small><small>[[G1785]]</small></small></sup> </span> |
-| this one | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| is in health. | <span class="asgreek">υγιαίνει <sup><small><small>[[G5198]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιώ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| To a deceitful | <span class="asgreek">δολίω <sup><small><small>[[G1386]]</small></small></sup> </span> |
-| nothing | <span class="asgreek">ουδέν <sup><small><small>[[G3762]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| good; | <span class="asgreek">αγαθόν <sup><small><small>[[G0018]]</small></small></sup> </span> |
-| servant | <span class="asgreek">οικέτη <sup><small><small>[[G3610]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| a wise | <span class="asgreek">σοφώ <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| prosperous | <span class="asgreek">εύοδοι <sup><small><small>[[G7554]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in actions, | <span class="asgreek">πράξεις <sup><small><small>[[G4234]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall prosper | <span class="asgreek">κατευθυνθήσεται <sup><small><small>[[G2720]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his way | <span class="asgreek">οδός <sup><small><small>[[G3598]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| The one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| disdains | <big><span class="asgreek">καταφρονεί</span></big> <sup><small><small>[[G2706]]</small></small></sup> |
+| a matter, | <big><span class="asgreek">πράγματος</span></big> <sup><small><small>[[G4229]]</small></small></sup> |
+| shall be disdained | <big><span class="asgreek">καταφρονηθήσεται</span></big> <sup><small><small>[[G2706]]</small></small></sup> |
+| by | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| it; | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| one fearing | <big><span class="asgreek">φοβούμενος</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| a commandment, | <big><span class="asgreek">εντολήν</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
+| this one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| is in health. | <big><span class="asgreek">υγιαίνει</span></big> <sup><small><small>[[G5198]]</small></small></sup> |
+| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| To a deceitful | <big><span class="asgreek">δολίω</span></big> <sup><small><small>[[G1386]]</small></small></sup> |
+| nothing | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| good; | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| servant | <big><span class="asgreek">οικέτη</span></big> <sup><small><small>[[G3610]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| a wise | <big><span class="asgreek">σοφώ</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| prosperous | <big><span class="asgreek">εύοδοι</span></big> <sup><small><small>[[G7554]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in actions, | <big><span class="asgreek">πράξεις</span></big> <sup><small><small>[[G4234]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall prosper | <big><span class="asgreek">κατευθυνθήσεται</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.12|<< Proverbs 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.14|Proverbs 13:14 >>]]</td></tr></table>
 
 

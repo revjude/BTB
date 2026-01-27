@@ -9,24 +9,24 @@ Cursing and lying, murder and stealing, and adultery are rampant; one act of blo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Curse, | <span class="asgreek">αρά <sup><small><small>[[G0685]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lie, | <span class="asgreek">ψεύδος <sup><small><small>[[G5579]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| murder, | <span class="asgreek">φόνος <sup><small><small>[[G5408]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| fraud, | <span class="asgreek">κλοπή <sup><small><small>[[G2829]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| adultery -- | <span class="asgreek">μοιχεία <sup><small><small>[[G3430]]</small></small></sup> </span> |
-| it poured | <span class="asgreek">κέχυται <sup><small><small>[[G9721]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth, | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| blood | <span class="asgreek">αίματα <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| with | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| blood | <span class="asgreek">αίμασι <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| they mingled | <span class="asgreek">μίσγουσι <sup><small><small>[[G8330]]</small></small></sup> </span> |
+| Curse, | <big><span class="asgreek">αρά</span></big> <sup><small><small>[[G0685]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lie, | <big><span class="asgreek">ψεύδος</span></big> <sup><small><small>[[G5579]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| murder, | <big><span class="asgreek">φόνος</span></big> <sup><small><small>[[G5408]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| fraud, | <big><span class="asgreek">κλοπή</span></big> <sup><small><small>[[G2829]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| adultery -- | <big><span class="asgreek">μοιχεία</span></big> <sup><small><small>[[G3430]]</small></small></sup> |
+| it poured | <big><span class="asgreek">κέχυται</span></big> <sup><small><small>[[G9721]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| blood | <big><span class="asgreek">αίματα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| with | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| blood | <big><span class="asgreek">αίμασι</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| they mingled | <big><span class="asgreek">μίσγουσι</span></big> <sup><small><small>[[G8330]]</small></small></sup> |
 [[Hos.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.1|<< Hosea 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.3|Hosea 4:3 >>]]</td></tr></table>
 
 

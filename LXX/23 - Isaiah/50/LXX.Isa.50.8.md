@@ -9,25 +9,25 @@ The One who vindicates Me is near. Who will dare to contend with Me? Let us conf
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| approaches | <span class="asgreek">εγγίζει <sup><small><small>[[G1448]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| justifying | <span class="asgreek">δικαιώσας <sup><small><small>[[G1344]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Who \[is\] | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one judging | <span class="asgreek">κρινόμενός <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| me? | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Let him oppose | <span class="asgreek">αντιστήτω <sup><small><small>[[G0436]]</small></small></sup> </span> |
-| me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| at the same time! | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| Yes, | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| who \[is\] | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| judging | <span class="asgreek">κρινόμενός <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| me? | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Let him approach | <span class="asgreek">εγγισάτω <sup><small><small>[[G1448]]</small></small></sup> </span> |
-| to me! | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| approaches | <big><span class="asgreek">εγγίζει</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| justifying | <big><span class="asgreek">δικαιώσας</span></big> <sup><small><small>[[G1344]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Who \[is\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one judging | <big><span class="asgreek">κρινόμενός</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| me? | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Let him oppose | <big><span class="asgreek">αντιστήτω</span></big> <sup><small><small>[[G0436]]</small></small></sup> |
+| me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| at the same time! | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| Yes, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| who \[is\] | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| judging | <big><span class="asgreek">κρινόμενός</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| me? | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Let him approach | <big><span class="asgreek">εγγισάτω</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| to me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.50.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.7|<< Isaiah 50:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.9|Isaiah 50:9 >>]]</td></tr></table>
 
 

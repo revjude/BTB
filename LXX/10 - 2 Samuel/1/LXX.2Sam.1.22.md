@@ -9,27 +9,27 @@ From the blood of the slain, from the fat of the mighty, the bow of Jonathan did
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| From | <span class="asgreek">αφ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] blood | <span class="asgreek">αίματος <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| of \[the\] slain, | <span class="asgreek">τραυματιών <sup><small><small>[[G9470]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] fat | <span class="asgreek">στέατος <sup><small><small>[[G9155]]</small></small></sup> </span> |
-| of \[the\] mighty ones, | <span class="asgreek">δυνατών <sup><small><small>[[G1415]]</small></small></sup> </span> |
-| \[the\] bow | <span class="asgreek">τόξον <sup><small><small>[[G5115]]</small></small></sup> </span> |
-| of Jonathan | <span class="asgreek">Ιωναθάν <sup><small><small>[[H3129]]</small></small></sup> </span> |
-| did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| return | <span class="asgreek">απεστράφη <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| empty | <span class="asgreek">κενόν <sup><small><small>[[G2756]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rear; | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] broadsword | <span class="asgreek">ρομφαία <sup><small><small>[[G4501]]</small></small></sup> </span> |
-| of Saul | <span class="asgreek">Σαούλ <sup><small><small>[[G4549]]</small></small></sup> </span> |
-| did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| return | <span class="asgreek">ανέκαμψε <sup><small><small>[[G0344]]</small></small></sup> </span> |
-| empty. | <span class="asgreek">κενή <sup><small><small>[[G2756]]</small></small></sup> </span> |
+| From | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] blood | <big><span class="asgreek">αίματος</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| of \[the\] slain, | <big><span class="asgreek">τραυματιών</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] fat | <big><span class="asgreek">στέατος</span></big> <sup><small><small>[[G9155]]</small></small></sup> |
+| of \[the\] mighty ones, | <big><span class="asgreek">δυνατών</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| \[the\] bow | <big><span class="asgreek">τόξον</span></big> <sup><small><small>[[G5115]]</small></small></sup> |
+| of Jonathan | <big><span class="asgreek">Ιωναθάν</span></big> <sup><small><small>[[H3129]]</small></small></sup> |
+| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| return | <big><span class="asgreek">απεστράφη</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| empty | <big><span class="asgreek">κενόν</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rear; | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] broadsword | <big><span class="asgreek">ρομφαία</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| of Saul | <big><span class="asgreek">Σαούλ</span></big> <sup><small><small>[[G4549]]</small></small></sup> |
+| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| return | <big><span class="asgreek">ανέκαμψε</span></big> <sup><small><small>[[G0344]]</small></small></sup> |
+| empty. | <big><span class="asgreek">κενή</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
 [[2Sam.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.21|<< 2 Samuel 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.23|2 Samuel 1:23 >>]]</td></tr></table>
 
 

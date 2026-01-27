@@ -9,16 +9,16 @@ You will be hidden from the scourge of the tongue, and will not fear havoc when 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] whip | <span class="asgreek">μάστιγος <sup><small><small>[[G3148]]</small></small></sup> </span> |
-| of \[the\] tongue | <span class="asgreek">γλώσσης <sup><small><small>[[G1100]]</small></small></sup> </span> |
-| He shall hide you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">κρύψει <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall you be fearful | <span class="asgreek">φοβηθήση <sup><small><small>[[G5399]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| evils | <span class="asgreek">κακών <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| \[the\] coming | <span class="asgreek">ερχομένων <sup><small><small>[[G2064]]</small></small></sup> </span> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] whip | <big><span class="asgreek">μάστιγος</span></big> <sup><small><small>[[G3148]]</small></small></sup> |
+| of \[the\] tongue | <big><span class="asgreek">γλώσσης</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
+| He shall hide you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">κρύψει</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall you be fearful | <big><span class="asgreek">φοβηθήση</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| evils | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| \[the\] coming | <big><span class="asgreek">ερχομένων</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
 [[Job.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.20|<< Job 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.22|Job 5:22 >>]]</td></tr></table>
 
 

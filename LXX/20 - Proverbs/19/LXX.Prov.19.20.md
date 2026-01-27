@@ -9,15 +9,15 @@ Listen to counsel and accept discipline, that you may be wise the rest of your d
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Hear, | <span class="asgreek">άκουε <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| O son, | <span class="asgreek">υιέ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| \[the\] instruction | <span class="asgreek">παιδείαν <sup><small><small>[[G3809]]</small></small></sup> </span> |
-| of your father! | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| wise | <span class="asgreek">σοφός <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| you should become | <span class="asgreek">γένη <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| unto | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| your last \[days\]. | <span class="asgreek">εσχάτων <sup><small><small>[[G2078]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Hear, | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| O son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| \[the\] instruction | <big><span class="asgreek">παιδείαν</span></big> <sup><small><small>[[G3809]]</small></small></sup> |
+| of your father! | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| wise | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| you should become | <big><span class="asgreek">γένη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| your last \[days\]. | <big><span class="asgreek">εσχάτων</span></big> <sup><small><small>[[G2078]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.19|<< Proverbs 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.21|Proverbs 19:21 >>]]</td></tr></table>
 
 

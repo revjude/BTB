@@ -12,15 +12,15 @@ My son, if you accept my words and hide my commandments within you,<small><sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| O son, | <span class="asgreek">υιέ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| receiving | <span class="asgreek">δεξάμενος <sup><small><small>[[G1209]]</small></small></sup> </span> |
-| \[the\] saying | <span class="asgreek">ρήσιν <sup><small><small>[[G9022]]</small></small></sup> </span> |
-| of my | <span class="asgreek">εμής <sup><small><small>[[G1699]]</small></small></sup> </span> |
-| commandment, | <span class="asgreek">εντολής <sup><small><small>[[G1785]]</small></small></sup> </span> |
-| you shall hide it | <span class="asgreek">κρύψης <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| unto | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| yourself; | <span class="asgreek">σεαυτώ <sup><small><small>[[G4572]]</small></small></sup> </span> |
+| O son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| receiving | <big><span class="asgreek">δεξάμενος</span></big> <sup><small><small>[[G1209]]</small></small></sup> |
+| \[the\] saying | <big><span class="asgreek">ρήσιν</span></big> <sup><small><small>[[G9022]]</small></small></sup> |
+| of my | <big><span class="asgreek">εμής</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
+| commandment, | <big><span class="asgreek">εντολής</span></big> <sup><small><small>[[G1785]]</small></small></sup> |
+| you shall hide it | <big><span class="asgreek">κρύψης</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| unto | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| yourself; | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
 [[Prov.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.33|<< Proverbs 1:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.2|Proverbs 2:2 >>]]</td></tr></table>
 
 

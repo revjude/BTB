@@ -9,18 +9,18 @@ Like vinegar to the teeth and smoke to the eyes, so is the slacker to those who 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| an unripe grape | <span class="asgreek">όμφαξ <sup><small><small>[[G8515]]</small></small></sup> </span> |
-| to \[the\] teeth | <span class="asgreek">οδούσι <sup><small><small>[[G3599]]</small></small></sup> </span> |
-| is hurtful, | <span class="asgreek">βλαβερόν <sup><small><small>[[G0983]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| smoke | <span class="asgreek">καπνός <sup><small><small>[[G2586]]</small></small></sup> </span> |
-| to \[the\] eyes; | <span class="asgreek">όμμασιν <sup><small><small>[[G3659]]</small></small></sup> </span> |
-| thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| unlawfulness | <span class="asgreek">παρανομία <sup><small><small>[[G3892]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dealing with | <span class="asgreek">χρωμένοις <sup><small><small>[[G5530]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| As | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| an unripe grape | <big><span class="asgreek">όμφαξ</span></big> <sup><small><small>[[G8515]]</small></small></sup> |
+| to \[the\] teeth | <big><span class="asgreek">οδούσι</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
+| is hurtful, | <big><span class="asgreek">βλαβερόν</span></big> <sup><small><small>[[G0983]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| smoke | <big><span class="asgreek">καπνός</span></big> <sup><small><small>[[G2586]]</small></small></sup> |
+| to \[the\] eyes; | <big><span class="asgreek">όμμασιν</span></big> <sup><small><small>[[G3659]]</small></small></sup> |
+| thus | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| unlawfulness | <big><span class="asgreek">παρανομία</span></big> <sup><small><small>[[G3892]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dealing with | <big><span class="asgreek">χρωμένοις</span></big> <sup><small><small>[[G5530]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.10.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.25|<< Proverbs 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.27|Proverbs 10:27 >>]]</td></tr></table>
 
 

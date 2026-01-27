@@ -9,31 +9,31 @@ Do not seek Bethel or go to Gilgal; do not journey to Beersheba, for Gilgal will
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| seek after | <span class="asgreek">εκζητείτε <sup><small><small>[[G1567]]</small></small></sup> </span> |
-| Beth-el, | <span class="asgreek">Βαιθήλ <sup><small><small>[[H1008]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Gilgal | <span class="asgreek">Γαλγαλά <sup><small><small>[[H1537]]</small></small></sup> </span> |
-| enter not, | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">εισπορεύεσθε <sup><small><small>[[G1531]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| by | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Well | <span class="asgreek">φρεαρ <sup><small><small>[[G5421]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Oath | <span class="asgreek">όρκου <sup><small><small>[[G3727]]</small></small></sup> </span> |
-| do not pass over! | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">διαβαίνετε <sup><small><small>[[G1224]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| Gilgal, | <span class="asgreek">Γαλγαλά <sup><small><small>[[H1537]]</small></small></sup> </span> |
-| by capturing | <span class="asgreek">αιχμαλωτευομένη <sup><small><small>[[G0162]]</small></small></sup> </span> |
-| shall be captured, | <span class="asgreek">αιχμαλωτευθήσεται <sup><small><small>[[G0162]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Beth-el | <span class="asgreek">Βαιθήλ <sup><small><small>[[H1008]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| existing. | <span class="asgreek">υπάρχουσα <sup><small><small>[[G5225]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| seek after | <big><span class="asgreek">εκζητείτε</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
+| Beth-el, | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Gilgal | <big><span class="asgreek">Γαλγαλά</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
+| enter not, | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">εισπορεύεσθε</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Well | <big><span class="asgreek">φρεαρ</span></big> <sup><small><small>[[G5421]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Oath | <big><span class="asgreek">όρκου</span></big> <sup><small><small>[[G3727]]</small></small></sup> |
+| do not pass over! | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">διαβαίνετε</span></big> <sup><small><small>[[G1224]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| Gilgal, | <big><span class="asgreek">Γαλγαλά</span></big> <sup><small><small>[[H1537]]</small></small></sup> |
+| by capturing | <big><span class="asgreek">αιχμαλωτευομένη</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
+| shall be captured, | <big><span class="asgreek">αιχμαλωτευθήσεται</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Beth-el | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| existing. | <big><span class="asgreek">υπάρχουσα</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
 [[Amos.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.4|<< Amos 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.6|Amos 5:6 >>]]</td></tr></table>
 
 

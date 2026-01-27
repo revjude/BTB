@@ -9,23 +9,23 @@ In my dream I also saw seven heads of grain, plump and ripe, growing on a single
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I saw | <span class="asgreek">είδον <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| again | <span class="asgreek">πάλιν <sup><small><small>[[G3825]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my sleep, | <span class="asgreek">ύπνω <sup><small><small>[[G5258]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as if | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| seven | <span class="asgreek">επτά <sup><small><small>[[G2033]]</small></small></sup> </span> |
-| ears of corn | <span class="asgreek">στάχυες <sup><small><small>[[G4719]]</small></small></sup> </span> |
-| ascended | <span class="asgreek">ανέβαινον <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| lower branch | <span class="asgreek">πυθμένι <sup><small><small>[[G8986]]</small></small></sup> </span> |
-| one | <span class="asgreek">ενί <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| full | <span class="asgreek">πλήρεις <sup><small><small>[[G4134]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| good. | <span class="asgreek">καλοί <sup><small><small>[[G2570]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I saw | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my sleep, | <big><span class="asgreek">ύπνω</span></big> <sup><small><small>[[G5258]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
+| ears of corn | <big><span class="asgreek">στάχυες</span></big> <sup><small><small>[[G4719]]</small></small></sup> |
+| ascended | <big><span class="asgreek">ανέβαινον</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| lower branch | <big><span class="asgreek">πυθμένι</span></big> <sup><small><small>[[G8986]]</small></small></sup> |
+| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| full | <big><span class="asgreek">πλήρεις</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| good. | <big><span class="asgreek">καλοί</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
 [[Gen.41.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.21|<< Genesis 41:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.23|Genesis 41:23 >>]]</td></tr></table>
 
 

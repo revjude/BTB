@@ -9,14 +9,14 @@ Paltiel son of Azzan, a leader from the tribe of Issachar;<small><sub>**MT:**</
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tribe | <span class="asgreek">φυλής <sup><small><small>[[G5443]]</small></small></sup> </span> |
-| of \[the\] sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Issachar -- | <span class="asgreek">Ισσάχαρ <sup><small><small>[[G2466]]</small></small></sup> </span> |
-| ruler | <span class="asgreek">άρχων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| Paltiel | <span class="asgreek">Φαλτιήλ <sup><small><small>[[H6409]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Azzan. | <span class="asgreek">Οζά <sup><small><small>[[H5821]]</small></small></sup> </span> |
+| Of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tribe | <big><span class="asgreek">φυλής</span></big> <sup><small><small>[[G5443]]</small></small></sup> |
+| of \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Issachar -- | <big><span class="asgreek">Ισσάχαρ</span></big> <sup><small><small>[[G2466]]</small></small></sup> |
+| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| Paltiel | <big><span class="asgreek">Φαλτιήλ</span></big> <sup><small><small>[[H6409]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Azzan. | <big><span class="asgreek">Οζά</span></big> <sup><small><small>[[H5821]]</small></small></sup> |
 [[Num.34.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.25|<< Numbers 34:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.27|Numbers 34:27 >>]]</td></tr></table>
 
 

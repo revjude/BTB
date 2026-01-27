@@ -9,22 +9,22 @@ And I Myself will fight against you with an outstretched hand and a mighty arm, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall wage war | <span class="asgreek">πολεμήσω <sup><small><small>[[G4170]]</small></small></sup> </span> |
-| myself | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| against you | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a hand | <span class="asgreek">χειρί <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| being stretched out, | <span class="asgreek">εκτεταμένη <sup><small><small>[[G1614]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| arm | <span class="asgreek">βραχίονι <sup><small><small>[[G1023]]</small></small></sup> </span> |
-| a fortified | <span class="asgreek">κραταιώ <sup><small><small>[[G2900]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| rage | <span class="asgreek">θυμού <sup><small><small>[[G2372]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| anger | <span class="asgreek">οργής <sup><small><small>[[G3709]]</small></small></sup> </span> |
-| great | <span class="asgreek">μεγάλης <sup><small><small>[[G3173]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall wage war | <big><span class="asgreek">πολεμήσω</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
+| myself | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| against you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a hand | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| being stretched out, | <big><span class="asgreek">εκτεταμένη</span></big> <sup><small><small>[[G1614]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| arm | <big><span class="asgreek">βραχίονι</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
+| a fortified | <big><span class="asgreek">κραταιώ</span></big> <sup><small><small>[[G2900]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| anger | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
+| great | <big><span class="asgreek">μεγάλης</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
 [[Jer.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.4|<< Jeremiah 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.6|Jeremiah 21:6 >>]]</td></tr></table>
 
 

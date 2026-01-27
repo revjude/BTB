@@ -9,15 +9,15 @@ So the Jews agreed to continue the custom they had started, as Mordecai had writ
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| favorably received it | <span class="asgreek">προσεδέξαντο <sup><small><small>[[G4327]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jews | <span class="asgreek">Ιουδαίοι <sup><small><small>[[G2453]]</small></small></sup> </span> |
-| as | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| wrote | <span class="asgreek">έγραψεν <sup><small><small>[[G1125]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Mordecai | <span class="asgreek">Μαρδοχαίος <sup><small><small>[[H4782]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| favorably received it | <big><span class="asgreek">προσεδέξαντο</span></big> <sup><small><small>[[G4327]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jews | <big><span class="asgreek">Ιουδαίοι</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
+| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| wrote | <big><span class="asgreek">έγραψεν</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Mordecai | <big><span class="asgreek">Μαρδοχαίος</span></big> <sup><small><small>[[H4782]]</small></small></sup> |
 [[Esth.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.22|<< Esther 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.24|Esther 9:24 >>]]</td></tr></table>
 
 

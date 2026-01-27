@@ -9,32 +9,32 @@ A loving doe, a graceful fawn—may her breasts satisfy you always; may you be c
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[Let\] \[your\] hind | <span class="asgreek">έλαφος <sup><small><small>[[G7180]]</small></small></sup> </span> |
-| of friendship, | <span class="asgreek">φιλίας <sup><small><small>[[G5373]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| filly | <span class="asgreek">πώλός <sup><small><small>[[G4454]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G4674]]</small></small></sup> </span> |
-| of favors, | <span class="asgreek">χαρίτων <sup><small><small>[[G5485]]</small></small></sup> </span> |
-| consort | <span class="asgreek">ομιλείτω <sup><small><small>[[G3656]]</small></small></sup> </span> |
-| with you! | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| in particular | <span class="asgreek">ιδία <sup><small><small>[[G2398]]</small></small></sup> </span> |
-| let her be esteemed | <span class="asgreek">ηγείσθω <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| by you, | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| be with | <span class="asgreek">συνέστω <sup><small><small>[[G4895]]</small></small></sup> </span> |
-| you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| at | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| all | <span class="asgreek">παντί <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| time! | <span class="asgreek">καιρώ <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| For in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| this | <span class="asgreek">ταύτης <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| friendship | <span class="asgreek">φιλία <sup><small><small>[[G5373]]</small></small></sup> </span> |
-| accommodated | <span class="asgreek">συμπεριφερόμενος <sup><small><small>[[G9273]]</small></small></sup> </span> |
-| a great deal | <span class="asgreek">πολλοστός <sup><small><small>[[G8847]]</small></small></sup> </span> |
-| you will be | <span class="asgreek">έση <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| \[Let\] \[your\] hind | <big><span class="asgreek">έλαφος</span></big> <sup><small><small>[[G7180]]</small></small></sup> |
+| of friendship, | <big><span class="asgreek">φιλίας</span></big> <sup><small><small>[[G5373]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| filly | <big><span class="asgreek">πώλός</span></big> <sup><small><small>[[G4454]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
+| of favors, | <big><span class="asgreek">χαρίτων</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
+| consort | <big><span class="asgreek">ομιλείτω</span></big> <sup><small><small>[[G3656]]</small></small></sup> |
+| with you! | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| in particular | <big><span class="asgreek">ιδία</span></big> <sup><small><small>[[G2398]]</small></small></sup> |
+| let her be esteemed | <big><span class="asgreek">ηγείσθω</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| by you, | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| be with | <big><span class="asgreek">συνέστω</span></big> <sup><small><small>[[G4895]]</small></small></sup> |
+| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| time! | <big><span class="asgreek">καιρώ</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| For in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| this | <big><span class="asgreek">ταύτης</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| friendship | <big><span class="asgreek">φιλία</span></big> <sup><small><small>[[G5373]]</small></small></sup> |
+| accommodated | <big><span class="asgreek">συμπεριφερόμενος</span></big> <sup><small><small>[[G9273]]</small></small></sup> |
+| a great deal | <big><span class="asgreek">πολλοστός</span></big> <sup><small><small>[[G8847]]</small></small></sup> |
+| you will be | <big><span class="asgreek">έση</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Prov.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.18|<< Proverbs 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.20|Proverbs 5:20 >>]]</td></tr></table>
 
 

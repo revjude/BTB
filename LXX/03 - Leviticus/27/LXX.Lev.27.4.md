@@ -9,13 +9,13 @@ Or if it is a female, then your valuation shall be thirty shekels.<small><sub>*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| female | <span class="asgreek">θηλείας <sup><small><small>[[G2338]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| price | <span class="asgreek">συντίμησις <sup><small><small>[[G9339]]</small></small></sup> </span> |
-| of thirty | <span class="asgreek">τριάκοντα <sup><small><small>[[G5144]]</small></small></sup> </span> |
-| double-drachmas. | <span class="asgreek">δίδραχμα <sup><small><small>[[G1323]]</small></small></sup> </span> |
+| And the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| female | <big><span class="asgreek">θηλείας</span></big> <sup><small><small>[[G2338]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| price | <big><span class="asgreek">συντίμησις</span></big> <sup><small><small>[[G9339]]</small></small></sup> |
+| of thirty | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
+| double-drachmas. | <big><span class="asgreek">δίδραχμα</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
 [[Lev.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.3|<< Leviticus 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.5|Leviticus 27:5 >>]]</td></tr></table>
 
 

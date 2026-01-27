@@ -9,22 +9,22 @@ The proud hide a snare for me; the cords of their net are spread along the path,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| hid | <span class="asgreek">έκρυψαν <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| \[The\] proud | <span class="asgreek">υπερήφανοι <sup><small><small>[[G5244]]</small></small></sup> </span> |
-| a snare | <span class="asgreek">παγίδα <sup><small><small>[[G3803]]</small></small></sup> </span> |
-| for me; | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lines | <span class="asgreek">σχοινίοις <sup><small><small>[[G4979]]</small></small></sup> </span> |
-| they extended | <span class="asgreek">διέτειναν <sup><small><small>[[G6887]]</small></small></sup> </span> |
-| \[for a\] snare | <span class="asgreek">παγίδα <sup><small><small>[[G3803]]</small></small></sup> </span> |
-| for | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my foot; | <span class="asgreek">ποσί <sup><small><small>[[G4228]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| next to | <span class="asgreek">εχόμενα <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| a road | <span class="asgreek">τρίβου <sup><small><small>[[G5147]]</small></small></sup> </span> |
-| an obstacle | <span class="asgreek">σκάνδαλον <sup><small><small>[[G4625]]</small></small></sup> </span> |
-| they placed | <span class="asgreek">έθεντό <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| for me. | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| PAUSE. | <span class="asgreek">διάψαλμα <sup><small><small>[[G6908]]</small></small></sup> </span> |
+| hid | <big><span class="asgreek">έκρυψαν</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| \[The\] proud | <big><span class="asgreek">υπερήφανοι</span></big> <sup><small><small>[[G5244]]</small></small></sup> |
+| a snare | <big><span class="asgreek">παγίδα</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
+| for me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lines | <big><span class="asgreek">σχοινίοις</span></big> <sup><small><small>[[G4979]]</small></small></sup> |
+| they extended | <big><span class="asgreek">διέτειναν</span></big> <sup><small><small>[[G6887]]</small></small></sup> |
+| \[for a\] snare | <big><span class="asgreek">παγίδα</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
+| for | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my foot; | <big><span class="asgreek">ποσί</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| next to | <big><span class="asgreek">εχόμενα</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| a road | <big><span class="asgreek">τρίβου</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
+| an obstacle | <big><span class="asgreek">σκάνδαλον</span></big> <sup><small><small>[[G4625]]</small></small></sup> |
+| they placed | <big><span class="asgreek">έθεντό</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| for me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
 [[Ps.140.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.4|<< Psalm 140:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.6|Psalm 140:6 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ The LORD appeared to us in the past, saying: “I have loved you with an everlas
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| at a distance | <span class="asgreek">πόρρωθεν <sup><small><small>[[G4207]]</small></small></sup> </span> |
-| shall be seen | <span class="asgreek">οφθήσεται <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| by him, \[saying\], | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| affection | <span class="asgreek">αγαπησιν <sup><small><small>[[G6113]]</small></small></sup> </span> |
-| With an everlasting | <span class="asgreek">αιώνιον <sup><small><small>[[G0166]]</small></small></sup> </span> |
-| I loved | <span class="asgreek">ηγάπησά <sup><small><small>[[G0025]]</small></small></sup> </span> |
-| you; | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| on account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| I drew | <span class="asgreek">είλκυσά <sup><small><small>[[G1670]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| pitying. | <span class="asgreek">οικτείρημα <sup><small><small>[[G8458]]</small></small></sup> </span> |
+| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| at a distance | <big><span class="asgreek">πόρρωθεν</span></big> <sup><small><small>[[G4207]]</small></small></sup> |
+| shall be seen | <big><span class="asgreek">οφθήσεται</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| by him, \[saying\], | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| affection | <big><span class="asgreek">αγαπησιν</span></big> <sup><small><small>[[G6113]]</small></small></sup> |
+| With an everlasting | <big><span class="asgreek">αιώνιον</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| I loved | <big><span class="asgreek">ηγάπησά</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
+| you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| I drew | <big><span class="asgreek">είλκυσά</span></big> <sup><small><small>[[G1670]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| pitying. | <big><span class="asgreek">οικτείρημα</span></big> <sup><small><small>[[G8458]]</small></small></sup> |
 [[Jer.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.2|<< Jeremiah 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.4|Jeremiah 31:4 >>]]</td></tr></table>
 
 

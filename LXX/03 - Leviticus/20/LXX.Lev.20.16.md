@@ -9,26 +9,26 @@ If a woman approaches any animal to mate with it, you must kill both the woman a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a woman, | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| whoever | <span class="asgreek">ήτις <sup><small><small>[[G3748]]</small></small></sup> </span> |
-| should come forward | <span class="asgreek">προσελεύσεται <sup><small><small>[[G4334]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| any | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| beast | <span class="asgreek">κτήνος <sup><small><small>[[G2934]]</small></small></sup> </span> |
-| to breed | <span class="asgreek">βιβασθήναι <sup><small><small>[[G6671]]</small></small></sup> </span> |
-| herself | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| by | <span class="asgreek">υπ΄ <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall kill | <span class="asgreek">αποκτενείτε <sup><small><small>[[G0615]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| woman | <span class="asgreek">γυναίκα <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| beast -- | <span class="asgreek">κτήνος <sup><small><small>[[G2934]]</small></small></sup> </span> |
-| unto death | <span class="asgreek">θανάτω <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| let them be put to death! | <span class="asgreek">θανατούσθωσαν <sup><small><small>[[G2289]]</small></small></sup> </span> |
-| they are liable. | <span class="asgreek">ένοχοί <sup><small><small>[[G1777]]</small></small></sup> <span class="asgreek">εισιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a woman, | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| whoever | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
+| should come forward | <big><span class="asgreek">προσελεύσεται</span></big> <sup><small><small>[[G4334]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| any | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| beast | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| to breed | <big><span class="asgreek">βιβασθήναι</span></big> <sup><small><small>[[G6671]]</small></small></sup> |
+| herself | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| by | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall kill | <big><span class="asgreek">αποκτενείτε</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| woman | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| beast -- | <big><span class="asgreek">κτήνος</span></big> <sup><small><small>[[G2934]]</small></small></sup> |
+| unto death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| let them be put to death! | <big><span class="asgreek">θανατούσθωσαν</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
+| they are liable. | <big><span class="asgreek">ένοχοί</span></big> <sup><small><small>[[G1777]]</small></small></sup> <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Lev.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.15|<< Leviticus 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.17|Leviticus 20:17 >>]]</td></tr></table>
 
 

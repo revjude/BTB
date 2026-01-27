@@ -9,34 +9,34 @@ Their horses are swifter than leopards, fiercer than wolves of the night. Their 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall leap | <span class="asgreek">εξαλούνται <sup><small><small>[[G1814]]</small></small></sup> </span> |
-| more than | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| leopards | <span class="asgreek">παρδάλεις <sup><small><small>[[G3917]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his horses | <span class="asgreek">ίπποι <sup><small><small>[[G2462]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[are\] sharper | <span class="asgreek">οξύτεροι <sup><small><small>[[G3691]]</small></small></sup> </span> |
-| than | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wolves | <span class="asgreek">λύκους <sup><small><small>[[G3074]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Arabia. | <span class="asgreek">Αραβίας <sup><small><small>[[G0688]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall ride forth | <span class="asgreek">εξιππάσονται <sup><small><small>[[G7334]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his horsemen | <span class="asgreek">ιππείς <sup><small><small>[[G2460]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall advance | <span class="asgreek">ορμήσουσι <sup><small><small>[[G3729]]</small></small></sup> </span> |
-| far off; | <span class="asgreek">μακρόθεν <sup><small><small>[[G3113]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall spread out | <span class="asgreek">πετασθήσονται <sup><small><small>[[G8780]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| an eagle | <span class="asgreek">αετός <sup><small><small>[[G0105]]</small></small></sup> </span> |
-| eager | <span class="asgreek">πρόθυμος <sup><small><small>[[G4289]]</small></small></sup> </span> |
-| for \[something\] | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to eat. | <span class="asgreek">φαγείν <sup><small><small>[[G2068]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall leap | <big><span class="asgreek">εξαλούνται</span></big> <sup><small><small>[[G1814]]</small></small></sup> |
+| more than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| leopards | <big><span class="asgreek">παρδάλεις</span></big> <sup><small><small>[[G3917]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his horses | <big><span class="asgreek">ίπποι</span></big> <sup><small><small>[[G2462]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[are\] sharper | <big><span class="asgreek">οξύτεροι</span></big> <sup><small><small>[[G3691]]</small></small></sup> |
+| than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wolves | <big><span class="asgreek">λύκους</span></big> <sup><small><small>[[G3074]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Arabia. | <big><span class="asgreek">Αραβίας</span></big> <sup><small><small>[[G0688]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall ride forth | <big><span class="asgreek">εξιππάσονται</span></big> <sup><small><small>[[G7334]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his horsemen | <big><span class="asgreek">ιππείς</span></big> <sup><small><small>[[G2460]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall advance | <big><span class="asgreek">ορμήσουσι</span></big> <sup><small><small>[[G3729]]</small></small></sup> |
+| far off; | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall spread out | <big><span class="asgreek">πετασθήσονται</span></big> <sup><small><small>[[G8780]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| an eagle | <big><span class="asgreek">αετός</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
+| eager | <big><span class="asgreek">πρόθυμος</span></big> <sup><small><small>[[G4289]]</small></small></sup> |
+| for \[something\] | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to eat. | <big><span class="asgreek">φαγείν</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
 [[Hab.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.7|<< Habakkuk 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.9|Habakkuk 1:9 >>]]</td></tr></table>
 
 

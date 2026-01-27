@@ -9,18 +9,18 @@ The people will curse the hoarder of grain, but blessing will crown the one who 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hoarding | <span class="asgreek">συνέχων <sup><small><small>[[G4912]]</small></small></sup> </span> |
-| grain | <span class="asgreek">σίτον <sup><small><small>[[G4621]]</small></small></sup> </span> |
-| May | <span class="asgreek">υπολείποιτο <sup><small><small>[[G5275]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations; | <span class="asgreek">έθνεσιν <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| but a blessing | <span class="asgreek">ευλογία <sup><small><small>[[G2129]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[be\] on | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] head | <span class="asgreek">κεφαλήν <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one sharing. | <span class="asgreek">μεταδιδόντος <sup><small><small>[[G3330]]</small></small></sup> </span> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hoarding | <big><span class="asgreek">συνέχων</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
+| grain | <big><span class="asgreek">σίτον</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
+| May | <big><span class="asgreek">υπολείποιτο</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations; | <big><span class="asgreek">έθνεσιν</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| but a blessing | <big><span class="asgreek">ευλογία</span></big> <sup><small><small>[[G2129]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[be\] on | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one sharing. | <big><span class="asgreek">μεταδιδόντος</span></big> <sup><small><small>[[G3330]]</small></small></sup> |
 [[Prov.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.25|<< Proverbs 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.27|Proverbs 11:27 >>]]</td></tr></table>
 
 

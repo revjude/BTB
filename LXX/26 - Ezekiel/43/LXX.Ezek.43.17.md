@@ -9,41 +9,41 @@ The ledge shall also be square, fourteen cubits long and fourteen cubits wide, w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| atonement-seat | <span class="asgreek">ιλαστήριον <sup><small><small>[[G2435]]</small></small></sup> </span> |
-| cubits | <span class="asgreek">πηχών <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| \[was\] fourteen | <span class="asgreek">δεκατεσσάρων <sup><small><small>[[G1180]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[in\] length | <span class="asgreek">μήκος <sup><small><small>[[G3372]]</small></small></sup> </span> |
-| by | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| cubits | <span class="asgreek">πήχεις <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| fourteen | <span class="asgreek">δεκατέσσαρας <sup><small><small>[[G1180]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[in\] breadth | <span class="asgreek">εύρος <sup><small><small>[[G7563]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| four | <span class="asgreek">τέσσαρα <sup><small><small>[[G5064]]</small></small></sup> </span> |
-| parts | <span class="asgreek">μέρη <sup><small><small>[[G3313]]</small></small></sup> </span> |
-| its | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its molding | <span class="asgreek">γείσος <sup><small><small>[[G6723]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| encircling | <span class="asgreek">κυκλούμενον <sup><small><small>[[G2944]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| round about -- | <span class="asgreek">κυκλόθεν <sup><small><small>[[G2943]]</small></small></sup> </span> |
-| a half | <span class="asgreek">ήμισυ <sup><small><small>[[G2255]]</small></small></sup> </span> |
-| cubit; | <span class="asgreek">πήχεως <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its encircling \[base\] | <span class="asgreek">κύκλωμα <sup><small><small>[[G8119]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[was\] a cubit | <span class="asgreek">πήχυς <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| round about; | <span class="asgreek">κυκλόθεν <sup><small><small>[[G2943]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its steps | <span class="asgreek">κλημακτήρες <sup><small><small>[[G8024]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| looked | <span class="asgreek">βλέποντες <sup><small><small>[[G0991]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \[the\] east. | <span class="asgreek">ανατολάς <sup><small><small>[[G0395]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| atonement-seat | <big><span class="asgreek">ιλαστήριον</span></big> <sup><small><small>[[G2435]]</small></small></sup> |
+| cubits | <big><span class="asgreek">πηχών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| \[was\] fourteen | <big><span class="asgreek">δεκατεσσάρων</span></big> <sup><small><small>[[G1180]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[in\] length | <big><span class="asgreek">μήκος</span></big> <sup><small><small>[[G3372]]</small></small></sup> |
+| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| cubits | <big><span class="asgreek">πήχεις</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| fourteen | <big><span class="asgreek">δεκατέσσαρας</span></big> <sup><small><small>[[G1180]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[in\] breadth | <big><span class="asgreek">εύρος</span></big> <sup><small><small>[[G7563]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| four | <big><span class="asgreek">τέσσαρα</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| parts | <big><span class="asgreek">μέρη</span></big> <sup><small><small>[[G3313]]</small></small></sup> |
+| its | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its molding | <big><span class="asgreek">γείσος</span></big> <sup><small><small>[[G6723]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| encircling | <big><span class="asgreek">κυκλούμενον</span></big> <sup><small><small>[[G2944]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| round about -- | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| a half | <big><span class="asgreek">ήμισυ</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
+| cubit; | <big><span class="asgreek">πήχεως</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its encircling \[base\] | <big><span class="asgreek">κύκλωμα</span></big> <sup><small><small>[[G8119]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[was\] a cubit | <big><span class="asgreek">πήχυς</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| round about; | <big><span class="asgreek">κυκλόθεν</span></big> <sup><small><small>[[G2943]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its steps | <big><span class="asgreek">κλημακτήρες</span></big> <sup><small><small>[[G8024]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| looked | <big><span class="asgreek">βλέποντες</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \[the\] east. | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
 [[Ezek.43.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.16|<< Ezekiel 43:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.18|Ezekiel 43:18 >>]]</td></tr></table>
 
 

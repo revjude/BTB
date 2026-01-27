@@ -9,18 +9,18 @@ Now a river flowed out of Eden to water the garden, and from there it branched i
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And a river | <span class="asgreek">ποταμός <sup><small><small>[[G4215]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| goes forth | <span class="asgreek">εκπορεύεται <sup><small><small>[[G1607]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Eden | <span class="asgreek">Εδέν <sup><small><small>[[H5731b]]</small></small></sup> </span> |
-| to water | <span class="asgreek">ποτίζειν <sup><small><small>[[G4222]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| paradise; | <span class="asgreek">παράδεισον <sup><small><small>[[G3857]]</small></small></sup> </span> |
-| from there | <span class="asgreek">εκείθεν <sup><small><small>[[G1564]]</small></small></sup> </span> |
-| it separates | <span class="asgreek">αφορίζεται <sup><small><small>[[G0873]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| four | <span class="asgreek">τέσσαρας <sup><small><small>[[G5064]]</small></small></sup> </span> |
-| sources. | <span class="asgreek">αρχάς <sup><small><small>[[G0746]]</small></small></sup> </span> |
+| And a river | <big><span class="asgreek">ποταμός</span></big> <sup><small><small>[[G4215]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| goes forth | <big><span class="asgreek">εκπορεύεται</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Eden | <big><span class="asgreek">Εδέν</span></big> <sup><small><small>[[H5731b]]</small></small></sup> |
+| to water | <big><span class="asgreek">ποτίζειν</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| paradise; | <big><span class="asgreek">παράδεισον</span></big> <sup><small><small>[[G3857]]</small></small></sup> |
+| from there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
+| it separates | <big><span class="asgreek">αφορίζεται</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| four | <big><span class="asgreek">τέσσαρας</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| sources. | <big><span class="asgreek">αρχάς</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
 [[Gen.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.9|<< Genesis 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.11|Genesis 2:11 >>]]</td></tr></table>
 
 

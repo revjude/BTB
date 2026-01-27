@@ -13,27 +13,27 @@ Then they will say, ‘This land that was desolate has become like the garden of
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall say, | <span class="asgreek">ερούσιν <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| That land, | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> <span class="asgreek">εκείνη <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| the one | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being obliterated | <span class="asgreek">ηφανισμένη <sup><small><small>[[G0853]]</small></small></sup> </span> |
-| was become | <span class="asgreek">εγενήθη <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a garden | <span class="asgreek">κήπος <sup><small><small>[[G2779]]</small></small></sup> </span> |
-| of luxury; | <span class="asgreek">τρυφής <sup><small><small>[[G5172]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cities -- | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| desolate | <span class="asgreek">έρημοι <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| ones having been obliterated, | <span class="asgreek">ηφανισμέναι <sup><small><small>[[G0853]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| having been razed, | <span class="asgreek">κατεσκαμμέναι <sup><small><small>[[G2679]]</small></small></sup> </span> |
-| fortified | <span class="asgreek">οχυραί <sup><small><small>[[G8575]]</small></small></sup> </span> |
-| they sat | <span class="asgreek">εκάθισαν <sup><small><small>[[G2523]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall say, | <big><span class="asgreek">ερούσιν</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| That land, | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being obliterated | <big><span class="asgreek">ηφανισμένη</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| was become | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a garden | <big><span class="asgreek">κήπος</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
+| of luxury; | <big><span class="asgreek">τρυφής</span></big> <sup><small><small>[[G5172]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cities -- | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| desolate | <big><span class="asgreek">έρημοι</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| ones having been obliterated, | <big><span class="asgreek">ηφανισμέναι</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| having been razed, | <big><span class="asgreek">κατεσκαμμέναι</span></big> <sup><small><small>[[G2679]]</small></small></sup> |
+| fortified | <big><span class="asgreek">οχυραί</span></big> <sup><small><small>[[G8575]]</small></small></sup> |
+| they sat | <big><span class="asgreek">εκάθισαν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
 [[Ezek.36.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.34|<< Ezekiel 36:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.36|Ezekiel 36:36 >>]]</td></tr></table>
 
 

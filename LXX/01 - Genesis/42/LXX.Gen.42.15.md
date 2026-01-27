@@ -9,25 +9,25 @@ And this is how you will be tested: As surely as Pharaoh lives, you shall not le
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτω <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| you shall appear \[exposed\], | <span class="asgreek">φανείσθε <sup><small><small>[[G5316]]</small></small></sup> </span> |
-| by | <span class="asgreek">νη <sup><small><small>[[G3513]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| health | <span class="asgreek">υγίειαν <sup><small><small>[[G9523]]</small></small></sup> </span> |
-| of Pharaoh, | <span class="asgreek">Φαραώ <sup><small><small>[[G5328]]</small></small></sup> </span> |
-| no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| should you go forth | <span class="asgreek">εξέλθητε <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| from here, | <span class="asgreek">εντεύθεν <sup><small><small>[[G1782]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| brother | <span class="asgreek">αδελφός <sup><small><small>[[G0080]]</small></small></sup> </span> |
-| your | <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| younger | <span class="asgreek">νεώτερος <sup><small><small>[[G3501]]</small></small></sup> </span> |
-| come | <span class="asgreek">έλθη <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| here. | <span class="asgreek">ώδε <sup><small><small>[[G5602]]</small></small></sup> </span> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| you shall appear \[exposed\], | <big><span class="asgreek">φανείσθε</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
+| by | <big><span class="asgreek">νη</span></big> <sup><small><small>[[G3513]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| health | <big><span class="asgreek">υγίειαν</span></big> <sup><small><small>[[G9523]]</small></small></sup> |
+| of Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
+| no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| should you go forth | <big><span class="asgreek">εξέλθητε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| from here, | <big><span class="asgreek">εντεύθεν</span></big> <sup><small><small>[[G1782]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| brother | <big><span class="asgreek">αδελφός</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
+| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| younger | <big><span class="asgreek">νεώτερος</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
+| come | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| here. | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
 [[Gen.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.14|<< Genesis 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.16|Genesis 42:16 >>]]</td></tr></table>
 
 

@@ -9,44 +9,44 @@ O LORD, I have heard the report of You; I stand in awe, O LORD, of Your deeds. R
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| I listened to | <span class="asgreek">εισακήκοα <sup><small><small>[[G1522]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your report, | <span class="asgreek">ακοήν <sup><small><small>[[G0189]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I feared. | <span class="asgreek">εφοβήθην <sup><small><small>[[G5399]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| I contemplated | <span class="asgreek">κατενόησα <sup><small><small>[[G2657]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your works, | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| was startled. | <span class="asgreek">εξέστην <sup><small><small>[[G1839]]</small></small></sup> </span> |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] midst | <span class="asgreek">μέσω <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| \[of the\] two | <span class="asgreek">δυό <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| living creatures | <span class="asgreek">ζώων <sup><small><small>[[G2226]]</small></small></sup> </span> |
-| you shall be known; | <span class="asgreek">γνωσθήση <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| approaching | <span class="asgreek">εγγίζειν <sup><small><small>[[G1448]]</small></small></sup> </span> |
-| of the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| years | <span class="asgreek">έτη <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| you shall be recognized; | <span class="asgreek">επιγνωσθήση <sup><small><small>[[G1921]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| at hand | <span class="asgreek">παρείναι <sup><small><small>[[G3918]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| time | <span class="asgreek">καιρόν <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| you shall be made manifest | <span class="asgreek">αναδειχθήση <sup><small><small>[[G0322]]</small></small></sup> </span> |
-| when | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| is disturbed | <span class="asgreek">ταραχθήναι <sup><small><small>[[G5015]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my soul | <span class="asgreek">ψυχήν <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| wrath | <span class="asgreek">οργή <sup><small><small>[[G3709]]</small></small></sup> </span> |
-| mercy | <span class="asgreek">ελέους <sup><small><small>[[G1656]]</small></small></sup> </span> |
-| you shall remember | <span class="asgreek">μνησθήση <sup><small><small>[[G3403]]</small></small></sup> </span> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| I listened to | <big><span class="asgreek">εισακήκοα</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your report, | <big><span class="asgreek">ακοήν</span></big> <sup><small><small>[[G0189]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I feared. | <big><span class="asgreek">εφοβήθην</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| I contemplated | <big><span class="asgreek">κατενόησα</span></big> <sup><small><small>[[G2657]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your works, | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| was startled. | <big><span class="asgreek">εξέστην</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] midst | <big><span class="asgreek">μέσω</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| \[of the\] two | <big><span class="asgreek">δυό</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| living creatures | <big><span class="asgreek">ζώων</span></big> <sup><small><small>[[G2226]]</small></small></sup> |
+| you shall be known; | <big><span class="asgreek">γνωσθήση</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| approaching | <big><span class="asgreek">εγγίζειν</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| of the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| years | <big><span class="asgreek">έτη</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| you shall be recognized; | <big><span class="asgreek">επιγνωσθήση</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| at hand | <big><span class="asgreek">παρείναι</span></big> <sup><small><small>[[G3918]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| time | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| you shall be made manifest | <big><span class="asgreek">αναδειχθήση</span></big> <sup><small><small>[[G0322]]</small></small></sup> |
+| when | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| is disturbed | <big><span class="asgreek">ταραχθήναι</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| wrath | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
+| mercy | <big><span class="asgreek">ελέους</span></big> <sup><small><small>[[G1656]]</small></small></sup> |
+| you shall remember | <big><span class="asgreek">μνησθήση</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
 [[Hab.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.1|<< Habakkuk 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.3|Habakkuk 3:3 >>]]</td></tr></table>
 
 

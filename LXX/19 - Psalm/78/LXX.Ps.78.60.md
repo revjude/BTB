@@ -9,16 +9,16 @@ He abandoned the tabernacle of Shiloh, the tent He had pitched among men.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he thrust away | <span class="asgreek">απώσατο <sup><small><small>[[G0683]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tent | <span class="asgreek">σκηνήν <sup><small><small>[[G4633]]</small></small></sup> </span> |
-| of Shiloh, | <span class="asgreek">Σηλώμ <sup><small><small>[[H7975a]]</small></small></sup> </span> |
-| \[the\] tent | <span class="asgreek">σκήνωμα <sup><small><small>[[G4638]]</small></small></sup> </span> |
-| in which | <span class="asgreek">ο <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he encamped | <span class="asgreek">κατεσκήνωσεν <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| men. | <span class="asgreek">ανθρώποις <sup><small><small>[[G0444]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he thrust away | <big><span class="asgreek">απώσατο</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tent | <big><span class="asgreek">σκηνήν</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| of Shiloh, | <big><span class="asgreek">Σηλώμ</span></big> <sup><small><small>[[H7975a]]</small></small></sup> |
+| \[the\] tent | <big><span class="asgreek">σκήνωμα</span></big> <sup><small><small>[[G4638]]</small></small></sup> |
+| in which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he encamped | <big><span class="asgreek">κατεσκήνωσεν</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| men. | <big><span class="asgreek">ανθρώποις</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
 [[Ps.78.60|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.59|<< Psalm 78:59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.61|Psalm 78:61 >>]]</td></tr></table>
 
 

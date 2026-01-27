@@ -12,35 +12,35 @@ In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoke
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| year | <span class="asgreek">ετους <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| \[In the\] first | <span class="asgreek">πρώτου <sup><small><small>[[G4413]]</small></small></sup> </span> |
-| of Cyrus | <span class="asgreek">Κύρου <sup><small><small>[[H3567]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of \[the\] Persians, | <span class="asgreek">Περσών <sup><small><small>[[H6539]]</small></small></sup> </span> |
-| after | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fulfillment | <span class="asgreek">πληρωθήναι <sup><small><small>[[G4137]]</small></small></sup> </span> |
-| of \[the\] saying | <span class="asgreek">ρήμα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| through | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| \[the\] mouth | <span class="asgreek">στόματος <sup><small><small>[[G4750]]</small></small></sup> </span> |
-| of Jeremiah, | <span class="asgreek">Ιερεμίου <sup><small><small>[[G2408]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> awakened | <span class="asgreek">εξήγειρε <sup><small><small>[[G1825]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| spirit | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| of Cyrus | <span class="asgreek">Κύρου <sup><small><small>[[H3567]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of \[the\] Persians. | <span class="asgreek">Περσών <sup><small><small>[[H6539]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he exhorted | <span class="asgreek">παρήγγειλε <sup><small><small>[[G3853]]</small></small></sup> </span> |
-| to proclaim | <span class="asgreek">κηρύξαι <sup><small><small>[[G2784]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάση <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his kingdom | <span class="asgreek">βασιλεία <sup><small><small>[[G0932]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| writing, | <span class="asgreek">γραπτώ <sup><small><small>[[G1123]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
+| year | <big><span class="asgreek">ετους</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| \[In the\] first | <big><span class="asgreek">πρώτου</span></big> <sup><small><small>[[G4413]]</small></small></sup> |
+| of Cyrus | <big><span class="asgreek">Κύρου</span></big> <sup><small><small>[[H3567]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of \[the\] Persians, | <big><span class="asgreek">Περσών</span></big> <sup><small><small>[[H6539]]</small></small></sup> |
+| after | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fulfillment | <big><span class="asgreek">πληρωθήναι</span></big> <sup><small><small>[[G4137]]</small></small></sup> |
+| of \[the\] saying | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| through | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| \[the\] mouth | <big><span class="asgreek">στόματος</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
+| of Jeremiah, | <big><span class="asgreek">Ιερεμίου</span></big> <sup><small><small>[[G2408]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> awakened | <big><span class="asgreek">εξήγειρε</span></big> <sup><small><small>[[G1825]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| of Cyrus | <big><span class="asgreek">Κύρου</span></big> <sup><small><small>[[H3567]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of \[the\] Persians. | <big><span class="asgreek">Περσών</span></big> <sup><small><small>[[H6539]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he exhorted | <big><span class="asgreek">παρήγγειλε</span></big> <sup><small><small>[[G3853]]</small></small></sup> |
+| to proclaim | <big><span class="asgreek">κηρύξαι</span></big> <sup><small><small>[[G2784]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| all | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| writing, | <big><span class="asgreek">γραπτώ</span></big> <sup><small><small>[[G1123]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
 [[2Chr.36.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.21|<< 2 Chronicles 36:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.23|2 Chronicles 36:23 >>]]</td></tr></table>
 
 

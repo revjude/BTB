@@ -9,16 +9,16 @@ their festive robes, capes, cloaks, and purses;<small><sub>**MT:**</sub></small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cloths | <span class="asgreek">επιβλήματα <sup><small><small>[[G1915]]</small></small></sup> </span> |
-| for | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house, | <span class="asgreek">οικίαν <sup><small><small>[[G3614]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| transparencies | <span class="asgreek">διαφανή <sup><small><small>[[G1307]]</small></small></sup> </span> |
-| of Lakonika, | <span class="asgreek">Λακωνικά <sup><small><small>[[H2754]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cloths | <big><span class="asgreek">επιβλήματα</span></big> <sup><small><small>[[G1915]]</small></small></sup> |
+| for | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house, | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| transparencies | <big><span class="asgreek">διαφανή</span></big> <sup><small><small>[[G1307]]</small></small></sup> |
+| of Lakonika, | <big><span class="asgreek">Λακωνικά</span></big> <sup><small><small>[[H2754]]</small></small></sup> |
 [[Isa.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.21|<< Isaiah 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.23|Isaiah 3:23 >>]]</td></tr></table>
 
 

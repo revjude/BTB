@@ -9,25 +9,25 @@ Make fifty bronze clasps and put them through the loops to join the tent togethe
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall make | <span class="asgreek">ποιήσεις <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| hooks | <span class="asgreek">κρίκους <sup><small><small>[[G8095]]</small></small></sup> </span> |
-| of brass | <span class="asgreek">χαλκούς <sup><small><small>[[G5470]]</small></small></sup> </span> |
-| fifty | <span class="asgreek">πεντήκοντα <sup><small><small>[[G4004]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall join together | <span class="asgreek">συνάψεις <sup><small><small>[[G9297]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hooks | <span class="asgreek">κρίκους <sup><small><small>[[G8095]]</small></small></sup> </span> |
-| by | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hooks, | <span class="asgreek">αγκύλων <sup><small><small>[[G6117]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall join together | <span class="asgreek">συνάψεις <sup><small><small>[[G9297]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hide coverings, | <span class="asgreek">δέρρεις <sup><small><small>[[G6801]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it shall be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| one. | <span class="asgreek">εν <sup><small><small>[[G1520]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall make | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| hooks | <big><span class="asgreek">κρίκους</span></big> <sup><small><small>[[G8095]]</small></small></sup> |
+| of brass | <big><span class="asgreek">χαλκούς</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
+| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall join together | <big><span class="asgreek">συνάψεις</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hooks | <big><span class="asgreek">κρίκους</span></big> <sup><small><small>[[G8095]]</small></small></sup> |
+| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hooks, | <big><span class="asgreek">αγκύλων</span></big> <sup><small><small>[[G6117]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall join together | <big><span class="asgreek">συνάψεις</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hide coverings, | <big><span class="asgreek">δέρρεις</span></big> <sup><small><small>[[G6801]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| one. | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
 [[Exod.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.10|<< Exodus 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.12|Exodus 26:12 >>]]</td></tr></table>
 
 

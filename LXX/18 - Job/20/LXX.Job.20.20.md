@@ -9,15 +9,15 @@ Because his appetite is never satisfied, he cannot escape with his treasure.<sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| is not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| His | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| safety | <span class="asgreek">σωτηρία <sup><small><small>[[G4991]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| possessions; | <span class="asgreek">υπάρχουσιν <sup><small><small>[[G5225]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| his desire | <span class="asgreek">επιθυμία <sup><small><small>[[G1939]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he will not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| escape. | <span class="asgreek">σωθήσεται <sup><small><small>[[G4982]]</small></small></sup> </span> |
+| is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| His | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| safety | <big><span class="asgreek">σωτηρία</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
+| in the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| possessions; | <big><span class="asgreek">υπάρχουσιν</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| his desire | <big><span class="asgreek">επιθυμία</span></big> <sup><small><small>[[G1939]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he will not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| escape. | <big><span class="asgreek">σωθήσεται</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
 [[Job.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.19|<< Job 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.21|Job 20:21 >>]]</td></tr></table>
 
 

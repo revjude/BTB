@@ -9,17 +9,17 @@ Many daughters have done virtuously, but thou excellest them all.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Many | <span class="asgreek">πολλαί <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| daughters | <span class="asgreek">θυγατέρες <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| acquired | <span class="asgreek">εκτήσαντο <sup><small><small>[[G2932]]</small></small></sup> </span> |
-| riches; | <span class="asgreek">πλούτον <sup><small><small>[[G4149]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλαί <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| acted | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| with ability; | <span class="asgreek">δύναμιν <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| but you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| have precedence -- | <span class="asgreek">υπέρκεισαι <sup><small><small>[[G9551]]</small></small></sup> </span> |
-| you are elevated above | <span class="asgreek">υπερήρας <sup><small><small>[[G5229]]</small></small></sup> </span> |
-| all. | <span class="asgreek">πάσας <sup><small><small>[[G3956]]</small></small></sup> </span> |
+| Many | <big><span class="asgreek">πολλαί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| daughters | <big><span class="asgreek">θυγατέρες</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| acquired | <big><span class="asgreek">εκτήσαντο</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
+| riches; | <big><span class="asgreek">πλούτον</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλαί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| acted | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| with ability; | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| but you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| have precedence -- | <big><span class="asgreek">υπέρκεισαι</span></big> <sup><small><small>[[G9551]]</small></small></sup> |
+| you are elevated above | <big><span class="asgreek">υπερήρας</span></big> <sup><small><small>[[G5229]]</small></small></sup> |
+| all. | <big><span class="asgreek">πάσας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
 [[Prov.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.28|<< Proverbs 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.30|Proverbs 31:30 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ For to them, deep darkness is their morning; surely they are friends with the te
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| with one accord | <span class="asgreek">ομοθυμαδόν <sup><small><small>[[G3661]]</small></small></sup> </span> |
-| to them | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in the morning | <span class="asgreek">τοπρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| \[is the\] shadow | <span class="asgreek">σκιά <sup><small><small>[[G4639]]</small></small></sup> </span> |
-| of death; | <span class="asgreek">θανάτου <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[each\] shall realize | <span class="asgreek">επιγνώσεται <sup><small><small>[[G1921]]</small></small></sup> </span> |
-| \[the\] disturbances | <span class="asgreek">ταραχάς <sup><small><small>[[G5016]]</small></small></sup> </span> |
-| of \[the\] shadow | <span class="asgreek">σκιάς <sup><small><small>[[G4639]]</small></small></sup> </span> |
-| of death. | <span class="asgreek">θανάτου <sup><small><small>[[G2288]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| with one accord | <big><span class="asgreek">ομοθυμαδόν</span></big> <sup><small><small>[[G3661]]</small></small></sup> |
+| to them | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in the morning | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| \[is the\] shadow | <big><span class="asgreek">σκιά</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
+| of death; | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[each\] shall realize | <big><span class="asgreek">επιγνώσεται</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
+| \[the\] disturbances | <big><span class="asgreek">ταραχάς</span></big> <sup><small><small>[[G5016]]</small></small></sup> |
+| of \[the\] shadow | <big><span class="asgreek">σκιάς</span></big> <sup><small><small>[[G4639]]</small></small></sup> |
+| of death. | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
 [[Job.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.16|<< Job 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.18|Job 24:18 >>]]</td></tr></table>
 
 

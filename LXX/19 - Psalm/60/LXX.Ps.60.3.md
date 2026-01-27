@@ -9,14 +9,14 @@ You have shown Your people hardship; we are staggered from the wine You made us 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You showed | <span class="asgreek">έδειξας <sup><small><small>[[G1166]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your people | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| hard \[things\]; | <span class="asgreek">σκληρά <sup><small><small>[[G4642]]</small></small></sup> </span> |
-| you watered | <span class="asgreek">επότισας <sup><small><small>[[G4222]]</small></small></sup> </span> |
-| us \[down\] | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[with the\] wine | <span class="asgreek">οίνον <sup><small><small>[[G3631]]</small></small></sup> </span> |
-| of vexation. | <span class="asgreek">κατανύξεως <sup><small><small>[[G2659]]</small></small></sup> </span> |
+| You showed | <big><span class="asgreek">έδειξας</span></big> <sup><small><small>[[G1166]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| hard \[things\]; | <big><span class="asgreek">σκληρά</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
+| you watered | <big><span class="asgreek">επότισας</span></big> <sup><small><small>[[G4222]]</small></small></sup> |
+| us \[down\] | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[with the\] wine | <big><span class="asgreek">οίνον</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| of vexation. | <big><span class="asgreek">κατανύξεως</span></big> <sup><small><small>[[G2659]]</small></small></sup> |
 [[Ps.60.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.60.2|<< Psalm 60:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.4|Psalm 60:4 >>]]</td></tr></table>
 
 

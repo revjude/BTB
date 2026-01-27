@@ -9,15 +9,15 @@ Ears that hear and eyes that see—the LORD has made them both.<small><sub>**MT
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] ear | <span class="asgreek">ους <sup><small><small>[[G3775]]</small></small></sup> </span> |
-| hears, | <span class="asgreek">ακούει <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] eye | <span class="asgreek">οφθαλμός <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| sees; | <span class="asgreek">ορά <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| \[of the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \[are the\] works | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| both | <span class="asgreek">αμφότερα <sup><small><small>[[G0297]]</small></small></sup> </span> |
+| \[The\] ear | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
+| hears, | <big><span class="asgreek">ακούει</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| sees; | <big><span class="asgreek">ορά</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| \[of the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[are the\] works | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| both | <big><span class="asgreek">αμφότερα</span></big> <sup><small><small>[[G0297]]</small></small></sup> |
 [[Prov.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.11|<< Proverbs 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.13|Proverbs 20:13 >>]]</td></tr></table>
 
 

@@ -9,26 +9,26 @@ He lifts a banner for the distant nations and whistles for those at the ends of 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Accordingly | <span class="asgreek">τοιγαρούν <sup><small><small>[[G5105]]</small></small></sup> </span> |
-| he shall lift up | <span class="asgreek">αρεί <sup><small><small>[[G0142]]</small></small></sup> </span> |
-| an agreed upon sign | <span class="asgreek">σύσσημον <sup><small><small>[[G4953]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations | <span class="asgreek">έθνεσι <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| far off; | <span class="asgreek">μακρόθεν <sup><small><small>[[G3113]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall whistle at | <span class="asgreek">συριεί <sup><small><small>[[G9349]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] uttermost part | <span class="asgreek">άκρου <sup><small><small>[[G6208]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth; | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| quickly | <span class="asgreek">ταχύ <sup><small><small>[[G5036]]</small></small></sup> </span> |
-| nimbly | <span class="asgreek">κούφως <sup><small><small>[[G8081]]</small></small></sup> </span> |
-| they come. | <span class="asgreek">έρχονται <sup><small><small>[[G2064]]</small></small></sup> </span> |
+| Accordingly | <big><span class="asgreek">τοιγαρούν</span></big> <sup><small><small>[[G5105]]</small></small></sup> |
+| he shall lift up | <big><span class="asgreek">αρεί</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
+| an agreed upon sign | <big><span class="asgreek">σύσσημον</span></big> <sup><small><small>[[G4953]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations | <big><span class="asgreek">έθνεσι</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| far off; | <big><span class="asgreek">μακρόθεν</span></big> <sup><small><small>[[G3113]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall whistle at | <big><span class="asgreek">συριεί</span></big> <sup><small><small>[[G9349]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] uttermost part | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| quickly | <big><span class="asgreek">ταχύ</span></big> <sup><small><small>[[G5036]]</small></small></sup> |
+| nimbly | <big><span class="asgreek">κούφως</span></big> <sup><small><small>[[G8081]]</small></small></sup> |
+| they come. | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
 [[Isa.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.25|<< Isaiah 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.27|Isaiah 5:27 >>]]</td></tr></table>
 
 

@@ -11,23 +11,23 @@ Those who chased us were swifter than the eagles in the sky; they pursued us ove
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΚΩΦ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΚΩΦ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| nimble | <span class="asgreek">κούφοι <sup><small><small>[[G8080]]</small></small></sup> </span> |
-| were | <span class="asgreek">εγένοντο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| The ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| pursuing | <span class="asgreek">διώκοντες <sup><small><small>[[G1377]]</small></small></sup> </span> |
-| us | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| more than | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| eagles | <span class="asgreek">αετούς <sup><small><small>[[G0105]]</small></small></sup> </span> |
-| of heaven. | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| Upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mountains | <span class="asgreek">ορέων <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| they perched; | <span class="asgreek">εξήφθησαν <sup><small><small>[[G7299]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a wilderness | <span class="asgreek">ερήμω <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| they lie in wait | <span class="asgreek">ενήδρευσαν <sup><small><small>[[G1748]]</small></small></sup> </span> |
-| for us. | <span class="asgreek">ημάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| ΚΩΦ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΚΩΦ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| nimble | <big><span class="asgreek">κούφοι</span></big> <sup><small><small>[[G8080]]</small></small></sup> |
+| were | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| pursuing | <big><span class="asgreek">διώκοντες</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
+| us | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| more than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| eagles | <big><span class="asgreek">αετούς</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
+| of heaven. | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| they perched; | <big><span class="asgreek">εξήφθησαν</span></big> <sup><small><small>[[G7299]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a wilderness | <big><span class="asgreek">ερήμω</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| they lie in wait | <big><span class="asgreek">ενήδρευσαν</span></big> <sup><small><small>[[G1748]]</small></small></sup> |
+| for us. | <big><span class="asgreek">ημάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lam.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.18|<< Lamentations 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.20|Lamentations 4:20 >>]]</td></tr></table>
 
 

@@ -9,10 +9,10 @@ For you will have a covenant with the stones of the field, and the wild animals 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| for \[the\] beasts | <span class="asgreek">θήρες <sup><small><small>[[G7668]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| of \[the\] wild | <span class="asgreek">άγριοι <sup><small><small>[[G0066]]</small></small></sup> </span> |
-| shall make peace | <span class="asgreek">ειρηνεύσουσί <sup><small><small>[[G1514]]</small></small></sup> </span> |
-| with you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| for \[the\] beasts | <big><span class="asgreek">θήρες</span></big> <sup><small><small>[[G7668]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| of \[the\] wild | <big><span class="asgreek">άγριοι</span></big> <sup><small><small>[[G0066]]</small></small></sup> |
+| shall make peace | <big><span class="asgreek">ειρηνεύσουσί</span></big> <sup><small><small>[[G1514]]</small></small></sup> |
+| with you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.5.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.22|<< Job 5:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.24|Job 5:24 >>]]</td></tr></table>
 
 

@@ -9,25 +9,25 @@ Be forewarned, O Jerusalem, or I will turn away from you; I will make you a deso
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In misery | <span class="asgreek">πόνω <sup><small><small>[[G4192]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[with\] a whip | <span class="asgreek">μάστιγι <sup><small><small>[[G3148]]</small></small></sup> </span> |
-| you shall be corrected, | <span class="asgreek">παιδευθήση <sup><small><small>[[G3811]]</small></small></sup> </span> |
-| O Jerusalem, | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| lest | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| should depart | <span class="asgreek">αποστή <sup><small><small>[[G0868]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| you; | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| lest | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| I should make | <span class="asgreek">ποιήσω <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| an untrodden | <span class="asgreek">άβατον <sup><small><small>[[G6101]]</small></small></sup> </span> |
-| land, | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| which | <span class="asgreek">ήτις <sup><small><small>[[G3748]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be settled in. | <span class="asgreek">κατοικισθήσεται <sup><small><small>[[G6052]]</small></small></sup> </span> |
+| In misery | <big><span class="asgreek">πόνω</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[with\] a whip | <big><span class="asgreek">μάστιγι</span></big> <sup><small><small>[[G3148]]</small></small></sup> |
+| you shall be corrected, | <big><span class="asgreek">παιδευθήση</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
+| O Jerusalem, | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| should depart | <big><span class="asgreek">αποστή</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| I should make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| an untrodden | <big><span class="asgreek">άβατον</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
+| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be settled in. | <big><span class="asgreek">κατοικισθήσεται</span></big> <sup><small><small>[[G6052]]</small></small></sup> |
 [[Jer.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.7|<< Jeremiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.9|Jeremiah 6:9 >>]]</td></tr></table>
 
 

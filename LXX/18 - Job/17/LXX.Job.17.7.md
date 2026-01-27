@@ -9,16 +9,16 @@ My eyes have grown dim with grief, and my whole body is but a shadow.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| are calloused | <span class="asgreek">πεπώρωνται <sup><small><small>[[G4456]]</small></small></sup> </span> |
-| For | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| wrath | <span class="asgreek">οργής <sup><small><small>[[G3709]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my eyes | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I have been assaulted | <span class="asgreek">πεπολιόρκημαι <sup><small><small>[[G8843]]</small></small></sup> </span> |
-| greatly | <span class="asgreek">μεγάλως <sup><small><small>[[G3171]]</small></small></sup> </span> |
-| by | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| all. | <span class="asgreek">πάντων <sup><small><small>[[G3956]]</small></small></sup> </span> |
+| are calloused | <big><span class="asgreek">πεπώρωνται</span></big> <sup><small><small>[[G4456]]</small></small></sup> |
+| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| wrath | <big><span class="asgreek">οργής</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I have been assaulted | <big><span class="asgreek">πεπολιόρκημαι</span></big> <sup><small><small>[[G8843]]</small></small></sup> |
+| greatly | <big><span class="asgreek">μεγάλως</span></big> <sup><small><small>[[G3171]]</small></small></sup> |
+| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| all. | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
 [[Job.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.6|<< Job 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.8|Job 17:8 >>]]</td></tr></table>
 
 

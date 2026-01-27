@@ -9,15 +9,15 @@ Though he heaps up silver like dust and piles up a wardrobe like clay,<small><s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| he should have gathered together | <span class="asgreek">συναγάγη <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| silver | <span class="asgreek">αργύριον <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| and equally | <span class="asgreek">ίσα <sup><small><small>[[G2470]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| as mortar | <span class="asgreek">πηλώ <sup><small><small>[[G4081]]</small></small></sup> </span> |
-| shall prepare | <span class="asgreek">ετοιμάση <sup><small><small>[[G2090]]</small></small></sup> </span> |
-| gold | <span class="asgreek">χρυσίον <sup><small><small>[[G5553]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| he should have gathered together | <big><span class="asgreek">συναγάγη</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| earth | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| silver | <big><span class="asgreek">αργύριον</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| and equally | <big><span class="asgreek">ίσα</span></big> <sup><small><small>[[G2470]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| as mortar | <big><span class="asgreek">πηλώ</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
+| shall prepare | <big><span class="asgreek">ετοιμάση</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
+| gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
 [[Job.27.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.15|<< Job 27:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.17|Job 27:17 >>]]</td></tr></table>
 
 

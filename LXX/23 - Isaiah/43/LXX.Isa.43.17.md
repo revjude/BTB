@@ -9,23 +9,23 @@ who brings out the chariots and horses, the armies and warriors together, to lie
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| leading | <span class="asgreek">εξαγαγών <sup><small><small>[[G1806]]</small></small></sup> </span> |
-| chariots | <span class="asgreek">άρματα <sup><small><small>[[G0716]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| horse, | <span class="asgreek">ίππον <sup><small><small>[[G2462]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| multitude | <span class="asgreek">όχλον <sup><small><small>[[G3793]]</small></small></sup> </span> |
-| a mighty | <span class="asgreek">ισχυρόν <sup><small><small>[[G2478]]</small></small></sup> </span> |
-| but | <span class="asgreek">αλλ΄ <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| they were gone to sleep, | <span class="asgreek">εκοιμήθησαν <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| rise up; | <span class="asgreek">αναστήσονται <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| they were extinguished | <span class="asgreek">εσβέσθησαν <sup><small><small>[[G4570]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a flax | <span class="asgreek">λινόν <sup><small><small>[[G3043]]</small></small></sup> </span> |
-| being extinguished. | <span class="asgreek">εσβεσμένον <sup><small><small>[[G4570]]</small></small></sup> </span> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| leading | <big><span class="asgreek">εξαγαγών</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
+| chariots | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| horse, | <big><span class="asgreek">ίππον</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| multitude | <big><span class="asgreek">όχλον</span></big> <sup><small><small>[[G3793]]</small></small></sup> |
+| a mighty | <big><span class="asgreek">ισχυρόν</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
+| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| they were gone to sleep, | <big><span class="asgreek">εκοιμήθησαν</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| rise up; | <big><span class="asgreek">αναστήσονται</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| they were extinguished | <big><span class="asgreek">εσβέσθησαν</span></big> <sup><small><small>[[G4570]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a flax | <big><span class="asgreek">λινόν</span></big> <sup><small><small>[[G3043]]</small></small></sup> |
+| being extinguished. | <big><span class="asgreek">εσβεσμένον</span></big> <sup><small><small>[[G4570]]</small></small></sup> |
 [[Isa.43.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.16|<< Isaiah 43:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.18|Isaiah 43:18 >>]]</td></tr></table>
 
 

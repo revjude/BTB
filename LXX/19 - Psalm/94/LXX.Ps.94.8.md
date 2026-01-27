@@ -9,16 +9,16 @@ Take notice, O senseless among the people! O fools, when will you be wise?<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Perceive | <span class="asgreek">σύνετε <sup><small><small>[[G4920]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">δη <sup><small><small>[[G1211]]</small></small></sup> </span> |
-| foolish | <span class="asgreek">άφρονες <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| people! | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| O moron, | <span class="asgreek">μωροί <sup><small><small>[[G3474]]</small></small></sup> </span> |
-| at some time or other | <span class="asgreek">ποτέ <sup><small><small>[[G4218]]</small></small></sup> </span> |
-| think | <span class="asgreek">φρονήσατε <sup><small><small>[[G5426]]</small></small></sup> </span> |
+| Perceive | <big><span class="asgreek">σύνετε</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
+| foolish | <big><span class="asgreek">άφρονες</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| people! | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| O moron, | <big><span class="asgreek">μωροί</span></big> <sup><small><small>[[G3474]]</small></small></sup> |
+| at some time or other | <big><span class="asgreek">ποτέ</span></big> <sup><small><small>[[G4218]]</small></small></sup> |
+| think | <big><span class="asgreek">φρονήσατε</span></big> <sup><small><small>[[G5426]]</small></small></sup> |
 [[Ps.94.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.7|<< Psalm 94:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.9|Psalm 94:9 >>]]</td></tr></table>
 
 

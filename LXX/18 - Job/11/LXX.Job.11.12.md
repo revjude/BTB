@@ -9,16 +9,16 @@ But a witless man can no more become wise than the colt of a wild donkey can be 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| otherwise | <span class="asgreek">άλλως <sup><small><small>[[G0247]]</small></small></sup> </span> |
-| shall be over-confident | <span class="asgreek">θρασύνεται <sup><small><small>[[G7685]]</small></small></sup> </span> |
-| with words; | <span class="asgreek">λόγοις <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| but a mortal | <span class="asgreek">βροτός <sup><small><small>[[G6699]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| born | <span class="asgreek">γεννητός <sup><small><small>[[G1084]]</small></small></sup> </span> |
-| of a woman | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| \[is\] equal | <span class="asgreek">ίσα <sup><small><small>[[G2470]]</small></small></sup> </span> |
-| donkey | <span class="asgreek">όνω <sup><small><small>[[G3688]]</small></small></sup> </span> |
-| to a recluse | <span class="asgreek">ερημίτη <sup><small><small>[[G7504]]</small></small></sup> </span> |
+| But man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| otherwise | <big><span class="asgreek">άλλως</span></big> <sup><small><small>[[G0247]]</small></small></sup> |
+| shall be over-confident | <big><span class="asgreek">θρασύνεται</span></big> <sup><small><small>[[G7685]]</small></small></sup> |
+| with words; | <big><span class="asgreek">λόγοις</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| but a mortal | <big><span class="asgreek">βροτός</span></big> <sup><small><small>[[G6699]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| born | <big><span class="asgreek">γεννητός</span></big> <sup><small><small>[[G1084]]</small></small></sup> |
+| of a woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| \[is\] equal | <big><span class="asgreek">ίσα</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
+| donkey | <big><span class="asgreek">όνω</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| to a recluse | <big><span class="asgreek">ερημίτη</span></big> <sup><small><small>[[G7504]]</small></small></sup> |
 [[Job.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.11|<< Job 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.13|Job 11:13 >>]]</td></tr></table>
 
 

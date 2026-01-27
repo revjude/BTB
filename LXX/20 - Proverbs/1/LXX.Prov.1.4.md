@@ -9,16 +9,16 @@ To impart prudence to the simple and knowledge and discretion to the young,<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| he should give | <span class="asgreek">δω <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to \[the\] guileless | <span class="asgreek">ακάκοις <sup><small><small>[[G0172]]</small></small></sup> </span> |
-| astuteness, | <span class="asgreek">πανουργίαν <sup><small><small>[[G3834]]</small></small></sup> </span> |
-| child | <span class="asgreek">παιδί <sup><small><small>[[G3816]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[to the\] young | <span class="asgreek">νέω <sup><small><small>[[G3501]]</small></small></sup> </span> |
-| perception, | <span class="asgreek">αίσθησίν <sup><small><small>[[G0144]]</small></small></sup> </span> |
-| and also | <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| reflection. | <span class="asgreek">έννοιαν <sup><small><small>[[G1771]]</small></small></sup> </span> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| he should give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to \[the\] guileless | <big><span class="asgreek">ακάκοις</span></big> <sup><small><small>[[G0172]]</small></small></sup> |
+| astuteness, | <big><span class="asgreek">πανουργίαν</span></big> <sup><small><small>[[G3834]]</small></small></sup> |
+| child | <big><span class="asgreek">παιδί</span></big> <sup><small><small>[[G3816]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[to the\] young | <big><span class="asgreek">νέω</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
+| perception, | <big><span class="asgreek">αίσθησίν</span></big> <sup><small><small>[[G0144]]</small></small></sup> |
+| and also | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| reflection. | <big><span class="asgreek">έννοιαν</span></big> <sup><small><small>[[G1771]]</small></small></sup> |
 [[Prov.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.3|<< Proverbs 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.5|Proverbs 1:5 >>]]</td></tr></table>
 
 

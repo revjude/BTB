@@ -9,18 +9,18 @@ He pours out contempt on the nobles and makes them wander in a trackless wastela
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| was poured out | <span class="asgreek">εξεχύθη <sup><small><small>[[G1632]]</small></small></sup> </span> |
-| Contempt | <span class="asgreek">εξουδένωσις <sup><small><small>[[G7352]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| their rulers, | <span class="asgreek">άρχοντας <sup><small><small>[[G0758]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he wandered | <span class="asgreek">επλάνησεν <sup><small><small>[[G4105]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| an untrodden \[place\] | <span class="asgreek">αβάτω <sup><small><small>[[G6101]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| no | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| street. | <span class="asgreek">οδώ <sup><small><small>[[G3598]]</small></small></sup> </span> |
+| was poured out | <big><span class="asgreek">εξεχύθη</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
+| Contempt | <big><span class="asgreek">εξουδένωσις</span></big> <sup><small><small>[[G7352]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| their rulers, | <big><span class="asgreek">άρχοντας</span></big> <sup><small><small>[[G0758]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he wandered | <big><span class="asgreek">επλάνησεν</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| an untrodden \[place\] | <big><span class="asgreek">αβάτω</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| no | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| street. | <big><span class="asgreek">οδώ</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
 [[Ps.107.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.39|<< Psalm 107:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.41|Psalm 107:41 >>]]</td></tr></table>
 
 

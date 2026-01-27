@@ -12,22 +12,22 @@ Later, King Belshazzar held a great feast for a thousand of his nobles, and he d
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Belshazzar | <span class="asgreek">Βαλτάσαρ <sup><small><small>[[H1113]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| made | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| supper | <span class="asgreek">δείπνον <sup><small><small>[[G1173]]</small></small></sup> </span> |
-| a great | <span class="asgreek">μέγα <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| for | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his great | <span class="asgreek">μεγιστάσιν <sup><small><small>[[G3175]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| men -- | <span class="asgreek">ανδράσι <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| a thousand; | <span class="asgreek">χιλιοις <sup><small><small>[[G5507]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| before | <span class="asgreek">κατέναντι <sup><small><small>[[G2713]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thousand | <span class="asgreek">χιλίων <sup><small><small>[[G5507]]</small></small></sup> </span> |
-| \[was\] the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wine. | <span class="asgreek">οίνος <sup><small><small>[[G3631]]</small></small></sup> </span> |
+| Belshazzar | <big><span class="asgreek">Βαλτάσαρ</span></big> <sup><small><small>[[H1113]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| supper | <big><span class="asgreek">δείπνον</span></big> <sup><small><small>[[G1173]]</small></small></sup> |
+| a great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| for | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his great | <big><span class="asgreek">μεγιστάσιν</span></big> <sup><small><small>[[G3175]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| men -- | <big><span class="asgreek">ανδράσι</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| a thousand; | <big><span class="asgreek">χιλιοις</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| before | <big><span class="asgreek">κατέναντι</span></big> <sup><small><small>[[G2713]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thousand | <big><span class="asgreek">χιλίων</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
+| \[was\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wine. | <big><span class="asgreek">οίνος</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
 [[Dan.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.37|<< Daniel 4:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.2|Daniel 5:2 >>]]</td></tr></table>
 
 

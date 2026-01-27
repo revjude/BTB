@@ -13,22 +13,22 @@ A drought is upon her waters, and they will be dried up. For it is a land of gra
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her water | <span class="asgreek">ύδατι <sup><small><small>[[G5204]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| It relied | <span class="asgreek">επεποίθει <sup><small><small>[[G3982]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall be disgraced. | <span class="asgreek">καταισχυνθήσονται <sup><small><small>[[G2617]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| a land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of carved \[images\] | <span class="asgreek">γλυπτών <sup><small><small>[[G6745]]</small></small></sup> </span> |
-| it is | <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| islands | <span class="asgreek">νήσοις <sup><small><small>[[G3520]]</small></small></sup> </span> |
-| they gloried over. | <span class="asgreek">κατεκαυχώντο <sup><small><small>[[G2620]]</small></small></sup> </span> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her water | <big><span class="asgreek">ύδατι</span></big> <sup><small><small>[[G5204]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| It relied | <big><span class="asgreek">επεποίθει</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall be disgraced. | <big><span class="asgreek">καταισχυνθήσονται</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| a land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of carved \[images\] | <big><span class="asgreek">γλυπτών</span></big> <sup><small><small>[[G6745]]</small></small></sup> |
+| it is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| islands | <big><span class="asgreek">νήσοις</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
+| they gloried over. | <big><span class="asgreek">κατεκαυχώντο</span></big> <sup><small><small>[[G2620]]</small></small></sup> |
 [[Jer.50.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.37|<< Jeremiah 50:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.39|Jeremiah 50:39 >>]]</td></tr></table>
 
 

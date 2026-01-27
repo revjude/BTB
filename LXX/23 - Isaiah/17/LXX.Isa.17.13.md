@@ -9,35 +9,35 @@ The nations rage like the rush of many waters. He rebukes them, and they flee fa
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| much | <span class="asgreek">πολύ <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| nations | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλά <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδατος <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| much | <span class="asgreek">πολλού <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| by force | <span class="asgreek">βία <sup><small><small>[[G0970]]</small></small></sup> </span> |
-| being brought | <span class="asgreek">φερομένου <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall curse one to be far from | <span class="asgreek">αποσκορακιεί <sup><small><small>[[G6482]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| at a distance from | <span class="asgreek">πόρρω <sup><small><small>[[G4206]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he shall pursue, | <span class="asgreek">διώξεται <sup><small><small>[[G1377]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| dust | <span class="asgreek">χνουν <sup><small><small>[[G9741]]</small></small></sup> </span> |
-| of mountains | <span class="asgreek">ορέων <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| being winnowed | <span class="asgreek">λελικμωμένον <sup><small><small>[[G3039]]</small></small></sup> </span> |
-| before | <span class="asgreek">απέναντι <sup><small><small>[[G0561]]</small></small></sup> </span> |
-| \[the\] wind, | <span class="asgreek">ανέμου <sup><small><small>[[G0417]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a cloud of dust | <span class="asgreek">κονιορτόν <sup><small><small>[[G2868]]</small></small></sup> </span> |
-| of \[the\] wheel | <span class="asgreek">τροχού <sup><small><small>[[G5164]]</small></small></sup> </span> |
-| of a blast | <span class="asgreek">καταιγίδος <sup><small><small>[[G7844]]</small></small></sup> </span> |
-| being brought | <span class="asgreek">φερούσης <sup><small><small>[[G5342]]</small></small></sup> </span> |
+| As | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| much | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| much | <big><span class="asgreek">πολλού</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| by force | <big><span class="asgreek">βία</span></big> <sup><small><small>[[G0970]]</small></small></sup> |
+| being brought | <big><span class="asgreek">φερομένου</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall curse one to be far from | <big><span class="asgreek">αποσκορακιεί</span></big> <sup><small><small>[[G6482]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| at a distance from | <big><span class="asgreek">πόρρω</span></big> <sup><small><small>[[G4206]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he shall pursue, | <big><span class="asgreek">διώξεται</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| dust | <big><span class="asgreek">χνουν</span></big> <sup><small><small>[[G9741]]</small></small></sup> |
+| of mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| being winnowed | <big><span class="asgreek">λελικμωμένον</span></big> <sup><small><small>[[G3039]]</small></small></sup> |
+| before | <big><span class="asgreek">απέναντι</span></big> <sup><small><small>[[G0561]]</small></small></sup> |
+| \[the\] wind, | <big><span class="asgreek">ανέμου</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a cloud of dust | <big><span class="asgreek">κονιορτόν</span></big> <sup><small><small>[[G2868]]</small></small></sup> |
+| of \[the\] wheel | <big><span class="asgreek">τροχού</span></big> <sup><small><small>[[G5164]]</small></small></sup> |
+| of a blast | <big><span class="asgreek">καταιγίδος</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
+| being brought | <big><span class="asgreek">φερούσης</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
 [[Isa.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.12|<< Isaiah 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.14|Isaiah 17:14 >>]]</td></tr></table>
 
 

@@ -13,17 +13,17 @@ Their appearance is like that of horses, and they gallop like swift steeds.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a sight | <span class="asgreek">όρασις <sup><small><small>[[G3706]]</small></small></sup> </span> |
-| of horses | <span class="asgreek">ίππων <sup><small><small>[[G2462]]</small></small></sup> </span> |
-| \[so\] the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| appearance | <span class="asgreek">όψις <sup><small><small>[[G3799]]</small></small></sup> </span> |
-| of them; | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| horsemen | <span class="asgreek">ιππείς <sup><small><small>[[G2460]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| they shall pursue. | <span class="asgreek">καταδιώξονται <sup><small><small>[[G2614]]</small></small></sup> </span> |
+| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a sight | <big><span class="asgreek">όρασις</span></big> <sup><small><small>[[G3706]]</small></small></sup> |
+| of horses | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| \[so\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| appearance | <big><span class="asgreek">όψις</span></big> <sup><small><small>[[G3799]]</small></small></sup> |
+| of them; | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| horsemen | <big><span class="asgreek">ιππείς</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| they shall pursue. | <big><span class="asgreek">καταδιώξονται</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
 [[Joel.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.3|<< Joel 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.5|Joel 2:5 >>]]</td></tr></table>
 
 

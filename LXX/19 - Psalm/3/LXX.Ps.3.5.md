@@ -9,15 +9,15 @@ I lie down and sleep; I wake again, for the LORD sustains me.<small><sub>**MT:*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| went to bed | <span class="asgreek">εκοιμήθην <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| slept. | <span class="asgreek">ύπνωσα <sup><small><small>[[G9567]]</small></small></sup> </span> |
-| I woke up, | <span class="asgreek">εξηγέρθην <sup><small><small>[[G1825]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| shall assist | <span class="asgreek">αντιλήψεταί <sup><small><small>[[G0482]]</small></small></sup> </span> |
-| me. | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| went to bed | <big><span class="asgreek">εκοιμήθην</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| slept. | <big><span class="asgreek">ύπνωσα</span></big> <sup><small><small>[[G9567]]</small></small></sup> |
+| I woke up, | <big><span class="asgreek">εξηγέρθην</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| shall assist | <big><span class="asgreek">αντιλήψεταί</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
+| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.3.4|<< Psalm 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.3.6|Psalm 3:6 >>]]</td></tr></table>
 
 

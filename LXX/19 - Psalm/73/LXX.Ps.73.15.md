@@ -9,16 +9,16 @@ If I had said, “I will speak this way,” then I would have betrayed Your chil
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| I had said, | <span class="asgreek">έλεγον <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| I shall describe | <span class="asgreek">διηγήσομαι <sup><small><small>[[G1334]]</small></small></sup> </span> |
-| thus; | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| generation | <span class="asgreek">γενεά <sup><small><small>[[G1074]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your sons, | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I have broken contract. | <span class="asgreek">ησυνθέτηκα <sup><small><small>[[G6581]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| I had said, | <big><span class="asgreek">έλεγον</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| I shall describe | <big><span class="asgreek">διηγήσομαι</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
+| thus; | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| generation | <big><span class="asgreek">γενεά</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your sons, | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I have broken contract. | <big><span class="asgreek">ησυνθέτηκα</span></big> <sup><small><small>[[G6581]]</small></small></sup> |
 [[Ps.73.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.14|<< Psalm 73:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.16|Psalm 73:16 >>]]</td></tr></table>
 
 

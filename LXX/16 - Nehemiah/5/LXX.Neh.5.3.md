@@ -9,22 +9,22 @@ Others were saying, “We are mortgaging our fields, our vineyards, and our home
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there are | <span class="asgreek">εισί <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| some | <span class="asgreek">τινες <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγοντες <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Our fields, | <span class="asgreek">αγροί <sup><small><small>[[G0068]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| our vineyards, | <span class="asgreek">αμπελώνες <sup><small><small>[[G0290]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| our houses | <span class="asgreek">οικίαι <sup><small><small>[[G3614]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| we | <span class="asgreek">ημείς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| mortgaged, | <span class="asgreek">διεγγυώμεν <sup><small><small>[[G6912]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we shall take | <span class="asgreek">ληψόμεθα <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| grain | <span class="asgreek">σίτον <sup><small><small>[[G4621]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we shall eat. | <span class="asgreek">φαγόμεθα <sup><small><small>[[G2068]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| some | <big><span class="asgreek">τινες</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγοντες</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Our fields, | <big><span class="asgreek">αγροί</span></big> <sup><small><small>[[G0068]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| our vineyards, | <big><span class="asgreek">αμπελώνες</span></big> <sup><small><small>[[G0290]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| our houses | <big><span class="asgreek">οικίαι</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| we | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| mortgaged, | <big><span class="asgreek">διεγγυώμεν</span></big> <sup><small><small>[[G6912]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we shall take | <big><span class="asgreek">ληψόμεθα</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| grain | <big><span class="asgreek">σίτον</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we shall eat. | <big><span class="asgreek">φαγόμεθα</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
 [[Neh.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.2|<< Nehemiah 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.4|Nehemiah 5:4 >>]]</td></tr></table>
 
 

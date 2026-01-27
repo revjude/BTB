@@ -9,19 +9,19 @@ The pastures are clothed with flocks, and the valleys are decked with grain. The
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| shall put on \[wool\] | <span class="asgreek">ενεδύσαντο <sup><small><small>[[G1746]]</small></small></sup> </span> |
-| The | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rams | <span class="asgreek">κριοί <sup><small><small>[[G8096]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sheep | <span class="asgreek">προβάτων <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| valleys | <span class="asgreek">κοιλάδες <sup><small><small>[[G8038]]</small></small></sup> </span> |
-| shall multiply | <span class="asgreek">πληθυνούσι <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| grain. | <span class="asgreek">σίτον <sup><small><small>[[G4621]]</small></small></sup> </span> |
-| They shall cry out, | <span class="asgreek">κεκράξονται <sup><small><small>[[G2896]]</small></small></sup> </span> |
-| for even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| they will sing praise. | <span class="asgreek">υμνήσουσιν <sup><small><small>[[G5214]]</small></small></sup> </span> |
+| shall put on \[wool\] | <big><span class="asgreek">ενεδύσαντο</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
+| The | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rams | <big><span class="asgreek">κριοί</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sheep | <big><span class="asgreek">προβάτων</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| valleys | <big><span class="asgreek">κοιλάδες</span></big> <sup><small><small>[[G8038]]</small></small></sup> |
+| shall multiply | <big><span class="asgreek">πληθυνούσι</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| grain. | <big><span class="asgreek">σίτον</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
+| They shall cry out, | <big><span class="asgreek">κεκράξονται</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
+| for even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| they will sing praise. | <big><span class="asgreek">υμνήσουσιν</span></big> <sup><small><small>[[G5214]]</small></small></sup> |
 [[Ps.65.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.12|<< Psalm 65:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.1|Psalm 66:1 >>]]</td></tr></table>
 
 

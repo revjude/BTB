@@ -9,17 +9,17 @@ So now, my sons, listen to me, and do not turn aside from the words of my mouth.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| then, | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| O son, | <span class="asgreek">υιέ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| hear | <span class="asgreek">άκουέ <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| me! | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you should not | <span class="asgreek">μη <sup><small><small>[[G3361]][[G6211]]</small></small></sup> </span> |
-| void \[works\] | <span class="asgreek">ακύρους <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| do | <span class="asgreek">ποιήσης <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| of my | <span class="asgreek">εμούς <sup><small><small>[[G1699]]</small></small></sup> </span> |
-| words. | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
+| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| then, | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| O son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| hear | <big><span class="asgreek">άκουέ</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| me! | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]][[G6211]]</small></small></sup> |
+| void \[works\] | <big><span class="asgreek">ακύρους</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| do | <big><span class="asgreek">ποιήσης</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| of my | <big><span class="asgreek">εμούς</span></big> <sup><small><small>[[G1699]]</small></small></sup> |
+| words. | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
 [[Prov.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.6|<< Proverbs 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.8|Proverbs 5:8 >>]]</td></tr></table>
 
 

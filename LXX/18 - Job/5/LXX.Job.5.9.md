@@ -9,18 +9,18 @@ the One who does great and unsearchable things, wonders without number.<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one doing | <span class="asgreek">ποιούντα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| great \[things\], | <span class="asgreek">μεγάλα <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| untraceable, | <span class="asgreek">ανεξιχνίαστα <sup><small><small>[[G0421]]</small></small></sup> </span> |
-| honorable \[things\] | <span class="asgreek">ένδοξά <sup><small><small>[[G1741]]</small></small></sup> </span> |
-| also, | <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| extraordinary, | <span class="asgreek">εξαίσια <sup><small><small>[[G7282]]</small></small></sup> </span> |
-| which | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| there is no | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| number; | <span class="asgreek">αριθμός <sup><small><small>[[G0706]]</small></small></sup> </span> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one doing | <big><span class="asgreek">ποιούντα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| great \[things\], | <big><span class="asgreek">μεγάλα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| untraceable, | <big><span class="asgreek">ανεξιχνίαστα</span></big> <sup><small><small>[[G0421]]</small></small></sup> |
+| honorable \[things\] | <big><span class="asgreek">ένδοξά</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
+| also, | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| extraordinary, | <big><span class="asgreek">εξαίσια</span></big> <sup><small><small>[[G7282]]</small></small></sup> |
+| which | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| there is no | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| number; | <big><span class="asgreek">αριθμός</span></big> <sup><small><small>[[G0706]]</small></small></sup> |
 [[Job.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.8|<< Job 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.10|Job 5:10 >>]]</td></tr></table>
 
 

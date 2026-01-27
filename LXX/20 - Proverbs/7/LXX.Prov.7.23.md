@@ -9,21 +9,21 @@ until an arrow pierces his liver, like a bird darting into a snare—not knowing
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| striking | <span class="asgreek">πεπληγώς <sup><small><small>[[G4141]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| liver; | <span class="asgreek">ήπαρ <sup><small><small>[[G7634]]</small></small></sup> </span> |
-| and he hastens | <span class="asgreek">σπεύδει <sup><small><small>[[G4692]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| a fowl | <span class="asgreek">όρνεον <sup><small><small>[[G3732]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a snare, | <span class="asgreek">παγίδα <sup><small><small>[[G3803]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| seeing | <span class="asgreek">ειδώς <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| for | <span class="asgreek">περί <sup><small><small>[[G4012]]</small></small></sup> </span> |
-| his life | <span class="asgreek">ψυχής <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| he runs | <span class="asgreek">τρέχει <sup><small><small>[[G5143]]</small></small></sup> </span> |
+| striking | <big><span class="asgreek">πεπληγώς</span></big> <sup><small><small>[[G4141]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| liver; | <big><span class="asgreek">ήπαρ</span></big> <sup><small><small>[[G7634]]</small></small></sup> |
+| and he hastens | <big><span class="asgreek">σπεύδει</span></big> <sup><small><small>[[G4692]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| a fowl | <big><span class="asgreek">όρνεον</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a snare, | <big><span class="asgreek">παγίδα</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| seeing | <big><span class="asgreek">ειδώς</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| for | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
+| his life | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| he runs | <big><span class="asgreek">τρέχει</span></big> <sup><small><small>[[G5143]]</small></small></sup> |
 [[Prov.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.22|<< Proverbs 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.24|Proverbs 7:24 >>]]</td></tr></table>
 
 

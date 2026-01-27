@@ -9,17 +9,17 @@ Every valuation will be according to the sanctuary shekel, twenty gerahs to the 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάσα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| value | <span class="asgreek">τιμή <sup><small><small>[[G5092]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| weights | <span class="asgreek">σταθμοίς <sup><small><small>[[G9149]]</small></small></sup> </span> |
-| by holy | <span class="asgreek">αγίοις <sup><small><small>[[G0039]]</small></small></sup> </span> |
-| twenty | <span class="asgreek">είκοσιν <sup><small><small>[[G1501]]</small></small></sup> </span> |
-| oboli | <span class="asgreek">οβολοί <sup><small><small>[[G8438]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| double-drachma. | <span class="asgreek">δίδραχμον <sup><small><small>[[G1323]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάσα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| value | <big><span class="asgreek">τιμή</span></big> <sup><small><small>[[G5092]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| weights | <big><span class="asgreek">σταθμοίς</span></big> <sup><small><small>[[G9149]]</small></small></sup> |
+| by holy | <big><span class="asgreek">αγίοις</span></big> <sup><small><small>[[G0039]]</small></small></sup> |
+| twenty | <big><span class="asgreek">είκοσιν</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
+| oboli | <big><span class="asgreek">οβολοί</span></big> <sup><small><small>[[G8438]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| double-drachma. | <big><span class="asgreek">δίδραχμον</span></big> <sup><small><small>[[G1323]]</small></small></sup> |
 [[Lev.27.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.24|<< Leviticus 27:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.26|Leviticus 27:26 >>]]</td></tr></table>
 
 

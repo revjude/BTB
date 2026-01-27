@@ -9,23 +9,23 @@ So Abram brought all these to Him, split each of them down the middle, and laid 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And he took | <span class="asgreek">έλαβε <sup><small><small>[[G2983]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| to himself | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| these, | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he divided | <span class="asgreek">διείλεν <sup><small><small>[[G1244]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in the middle, | <span class="asgreek">μέσα <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| put | <span class="asgreek">έθηκεν <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| facing | <span class="asgreek">αντιπρόσωπα <sup><small><small>[[G6371]]</small></small></sup> </span> |
-| one another; | <span class="asgreek">αλλήλοις <sup><small><small>[[G0240]]</small></small></sup> </span> |
-| but the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| birds | <span class="asgreek">όρνεα <sup><small><small>[[G3732]]</small></small></sup> </span> |
-| he did not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| divide. | <span class="asgreek">διείλε <sup><small><small>[[G1244]]</small></small></sup> </span> |
+| And he took | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| to himself | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| these, | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he divided | <big><span class="asgreek">διείλεν</span></big> <sup><small><small>[[G1244]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in the middle, | <big><span class="asgreek">μέσα</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| put | <big><span class="asgreek">έθηκεν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| facing | <big><span class="asgreek">αντιπρόσωπα</span></big> <sup><small><small>[[G6371]]</small></small></sup> |
+| one another; | <big><span class="asgreek">αλλήλοις</span></big> <sup><small><small>[[G0240]]</small></small></sup> |
+| but the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| birds | <big><span class="asgreek">όρνεα</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
+| he did not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| divide. | <big><span class="asgreek">διείλε</span></big> <sup><small><small>[[G1244]]</small></small></sup> |
 [[Gen.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.9|<< Genesis 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.11|Genesis 15:11 >>]]</td></tr></table>
 
 

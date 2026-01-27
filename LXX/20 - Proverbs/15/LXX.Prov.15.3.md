@@ -9,16 +9,16 @@ The eyes of the LORD are in every place, observing the evil and the good.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| every | <span class="asgreek">παντί <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| place | <span class="asgreek">τόπω <sup><small><small>[[G5117]]</small></small></sup> </span> |
-| \[the\] eyes | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| watch | <span class="asgreek">σκοπεύουσι <sup><small><small>[[G4648]]</small></small></sup> </span> |
-| bad | <span class="asgreek">κακούς <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| both | <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| good. | <span class="asgreek">αγαθούς <sup><small><small>[[G0018]]</small></small></sup> </span> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| place | <big><span class="asgreek">τόπω</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
+| \[the\] eyes | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| watch | <big><span class="asgreek">σκοπεύουσι</span></big> <sup><small><small>[[G4648]]</small></small></sup> |
+| bad | <big><span class="asgreek">κακούς</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| both | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| good. | <big><span class="asgreek">αγαθούς</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
 [[Prov.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.2|<< Proverbs 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.4|Proverbs 15:4 >>]]</td></tr></table>
 
 

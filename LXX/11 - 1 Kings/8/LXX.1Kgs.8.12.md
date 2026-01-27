@@ -9,14 +9,14 @@ Then Solomon declared: “The LORD has said that He would dwell in the thick clo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| Solomon said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Σολομών <sup><small><small>[[G4672]]</small></small></sup> </span> |
-| \[The\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| spoke | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| of | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| encamping | <span class="asgreek">κατασκηνώσαι <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| dimness. | <span class="asgreek">γνόφω <sup><small><small>[[G1105]]</small></small></sup> </span> |
+| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| Solomon said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Σολομών</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
+| \[The\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| spoke | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| of | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| encamping | <big><span class="asgreek">κατασκηνώσαι</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| dimness. | <big><span class="asgreek">γνόφω</span></big> <sup><small><small>[[G1105]]</small></small></sup> |
 [[1Kgs.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.11|<< 1 Kings 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.13|1 Kings 8:13 >>]]</td></tr></table>
 
 

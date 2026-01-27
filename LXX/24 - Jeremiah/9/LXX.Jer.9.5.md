@@ -9,24 +9,24 @@ Each one betrays his friend; no one tells the truth. They have taught their tong
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Each | <span class="asgreek">έκαστος <sup><small><small>[[G1538]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his friend | <span class="asgreek">φίλου <sup><small><small>[[G5384]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall mock | <span class="asgreek">καταπαίξεται <sup><small><small>[[G7885]]</small></small></sup> </span> |
-| truth | <span class="asgreek">αλήθειαν <sup><small><small>[[G0225]]</small></small></sup> </span> |
-| In no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall they speak | <span class="asgreek">λαλήσωσι <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| has learned | <span class="asgreek">μεμάθηκεν <sup><small><small>[[G3129]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Their tongue | <span class="asgreek">γλώσσα <sup><small><small>[[G1100]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to speak | <span class="asgreek">λαλείν <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| falsely. | <span class="asgreek">ψευδή <sup><small><small>[[G5571]]</small></small></sup> </span> |
-| They wronged, | <span class="asgreek">ηδίκησαν <sup><small><small>[[G0091]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| stopped not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">διέλιπον <sup><small><small>[[G1257]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to turn back. | <span class="asgreek">επιστρέψαι <sup><small><small>[[G1994]]</small></small></sup> </span> |
+| Each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
+| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his friend | <big><span class="asgreek">φίλου</span></big> <sup><small><small>[[G5384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall mock | <big><span class="asgreek">καταπαίξεται</span></big> <sup><small><small>[[G7885]]</small></small></sup> |
+| truth | <big><span class="asgreek">αλήθειαν</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
+| In no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall they speak | <big><span class="asgreek">λαλήσωσι</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| has learned | <big><span class="asgreek">μεμάθηκεν</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Their tongue | <big><span class="asgreek">γλώσσα</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to speak | <big><span class="asgreek">λαλείν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| falsely. | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| They wronged, | <big><span class="asgreek">ηδίκησαν</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| stopped not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">διέλιπον</span></big> <sup><small><small>[[G1257]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to turn back. | <big><span class="asgreek">επιστρέψαι</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
 [[Jer.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.4|<< Jeremiah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.6|Jeremiah 9:6 >>]]</td></tr></table>
 
 

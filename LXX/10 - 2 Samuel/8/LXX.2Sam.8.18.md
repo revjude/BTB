@@ -9,22 +9,22 @@ Benaiah son of Jehoiada was over the Cherethites and Pelethites; and David’s s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Benaiah | <span class="asgreek">Βαναίας <sup><small><small>[[H1141]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Jehoiada | <span class="asgreek">Ιωιαδά <sup><small><small>[[H3111]]</small></small></sup> </span> |
-| \[was\] counselor. | <span class="asgreek">σύμβουλος <sup><small><small>[[G4825]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Cherethite | <span class="asgreek">Χελεθί <sup><small><small>[[H3774]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Pelethite, | <span class="asgreek">Φελετί <sup><small><small>[[H6408]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of David | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| were chiefs of the palace. | <span class="asgreek">αυλάρχαι <sup><small><small>[[G6604]]</small></small></sup> <span class="asgreek">ήσαν <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Benaiah | <big><span class="asgreek">Βαναίας</span></big> <sup><small><small>[[H1141]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Jehoiada | <big><span class="asgreek">Ιωιαδά</span></big> <sup><small><small>[[H3111]]</small></small></sup> |
+| \[was\] counselor. | <big><span class="asgreek">σύμβουλος</span></big> <sup><small><small>[[G4825]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Cherethite | <big><span class="asgreek">Χελεθί</span></big> <sup><small><small>[[H3774]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Pelethite, | <big><span class="asgreek">Φελετί</span></big> <sup><small><small>[[H6408]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| were chiefs of the palace. | <big><span class="asgreek">αυλάρχαι</span></big> <sup><small><small>[[G6604]]</small></small></sup> <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[2Sam.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.17|<< 2 Samuel 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.1|2 Samuel 9:1 >>]]</td></tr></table>
 
 

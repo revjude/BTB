@@ -9,14 +9,14 @@ Your breasts are like two fawns, twins of a gazelle.<small><sub>**MT:**</sub></
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| breasts | <span class="asgreek">μαστοί <sup><small><small>[[G3149]]</small></small></sup> </span> |
-| Your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[are\] as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| fawns, | <span class="asgreek">νεβροί <sup><small><small>[[G8381]]</small></small></sup> </span> |
-| twins | <span class="asgreek">δίδυμοι <sup><small><small>[[G1324]]</small></small></sup> </span> |
-| of \[the\] doe. | <span class="asgreek">δορκάδος <sup><small><small>[[G1393]]</small></small></sup> </span> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| breasts | <big><span class="asgreek">μαστοί</span></big> <sup><small><small>[[G3149]]</small></small></sup> |
+| Your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| fawns, | <big><span class="asgreek">νεβροί</span></big> <sup><small><small>[[G8381]]</small></small></sup> |
+| twins | <big><span class="asgreek">δίδυμοι</span></big> <sup><small><small>[[G1324]]</small></small></sup> |
+| of \[the\] doe. | <big><span class="asgreek">δορκάδος</span></big> <sup><small><small>[[G1393]]</small></small></sup> |
 [[Song.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.7.2|<< Song of Solomon 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.4|Song of Solomon 7:4 >>]]</td></tr></table>
 
 

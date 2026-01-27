@@ -9,25 +9,25 @@ The channels of the sea appeared, and the foundations of the world were exposed 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| were seen | <span class="asgreek">ώφθησαν <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| \[the\] releases | <span class="asgreek">αφέσεις <sup><small><small>[[G0859]]</small></small></sup> </span> |
-| of \[the\] sea | <span class="asgreek">θαλάσσης <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| were uncovered | <span class="asgreek">απεκαλύφθη <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| foundations | <span class="asgreek">θεμέλια <sup><small><small>[[G2310]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| inhabitable world | <span class="asgreek">οικουμένης <sup><small><small>[[G3611]]</small></small></sup> </span> |
-| at | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| reproach | <span class="asgreek">επιτιμήσει <sup><small><small>[[G7463]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| by | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] breath | <span class="asgreek">πνοής <sup><small><small>[[G4157]]</small></small></sup> </span> |
-| of spirit | <span class="asgreek">πνεύματος <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| of his rage. | <span class="asgreek">θυμού <sup><small><small>[[G2372]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| were seen | <big><span class="asgreek">ώφθησαν</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| \[the\] releases | <big><span class="asgreek">αφέσεις</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
+| of \[the\] sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| were uncovered | <big><span class="asgreek">απεκαλύφθη</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| foundations | <big><span class="asgreek">θεμέλια</span></big> <sup><small><small>[[G2310]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| inhabitable world | <big><span class="asgreek">οικουμένης</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| reproach | <big><span class="asgreek">επιτιμήσει</span></big> <sup><small><small>[[G7463]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| by | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] breath | <big><span class="asgreek">πνοής</span></big> <sup><small><small>[[G4157]]</small></small></sup> |
+| of spirit | <big><span class="asgreek">πνεύματος</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| of his rage. | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[2Sam.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.15|<< 2 Samuel 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.17|2 Samuel 22:17 >>]]</td></tr></table>
 
 

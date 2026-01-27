@@ -9,28 +9,28 @@ Each pillar was eighteen cubits tall and twelve cubits in circumference; each wa
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| columns -- | <span class="asgreek">στύλοι <sup><small><small>[[G4769]]</small></small></sup> </span> |
-| eighteen | <span class="asgreek">οκτωκαίδεκα <sup><small><small>[[G8478]]</small></small></sup> </span> |
-| cubits | <span class="asgreek">πηχέων <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| \[was the\] height | <span class="asgreek">ύψος <sup><small><small>[[G5311]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| column | <span class="asgreek">στύλου <sup><small><small>[[G4769]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one | <span class="asgreek">ενός <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a string \[measure\] | <span class="asgreek">σπαρτίον <sup><small><small>[[G9137]]</small></small></sup> </span> |
-| of twelve | <span class="asgreek">δώδεκά <sup><small><small>[[G1427]]</small></small></sup> </span> |
-| cubits | <span class="asgreek">πηχεών <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| surrounded | <span class="asgreek">περιεκύκλου <sup><small><small>[[G4033]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its thickness | <span class="asgreek">πάχος <sup><small><small>[[G8673]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| fingers | <span class="asgreek">δακτύλων <sup><small><small>[[G1147]]</small></small></sup> </span> |
-| \[was\] of four | <span class="asgreek">τεσσάρων <sup><small><small>[[G5064]]</small></small></sup> </span> |
-| round about. | <span class="asgreek">κύκλω <sup><small><small>[[G2945]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| columns -- | <big><span class="asgreek">στύλοι</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
+| eighteen | <big><span class="asgreek">οκτωκαίδεκα</span></big> <sup><small><small>[[G8478]]</small></small></sup> |
+| cubits | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| \[was the\] height | <big><span class="asgreek">ύψος</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| column | <big><span class="asgreek">στύλου</span></big> <sup><small><small>[[G4769]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one | <big><span class="asgreek">ενός</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a string \[measure\] | <big><span class="asgreek">σπαρτίον</span></big> <sup><small><small>[[G9137]]</small></small></sup> |
+| of twelve | <big><span class="asgreek">δώδεκά</span></big> <sup><small><small>[[G1427]]</small></small></sup> |
+| cubits | <big><span class="asgreek">πηχεών</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| surrounded | <big><span class="asgreek">περιεκύκλου</span></big> <sup><small><small>[[G4033]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its thickness | <big><span class="asgreek">πάχος</span></big> <sup><small><small>[[G8673]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| fingers | <big><span class="asgreek">δακτύλων</span></big> <sup><small><small>[[G1147]]</small></small></sup> |
+| \[was\] of four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| round about. | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
 [[Jer.52.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.20|<< Jeremiah 52:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.22|Jeremiah 52:22 >>]]</td></tr></table>
 
 

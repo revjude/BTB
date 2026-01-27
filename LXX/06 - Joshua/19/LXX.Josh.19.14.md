@@ -9,20 +9,20 @@ Then the border circled around the north side of Neah to Hannathon and ended at 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall go around | <span class="asgreek">περιελεύσεται <sup><small><small>[[G4022]]</small></small></sup> </span> |
-| \[the\] borders | <span class="asgreek">όρια <sup><small><small>[[G3725]]</small></small></sup> </span> |
-| towards | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] north | <span class="asgreek">βορράν <sup><small><small>[[G1005]]</small></small></sup> </span> |
-| unto | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| Hannathon, | <span class="asgreek">Αναθών <sup><small><small>[[H2615]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their outer reaches | <span class="asgreek">διέξοδος <sup><small><small>[[G1327]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| unto | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| Gai | <span class="asgreek">Γαϊ <sup><small><small>[[H5857]]</small></small></sup> </span> |
-| Jiphthah-el, | <span class="asgreek">Ιεφθαήλ <sup><small><small>[[H3317]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall go around | <big><span class="asgreek">περιελεύσεται</span></big> <sup><small><small>[[G4022]]</small></small></sup> |
+| \[the\] borders | <big><span class="asgreek">όρια</span></big> <sup><small><small>[[G3725]]</small></small></sup> |
+| towards | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] north | <big><span class="asgreek">βορράν</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| Hannathon, | <big><span class="asgreek">Αναθών</span></big> <sup><small><small>[[H2615]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their outer reaches | <big><span class="asgreek">διέξοδος</span></big> <sup><small><small>[[G1327]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| unto | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| Gai | <big><span class="asgreek">Γαϊ</span></big> <sup><small><small>[[H5857]]</small></small></sup> |
+| Jiphthah-el, | <big><span class="asgreek">Ιεφθαήλ</span></big> <sup><small><small>[[H3317]]</small></small></sup> |
 [[Josh.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.13|<< Joshua 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.15|Joshua 19:15 >>]]</td></tr></table>
 
 

@@ -9,19 +9,19 @@ Be silent, O dwellers of the coastland, you merchants of Sidon, whose traders ha
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| To whom | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| likened | <span class="asgreek">όμοιοι <sup><small><small>[[G3664]]</small></small></sup> </span> |
-| become | <span class="asgreek">γεγόνασιν <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">ενοικούντες <sup><small><small>[[G1774]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| island | <span class="asgreek">νήσω <sup><small><small>[[G3520]]</small></small></sup> </span> |
-| traders | <span class="asgreek">μετάβολοι <sup><small><small>[[G8295]]</small></small></sup> </span> |
-| of Phoenicia | <span class="asgreek">Φοινίκης <sup><small><small>[[G5403]]</small></small></sup> </span> |
-| passing through | <span class="asgreek">διαπερώντες <sup><small><small>[[G1276]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sea; | <span class="asgreek">θάλασσαν <sup><small><small>[[G2281]]</small></small></sup> </span> |
+| To whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| likened | <big><span class="asgreek">όμοιοι</span></big> <sup><small><small>[[G3664]]</small></small></sup> |
+| become | <big><span class="asgreek">γεγόνασιν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">ενοικούντες</span></big> <sup><small><small>[[G1774]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| island | <big><span class="asgreek">νήσω</span></big> <sup><small><small>[[G3520]]</small></small></sup> |
+| traders | <big><span class="asgreek">μετάβολοι</span></big> <sup><small><small>[[G8295]]</small></small></sup> |
+| of Phoenicia | <big><span class="asgreek">Φοινίκης</span></big> <sup><small><small>[[G5403]]</small></small></sup> |
+| passing through | <big><span class="asgreek">διαπερώντες</span></big> <sup><small><small>[[G1276]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sea; | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
 [[Isa.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.1|<< Isaiah 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.3|Isaiah 23:3 >>]]</td></tr></table>
 
 

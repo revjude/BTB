@@ -9,25 +9,25 @@ therefore I will indeed expose the flank of Moab beginning with its frontier cit
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this, | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| will disable | <span class="asgreek">παραλύσω <sup><small><small>[[G3886]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| shoulder | <span class="asgreek">ώμον <sup><small><small>[[G5606]]</small></small></sup> </span> |
-| of Moab | <span class="asgreek">Μωάβ <sup><small><small>[[H6355]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] cities | <span class="asgreek">πόλεων <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| of his extremities, | <span class="asgreek">ακρωτηρίων <sup><small><small>[[G6210]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] choice | <span class="asgreek">εκλεκτήν <sup><small><small>[[G1588]]</small></small></sup> </span> |
-| land, | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| \[the\] house | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of Beth-jeshimoth | <span class="asgreek">Βεθιεσιμούθ <sup><small><small>[[H1020]]</small></small></sup> </span> |
-| above | <span class="asgreek">επάνω <sup><small><small>[[G1883]]</small></small></sup> </span> |
-| \[the\] spring | <span class="asgreek">πηγής <sup><small><small>[[G4077]]</small></small></sup> </span> |
-| of \[the\] city | <span class="asgreek">πόλεως <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| by the sea. | <span class="asgreek">παραθαλασσίας <sup><small><small>[[G3864]]</small></small></sup> </span> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this, | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| will disable | <big><span class="asgreek">παραλύσω</span></big> <sup><small><small>[[G3886]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| shoulder | <big><span class="asgreek">ώμον</span></big> <sup><small><small>[[G5606]]</small></small></sup> |
+| of Moab | <big><span class="asgreek">Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] cities | <big><span class="asgreek">πόλεων</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| of his extremities, | <big><span class="asgreek">ακρωτηρίων</span></big> <sup><small><small>[[G6210]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] choice | <big><span class="asgreek">εκλεκτήν</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
+| land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| \[the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of Beth-jeshimoth | <big><span class="asgreek">Βεθιεσιμούθ</span></big> <sup><small><small>[[H1020]]</small></small></sup> |
+| above | <big><span class="asgreek">επάνω</span></big> <sup><small><small>[[G1883]]</small></small></sup> |
+| \[the\] spring | <big><span class="asgreek">πηγής</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
+| of \[the\] city | <big><span class="asgreek">πόλεως</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| by the sea. | <big><span class="asgreek">παραθαλασσίας</span></big> <sup><small><small>[[G3864]]</small></small></sup> |
 [[Ezek.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.8|<< Ezekiel 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.10|Ezekiel 25:10 >>]]</td></tr></table>
 
 

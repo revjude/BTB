@@ -9,29 +9,29 @@ I will tear down the winter house along with the summer house; the houses of ivo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I will confound | <span class="asgreek">συγχεώ <sup><small><small>[[G4797]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will strike | <span class="asgreek">πατάξω <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| turreted | <span class="asgreek">περίπτερον <sup><small><small>[[G8749]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| harvest | <span class="asgreek">θερινόν <sup><small><small>[[G7657]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be destroyed | <span class="asgreek">απολούνται <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| houses | <span class="asgreek">οίκοι <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| \[the\] ivory | <span class="asgreek">ελεφάντινοι <sup><small><small>[[G1661]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be added | <span class="asgreek">προστεθήσονται <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| houses | <span class="asgreek">οίκοι <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| other | <span class="asgreek">έτεροι <sup><small><small>[[G2087]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλοί <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| I will confound | <big><span class="asgreek">συγχεώ</span></big> <sup><small><small>[[G4797]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will strike | <big><span class="asgreek">πατάξω</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| turreted | <big><span class="asgreek">περίπτερον</span></big> <sup><small><small>[[G8749]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| harvest | <big><span class="asgreek">θερινόν</span></big> <sup><small><small>[[G7657]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be destroyed | <big><span class="asgreek">απολούνται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| houses | <big><span class="asgreek">οίκοι</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| \[the\] ivory | <big><span class="asgreek">ελεφάντινοι</span></big> <sup><small><small>[[G1661]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be added | <big><span class="asgreek">προστεθήσονται</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| houses | <big><span class="asgreek">οίκοι</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| other | <big><span class="asgreek">έτεροι</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Amos.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.14|<< Amos 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.1|Amos 4:1 >>]]</td></tr></table>
 
 

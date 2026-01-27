@@ -12,11 +12,11 @@ Why, seeing times are not hidden from the Almighty, do they that know him not se
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And why did | <span class="asgreek">διατί <sup><small><small>[[G1302]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[by the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| escape notice | <span class="asgreek">έλαθον <sup><small><small>[[G2990]]</small></small></sup> </span> |
-| \[the\] seasons | <span class="asgreek">ώραι <sup><small><small>[[G5610]]</small></small></sup> </span> |
+| And why did | <big><span class="asgreek">διατί</span></big> <sup><small><small>[[G1302]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[by the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| escape notice | <big><span class="asgreek">έλαθον</span></big> <sup><small><small>[[G2990]]</small></small></sup> |
+| \[the\] seasons | <big><span class="asgreek">ώραι</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
 [[Job.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.17|<< Job 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.2|Job 24:2 >>]]</td></tr></table>
 
 

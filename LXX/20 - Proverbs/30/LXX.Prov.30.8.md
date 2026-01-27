@@ -9,25 +9,25 @@ Keep falsehood and deceitful words far from me. Give me neither poverty nor rich
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[the\] vain | <span class="asgreek">μάταιον <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| word | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| false | <span class="asgreek">ψευδή <sup><small><small>[[G5571]]</small></small></sup> </span> |
-| far | <span class="asgreek">μακράν <sup><small><small>[[G3112]]</small></small></sup> </span> |
-| from me | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| appoint | <span class="asgreek">ποίησον <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| and riches | <span class="asgreek">πλούτον <sup><small><small>[[G4149]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| poverty | <span class="asgreek">πενίαν <sup><small><small>[[G8693]]</small></small></sup> </span> |
-| you should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| give to me; | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δως <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| but order up | <span class="asgreek">σύνταξον <sup><small><small>[[G4929]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| for me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| necessary | <span class="asgreek">δέοντα <sup><small><small>[[G1163]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[to be\] self-sufficient; | <span class="asgreek">αυτάρκη <sup><small><small>[[G0842]]</small></small></sup> </span> |
+| \[the\] vain | <big><span class="asgreek">μάταιον</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| false | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| far | <big><span class="asgreek">μακράν</span></big> <sup><small><small>[[G3112]]</small></small></sup> |
+| from me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| appoint | <big><span class="asgreek">ποίησον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| and riches | <big><span class="asgreek">πλούτον</span></big> <sup><small><small>[[G4149]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| poverty | <big><span class="asgreek">πενίαν</span></big> <sup><small><small>[[G8693]]</small></small></sup> |
+| you should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| give to me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δως</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| but order up | <big><span class="asgreek">σύνταξον</span></big> <sup><small><small>[[G4929]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| necessary | <big><span class="asgreek">δέοντα</span></big> <sup><small><small>[[G1163]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[to be\] self-sufficient; | <big><span class="asgreek">αυτάρκη</span></big> <sup><small><small>[[G0842]]</small></small></sup> |
 [[Prov.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.7|<< Proverbs 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.9|Proverbs 30:9 >>]]</td></tr></table>
 
 

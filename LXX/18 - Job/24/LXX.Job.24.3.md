@@ -9,14 +9,14 @@ They drive away the donkey of the fatherless and take the widow’s ox in pledge
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| a beast of burden | <span class="asgreek">υποζύγιον <sup><small><small>[[G5268]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of orphans | <span class="asgreek">ορφανών <sup><small><small>[[G3737]]</small></small></sup> </span> |
-| they took away, | <span class="asgreek">απήγαγον <sup><small><small>[[G0520]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| oxen | <span class="asgreek">βουν <sup><small><small>[[G1016]]</small></small></sup> </span> |
-| of widows | <span class="asgreek">χήρας <sup><small><small>[[G5503]]</small></small></sup> </span> |
-| for security. | <span class="asgreek">ηνεχύρασαν <sup><small><small>[[G7236]]</small></small></sup> </span> |
+| a beast of burden | <big><span class="asgreek">υποζύγιον</span></big> <sup><small><small>[[G5268]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of orphans | <big><span class="asgreek">ορφανών</span></big> <sup><small><small>[[G3737]]</small></small></sup> |
+| they took away, | <big><span class="asgreek">απήγαγον</span></big> <sup><small><small>[[G0520]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| oxen | <big><span class="asgreek">βουν</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
+| of widows | <big><span class="asgreek">χήρας</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
+| for security. | <big><span class="asgreek">ηνεχύρασαν</span></big> <sup><small><small>[[G7236]]</small></small></sup> |
 [[Job.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.2|<< Job 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.4|Job 24:4 >>]]</td></tr></table>
 
 

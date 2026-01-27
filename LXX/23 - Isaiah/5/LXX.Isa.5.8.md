@@ -9,28 +9,28 @@ Woe to you who add house to house and join field to field until no place is left
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Woe | <span class="asgreek">ουαί <sup><small><small>[[G3759]]</small></small></sup> </span> |
-| to the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones joining together | <span class="asgreek">συνάπτοντες <sup><small><small>[[G9297]]</small></small></sup> </span> |
-| house | <span class="asgreek">οικίαν <sup><small><small>[[G3614]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| house, | <span class="asgreek">οικίαν <sup><small><small>[[G3614]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| field | <span class="asgreek">αγρόν <sup><small><small>[[G0068]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| field | <span class="asgreek">αγρόν <sup><small><small>[[G0068]]</small></small></sup> </span> |
-| nearing | <span class="asgreek">εγγίζοντες <sup><small><small>[[G1448]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of their neighbor | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> </span> |
-| they should remove | <span class="asgreek">αφέλωνταί <sup><small><small>[[G0851]]</small></small></sup> </span> |
-| anything | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| will you not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| live | <span class="asgreek">οικήσετε <sup><small><small>[[G3611]]</small></small></sup> </span> |
-| alone | <span class="asgreek">μόνοι <sup><small><small>[[G3441]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land? | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
+| to the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones joining together | <big><span class="asgreek">συνάπτοντες</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
+| house | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| house, | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| field | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| field | <big><span class="asgreek">αγρόν</span></big> <sup><small><small>[[G0068]]</small></small></sup> |
+| nearing | <big><span class="asgreek">εγγίζοντες</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of their neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
+| they should remove | <big><span class="asgreek">αφέλωνταί</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
+| anything | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| will you not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| live | <big><span class="asgreek">οικήσετε</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| alone | <big><span class="asgreek">μόνοι</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land? | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
 [[Isa.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.7|<< Isaiah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.9|Isaiah 5:9 >>]]</td></tr></table>
 
 

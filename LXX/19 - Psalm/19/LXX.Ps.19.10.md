@@ -9,19 +9,19 @@ They are more precious than gold, than much pure gold; they are sweeter than hon
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| desirable | <span class="asgreek">επιθυμητά <sup><small><small>[[G7411]]</small></small></sup> </span> |
-| above | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| gold, | <span class="asgreek">χρυσίον <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| stone | <span class="asgreek">λίθον <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| precious | <span class="asgreek">τίμιον <sup><small><small>[[G5093]]</small></small></sup> </span> |
-| much | <span class="asgreek">πολύν <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| sweeter | <span class="asgreek">γλυκύτερα <sup><small><small>[[G1099]]</small></small></sup> </span> |
-| above | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| honey | <span class="asgreek">μέλι <sup><small><small>[[G3192]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] honeycomb. | <span class="asgreek">κηρίον <sup><small><small>[[G2781]]</small></small></sup> </span> |
+| desirable | <big><span class="asgreek">επιθυμητά</span></big> <sup><small><small>[[G7411]]</small></small></sup> |
+| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| gold, | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| precious | <big><span class="asgreek">τίμιον</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
+| much | <big><span class="asgreek">πολύν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| sweeter | <big><span class="asgreek">γλυκύτερα</span></big> <sup><small><small>[[G1099]]</small></small></sup> |
+| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| honey | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] honeycomb. | <big><span class="asgreek">κηρίον</span></big> <sup><small><small>[[G2781]]</small></small></sup> |
 [[Ps.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.9|<< Psalm 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.11|Psalm 19:11 >>]]</td></tr></table>
 
 

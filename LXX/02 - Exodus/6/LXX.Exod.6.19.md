@@ -9,19 +9,19 @@ The sons of Merari were Mahli and Mushi. These were the clans of the Levites acc
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Merari -- | <span class="asgreek">Μεραρεί <sup><small><small>[[H4847]]</small></small></sup> </span> |
-| Mahli, | <span class="asgreek">Μοολί <sup><small><small>[[H4249]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Mushi. | <span class="asgreek">Μουσει <sup><small><small>[[H4187]]</small></small></sup> </span> |
-| These \[are\] | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| houses | <span class="asgreek">οίκοι <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of \[the\] families | <span class="asgreek">πατριών <sup><small><small>[[G3965]]</small></small></sup> </span> |
-| of Levi, | <span class="asgreek">Λευί <sup><small><small>[[G3017]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| their kin. | <span class="asgreek">συγγενείας <sup><small><small>[[G4772]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Merari -- | <big><span class="asgreek">Μεραρεί</span></big> <sup><small><small>[[H4847]]</small></small></sup> |
+| Mahli, | <big><span class="asgreek">Μοολί</span></big> <sup><small><small>[[H4249]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Mushi. | <big><span class="asgreek">Μουσει</span></big> <sup><small><small>[[H4187]]</small></small></sup> |
+| These \[are\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| houses | <big><span class="asgreek">οίκοι</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of \[the\] families | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> |
+| of Levi, | <big><span class="asgreek">Λευί</span></big> <sup><small><small>[[G3017]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| their kin. | <big><span class="asgreek">συγγενείας</span></big> <sup><small><small>[[G4772]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Exod.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.18|<< Exodus 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.20|Exodus 6:20 >>]]</td></tr></table>
 
 

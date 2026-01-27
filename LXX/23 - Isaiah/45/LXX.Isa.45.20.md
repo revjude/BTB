@@ -12,32 +12,32 @@ Come, gather together, and draw near, you fugitives from the nations. Ignorant a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Gather together | <span class="asgreek">συνάχθητε <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| come! | <span class="asgreek">ήκετε <sup><small><small>[[G2240]]</small></small></sup> </span> |
-| Consult | <span class="asgreek">βουλεύσασθε <sup><small><small>[[G1011]]</small></small></sup> </span> |
-| together! | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| O ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being delivered | <span class="asgreek">σωζόμενοι <sup><small><small>[[G4982]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations. | <span class="asgreek">εθνών <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| They are not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| knowing, | <span class="asgreek">έγνωσαν <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lifting | <span class="asgreek">αίροντες <sup><small><small>[[G0142]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wood | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| carving | <span class="asgreek">γλύμμα <sup><small><small>[[G6744]]</small></small></sup> </span> |
-| their | <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| praying | <span class="asgreek">προσευχόμενοι <sup><small><small>[[G4336]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| a god | <span class="asgreek">θεούς <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| which | <span class="asgreek">οι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| does not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| deliver. | <span class="asgreek">σώζουσιν <sup><small><small>[[G4982]]</small></small></sup> </span> |
+| Gather together | <big><span class="asgreek">συνάχθητε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| come! | <big><span class="asgreek">ήκετε</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
+| Consult | <big><span class="asgreek">βουλεύσασθε</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
+| together! | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being delivered | <big><span class="asgreek">σωζόμενοι</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| They are not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| knowing, | <big><span class="asgreek">έγνωσαν</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lifting | <big><span class="asgreek">αίροντες</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wood | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| carving | <big><span class="asgreek">γλύμμα</span></big> <sup><small><small>[[G6744]]</small></small></sup> |
+| their | <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| praying | <big><span class="asgreek">προσευχόμενοι</span></big> <sup><small><small>[[G4336]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| a god | <big><span class="asgreek">θεούς</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| which | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| does not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| deliver. | <big><span class="asgreek">σώζουσιν</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
 [[Isa.45.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.19|<< Isaiah 45:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.21|Isaiah 45:21 >>]]</td></tr></table>
 
 

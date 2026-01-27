@@ -9,15 +9,15 @@ Through patience a ruler can be persuaded, and a gentle tongue can break a bone.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| long-suffering | <span class="asgreek">μακροθυμία <sup><small><small>[[G3115]]</small></small></sup> </span> |
-| Success | <span class="asgreek">ευοδία <sup><small><small>[[G2136]]</small></small></sup> </span> |
-| \[comes\] to kings | <span class="asgreek">βασιλεύσι <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| tongue | <span class="asgreek">γλώσσα <sup><small><small>[[G1100]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| a soft | <span class="asgreek">μαλακή <sup><small><small>[[G3120]]</small></small></sup> </span> |
-| breaks | <span class="asgreek">συντρίβει <sup><small><small>[[G4937]]</small></small></sup> </span> |
-| \[the\] bones. | <span class="asgreek">οστά <sup><small><small>[[G3747]]</small></small></sup> </span> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| long-suffering | <big><span class="asgreek">μακροθυμία</span></big> <sup><small><small>[[G3115]]</small></small></sup> |
+| Success | <big><span class="asgreek">ευοδία</span></big> <sup><small><small>[[G2136]]</small></small></sup> |
+| \[comes\] to kings | <big><span class="asgreek">βασιλεύσι</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| tongue | <big><span class="asgreek">γλώσσα</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| a soft | <big><span class="asgreek">μαλακή</span></big> <sup><small><small>[[G3120]]</small></small></sup> |
+| breaks | <big><span class="asgreek">συντρίβει</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| \[the\] bones. | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
 [[Prov.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.14|<< Proverbs 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.16|Proverbs 25:16 >>]]</td></tr></table>
 
 

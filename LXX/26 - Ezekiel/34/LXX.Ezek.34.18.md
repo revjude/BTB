@@ -9,34 +9,34 @@ Is it not enough for you to feed on the good pasture? Must you also trample the 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[is it\] not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| enough | <span class="asgreek">ικανόν <sup><small><small>[[G2425]]</small></small></sup> </span> |
-| to you | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| good | <span class="asgreek">καλήν <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| pasture | <span class="asgreek">νομήν <sup><small><small>[[G3542]]</small></small></sup> </span> |
-| you fed on | <span class="asgreek">ενέμεσθε <sup><small><small>[[G8385]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rest | <span class="asgreek">κατάλοιπα <sup><small><small>[[G2645]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your pasture | <span class="asgreek">νομής <sup><small><small>[[G3542]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you trampled | <span class="asgreek">κατεπατείτε <sup><small><small>[[G2662]]</small></small></sup> </span> |
-| \[with\]\<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your feet? | <span class="asgreek">ποσίν <sup><small><small>[[G4228]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| place | <span class="asgreek">καθεστηκός <sup><small><small>[[G2525]]</small></small></sup> </span> |
-| of water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| you drank, | <span class="asgreek">επίνετε <sup><small><small>[[G4095]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rest | <span class="asgreek">κατάλοιπόν <sup><small><small>[[G2645]]</small></small></sup> </span> |
-| with | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your feet | <span class="asgreek">ποσίν <sup><small><small>[[G4228]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you disturbed? | <span class="asgreek">εταράσσετε <sup><small><small>[[G5015]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[is it\] not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| enough | <big><span class="asgreek">ικανόν</span></big> <sup><small><small>[[G2425]]</small></small></sup> |
+| to you | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| good | <big><span class="asgreek">καλήν</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| pasture | <big><span class="asgreek">νομήν</span></big> <sup><small><small>[[G3542]]</small></small></sup> |
+| you fed on | <big><span class="asgreek">ενέμεσθε</span></big> <sup><small><small>[[G8385]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rest | <big><span class="asgreek">κατάλοιπα</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your pasture | <big><span class="asgreek">νομής</span></big> <sup><small><small>[[G3542]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you trampled | <big><span class="asgreek">κατεπατείτε</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
+| \[with\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your feet? | <big><span class="asgreek">ποσίν</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| place | <big><span class="asgreek">καθεστηκός</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
+| of water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| you drank, | <big><span class="asgreek">επίνετε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rest | <big><span class="asgreek">κατάλοιπόν</span></big> <sup><small><small>[[G2645]]</small></small></sup> |
+| with | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your feet | <big><span class="asgreek">ποσίν</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you disturbed? | <big><span class="asgreek">εταράσσετε</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
 [[Ezek.34.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.17|<< Ezekiel 34:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.19|Ezekiel 34:19 >>]]</td></tr></table>
 
 

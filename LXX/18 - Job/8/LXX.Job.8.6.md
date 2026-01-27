@@ -9,17 +9,17 @@ if you are pure and upright, even now He will rouse Himself on your behalf and r
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| you are pure | <span class="asgreek">καθαρός <sup><small><small>[[G2513]]</small></small></sup> <span class="asgreek">ει <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| true, | <span class="asgreek">αληθινός <sup><small><small>[[G0228]]</small></small></sup> </span> |
-| supplication | <span class="asgreek">δεήσεως <sup><small><small>[[G1162]]</small></small></sup> </span> |
-| he will heed | <span class="asgreek">επακούσεταί <sup><small><small>[[G1873]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and he will restore | <span class="asgreek">αποκαταστήσει <sup><small><small>[[G0600]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] habitation | <span class="asgreek">δίαιταν <sup><small><small>[[G6829]]</small></small></sup> </span> |
-| of righteousness. | <span class="asgreek">δικαιοσύνης <sup><small><small>[[G1343]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| you are pure | <big><span class="asgreek">καθαρός</span></big> <sup><small><small>[[G2513]]</small></small></sup> <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| true, | <big><span class="asgreek">αληθινός</span></big> <sup><small><small>[[G0228]]</small></small></sup> |
+| supplication | <big><span class="asgreek">δεήσεως</span></big> <sup><small><small>[[G1162]]</small></small></sup> |
+| he will heed | <big><span class="asgreek">επακούσεταί</span></big> <sup><small><small>[[G1873]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and he will restore | <big><span class="asgreek">αποκαταστήσει</span></big> <sup><small><small>[[G0600]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] habitation | <big><span class="asgreek">δίαιταν</span></big> <sup><small><small>[[G6829]]</small></small></sup> |
+| of righteousness. | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
 [[Job.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.5|<< Job 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.7|Job 8:7 >>]]</td></tr></table>
 
 

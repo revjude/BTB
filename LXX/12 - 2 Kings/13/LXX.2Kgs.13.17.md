@@ -9,39 +9,39 @@ And he said, Open the window eastward. And he opened [it]. Then Elisha said, Sho
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Open | <span class="asgreek">άνοιξον <sup><small><small>[[G0455]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| window | <span class="asgreek">θυρίδα <sup><small><small>[[G2376]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατα <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \[the\] east! | <span class="asgreek">ανατολάς <sup><small><small>[[G0395]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he opened. | <span class="asgreek">ήνοιξε <sup><small><small>[[G0455]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Elisha said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Ελισεαί <sup><small><small>[[G1666]]</small></small></sup> </span> |
-| Shoot! | <span class="asgreek">τόξευσον <sup><small><small>[[G9464]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shot. | <span class="asgreek">ετόξευσε <sup><small><small>[[G9464]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said, | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| \[The\] arrow | <span class="asgreek">βέλος <sup><small><small>[[G0956]]</small></small></sup> </span> |
-| of deliverance | <span class="asgreek">σωτηρίας <sup><small><small>[[G4991]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[of the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] arrow | <span class="asgreek">βέλος <sup><small><small>[[G0956]]</small></small></sup> </span> |
-| of deliverance | <span class="asgreek">σωτηρίας <sup><small><small>[[G4991]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Syria. | <span class="asgreek">Συρία <sup><small><small>[[G4947]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall strike | <span class="asgreek">πατάξεις <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Syria | <span class="asgreek">Συρίαν <sup><small><small>[[G4947]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Aphek | <span class="asgreek">Αφέκ <sup><small><small>[[H0647]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| completion. | <span class="asgreek">συντελείας <sup><small><small>[[G4930]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Open | <big><span class="asgreek">άνοιξον</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| window | <big><span class="asgreek">θυρίδα</span></big> <sup><small><small>[[G2376]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατα</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \[the\] east! | <big><span class="asgreek">ανατολάς</span></big> <sup><small><small>[[G0395]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he opened. | <big><span class="asgreek">ήνοιξε</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Elisha said, | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">Ελισεαί</span></big> <sup><small><small>[[G1666]]</small></small></sup> |
+| Shoot! | <big><span class="asgreek">τόξευσον</span></big> <sup><small><small>[[G9464]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shot. | <big><span class="asgreek">ετόξευσε</span></big> <sup><small><small>[[G9464]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said, | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| \[The\] arrow | <big><span class="asgreek">βέλος</span></big> <sup><small><small>[[G0956]]</small></small></sup> |
+| of deliverance | <big><span class="asgreek">σωτηρίας</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[of the\] <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] arrow | <big><span class="asgreek">βέλος</span></big> <sup><small><small>[[G0956]]</small></small></sup> |
+| of deliverance | <big><span class="asgreek">σωτηρίας</span></big> <sup><small><small>[[G4991]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Syria. | <big><span class="asgreek">Συρία</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall strike | <big><span class="asgreek">πατάξεις</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Syria | <big><span class="asgreek">Συρίαν</span></big> <sup><small><small>[[G4947]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Aphek | <big><span class="asgreek">Αφέκ</span></big> <sup><small><small>[[H0647]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| completion. | <big><span class="asgreek">συντελείας</span></big> <sup><small><small>[[G4930]]</small></small></sup> |
 [[2Kgs.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.16|<< 2 Kings 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.18|2 Kings 13:18 >>]]</td></tr></table>
 
 

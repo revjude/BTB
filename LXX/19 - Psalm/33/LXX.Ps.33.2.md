@@ -9,16 +9,16 @@ Praise the LORD with the harp; make music to Him with ten strings.<small><sub>*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Make acknowledgment | <span class="asgreek">εξομολογείσθε <sup><small><small>[[G1843]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] harp! | <span class="asgreek">κιθάρα <sup><small><small>[[G2788]]</small></small></sup> </span> |
-| With | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| psaltery | <span class="asgreek">ψαλτηρίω <sup><small><small>[[G9783]]</small></small></sup> </span> |
-| \[the\] ten-stringed | <span class="asgreek">δεκαχόρδω <sup><small><small>[[G6799]]</small></small></sup> </span> |
-| strum | <span class="asgreek">ψάλατε <sup><small><small>[[G5567]]</small></small></sup> </span> |
-| to him! | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Make acknowledgment | <big><span class="asgreek">εξομολογείσθε</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] harp! | <big><span class="asgreek">κιθάρα</span></big> <sup><small><small>[[G2788]]</small></small></sup> |
+| With | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| psaltery | <big><span class="asgreek">ψαλτηρίω</span></big> <sup><small><small>[[G9783]]</small></small></sup> |
+| \[the\] ten-stringed | <big><span class="asgreek">δεκαχόρδω</span></big> <sup><small><small>[[G6799]]</small></small></sup> |
+| strum | <big><span class="asgreek">ψάλατε</span></big> <sup><small><small>[[G5567]]</small></small></sup> |
+| to him! | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.33.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.1|<< Psalm 33:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.3|Psalm 33:3 >>]]</td></tr></table>
 
 

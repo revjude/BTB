@@ -9,14 +9,14 @@ The nations will hear and tremble; anguish will grip the dwellers of Philistia.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| heard | <span class="asgreek">ήκουσαν <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| Nations | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| were provoked to anger; | <span class="asgreek">ωργίσθησαν <sup><small><small>[[G3710]]</small></small></sup> </span> |
-| pangs | <span class="asgreek">ωδίνες <sup><small><small>[[G5604]]</small></small></sup> </span> |
-| took \[hold\] | <span class="asgreek">έλαβον <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| \[of the\] ones dwelling | <span class="asgreek">κατοικούντας <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| among \[the\] Philistines. | <span class="asgreek">Φυλιστιείμ <sup><small><small>[[H6430]]</small></small></sup> </span> |
+| heard | <big><span class="asgreek">ήκουσαν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| Nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| were provoked to anger; | <big><span class="asgreek">ωργίσθησαν</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
+| pangs | <big><span class="asgreek">ωδίνες</span></big> <sup><small><small>[[G5604]]</small></small></sup> |
+| took \[hold\] | <big><span class="asgreek">έλαβον</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| \[of the\] ones dwelling | <big><span class="asgreek">κατοικούντας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| among \[the\] Philistines. | <big><span class="asgreek">Φυλιστιείμ</span></big> <sup><small><small>[[H6430]]</small></small></sup> |
 [[Exod.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.13|<< Exodus 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.15|Exodus 15:15 >>]]</td></tr></table>
 
 

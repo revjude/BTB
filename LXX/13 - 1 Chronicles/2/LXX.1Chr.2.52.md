@@ -9,18 +9,18 @@ These were the descendants of Shobal the father of Kiriath-jearim: Haroeh, half 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[these\] were | <span class="asgreek">ήσαν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Shobal | <span class="asgreek">Σωβά <sup><small><small>[[H7732]]</small></small></sup> </span> |
-| father | <span class="asgreek">πατρί <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of Kirjath-jearim -- | <span class="asgreek">Καριαθιαρείμ <sup><small><small>[[H7157]]</small></small></sup> </span> |
-| Haroeh, | <span class="asgreek">Αραά <sup><small><small>[[H7204]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Aisi, | <span class="asgreek">Αισύ <sup><small><small>[[H2677]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ammanith, | <span class="asgreek">Αμανήθ <sup><small><small>[[H2679]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[these\] were | <big><span class="asgreek">ήσαν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Shobal | <big><span class="asgreek">Σωβά</span></big> <sup><small><small>[[H7732]]</small></small></sup> |
+| father | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of Kirjath-jearim -- | <big><span class="asgreek">Καριαθιαρείμ</span></big> <sup><small><small>[[H7157]]</small></small></sup> |
+| Haroeh, | <big><span class="asgreek">Αραά</span></big> <sup><small><small>[[H7204]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Aisi, | <big><span class="asgreek">Αισύ</span></big> <sup><small><small>[[H2677]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ammanith, | <big><span class="asgreek">Αμανήθ</span></big> <sup><small><small>[[H2679]]</small></small></sup> |
 [[1Chr.2.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.51|<< 1 Chronicles 2:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.53|1 Chronicles 2:53 >>]]</td></tr></table>
 
 

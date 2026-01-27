@@ -9,28 +9,28 @@ Have they not sped? have they [not] divided the prey; to every man a damsel [or]
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Shall they not find | <span class="asgreek">ουχί <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ευρήσουσιν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| dividing | <span class="asgreek">διαμερίζοντα <sup><small><small>[[G1266]]</small></small></sup> </span> |
-| \[the\] spoils? | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> </span> |
-| Befriending | <span class="asgreek">φιλιάζως <sup><small><small>[[G9639]]</small></small></sup> </span> |
-| friends | <span class="asgreek">φίλοις <sup><small><small>[[G5384]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| head \[ruler\] | <span class="asgreek">κεφαλήν <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| a mighty | <span class="asgreek">δυνατού <sup><small><small>[[G1415]]</small></small></sup> </span> |
-| Spoils | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> </span> |
-| of dyed \[things\] | <span class="asgreek">βαμμάτων <sup><small><small>[[G6651]]</small></small></sup> </span> |
-| for | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Sisera, | <span class="asgreek">Σισάρα <sup><small><small>[[H5516]]</small></small></sup> </span> |
-| spoils | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> </span> |
-| of dyed | <span class="asgreek">βαμμάτων <sup><small><small>[[G6651]]</small></small></sup> </span> |
-| embroidery | <span class="asgreek">ποικιλίας <sup><small><small>[[G8830]]</small></small></sup> </span> |
-| dipped. | <span class="asgreek">βαφή <sup><small><small>[[G0911]]</small></small></sup> </span> |
-| Dyed | <span class="asgreek">βάμματα <sup><small><small>[[G6651]]</small></small></sup> </span> |
-| embroidered works, | <span class="asgreek">ποικιλτών <sup><small><small>[[G8835]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for his neck | <span class="asgreek">τραχήλω <sup><small><small>[[G5137]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| spoils | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> </span> |
+| Shall they not find | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ευρήσουσιν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| dividing | <big><span class="asgreek">διαμερίζοντα</span></big> <sup><small><small>[[G1266]]</small></small></sup> |
+| \[the\] spoils? | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
+| Befriending | <big><span class="asgreek">φιλιάζως</span></big> <sup><small><small>[[G9639]]</small></small></sup> |
+| friends | <big><span class="asgreek">φίλοις</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| head \[ruler\] | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| a mighty | <big><span class="asgreek">δυνατού</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| Spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
+| of dyed \[things\] | <big><span class="asgreek">βαμμάτων</span></big> <sup><small><small>[[G6651]]</small></small></sup> |
+| for | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Sisera, | <big><span class="asgreek">Σισάρα</span></big> <sup><small><small>[[H5516]]</small></small></sup> |
+| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
+| of dyed | <big><span class="asgreek">βαμμάτων</span></big> <sup><small><small>[[G6651]]</small></small></sup> |
+| embroidery | <big><span class="asgreek">ποικιλίας</span></big> <sup><small><small>[[G8830]]</small></small></sup> |
+| dipped. | <big><span class="asgreek">βαφή</span></big> <sup><small><small>[[G0911]]</small></small></sup> |
+| Dyed | <big><span class="asgreek">βάμματα</span></big> <sup><small><small>[[G6651]]</small></small></sup> |
+| embroidered works, | <big><span class="asgreek">ποικιλτών</span></big> <sup><small><small>[[G8835]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for his neck | <big><span class="asgreek">τραχήλω</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
 [[Judg.5.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.29|<< Judges 5:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.31|Judges 5:31 >>]]</td></tr></table>
 
 

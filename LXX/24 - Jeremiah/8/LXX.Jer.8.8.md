@@ -9,24 +9,24 @@ How can you say, ‘We are wise, and the Law of the LORD is with us,’ when in 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| How | <span class="asgreek">πως <sup><small><small>[[G4459]]</small></small></sup> </span> |
-| shall you say | <span class="asgreek">ερείτε <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| that, | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| wise | <span class="asgreek">σοφοί <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| are | <span class="asgreek">εσμέν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| We | <span class="asgreek">ημείς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] law | <span class="asgreek">νόμος <sup><small><small>[[G3551]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| with | <span class="asgreek">μεθ΄ <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| us | <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| For | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| vain | <span class="asgreek">μάτην <sup><small><small>[[G3155]]</small></small></sup> </span> |
-| became | <span class="asgreek">εγενήθη <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| rush \[reed pen\] | <span class="asgreek">σχοίνος <sup><small><small>[[G9387]]</small></small></sup> </span> |
-| \[the\] lying | <span class="asgreek">ψευδής <sup><small><small>[[G5571]]</small></small></sup> </span> |
-| to \[the\] scribes. | <span class="asgreek">γραμματεύσιν <sup><small><small>[[G1122]]</small></small></sup> </span> |
+| How | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
+| shall you say | <big><span class="asgreek">ερείτε</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| that, | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| wise | <big><span class="asgreek">σοφοί</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| are | <big><span class="asgreek">εσμέν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| We | <big><span class="asgreek">ημείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] law | <big><span class="asgreek">νόμος</span></big> <sup><small><small>[[G3551]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| For | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| vain | <big><span class="asgreek">μάτην</span></big> <sup><small><small>[[G3155]]</small></small></sup> |
+| became | <big><span class="asgreek">εγενήθη</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| rush \[reed pen\] | <big><span class="asgreek">σχοίνος</span></big> <sup><small><small>[[G9387]]</small></small></sup> |
+| \[the\] lying | <big><span class="asgreek">ψευδής</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| to \[the\] scribes. | <big><span class="asgreek">γραμματεύσιν</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
 [[Jer.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.7|<< Jeremiah 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.9|Jeremiah 8:9 >>]]</td></tr></table>
 
 

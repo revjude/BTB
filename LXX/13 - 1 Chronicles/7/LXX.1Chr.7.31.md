@@ -9,15 +9,15 @@ The sons of Beriah: Heber, as well as Malchiel, who was the father of Birzaith.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Beriah -- | <span class="asgreek">Βερία <sup><small><small>[[H1283]]</small></small></sup> </span> |
-| Heber | <span class="asgreek">Χοβέρ <sup><small><small>[[H2268]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Malchiel -- | <span class="asgreek">Μελχιήλ <sup><small><small>[[H4439]]</small></small></sup> </span> |
-| he \[is\] | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| father | <span class="asgreek">πατήρ <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of Birzavith. | <span class="asgreek">Βαρζέθ <sup><small><small>[[H1269]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Beriah -- | <big><span class="asgreek">Βερία</span></big> <sup><small><small>[[H1283]]</small></small></sup> |
+| Heber | <big><span class="asgreek">Χοβέρ</span></big> <sup><small><small>[[H2268]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Malchiel -- | <big><span class="asgreek">Μελχιήλ</span></big> <sup><small><small>[[H4439]]</small></small></sup> |
+| he \[is\] | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of Birzavith. | <big><span class="asgreek">Βαρζέθ</span></big> <sup><small><small>[[H1269]]</small></small></sup> |
 [[1Chr.7.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.30|<< 1 Chronicles 7:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.32|1 Chronicles 7:32 >>]]</td></tr></table>
 
 

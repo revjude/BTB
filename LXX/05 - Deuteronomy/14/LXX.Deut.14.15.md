@@ -9,12 +9,12 @@ the ostrich, the screech owl, the gull, any kind of hawk,<small><sub>**MT:**</s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] ostrich, | <span class="asgreek">στρούθον <sup><small><small>[[G9207]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| owl, | <span class="asgreek">γλαύκα <sup><small><small>[[G6737]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gull, | <span class="asgreek">λάρον <sup><small><small>[[G8164]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] ostrich, | <big><span class="asgreek">στρούθον</span></big> <sup><small><small>[[G9207]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| owl, | <big><span class="asgreek">γλαύκα</span></big> <sup><small><small>[[G6737]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gull, | <big><span class="asgreek">λάρον</span></big> <sup><small><small>[[G8164]]</small></small></sup> |
 [[Deut.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.14|<< Deuteronomy 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.16|Deuteronomy 14:16 >>]]</td></tr></table>
 
 

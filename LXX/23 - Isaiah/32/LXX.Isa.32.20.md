@@ -9,17 +9,17 @@ Blessed are those who sow beside abundant waters, who let the ox and donkey rang
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Blessed \[are\] | <span class="asgreek">μακάριοι <sup><small><small>[[G3107]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sowing | <span class="asgreek">σπείροντες <sup><small><small>[[G4687]]</small></small></sup> </span> |
-| by | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| where | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \[the\] ox | <span class="asgreek">βους <sup><small><small>[[G1016]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| donkey | <span class="asgreek">όνος <sup><small><small>[[G3688]]</small></small></sup> </span> |
-| tread. | <span class="asgreek">πατεί <sup><small><small>[[G3961]]</small></small></sup> </span> |
+| Blessed \[are\] | <big><span class="asgreek">μακάριοι</span></big> <sup><small><small>[[G3107]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sowing | <big><span class="asgreek">σπείροντες</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
+| by | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \[the\] ox | <big><span class="asgreek">βους</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| donkey | <big><span class="asgreek">όνος</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| tread. | <big><span class="asgreek">πατεί</span></big> <sup><small><small>[[G3961]]</small></small></sup> |
 [[Isa.32.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.19|<< Isaiah 32:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.1|Isaiah 33:1 >>]]</td></tr></table>
 
 

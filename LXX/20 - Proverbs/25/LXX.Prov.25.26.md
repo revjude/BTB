@@ -9,20 +9,20 @@ Like a muddied spring or a polluted well is a righteous man who gives way to the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| if any one | <span class="asgreek">ει τις <sup><small><small>[[G1536]]</small></small></sup> </span> |
-| a spring | <span class="asgreek">πηγήν <sup><small><small>[[G4077]]</small></small></sup> </span> |
-| may shut up | <span class="asgreek">φράσσοι <sup><small><small>[[G5420]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| of water | <span class="asgreek">ύδατος <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| an exiting | <span class="asgreek">έξοδον <sup><small><small>[[G1841]]</small></small></sup> </span> |
-| lay waste | <span class="asgreek">λυμαίνοιτο <sup><small><small>[[G3075]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| \[it is\] unbecoming | <span class="asgreek">άκοσμον <sup><small><small>[[G6196]]</small></small></sup> </span> |
-| \[for\] a just man | <span class="asgreek">δίκαιον <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| to fall | <span class="asgreek">πεπτωκέναι <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| before | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
-| \[the\] impious. | <span class="asgreek">ασεβούς <sup><small><small>[[G0765]]</small></small></sup> </span> |
+| As | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| if any one | <big><span class="asgreek">ει τις</span></big> <sup><small><small>[[G1536]]</small></small></sup> |
+| a spring | <big><span class="asgreek">πηγήν</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
+| may shut up | <big><span class="asgreek">φράσσοι</span></big> <sup><small><small>[[G5420]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| of water | <big><span class="asgreek">ύδατος</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| an exiting | <big><span class="asgreek">έξοδον</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| lay waste | <big><span class="asgreek">λυμαίνοιτο</span></big> <sup><small><small>[[G3075]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| \[it is\] unbecoming | <big><span class="asgreek">άκοσμον</span></big> <sup><small><small>[[G6196]]</small></small></sup> |
+| \[for\] a just man | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| to fall | <big><span class="asgreek">πεπτωκέναι</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| before | <big><span class="asgreek">ενώπιον</span></big> <sup><small><small>[[G1799]]</small></small></sup> |
+| \[the\] impious. | <big><span class="asgreek">ασεβούς</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
 [[Prov.25.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.25|<< Proverbs 25:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.27|Proverbs 25:27 >>]]</td></tr></table>
 
 

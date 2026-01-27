@@ -9,31 +9,31 @@ The temple was constructed using finished stones cut at the quarry, so that no h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| house | <span class="asgreek">οίκος <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| constructing | <span class="asgreek">οικοδομείσθαι <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθοις <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| in whole | <span class="asgreek">ολοκλήροις <sup><small><small>[[G3648]]</small></small></sup> </span> |
-| chiseled | <span class="asgreek">ακροτόμοις <sup><small><small>[[G6209]]</small></small></sup> </span> |
-| was built | <span class="asgreek">ωκοδομήθη <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a hammer, | <span class="asgreek">σφύρα <sup><small><small>[[G9376]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| hewing axe, | <span class="asgreek">πέλεκυς <sup><small><small>[[G8685]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| item | <span class="asgreek">σκεύος <sup><small><small>[[G4632]]</small></small></sup> </span> |
-| of iron, | <span class="asgreek">σιδήρουν <sup><small><small>[[G4603]]</small></small></sup> </span> |
-| was not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| heard | <span class="asgreek">ηκούσθη <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| constructing | <span class="asgreek">οικοδομείσθαι <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| constructing | <big><span class="asgreek">οικοδομείσθαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| in whole | <big><span class="asgreek">ολοκλήροις</span></big> <sup><small><small>[[G3648]]</small></small></sup> |
+| chiseled | <big><span class="asgreek">ακροτόμοις</span></big> <sup><small><small>[[G6209]]</small></small></sup> |
+| was built | <big><span class="asgreek">ωκοδομήθη</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a hammer, | <big><span class="asgreek">σφύρα</span></big> <sup><small><small>[[G9376]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| hewing axe, | <big><span class="asgreek">πέλεκυς</span></big> <sup><small><small>[[G8685]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| item | <big><span class="asgreek">σκεύος</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
+| of iron, | <big><span class="asgreek">σιδήρουν</span></big> <sup><small><small>[[G4603]]</small></small></sup> |
+| was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| heard | <big><span class="asgreek">ηκούσθη</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| constructing | <big><span class="asgreek">οικοδομείσθαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Kgs.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.6|<< 1 Kings 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.8|1 Kings 6:8 >>]]</td></tr></table>
 
 

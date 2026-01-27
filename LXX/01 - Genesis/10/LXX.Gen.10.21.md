@@ -9,21 +9,21 @@ And sons were also born to Shem, the older brother of Japheth; Shem was the fore
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Shem | <span class="asgreek">Σημ <sup><small><small>[[G4590]]</small></small></sup> </span> |
-| was born, | <span class="asgreek">εγεννήθη <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] father | <span class="asgreek">πατρί <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of all | <span class="asgreek">πάντων <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Eber, | <span class="asgreek">Έβερ <sup><small><small>[[G1443]]</small></small></sup> </span> |
-| brother | <span class="asgreek">αδελφώ <sup><small><small>[[G0080]]</small></small></sup> </span> |
-| of Japheth | <span class="asgreek">Ιάφεθ <sup><small><small>[[H3315]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| greater. | <span class="asgreek">μείζονος <sup><small><small>[[G3173]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Shem | <big><span class="asgreek">Σημ</span></big> <sup><small><small>[[G4590]]</small></small></sup> |
+| was born, | <big><span class="asgreek">εγεννήθη</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] father | <big><span class="asgreek">πατρί</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of all | <big><span class="asgreek">πάντων</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Eber, | <big><span class="asgreek">Έβερ</span></big> <sup><small><small>[[G1443]]</small></small></sup> |
+| brother | <big><span class="asgreek">αδελφώ</span></big> <sup><small><small>[[G0080]]</small></small></sup> |
+| of Japheth | <big><span class="asgreek">Ιάφεθ</span></big> <sup><small><small>[[H3315]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| greater. | <big><span class="asgreek">μείζονος</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
 [[Gen.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.20|<< Genesis 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.22|Genesis 10:22 >>]]</td></tr></table>
 
 

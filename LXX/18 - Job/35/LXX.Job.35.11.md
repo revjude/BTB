@@ -9,15 +9,15 @@ who teaches us more than the beasts of the earth and makes us wiser than the bir
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| separating | <span class="asgreek">διορίζων <sup><small><small>[[G6938]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] four-footed \[beasts\] | <span class="asgreek">τετραπόδων <sup><small><small>[[G5074]]</small></small></sup> </span> |
-| of \[the\] earth, | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[the\] birds | <span class="asgreek">πετεινών <sup><small><small>[[G4071]]</small></small></sup> </span> |
-| of heaven. | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| separating | <big><span class="asgreek">διορίζων</span></big> <sup><small><small>[[G6938]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] four-footed \[beasts\] | <big><span class="asgreek">τετραπόδων</span></big> <sup><small><small>[[G5074]]</small></small></sup> |
+| of \[the\] earth, | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[the\] birds | <big><span class="asgreek">πετεινών</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
+| of heaven. | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
 [[Job.35.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.10|<< Job 35:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.12|Job 35:12 >>]]</td></tr></table>
 
 

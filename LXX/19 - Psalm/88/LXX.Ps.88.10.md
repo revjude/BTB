@@ -9,17 +9,17 @@ Do You work wonders for the dead? Do departed spirits rise up to praise You? Sel
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Shall | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dead | <span class="asgreek">νεκροίς <sup><small><small>[[G3498]]</small></small></sup> </span> |
-| you do | <span class="asgreek">ποιήσεις <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| wonders | <span class="asgreek">θαυμάσια <sup><small><small>[[G2297]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| shall physicians | <span class="asgreek">ιατροί <sup><small><small>[[G2395]]</small></small></sup> </span> |
-| rise up | <span class="asgreek">αναστήσουσι <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| make acknowledgment | <span class="asgreek">εξομολογήσονταί <sup><small><small>[[G1843]]</small></small></sup> </span> |
-| to you? | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dead | <big><span class="asgreek">νεκροίς</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
+| you do | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| wonders | <big><span class="asgreek">θαυμάσια</span></big> <sup><small><small>[[G2297]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| shall physicians | <big><span class="asgreek">ιατροί</span></big> <sup><small><small>[[G2395]]</small></small></sup> |
+| rise up | <big><span class="asgreek">αναστήσουσι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| make acknowledgment | <big><span class="asgreek">εξομολογήσονταί</span></big> <sup><small><small>[[G1843]]</small></small></sup> |
+| to you? | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.88.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.9|<< Psalm 88:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.11|Psalm 88:11 >>]]</td></tr></table>
 
 

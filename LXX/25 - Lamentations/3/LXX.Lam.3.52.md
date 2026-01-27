@@ -11,15 +11,15 @@ Without cause my enemies hunted me like a bird.<small><sub>**MT:**</sub></small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΣΑΔΗ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΣΑΔΗ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| In hunting | <span class="asgreek">θηρεύοντες <sup><small><small>[[G2340]]</small></small></sup> </span> |
-| hunted | <span class="asgreek">εθήρευσάν <sup><small><small>[[G2340]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a sparrow | <span class="asgreek">στρουθίον <sup><small><small>[[G4765]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my enemies | <span class="asgreek">εχθροί <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| freely. | <span class="asgreek">δωρεάν <sup><small><small>[[G1431]]</small></small></sup> </span> |
+| ΣΑΔΗ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΣΑΔΗ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| In hunting | <big><span class="asgreek">θηρεύοντες</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
+| hunted | <big><span class="asgreek">εθήρευσάν</span></big> <sup><small><small>[[G2340]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a sparrow | <big><span class="asgreek">στρουθίον</span></big> <sup><small><small>[[G4765]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my enemies | <big><span class="asgreek">εχθροί</span></big> <sup><small><small>[[G2190]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| freely. | <big><span class="asgreek">δωρεάν</span></big> <sup><small><small>[[G1431]]</small></small></sup> |
 [[Lam.3.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.51|<< Lamentations 3:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.53|Lamentations 3:53 >>]]</td></tr></table>
 
 

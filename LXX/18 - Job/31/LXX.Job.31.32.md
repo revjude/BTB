@@ -9,16 +9,16 @@ but no stranger had to lodge on the street, for my door has been open to the tra
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| outside | <span class="asgreek">έξω <sup><small><small>[[G1854]]</small></small></sup> </span> |
-| for | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| lodged not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ηυλίζετο <sup><small><small>[[G0835]]</small></small></sup> </span> |
-| \[the\] stranger | <span class="asgreek">ξένος <sup><small><small>[[G3581]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| my door | <span class="asgreek">θύρα <sup><small><small>[[G2374]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to all | <span class="asgreek">παντί <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| that came | <span class="asgreek">ελθόντι <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| was open | <span class="asgreek">ανέωκτο <sup><small><small>[[G0455]]</small></small></sup> </span> |
+| outside | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
+| for | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| lodged not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ηυλίζετο</span></big> <sup><small><small>[[G0835]]</small></small></sup> |
+| \[the\] stranger | <big><span class="asgreek">ξένος</span></big> <sup><small><small>[[G3581]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| my door | <big><span class="asgreek">θύρα</span></big> <sup><small><small>[[G2374]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to all | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| that came | <big><span class="asgreek">ελθόντι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| was open | <big><span class="asgreek">ανέωκτο</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
 [[Job.31.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.31|<< Job 31:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.33|Job 31:33 >>]]</td></tr></table>
 
 

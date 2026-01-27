@@ -9,29 +9,29 @@ He lies in wait like a lion in a thicket; he lurks to seize the oppressed; he ca
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| He lies in wait | <span class="asgreek">ενεδρεύει <sup><small><small>[[G1748]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| concealment | <span class="asgreek">αποκρύφω <sup><small><small>[[G0614]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a lion | <span class="asgreek">λέων <sup><small><small>[[G3023]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his lair; | <span class="asgreek">μάνδρα <sup><small><small>[[G8247]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he lies in wait | <span class="asgreek">ενεδρεύει <sup><small><small>[[G1748]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to snatch away | <span class="asgreek">αρπάσαι <sup><small><small>[[G0726]]</small></small></sup> </span> |
-| \[the\] poor; | <span class="asgreek">πτωχόν <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| to snatch away | <span class="asgreek">αρπάσαι <sup><small><small>[[G0726]]</small></small></sup> </span> |
-| \[the\] poor | <span class="asgreek">πτωχόν <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| when | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| he draws | <span class="asgreek">ελκύσαι <sup><small><small>[[G1670]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his snare | <span class="asgreek">παγίδι <sup><small><small>[[G3803]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he humbles | <span class="asgreek">ταπεινώσει <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| He lies in wait | <big><span class="asgreek">ενεδρεύει</span></big> <sup><small><small>[[G1748]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| concealment | <big><span class="asgreek">αποκρύφω</span></big> <sup><small><small>[[G0614]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a lion | <big><span class="asgreek">λέων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his lair; | <big><span class="asgreek">μάνδρα</span></big> <sup><small><small>[[G8247]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he lies in wait | <big><span class="asgreek">ενεδρεύει</span></big> <sup><small><small>[[G1748]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to snatch away | <big><span class="asgreek">αρπάσαι</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
+| \[the\] poor; | <big><span class="asgreek">πτωχόν</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| to snatch away | <big><span class="asgreek">αρπάσαι</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
+| \[the\] poor | <big><span class="asgreek">πτωχόν</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| when | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| he draws | <big><span class="asgreek">ελκύσαι</span></big> <sup><small><small>[[G1670]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his snare | <big><span class="asgreek">παγίδι</span></big> <sup><small><small>[[G3803]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he humbles | <big><span class="asgreek">ταπεινώσει</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.8|<< Psalm 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.10|Psalm 10:10 >>]]</td></tr></table>
 
 

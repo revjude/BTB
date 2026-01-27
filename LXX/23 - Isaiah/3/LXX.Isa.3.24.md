@@ -9,38 +9,38 @@ Instead of fragrance there will be a stench; instead of a belt, a rope; instead 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| instead of | <span class="asgreek">αντί <sup><small><small>[[G0473]]</small></small></sup> </span> |
-| scent | <span class="asgreek">οσμής <sup><small><small>[[G3744]]</small></small></sup> </span> |
-| an agreeable | <span class="asgreek">ηδείας <sup><small><small>[[G7620]]</small></small></sup> </span> |
-| a cloud of dust | <span class="asgreek">κονιορτός <sup><small><small>[[G2868]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| instead of | <span class="asgreek">αντί <sup><small><small>[[G0473]]</small></small></sup> </span> |
-| a belt, | <span class="asgreek">ζώνης <sup><small><small>[[G2223]]</small></small></sup> </span> |
-| with a rough cord | <span class="asgreek">σχοινίω <sup><small><small>[[G4979]]</small></small></sup> </span> |
-| you shall tie around | <span class="asgreek">ζώση <sup><small><small>[[G2224]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| instead of | <span class="asgreek">αντί <sup><small><small>[[G0473]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ornament | <span class="asgreek">κόσμου <sup><small><small>[[G2889]]</small></small></sup> </span> |
-| for the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| head | <span class="asgreek">κεφαλής <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gold | <span class="asgreek">χρυσίου <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| baldness | <span class="asgreek">φαλάκρωμα <sup><small><small>[[G9616]]</small></small></sup> </span> |
-| you shall have | <span class="asgreek">έξεις <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| on account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your works; | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| instead | <span class="asgreek">αντί <sup><small><small>[[G0473]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| inner garment | <span class="asgreek">χιτώνος <sup><small><small>[[G5509]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of purple ornamentation, | <span class="asgreek">μεσοπορφύρου <sup><small><small>[[G8292]]</small></small></sup> </span> |
-| you shall gird on | <span class="asgreek">περιζώση <sup><small><small>[[G4024]]</small></small></sup> </span> |
-| sackcloth. | <span class="asgreek">σάκκον <sup><small><small>[[G4526]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| instead of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
+| scent | <big><span class="asgreek">οσμής</span></big> <sup><small><small>[[G3744]]</small></small></sup> |
+| an agreeable | <big><span class="asgreek">ηδείας</span></big> <sup><small><small>[[G7620]]</small></small></sup> |
+| a cloud of dust | <big><span class="asgreek">κονιορτός</span></big> <sup><small><small>[[G2868]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| instead of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
+| a belt, | <big><span class="asgreek">ζώνης</span></big> <sup><small><small>[[G2223]]</small></small></sup> |
+| with a rough cord | <big><span class="asgreek">σχοινίω</span></big> <sup><small><small>[[G4979]]</small></small></sup> |
+| you shall tie around | <big><span class="asgreek">ζώση</span></big> <sup><small><small>[[G2224]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| instead of | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ornament | <big><span class="asgreek">κόσμου</span></big> <sup><small><small>[[G2889]]</small></small></sup> |
+| for the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| head | <big><span class="asgreek">κεφαλής</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| baldness | <big><span class="asgreek">φαλάκρωμα</span></big> <sup><small><small>[[G9616]]</small></small></sup> |
+| you shall have | <big><span class="asgreek">έξεις</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| on account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your works; | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| instead | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| inner garment | <big><span class="asgreek">χιτώνος</span></big> <sup><small><small>[[G5509]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of purple ornamentation, | <big><span class="asgreek">μεσοπορφύρου</span></big> <sup><small><small>[[G8292]]</small></small></sup> |
+| you shall gird on | <big><span class="asgreek">περιζώση</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
+| sackcloth. | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
 [[Isa.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.23|<< Isaiah 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.25|Isaiah 3:25 >>]]</td></tr></table>
 
 

@@ -9,22 +9,22 @@ Abimelech stayed in Arumah, and Zebul drove Gaal and his brothers out of Shechem
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Abimelech settled | <span class="asgreek">εκάθισεν <sup><small><small>[[G2523]]</small></small></sup> <span class="asgreek">Αβιμέλεχ <sup><small><small>[[H0040]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Arumah, | <span class="asgreek">Αριμά <sup><small><small>[[H0725]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Zebul cast out | <span class="asgreek">εξέβαλε <sup><small><small>[[G1544]]</small></small></sup> <span class="asgreek">Ζεβούλ <sup><small><small>[[H2083]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Gaal | <span class="asgreek">Γαάλ <sup><small><small>[[H1603]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his brethren, | <span class="asgreek">αδελφούς <sup><small><small>[[G0080]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[so as\] to not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| live | <span class="asgreek">οικείν <sup><small><small>[[G3611]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| Shechem. | <span class="asgreek">Σικήμοις <sup><small><small>[[G4966]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Abimelech settled | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> <big><span class="asgreek">Αβιμέλεχ</span></big> <sup><small><small>[[H0040]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Arumah, | <big><span class="asgreek">Αριμά</span></big> <sup><small><small>[[H0725]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Zebul cast out | <big><span class="asgreek">εξέβαλε</span></big> <sup><small><small>[[G1544]]</small></small></sup> <big><span class="asgreek">Ζεβούλ</span></big> <sup><small><small>[[H2083]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Gaal | <big><span class="asgreek">Γαάλ</span></big> <sup><small><small>[[H1603]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his brethren, | <big><span class="asgreek">αδελφούς</span></big> <sup><small><small>[[G0080]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[so as\] to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| live | <big><span class="asgreek">οικείν</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| Shechem. | <big><span class="asgreek">Σικήμοις</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
 [[Judg.9.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.40|<< Judges 9:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.42|Judges 9:42 >>]]</td></tr></table>
 
 

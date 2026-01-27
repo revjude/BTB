@@ -9,15 +9,15 @@ Persia, Cush, and Put will accompany them, all with shields and helmets,<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Persians, | <span class="asgreek">Πέρσαι <sup><small><small>[[H6539]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Ethiopians, | <span class="asgreek">Αιθίοπες <sup><small><small>[[G0128]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Libyans; | <span class="asgreek">Λίβυες <sup><small><small>[[G3033]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| with helmets | <span class="asgreek">περικεφαλαίαις <sup><small><small>[[G4030]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| small shields. | <span class="asgreek">πέλταις <sup><small><small>[[G8689]]</small></small></sup> </span> |
+| Persians, | <big><span class="asgreek">Πέρσαι</span></big> <sup><small><small>[[H6539]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Ethiopians, | <big><span class="asgreek">Αιθίοπες</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Libyans; | <big><span class="asgreek">Λίβυες</span></big> <sup><small><small>[[G3033]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| with helmets | <big><span class="asgreek">περικεφαλαίαις</span></big> <sup><small><small>[[G4030]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| small shields. | <big><span class="asgreek">πέλταις</span></big> <sup><small><small>[[G8689]]</small></small></sup> |
 [[Ezek.38.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.4|<< Ezekiel 38:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.6|Ezekiel 38:6 >>]]</td></tr></table>
 
 

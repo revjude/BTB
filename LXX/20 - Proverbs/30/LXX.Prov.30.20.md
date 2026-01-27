@@ -9,18 +9,18 @@ This is the way of an adulteress: She eats and wipes her mouth and says, ‘I ha
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Such is the | <span class="asgreek">τοιαύτη <sup><small><small>[[G5108]]</small></small></sup> </span> |
-| way | <span class="asgreek">οδός <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| woman | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| of an adulterous | <span class="asgreek">μοιχαλίδος <sup><small><small>[[G3428]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| she should act | <span class="asgreek">πράξη <sup><small><small>[[G4238]]</small></small></sup> </span> |
-| in washing \[herself\], | <span class="asgreek">απονιψαμένη <sup><small><small>[[G0633]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουδέν <sup><small><small>[[G3762]]</small></small></sup> </span> |
-| she says | <span class="asgreek">φησι <sup><small><small>[[G5346]]</small></small></sup> </span> |
-| to have acted | <span class="asgreek">πεπραχέναι <sup><small><small>[[G4238]]</small></small></sup> </span> |
-| out of place. | <span class="asgreek">άτοπον <sup><small><small>[[G0824]]</small></small></sup> </span> |
+| Such is the | <big><span class="asgreek">τοιαύτη</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
+| way | <big><span class="asgreek">οδός</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| of an adulterous | <big><span class="asgreek">μοιχαλίδος</span></big> <sup><small><small>[[G3428]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| she should act | <big><span class="asgreek">πράξη</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
+| in washing \[herself\], | <big><span class="asgreek">απονιψαμένη</span></big> <sup><small><small>[[G0633]]</small></small></sup> |
+| not | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| she says | <big><span class="asgreek">φησι</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
+| to have acted | <big><span class="asgreek">πεπραχέναι</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
+| out of place. | <big><span class="asgreek">άτοπον</span></big> <sup><small><small>[[G0824]]</small></small></sup> |
 [[Prov.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.19|<< Proverbs 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.21|Proverbs 30:21 >>]]</td></tr></table>
 
 

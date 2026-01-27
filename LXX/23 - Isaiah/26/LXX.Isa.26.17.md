@@ -9,22 +9,22 @@ As a woman with child about to give birth writhes and cries out in pain, so were
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| a \[woman\]\<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| travailing | <span class="asgreek">ωδίνουσα <sup><small><small>[[G5605]]</small></small></sup> </span> |
-| approaches | <span class="asgreek">εγγίζει <sup><small><small>[[G1448]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to give birth, | <span class="asgreek">τεκείν <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her \[birth\] pangs | <span class="asgreek">ωδίνι <sup><small><small>[[G5604]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| she cries out, | <span class="asgreek">εκέκραξεν <sup><small><small>[[G2896]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| we were | <span class="asgreek">εγένηθημεν <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| to | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your beloved. | <span class="asgreek">αγαπητώ <sup><small><small>[[G0027]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| a \[woman\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| travailing | <big><span class="asgreek">ωδίνουσα</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
+| approaches | <big><span class="asgreek">εγγίζει</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to give birth, | <big><span class="asgreek">τεκείν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her \[birth\] pangs | <big><span class="asgreek">ωδίνι</span></big> <sup><small><small>[[G5604]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| she cries out, | <big><span class="asgreek">εκέκραξεν</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| we were | <big><span class="asgreek">εγένηθημεν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your beloved. | <big><span class="asgreek">αγαπητώ</span></big> <sup><small><small>[[G0027]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.16|<< Isaiah 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.18|Isaiah 26:18 >>]]</td></tr></table>
 
 

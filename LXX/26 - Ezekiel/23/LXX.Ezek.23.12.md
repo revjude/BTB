@@ -9,25 +9,25 @@ She too lusted after the Assyrians—governors and commanders, warriors dressed 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Assyrians | <span class="asgreek">Ασσυρίων <sup><small><small>[[H0804]]</small></small></sup> </span> |
-| She doted | <span class="asgreek">επέθετο <sup><small><small>[[G2007]]</small></small></sup> </span> |
-| \[the\] leaders, | <span class="asgreek">ηγουμένους <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| commandants | <span class="asgreek">στρατηγούς <sup><small><small>[[G4755]]</small></small></sup> </span> |
-| near | <span class="asgreek">εγγύς <sup><small><small>[[G1451]]</small></small></sup> </span> |
-| her, | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| ones being clothed | <span class="asgreek">ενδεδυκότας <sup><small><small>[[G1746]]</small></small></sup> </span> |
-| elegantly, | <span class="asgreek">ευπάρυφα <sup><small><small>[[G7557]]</small></small></sup> </span> |
-| horsemen | <span class="asgreek">ιππείς <sup><small><small>[[G2460]]</small></small></sup> </span> |
-| riding | <span class="asgreek">ιππαζομένους <sup><small><small>[[G7725]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| horses, | <span class="asgreek">ίππων <sup><small><small>[[G2462]]</small></small></sup> </span> |
-| young men, | <span class="asgreek">νεανίσκους <sup><small><small>[[G3495]]</small></small></sup> </span> |
-| all choice. | <span class="asgreek">επιλέκτους <sup><small><small>[[G7427]]</small></small></sup> <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Assyrians | <big><span class="asgreek">Ασσυρίων</span></big> <sup><small><small>[[H0804]]</small></small></sup> |
+| She doted | <big><span class="asgreek">επέθετο</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
+| \[the\] leaders, | <big><span class="asgreek">ηγουμένους</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| commandants | <big><span class="asgreek">στρατηγούς</span></big> <sup><small><small>[[G4755]]</small></small></sup> |
+| near | <big><span class="asgreek">εγγύς</span></big> <sup><small><small>[[G1451]]</small></small></sup> |
+| her, | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ones being clothed | <big><span class="asgreek">ενδεδυκότας</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
+| elegantly, | <big><span class="asgreek">ευπάρυφα</span></big> <sup><small><small>[[G7557]]</small></small></sup> |
+| horsemen | <big><span class="asgreek">ιππείς</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
+| riding | <big><span class="asgreek">ιππαζομένους</span></big> <sup><small><small>[[G7725]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| horses, | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| young men, | <big><span class="asgreek">νεανίσκους</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
+| all choice. | <big><span class="asgreek">επιλέκτους</span></big> <sup><small><small>[[G7427]]</small></small></sup> <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
 [[Ezek.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.11|<< Ezekiel 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.13|Ezekiel 23:13 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ the fifth was Shephatiah by Abital; and the sixth was Ithream by his wife Eglah.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fifth, | <span class="asgreek">πέμπτος <sup><small><small>[[G3991]]</small></small></sup> </span> |
-| Shephatiah | <span class="asgreek">Σαφατίας <sup><small><small>[[H8203]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Abital. | <span class="asgreek">Αβιτάλ <sup><small><small>[[H0037]]</small></small></sup> </span> |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sixth, | <span class="asgreek">έκτος <sup><small><small>[[G1623]]</small></small></sup> </span> |
-| Ithream | <span class="asgreek">Ιεθραάμ <sup><small><small>[[H3507]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Eglah | <span class="asgreek">Εγλά <sup><small><small>[[H2295]]</small></small></sup> </span> |
-| his wife. | <span class="asgreek">γυναικί <sup><small><small>[[G1135]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fifth, | <big><span class="asgreek">πέμπτος</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
+| Shephatiah | <big><span class="asgreek">Σαφατίας</span></big> <sup><small><small>[[H8203]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Abital. | <big><span class="asgreek">Αβιτάλ</span></big> <sup><small><small>[[H0037]]</small></small></sup> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sixth, | <big><span class="asgreek">έκτος</span></big> <sup><small><small>[[G1623]]</small></small></sup> |
+| Ithream | <big><span class="asgreek">Ιεθραάμ</span></big> <sup><small><small>[[H3507]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Eglah | <big><span class="asgreek">Εγλά</span></big> <sup><small><small>[[H2295]]</small></small></sup> |
+| his wife. | <big><span class="asgreek">γυναικί</span></big> <sup><small><small>[[G1135]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Chr.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.2|<< 1 Chronicles 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.4|1 Chronicles 3:4 >>]]</td></tr></table>
 
 

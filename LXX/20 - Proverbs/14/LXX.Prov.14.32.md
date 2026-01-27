@@ -9,16 +9,16 @@ The wicked man is thrown down by his own sin, but the righteous man has a refuge
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| his evil | <span class="asgreek">κακία <sup><small><small>[[G2549]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall be thrust away | <span class="asgreek">απωσθήσεται <sup><small><small>[[G0683]]</small></small></sup> </span> |
-| \[The\] impious | <span class="asgreek">ασεβής <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| complying | <span class="asgreek">πεποιθώς <sup><small><small>[[G3982]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in his own | <span class="asgreek">εαυτού <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| sacredness | <span class="asgreek">οσιότητι <sup><small><small>[[G3742]]</small></small></sup> </span> |
-| \[is\] just. | <span class="asgreek">δίκαιος <sup><small><small>[[G1342]]</small></small></sup> </span> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| his evil | <big><span class="asgreek">κακία</span></big> <sup><small><small>[[G2549]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall be thrust away | <big><span class="asgreek">απωσθήσεται</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
+| \[The\] impious | <big><span class="asgreek">ασεβής</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| complying | <big><span class="asgreek">πεποιθώς</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| sacredness | <big><span class="asgreek">οσιότητι</span></big> <sup><small><small>[[G3742]]</small></small></sup> |
+| \[is\] just. | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
 [[Prov.14.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.31|<< Proverbs 14:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.33|Proverbs 14:33 >>]]</td></tr></table>
 
 

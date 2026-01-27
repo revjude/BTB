@@ -9,18 +9,18 @@ Though the lips of the forbidden woman drip honey and her speech is smoother tha
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For honey | <span class="asgreek">μέλι <sup><small><small>[[G3192]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| drops | <span class="asgreek">αποστάζει <sup><small><small>[[G6486]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] lips | <span class="asgreek">χειλέων <sup><small><small>[[G5491]]</small></small></sup> </span> |
-| woman | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| of a harlot | <span class="asgreek">πόρνης <sup><small><small>[[G4204]]</small></small></sup> </span> |
-| which | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| a time | <span class="asgreek">καιρόν <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| fattens | <span class="asgreek">λιπαίνει <sup><small><small>[[G8202]]</small></small></sup> </span> |
-| your | <span class="asgreek">σον <sup><small><small>[[G4674]]</small></small></sup> </span> |
-| throat. | <span class="asgreek">φάρυγγα <sup><small><small>[[G9621]]</small></small></sup> </span> |
+| For honey | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| drops | <big><span class="asgreek">αποστάζει</span></big> <sup><small><small>[[G6486]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] lips | <big><span class="asgreek">χειλέων</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
+| woman | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| of a harlot | <big><span class="asgreek">πόρνης</span></big> <sup><small><small>[[G4204]]</small></small></sup> |
+| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| a time | <big><span class="asgreek">καιρόν</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| fattens | <big><span class="asgreek">λιπαίνει</span></big> <sup><small><small>[[G8202]]</small></small></sup> |
+| your | <big><span class="asgreek">σον</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
+| throat. | <big><span class="asgreek">φάρυγγα</span></big> <sup><small><small>[[G9621]]</small></small></sup> |
 [[Prov.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.2|<< Proverbs 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.4|Proverbs 5:4 >>]]</td></tr></table>
 
 

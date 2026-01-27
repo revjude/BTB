@@ -9,16 +9,16 @@ I am not at ease or quiet; I have no rest, for trouble has come.”<small><sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Neither | <span class="asgreek">ούτε <sup><small><small>[[G3777]]</small></small></sup> </span> |
-| was I at peace, | <span class="asgreek">ειρήνευσα <sup><small><small>[[G1514]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ούτε <sup><small><small>[[G3777]]</small></small></sup> </span> |
-| still, | <span class="asgreek">ησύχασα <sup><small><small>[[G2270]]</small></small></sup> </span> |
-| nor | <span class="asgreek">ούτε <sup><small><small>[[G3777]]</small></small></sup> </span> |
-| I rested; | <span class="asgreek">ανεπαυσάμην <sup><small><small>[[G0373]]</small></small></sup> </span> |
-| came | <span class="asgreek">ήλθε <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| wrath | <span class="asgreek">οργή <sup><small><small>[[G3709]]</small></small></sup> </span> |
+| Neither | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
+| was I at peace, | <big><span class="asgreek">ειρήνευσα</span></big> <sup><small><small>[[G1514]]</small></small></sup> |
+| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
+| still, | <big><span class="asgreek">ησύχασα</span></big> <sup><small><small>[[G2270]]</small></small></sup> |
+| nor | <big><span class="asgreek">ούτε</span></big> <sup><small><small>[[G3777]]</small></small></sup> |
+| I rested; | <big><span class="asgreek">ανεπαυσάμην</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
+| came | <big><span class="asgreek">ήλθε</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| wrath | <big><span class="asgreek">οργή</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
 [[Job.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.25|<< Job 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.1|Job 4:1 >>]]</td></tr></table>
 
 

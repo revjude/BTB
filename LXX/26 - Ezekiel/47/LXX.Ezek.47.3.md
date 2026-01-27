@@ -9,18 +9,18 @@ As the man went eastward with a measuring line in his hand, he measured off a th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[And there was\] | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| exiting | <span class="asgreek">έξοδος <sup><small><small>[[G1841]]</small></small></sup> </span> |
-| a man | <span class="asgreek">ανδρός <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| right opposite \[there\]; | <span class="asgreek">εξεναντίας <sup><small><small>[[G7295]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a measure | <span class="asgreek">μέτρον <sup><small><small>[[G3358]]</small></small></sup> </span> |
-| \[was\] in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his hand; | <span class="asgreek">χειρί <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he measured | <span class="asgreek">διεμέτρησεν <sup><small><small>[[G6848]]</small></small></sup> </span> |
-| a thousand. | <span class="asgreek">χιλίους <sup><small><small>[[G5507]]</small></small></sup> </span> |
+| \[And there was\] | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| exiting | <big><span class="asgreek">έξοδος</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| a man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| right opposite \[there\]; | <big><span class="asgreek">εξεναντίας</span></big> <sup><small><small>[[G7295]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a measure | <big><span class="asgreek">μέτρον</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
+| \[was\] in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his hand; | <big><span class="asgreek">χειρί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he measured | <big><span class="asgreek">διεμέτρησεν</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
+| a thousand. | <big><span class="asgreek">χιλίους</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
 [[Ezek.47.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.2|<< Ezekiel 47:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.4|Ezekiel 47:4 >>]]</td></tr></table>
 
 

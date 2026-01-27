@@ -9,34 +9,34 @@ So you were adorned with gold and silver, and your clothing was made of fine lin
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you were adorned | <span class="asgreek">εκοσμήθης <sup><small><small>[[G2885]]</small></small></sup> </span> |
-| in gold | <span class="asgreek">χρυσίω <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| silver, | <span class="asgreek">αργυρίω <sup><small><small>[[G0694]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your wraps | <span class="asgreek">περιβόλαιά σου <sup><small><small>[[G4018]]</small></small></sup> </span> |
-| \[were\] fine linen, | <span class="asgreek">βύσσινα <sup><small><small>[[G1039]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| braids, | <span class="asgreek">τρίχαπτα <sup><small><small>[[G9498]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| colored garments. | <span class="asgreek">ποικίλα <sup><small><small>[[G4164]]</small></small></sup> </span> |
-| fine flour | <span class="asgreek">σεμίδαλιν <sup><small><small>[[G4585]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| olive oil | <span class="asgreek">έλαιον <sup><small><small>[[G1637]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| honey | <span class="asgreek">μέλι <sup><small><small>[[G3192]]</small></small></sup> </span> |
-| You ate | <span class="asgreek">έφαγες <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you became | <span class="asgreek">εγένου <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| good | <span class="asgreek">καλή <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| very | <span class="asgreek">σφόδρα <sup><small><small>[[G4970]]</small></small></sup> </span> |
-| vehemently | <span class="asgreek">σφοδρώς <sup><small><small>[[G4971]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you prospered | <span class="asgreek">κατευθύνθης <sup><small><small>[[G2720]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| royalty. | <span class="asgreek">βασιλείαν <sup><small><small>[[G0932]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you were adorned | <big><span class="asgreek">εκοσμήθης</span></big> <sup><small><small>[[G2885]]</small></small></sup> |
+| in gold | <big><span class="asgreek">χρυσίω</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| silver, | <big><span class="asgreek">αργυρίω</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your wraps | <big><span class="asgreek">περιβόλαιά σου</span></big> <sup><small><small>[[G4018]]</small></small></sup> |
+| \[were\] fine linen, | <big><span class="asgreek">βύσσινα</span></big> <sup><small><small>[[G1039]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| braids, | <big><span class="asgreek">τρίχαπτα</span></big> <sup><small><small>[[G9498]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| colored garments. | <big><span class="asgreek">ποικίλα</span></big> <sup><small><small>[[G4164]]</small></small></sup> |
+| fine flour | <big><span class="asgreek">σεμίδαλιν</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| olive oil | <big><span class="asgreek">έλαιον</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| honey | <big><span class="asgreek">μέλι</span></big> <sup><small><small>[[G3192]]</small></small></sup> |
+| You ate | <big><span class="asgreek">έφαγες</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you became | <big><span class="asgreek">εγένου</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| good | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| very | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| vehemently | <big><span class="asgreek">σφοδρώς</span></big> <sup><small><small>[[G4971]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you prospered | <big><span class="asgreek">κατευθύνθης</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| royalty. | <big><span class="asgreek">βασιλείαν</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
 [[Ezek.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.12|<< Ezekiel 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.14|Ezekiel 16:14 >>]]</td></tr></table>
 
 

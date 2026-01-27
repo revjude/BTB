@@ -9,24 +9,24 @@ When you walk, they will guide you; when you lie down, they will watch over you;
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| When | <span class="asgreek">ηνίκα <sup><small><small>[[G2259]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| you should walk, | <span class="asgreek">περιπατής <sup><small><small>[[G4043]]</small></small></sup> </span> |
-| bring | <span class="asgreek">επάγου <sup><small><small>[[G1863]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| let it be | <span class="asgreek">έστω <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| And when | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> <span class="asgreek">δ΄ <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| you should sleep, | <span class="asgreek">καθεύδης <sup><small><small>[[G2518]]</small></small></sup> </span> |
-| let it guard | <span class="asgreek">φυλασσέτω <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| you! | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| in arising | <span class="asgreek">εγειρομένω <sup><small><small>[[G1453]]</small></small></sup> </span> |
-| it should converse together | <span class="asgreek">συλλαλή <sup><small><small>[[G4814]]</small></small></sup> </span> |
-| with you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| When | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| you should walk, | <big><span class="asgreek">περιπατής</span></big> <sup><small><small>[[G4043]]</small></small></sup> |
+| bring | <big><span class="asgreek">επάγου</span></big> <sup><small><small>[[G1863]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| let it be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| And when | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> <big><span class="asgreek">δ΄</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| you should sleep, | <big><span class="asgreek">καθεύδης</span></big> <sup><small><small>[[G2518]]</small></small></sup> |
+| let it guard | <big><span class="asgreek">φυλασσέτω</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| you! | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| in arising | <big><span class="asgreek">εγειρομένω</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
+| it should converse together | <big><span class="asgreek">συλλαλή</span></big> <sup><small><small>[[G4814]]</small></small></sup> |
+| with you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.21|<< Proverbs 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.23|Proverbs 6:23 >>]]</td></tr></table>
 
 

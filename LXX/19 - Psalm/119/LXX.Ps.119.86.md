@@ -9,15 +9,15 @@ All Your commandments are faithful; I am persecuted without cause—help me!<sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| All | <span class="asgreek">πάσαι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your commandments | <span class="asgreek">εντολαί <sup><small><small>[[G1785]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[are\] truth. | <span class="asgreek">αλήθεια <sup><small><small>[[G0225]]</small></small></sup> </span> |
-| unjustly | <span class="asgreek">αδίκως <sup><small><small>[[G0095]]</small></small></sup> </span> |
-| They pursued | <span class="asgreek">κατεδίωξάν <sup><small><small>[[G2614]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| help | <span class="asgreek">βοήθησόν <sup><small><small>[[G0997]]</small></small></sup> </span> |
-| me! | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| All | <big><span class="asgreek">πάσαι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your commandments | <big><span class="asgreek">εντολαί</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[are\] truth. | <big><span class="asgreek">αλήθεια</span></big> <sup><small><small>[[G0225]]</small></small></sup> |
+| unjustly | <big><span class="asgreek">αδίκως</span></big> <sup><small><small>[[G0095]]</small></small></sup> |
+| They pursued | <big><span class="asgreek">κατεδίωξάν</span></big> <sup><small><small>[[G2614]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| help | <big><span class="asgreek">βοήθησόν</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
+| me! | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.119.86|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.85|<< Psalm 119:85]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.87|Psalm 119:87 >>]]</td></tr></table>
 
 

@@ -9,9 +9,9 @@ I will be found by you, declares the LORD, and I will restore you from captivity
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| then | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall appear unto | <span class="asgreek">επιφανούμαι <sup><small><small>[[G2014]]</small></small></sup> </span> |
-| you. | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall appear unto | <big><span class="asgreek">επιφανούμαι</span></big> <sup><small><small>[[G2014]]</small></small></sup> |
+| you. | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.13|<< Jeremiah 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.15|Jeremiah 29:15 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ They sweep by like boats of papyrus, like an eagle swooping down on its prey.<s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| is there | <span class="asgreek">έστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| of ships | <span class="asgreek">ναυσίν <sup><small><small>[[G3491]]</small></small></sup> </span> |
-| a trace | <span class="asgreek">ίχνος <sup><small><small>[[G2487]]</small></small></sup> </span> |
-| in \[the\] way? | <span class="asgreek">οδού <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| \[a trace of\] an eagle | <span class="asgreek">αετού <sup><small><small>[[G0105]]</small></small></sup> </span> |
-| flying | <span class="asgreek">πετομένου <sup><small><small>[[G4072]]</small></small></sup> </span> |
-| seeking | <span class="asgreek">ζητούντος <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| prey? | <span class="asgreek">βοράν <sup><small><small>[[G6684]]</small></small></sup> </span> |
+| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| is there | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| of ships | <big><span class="asgreek">ναυσίν</span></big> <sup><small><small>[[G3491]]</small></small></sup> |
+| a trace | <big><span class="asgreek">ίχνος</span></big> <sup><small><small>[[G2487]]</small></small></sup> |
+| in \[the\] way? | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| \[a trace of\] an eagle | <big><span class="asgreek">αετού</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
+| flying | <big><span class="asgreek">πετομένου</span></big> <sup><small><small>[[G4072]]</small></small></sup> |
+| seeking | <big><span class="asgreek">ζητούντος</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| prey? | <big><span class="asgreek">βοράν</span></big> <sup><small><small>[[G6684]]</small></small></sup> |
 [[Job.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.25|<< Job 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.27|Job 9:27 >>]]</td></tr></table>
 
 

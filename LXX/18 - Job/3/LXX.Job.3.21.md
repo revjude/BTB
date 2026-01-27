@@ -9,16 +9,16 @@ who long for death that does not come, and search for it like hidden treasure,<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| the ones who | <span class="asgreek">οι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| long for | <span class="asgreek">ιμείρονται <sup><small><small>[[G2442]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| death, | <span class="asgreek">θανάτου <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| do not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| attain; | <span class="asgreek">τυγχάνουσιν <sup><small><small>[[G5177]]</small></small></sup> </span> |
-| rooting it up | <span class="asgreek">ανορύσσοντες <sup><small><small>[[G6351]]</small></small></sup> </span> |
-| as if | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| for treasures; | <span class="asgreek">θησαυρούς <sup><small><small>[[G2344]]</small></small></sup> </span> |
+| the ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| long for | <big><span class="asgreek">ιμείρονται</span></big> <sup><small><small>[[G2442]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| death, | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| attain; | <big><span class="asgreek">τυγχάνουσιν</span></big> <sup><small><small>[[G5177]]</small></small></sup> |
+| rooting it up | <big><span class="asgreek">ανορύσσοντες</span></big> <sup><small><small>[[G6351]]</small></small></sup> |
+| as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| for treasures; | <big><span class="asgreek">θησαυρούς</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
 [[Job.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.20|<< Job 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.22|Job 3:22 >>]]</td></tr></table>
 
 

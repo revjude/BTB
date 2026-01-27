@@ -9,18 +9,18 @@ Otherwise, when you eat and are satisfied, when you build fine houses in which t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| lest | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| having eaten, | <span class="asgreek">φαγών <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| being filled up, | <span class="asgreek">εμπλησθείς <sup><small><small>[[G1705]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| houses | <span class="asgreek">οικίας <sup><small><small>[[G3614]]</small></small></sup> </span> |
-| good | <span class="asgreek">καλάς <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| having built | <span class="asgreek">οικοδομήσας <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">κατοικήσας <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυταίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| having eaten, | <big><span class="asgreek">φαγών</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| being filled up, | <big><span class="asgreek">εμπλησθείς</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| houses | <big><span class="asgreek">οικίας</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| good | <big><span class="asgreek">καλάς</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| having built | <big><span class="asgreek">οικοδομήσας</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">κατοικήσας</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυταίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.11|<< Deuteronomy 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.13|Deuteronomy 8:13 >>]]</td></tr></table>
 
 

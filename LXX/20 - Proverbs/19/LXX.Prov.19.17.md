@@ -9,16 +9,16 @@ Kindness to the poor is a loan to the LORD, and He will repay the lender.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| lends | <span class="asgreek">δανείζει <sup><small><small>[[G1155]]</small></small></sup> </span> |
-| to God | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| The one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| showing mercy | <span class="asgreek">ελεών <sup><small><small>[[G1653]]</small></small></sup> </span> |
-| on \[the\] poor | <span class="asgreek">πτωχόν <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| and according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his gift | <span class="asgreek">δόμα <sup><small><small>[[G1390]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he shall make recompense | <span class="asgreek">ανταποδώσει <sup><small><small>[[G0467]]</small></small></sup> </span> |
-| to him. | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| lends | <big><span class="asgreek">δανείζει</span></big> <sup><small><small>[[G1155]]</small></small></sup> |
+| to God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| The one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| showing mercy | <big><span class="asgreek">ελεών</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
+| on \[the\] poor | <big><span class="asgreek">πτωχόν</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| and according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his gift | <big><span class="asgreek">δόμα</span></big> <sup><small><small>[[G1390]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he shall make recompense | <big><span class="asgreek">ανταποδώσει</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
+| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.16|<< Proverbs 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.18|Proverbs 19:18 >>]]</td></tr></table>
 
 

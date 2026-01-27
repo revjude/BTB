@@ -9,22 +9,22 @@ With what shall I come before the LORD when I bow before the God on high? Should
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| By | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| what \[means\] | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| should I overtake | <span class="asgreek">καταλάβω <sup><small><small>[[G2638]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>? | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| Shall I take hold of | <span class="asgreek">αντιλήψομαι <sup><small><small>[[G0482]]</small></small></sup> </span> |
-| my God | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] highest? | <span class="asgreek">υψίστου <sup><small><small>[[G5310]]</small></small></sup> </span> |
-| Shall | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| I overtake | <span class="asgreek">καταλήψομαι <sup><small><small>[[G2638]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a whole burnt-offering, | <span class="asgreek">ολοκαυτώμασιν <sup><small><small>[[G3646]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| calves | <span class="asgreek">μόσχοις <sup><small><small>[[G3448]]</small></small></sup> </span> |
-| of a year \[old\], \[no\]. | <span class="asgreek">ενιαυσίοις <sup><small><small>[[G7245]]</small></small></sup> </span> |
+| By | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| what \[means\] | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| should I overtake | <big><span class="asgreek">καταλάβω</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Shall I take hold of | <big><span class="asgreek">αντιλήψομαι</span></big> <sup><small><small>[[G0482]]</small></small></sup> |
+| my God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] highest? | <big><span class="asgreek">υψίστου</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
+| Shall | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| I overtake | <big><span class="asgreek">καταλήψομαι</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a whole burnt-offering, | <big><span class="asgreek">ολοκαυτώμασιν</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| calves | <big><span class="asgreek">μόσχοις</span></big> <sup><small><small>[[G3448]]</small></small></sup> |
+| of a year \[old\], \[no\]. | <big><span class="asgreek">ενιαυσίοις</span></big> <sup><small><small>[[G7245]]</small></small></sup> |
 [[Mic.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.5|<< Micah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.7|Micah 6:7 >>]]</td></tr></table>
 
 

@@ -9,26 +9,26 @@ Your portion is among the smooth stones of the valley; indeed, they are your lot
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| That \[is\] | <span class="asgreek">εκείνη <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| portion, | <span class="asgreek">μερίς <sup><small><small>[[G3310]]</small></small></sup> </span> |
-| this is | <span class="asgreek">ούτός <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lot. | <span class="asgreek">κλήρος <sup><small><small>[[G2819]]</small></small></sup> </span> |
-| To those | <span class="asgreek">κακείνοις <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| you poured out | <span class="asgreek">εξέχεας <sup><small><small>[[G1632]]</small></small></sup> </span> |
-| libations, | <span class="asgreek">σπονδάς <sup><small><small>[[G9145]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to these | <span class="asgreek">τούτοις <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| you offered | <span class="asgreek">ανήνεγκας <sup><small><small>[[G0399]]</small></small></sup> </span> |
-| sacrifices; | <span class="asgreek">θυσίας <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| over | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| these \[things\] | <span class="asgreek">τούτοις <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| then | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| shall I not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be provoked to anger? | <span class="asgreek">οργισθήσομαι <sup><small><small>[[G3710]]</small></small></sup> </span> |
+| That \[is\] | <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| portion, | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
+| this is | <big><span class="asgreek">ούτός</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lot. | <big><span class="asgreek">κλήρος</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
+| To those | <big><span class="asgreek">κακείνοις</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| you poured out | <big><span class="asgreek">εξέχεας</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
+| libations, | <big><span class="asgreek">σπονδάς</span></big> <sup><small><small>[[G9145]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to these | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| you offered | <big><span class="asgreek">ανήνεγκας</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
+| sacrifices; | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| over | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| these \[things\] | <big><span class="asgreek">τούτοις</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| shall I not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be provoked to anger? | <big><span class="asgreek">οργισθήσομαι</span></big> <sup><small><small>[[G3710]]</small></small></sup> |
 [[Isa.57.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.5|<< Isaiah 57:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.7|Isaiah 57:7 >>]]</td></tr></table>
 
 

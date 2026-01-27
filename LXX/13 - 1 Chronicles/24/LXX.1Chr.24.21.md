@@ -9,14 +9,14 @@ As for Rehabiah, from his sons: The first was Isshiah.<small><sub>**MT:**</sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Rehabiah, | <span class="asgreek">Ραβία <sup><small><small>[[H7345]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Rehabiah | <span class="asgreek">Ραβία <sup><small><small>[[H7345]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ruler | <span class="asgreek">άρχων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| Iesshiah; | <span class="asgreek">Ιεσία <sup><small><small>[[H3449]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Rehabiah, | <big><span class="asgreek">Ραβία</span></big> <sup><small><small>[[H7345]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Rehabiah | <big><span class="asgreek">Ραβία</span></big> <sup><small><small>[[H7345]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| Iesshiah; | <big><span class="asgreek">Ιεσία</span></big> <sup><small><small>[[H3449]]</small></small></sup> |
 [[1Chr.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.20|<< 1 Chronicles 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.22|1 Chronicles 24:22 >>]]</td></tr></table>
 
 

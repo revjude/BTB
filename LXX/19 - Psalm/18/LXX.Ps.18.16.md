@@ -9,16 +9,16 @@ He reached down from on high and took hold of me; He drew me out of deep waters.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| He sent | <span class="asgreek">εξαπέστειλεν <sup><small><small>[[G1821]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] height, | <span class="asgreek">ύψους <sup><small><small>[[G5311]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he took | <span class="asgreek">έλαβέ <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| me; | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he took me to himself | <span class="asgreek">προσελάβετό <sup><small><small>[[G4355]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| waters | <span class="asgreek">υδάτων <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλών <sup><small><small>[[G4183]]</small></small></sup> </span> |
+| He sent | <big><span class="asgreek">εξαπέστειλεν</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] height, | <big><span class="asgreek">ύψους</span></big> <sup><small><small>[[G5311]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he took | <big><span class="asgreek">έλαβέ</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he took me to himself | <big><span class="asgreek">προσελάβετό</span></big> <sup><small><small>[[G4355]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| waters | <big><span class="asgreek">υδάτων</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
 [[Ps.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.15|<< Psalm 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.17|Psalm 18:17 >>]]</td></tr></table>
 
 

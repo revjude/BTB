@@ -9,25 +9,25 @@ When He struck the rock, water gushed out and torrents raged. But can He also gi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For when | <span class="asgreek">επεί <sup><small><small>[[G1893]]</small></small></sup> </span> |
-| he struck | <span class="asgreek">επάταξε <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| \[the\] rock, | <span class="asgreek">πέτραν <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there flowed | <span class="asgreek">ερρύησαν <sup><small><small>[[G4482]]</small></small></sup> </span> |
-| waters, | <span class="asgreek">ύδατα <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| rushing streams | <span class="asgreek">χείμαρροι <sup><small><small>[[G5493]]</small></small></sup> </span> |
-| inundated, | <span class="asgreek">κατεκλύσθησαν <sup><small><small>[[G2626]]</small></small></sup> </span> |
-| shall | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bread | <span class="asgreek">άρτον <sup><small><small>[[G0740]]</small></small></sup> </span> |
-| he be able | <span class="asgreek">δύναται <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| to give | <span class="asgreek">δούναι <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| prepare | <span class="asgreek">ετοιμάσαι <sup><small><small>[[G2090]]</small></small></sup> </span> |
-| a table | <span class="asgreek">τράπεζαν <sup><small><small>[[G5132]]</small></small></sup> </span> |
-| \[for\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his people? | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For when | <big><span class="asgreek">επεί</span></big> <sup><small><small>[[G1893]]</small></small></sup> |
+| he struck | <big><span class="asgreek">επάταξε</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| \[the\] rock, | <big><span class="asgreek">πέτραν</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there flowed | <big><span class="asgreek">ερρύησαν</span></big> <sup><small><small>[[G4482]]</small></small></sup> |
+| waters, | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| rushing streams | <big><span class="asgreek">χείμαρροι</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
+| inundated, | <big><span class="asgreek">κατεκλύσθησαν</span></big> <sup><small><small>[[G2626]]</small></small></sup> |
+| shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bread | <big><span class="asgreek">άρτον</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| he be able | <big><span class="asgreek">δύναται</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| to give | <big><span class="asgreek">δούναι</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| prepare | <big><span class="asgreek">ετοιμάσαι</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
+| a table | <big><span class="asgreek">τράπεζαν</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
+| \[for\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his people? | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.78.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.19|<< Psalm 78:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.21|Psalm 78:21 >>]]</td></tr></table>
 
 

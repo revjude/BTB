@@ -9,20 +9,20 @@ They will rebuild the ancient ruins; they will restore the places long devastate
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall build up | <span class="asgreek">οικοδομήσουσιν <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| wildernesses | <span class="asgreek">ερήμους <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| everlasting | <span class="asgreek">αιωνίας <sup><small><small>[[G0166]]</small></small></sup> </span> |
-| being made quite desolate | <span class="asgreek">εξηρημωμένας <sup><small><small>[[G7315]]</small></small></sup> </span> |
-| prior. | <span class="asgreek">πρότερον <sup><small><small>[[G4387]]</small></small></sup> </span> |
-| They shall rise up | <span class="asgreek">εξαναστήσουσι <sup><small><small>[[G1817]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall revive | <span class="asgreek">καινιούσι <sup><small><small>[[G7769]]</small></small></sup> </span> |
-| cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| of wildernesses | <span class="asgreek">ερήμους <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| having been made quite desolate | <span class="asgreek">εξηρημωμένας <sup><small><small>[[G7315]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| generations. | <span class="asgreek">γενεάς <sup><small><small>[[G1074]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall build up | <big><span class="asgreek">οικοδομήσουσιν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| wildernesses | <big><span class="asgreek">ερήμους</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| everlasting | <big><span class="asgreek">αιωνίας</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
+| being made quite desolate | <big><span class="asgreek">εξηρημωμένας</span></big> <sup><small><small>[[G7315]]</small></small></sup> |
+| prior. | <big><span class="asgreek">πρότερον</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
+| They shall rise up | <big><span class="asgreek">εξαναστήσουσι</span></big> <sup><small><small>[[G1817]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall revive | <big><span class="asgreek">καινιούσι</span></big> <sup><small><small>[[G7769]]</small></small></sup> |
+| cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| of wildernesses | <big><span class="asgreek">ερήμους</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| having been made quite desolate | <big><span class="asgreek">εξηρημωμένας</span></big> <sup><small><small>[[G7315]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| generations. | <big><span class="asgreek">γενεάς</span></big> <sup><small><small>[[G1074]]</small></small></sup> |
 [[Isa.61.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.3|<< Isaiah 61:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.5|Isaiah 61:5 >>]]</td></tr></table>
 
 

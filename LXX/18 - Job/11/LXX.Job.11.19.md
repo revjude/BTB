@@ -9,15 +9,15 @@ You will lie down without fear, and many will court your favor.<small><sub>**MT
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For you shall be tranquil, | <span class="asgreek">ησυχάσεις <sup><small><small>[[G2270]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there will not be | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one waging war | <span class="asgreek">πολεμών <sup><small><small>[[G4170]]</small></small></sup> </span> |
-| against you; | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and turning, | <span class="asgreek">μεταβαλόμενοι <sup><small><small>[[G3328]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλοί <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| will beseech you. | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δεηθήσονται <sup><small><small>[[G1189]]</small></small></sup> </span> |
+| For you shall be tranquil, | <big><span class="asgreek">ησυχάσεις</span></big> <sup><small><small>[[G2270]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there will not be | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one waging war | <big><span class="asgreek">πολεμών</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
+| against you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and turning, | <big><span class="asgreek">μεταβαλόμενοι</span></big> <sup><small><small>[[G3328]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| will beseech you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δεηθήσονται</span></big> <sup><small><small>[[G1189]]</small></small></sup> |
 [[Job.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.18|<< Job 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.20|Job 11:20 >>]]</td></tr></table>
 
 

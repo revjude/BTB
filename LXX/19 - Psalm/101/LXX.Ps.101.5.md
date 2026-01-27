@@ -9,20 +9,20 @@ Whoever slanders his neighbor in secret, I will put to silence; the one with hau
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one speaking ill | <span class="asgreek">καταλαλούντα <sup><small><small>[[G2635]]</small></small></sup> </span> |
-| in private | <span class="asgreek">λάθρα <sup><small><small>[[G2977]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| near him -- | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| this one | <span class="asgreek">τούτον <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| I drove out. | <span class="asgreek">εξεδίωκον <sup><small><small>[[G1559]]</small></small></sup> </span> |
-| Proud | <span class="asgreek">υπερηφάνω <sup><small><small>[[G5244]]</small></small></sup> </span> |
-| eye | <span class="asgreek">οφθαλμώ <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| insatiable | <span class="asgreek">απλήστω <sup><small><small>[[G6414]]</small></small></sup> </span> |
-| heart -- | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| with this one | <span class="asgreek">τούτω <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| I ate not. | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">συνήσθιον <sup><small><small>[[G4906]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one speaking ill | <big><span class="asgreek">καταλαλούντα</span></big> <sup><small><small>[[G2635]]</small></small></sup> |
+| in private | <big><span class="asgreek">λάθρα</span></big> <sup><small><small>[[G2977]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| near him -- | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| this one | <big><span class="asgreek">τούτον</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| I drove out. | <big><span class="asgreek">εξεδίωκον</span></big> <sup><small><small>[[G1559]]</small></small></sup> |
+| Proud | <big><span class="asgreek">υπερηφάνω</span></big> <sup><small><small>[[G5244]]</small></small></sup> |
+| eye | <big><span class="asgreek">οφθαλμώ</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| insatiable | <big><span class="asgreek">απλήστω</span></big> <sup><small><small>[[G6414]]</small></small></sup> |
+| heart -- | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| with this one | <big><span class="asgreek">τούτω</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| I ate not. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">συνήσθιον</span></big> <sup><small><small>[[G4906]]</small></small></sup> |
 [[Ps.101.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.101.4|<< Psalm 101:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.101.6|Psalm 101:6 >>]]</td></tr></table>
 
 

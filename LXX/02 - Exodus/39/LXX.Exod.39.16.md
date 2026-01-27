@@ -9,15 +9,15 @@ They also made two gold filigree settings and two gold rings, and fastened the t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they made | <span class="asgreek">εποίησαν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| bezels | <span class="asgreek">ασπιδίσκας <sup><small><small>[[G6573]]</small></small></sup> </span> |
-| of gold, | <span class="asgreek">χρυσάς <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| rings | <span class="asgreek">δακτυλίους <sup><small><small>[[G1146]]</small></small></sup> </span> |
-| of gold. | <span class="asgreek">χρυσούς <sup><small><small>[[G5552]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they made | <big><span class="asgreek">εποίησαν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| bezels | <big><span class="asgreek">ασπιδίσκας</span></big> <sup><small><small>[[G6573]]</small></small></sup> |
+| of gold, | <big><span class="asgreek">χρυσάς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| rings | <big><span class="asgreek">δακτυλίους</span></big> <sup><small><small>[[G1146]]</small></small></sup> |
+| of gold. | <big><span class="asgreek">χρυσούς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
 [[Exod.39.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.15|<< Exodus 39:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.17|Exodus 39:17 >>]]</td></tr></table>
 
 

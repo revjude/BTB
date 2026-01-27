@@ -12,17 +12,17 @@ The sons of Issachar: Tola, Puah, Jashub, and Shimron—four in all.<small><sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοίς <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Issachar -- | <span class="asgreek">Ισσάχαρ <sup><small><small>[[G2466]]</small></small></sup> </span> |
-| Tola, | <span class="asgreek">Θαλά <sup><small><small>[[H8439]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Phua, | <span class="asgreek">Φούα <sup><small><small>[[H6326]]</small></small></sup> </span> |
-| Jashub, | <span class="asgreek">Ιασούβ <sup><small><small>[[H3437]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shimron -- | <span class="asgreek">Σομβράν <sup><small><small>[[H8110b]]</small></small></sup> </span> |
-| four. | <span class="asgreek">τέσσαρες <sup><small><small>[[G5064]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοίς</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Issachar -- | <big><span class="asgreek">Ισσάχαρ</span></big> <sup><small><small>[[G2466]]</small></small></sup> |
+| Tola, | <big><span class="asgreek">Θαλά</span></big> <sup><small><small>[[H8439]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Phua, | <big><span class="asgreek">Φούα</span></big> <sup><small><small>[[H6326]]</small></small></sup> |
+| Jashub, | <big><span class="asgreek">Ιασούβ</span></big> <sup><small><small>[[H3437]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shimron -- | <big><span class="asgreek">Σομβράν</span></big> <sup><small><small>[[H8110b]]</small></small></sup> |
+| four. | <big><span class="asgreek">τέσσαρες</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
 [[1Chr.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.81|<< 1 Chronicles 6:81]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.2|1 Chronicles 7:2 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ You eat the fat, wear the wool, and butcher the fattened sheep, but you do not f
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| milk | <span class="asgreek">γάλα <sup><small><small>[[G1051]]</small></small></sup> </span> |
-| you devour | <span class="asgreek">κατέσθετε <sup><small><small>[[G2719]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wool | <span class="asgreek">έρια <sup><small><small>[[G2053]]</small></small></sup> </span> |
-| you put around \[yourselves\], | <span class="asgreek">περιβάλλεσθε <sup><small><small>[[G4016]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| robust | <span class="asgreek">παχύ <sup><small><small>[[G8674]]</small></small></sup> </span> |
-| you slay, | <span class="asgreek">σφάζετε <sup><small><small>[[G4969]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my sheep | <span class="asgreek">πρόβατά <sup><small><small>[[G4263]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you do not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| graze. | <span class="asgreek">βόσκετε <sup><small><small>[[G1006]]</small></small></sup> </span> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| milk | <big><span class="asgreek">γάλα</span></big> <sup><small><small>[[G1051]]</small></small></sup> |
+| you devour | <big><span class="asgreek">κατέσθετε</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wool | <big><span class="asgreek">έρια</span></big> <sup><small><small>[[G2053]]</small></small></sup> |
+| you put around \[yourselves\], | <big><span class="asgreek">περιβάλλεσθε</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| robust | <big><span class="asgreek">παχύ</span></big> <sup><small><small>[[G8674]]</small></small></sup> |
+| you slay, | <big><span class="asgreek">σφάζετε</span></big> <sup><small><small>[[G4969]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my sheep | <big><span class="asgreek">πρόβατά</span></big> <sup><small><small>[[G4263]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| graze. | <big><span class="asgreek">βόσκετε</span></big> <sup><small><small>[[G1006]]</small></small></sup> |
 [[Ezek.34.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.2|<< Ezekiel 34:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.4|Ezekiel 34:4 >>]]</td></tr></table>
 
 

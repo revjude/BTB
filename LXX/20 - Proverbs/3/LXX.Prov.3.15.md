@@ -9,17 +9,17 @@ She is more precious than rubies; nothing you desire compares with her.<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| more valuable than | <span class="asgreek">τιμιωτέρα <sup><small><small>[[G5093]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| she is | <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθων <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| very costly | <span class="asgreek">πολυτελών <sup><small><small>[[G4185]]</small></small></sup> </span> |
-| and every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| valuable \[thing\] | <span class="asgreek">τίμιον <sup><small><small>[[G5093]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| worth | <span class="asgreek">άξιον <sup><small><small>[[G0514]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| more valuable than | <big><span class="asgreek">τιμιωτέρα</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| she is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθων</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| very costly | <big><span class="asgreek">πολυτελών</span></big> <sup><small><small>[[G4185]]</small></small></sup> |
+| and every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| valuable \[thing\] | <big><span class="asgreek">τίμιον</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| worth | <big><span class="asgreek">άξιον</span></big> <sup><small><small>[[G0514]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Prov.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.14|<< Proverbs 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.16|Proverbs 3:16 >>]]</td></tr></table>
 
 

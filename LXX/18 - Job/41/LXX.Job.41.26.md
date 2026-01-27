@@ -9,16 +9,16 @@ The sword that reaches him has no effect, nor does the spear or dart or arrow.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| should meet up with | <span class="asgreek">συναντήσωσιν <sup><small><small>[[G4876]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| lances | <span class="asgreek">λόγχαι <sup><small><small>[[G3057]]</small></small></sup> </span> |
-| nothing | <span class="asgreek">ουθέν <sup><small><small>[[G3762]]</small></small></sup> </span> |
-| in any way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall terrify | <span class="asgreek">πτοήσωσι <sup><small><small>[[G4422]]</small></small></sup> </span> |
-| by spear | <span class="asgreek">δόρυ <sup><small><small>[[G6965]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| chest \[plate\]. | <span class="asgreek">θώρακα <sup><small><small>[[G2382]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| should meet up with | <big><span class="asgreek">συναντήσωσιν</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| lances | <big><span class="asgreek">λόγχαι</span></big> <sup><small><small>[[G3057]]</small></small></sup> |
+| nothing | <big><span class="asgreek">ουθέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| in any way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall terrify | <big><span class="asgreek">πτοήσωσι</span></big> <sup><small><small>[[G4422]]</small></small></sup> |
+| by spear | <big><span class="asgreek">δόρυ</span></big> <sup><small><small>[[G6965]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| chest \[plate\]. | <big><span class="asgreek">θώρακα</span></big> <sup><small><small>[[G2382]]</small></small></sup> |
 [[Job.41.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.25|<< Job 41:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.27|Job 41:27 >>]]</td></tr></table>
 
 

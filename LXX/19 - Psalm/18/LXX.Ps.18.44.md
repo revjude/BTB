@@ -9,14 +9,14 @@ When they hear me, they obey me; foreigners cower before me.<small><sub>**MT:**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] hearing | <span class="asgreek">ακοήν <sup><small><small>[[G0189]]</small></small></sup> </span> |
-| of \[the\] ear | <span class="asgreek">ωτίου <sup><small><small>[[G5621]]</small></small></sup> </span> |
-| they obeyed me. | <span class="asgreek">υπήκουσέ μου <sup><small><small>[[G5219]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| Alien | <span class="asgreek">αλλότριοι <sup><small><small>[[G0245]]</small></small></sup> </span> |
-| lied | <span class="asgreek">εψεύσαντό <sup><small><small>[[G5574]]</small></small></sup> </span> |
-| to me. | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] hearing | <big><span class="asgreek">ακοήν</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
+| of \[the\] ear | <big><span class="asgreek">ωτίου</span></big> <sup><small><small>[[G5621]]</small></small></sup> |
+| they obeyed me. | <big><span class="asgreek">υπήκουσέ μου</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| Alien | <big><span class="asgreek">αλλότριοι</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| lied | <big><span class="asgreek">εψεύσαντό</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
+| to me. | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.18.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.43|<< Psalm 18:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.45|Psalm 18:45 >>]]</td></tr></table>
 
 

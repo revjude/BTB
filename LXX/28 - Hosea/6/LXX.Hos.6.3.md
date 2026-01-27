@@ -9,29 +9,29 @@ So let us know—let us press on to know the LORD. As surely as the sun rises, H
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we shall know, | <span class="asgreek">γνωσόμεθα <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall pursue | <span class="asgreek">διώξωμεν <sup><small><small>[[G1377]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to know | <span class="asgreek">γνώναι <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>. | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| As | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| dawn | <span class="asgreek">όρθρον <sup><small><small>[[G3722]]</small></small></sup> </span> |
-| readied, | <span class="asgreek">έτοιμον <sup><small><small>[[G2092]]</small></small></sup> </span> |
-| we shall find | <span class="asgreek">ευρήσομεν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| him; | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he shall come | <span class="asgreek">ήξει <sup><small><small>[[G2240]]</small></small></sup> </span> |
-| to us | <span class="asgreek">ημίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| rain | <span class="asgreek">υετός <sup><small><small>[[G5205]]</small></small></sup> </span> |
-| early | <span class="asgreek">πρωϊμος <sup><small><small>[[G4406]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| late | <span class="asgreek">όψιμος <sup><small><small>[[G3797]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth. | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we shall know, | <big><span class="asgreek">γνωσόμεθα</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall pursue | <big><span class="asgreek">διώξωμεν</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to know | <big><span class="asgreek">γνώναι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| dawn | <big><span class="asgreek">όρθρον</span></big> <sup><small><small>[[G3722]]</small></small></sup> |
+| readied, | <big><span class="asgreek">έτοιμον</span></big> <sup><small><small>[[G2092]]</small></small></sup> |
+| we shall find | <big><span class="asgreek">ευρήσομεν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
+| to us | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| rain | <big><span class="asgreek">υετός</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
+| early | <big><span class="asgreek">πρωϊμος</span></big> <sup><small><small>[[G4406]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| late | <big><span class="asgreek">όψιμος</span></big> <sup><small><small>[[G3797]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
 [[Hos.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.6.2|<< Hosea 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.4|Hosea 6:4 >>]]</td></tr></table>
 
 

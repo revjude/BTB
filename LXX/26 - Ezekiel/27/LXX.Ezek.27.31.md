@@ -9,24 +9,24 @@ They will shave their heads for you and wrap themselves in sackcloth. They will 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall shave | <span class="asgreek">ξυρήσονται <sup><small><small>[[G3587]]</small></small></sup> </span> |
-| because of | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| unto baldness; | <span class="asgreek">φαλάκρωμα <sup><small><small>[[G9616]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall gird on | <span class="asgreek">περιζώσονται <sup><small><small>[[G4024]]</small></small></sup> </span> |
-| sackcloth, | <span class="asgreek">σάκκον <sup><small><small>[[G4526]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall weep | <span class="asgreek">κλαύσονται <sup><small><small>[[G2799]]</small></small></sup> </span> |
-| over | <span class="asgreek">περί <sup><small><small>[[G4012]]</small></small></sup> </span> |
-| you | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| bitterness | <span class="asgreek">πικρασμώ <sup><small><small>[[G8793]]</small></small></sup> </span> |
-| of life, | <span class="asgreek">ψυχής <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lamenting | <span class="asgreek">κοπετόν <sup><small><small>[[G2870]]</small></small></sup> </span> |
-| bitterly. | <span class="asgreek">πικρόν <sup><small><small>[[G4089]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall shave | <big><span class="asgreek">ξυρήσονται</span></big> <sup><small><small>[[G3587]]</small></small></sup> |
+| because of | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| unto baldness; | <big><span class="asgreek">φαλάκρωμα</span></big> <sup><small><small>[[G9616]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall gird on | <big><span class="asgreek">περιζώσονται</span></big> <sup><small><small>[[G4024]]</small></small></sup> |
+| sackcloth, | <big><span class="asgreek">σάκκον</span></big> <sup><small><small>[[G4526]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall weep | <big><span class="asgreek">κλαύσονται</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
+| over | <big><span class="asgreek">περί</span></big> <sup><small><small>[[G4012]]</small></small></sup> |
+| you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| bitterness | <big><span class="asgreek">πικρασμώ</span></big> <sup><small><small>[[G8793]]</small></small></sup> |
+| of life, | <big><span class="asgreek">ψυχής</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lamenting | <big><span class="asgreek">κοπετόν</span></big> <sup><small><small>[[G2870]]</small></small></sup> |
+| bitterly. | <big><span class="asgreek">πικρόν</span></big> <sup><small><small>[[G4089]]</small></small></sup> |
 [[Ezek.27.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.30|<< Ezekiel 27:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.32|Ezekiel 27:32 >>]]</td></tr></table>
 
 

@@ -9,29 +9,29 @@ Did the gods of the nations destroyed by my fathers rescue those nations—the g
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[Have\] | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| rescued | <span class="asgreek">ερρύσαντο <sup><small><small>[[G4506]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gods | <span class="asgreek">θεοί <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations | <span class="asgreek">εθνών <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| whom | <span class="asgreek">ους <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| destroyed | <span class="asgreek">απώλεσαν <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my fathers | <span class="asgreek">πατέρες <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| both | <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| Gozan, | <span class="asgreek">Γώζαν <sup><small><small>[[H1470]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Haran, | <span class="asgreek">Χαρράν <sup><small><small>[[G5488]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Rezeph, | <span class="asgreek">Ρασέμ <sup><small><small>[[H7530]]</small></small></sup> </span> |
-| which | <span class="asgreek">αι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| are | <span class="asgreek">εισιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] place | <span class="asgreek">χώρα <sup><small><small>[[G5561]]</small></small></sup> </span> |
-| of Telassar? | <span class="asgreek">Θεεμάθ <sup><small><small>[[H8515]]</small></small></sup> </span> |
+| \[Have\] | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| rescued | <big><span class="asgreek">ερρύσαντο</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gods | <big><span class="asgreek">θεοί</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| destroyed | <big><span class="asgreek">απώλεσαν</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my fathers | <big><span class="asgreek">πατέρες</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| both | <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| Gozan, | <big><span class="asgreek">Γώζαν</span></big> <sup><small><small>[[H1470]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Haran, | <big><span class="asgreek">Χαρράν</span></big> <sup><small><small>[[G5488]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Rezeph, | <big><span class="asgreek">Ρασέμ</span></big> <sup><small><small>[[H7530]]</small></small></sup> |
+| which | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] place | <big><span class="asgreek">χώρα</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
+| of Telassar? | <big><span class="asgreek">Θεεμάθ</span></big> <sup><small><small>[[H8515]]</small></small></sup> |
 [[Isa.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.11|<< Isaiah 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.13|Isaiah 37:13 >>]]</td></tr></table>
 
 

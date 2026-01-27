@@ -9,15 +9,15 @@ and a tenth of an ephah with each of the seven male lambs.<small><sub>**MT:**</
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A tenth | <span class="asgreek">δέκατον <sup><small><small>[[G1181]]</small></small></sup> </span> |
-| tithe | <span class="asgreek">δέκατον <sup><small><small>[[G1181]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lamb | <span class="asgreek">αμνώ <sup><small><small>[[G0286]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one | <span class="asgreek">ενί <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seven | <span class="asgreek">επτά <sup><small><small>[[G2033]]</small></small></sup> </span> |
-| lambs. | <span class="asgreek">αμνοίς <sup><small><small>[[G0286]]</small></small></sup> </span> |
+| A tenth | <big><span class="asgreek">δέκατον</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
+| tithe | <big><span class="asgreek">δέκατον</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lamb | <big><span class="asgreek">αμνώ</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one | <big><span class="asgreek">ενί</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
+| lambs. | <big><span class="asgreek">αμνοίς</span></big> <sup><small><small>[[G0286]]</small></small></sup> |
 [[Num.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.3|<< Numbers 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.5|Numbers 29:5 >>]]</td></tr></table>
 
 

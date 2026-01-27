@@ -9,16 +9,16 @@ Blessings are on the head of the righteous, but the mouth of the wicked conceals
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A blessing | <span class="asgreek">ευλογιά <sup><small><small>[[G2129]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \[is\] upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] head | <span class="asgreek">κεφαλήν <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| of \[the\] just; | <span class="asgreek">δικαίου <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| but \[the\] mouth | <span class="asgreek">στόμα <sup><small><small>[[G4750]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of \[the\] impious | <span class="asgreek">ασεβών <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| he covers | <span class="asgreek">καλύψει <sup><small><small>[[G2572]]</small></small></sup> </span> |
-| mourning | <span class="asgreek">πένθος <sup><small><small>[[G3997]]</small></small></sup> </span> |
-| \[with\] untimely | <span class="asgreek">άωρον <sup><small><small>[[G6639]]</small></small></sup> </span> |
+| A blessing | <big><span class="asgreek">ευλογιά</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[is\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| of \[the\] just; | <big><span class="asgreek">δικαίου</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| but \[the\] mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of \[the\] impious | <big><span class="asgreek">ασεβών</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| he covers | <big><span class="asgreek">καλύψει</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
+| mourning | <big><span class="asgreek">πένθος</span></big> <sup><small><small>[[G3997]]</small></small></sup> |
+| \[with\] untimely | <big><span class="asgreek">άωρον</span></big> <sup><small><small>[[G6639]]</small></small></sup> |
 [[Prov.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.5|<< Proverbs 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.7|Proverbs 10:7 >>]]</td></tr></table>
 
 

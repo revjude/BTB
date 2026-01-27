@@ -9,15 +9,15 @@ The good man obtains favor from the LORD, but the LORD condemns a man who devise
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Better | <span class="asgreek">κρείσσων <sup><small><small>[[G2908]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| finding | <span class="asgreek">ευρών <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| favor | <span class="asgreek">χάριν <sup><small><small>[[G5485]]</small></small></sup> </span> |
-| from | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>; | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| but a man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[who is\] a lawbreaker | <span class="asgreek">παράνομος <sup><small><small>[[G8627]]</small></small></sup> </span> |
-| shall be silenced. | <span class="asgreek">παρασιωπηθήσεται <sup><small><small>[[G8637]]</small></small></sup> </span> |
+| Better | <big><span class="asgreek">κρείσσων</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| finding | <big><span class="asgreek">ευρών</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| favor | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
+| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| but a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[who is\] a lawbreaker | <big><span class="asgreek">παράνομος</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
+| shall be silenced. | <big><span class="asgreek">παρασιωπηθήσεται</span></big> <sup><small><small>[[G8637]]</small></small></sup> |
 [[Prov.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.1|<< Proverbs 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.3|Proverbs 12:3 >>]]</td></tr></table>
 
 

@@ -9,19 +9,19 @@ On what were its foundations set, or who laid its cornerstone,<small><sub>**MT:
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| what | <span class="asgreek">τίνος <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| are its hooks | <span class="asgreek">κρίκοι <sup><small><small>[[G8095]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| pitched on? | <span class="asgreek">πεπήγασι <sup><small><small>[[G4078]]</small></small></sup> </span> |
-| And who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \[the\] one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| foundation | <span class="asgreek">βαλών <sup><small><small>[[G0906]]</small></small></sup> </span> |
-| stone | <span class="asgreek">λίθον <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| an angular | <span class="asgreek">γωνιαίον <sup><small><small>[[G6779]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| it? | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| what | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| are its hooks | <big><span class="asgreek">κρίκοι</span></big> <sup><small><small>[[G8095]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| pitched on? | <big><span class="asgreek">πεπήγασι</span></big> <sup><small><small>[[G4078]]</small></small></sup> |
+| And who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| is | <big><span class="asgreek">εστιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \[the\] one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| foundation | <big><span class="asgreek">βαλών</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
+| stone | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| an angular | <big><span class="asgreek">γωνιαίον</span></big> <sup><small><small>[[G6779]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| it? | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.5|<< Job 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.7|Job 38:7 >>]]</td></tr></table>
 
 

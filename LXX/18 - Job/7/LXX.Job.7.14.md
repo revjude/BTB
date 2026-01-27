@@ -9,13 +9,13 @@ then You frighten me with dreams and terrify me with visions,<small><sub>**MT:*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You frighten | <span class="asgreek">εκφοβείς <sup><small><small>[[G1629]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[with\] dreams, | <span class="asgreek">ενυπνίοις <sup><small><small>[[G1798]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| visions | <span class="asgreek">οράμασί <sup><small><small>[[G3705]]</small></small></sup> </span> |
-| you strike terror in me. | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">καταπλήσσεις <sup><small><small>[[G7899]]</small></small></sup> </span> |
+| You frighten | <big><span class="asgreek">εκφοβείς</span></big> <sup><small><small>[[G1629]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[with\] dreams, | <big><span class="asgreek">ενυπνίοις</span></big> <sup><small><small>[[G1798]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| visions | <big><span class="asgreek">οράμασί</span></big> <sup><small><small>[[G3705]]</small></small></sup> |
+| you strike terror in me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">καταπλήσσεις</span></big> <sup><small><small>[[G7899]]</small></small></sup> |
 [[Job.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.13|<< Job 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.15|Job 7:15 >>]]</td></tr></table>
 
 

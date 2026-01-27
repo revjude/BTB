@@ -9,23 +9,23 @@ As for the eye that mocks a father and scorns obedience to a mother, may the rav
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] eye | <span class="asgreek">οφθαλμόν <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| ridiculing | <span class="asgreek">καταγελώντα <sup><small><small>[[G2606]]</small></small></sup> </span> |
-| a father, | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| dishonoring | <span class="asgreek">ατιμάζοντα <sup><small><small>[[G0818]]</small></small></sup> </span> |
-| \[the\] old age | <span class="asgreek">γήρας <sup><small><small>[[G1094]]</small></small></sup> </span> |
-| of a mother -- | <span class="asgreek">μητρός <sup><small><small>[[G3384]]</small></small></sup> </span> |
-| cut it out | <span class="asgreek">εκκόψαισαν <sup><small><small>[[G1581]]</small></small></sup> <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| let \[the\] crows | <span class="asgreek">κόρακες <sup><small><small>[[G2876]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ravines | <span class="asgreek">φαράγγων <sup><small><small>[[G5327]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| devour | <span class="asgreek">καταφάγοισαν <sup><small><small>[[G2719]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] young | <span class="asgreek">νεοσσοί <sup><small><small>[[G3502]]</small></small></sup> </span> |
-| of \[the\] eagles | <span class="asgreek">αετών <sup><small><small>[[G0105]]</small></small></sup> </span> |
+| \[The\] eye | <big><span class="asgreek">οφθαλμόν</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| ridiculing | <big><span class="asgreek">καταγελώντα</span></big> <sup><small><small>[[G2606]]</small></small></sup> |
+| a father, | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| dishonoring | <big><span class="asgreek">ατιμάζοντα</span></big> <sup><small><small>[[G0818]]</small></small></sup> |
+| \[the\] old age | <big><span class="asgreek">γήρας</span></big> <sup><small><small>[[G1094]]</small></small></sup> |
+| of a mother -- | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> |
+| cut it out | <big><span class="asgreek">εκκόψαισαν</span></big> <sup><small><small>[[G1581]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| let \[the\] crows | <big><span class="asgreek">κόρακες</span></big> <sup><small><small>[[G2876]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ravines | <big><span class="asgreek">φαράγγων</span></big> <sup><small><small>[[G5327]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| devour | <big><span class="asgreek">καταφάγοισαν</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] young | <big><span class="asgreek">νεοσσοί</span></big> <sup><small><small>[[G3502]]</small></small></sup> |
+| of \[the\] eagles | <big><span class="asgreek">αετών</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
 [[Prov.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.16|<< Proverbs 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.18|Proverbs 30:18 >>]]</td></tr></table>
 
 

@@ -9,13 +9,13 @@ She makes linen garments and sells them; she delivers sashes to the merchants.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| fine linen | <span class="asgreek">σινδόνας <sup><small><small>[[G4616]]</small></small></sup> </span> |
-| She makes | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gives back | <span class="asgreek">απέδοτο <sup><small><small>[[G0591]]</small></small></sup> </span> |
-| loincloths | <span class="asgreek">περιζώματα <sup><small><small>[[G8726]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Canaanites. | <span class="asgreek">Χαναναίοις <sup><small><small>[[G5477]]</small></small></sup> </span> |
+| fine linen | <big><span class="asgreek">σινδόνας</span></big> <sup><small><small>[[G4616]]</small></small></sup> |
+| She makes | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gives back | <big><span class="asgreek">απέδοτο</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| loincloths | <big><span class="asgreek">περιζώματα</span></big> <sup><small><small>[[G8726]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Canaanites. | <big><span class="asgreek">Χαναναίοις</span></big> <sup><small><small>[[G5477]]</small></small></sup> |
 [[Prov.31.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.23|<< Proverbs 31:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.25|Proverbs 31:25 >>]]</td></tr></table>
 
 

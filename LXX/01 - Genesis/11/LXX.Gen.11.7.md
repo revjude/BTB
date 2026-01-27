@@ -9,19 +9,19 @@ Come, let Us go down and confuse their language, so that they will not understan
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Come, | <span class="asgreek">δεύτε <sup><small><small>[[G1205]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| going down, | <span class="asgreek">καταβάντες <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| let us confound | <span class="asgreek">συγχέωμεν <sup><small><small>[[G4797]]</small></small></sup> </span> |
-| their language, | <span class="asgreek">γλώσσαν <sup><small><small>[[G1100]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| they should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| hearken to | <span class="asgreek">ακούσωσιν <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| each | <span class="asgreek">έκαστος <sup><small><small>[[G1538]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| voice | <span class="asgreek">φωνής <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| neighbor. | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> </span> |
+| Come, | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| going down, | <big><span class="asgreek">καταβάντες</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| let us confound | <big><span class="asgreek">συγχέωμεν</span></big> <sup><small><small>[[G4797]]</small></small></sup> |
+| their language, | <big><span class="asgreek">γλώσσαν</span></big> <sup><small><small>[[G1100]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| they should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| hearken to | <big><span class="asgreek">ακούσωσιν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| voice | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| neighbor. | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
 [[Gen.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.6|<< Genesis 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.8|Genesis 11:8 >>]]</td></tr></table>
 
 

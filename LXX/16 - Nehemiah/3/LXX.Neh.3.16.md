@@ -9,30 +9,30 @@ Beyond him, Nehemiah son of Azbuk, ruler of a half-district of Beth-zur, made re
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| After | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Nehemiah repaired, | <span class="asgreek">εκράτησε <sup><small><small>[[G2902]]</small></small></sup> <span class="asgreek">Νεεμίας <sup><small><small>[[H5166]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Azabuk, | <span class="asgreek">Εζβούχ <sup><small><small>[[H5802]]</small></small></sup> </span> |
-| ruler | <span class="asgreek">άρχων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of half | <span class="asgreek">ημίσους <sup><small><small>[[G2255]]</small></small></sup> </span> |
-| \[the\] place round about | <span class="asgreek">περιχώρου <sup><small><small>[[G4066]]</small></small></sup> </span> |
-| Beth-zur, | <span class="asgreek">Βηθσούρ <sup><small><small>[[H1049]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| \[the\] garden | <span class="asgreek">κήπου <sup><small><small>[[G2779]]</small></small></sup> </span> |
-| of \[the\] burying-place | <span class="asgreek">τάφου <sup><small><small>[[G5028]]</small></small></sup> </span> |
-| of David, | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| pool | <span class="asgreek">κολυμβήθρας <sup><small><small>[[G2861]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being \[built by man\], | <span class="asgreek">γεγονυίας <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| \[the\] house | <span class="asgreek">οίκου <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mighty ones. | <span class="asgreek">δυνατών <sup><small><small>[[G1415]]</small></small></sup> </span> |
+| After | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Nehemiah repaired, | <big><span class="asgreek">εκράτησε</span></big> <sup><small><small>[[G2902]]</small></small></sup> <big><span class="asgreek">Νεεμίας</span></big> <sup><small><small>[[H5166]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Azabuk, | <big><span class="asgreek">Εζβούχ</span></big> <sup><small><small>[[H5802]]</small></small></sup> |
+| ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of half | <big><span class="asgreek">ημίσους</span></big> <sup><small><small>[[G2255]]</small></small></sup> |
+| \[the\] place round about | <big><span class="asgreek">περιχώρου</span></big> <sup><small><small>[[G4066]]</small></small></sup> |
+| Beth-zur, | <big><span class="asgreek">Βηθσούρ</span></big> <sup><small><small>[[H1049]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| \[the\] garden | <big><span class="asgreek">κήπου</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
+| of \[the\] burying-place | <big><span class="asgreek">τάφου</span></big> <sup><small><small>[[G5028]]</small></small></sup> |
+| of David, | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| pool | <big><span class="asgreek">κολυμβήθρας</span></big> <sup><small><small>[[G2861]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being \[built by man\], | <big><span class="asgreek">γεγονυίας</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| \[the\] house | <big><span class="asgreek">οίκου</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mighty ones. | <big><span class="asgreek">δυνατών</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
 [[Neh.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.15|<< Nehemiah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.17|Nehemiah 3:17 >>]]</td></tr></table>
 
 

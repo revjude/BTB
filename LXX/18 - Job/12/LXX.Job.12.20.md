@@ -9,13 +9,13 @@ He deprives the trusted of speech and takes away the discernment of elders.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| reconciling | <span class="asgreek">διαλλάσσων <sup><small><small>[[G1259]]</small></small></sup> </span> |
-| \[the\] lips | <span class="asgreek">χείλη <sup><small><small>[[G5491]]</small></small></sup> </span> |
-| of \[the\] trustworthy; | <span class="asgreek">πιστών <sup><small><small>[[G4103]]</small></small></sup> </span> |
-| \[the\] understanding | <span class="asgreek">σύνεσιν <sup><small><small>[[G4907]][[G1161]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of \[the\] elders | <span class="asgreek">πρεσβυτέρων <sup><small><small>[[G4245]]</small></small></sup> </span> |
-| he knew; | <span class="asgreek">έγνω <sup><small><small>[[G1097]]</small></small></sup> </span> |
+| reconciling | <big><span class="asgreek">διαλλάσσων</span></big> <sup><small><small>[[G1259]]</small></small></sup> |
+| \[the\] lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
+| of \[the\] trustworthy; | <big><span class="asgreek">πιστών</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
+| \[the\] understanding | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]][[G1161]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of \[the\] elders | <big><span class="asgreek">πρεσβυτέρων</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
+| he knew; | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
 [[Job.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.19|<< Job 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.21|Job 12:21 >>]]</td></tr></table>
 
 

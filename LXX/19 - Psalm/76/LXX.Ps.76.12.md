@@ -9,18 +9,18 @@ He breaks the spirits of princes; He is feared by the kings of the earth.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fearful one | <span class="asgreek">φοβερώ <sup><small><small>[[G5398]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] one removing | <span class="asgreek">αφαιρουμένω <sup><small><small>[[G0851]]</small></small></sup> </span> |
-| \[the\] spirits | <span class="asgreek">πνεύματα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| of rulers; | <span class="asgreek">αρχόντων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| fearful | <span class="asgreek">φοβερώ <sup><small><small>[[G5398]]</small></small></sup> </span> |
-| to | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| kings | <span class="asgreek">βασιλεύσι <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth. | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fearful one | <big><span class="asgreek">φοβερώ</span></big> <sup><small><small>[[G5398]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] one removing | <big><span class="asgreek">αφαιρουμένω</span></big> <sup><small><small>[[G0851]]</small></small></sup> |
+| \[the\] spirits | <big><span class="asgreek">πνεύματα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| of rulers; | <big><span class="asgreek">αρχόντων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| fearful | <big><span class="asgreek">φοβερώ</span></big> <sup><small><small>[[G5398]]</small></small></sup> |
+| to | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| kings | <big><span class="asgreek">βασιλεύσι</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
 [[Ps.76.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.11|<< Psalm 76:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.1|Psalm 77:1 >>]]</td></tr></table>
 
 

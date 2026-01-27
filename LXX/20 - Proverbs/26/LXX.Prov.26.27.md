@@ -9,20 +9,20 @@ He who digs a pit will fall into it, and he who rolls a stone will have it roll 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one digging | <span class="asgreek">ορύσσων <sup><small><small>[[G3736]]</small></small></sup> </span> |
-| a pit | <span class="asgreek">βόθρον <sup><small><small>[[G6679]]</small></small></sup> </span> |
-| \[for his\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| neighbor | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> </span> |
-| shall fall | <span class="asgreek">εμπεσείται <sup><small><small>[[G1706]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| it; | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| one rolling | <span class="asgreek">κυλίων <sup><small><small>[[G2947]]</small></small></sup> </span> |
-| a stone, | <span class="asgreek">λίθον <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| himself | <span class="asgreek">εαυτόν <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| rolls it | <span class="asgreek">κυλίει <sup><small><small>[[G2947]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one digging | <big><span class="asgreek">ορύσσων</span></big> <sup><small><small>[[G3736]]</small></small></sup> |
+| a pit | <big><span class="asgreek">βόθρον</span></big> <sup><small><small>[[G6679]]</small></small></sup> |
+| \[for his\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| neighbor | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
+| shall fall | <big><span class="asgreek">εμπεσείται</span></big> <sup><small><small>[[G1706]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| it; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| one rolling | <big><span class="asgreek">κυλίων</span></big> <sup><small><small>[[G2947]]</small></small></sup> |
+| a stone, | <big><span class="asgreek">λίθον</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| himself | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| rolls it | <big><span class="asgreek">κυλίει</span></big> <sup><small><small>[[G2947]]</small></small></sup> |
 [[Prov.26.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.26|<< Proverbs 26:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.28|Proverbs 26:28 >>]]</td></tr></table>
 
 

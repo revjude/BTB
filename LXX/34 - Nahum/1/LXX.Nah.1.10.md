@@ -9,20 +9,20 @@ For they will be entangled as with thorns and consumed like the drink of a drunk
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For \[the enemy\] | <span class="asgreek">οτί <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| his foundation | <span class="asgreek">θεμελίου <sup><small><small>[[G2310]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| will be made barren | <span class="asgreek">χερσωθήσεται <sup><small><small>[[G9720]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a yew tree | <span class="asgreek">σμίλαξ <sup><small><small>[[G9127]]</small></small></sup> </span> |
-| being twisted | <span class="asgreek">περιπλεκόμενη <sup><small><small>[[G8746]]</small></small></sup> </span> |
-| he shall be devoured, | <span class="asgreek">βρωθήσεται <sup><small><small>[[G0977]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| stubble | <span class="asgreek">καλάμη <sup><small><small>[[G2562]]</small></small></sup> </span> |
-| he shall be dried up | <span class="asgreek">ξηρανθήσεται <sup><small><small>[[G3583]]</small></small></sup> </span> |
-| fully. | <span class="asgreek">μεστή <sup><small><small>[[G3324]]</small></small></sup> </span> |
+| For \[the enemy\] | <big><span class="asgreek">οτί</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| his foundation | <big><span class="asgreek">θεμελίου</span></big> <sup><small><small>[[G2310]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| will be made barren | <big><span class="asgreek">χερσωθήσεται</span></big> <sup><small><small>[[G9720]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a yew tree | <big><span class="asgreek">σμίλαξ</span></big> <sup><small><small>[[G9127]]</small></small></sup> |
+| being twisted | <big><span class="asgreek">περιπλεκόμενη</span></big> <sup><small><small>[[G8746]]</small></small></sup> |
+| he shall be devoured, | <big><span class="asgreek">βρωθήσεται</span></big> <sup><small><small>[[G0977]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| stubble | <big><span class="asgreek">καλάμη</span></big> <sup><small><small>[[G2562]]</small></small></sup> |
+| he shall be dried up | <big><span class="asgreek">ξηρανθήσεται</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| fully. | <big><span class="asgreek">μεστή</span></big> <sup><small><small>[[G3324]]</small></small></sup> |
 [[Nah.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.9|<< Nahum 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.11|Nahum 1:11 >>]]</td></tr></table>
 
 

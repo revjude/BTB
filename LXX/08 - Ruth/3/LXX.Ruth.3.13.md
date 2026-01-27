@@ -9,29 +9,29 @@ Stay here tonight, and in the morning, if he wants to redeem you, good. Let him 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You lodge | <span class="asgreek">αυλίσθητι <sup><small><small>[[G0835]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| night! | <span class="asgreek">νύκτα <sup><small><small>[[G3571]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in the morning, | <span class="asgreek">τοπρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| he should act as next of kin | <span class="asgreek">αγχιστεύση <sup><small><small>[[G6131]]</small></small></sup> </span> |
-| for you -- | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| good, | <span class="asgreek">αγαθόν <sup><small><small>[[G0018]]</small></small></sup> </span> |
-| let him act as next of kin! | <span class="asgreek">αγχιστευέτω <sup><small><small>[[G6131]]</small></small></sup> </span> |
-| But if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| he should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| want | <span class="asgreek">βούληται <sup><small><small>[[G1014]]</small></small></sup> </span> |
-| to act as next of kin | <span class="asgreek">αγχιστεύσαί <sup><small><small>[[G6131]]</small></small></sup> </span> |
-| for you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall act as next of kin | <span class="asgreek">αγχιστεύσω <sup><small><small>[[G6131]]</small></small></sup> </span> |
-| for you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[As\] \[the\] <span class="smallcaps">lord</span> lives, | <span class="asgreek">ζη <sup><small><small>[[G2198]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| you go to sleep | <span class="asgreek">κοιμήθητι <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| morning! | <span class="asgreek">πρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
+| You lodge | <big><span class="asgreek">αυλίσθητι</span></big> <sup><small><small>[[G0835]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| night! | <big><span class="asgreek">νύκτα</span></big> <sup><small><small>[[G3571]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in the morning, | <big><span class="asgreek">τοπρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| he should act as next of kin | <big><span class="asgreek">αγχιστεύση</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
+| for you -- | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| good, | <big><span class="asgreek">αγαθόν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| let him act as next of kin! | <big><span class="asgreek">αγχιστευέτω</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
+| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| he should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| want | <big><span class="asgreek">βούληται</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
+| to act as next of kin | <big><span class="asgreek">αγχιστεύσαί</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
+| for you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall act as next of kin | <big><span class="asgreek">αγχιστεύσω</span></big> <sup><small><small>[[G6131]]</small></small></sup> |
+| for you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[As\] \[the\] <span class="smallcaps">lord</span> lives, | <big><span class="asgreek">ζη</span></big> <sup><small><small>[[G2198]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| you go to sleep | <big><span class="asgreek">κοιμήθητι</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| morning! | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
 [[Ruth.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.12|<< Ruth 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.14|Ruth 3:14 >>]]</td></tr></table>
 
 

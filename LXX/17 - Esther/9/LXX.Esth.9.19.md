@@ -9,32 +9,32 @@ This is why the rural Jews, who live in the villages, observe the fourteenth day
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Because of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| then | <span class="asgreek">ουν <sup><small><small>[[G3767]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jews, | <span class="asgreek">Ιουδαίοι <sup><small><small>[[G2453]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones being disseminated | <span class="asgreek">διεσπαρμένοι <sup><small><small>[[G1289]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάση <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| place | <span class="asgreek">χώρα <sup><small><small>[[G5561]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| outside, | <span class="asgreek">έξω <sup><small><small>[[G1854]]</small></small></sup> </span> |
-| celebrate | <span class="asgreek">άγουσι <sup><small><small>[[G0071]]</small></small></sup> </span> |
-| on the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fourteenth | <span class="asgreek">τεσσαρεσκαιδεκάτην <sup><small><small>[[G5065]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Adar, | <span class="asgreek">Αδάρ <sup><small><small>[[G6135]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέραν <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| a good | <span class="asgreek">αγαθήν <sup><small><small>[[G0018]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετ΄ <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| gladness, | <span class="asgreek">ευφροσύνης <sup><small><small>[[G2167]]</small></small></sup> </span> |
-| sending | <span class="asgreek">αποστέλλοντες <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| portions | <span class="asgreek">μερίδας <sup><small><small>[[G3310]]</small></small></sup> </span> |
-| each | <span class="asgreek">έκαστος <sup><small><small>[[G1538]]</small></small></sup> </span> |
-| \[to his\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| neighbor. | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> </span> |
+| Because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| then | <big><span class="asgreek">ουν</span></big> <sup><small><small>[[G3767]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jews, | <big><span class="asgreek">Ιουδαίοι</span></big> <sup><small><small>[[G2453]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones being disseminated | <big><span class="asgreek">διεσπαρμένοι</span></big> <sup><small><small>[[G1289]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| every | <big><span class="asgreek">πάση</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| place | <big><span class="asgreek">χώρα</span></big> <sup><small><small>[[G5561]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| outside, | <big><span class="asgreek">έξω</span></big> <sup><small><small>[[G1854]]</small></small></sup> |
+| celebrate | <big><span class="asgreek">άγουσι</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| on the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fourteenth | <big><span class="asgreek">τεσσαρεσκαιδεκάτην</span></big> <sup><small><small>[[G5065]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Adar, | <big><span class="asgreek">Αδάρ</span></big> <sup><small><small>[[G6135]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέραν</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| a good | <big><span class="asgreek">αγαθήν</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| with | <big><span class="asgreek">μετ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| gladness, | <big><span class="asgreek">ευφροσύνης</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
+| sending | <big><span class="asgreek">αποστέλλοντες</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| portions | <big><span class="asgreek">μερίδας</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
+| each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> |
+| \[to his\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| neighbor. | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
 [[Esth.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.18|<< Esther 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.20|Esther 9:20 >>]]</td></tr></table>
 
 

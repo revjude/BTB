@@ -9,14 +9,14 @@ They despised the pleasant land; they did not believe His promise.<small><sub>*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with contempt | <span class="asgreek">εξουδένωσαν <sup><small><small>[[G1847]]</small></small></sup> </span> |
-| land | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| \[the\] desirable | <span class="asgreek">επιθυμητήν <sup><small><small>[[G7411]]</small></small></sup> </span> |
-| they did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| trust | <span class="asgreek">επίστευσαν <sup><small><small>[[G4100]]</small></small></sup> </span> |
-| \[in\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his word. | <span class="asgreek">λόγω <sup><small><small>[[G3056]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with contempt | <big><span class="asgreek">εξουδένωσαν</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
+| land | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| \[the\] desirable | <big><span class="asgreek">επιθυμητήν</span></big> <sup><small><small>[[G7411]]</small></small></sup> |
+| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| trust | <big><span class="asgreek">επίστευσαν</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
+| \[in\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his word. | <big><span class="asgreek">λόγω</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.106.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.23|<< Psalm 106:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.25|Psalm 106:25 >>]]</td></tr></table>
 
 

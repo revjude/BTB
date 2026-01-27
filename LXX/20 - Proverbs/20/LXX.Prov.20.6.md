@@ -9,17 +9,17 @@ Many a man proclaims his loving devotion, but who can find a trustworthy man?<s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A great | <span class="asgreek">μέγα <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| man, | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[is\] precious | <span class="asgreek">τίμιον <sup><small><small>[[G5093]]</small></small></sup> </span> |
-| man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| a merciful | <span class="asgreek">ελεήμων <sup><small><small>[[G1655]]</small></small></sup> </span> |
-| man | <span class="asgreek">άνδρα <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| a trustworthy | <span class="asgreek">πιστόν <sup><small><small>[[G4103]]</small></small></sup> </span> |
-| \[it is\] work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| to find | <span class="asgreek">ευρείν <sup><small><small>[[G2147]]</small></small></sup> </span> |
+| A great | <big><span class="asgreek">μέγα</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| man, | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[is\] precious | <big><span class="asgreek">τίμιον</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
+| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| a merciful | <big><span class="asgreek">ελεήμων</span></big> <sup><small><small>[[G1655]]</small></small></sup> |
+| man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| a trustworthy | <big><span class="asgreek">πιστόν</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
+| \[it is\] work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| to find | <big><span class="asgreek">ευρείν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
 [[Prov.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.5|<< Proverbs 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.7|Proverbs 20:7 >>]]</td></tr></table>
 
 

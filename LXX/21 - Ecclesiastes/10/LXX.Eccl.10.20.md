@@ -9,32 +9,32 @@ Do not curse the king even in your thoughts, or curse the rich even in your bedr
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">γε <sup><small><small>[[G1065]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| your conscience | <span class="asgreek">συνειδήσει <sup><small><small>[[G4893]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| you should not curse | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">καταράση <sup><small><small>[[G2672]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] closets | <span class="asgreek">ταμιείοις <sup><small><small>[[G5009]]</small></small></sup> </span> |
-| of your bedrooms | <span class="asgreek">κοιτώνων <sup><small><small>[[G2846]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you should not curse | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">καταράση <sup><small><small>[[G2672]]</small></small></sup> </span> |
-| a rich \[man\]. | <span class="asgreek">πλούσιον <sup><small><small>[[G4145]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| a winged creature | <span class="asgreek">πετεινόν <sup><small><small>[[G4071]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of heaven | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| shall carry | <span class="asgreek">αποίσει <sup><small><small>[[G0667]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your voice, | <span class="asgreek">φωνήν <sup><small><small>[[G5456]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one having | <span class="asgreek">έχων <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wings | <span class="asgreek">πτέρυγας <sup><small><small>[[G4420]]</small></small></sup> </span> |
-| shall report | <span class="asgreek">απαγγελεί <sup><small><small>[[G0518]]</small></small></sup> </span> |
-| your word. | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| your conscience | <big><span class="asgreek">συνειδήσει</span></big> <sup><small><small>[[G4893]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| you should not curse | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">καταράση</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] closets | <big><span class="asgreek">ταμιείοις</span></big> <sup><small><small>[[G5009]]</small></small></sup> |
+| of your bedrooms | <big><span class="asgreek">κοιτώνων</span></big> <sup><small><small>[[G2846]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you should not curse | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">καταράση</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
+| a rich \[man\]. | <big><span class="asgreek">πλούσιον</span></big> <sup><small><small>[[G4145]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| a winged creature | <big><span class="asgreek">πετεινόν</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of heaven | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| shall carry | <big><span class="asgreek">αποίσει</span></big> <sup><small><small>[[G0667]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your voice, | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one having | <big><span class="asgreek">έχων</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wings | <big><span class="asgreek">πτέρυγας</span></big> <sup><small><small>[[G4420]]</small></small></sup> |
+| shall report | <big><span class="asgreek">απαγγελεί</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| your word. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Eccl.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.19|<< Ecclesiastes 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.1|Ecclesiastes 11:1 >>]]</td></tr></table>
 
 

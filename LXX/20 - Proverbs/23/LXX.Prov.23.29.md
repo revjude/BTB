@@ -9,23 +9,23 @@ Who has woe? Who has sorrow? Who has contentions? Who has complaints? Who has ne
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| To whom | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \[is there\] woe? | <span class="asgreek">ουαί <sup><small><small>[[G3759]]</small></small></sup> </span> |
-| to whom | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| a tumult? | <span class="asgreek">θόρυβος <sup><small><small>[[G2351]]</small></small></sup> </span> |
-| to whom | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| litigations? | <span class="asgreek">κρίσεις <sup><small><small>[[G2920]]</small></small></sup> </span> |
-| to whom | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| rancor | <span class="asgreek">αηδίαι <sup><small><small>[[G6147]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| intrigue? | <span class="asgreek">λέσχαι <sup><small><small>[[G8185]]</small></small></sup> </span> |
-| to whom | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| breaks | <span class="asgreek">συντρίμματα <sup><small><small>[[G4938]]</small></small></sup> </span> |
-| without cause? | <span class="asgreek">διακενής <sup><small><small>[[G6833]]</small></small></sup> </span> |
-| to whom | <span class="asgreek">τίνος <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| dark colored | <span class="asgreek">πελιδνοί <sup><small><small>[[G8686]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| eyes? | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> </span> |
+| To whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \[is there\] woe? | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
+| to whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| a tumult? | <big><span class="asgreek">θόρυβος</span></big> <sup><small><small>[[G2351]]</small></small></sup> |
+| to whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| litigations? | <big><span class="asgreek">κρίσεις</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| to whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| rancor | <big><span class="asgreek">αηδίαι</span></big> <sup><small><small>[[G6147]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| intrigue? | <big><span class="asgreek">λέσχαι</span></big> <sup><small><small>[[G8185]]</small></small></sup> |
+| to whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| breaks | <big><span class="asgreek">συντρίμματα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
+| without cause? | <big><span class="asgreek">διακενής</span></big> <sup><small><small>[[G6833]]</small></small></sup> |
+| to whom | <big><span class="asgreek">τίνος</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| dark colored | <big><span class="asgreek">πελιδνοί</span></big> <sup><small><small>[[G8686]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| eyes? | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
 [[Prov.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.28|<< Proverbs 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.30|Proverbs 23:30 >>]]</td></tr></table>
 
 

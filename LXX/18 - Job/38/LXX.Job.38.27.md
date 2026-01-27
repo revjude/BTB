@@ -9,16 +9,16 @@ to satisfy the parched wasteland and make it sprout with tender grass?<small><s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[so as\] to fill | <span class="asgreek">χορτάσαι <sup><small><small>[[G5526]]</small></small></sup> </span> |
-| \[the\] untrodden | <span class="asgreek">άβατον <sup><small><small>[[G6101]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| uninhabited \[land\], | <span class="asgreek">αοίκητον <sup><small><small>[[G6384]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| causing to sprout forth | <span class="asgreek">εκβλαστήσαι <sup><small><small>[[G7079]]</small></small></sup> </span> |
-| \[the\] issue | <span class="asgreek">έξοδον <sup><small><small>[[G1841]]</small></small></sup> </span> |
-| of tender shoots? | <span class="asgreek">χλόης <sup><small><small>[[G5514]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[so as\] to fill | <big><span class="asgreek">χορτάσαι</span></big> <sup><small><small>[[G5526]]</small></small></sup> |
+| \[the\] untrodden | <big><span class="asgreek">άβατον</span></big> <sup><small><small>[[G6101]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| uninhabited \[land\], | <big><span class="asgreek">αοίκητον</span></big> <sup><small><small>[[G6384]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| causing to sprout forth | <big><span class="asgreek">εκβλαστήσαι</span></big> <sup><small><small>[[G7079]]</small></small></sup> |
+| \[the\] issue | <big><span class="asgreek">έξοδον</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| of tender shoots? | <big><span class="asgreek">χλόης</span></big> <sup><small><small>[[G5514]]</small></small></sup> |
 [[Job.38.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.26|<< Job 38:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.28|Job 38:28 >>]]</td></tr></table>
 
 

@@ -9,12 +9,12 @@ the descendants of Gazzam, the descendants of Uzza, the descendants of Paseah,<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Gazzam, | <span class="asgreek">Γαζήμ <sup><small><small>[[H1502]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Uzza, | <span class="asgreek">Οζά <sup><small><small>[[H5798b]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Phaseah, | <span class="asgreek">Φεσί <sup><small><small>[[H6454]]</small></small></sup> </span> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Gazzam, | <big><span class="asgreek">Γαζήμ</span></big> <sup><small><small>[[H1502]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Uzza, | <big><span class="asgreek">Οζά</span></big> <sup><small><small>[[H5798b]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Phaseah, | <big><span class="asgreek">Φεσί</span></big> <sup><small><small>[[H6454]]</small></small></sup> |
 [[Neh.7.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.50|<< Nehemiah 7:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.52|Nehemiah 7:52 >>]]</td></tr></table>
 
 

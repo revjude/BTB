@@ -9,23 +9,23 @@ Your lips are like a scarlet ribbon, and your mouth is lovely. Your brow behind 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[are\] as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| string | <span class="asgreek">σπαρτίον <sup><small><small>[[G9137]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| a scarlet | <span class="asgreek">κόκκινον <sup><small><small>[[G2847]]</small></small></sup> </span> |
-| Your lips | <span class="asgreek">χείλη <sup><small><small>[[G5491]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your speech | <span class="asgreek">λαλιά <sup><small><small>[[G2981]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| beautiful. | <span class="asgreek">ωραία <sup><small><small>[[G5611]]</small></small></sup> </span> |
-| \[are\] as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a rind | <span class="asgreek">λέπυρον <sup><small><small>[[G8184]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| pomegranate | <span class="asgreek">ροάς <sup><small><small>[[G9029]]</small></small></sup> </span> |
-| your cheeks | <span class="asgreek">μηλόν <sup><small><small>[[G8316]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| outside | <span class="asgreek">εκτός <sup><small><small>[[G1622]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your veil. | <span class="asgreek">σιωπήσεώς <sup><small><small>[[G9091]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| string | <big><span class="asgreek">σπαρτίον</span></big> <sup><small><small>[[G9137]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| a scarlet | <big><span class="asgreek">κόκκινον</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
+| Your lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your speech | <big><span class="asgreek">λαλιά</span></big> <sup><small><small>[[G2981]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| beautiful. | <big><span class="asgreek">ωραία</span></big> <sup><small><small>[[G5611]]</small></small></sup> |
+| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a rind | <big><span class="asgreek">λέπυρον</span></big> <sup><small><small>[[G8184]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| pomegranate | <big><span class="asgreek">ροάς</span></big> <sup><small><small>[[G9029]]</small></small></sup> |
+| your cheeks | <big><span class="asgreek">μηλόν</span></big> <sup><small><small>[[G8316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| outside | <big><span class="asgreek">εκτός</span></big> <sup><small><small>[[G1622]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your veil. | <big><span class="asgreek">σιωπήσεώς</span></big> <sup><small><small>[[G9091]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Song.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.2|<< Song of Solomon 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.4|Song of Solomon 4:4 >>]]</td></tr></table>
 
 

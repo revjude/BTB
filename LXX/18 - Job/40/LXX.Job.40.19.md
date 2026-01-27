@@ -9,15 +9,15 @@ He is the foremost of God’s works; only his Maker can draw the sword against h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| This is | <span class="asgreek">τουτ΄ έστιν <sup><small><small>[[G5123]]</small></small></sup> </span> |
-| \[the\] beginning | <span class="asgreek">αρχή <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| of \[the\] thing shaped | <span class="asgreek">πλάσματος <sup><small><small>[[G4110]]</small></small></sup> </span> |
-| by \[the\] <span class="smallcaps">lord</span>; | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| being made | <span class="asgreek">πεποιημένον <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| to be mocked | <span class="asgreek">εγκαταπαίζεσθαι <sup><small><small>[[G7012]]</small></small></sup> </span> |
-| by | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his angels. | <span class="asgreek">αγγέλων <sup><small><small>[[G0032]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| This is | <big><span class="asgreek">τουτ΄ έστιν</span></big> <sup><small><small>[[G5123]]</small></small></sup> |
+| \[the\] beginning | <big><span class="asgreek">αρχή</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| of \[the\] thing shaped | <big><span class="asgreek">πλάσματος</span></big> <sup><small><small>[[G4110]]</small></small></sup> |
+| by \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| being made | <big><span class="asgreek">πεποιημένον</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| to be mocked | <big><span class="asgreek">εγκαταπαίζεσθαι</span></big> <sup><small><small>[[G7012]]</small></small></sup> |
+| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his angels. | <big><span class="asgreek">αγγέλων</span></big> <sup><small><small>[[G0032]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.40.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.18|<< Job 40:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.20|Job 40:20 >>]]</td></tr></table>
 
 

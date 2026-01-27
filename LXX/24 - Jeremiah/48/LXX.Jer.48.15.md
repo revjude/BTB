@@ -9,21 +9,21 @@ Moab has been destroyed and its towns have been invaded; the best of its young m
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Moab is destroyed. | <span class="asgreek">ώλετο <sup><small><small>[[G8491]]</small></small></sup> <span class="asgreek">Μωαβ <sup><small><small>[[H6355]]</small></small></sup> </span> |
-| His city | <span class="asgreek">πόλις <sup><small><small>[[G4172]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| choice | <span class="asgreek">εκλεκτοί <sup><small><small>[[G1588]]</small></small></sup> </span> |
-| young men | <span class="asgreek">νεανίσκοι <sup><small><small>[[G3495]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| went down | <span class="asgreek">κατέβησαν <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| slaughter, | <span class="asgreek">σφαγήν <sup><small><small>[[G4967]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] king -- | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| forces | <span class="asgreek">δυνάμεων <sup><small><small>[[G1411]]</small></small></sup> </span> |
-| \[is\] his name. | <span class="asgreek">όνομα αυτώ <sup><small><small>[[G3686]]</small></small></sup> </span> |
+| Moab is destroyed. | <big><span class="asgreek">ώλετο</span></big> <sup><small><small>[[G8491]]</small></small></sup> <big><span class="asgreek">Μωαβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| His city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| choice | <big><span class="asgreek">εκλεκτοί</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
+| young men | <big><span class="asgreek">νεανίσκοι</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| went down | <big><span class="asgreek">κατέβησαν</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| slaughter, | <big><span class="asgreek">σφαγήν</span></big> <sup><small><small>[[G4967]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] king -- | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| forces | <big><span class="asgreek">δυνάμεων</span></big> <sup><small><small>[[G1411]]</small></small></sup> |
+| \[is\] his name. | <big><span class="asgreek">όνομα αυτώ</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
 [[Jer.48.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.14|<< Jeremiah 48:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.16|Jeremiah 48:16 >>]]</td></tr></table>
 
 

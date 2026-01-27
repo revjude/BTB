@@ -9,36 +9,36 @@ Then Lamech said to his wives: “Adah and Zillah, hear my voice; wives of Lamec
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| Lamech | <span class="asgreek">Λάμεχ <sup><small><small>[[G2984]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his own | <span class="asgreek">εαυτού <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| wives, | <span class="asgreek">γυναιξίν <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| Adah | <span class="asgreek">Αδδά <sup><small><small>[[H5711]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Zillah, | <span class="asgreek">Σελλά <sup><small><small>[[H6741]]</small></small></sup> </span> |
-| Hear | <span class="asgreek">ακούσατέ <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| voice, | <span class="asgreek">φωνής <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| O wives | <span class="asgreek">γυναίκες <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| of Lamech! | <span class="asgreek">Λάμεχ <sup><small><small>[[G2984]]</small></small></sup> </span> |
-| Give ear to | <span class="asgreek">ενωτίσασθέ <sup><small><small>[[G1801]]</small></small></sup> </span> |
-| my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| words! | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| a man | <span class="asgreek">άνδρα <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| I killed | <span class="asgreek">απέκτεινα <sup><small><small>[[G0615]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[giving\] a wound | <span class="asgreek">τραύμα <sup><small><small>[[G5134]]</small></small></sup> </span> |
-| to me, | <span class="asgreek">εμοί <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a young \[man\] | <span class="asgreek">νεανίσκον <sup><small><small>[[G3495]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[giving\] a stripe | <span class="asgreek">μώλωπα <sup><small><small>[[G3468]]</small></small></sup> </span> |
-| to me. | <span class="asgreek">εμοί <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| Lamech | <big><span class="asgreek">Λάμεχ</span></big> <sup><small><small>[[G2984]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| wives, | <big><span class="asgreek">γυναιξίν</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| Adah | <big><span class="asgreek">Αδδά</span></big> <sup><small><small>[[H5711]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Zillah, | <big><span class="asgreek">Σελλά</span></big> <sup><small><small>[[H6741]]</small></small></sup> |
+| Hear | <big><span class="asgreek">ακούσατέ</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| voice, | <big><span class="asgreek">φωνής</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| O wives | <big><span class="asgreek">γυναίκες</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| of Lamech! | <big><span class="asgreek">Λάμεχ</span></big> <sup><small><small>[[G2984]]</small></small></sup> |
+| Give ear to | <big><span class="asgreek">ενωτίσασθέ</span></big> <sup><small><small>[[G1801]]</small></small></sup> |
+| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| words! | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| a man | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| I killed | <big><span class="asgreek">απέκτεινα</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[giving\] a wound | <big><span class="asgreek">τραύμα</span></big> <sup><small><small>[[G5134]]</small></small></sup> |
+| to me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a young \[man\] | <big><span class="asgreek">νεανίσκον</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[giving\] a stripe | <big><span class="asgreek">μώλωπα</span></big> <sup><small><small>[[G3468]]</small></small></sup> |
+| to me. | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.22|<< Genesis 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.24|Genesis 4:24 >>]]</td></tr></table>
 
 

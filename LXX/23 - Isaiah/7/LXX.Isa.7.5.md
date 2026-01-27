@@ -9,20 +9,20 @@ For Aram, along with Ephraim and the son of Remaliah, has plotted your ruin, say
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And \[as far as\] | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Aram, | <span class="asgreek">Αράμ <sup><small><small>[[H7410]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Remaliah, | <span class="asgreek">Ρομελίου <sup><small><small>[[H7425]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| they consulted | <span class="asgreek">εβουλεύσαντο <sup><small><small>[[G1011]]</small></small></sup> </span> |
-| counsel | <span class="asgreek">βουλήν <sup><small><small>[[G1012]]</small></small></sup> </span> |
-| wicked | <span class="asgreek">πονηράν <sup><small><small>[[G4190]]</small></small></sup> </span> |
+| And \[as far as\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Aram, | <big><span class="asgreek">Αράμ</span></big> <sup><small><small>[[H7410]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Remaliah, | <big><span class="asgreek">Ρομελίου</span></big> <sup><small><small>[[H7425]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| they consulted | <big><span class="asgreek">εβουλεύσαντο</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
+| counsel | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
+| wicked | <big><span class="asgreek">πονηράν</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
 [[Isa.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.4|<< Isaiah 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.6|Isaiah 7:6 >>]]</td></tr></table>
 
 

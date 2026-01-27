@@ -9,18 +9,18 @@ to establish among them an annual celebration on the fourteenth and fifteenth da
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| to establish | <span class="asgreek">στήσαι <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| these days | <span class="asgreek">ημέρας <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">ταύτας <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[as\] good \[days\], | <span class="asgreek">αγαθάς <sup><small><small>[[G0018]]</small></small></sup> </span> |
-| and to celebrate both | <span class="asgreek">άγειν <sup><small><small>[[G0071]]</small></small></sup> <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fourteenth | <span class="asgreek">τεσσαρεσκαιδεκάτην <sup><small><small>[[G5065]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fifteenth | <span class="asgreek">πεντεκαιδεκάτην <sup><small><small>[[G4003]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Adar. | <span class="asgreek">Αδάρ <sup><small><small>[[G6135]]</small></small></sup> </span> |
+| to establish | <big><span class="asgreek">στήσαι</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| these days | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">ταύτας</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[as\] good \[days\], | <big><span class="asgreek">αγαθάς</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| and to celebrate both | <big><span class="asgreek">άγειν</span></big> <sup><small><small>[[G0071]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fourteenth | <big><span class="asgreek">τεσσαρεσκαιδεκάτην</span></big> <sup><small><small>[[G5065]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fifteenth | <big><span class="asgreek">πεντεκαιδεκάτην</span></big> <sup><small><small>[[G4003]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Adar. | <big><span class="asgreek">Αδάρ</span></big> <sup><small><small>[[G6135]]</small></small></sup> |
 [[Esth.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.20|<< Esther 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.22|Esther 9:22 >>]]</td></tr></table>
 
 

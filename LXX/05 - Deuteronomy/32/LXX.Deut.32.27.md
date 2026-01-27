@@ -9,29 +9,29 @@ if I had not dreaded the taunt of the enemy, lest their adversaries misunderstan
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Unless | <span class="asgreek">ειμή <sup><small><small>[[G1508]]</small></small></sup> </span> |
-| \[they should say it was\] on account | <span class="asgreek">δι΄ <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| \[of the\] anger | <span class="asgreek">οργήν <sup><small><small>[[G3709]]</small></small></sup> </span> |
-| of \[the\] enemies, | <span class="asgreek">εχθρών <sup><small><small>[[G2190]]</small></small></sup> </span> |
-| that in no way | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| should they live a long time, | <span class="asgreek">μακροχρονίσωσι <sup><small><small>[[G8237]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| that in no way | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| join in making an attack | <span class="asgreek">συνεπιθώνται <sup><small><small>[[G9315]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[their\] opponents | <span class="asgreek">υπεναντίοι <sup><small><small>[[G5227]]</small></small></sup> </span> |
-| lest | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| they should say, | <span class="asgreek">είπωσιν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hand | <span class="asgreek">χειρ <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| Our | <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| high | <span class="asgreek">υψηλή <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουχί <sup><small><small>[[G3780]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| did | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| all these \[things\]. | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
+| Unless | <big><span class="asgreek">ειμή</span></big> <sup><small><small>[[G1508]]</small></small></sup> |
+| \[they should say it was\] on account | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| \[of the\] anger | <big><span class="asgreek">οργήν</span></big> <sup><small><small>[[G3709]]</small></small></sup> |
+| of \[the\] enemies, | <big><span class="asgreek">εχθρών</span></big> <sup><small><small>[[G2190]]</small></small></sup> |
+| that in no way | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| should they live a long time, | <big><span class="asgreek">μακροχρονίσωσι</span></big> <sup><small><small>[[G8237]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| that in no way | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| join in making an attack | <big><span class="asgreek">συνεπιθώνται</span></big> <sup><small><small>[[G9315]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[their\] opponents | <big><span class="asgreek">υπεναντίοι</span></big> <sup><small><small>[[G5227]]</small></small></sup> |
+| lest | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| they should say, | <big><span class="asgreek">είπωσιν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hand | <big><span class="asgreek">χειρ</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| Our | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| high | <big><span class="asgreek">υψηλή</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| did | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| all these \[things\]. | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
 [[Deut.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.26|<< Deuteronomy 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.28|Deuteronomy 32:28 >>]]</td></tr></table>
 
 

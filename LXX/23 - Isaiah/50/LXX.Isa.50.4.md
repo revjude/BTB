@@ -9,25 +9,25 @@ The Lord GOD has given Me the tongue of discipleship, to sustain the weary with 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] Lord, | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| gives | <span class="asgreek">δίδωσί <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a tongue | <span class="asgreek">γλώσσαν <sup><small><small>[[G1100]]</small></small></sup> </span> |
-| of instruction | <span class="asgreek">παιδείας <sup><small><small>[[G3809]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to know | <span class="asgreek">γνώναι <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| when | <span class="asgreek">ηνίκα <sup><small><small>[[G2259]]</small></small></sup> </span> |
-| it is necessary | <span class="asgreek">δει <sup><small><small>[[G1163]]</small></small></sup> </span> |
-| to speak | <span class="asgreek">ειπείν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| a word. | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| He stood | <span class="asgreek">έθηκέ <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| morning | <span class="asgreek">πρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| \[by\] morning. | <span class="asgreek">πρωϊ <sup><small><small>[[G4404]]</small></small></sup> </span> |
-| He added | <span class="asgreek">προσέθηκέ <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| an ear for me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">ωτίον <sup><small><small>[[G5621]]</small></small></sup> </span> |
-| to hear. | <span class="asgreek">ακούειν <sup><small><small>[[G0191]]</small></small></sup> </span> |
+| \[The\] Lord, | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| gives | <big><span class="asgreek">δίδωσί</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a tongue | <big><span class="asgreek">γλώσσαν</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
+| of instruction | <big><span class="asgreek">παιδείας</span></big> <sup><small><small>[[G3809]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to know | <big><span class="asgreek">γνώναι</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| when | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
+| it is necessary | <big><span class="asgreek">δει</span></big> <sup><small><small>[[G1163]]</small></small></sup> |
+| to speak | <big><span class="asgreek">ειπείν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| a word. | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| He stood | <big><span class="asgreek">έθηκέ</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| morning | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| \[by\] morning. | <big><span class="asgreek">πρωϊ</span></big> <sup><small><small>[[G4404]]</small></small></sup> |
+| He added | <big><span class="asgreek">προσέθηκέ</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| an ear for me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ωτίον</span></big> <sup><small><small>[[G5621]]</small></small></sup> |
+| to hear. | <big><span class="asgreek">ακούειν</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
 [[Isa.50.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.3|<< Isaiah 50:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.5|Isaiah 50:5 >>]]</td></tr></table>
 
 

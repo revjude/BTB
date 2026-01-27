@@ -9,17 +9,17 @@ He who corrects a mocker brings shame on himself; he who rebukes a wicked man ta
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one correcting | <span class="asgreek">παιδεύων <sup><small><small>[[G3811]]</small></small></sup> </span> |
-| evil \[men\] | <span class="asgreek">κακούς <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| shall take | <span class="asgreek">λήψεται <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| on himself | <span class="asgreek">εαυτώ <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| dishonor; | <span class="asgreek">ατιμίαν <sup><small><small>[[G0819]]</small></small></sup> </span> |
-| and in reproving, | <span class="asgreek">ελέγχων <sup><small><small>[[G1651]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| impious | <span class="asgreek">ασεβή <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| scoffs at | <span class="asgreek">μωμήσεται <sup><small><small>[[G3469]]</small></small></sup> </span> |
-| himself. | <span class="asgreek">εαυτόν <sup><small><small>[[G1438]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one correcting | <big><span class="asgreek">παιδεύων</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
+| evil \[men\] | <big><span class="asgreek">κακούς</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| shall take | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| on himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| dishonor; | <big><span class="asgreek">ατιμίαν</span></big> <sup><small><small>[[G0819]]</small></small></sup> |
+| and in reproving, | <big><span class="asgreek">ελέγχων</span></big> <sup><small><small>[[G1651]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| impious | <big><span class="asgreek">ασεβή</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| scoffs at | <big><span class="asgreek">μωμήσεται</span></big> <sup><small><small>[[G3469]]</small></small></sup> |
+| himself. | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
 [[Prov.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.6|<< Proverbs 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.8|Proverbs 9:8 >>]]</td></tr></table>
 
 

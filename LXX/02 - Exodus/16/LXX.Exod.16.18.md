@@ -13,26 +13,26 @@ When they measured it by the omer, he who gathered much had no excess, and he wh
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| measuring | <span class="asgreek">μετρήσαντες <sup><small><small>[[G3354]]</small></small></sup> </span> |
-| \[with\] the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| homer, | <span class="asgreek">γόμορ <sup><small><small>[[G6758]]</small></small></sup> </span> |
-| was not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| superabundant | <span class="asgreek">επλεόνασεν <sup><small><small>[[G4121]]</small></small></sup> </span> |
-| the one which | <span class="asgreek">ο <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[had\] much | <span class="asgreek">πολύ <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the one\] which | <span class="asgreek">ο <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| had less | <span class="asgreek">έλαττον <sup><small><small>[[G1640]]</small></small></sup> </span> |
-| had not too less, | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ηλαττόνησεν <sup><small><small>[[G1641]]</small></small></sup> </span> |
-| for each | <span class="asgreek">έκαστος <sup><small><small>[[G1538]]</small></small></sup> <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[what was\] fitting | <span class="asgreek">καθήκοντας <sup><small><small>[[G2520]]</small></small></sup> </span> |
-| for | <span class="asgreek">παρ΄ <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| himself | <span class="asgreek">εαυτώ <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| collected together | <span class="asgreek">συνέλεξαν <sup><small><small>[[G4816]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| measuring | <big><span class="asgreek">μετρήσαντες</span></big> <sup><small><small>[[G3354]]</small></small></sup> |
+| \[with\] the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| homer, | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
+| was not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| superabundant | <big><span class="asgreek">επλεόνασεν</span></big> <sup><small><small>[[G4121]]</small></small></sup> |
+| the one which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[had\] much | <big><span class="asgreek">πολύ</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the one\] which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| had less | <big><span class="asgreek">έλαττον</span></big> <sup><small><small>[[G1640]]</small></small></sup> |
+| had not too less, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ηλαττόνησεν</span></big> <sup><small><small>[[G1641]]</small></small></sup> |
+| for each | <big><span class="asgreek">έκαστος</span></big> <sup><small><small>[[G1538]]</small></small></sup> <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[what was\] fitting | <big><span class="asgreek">καθήκοντας</span></big> <sup><small><small>[[G2520]]</small></small></sup> |
+| for | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| collected together | <big><span class="asgreek">συνέλεξαν</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
 [[Exod.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.17|<< Exodus 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.19|Exodus 16:19 >>]]</td></tr></table>
 
 

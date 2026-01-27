@@ -12,17 +12,17 @@ A wife of noble character, who can find? She is far more precious than rubies.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| wife | <span class="asgreek">γυναίκα <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| a vigorous | <span class="asgreek">ανδρείαν <sup><small><small>[[G6327]]</small></small></sup> </span> |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall find | <span class="asgreek">ευρήσει <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| more esteemed \[than\] | <span class="asgreek">τιμιωτέρα <sup><small><small>[[G5093]]</small></small></sup> </span> |
-| For | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθων <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| very costly | <span class="asgreek">πολυτελών <sup><small><small>[[G4185]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| such | <span class="asgreek">τοιαύτη <sup><small><small>[[G5108]]</small></small></sup> </span> |
+| wife | <big><span class="asgreek">γυναίκα</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| a vigorous | <big><span class="asgreek">ανδρείαν</span></big> <sup><small><small>[[G6327]]</small></small></sup> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall find | <big><span class="asgreek">ευρήσει</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| more esteemed \[than\] | <big><span class="asgreek">τιμιωτέρα</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
+| For | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| is | <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθων</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| very costly | <big><span class="asgreek">πολυτελών</span></big> <sup><small><small>[[G4185]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| such | <big><span class="asgreek">τοιαύτη</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
 [[Prov.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.9|<< Proverbs 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.11|Proverbs 31:11 >>]]</td></tr></table>
 
 

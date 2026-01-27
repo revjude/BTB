@@ -9,12 +9,12 @@ the king of Makkedah, one; the king of Bethel, one;<small><sub>**MT:**</sub></s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[the\] king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Makkedah, | <span class="asgreek">Μακηδά <sup><small><small>[[H4719]]</small></small></sup> </span> |
-| one; | <span class="asgreek">ένα <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| \[the\] king | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Beth-el, | <span class="asgreek">Βαιθήλ <sup><small><small>[[H1008]]</small></small></sup> </span> |
-| one; | <span class="asgreek">ένα <sup><small><small>[[G1520]]</small></small></sup> </span> |
+| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Makkedah, | <big><span class="asgreek">Μακηδά</span></big> <sup><small><small>[[H4719]]</small></small></sup> |
+| one; | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| \[the\] king | <big><span class="asgreek">βασιλέα</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Beth-el, | <big><span class="asgreek">Βαιθήλ</span></big> <sup><small><small>[[H1008]]</small></small></sup> |
+| one; | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
 [[Josh.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.15|<< Joshua 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.17|Joshua 12:17 >>]]</td></tr></table>
 
 

@@ -9,15 +9,15 @@ Your vows are upon me, O God; I will render thank offerings to You.<small><sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| me, | <span class="asgreek">εμοί <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God, | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \[are\] the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| vows | <span class="asgreek">ευχαί <sup><small><small>[[G2171]]</small></small></sup> </span> |
-| which | <span class="asgreek">ας <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I shall give | <span class="asgreek">αποδώσω <sup><small><small>[[G0591]]</small></small></sup> </span> |
-| of your praise. | <span class="asgreek">αινέσεώς <sup><small><small>[[G0133]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| me, | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God, | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \[are\] the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| vows | <big><span class="asgreek">ευχαί</span></big> <sup><small><small>[[G2171]]</small></small></sup> |
+| which | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I shall give | <big><span class="asgreek">αποδώσω</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| of your praise. | <big><span class="asgreek">αινέσεώς</span></big> <sup><small><small>[[G0133]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.56.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.11|<< Psalm 56:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.13|Psalm 56:13 >>]]</td></tr></table>
 
 

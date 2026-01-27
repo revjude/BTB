@@ -9,18 +9,18 @@ Oil and incense bring joy to the heart, and the counsel of a friend is sweetness
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Perfumes, | <span class="asgreek">μύροις <sup><small><small>[[G3464]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wines, | <span class="asgreek">οίνοις <sup><small><small>[[G3631]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| incenses | <span class="asgreek">θυμιάμασι <sup><small><small>[[G2368]]</small></small></sup> </span> |
-| happy | <span class="asgreek">τέρπεται <sup><small><small>[[G9425]]</small></small></sup> </span> |
-| \[the\] heart | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| breaks down | <span class="asgreek">καταρρήγνυται <sup><small><small>[[G7912]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| by | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| adverse incidents | <span class="asgreek">συμπτωμάτων <sup><small><small>[[G9283]]</small></small></sup> </span> |
-| \[the\] soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> </span> |
+| Perfumes, | <big><span class="asgreek">μύροις</span></big> <sup><small><small>[[G3464]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wines, | <big><span class="asgreek">οίνοις</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| incenses | <big><span class="asgreek">θυμιάμασι</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
+| happy | <big><span class="asgreek">τέρπεται</span></big> <sup><small><small>[[G9425]]</small></small></sup> |
+| \[the\] heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| breaks down | <big><span class="asgreek">καταρρήγνυται</span></big> <sup><small><small>[[G7912]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| adverse incidents | <big><span class="asgreek">συμπτωμάτων</span></big> <sup><small><small>[[G9283]]</small></small></sup> |
+| \[the\] soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
 [[Prov.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.8|<< Proverbs 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.10|Proverbs 27:10 >>]]</td></tr></table>
 
 

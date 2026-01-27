@@ -13,8 +13,8 @@ You shall not commit adultery.<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| commit adultery. | <span class="asgreek">μοιχεύσεις <sup><small><small>[[G3431]]</small></small></sup> </span> |
+| You shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| commit adultery. | <big><span class="asgreek">μοιχεύσεις</span></big> <sup><small><small>[[G3431]]</small></small></sup> |
 [[Exod.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.13|<< Exodus 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.15|Exodus 20:15 >>]]</td></tr></table>
 
 

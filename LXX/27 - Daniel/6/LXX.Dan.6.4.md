@@ -9,30 +9,30 @@ Thus the administrators and satraps sought a charge against Daniel concerning th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tacticians | <span class="asgreek">τακτικοί <sup><small><small>[[G9395]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| satraps | <span class="asgreek">σατράπαι <sup><small><small>[[G9059]]</small></small></sup> </span> |
-| sought | <span class="asgreek">εζήτουν <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| an excuse | <span class="asgreek">πρόφασιν <sup><small><small>[[G4392]]</small></small></sup> </span> |
-| to find \[something\] | <span class="asgreek">ευρείν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| Daniel; | <span class="asgreek">Δανιήλ <sup><small><small>[[G1158]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| any | <span class="asgreek">πάσαν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| excuse, | <span class="asgreek">πρόφασιν <sup><small><small>[[G4392]]</small></small></sup> </span> |
-| or | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| transgression, | <span class="asgreek">παράπτωμα <sup><small><small>[[G3900]]</small></small></sup> </span> |
-| or | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| error | <span class="asgreek">αμπλάκημα <sup><small><small>[[G6264]]</small></small></sup> </span> |
-| they did not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| find | <span class="asgreek">εύρον <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατ΄ <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| him, | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| he was trustworthy. | <span class="asgreek">πιστός <sup><small><small>[[G4103]]</small></small></sup> <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tacticians | <big><span class="asgreek">τακτικοί</span></big> <sup><small><small>[[G9395]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| satraps | <big><span class="asgreek">σατράπαι</span></big> <sup><small><small>[[G9059]]</small></small></sup> |
+| sought | <big><span class="asgreek">εζήτουν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| an excuse | <big><span class="asgreek">πρόφασιν</span></big> <sup><small><small>[[G4392]]</small></small></sup> |
+| to find \[something\] | <big><span class="asgreek">ευρείν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| Daniel; | <big><span class="asgreek">Δανιήλ</span></big> <sup><small><small>[[G1158]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| any | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| excuse, | <big><span class="asgreek">πρόφασιν</span></big> <sup><small><small>[[G4392]]</small></small></sup> |
+| or | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| transgression, | <big><span class="asgreek">παράπτωμα</span></big> <sup><small><small>[[G3900]]</small></small></sup> |
+| or | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| error | <big><span class="asgreek">αμπλάκημα</span></big> <sup><small><small>[[G6264]]</small></small></sup> |
+| they did not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| find | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| against | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| him, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| he was trustworthy. | <big><span class="asgreek">πιστός</span></big> <sup><small><small>[[G4103]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Dan.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.3|<< Daniel 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.5|Daniel 6:5 >>]]</td></tr></table>
 
 

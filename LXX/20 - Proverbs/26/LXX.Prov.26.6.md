@@ -9,17 +9,17 @@ Like cutting off one’s own feet or drinking violence is the sending of a messa
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| by | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his own ways | <span class="asgreek">οδών <sup><small><small>[[G3598]]</small></small></sup> <span class="asgreek">εαυτού <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| scorn | <span class="asgreek">όνειδος <sup><small><small>[[G3681]]</small></small></sup> </span> |
-| shall cause | <span class="asgreek">ποιείται <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one sending | <span class="asgreek">αποστείλας <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| through | <span class="asgreek">δι΄ <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| messenger | <span class="asgreek">αγγέλου <sup><small><small>[[G0032]]</small></small></sup> </span> |
-| a foolish | <span class="asgreek">άφρονος <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| a word | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
+| by | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his own ways | <big><span class="asgreek">οδών</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| scorn | <big><span class="asgreek">όνειδος</span></big> <sup><small><small>[[G3681]]</small></small></sup> |
+| shall cause | <big><span class="asgreek">ποιείται</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one sending | <big><span class="asgreek">αποστείλας</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| through | <big><span class="asgreek">δι΄</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| messenger | <big><span class="asgreek">αγγέλου</span></big> <sup><small><small>[[G0032]]</small></small></sup> |
+| a foolish | <big><span class="asgreek">άφρονος</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| a word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
 [[Prov.26.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.5|<< Proverbs 26:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.7|Proverbs 26:7 >>]]</td></tr></table>
 
 

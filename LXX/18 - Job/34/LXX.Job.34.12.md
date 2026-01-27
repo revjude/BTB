@@ -9,20 +9,20 @@ Indeed, it is true that God does not act wickedly, and the Almighty does not per
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And do you imagine | <span class="asgreek">οίει <sup><small><small>[[G3633]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span> | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| something out of place | <span class="asgreek">άτοπα <sup><small><small>[[G0824]]</small></small></sup> </span> |
-| doing | <span class="asgreek">ποιήσειν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| or \[that\] | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| almighty | <span class="asgreek">παντοκράτωρ <sup><small><small>[[G3841]]</small></small></sup> </span> |
-| will disturb | <span class="asgreek">ταράξει <sup><small><small>[[G5015]]</small></small></sup> </span> |
-| a judgment -- | <span class="asgreek">κρίσιν <sup><small><small>[[G2920]]</small></small></sup> </span> |
-| the one who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| made | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth? | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| And do you imagine | <big><span class="asgreek">οίει</span></big> <sup><small><small>[[G3633]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span> | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| something out of place | <big><span class="asgreek">άτοπα</span></big> <sup><small><small>[[G0824]]</small></small></sup> |
+| doing | <big><span class="asgreek">ποιήσειν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| or \[that\] | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| almighty | <big><span class="asgreek">παντοκράτωρ</span></big> <sup><small><small>[[G3841]]</small></small></sup> |
+| will disturb | <big><span class="asgreek">ταράξει</span></big> <sup><small><small>[[G5015]]</small></small></sup> |
+| a judgment -- | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| the one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth? | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
 [[Job.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.11|<< Job 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.13|Job 34:13 >>]]</td></tr></table>
 
 

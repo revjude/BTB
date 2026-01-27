@@ -9,36 +9,36 @@ Know and understand this: From the issuance of the decree to restore and rebuild
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall know | <span class="asgreek">γνώση <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| perceive, | <span class="asgreek">συνήσεις <sup><small><small>[[G4920]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] delivery | <span class="asgreek">εξόδου <sup><small><small>[[G1841]]</small></small></sup> </span> |
-| of \[the\] word | <span class="asgreek">λόγου <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to respond | <span class="asgreek">αποκριθήναι <sup><small><small>[[G0611]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to build | <span class="asgreek">οικοδομήσαι <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| Jerusalem | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| \[the\] anointed one | <span class="asgreek">χριστού <sup><small><small>[[G5547]]</small></small></sup> </span> |
-| leading -- | <span class="asgreek">ηγουμένου <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| periods of seven | <span class="asgreek">εβδομάδες <sup><small><small>[[G6988]]</small></small></sup> </span> |
-| seven | <span class="asgreek">επτά <sup><small><small>[[G2033]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| periods of seven | <span class="asgreek">εβδομάδες <sup><small><small>[[G6988]]</small></small></sup> </span> |
-| sixty-two | <span class="asgreek">εξηκονταδύο <sup><small><small>[[G7323]]</small></small></sup> </span> |
-| Again | <span class="asgreek">πάλιν <sup><small><small>[[G3825]]</small></small></sup> </span> |
-| shall be built | <span class="asgreek">οικοδομηθήσεται <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| \[the\] square | <span class="asgreek">πλατεία <sup><small><small>[[G4113]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wall | <span class="asgreek">τείχος <sup><small><small>[[G5038]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| straits | <span class="asgreek">στενοχωρία <sup><small><small>[[G4730]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| times. | <span class="asgreek">χρόνων <sup><small><small>[[G5550]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall know | <big><span class="asgreek">γνώση</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| perceive, | <big><span class="asgreek">συνήσεις</span></big> <sup><small><small>[[G4920]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] delivery | <big><span class="asgreek">εξόδου</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| of \[the\] word | <big><span class="asgreek">λόγου</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to respond | <big><span class="asgreek">αποκριθήναι</span></big> <sup><small><small>[[G0611]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to build | <big><span class="asgreek">οικοδομήσαι</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| \[the\] anointed one | <big><span class="asgreek">χριστού</span></big> <sup><small><small>[[G5547]]</small></small></sup> |
+| leading -- | <big><span class="asgreek">ηγουμένου</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| periods of seven | <big><span class="asgreek">εβδομάδες</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
+| seven | <big><span class="asgreek">επτά</span></big> <sup><small><small>[[G2033]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| periods of seven | <big><span class="asgreek">εβδομάδες</span></big> <sup><small><small>[[G6988]]</small></small></sup> |
+| sixty-two | <big><span class="asgreek">εξηκονταδύο</span></big> <sup><small><small>[[G7323]]</small></small></sup> |
+| Again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
+| shall be built | <big><span class="asgreek">οικοδομηθήσεται</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| \[the\] square | <big><span class="asgreek">πλατεία</span></big> <sup><small><small>[[G4113]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wall | <big><span class="asgreek">τείχος</span></big> <sup><small><small>[[G5038]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| straits | <big><span class="asgreek">στενοχωρία</span></big> <sup><small><small>[[G4730]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| times. | <big><span class="asgreek">χρόνων</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
 [[Dan.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.24|<< Daniel 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.26|Daniel 9:26 >>]]</td></tr></table>
 
 

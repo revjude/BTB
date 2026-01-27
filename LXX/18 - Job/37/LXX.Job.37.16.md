@@ -9,12 +9,12 @@ Do you understand how the clouds float, those wonders of Him who is perfect in k
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And he knows | <span class="asgreek">επίσταται <sup><small><small>[[G1987]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[the\] distinction | <span class="asgreek">διάκρισιν <sup><small><small>[[G1253]]</small></small></sup> </span> |
-| of clouds, | <span class="asgreek">νεφών <sup><small><small>[[G3509]]</small></small></sup> </span> |
-| and \[the\] extraordinary | <span class="asgreek">εξαίσια <sup><small><small>[[G7282]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| calamitous downfalls | <span class="asgreek">πτώματα <sup><small><small>[[G4430]]</small></small></sup> </span> |
-| of \[the\] wicked. | <span class="asgreek">πονηρών <sup><small><small>[[G4190]]</small></small></sup> </span> |
+| And he knows | <big><span class="asgreek">επίσταται</span></big> <sup><small><small>[[G1987]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[the\] distinction | <big><span class="asgreek">διάκρισιν</span></big> <sup><small><small>[[G1253]]</small></small></sup> |
+| of clouds, | <big><span class="asgreek">νεφών</span></big> <sup><small><small>[[G3509]]</small></small></sup> |
+| and \[the\] extraordinary | <big><span class="asgreek">εξαίσια</span></big> <sup><small><small>[[G7282]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| calamitous downfalls | <big><span class="asgreek">πτώματα</span></big> <sup><small><small>[[G4430]]</small></small></sup> |
+| of \[the\] wicked. | <big><span class="asgreek">πονηρών</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
 [[Job.37.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.15|<< Job 37:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.17|Job 37:17 >>]]</td></tr></table>
 
 

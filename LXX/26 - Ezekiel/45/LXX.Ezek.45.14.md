@@ -9,22 +9,22 @@ The prescribed portion of oil, measured by the bath, is a tenth of a bath from e
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| order | <span class="asgreek">πρόσταγμα <sup><small><small>[[G8943]]</small></small></sup> </span> |
-| \[concerning\] the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| olive oil -- | <span class="asgreek">ελαίου <sup><small><small>[[G1637]]</small></small></sup> </span> |
-| a cup | <span class="asgreek">κοτύλην <sup><small><small>[[G8077]]</small></small></sup> </span> |
-| of olive oil | <span class="asgreek">ελαίου <sup><small><small>[[G1637]]</small></small></sup> </span> |
-| out of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| ten | <span class="asgreek">δέκα <sup><small><small>[[G1176]]</small></small></sup> </span> |
-| cups, | <span class="asgreek">κοτυλών <sup><small><small>[[G8077]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ten | <span class="asgreek">δέκα <sup><small><small>[[G1176]]</small></small></sup> </span> |
-| cups | <span class="asgreek">κοτύλαι <sup><small><small>[[G8077]]</small></small></sup> </span> |
-| are | <span class="asgreek">εισί <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| a homer. | <span class="asgreek">γόμορ <sup><small><small>[[G6758]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| order | <big><span class="asgreek">πρόσταγμα</span></big> <sup><small><small>[[G8943]]</small></small></sup> |
+| \[concerning\] the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| olive oil -- | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| a cup | <big><span class="asgreek">κοτύλην</span></big> <sup><small><small>[[G8077]]</small></small></sup> |
+| of olive oil | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
+| out of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| cups, | <big><span class="asgreek">κοτυλών</span></big> <sup><small><small>[[G8077]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| cups | <big><span class="asgreek">κοτύλαι</span></big> <sup><small><small>[[G8077]]</small></small></sup> |
+| are | <big><span class="asgreek">εισί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| a homer. | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
 [[Ezek.45.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.13|<< Ezekiel 45:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.15|Ezekiel 45:15 >>]]</td></tr></table>
 
 

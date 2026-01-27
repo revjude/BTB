@@ -9,14 +9,14 @@ The sons of Mishma: Hammuel, Zaccur, and Shimei.<small><sub>**MT:**</sub></smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Mishma -- | <span class="asgreek">Μασμά <sup><small><small>[[H4927]]</small></small></sup> </span> |
-| Hamuel | <span class="asgreek">Αμουήλ <sup><small><small>[[H2538]]</small></small></sup> </span> |
-| his son, | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Zacchur | <span class="asgreek">Ζαχούρ <sup><small><small>[[H2139]]</small></small></sup> </span> |
-| his son, | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Shimei | <span class="asgreek">Σεμεϊ <sup><small><small>[[H8096]]</small></small></sup> </span> |
-| his son. | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[The\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Mishma -- | <big><span class="asgreek">Μασμά</span></big> <sup><small><small>[[H4927]]</small></small></sup> |
+| Hamuel | <big><span class="asgreek">Αμουήλ</span></big> <sup><small><small>[[H2538]]</small></small></sup> |
+| his son, | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Zacchur | <big><span class="asgreek">Ζαχούρ</span></big> <sup><small><small>[[H2139]]</small></small></sup> |
+| his son, | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Shimei | <big><span class="asgreek">Σεμεϊ</span></big> <sup><small><small>[[H8096]]</small></small></sup> |
+| his son. | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Chr.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.25|<< 1 Chronicles 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.27|1 Chronicles 4:27 >>]]</td></tr></table>
 
 

@@ -13,23 +13,23 @@ fracture for fracture, eye for eye, tooth for tooth. Just as he injured the othe
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A break | <span class="asgreek">σύντριμμα <sup><small><small>[[G4938]]</small></small></sup> </span> |
-| for | <span class="asgreek">αντί <sup><small><small>[[G0473]]</small></small></sup> </span> |
-| a break, | <span class="asgreek">συντρίμματος <sup><small><small>[[G4938]]</small></small></sup> </span> |
-| eye | <span class="asgreek">οφθαλμόν <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| for | <span class="asgreek">αντί <sup><small><small>[[G0473]]</small></small></sup> </span> |
-| eye, | <span class="asgreek">οφθαλμού <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| tooth | <span class="asgreek">οδόντα <sup><small><small>[[G3599]]</small></small></sup> </span> |
-| for | <span class="asgreek">αντί <sup><small><small>[[G0473]]</small></small></sup> </span> |
-| tooth; | <span class="asgreek">οδόντος <sup><small><small>[[G3599]]</small></small></sup> </span> |
-| in so far | <span class="asgreek">καθότι <sup><small><small>[[G2530]]</small></small></sup> </span> |
-| as | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| he should give | <span class="asgreek">δω <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| a blemish | <span class="asgreek">μώμον <sup><small><small>[[G3470]]</small></small></sup> </span> |
-| to a man, | <span class="asgreek">ανθρώπω <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| it shall be given | <span class="asgreek">δοθήσεται <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to him. | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| A break | <big><span class="asgreek">σύντριμμα</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
+| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
+| a break, | <big><span class="asgreek">συντρίμματος</span></big> <sup><small><small>[[G4938]]</small></small></sup> |
+| eye | <big><span class="asgreek">οφθαλμόν</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
+| eye, | <big><span class="asgreek">οφθαλμού</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| tooth | <big><span class="asgreek">οδόντα</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
+| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
+| tooth; | <big><span class="asgreek">οδόντος</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
+| in so far | <big><span class="asgreek">καθότι</span></big> <sup><small><small>[[G2530]]</small></small></sup> |
+| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| he should give | <big><span class="asgreek">δω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| a blemish | <big><span class="asgreek">μώμον</span></big> <sup><small><small>[[G3470]]</small></small></sup> |
+| to a man, | <big><span class="asgreek">ανθρώπω</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| it shall be given | <big><span class="asgreek">δοθήσεται</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to him. | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Lev.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.19|<< Leviticus 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.21|Leviticus 24:21 >>]]</td></tr></table>
 
 

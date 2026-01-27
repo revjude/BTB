@@ -9,20 +9,20 @@ The wise will be put to shame; they will be dismayed and trapped. Since they hav
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| are ashamed | <span class="asgreek">ησχύνθησαν <sup><small><small>[[G0153]]</small></small></sup> </span> |
-| \[The\] wise men | <span class="asgreek">σοφοί <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| terrified, | <span class="asgreek">επτοήθησαν <sup><small><small>[[G4422]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| convicted; | <span class="asgreek">εάλωσαν <sup><small><small>[[G6226]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| word | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| they rejected; | <span class="asgreek">απεδοκίμασαν <sup><small><small>[[G0593]]</small></small></sup> </span> |
-| what wisdom | <span class="asgreek">σοφία <sup><small><small>[[G4678]]</small></small></sup> <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| is | <span class="asgreek">εστίν <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| them? | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| are ashamed | <big><span class="asgreek">ησχύνθησαν</span></big> <sup><small><small>[[G0153]]</small></small></sup> |
+| \[The\] wise men | <big><span class="asgreek">σοφοί</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| terrified, | <big><span class="asgreek">επτοήθησαν</span></big> <sup><small><small>[[G4422]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| convicted; | <big><span class="asgreek">εάλωσαν</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| word | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| they rejected; | <big><span class="asgreek">απεδοκίμασαν</span></big> <sup><small><small>[[G0593]]</small></small></sup> |
+| what wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| is | <big><span class="asgreek">εστίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| them? | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.8|<< Jeremiah 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.10|Jeremiah 8:10 >>]]</td></tr></table>
 
 

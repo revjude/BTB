@@ -9,33 +9,33 @@ But I am full of the LORD’s wrath; I am tired of holding it back. “Pour it o
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my rage | <span class="asgreek">θυμόν <sup><small><small>[[G2372]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I filled | <span class="asgreek">έπλησα <sup><small><small>[[G4130]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I waited, | <span class="asgreek">επέσχον <sup><small><small>[[G1907]]</small></small></sup> </span> |
-| but | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| finished them off entirely. | <span class="asgreek">συνετέλεσα <sup><small><small>[[G4931]]</small></small></sup> <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I will pour out | <span class="asgreek">εκχεώ <sup><small><small>[[G1632]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] simple ones | <span class="asgreek">νήπια <sup><small><small>[[G3516]]</small></small></sup> </span> |
-| outside, | <span class="asgreek">έξωθεν <sup><small><small>[[G1855]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] gathering | <span class="asgreek">συναγωγήν <sup><small><small>[[G4864]]</small></small></sup> </span> |
-| of young men | <span class="asgreek">νεανίσκων <sup><small><small>[[G3495]]</small></small></sup> </span> |
-| together; | <span class="asgreek">άμα <sup><small><small>[[G0260]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| woman | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| shall be seized; | <span class="asgreek">συλληφθήσονται <sup><small><small>[[G4815]]</small></small></sup> </span> |
-| \[the\] elder | <span class="asgreek">πρεσβύτερος <sup><small><small>[[G4245]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \[the one\] full | <span class="asgreek">πλήρους <sup><small><small>[[G4134]]</small></small></sup> </span> |
-| of days. | <span class="asgreek">ημερών <sup><small><small>[[G2250]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my rage | <big><span class="asgreek">θυμόν</span></big> <sup><small><small>[[G2372]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I filled | <big><span class="asgreek">έπλησα</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I waited, | <big><span class="asgreek">επέσχον</span></big> <sup><small><small>[[G1907]]</small></small></sup> |
+| but | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| finished them off entirely. | <big><span class="asgreek">συνετέλεσα</span></big> <sup><small><small>[[G4931]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I will pour out | <big><span class="asgreek">εκχεώ</span></big> <sup><small><small>[[G1632]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] simple ones | <big><span class="asgreek">νήπια</span></big> <sup><small><small>[[G3516]]</small></small></sup> |
+| outside, | <big><span class="asgreek">έξωθεν</span></big> <sup><small><small>[[G1855]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] gathering | <big><span class="asgreek">συναγωγήν</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
+| of young men | <big><span class="asgreek">νεανίσκων</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
+| together; | <big><span class="asgreek">άμα</span></big> <sup><small><small>[[G0260]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| woman | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| shall be seized; | <big><span class="asgreek">συλληφθήσονται</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
+| \[the\] elder | <big><span class="asgreek">πρεσβύτερος</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \[the one\] full | <big><span class="asgreek">πλήρους</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
+| of days. | <big><span class="asgreek">ημερών</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
 [[Jer.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.10|<< Jeremiah 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.12|Jeremiah 6:12 >>]]</td></tr></table>
 
 

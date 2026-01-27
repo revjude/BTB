@@ -9,17 +9,17 @@ On the fifth day Shelumiel son of Zurishaddai, the leader of the Simeonites, dre
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fifth | <span class="asgreek">πέμπτη <sup><small><small>[[G3991]]</small></small></sup> </span> |
-| \[the\] ruler | <span class="asgreek">άρχων <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Simeon, | <span class="asgreek">Συμεών <sup><small><small>[[G4826]]</small></small></sup> </span> |
-| Shelumiel | <span class="asgreek">Σαλαμιήλ <sup><small><small>[[H8017]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Zurishaddai | <span class="asgreek">Σουρισαδαϊ <sup><small><small>[[H6701]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fifth | <big><span class="asgreek">πέμπτη</span></big> <sup><small><small>[[G3991]]</small></small></sup> |
+| \[the\] ruler | <big><span class="asgreek">άρχων</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Simeon, | <big><span class="asgreek">Συμεών</span></big> <sup><small><small>[[G4826]]</small></small></sup> |
+| Shelumiel | <big><span class="asgreek">Σαλαμιήλ</span></big> <sup><small><small>[[H8017]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Zurishaddai | <big><span class="asgreek">Σουρισαδαϊ</span></big> <sup><small><small>[[H6701]]</small></small></sup> |
 [[Num.7.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.35|<< Numbers 7:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.37|Numbers 7:37 >>]]</td></tr></table>
 
 

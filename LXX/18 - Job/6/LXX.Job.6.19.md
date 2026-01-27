@@ -9,13 +9,13 @@ The caravans of Tema look for water; the travelers of Sheba hope to find it.<sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold | <span class="asgreek">ίδετε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| \[the\] ways | <span class="asgreek">οδούς <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| of the Temanites, | <span class="asgreek">Θαιμανών <sup><small><small>[[H8489]]</small></small></sup> </span> |
-| \[the\] short cuts | <span class="asgreek">ατραπούς <sup><small><small>[[G6592]]</small></small></sup> </span> |
-| of \[the\] Sabaeans | <span class="asgreek">Σαβών <sup><small><small>[[H7615]]</small></small></sup> </span> |
-| O ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| seeing clearly | <span class="asgreek">διορώντες <sup><small><small>[[G6936]]</small></small></sup> </span> |
+| Behold | <big><span class="asgreek">ίδετε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| \[the\] ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| of the Temanites, | <big><span class="asgreek">Θαιμανών</span></big> <sup><small><small>[[H8489]]</small></small></sup> |
+| \[the\] short cuts | <big><span class="asgreek">ατραπούς</span></big> <sup><small><small>[[G6592]]</small></small></sup> |
+| of \[the\] Sabaeans | <big><span class="asgreek">Σαβών</span></big> <sup><small><small>[[H7615]]</small></small></sup> |
+| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| seeing clearly | <big><span class="asgreek">διορώντες</span></big> <sup><small><small>[[G6936]]</small></small></sup> |
 [[Job.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.18|<< Job 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.20|Job 6:20 >>]]</td></tr></table>
 
 

@@ -9,18 +9,18 @@ Praise Him with tambourine and dancing; praise Him with strings and flute.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Praise | <span class="asgreek">αινείτε <sup><small><small>[[G0134]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a tambourine | <span class="asgreek">τυμπάνω <sup><small><small>[[G9515]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| company of dancers! | <span class="asgreek">χορώ <sup><small><small>[[G5525]]</small></small></sup> </span> |
-| Praise | <span class="asgreek">αινείτε <sup><small><small>[[G0134]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| strings of a lyre | <span class="asgreek">χορδαίς <sup><small><small>[[G9746]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[musical\] instrument! | <span class="asgreek">οργάνω <sup><small><small>[[G8545]]</small></small></sup> </span> |
+| Praise | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a tambourine | <big><span class="asgreek">τυμπάνω</span></big> <sup><small><small>[[G9515]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| company of dancers! | <big><span class="asgreek">χορώ</span></big> <sup><small><small>[[G5525]]</small></small></sup> |
+| Praise | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| strings of a lyre | <big><span class="asgreek">χορδαίς</span></big> <sup><small><small>[[G9746]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[musical\] instrument! | <big><span class="asgreek">οργάνω</span></big> <sup><small><small>[[G8545]]</small></small></sup> |
 [[Ps.150.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.150.3|<< Psalm 150:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.150.5|Psalm 150:5 >>]]</td></tr></table>
 
 

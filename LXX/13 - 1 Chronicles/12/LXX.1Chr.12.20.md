@@ -9,37 +9,37 @@ When David went to Ziklag, these men of Manasseh defected to him: Adnah, Jozabad
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they sent him away. | <span class="asgreek">εξαπέστειλαν <sup><small><small>[[G1821]]</small></small></sup> <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| going | <span class="asgreek">πορεύεσθαι <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| David | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Ziklag, | <span class="asgreek">Σεκελάγ <sup><small><small>[[H6860]]</small></small></sup> </span> |
-| some joined with | <span class="asgreek">προσεχώρησαν <sup><small><small>[[G8949]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| Manasseh -- | <span class="asgreek">Μανασσή <sup><small><small>[[G3128]]</small></small></sup> </span> |
-| Adnah, | <span class="asgreek">Εδνά <sup><small><small>[[H5734]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jozabad, | <span class="asgreek">Ιωζαβάδ <sup><small><small>[[H3107]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jediael, | <span class="asgreek">Ιαδιήλ <sup><small><small>[[H3043]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Michael, | <span class="asgreek">Μιχαήλ <sup><small><small>[[G3413]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jozabad, | <span class="asgreek">Ιωζαβάδ <sup><small><small>[[H3107]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Elihu, | <span class="asgreek">Ελιού <sup><small><small>[[H0453]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Zilthai -- | <span class="asgreek">Σελαθί <sup><small><small>[[H6769]]</small></small></sup> </span> |
-| chiefs | <span class="asgreek">αρχηγοί <sup><small><small>[[G0747]]</small></small></sup> </span> |
-| of thousands | <span class="asgreek">χιλιαδων <sup><small><small>[[G5505]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Manasseh. | <span class="asgreek">Μανασσή <sup><small><small>[[G3128]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they sent him away. | <big><span class="asgreek">εξαπέστειλαν</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| going | <big><span class="asgreek">πορεύεσθαι</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| David | <big><span class="asgreek">Δαυίδ</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Ziklag, | <big><span class="asgreek">Σεκελάγ</span></big> <sup><small><small>[[H6860]]</small></small></sup> |
+| some joined with | <big><span class="asgreek">προσεχώρησαν</span></big> <sup><small><small>[[G8949]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| Manasseh -- | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
+| Adnah, | <big><span class="asgreek">Εδνά</span></big> <sup><small><small>[[H5734]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jozabad, | <big><span class="asgreek">Ιωζαβάδ</span></big> <sup><small><small>[[H3107]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jediael, | <big><span class="asgreek">Ιαδιήλ</span></big> <sup><small><small>[[H3043]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Michael, | <big><span class="asgreek">Μιχαήλ</span></big> <sup><small><small>[[G3413]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jozabad, | <big><span class="asgreek">Ιωζαβάδ</span></big> <sup><small><small>[[H3107]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Elihu, | <big><span class="asgreek">Ελιού</span></big> <sup><small><small>[[H0453]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Zilthai -- | <big><span class="asgreek">Σελαθί</span></big> <sup><small><small>[[H6769]]</small></small></sup> |
+| chiefs | <big><span class="asgreek">αρχηγοί</span></big> <sup><small><small>[[G0747]]</small></small></sup> |
+| of thousands | <big><span class="asgreek">χιλιαδων</span></big> <sup><small><small>[[G5505]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Manasseh. | <big><span class="asgreek">Μανασσή</span></big> <sup><small><small>[[G3128]]</small></small></sup> |
 [[1Chr.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.19|<< 1 Chronicles 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.21|1 Chronicles 12:21 >>]]</td></tr></table>
 
 

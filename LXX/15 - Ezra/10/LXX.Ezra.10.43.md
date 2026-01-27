@@ -9,17 +9,17 @@ And from the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| From | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Nebo -- | <span class="asgreek">Ναβού <sup><small><small>[[H5015b]]</small></small></sup> </span> |
-| Jeiel, | <span class="asgreek">Ιεϊήλ <sup><small><small>[[H3273]]</small></small></sup> </span> |
-| Mattithiah, | <span class="asgreek">Ματθαθίας <sup><small><small>[[H4993]]</small></small></sup> </span> |
-| Zabad, | <span class="asgreek">Ζαβάδ <sup><small><small>[[H2066]]</small></small></sup> </span> |
-| Zebina, | <span class="asgreek">Ζεβεννά <sup><small><small>[[H2081]]</small></small></sup> </span> |
-| Jadau, | <span class="asgreek">Ιαδαϊ <sup><small><small>[[H3035]]</small></small></sup> </span> |
-| Joel, | <span class="asgreek">Ιωήλ <sup><small><small>[[G2493]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Benaiah. | <span class="asgreek">Βαναϊας <sup><small><small>[[H1141]]</small></small></sup> </span> |
+| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Nebo -- | <big><span class="asgreek">Ναβού</span></big> <sup><small><small>[[H5015b]]</small></small></sup> |
+| Jeiel, | <big><span class="asgreek">Ιεϊήλ</span></big> <sup><small><small>[[H3273]]</small></small></sup> |
+| Mattithiah, | <big><span class="asgreek">Ματθαθίας</span></big> <sup><small><small>[[H4993]]</small></small></sup> |
+| Zabad, | <big><span class="asgreek">Ζαβάδ</span></big> <sup><small><small>[[H2066]]</small></small></sup> |
+| Zebina, | <big><span class="asgreek">Ζεβεννά</span></big> <sup><small><small>[[H2081]]</small></small></sup> |
+| Jadau, | <big><span class="asgreek">Ιαδαϊ</span></big> <sup><small><small>[[H3035]]</small></small></sup> |
+| Joel, | <big><span class="asgreek">Ιωήλ</span></big> <sup><small><small>[[G2493]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Benaiah. | <big><span class="asgreek">Βαναϊας</span></big> <sup><small><small>[[H1141]]</small></small></sup> |
 [[Ezra.10.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.42|<< Ezra 10:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.44|Ezra 10:44 >>]]</td></tr></table>
 
 

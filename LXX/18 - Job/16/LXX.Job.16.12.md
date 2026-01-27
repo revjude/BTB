@@ -9,18 +9,18 @@ I was at ease, but He shattered me; He seized me by the neck and crushed me. He 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Making peace | <span class="asgreek">ειρηνεύοντα <sup><small><small>[[G1514]]</small></small></sup> </span> |
-| he effaced | <span class="asgreek">διεσκέδασέ <sup><small><small>[[G6876]]</small></small></sup> </span> |
-| me; | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| taking | <span class="asgreek">λαβών <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| by the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hair of the head | <span class="asgreek">κόμης <sup><small><small>[[G2864]]</small></small></sup> </span> |
-| he plucked it out; | <span class="asgreek">διέτιλε <sup><small><small>[[G6890]]</small></small></sup> </span> |
-| he placed | <span class="asgreek">κατέστησέ <sup><small><small>[[G2525]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as if | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| an exemplar. | <span class="asgreek">σκοπόν <sup><small><small>[[G4649]]</small></small></sup> </span> |
+| Making peace | <big><span class="asgreek">ειρηνεύοντα</span></big> <sup><small><small>[[G1514]]</small></small></sup> |
+| he effaced | <big><span class="asgreek">διεσκέδασέ</span></big> <sup><small><small>[[G6876]]</small></small></sup> |
+| me; | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| taking | <big><span class="asgreek">λαβών</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| by the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hair of the head | <big><span class="asgreek">κόμης</span></big> <sup><small><small>[[G2864]]</small></small></sup> |
+| he plucked it out; | <big><span class="asgreek">διέτιλε</span></big> <sup><small><small>[[G6890]]</small></small></sup> |
+| he placed | <big><span class="asgreek">κατέστησέ</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as if | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| an exemplar. | <big><span class="asgreek">σκοπόν</span></big> <sup><small><small>[[G4649]]</small></small></sup> |
 [[Job.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.11|<< Job 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.13|Job 16:13 >>]]</td></tr></table>
 
 

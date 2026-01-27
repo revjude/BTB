@@ -9,17 +9,17 @@ Like a fluttering sparrow or darting swallow, an undeserved curse does not come 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| birds | <span class="asgreek">όρνεα <sup><small><small>[[G3732]]</small></small></sup> </span> |
-| spread out \[to fly\] | <span class="asgreek">πέταται <sup><small><small>[[G8780]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| sparrows | <span class="asgreek">στρουθοί <sup><small><small>[[G9207]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| oath | <span class="asgreek">αρά <sup><small><small>[[G0685]]</small></small></sup> </span> |
-| a vain | <span class="asgreek">ματαία <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| come unto | <span class="asgreek">επελεύσεται <sup><small><small>[[G1904]]</small></small></sup> </span> |
-| one \[thing\]. | <span class="asgreek">ουδενί <sup><small><small>[[G3762]]</small></small></sup> </span> |
+| As | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| birds | <big><span class="asgreek">όρνεα</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
+| spread out \[to fly\] | <big><span class="asgreek">πέταται</span></big> <sup><small><small>[[G8780]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| sparrows | <big><span class="asgreek">στρουθοί</span></big> <sup><small><small>[[G9207]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| oath | <big><span class="asgreek">αρά</span></big> <sup><small><small>[[G0685]]</small></small></sup> |
+| a vain | <big><span class="asgreek">ματαία</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| come unto | <big><span class="asgreek">επελεύσεται</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
+| one \[thing\]. | <big><span class="asgreek">ουδενί</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
 [[Prov.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.1|<< Proverbs 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.3|Proverbs 26:3 >>]]</td></tr></table>
 
 

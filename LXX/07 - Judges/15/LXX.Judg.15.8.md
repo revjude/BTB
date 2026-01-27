@@ -9,23 +9,23 @@ And he struck them ruthlessly with a great slaughter, and then went down and sta
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he struck | <span class="asgreek">επάταξεν <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| leg | <span class="asgreek">κνήμην <sup><small><small>[[G8033]]</small></small></sup> </span> |
-| on | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| thigh | <span class="asgreek">μηρόν <sup><small><small>[[G3382]]</small></small></sup> </span> |
-| beating | <span class="asgreek">πληγήν <sup><small><small>[[G4127]]</small></small></sup> </span> |
-| with a great | <span class="asgreek">μεγάλην <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he went down | <span class="asgreek">κατέβη <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| sat | <span class="asgreek">εκάθισεν <sup><small><small>[[G2523]]</small></small></sup> </span> |
-| at | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] hole | <span class="asgreek">τρυμαλιά <sup><small><small>[[G5168]]</small></small></sup> </span> |
-| in the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rock | <span class="asgreek">πέτρας <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| of Etam. | <span class="asgreek">Ητάμ <sup><small><small>[[H5862]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he struck | <big><span class="asgreek">επάταξεν</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| leg | <big><span class="asgreek">κνήμην</span></big> <sup><small><small>[[G8033]]</small></small></sup> |
+| on | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| thigh | <big><span class="asgreek">μηρόν</span></big> <sup><small><small>[[G3382]]</small></small></sup> |
+| beating | <big><span class="asgreek">πληγήν</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
+| with a great | <big><span class="asgreek">μεγάλην</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| sat | <big><span class="asgreek">εκάθισεν</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
+| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] hole | <big><span class="asgreek">τρυμαλιά</span></big> <sup><small><small>[[G5168]]</small></small></sup> |
+| in the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rock | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| of Etam. | <big><span class="asgreek">Ητάμ</span></big> <sup><small><small>[[H5862]]</small></small></sup> |
 [[Judg.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.7|<< Judges 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.9|Judges 15:9 >>]]</td></tr></table>
 
 

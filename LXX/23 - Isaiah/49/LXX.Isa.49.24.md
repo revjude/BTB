@@ -9,17 +9,17 @@ Can the plunder be snatched from the mighty, or the captives of a tyrant be deli
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Will | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| anyone take | <span class="asgreek">λήψεταί <sup><small><small>[[G2983]]</small></small></sup> <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| from | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| a giant | <span class="asgreek">γίγαντος <sup><small><small>[[G6736]]</small></small></sup> </span> |
-| spoils | <span class="asgreek">σκύλα <sup><small><small>[[G4661]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| should be captured | <span class="asgreek">αιχμαλωτεύση <sup><small><small>[[G0162]]</small></small></sup> </span> |
-| anyone | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| unjustly, | <span class="asgreek">αδίκως <sup><small><small>[[G0095]]</small></small></sup> </span> |
-| shall he be delivered? | <span class="asgreek">σωθήσεται <sup><small><small>[[G4982]]</small></small></sup> </span> |
+| Will | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| anyone take | <big><span class="asgreek">λήψεταί</span></big> <sup><small><small>[[G2983]]</small></small></sup> <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| a giant | <big><span class="asgreek">γίγαντος</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
+| spoils | <big><span class="asgreek">σκύλα</span></big> <sup><small><small>[[G4661]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| should be captured | <big><span class="asgreek">αιχμαλωτεύση</span></big> <sup><small><small>[[G0162]]</small></small></sup> |
+| anyone | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| unjustly, | <big><span class="asgreek">αδίκως</span></big> <sup><small><small>[[G0095]]</small></small></sup> |
+| shall he be delivered? | <big><span class="asgreek">σωθήσεται</span></big> <sup><small><small>[[G4982]]</small></small></sup> |
 [[Isa.49.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.23|<< Isaiah 49:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.25|Isaiah 49:25 >>]]</td></tr></table>
 
 

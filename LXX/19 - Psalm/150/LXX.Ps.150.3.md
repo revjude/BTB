@@ -9,17 +9,17 @@ Praise Him with the sound of the horn; praise Him with the harp and lyre.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Praise | <span class="asgreek">αινείτε <sup><small><small>[[G0134]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a sound | <span class="asgreek">ήχω <sup><small><small>[[G2279]]</small></small></sup> </span> |
-| of a trumpet! | <span class="asgreek">σάλπιγγος <sup><small><small>[[G4536]]</small></small></sup> </span> |
-| Praise | <span class="asgreek">αινείτε <sup><small><small>[[G0134]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a psaltery | <span class="asgreek">ψαλτηρίω <sup><small><small>[[G9783]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| harp! | <span class="asgreek">κιθάρα <sup><small><small>[[G2788]]</small></small></sup> </span> |
+| Praise | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a sound | <big><span class="asgreek">ήχω</span></big> <sup><small><small>[[G2279]]</small></small></sup> |
+| of a trumpet! | <big><span class="asgreek">σάλπιγγος</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
+| Praise | <big><span class="asgreek">αινείτε</span></big> <sup><small><small>[[G0134]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a psaltery | <big><span class="asgreek">ψαλτηρίω</span></big> <sup><small><small>[[G9783]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| harp! | <big><span class="asgreek">κιθάρα</span></big> <sup><small><small>[[G2788]]</small></small></sup> |
 [[Ps.150.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.150.2|<< Psalm 150:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.150.4|Psalm 150:4 >>]]</td></tr></table>
 
 

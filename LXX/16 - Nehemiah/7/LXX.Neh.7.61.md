@@ -9,27 +9,27 @@ The following came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, but 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| these | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| ascended | <span class="asgreek">ανέβησαν <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| Tel-melah, | <span class="asgreek">Θελμελέχ <sup><small><small>[[H8528]]</small></small></sup> </span> |
-| Tel-haresha, | <span class="asgreek">Θελασάρ <sup><small><small>[[H8521]]</small></small></sup> </span> |
-| Cherub, | <span class="asgreek">Χαρούβ <sup><small><small>[[H3743]]</small></small></sup> </span> |
-| Addon, | <span class="asgreek">Ηδάν <sup><small><small>[[H0114]]</small></small></sup> </span> |
-| Immer. | <span class="asgreek">Εμμήρ <sup><small><small>[[H0564]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they were not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| able | <span class="asgreek">ηδυνήθησαν <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| to identify | <span class="asgreek">απαγγείλαι <sup><small><small>[[G0518]]</small></small></sup> </span> |
-| \[the\] houses | <span class="asgreek">οίκους <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of their families, | <span class="asgreek">πατριών <sup><small><small>[[G3965]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| their seed, | <span class="asgreek">σπερμα <sup><small><small>[[G4690]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| Israel | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| they are | <span class="asgreek">εισιν <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| ascended | <big><span class="asgreek">ανέβησαν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| Tel-melah, | <big><span class="asgreek">Θελμελέχ</span></big> <sup><small><small>[[H8528]]</small></small></sup> |
+| Tel-haresha, | <big><span class="asgreek">Θελασάρ</span></big> <sup><small><small>[[H8521]]</small></small></sup> |
+| Cherub, | <big><span class="asgreek">Χαρούβ</span></big> <sup><small><small>[[H3743]]</small></small></sup> |
+| Addon, | <big><span class="asgreek">Ηδάν</span></big> <sup><small><small>[[H0114]]</small></small></sup> |
+| Immer. | <big><span class="asgreek">Εμμήρ</span></big> <sup><small><small>[[H0564]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| able | <big><span class="asgreek">ηδυνήθησαν</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| to identify | <big><span class="asgreek">απαγγείλαι</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| \[the\] houses | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of their families, | <big><span class="asgreek">πατριών</span></big> <sup><small><small>[[G3965]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| their seed, | <big><span class="asgreek">σπερμα</span></big> <sup><small><small>[[G4690]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| Israel | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| they are | <big><span class="asgreek">εισιν</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Neh.7.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.60|<< Nehemiah 7:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.62|Nehemiah 7:62 >>]]</td></tr></table>
 
 

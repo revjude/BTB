@@ -9,13 +9,13 @@ The righteousness of the blameless directs their path, but the wicked fall by th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Righteousness | <span class="asgreek">δικαιοσύνη <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| unblemished | <span class="asgreek">αμώμου <sup><small><small>[[G0299]]</small></small></sup> </span> |
-| cuts straight | <span class="asgreek">ορθοτομει <sup><small><small>[[G3718]]</small></small></sup> </span> |
-| ways; | <span class="asgreek">οδούς <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| but impiety | <span class="asgreek">ασέβεια <sup><small><small>[[G0763]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| falls among | <span class="asgreek">περιπίπτει <sup><small><small>[[G4045]]</small></small></sup> </span> |
-| injustice. | <span class="asgreek">αδικία <sup><small><small>[[G0093]]</small></small></sup> </span> |
+| Righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| unblemished | <big><span class="asgreek">αμώμου</span></big> <sup><small><small>[[G0299]]</small></small></sup> |
+| cuts straight | <big><span class="asgreek">ορθοτομει</span></big> <sup><small><small>[[G3718]]</small></small></sup> |
+| ways; | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| but impiety | <big><span class="asgreek">ασέβεια</span></big> <sup><small><small>[[G0763]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| falls among | <big><span class="asgreek">περιπίπτει</span></big> <sup><small><small>[[G4045]]</small></small></sup> |
+| injustice. | <big><span class="asgreek">αδικία</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
 [[Prov.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.4|<< Proverbs 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.6|Proverbs 11:6 >>]]</td></tr></table>
 
 

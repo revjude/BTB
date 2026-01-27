@@ -9,16 +9,16 @@ She makes coverings for her bed; her clothing is fine linen and purple.<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A double | <span class="asgreek">δισσάς <sup><small><small>[[G6944]]</small></small></sup> </span> |
-| goat's hair coat | <span class="asgreek">χλαίνας <sup><small><small>[[G9735]]</small></small></sup> </span> |
-| she made | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for her husband; | <span class="asgreek">ανδρί <sup><small><small>[[G0435]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| linen | <span class="asgreek">βύσσου <sup><small><small>[[G1040]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| purple \[material\] | <span class="asgreek">πορφύρας <sup><small><small>[[G4209]]</small></small></sup> </span> |
-| garments for herself. | <span class="asgreek">εαυτή <sup><small><small>[[G1438]]</small></small></sup> <span class="asgreek">ενδύματα <sup><small><small>[[G1742]]</small></small></sup> </span> |
+| A double | <big><span class="asgreek">δισσάς</span></big> <sup><small><small>[[G6944]]</small></small></sup> |
+| goat's hair coat | <big><span class="asgreek">χλαίνας</span></big> <sup><small><small>[[G9735]]</small></small></sup> |
+| she made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for her husband; | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| linen | <big><span class="asgreek">βύσσου</span></big> <sup><small><small>[[G1040]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| purple \[material\] | <big><span class="asgreek">πορφύρας</span></big> <sup><small><small>[[G4209]]</small></small></sup> |
+| garments for herself. | <big><span class="asgreek">εαυτή</span></big> <sup><small><small>[[G1438]]</small></small></sup> <big><span class="asgreek">ενδύματα</span></big> <sup><small><small>[[G1742]]</small></small></sup> |
 [[Prov.31.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.21|<< Proverbs 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.23|Proverbs 31:23 >>]]</td></tr></table>
 
 

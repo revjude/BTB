@@ -9,20 +9,20 @@ You put my feet in the stocks and stand watch over all my paths; You set a limit
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And you put | <span class="asgreek">έθου <sup><small><small>[[G5087]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| foot | <span class="asgreek">πόδα <sup><small><small>[[G4228]]</small></small></sup> </span> |
-| under | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| restraint; | <span class="asgreek">κωλύματι <sup><small><small>[[G8142]]</small></small></sup> </span> |
-| and you watched | <span class="asgreek">εφύλαξας <sup><small><small>[[G5442]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| all my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| works; | <span class="asgreek">έργα <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| and into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[the\] roots | <span class="asgreek">ρίζας <sup><small><small>[[G4491]]</small></small></sup> </span> |
-| of my feet | <span class="asgreek">ποδών <sup><small><small>[[G4228]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you attained. | <span class="asgreek">αφίκου <sup><small><small>[[G0864]]</small></small></sup> </span> |
+| And you put | <big><span class="asgreek">έθου</span></big> <sup><small><small>[[G5087]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| foot | <big><span class="asgreek">πόδα</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
+| under | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| restraint; | <big><span class="asgreek">κωλύματι</span></big> <sup><small><small>[[G8142]]</small></small></sup> |
+| and you watched | <big><span class="asgreek">εφύλαξας</span></big> <sup><small><small>[[G5442]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| all my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| works; | <big><span class="asgreek">έργα</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| and into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[the\] roots | <big><span class="asgreek">ρίζας</span></big> <sup><small><small>[[G4491]]</small></small></sup> |
+| of my feet | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you attained. | <big><span class="asgreek">αφίκου</span></big> <sup><small><small>[[G0864]]</small></small></sup> |
 [[Job.13.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.26|<< Job 13:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.28|Job 13:28 >>]]</td></tr></table>
 
 

@@ -9,21 +9,21 @@ God has spoken from His sanctuary: “I will triumph! I will parcel out Shechem 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| spoke | <span class="asgreek">ελάλησεν <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his holy place. | <span class="asgreek">αγίω <sup><small><small>[[G0039]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I shall be raised up high, | <span class="asgreek">υψωθήσομαι <sup><small><small>[[G5312]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall divide Shechem into parts; | <span class="asgreek">διαμεριώ <sup><small><small>[[G1266]]</small></small></sup> <span class="asgreek">Σίκιμα <sup><small><small>[[G4966]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| valley | <span class="asgreek">κοιλάδα <sup><small><small>[[G8038]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tents | <span class="asgreek">σκηνών <sup><small><small>[[G4633]]</small></small></sup> </span> |
-| I will measure out. | <span class="asgreek">διαμετρήσω <sup><small><small>[[G6848]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| spoke | <big><span class="asgreek">ελάλησεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his holy place. | <big><span class="asgreek">αγίω</span></big> <sup><small><small>[[G0039]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I shall be raised up high, | <big><span class="asgreek">υψωθήσομαι</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall divide Shechem into parts; | <big><span class="asgreek">διαμεριώ</span></big> <sup><small><small>[[G1266]]</small></small></sup> <big><span class="asgreek">Σίκιμα</span></big> <sup><small><small>[[G4966]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| valley | <big><span class="asgreek">κοιλάδα</span></big> <sup><small><small>[[G8038]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tents | <big><span class="asgreek">σκηνών</span></big> <sup><small><small>[[G4633]]</small></small></sup> |
+| I will measure out. | <big><span class="asgreek">διαμετρήσω</span></big> <sup><small><small>[[G6848]]</small></small></sup> |
 [[Ps.108.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.6|<< Psalm 108:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.8|Psalm 108:8 >>]]</td></tr></table>
 
 

@@ -9,24 +9,24 @@ If my steps have turned from the path, if my heart has followed my eyes, or if i
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| turned aside | <span class="asgreek">εξέκλινεν <sup><small><small>[[G1578]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my foot | <span class="asgreek">πους <sup><small><small>[[G4228]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| way, | <span class="asgreek">οδού <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| or if even | <span class="asgreek">ει δε και <sup><small><small>[[G7048]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my eye | <span class="asgreek">οφθαλμώ <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| follows after | <span class="asgreek">επηκολούθησεν <sup><small><small>[[G1872]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my heart | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and if even | <span class="asgreek">ει δε και <sup><small><small>[[G7048]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my hands | <span class="asgreek">χερσί <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| touched | <span class="asgreek">ηψάμην <sup><small><small>[[G0680]]</small></small></sup> </span> |
-| bribes; | <span class="asgreek">δώρων <sup><small><small>[[G1435]]</small></small></sup> </span> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| turned aside | <big><span class="asgreek">εξέκλινεν</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my foot | <big><span class="asgreek">πους</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| way, | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| or if even | <big><span class="asgreek">ει δε και</span></big> <sup><small><small>[[G7048]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my eye | <big><span class="asgreek">οφθαλμώ</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| follows after | <big><span class="asgreek">επηκολούθησεν</span></big> <sup><small><small>[[G1872]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and if even | <big><span class="asgreek">ει δε και</span></big> <sup><small><small>[[G7048]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my hands | <big><span class="asgreek">χερσί</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| touched | <big><span class="asgreek">ηψάμην</span></big> <sup><small><small>[[G0680]]</small></small></sup> |
+| bribes; | <big><span class="asgreek">δώρων</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
 [[Job.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.6|<< Job 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.8|Job 31:8 >>]]</td></tr></table>
 
 

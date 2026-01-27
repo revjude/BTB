@@ -14,15 +14,15 @@ Rejoice in the LORD, O righteous ones; it is fitting for the upright to praise H
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Exult, | <span class="asgreek">αγαλλιάσθε <sup><small><small>[[G0021]]</small></small></sup> </span> |
-| O just ones, | <span class="asgreek">δίκαιοι <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>! | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| To the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| upright | <span class="asgreek">ευθέσι <sup><small><small>[[G2117]]</small></small></sup> </span> |
-| \[is\] becoming | <span class="asgreek">πρέπει <sup><small><small>[[G4241]]</small></small></sup> </span> |
-| praise | <span class="asgreek">αίνεσις <sup><small><small>[[G0133]]</small></small></sup> </span> |
+| Exult, | <big><span class="asgreek">αγαλλιάσθε</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
+| O just ones, | <big><span class="asgreek">δίκαιοι</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>! | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| To the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| upright | <big><span class="asgreek">ευθέσι</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
+| \[is\] becoming | <big><span class="asgreek">πρέπει</span></big> <sup><small><small>[[G4241]]</small></small></sup> |
+| praise | <big><span class="asgreek">αίνεσις</span></big> <sup><small><small>[[G0133]]</small></small></sup> |
 [[Ps.33.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.11|<< Psalm 32:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.2|Psalm 33:2 >>]]</td></tr></table>
 
 

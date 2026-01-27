@@ -9,22 +9,22 @@ Malchijah son of Harim and Hasshub son of Pahath-moab repaired another section, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| measured \[section\] | <span class="asgreek">μέτρον <sup><small><small>[[G3358]]</small></small></sup> </span> |
-| a second | <span class="asgreek">δεύτερον <sup><small><small>[[G1208]]</small></small></sup> </span> |
-| repaired | <span class="asgreek">εκράτησε <sup><small><small>[[G2902]]</small></small></sup> </span> |
-| Malchijah | <span class="asgreek">Μελχίας <sup><small><small>[[H4441]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Harim | <span class="asgreek">Ηράμ <sup><small><small>[[H2766]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Hashub | <span class="asgreek">Ασούβ <sup><small><small>[[H2815]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Pahath-moab | <span class="asgreek">Φαάτ Μωάβ <sup><small><small>[[H6355]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| \[the\] tower | <span class="asgreek">πύργου <sup><small><small>[[G4444]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| furnaces. | <span class="asgreek">θαναρείμ <sup><small><small>[[G7641]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| measured \[section\] | <big><span class="asgreek">μέτρον</span></big> <sup><small><small>[[G3358]]</small></small></sup> |
+| a second | <big><span class="asgreek">δεύτερον</span></big> <sup><small><small>[[G1208]]</small></small></sup> |
+| repaired | <big><span class="asgreek">εκράτησε</span></big> <sup><small><small>[[G2902]]</small></small></sup> |
+| Malchijah | <big><span class="asgreek">Μελχίας</span></big> <sup><small><small>[[H4441]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Harim | <big><span class="asgreek">Ηράμ</span></big> <sup><small><small>[[H2766]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Hashub | <big><span class="asgreek">Ασούβ</span></big> <sup><small><small>[[H2815]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Pahath-moab | <big><span class="asgreek">Φαάτ Μωάβ</span></big> <sup><small><small>[[H6355]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| \[the\] tower | <big><span class="asgreek">πύργου</span></big> <sup><small><small>[[G4444]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| furnaces. | <big><span class="asgreek">θαναρείμ</span></big> <sup><small><small>[[G7641]]</small></small></sup> |
 [[Neh.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.10|<< Nehemiah 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.12|Nehemiah 3:12 >>]]</td></tr></table>
 
 

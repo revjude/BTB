@@ -9,19 +9,19 @@ May God expand the territory of Japheth; may he dwell in the tents of Shem, and 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| May God widen | <span class="asgreek">πλατύναι <sup><small><small>[[G4115]]</small></small></sup> <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Japheth, | <span class="asgreek">Ιάφεθ <sup><small><small>[[H3315]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| let him dwell | <span class="asgreek">κατοικησάτω <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tents | <span class="asgreek">σκηνωμασι <sup><small><small>[[G4638]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Shem, | <span class="asgreek">Σημ <sup><small><small>[[G4590]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| let Canaan become | <span class="asgreek">γενηθητω <sup><small><small>[[G1096]]</small></small></sup> <span class="asgreek">Χανααν <sup><small><small>[[H3668]]</small></small></sup> </span> |
-| their servant. | <span class="asgreek">παις <sup><small><small>[[G3816]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| May God widen | <big><span class="asgreek">πλατύναι</span></big> <sup><small><small>[[G4115]]</small></small></sup> <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Japheth, | <big><span class="asgreek">Ιάφεθ</span></big> <sup><small><small>[[H3315]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| let him dwell | <big><span class="asgreek">κατοικησάτω</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tents | <big><span class="asgreek">σκηνωμασι</span></big> <sup><small><small>[[G4638]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Shem, | <big><span class="asgreek">Σημ</span></big> <sup><small><small>[[G4590]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| let Canaan become | <big><span class="asgreek">γενηθητω</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">Χανααν</span></big> <sup><small><small>[[H3668]]</small></small></sup> |
+| their servant. | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.26|<< Genesis 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.28|Genesis 9:28 >>]]</td></tr></table>
 
 

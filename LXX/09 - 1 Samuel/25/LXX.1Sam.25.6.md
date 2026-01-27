@@ -9,22 +9,22 @@ and say to him, ‘Long life to you, and peace to you and to your house and to a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall say | <span class="asgreek">ερείτε <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| thus, | <span class="asgreek">τάδε <sup><small><small>[[G3592]]</small></small></sup> </span> |
-| For | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a season | <span class="asgreek">ώρας <sup><small><small>[[G5610]]</small></small></sup> </span> |
-| \[may it be for\] | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| being in health | <span class="asgreek">υγιαίνων <sup><small><small>[[G5198]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your house, | <span class="asgreek">οίκός <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of yours | <span class="asgreek">σα <sup><small><small>[[G4674]]</small></small></sup> </span> |
-| being in health. | <span class="asgreek">υγιαίνοντα <sup><small><small>[[G5198]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall say | <big><span class="asgreek">ερείτε</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| thus, | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
+| For | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a season | <big><span class="asgreek">ώρας</span></big> <sup><small><small>[[G5610]]</small></small></sup> |
+| \[may it be for\] | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| being in health | <big><span class="asgreek">υγιαίνων</span></big> <sup><small><small>[[G5198]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your house, | <big><span class="asgreek">οίκός</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of yours | <big><span class="asgreek">σα</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
+| being in health. | <big><span class="asgreek">υγιαίνοντα</span></big> <sup><small><small>[[G5198]]</small></small></sup> |
 [[1Sam.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.5|<< 1 Samuel 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.7|1 Samuel 25:7 >>]]</td></tr></table>
 
 

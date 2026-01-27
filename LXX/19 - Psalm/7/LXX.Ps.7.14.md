@@ -9,14 +9,14 @@ Behold, the wicked man travails with evil; he conceives trouble and births false
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| \[the wicked\] travails | <span class="asgreek">ωδίνησεν <sup><small><small>[[G5605]]</small></small></sup> </span> |
-| with iniquity; | <span class="asgreek">αδικίαν <sup><small><small>[[G0093]]</small></small></sup> </span> |
-| he conceived | <span class="asgreek">συνέλαβε <sup><small><small>[[G4815]]</small></small></sup> </span> |
-| misery, | <span class="asgreek">πόνον <sup><small><small>[[G4192]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gave birth to | <span class="asgreek">έτεκεν <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| lawlessness. | <span class="asgreek">ανομίαν <sup><small><small>[[G0458]]</small></small></sup> </span> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| \[the wicked\] travails | <big><span class="asgreek">ωδίνησεν</span></big> <sup><small><small>[[G5605]]</small></small></sup> |
+| with iniquity; | <big><span class="asgreek">αδικίαν</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
+| he conceived | <big><span class="asgreek">συνέλαβε</span></big> <sup><small><small>[[G4815]]</small></small></sup> |
+| misery, | <big><span class="asgreek">πόνον</span></big> <sup><small><small>[[G4192]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gave birth to | <big><span class="asgreek">έτεκεν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| lawlessness. | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
 [[Ps.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.13|<< Psalm 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.15|Psalm 7:15 >>]]</td></tr></table>
 
 

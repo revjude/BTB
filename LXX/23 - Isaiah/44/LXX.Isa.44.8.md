@@ -9,25 +9,25 @@ Do not tremble or fear. Have I not told you and declared it long ago? You are My
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| cover up yourselves, | <span class="asgreek">παρακαλύπτεσθε <sup><small><small>[[G3871]]</small></small></sup> </span> |
-| nor | <span class="asgreek">μηδέ <sup><small><small>[[G3366]]</small></small></sup> </span> |
-| wander! | <span class="asgreek">πλανάσθε <sup><small><small>[[G4105]]</small></small></sup> </span> |
-| \[Have\] you not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] beginning | <span class="asgreek">αρχής <sup><small><small>[[G0746]]</small></small></sup> </span> |
-| given ear, | <span class="asgreek">ηνωτίσασθε <sup><small><small>[[G1801]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I reported \[it\] | <span class="asgreek">απήγγειλα <sup><small><small>[[G0518]]</small></small></sup> </span> |
-| to you? | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| witnesses | <span class="asgreek">μάρτυρες <sup><small><small>[[G3144]]</small></small></sup> </span> |
-| You | <span class="asgreek">υμείς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| are | <span class="asgreek">εστέ <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| there is | <span class="asgreek">έστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| a God | <span class="asgreek">θεός <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| besides | <span class="asgreek">πλην <sup><small><small>[[G4133]]</small></small></sup> </span> |
-| me. | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| cover up yourselves, | <big><span class="asgreek">παρακαλύπτεσθε</span></big> <sup><small><small>[[G3871]]</small></small></sup> |
+| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
+| wander! | <big><span class="asgreek">πλανάσθε</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
+| \[Have\] you not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] beginning | <big><span class="asgreek">αρχής</span></big> <sup><small><small>[[G0746]]</small></small></sup> |
+| given ear, | <big><span class="asgreek">ηνωτίσασθε</span></big> <sup><small><small>[[G1801]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I reported \[it\] | <big><span class="asgreek">απήγγειλα</span></big> <sup><small><small>[[G0518]]</small></small></sup> |
+| to you? | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| witnesses | <big><span class="asgreek">μάρτυρες</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
+| You | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| are | <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| there is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| a God | <big><span class="asgreek">θεός</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| besides | <big><span class="asgreek">πλην</span></big> <sup><small><small>[[G4133]]</small></small></sup> |
+| me. | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.44.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.7|<< Isaiah 44:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.9|Isaiah 44:9 >>]]</td></tr></table>
 
 

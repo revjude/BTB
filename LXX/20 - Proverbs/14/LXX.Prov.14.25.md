@@ -9,15 +9,15 @@ A truthful witness saves lives, but one who utters lies is deceitful.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| shall rescue | <span class="asgreek">ρύσεται <sup><small><small>[[G4506]]</small></small></sup> </span> |
-| from evils | <span class="asgreek">κακών <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| a soul | <span class="asgreek">ψυχήν <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| witness | <span class="asgreek">μάρτυς <sup><small><small>[[G3144]]</small></small></sup> </span> |
-| A trustworthy | <span class="asgreek">πιστός <sup><small><small>[[G4103]]</small></small></sup> </span> |
-| kindles | <span class="asgreek">εκκαίει <sup><small><small>[[G1572]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| lying | <span class="asgreek">ψευδή <sup><small><small>[[G5571]]</small></small></sup> </span> |
-| a deceitful \[man\] | <span class="asgreek">δόλιος <sup><small><small>[[G1386]]</small></small></sup> </span> |
+| shall rescue | <big><span class="asgreek">ρύσεται</span></big> <sup><small><small>[[G4506]]</small></small></sup> |
+| from evils | <big><span class="asgreek">κακών</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| a soul | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| witness | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
+| A trustworthy | <big><span class="asgreek">πιστός</span></big> <sup><small><small>[[G4103]]</small></small></sup> |
+| kindles | <big><span class="asgreek">εκκαίει</span></big> <sup><small><small>[[G1572]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| lying | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| a deceitful \[man\] | <big><span class="asgreek">δόλιος</span></big> <sup><small><small>[[G1386]]</small></small></sup> |
 [[Prov.14.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.24|<< Proverbs 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.26|Proverbs 14:26 >>]]</td></tr></table>
 
 

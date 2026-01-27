@@ -9,20 +9,20 @@ I will never say that you are right; I will maintain my integrity until I die.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| May it not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| be to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">είη <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| as just ones | <span class="asgreek">δικαίους <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| you | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to sentence | <span class="asgreek">αποφήναι <sup><small><small>[[G6508]]</small></small></sup> </span> |
-| Until | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| whenever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| I die | <span class="asgreek">αποθάνω <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| I will | <span class="asgreek">απαλλάξω <sup><small><small>[[G0525]]</small></small></sup> </span> |
-| from me | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my innocence, | <span class="asgreek">ακακίαν <sup><small><small>[[G6177]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| May it not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| be to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">είη</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| as just ones | <big><span class="asgreek">δικαίους</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to sentence | <big><span class="asgreek">αποφήναι</span></big> <sup><small><small>[[G6508]]</small></small></sup> |
+| Until | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| whenever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| I die | <big><span class="asgreek">αποθάνω</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| I will | <big><span class="asgreek">απαλλάξω</span></big> <sup><small><small>[[G0525]]</small></small></sup> |
+| from me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my innocence, | <big><span class="asgreek">ακακίαν</span></big> <sup><small><small>[[G6177]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.4|<< Job 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.6|Job 27:6 >>]]</td></tr></table>
 
 

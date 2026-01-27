@@ -9,27 +9,27 @@ They brought beds, basins, and earthen vessels, as well as wheat, barley, flour,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| brought | <span class="asgreek">ήνεγκαν <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| beds, | <span class="asgreek">κοίτας <sup><small><small>[[G2845]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| spreads, | <span class="asgreek">αμφιτάπους <sup><small><small>[[G6269]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| kettles, | <span class="asgreek">λέβητας <sup><small><small>[[G8172]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| utensils | <span class="asgreek">σκεύη <sup><small><small>[[G4632]]</small></small></sup> </span> |
-| ceramic | <span class="asgreek">κεράμων <sup><small><small>[[G2766]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wheat, | <span class="asgreek">πυρούς <sup><small><small>[[G8994]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| barley, | <span class="asgreek">κριθάς <sup><small><small>[[G2915]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| flour, | <span class="asgreek">άλευρα <sup><small><small>[[G0224]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| beans, | <span class="asgreek">κύαμον <sup><small><small>[[G8113]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lentils | <span class="asgreek">φακόν <sup><small><small>[[G9614]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| toasted grain, | <span class="asgreek">αλφϊτα <sup><small><small>[[G6245]]</small></small></sup> </span> |
+| brought | <big><span class="asgreek">ήνεγκαν</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| beds, | <big><span class="asgreek">κοίτας</span></big> <sup><small><small>[[G2845]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| spreads, | <big><span class="asgreek">αμφιτάπους</span></big> <sup><small><small>[[G6269]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| kettles, | <big><span class="asgreek">λέβητας</span></big> <sup><small><small>[[G8172]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| utensils | <big><span class="asgreek">σκεύη</span></big> <sup><small><small>[[G4632]]</small></small></sup> |
+| ceramic | <big><span class="asgreek">κεράμων</span></big> <sup><small><small>[[G2766]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wheat, | <big><span class="asgreek">πυρούς</span></big> <sup><small><small>[[G8994]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| barley, | <big><span class="asgreek">κριθάς</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| flour, | <big><span class="asgreek">άλευρα</span></big> <sup><small><small>[[G0224]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| beans, | <big><span class="asgreek">κύαμον</span></big> <sup><small><small>[[G8113]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lentils | <big><span class="asgreek">φακόν</span></big> <sup><small><small>[[G9614]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| toasted grain, | <big><span class="asgreek">αλφϊτα</span></big> <sup><small><small>[[G6245]]</small></small></sup> |
 [[2Sam.17.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.27|<< 2 Samuel 17:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.29|2 Samuel 17:29 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ Guard me, O LORD, from the hands of the wicked. Keep me safe from men of violenc
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Guard | <span class="asgreek">φύλαξόν <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>, | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] hand | <span class="asgreek">χειρός <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| of \[the\] sinner! | <span class="asgreek">αμαρτωλού <sup><small><small>[[G0268]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανθρώπων <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| unjust | <span class="asgreek">αδίκων <sup><small><small>[[G0094]]</small></small></sup> </span> |
-| Take | <span class="asgreek">εξελού <sup><small><small>[[G1807]]</small></small></sup> </span> |
-| me away | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| who | <span class="asgreek">οίτινες <sup><small><small>[[G3748]]</small></small></sup> </span> |
-| reasoned | <span class="asgreek">διελογίσαντο <sup><small><small>[[G1260]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to trip up | <span class="asgreek">υποσκελίσαι <sup><small><small>[[G9588]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my footsteps! | <span class="asgreek">διαβήματά <sup><small><small>[[G6811]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Guard | <big><span class="asgreek">φύλαξόν</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>, | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] hand | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| of \[the\] sinner! | <big><span class="asgreek">αμαρτωλού</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| men | <big><span class="asgreek">ανθρώπων</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| unjust | <big><span class="asgreek">αδίκων</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
+| Take | <big><span class="asgreek">εξελού</span></big> <sup><small><small>[[G1807]]</small></small></sup> |
+| me away | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| who | <big><span class="asgreek">οίτινες</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
+| reasoned | <big><span class="asgreek">διελογίσαντο</span></big> <sup><small><small>[[G1260]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to trip up | <big><span class="asgreek">υποσκελίσαι</span></big> <sup><small><small>[[G9588]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my footsteps! | <big><span class="asgreek">διαβήματά</span></big> <sup><small><small>[[G6811]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.140.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.3|<< Psalm 140:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.5|Psalm 140:5 >>]]</td></tr></table>
 
 

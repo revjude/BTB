@@ -9,30 +9,30 @@ For behold, I stir up and bring against Babylon an assembly of great nations fro
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| raise up | <span class="asgreek">εγείρω <sup><small><small>[[G1453]]</small></small></sup> </span> |
-| against | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| Babylon | <span class="asgreek">Βαβυλώνα <sup><small><small>[[G0897]]</small></small></sup> </span> |
-| gatherings | <span class="asgreek">συναγωγάς <sup><small><small>[[G4864]]</small></small></sup> </span> |
-| nations | <span class="asgreek">εθνών <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| of great | <span class="asgreek">μεγάλων <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] land | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of \[the\] north, | <span class="asgreek">βορρά <sup><small><small>[[G1005]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall deploy | <span class="asgreek">παρατάξονται <sup><small><small>[[G8641]]</small></small></sup> </span> |
-| against her. | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| From there | <span class="asgreek">εκείθεν <sup><small><small>[[G1564]]</small></small></sup> </span> |
-| she shall be captured | <span class="asgreek">αλώσεται <sup><small><small>[[G6226]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] arrow | <span class="asgreek">βολίς <sup><small><small>[[G1002]]</small></small></sup> </span> |
-| warrior | <span class="asgreek">μαχητού <sup><small><small>[[G8263]]</small></small></sup> </span> |
-| of an expert | <span class="asgreek">συνετού <sup><small><small>[[G4908]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| return | <span class="asgreek">επιστρέψει <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| empty. | <span class="asgreek">κενή <sup><small><small>[[G2756]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| raise up | <big><span class="asgreek">εγείρω</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
+| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| Babylon | <big><span class="asgreek">Βαβυλώνα</span></big> <sup><small><small>[[G0897]]</small></small></sup> |
+| gatherings | <big><span class="asgreek">συναγωγάς</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
+| nations | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| of great | <big><span class="asgreek">μεγάλων</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of \[the\] north, | <big><span class="asgreek">βορρά</span></big> <sup><small><small>[[G1005]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall deploy | <big><span class="asgreek">παρατάξονται</span></big> <sup><small><small>[[G8641]]</small></small></sup> |
+| against her. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| From there | <big><span class="asgreek">εκείθεν</span></big> <sup><small><small>[[G1564]]</small></small></sup> |
+| she shall be captured | <big><span class="asgreek">αλώσεται</span></big> <sup><small><small>[[G6226]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] arrow | <big><span class="asgreek">βολίς</span></big> <sup><small><small>[[G1002]]</small></small></sup> |
+| warrior | <big><span class="asgreek">μαχητού</span></big> <sup><small><small>[[G8263]]</small></small></sup> |
+| of an expert | <big><span class="asgreek">συνετού</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| return | <big><span class="asgreek">επιστρέψει</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| empty. | <big><span class="asgreek">κενή</span></big> <sup><small><small>[[G2756]]</small></small></sup> |
 [[Jer.50.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.8|<< Jeremiah 50:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.10|Jeremiah 50:10 >>]]</td></tr></table>
 
 

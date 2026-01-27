@@ -9,19 +9,19 @@ The sons of Caleb son of Jephunneh: Iru, Elah, and Naam. The son of Elah: Kenaz.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Caleb | <span class="asgreek">Χαλέβ <sup><small><small>[[H3612]]</small></small></sup> </span> |
-| \[the\] son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Jephunneh- | <span class="asgreek">Ιεφονή <sup><small><small>[[H3312]]</small></small></sup> </span> |
-| Iru, | <span class="asgreek">Ιρού <sup><small><small>[[H5900]]</small></small></sup> </span> |
-| Elah, | <span class="asgreek">Ηλά <sup><small><small>[[H0425]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Naan. | <span class="asgreek">Νοέμ <sup><small><small>[[H5277]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Elah -- | <span class="asgreek">Ηλά <sup><small><small>[[H0425]]</small></small></sup> </span> |
-| Kenaz. | <span class="asgreek">Κενέζ <sup><small><small>[[H7074]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Caleb | <big><span class="asgreek">Χαλέβ</span></big> <sup><small><small>[[H3612]]</small></small></sup> |
+| \[the\] son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Jephunneh- | <big><span class="asgreek">Ιεφονή</span></big> <sup><small><small>[[H3312]]</small></small></sup> |
+| Iru, | <big><span class="asgreek">Ιρού</span></big> <sup><small><small>[[H5900]]</small></small></sup> |
+| Elah, | <big><span class="asgreek">Ηλά</span></big> <sup><small><small>[[H0425]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Naan. | <big><span class="asgreek">Νοέμ</span></big> <sup><small><small>[[H5277]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Elah -- | <big><span class="asgreek">Ηλά</span></big> <sup><small><small>[[H0425]]</small></small></sup> |
+| Kenaz. | <big><span class="asgreek">Κενέζ</span></big> <sup><small><small>[[H7074]]</small></small></sup> |
 [[1Chr.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.14|<< 1 Chronicles 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.16|1 Chronicles 4:16 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ I will cling to my righteousness and never let go. As long as I live, my conscie
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| to my righteousness | <span class="asgreek">δικαιοσύνη <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| taking heed | <span class="asgreek">προσέχων <sup><small><small>[[G4337]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| will I let it go; | <span class="asgreek">πρόωμαι <sup><small><small>[[G8896]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| fully conscious | <span class="asgreek">σύνοιδα <sup><small><small>[[G4894]]</small></small></sup> </span> |
-| myself | <span class="asgreek">εμαυτώ <sup><small><small>[[G1683]]</small></small></sup> </span> |
-| out of place | <span class="asgreek">άτοπα <sup><small><small>[[G0824]]</small></small></sup> </span> |
-| of acting | <span class="asgreek">πράξας <sup><small><small>[[G4238]]</small></small></sup> </span> |
+| to my righteousness | <big><span class="asgreek">δικαιοσύνη</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| taking heed | <big><span class="asgreek">προσέχων</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| will I let it go; | <big><span class="asgreek">πρόωμαι</span></big> <sup><small><small>[[G8896]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| fully conscious | <big><span class="asgreek">σύνοιδα</span></big> <sup><small><small>[[G4894]]</small></small></sup> |
+| myself | <big><span class="asgreek">εμαυτώ</span></big> <sup><small><small>[[G1683]]</small></small></sup> |
+| out of place | <big><span class="asgreek">άτοπα</span></big> <sup><small><small>[[G0824]]</small></small></sup> |
+| of acting | <big><span class="asgreek">πράξας</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
 [[Job.27.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.5|<< Job 27:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.7|Job 27:7 >>]]</td></tr></table>
 
 

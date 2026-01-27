@@ -9,17 +9,17 @@ I ground them as the dust of the earth; I crushed and trampled them like mud in 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I ground | <span class="asgreek">ελέανα <sup><small><small>[[G8171]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| dust | <span class="asgreek">χουν <sup><small><small>[[G5522]]</small></small></sup> </span> |
-| of \[the\] earth; | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] mud | <span class="asgreek">πηλόν <sup><small><small>[[G4081]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| streets | <span class="asgreek">εξόδων <sup><small><small>[[G1841]]</small></small></sup> </span> |
-| I made them fine | <span class="asgreek">ελεπτυνά αυτούς <sup><small><small>[[G8183]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I ground | <big><span class="asgreek">ελέανα</span></big> <sup><small><small>[[G8171]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| dust | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
+| of \[the\] earth; | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] mud | <big><span class="asgreek">πηλόν</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| streets | <big><span class="asgreek">εξόδων</span></big> <sup><small><small>[[G1841]]</small></small></sup> |
+| I made them fine | <big><span class="asgreek">ελεπτυνά αυτούς</span></big> <sup><small><small>[[G8183]]</small></small></sup> |
 [[2Sam.22.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.42|<< 2 Samuel 22:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.44|2 Samuel 22:44 >>]]</td></tr></table>
 
 

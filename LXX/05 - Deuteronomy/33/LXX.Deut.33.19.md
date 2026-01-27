@@ -9,24 +9,24 @@ They will call the peoples to a mountain; there they will offer sacrifices of ri
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| nations | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| They shall utterly destroy | <span class="asgreek">εξολοθρεύσουσι <sup><small><small>[[G1842]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall call upon | <span class="asgreek">επικαλέσεσθε <sup><small><small>[[G1941]]</small></small></sup> </span> |
-| there, | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall sacrifice | <span class="asgreek">θύσετε <sup><small><small>[[G2380]]</small></small></sup> </span> |
-| a sacrifice | <span class="asgreek">θυσίαν <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| of righteousness; | <span class="asgreek">δικαιοσύνης <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] riches | <span class="asgreek">πλούτος <sup><small><small>[[G4149]]</small></small></sup> </span> |
-| of \[the\] sea | <span class="asgreek">θαλάσσης <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| shall nurse | <span class="asgreek">θηλάσει <sup><small><small>[[G2337]]</small></small></sup> </span> |
-| you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| market-places | <span class="asgreek">εμπόρια <sup><small><small>[[G1712]]</small></small></sup> </span> |
-| on the coast | <span class="asgreek">παράλιον <sup><small><small>[[G3882]]</small></small></sup> </span> |
-| dwelling | <span class="asgreek">κατοικούντων <sup><small><small>[[G2730]]</small></small></sup> </span> |
+| nations | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| They shall utterly destroy | <big><span class="asgreek">εξολοθρεύσουσι</span></big> <sup><small><small>[[G1842]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall call upon | <big><span class="asgreek">επικαλέσεσθε</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
+| there, | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall sacrifice | <big><span class="asgreek">θύσετε</span></big> <sup><small><small>[[G2380]]</small></small></sup> |
+| a sacrifice | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| of righteousness; | <big><span class="asgreek">δικαιοσύνης</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] riches | <big><span class="asgreek">πλούτος</span></big> <sup><small><small>[[G4149]]</small></small></sup> |
+| of \[the\] sea | <big><span class="asgreek">θαλάσσης</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| shall nurse | <big><span class="asgreek">θηλάσει</span></big> <sup><small><small>[[G2337]]</small></small></sup> |
+| you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| market-places | <big><span class="asgreek">εμπόρια</span></big> <sup><small><small>[[G1712]]</small></small></sup> |
+| on the coast | <big><span class="asgreek">παράλιον</span></big> <sup><small><small>[[G3882]]</small></small></sup> |
+| dwelling | <big><span class="asgreek">κατοικούντων</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
 [[Deut.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.18|<< Deuteronomy 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.20|Deuteronomy 33:20 >>]]</td></tr></table>
 
 

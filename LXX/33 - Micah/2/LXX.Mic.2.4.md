@@ -9,36 +9,36 @@ In that day they will take up a proverb against you and taunt you with this bitt
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| that day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">εκείνη <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| there shall be taken | <span class="asgreek">ληφθήσεται <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| up against | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| you | <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a parable, | <span class="asgreek">παραβολή <sup><small><small>[[G3850]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be wailed | <span class="asgreek">θρηνηθήσεται <sup><small><small>[[G2354]]</small></small></sup> </span> |
-| a lament | <span class="asgreek">θρήνος <sup><small><small>[[G2355]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a strain, | <span class="asgreek">μέλει <sup><small><small>[[G3196]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| With misery | <span class="asgreek">ταλαιπωρία <sup><small><small>[[G5004]]</small></small></sup> </span> |
-| we were miserable; | <span class="asgreek">εταλαιπωρήσαμεν <sup><small><small>[[G5003]]</small></small></sup> </span> |
-| \[the\] portion | <span class="asgreek">μερίς <sup><small><small>[[G3310]]</small></small></sup> </span> |
-| of my people | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| was measured out | <span class="asgreek">κατεμετρήθη <sup><small><small>[[G7876]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a measuring line, | <span class="asgreek">σχοινίω <sup><small><small>[[G4979]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there was none | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| restraining | <span class="asgreek">κωλύων <sup><small><small>[[G2967]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to return. | <span class="asgreek">αποστρέψαι <sup><small><small>[[G0654]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Your fields | <span class="asgreek">αγροί <sup><small><small>[[G0068]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| were divided. | <span class="asgreek">διεμερίσθησαν <sup><small><small>[[G1266]]</small></small></sup> </span> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| there shall be taken | <big><span class="asgreek">ληφθήσεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| up against | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| you | <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a parable, | <big><span class="asgreek">παραβολή</span></big> <sup><small><small>[[G3850]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be wailed | <big><span class="asgreek">θρηνηθήσεται</span></big> <sup><small><small>[[G2354]]</small></small></sup> |
+| a lament | <big><span class="asgreek">θρήνος</span></big> <sup><small><small>[[G2355]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a strain, | <big><span class="asgreek">μέλει</span></big> <sup><small><small>[[G3196]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| With misery | <big><span class="asgreek">ταλαιπωρία</span></big> <sup><small><small>[[G5004]]</small></small></sup> |
+| we were miserable; | <big><span class="asgreek">εταλαιπωρήσαμεν</span></big> <sup><small><small>[[G5003]]</small></small></sup> |
+| \[the\] portion | <big><span class="asgreek">μερίς</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
+| of my people | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was measured out | <big><span class="asgreek">κατεμετρήθη</span></big> <sup><small><small>[[G7876]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a measuring line, | <big><span class="asgreek">σχοινίω</span></big> <sup><small><small>[[G4979]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there was none | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| restraining | <big><span class="asgreek">κωλύων</span></big> <sup><small><small>[[G2967]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to return. | <big><span class="asgreek">αποστρέψαι</span></big> <sup><small><small>[[G0654]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Your fields | <big><span class="asgreek">αγροί</span></big> <sup><small><small>[[G0068]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| were divided. | <big><span class="asgreek">διεμερίσθησαν</span></big> <sup><small><small>[[G1266]]</small></small></sup> |
 [[Mic.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.3|<< Micah 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.5|Micah 2:5 >>]]</td></tr></table>
 
 

@@ -9,26 +9,26 @@ To what purpose [is] the multitude of your sacrifices unto me? saith the LORD: I
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| What are | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] multitude | <span class="asgreek">πλήθος <sup><small><small>[[G4128]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your sacrifices | <span class="asgreek">θυσιών <sup><small><small>[[G2378]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>? | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| I am full | <span class="asgreek">πλήρης <sup><small><small>[[G4134]]</small></small></sup> <span class="asgreek">ειμί <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| of whole burnt-offerings | <span class="asgreek">ολοκαυτωμάτων <sup><small><small>[[G3646]]</small></small></sup> </span> |
-| of rams, | <span class="asgreek">κριών <sup><small><small>[[G8096]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| fat | <span class="asgreek">στέαρ <sup><small><small>[[G9155]]</small></small></sup> </span> |
-| of lambs; | <span class="asgreek">αρνών <sup><small><small>[[G0704]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| blood | <span class="asgreek">αίμα <sup><small><small>[[G0129]]</small></small></sup> </span> |
-| of bulls | <span class="asgreek">ταύρων <sup><small><small>[[G5022]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he-goats | <span class="asgreek">τράγων <sup><small><small>[[G5131]]</small></small></sup> </span> |
-| I do not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| want | <span class="asgreek">βούλομαι <sup><small><small>[[G1014]]</small></small></sup> </span> |
+| What are | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] multitude | <big><span class="asgreek">πλήθος</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your sacrifices | <big><span class="asgreek">θυσιών</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>? | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| I am full | <big><span class="asgreek">πλήρης</span></big> <sup><small><small>[[G4134]]</small></small></sup> <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| of whole burnt-offerings | <big><span class="asgreek">ολοκαυτωμάτων</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
+| of rams, | <big><span class="asgreek">κριών</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| fat | <big><span class="asgreek">στέαρ</span></big> <sup><small><small>[[G9155]]</small></small></sup> |
+| of lambs; | <big><span class="asgreek">αρνών</span></big> <sup><small><small>[[G0704]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| blood | <big><span class="asgreek">αίμα</span></big> <sup><small><small>[[G0129]]</small></small></sup> |
+| of bulls | <big><span class="asgreek">ταύρων</span></big> <sup><small><small>[[G5022]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he-goats | <big><span class="asgreek">τράγων</span></big> <sup><small><small>[[G5131]]</small></small></sup> |
+| I do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| want | <big><span class="asgreek">βούλομαι</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
 [[Isa.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.10|<< Isaiah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.12|Isaiah 1:12 >>]]</td></tr></table>
 
 

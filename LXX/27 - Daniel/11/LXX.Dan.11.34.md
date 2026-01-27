@@ -9,21 +9,21 @@ Now when they fall, they will be granted a little help, but many will join them 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| weakening | <span class="asgreek">ασθενήσαι <sup><small><small>[[G0770]]</small></small></sup> </span> |
-| of them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall be helped | <span class="asgreek">βοηθήσονται <sup><small><small>[[G0997]]</small></small></sup> </span> |
-| help | <span class="asgreek">βοήθειαν <sup><small><small>[[G0996]]</small></small></sup> </span> |
-| \[with\] a little | <span class="asgreek">μικράν <sup><small><small>[[G3398]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be added | <span class="asgreek">προστεθήσονται <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| unto | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλοί <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a slip. | <span class="asgreek">ολισθήμασι <sup><small><small>[[G8489]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| weakening | <big><span class="asgreek">ασθενήσαι</span></big> <sup><small><small>[[G0770]]</small></small></sup> |
+| of them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall be helped | <big><span class="asgreek">βοηθήσονται</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
+| help | <big><span class="asgreek">βοήθειαν</span></big> <sup><small><small>[[G0996]]</small></small></sup> |
+| \[with\] a little | <big><span class="asgreek">μικράν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be added | <big><span class="asgreek">προστεθήσονται</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| unto | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλοί</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a slip. | <big><span class="asgreek">ολισθήμασι</span></big> <sup><small><small>[[G8489]]</small></small></sup> |
 [[Dan.11.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.33|<< Daniel 11:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.35|Daniel 11:35 >>]]</td></tr></table>
 
 

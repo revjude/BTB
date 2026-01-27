@@ -9,18 +9,18 @@ You dwell in the midst of deception; in their deceit they refuse to know Me,” 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Interest | <span class="asgreek">τόκος <sup><small><small>[[G5110]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| interest, | <span class="asgreek">τόκω <sup><small><small>[[G5110]]</small></small></sup> </span> |
-| treachery | <span class="asgreek">δόλος <sup><small><small>[[G1388]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| treachery; | <span class="asgreek">δόλω <sup><small><small>[[G1388]]</small></small></sup> </span> |
-| they have not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| wanted | <span class="asgreek">ηθέλησαν <sup><small><small>[[G2309]]</small></small></sup> </span> |
-| to behold | <span class="asgreek">ειδέναι <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| says | <span class="asgreek">φησί <sup><small><small>[[G5346]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| Interest | <big><span class="asgreek">τόκος</span></big> <sup><small><small>[[G5110]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| interest, | <big><span class="asgreek">τόκω</span></big> <sup><small><small>[[G5110]]</small></small></sup> |
+| treachery | <big><span class="asgreek">δόλος</span></big> <sup><small><small>[[G1388]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| treachery; | <big><span class="asgreek">δόλω</span></big> <sup><small><small>[[G1388]]</small></small></sup> |
+| they have not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| wanted | <big><span class="asgreek">ηθέλησαν</span></big> <sup><small><small>[[G2309]]</small></small></sup> |
+| to behold | <big><span class="asgreek">ειδέναι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| says | <big><span class="asgreek">φησί</span></big> <sup><small><small>[[G5346]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Jer.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.5|<< Jeremiah 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.7|Jeremiah 9:7 >>]]</td></tr></table>
 
 

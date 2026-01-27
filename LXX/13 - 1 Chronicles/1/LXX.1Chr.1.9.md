@@ -9,24 +9,24 @@ The sons of Cush: Seba, Havilah, Sabta, Raamah, and Sabteca. The sons of Raamah:
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Cush -- | <span class="asgreek">Χους <sup><small><small>[[H3568b]]</small></small></sup> </span> |
-| Seba, | <span class="asgreek">Σαβά <sup><small><small>[[H7652b]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Havilah, | <span class="asgreek">Ευιλά <sup><small><small>[[H2341]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Sabta, | <span class="asgreek">Σαβαθά <sup><small><small>[[H5454]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Raamah, | <span class="asgreek">Ρεγμά <sup><small><small>[[H7484]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Sabtecha. | <span class="asgreek">Σεβακαθά <sup><small><small>[[H5455]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Raama -- | <span class="asgreek">Ρεγμά <sup><small><small>[[H7484]]</small></small></sup> </span> |
-| Sheba | <span class="asgreek">Σεβά <sup><small><small>[[H7652a]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Dedan. | <span class="asgreek">Δαδάν <sup><small><small>[[H1719a]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Cush -- | <big><span class="asgreek">Χους</span></big> <sup><small><small>[[H3568b]]</small></small></sup> |
+| Seba, | <big><span class="asgreek">Σαβά</span></big> <sup><small><small>[[H7652b]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Havilah, | <big><span class="asgreek">Ευιλά</span></big> <sup><small><small>[[H2341]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Sabta, | <big><span class="asgreek">Σαβαθά</span></big> <sup><small><small>[[H5454]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Raamah, | <big><span class="asgreek">Ρεγμά</span></big> <sup><small><small>[[H7484]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Sabtecha. | <big><span class="asgreek">Σεβακαθά</span></big> <sup><small><small>[[H5455]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Raama -- | <big><span class="asgreek">Ρεγμά</span></big> <sup><small><small>[[H7484]]</small></small></sup> |
+| Sheba | <big><span class="asgreek">Σεβά</span></big> <sup><small><small>[[H7652a]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Dedan. | <big><span class="asgreek">Δαδάν</span></big> <sup><small><small>[[H1719a]]</small></small></sup> |
 [[1Chr.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.8|<< 1 Chronicles 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.10|1 Chronicles 1:10 >>]]</td></tr></table>
 
 

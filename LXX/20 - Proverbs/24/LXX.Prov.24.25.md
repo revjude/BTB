@@ -9,16 +9,16 @@ but it will go well with those who convict the guilty, and rich blessing will co
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| ones reproving | <span class="asgreek">ελέγχοντες <sup><small><small>[[G1651]]</small></small></sup> </span> |
-| \[the\] best | <span class="asgreek">βελτίους <sup><small><small>[[G0957]]</small></small></sup> </span> |
-| shall appear | <span class="asgreek">φανούνται <sup><small><small>[[G5316]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| shall come | <span class="asgreek">ήξει <sup><small><small>[[G2240]]</small></small></sup> </span> |
-| blessing | <span class="asgreek">ευλογία <sup><small><small>[[G2129]]</small></small></sup> </span> |
-| a good | <span class="asgreek">αγαθή <sup><small><small>[[G0018]]</small></small></sup> </span> |
+| But the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| ones reproving | <big><span class="asgreek">ελέγχοντες</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
+| \[the\] best | <big><span class="asgreek">βελτίους</span></big> <sup><small><small>[[G0957]]</small></small></sup> |
+| shall appear | <big><span class="asgreek">φανούνται</span></big> <sup><small><small>[[G5316]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| shall come | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
+| blessing | <big><span class="asgreek">ευλογία</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
+| a good | <big><span class="asgreek">αγαθή</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
 [[Prov.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.24|<< Proverbs 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.26|Proverbs 24:26 >>]]</td></tr></table>
 
 

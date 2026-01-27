@@ -9,14 +9,14 @@ Beth-zur, Soco, Adullam,<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Beth-zur, | <span class="asgreek">Βεθσούρ <sup><small><small>[[H1049]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Shoco, | <span class="asgreek">Σοκχώ <sup><small><small>[[H7755]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Adullam, | <span class="asgreek">Οδολλάμ <sup><small><small>[[H5725]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Beth-zur, | <big><span class="asgreek">Βεθσούρ</span></big> <sup><small><small>[[H1049]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Shoco, | <big><span class="asgreek">Σοκχώ</span></big> <sup><small><small>[[H7755]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Adullam, | <big><span class="asgreek">Οδολλάμ</span></big> <sup><small><small>[[H5725]]</small></small></sup> |
 [[2Chr.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.6|<< 2 Chronicles 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.8|2 Chronicles 11:8 >>]]</td></tr></table>
 
 

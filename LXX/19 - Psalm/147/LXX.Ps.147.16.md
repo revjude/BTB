@@ -9,14 +9,14 @@ He spreads the snow like wool; He scatters the frost like ashes;<small><sub>**M
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| yielding up | <span class="asgreek">διδόντος <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| his snow | <span class="asgreek">χιόνα <sup><small><small>[[G5510]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| wool; | <span class="asgreek">έριον <sup><small><small>[[G2053]]</small></small></sup> </span> |
-| fog | <span class="asgreek">ομίχλην <sup><small><small>[[G6068]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| ashes | <span class="asgreek">σποδόν <sup><small><small>[[G4700]]</small></small></sup> </span> |
-| strewing | <span class="asgreek">πάσσοντος <sup><small><small>[[G8663]]</small></small></sup> </span> |
+| yielding up | <big><span class="asgreek">διδόντος</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| his snow | <big><span class="asgreek">χιόνα</span></big> <sup><small><small>[[G5510]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| wool; | <big><span class="asgreek">έριον</span></big> <sup><small><small>[[G2053]]</small></small></sup> |
+| fog | <big><span class="asgreek">ομίχλην</span></big> <sup><small><small>[[G6068]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| ashes | <big><span class="asgreek">σποδόν</span></big> <sup><small><small>[[G4700]]</small></small></sup> |
+| strewing | <big><span class="asgreek">πάσσοντος</span></big> <sup><small><small>[[G8663]]</small></small></sup> |
 [[Ps.147.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.15|<< Psalm 147:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.17|Psalm 147:17 >>]]</td></tr></table>
 
 

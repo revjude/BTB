@@ -9,16 +9,16 @@ No bird of prey knows that path; no falcon’s eye has seen it.<small><sub>**MT
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[There is\] a road | <span class="asgreek">τρίβος <sup><small><small>[[G5147]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| knows | <span class="asgreek">έγνω <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] bird | <span class="asgreek">πετεινόν <sup><small><small>[[G4071]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| looked not over | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">παρέβλεψεν <sup><small><small>[[G8602]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] eye | <span class="asgreek">οφθαλμός <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| of \[the\] vulture | <span class="asgreek">γυπός <sup><small><small>[[G6778]]</small></small></sup> </span> |
+| \[There is\] a road | <big><span class="asgreek">τρίβος</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| knows | <big><span class="asgreek">έγνω</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] bird | <big><span class="asgreek">πετεινόν</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| looked not over | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">παρέβλεψεν</span></big> <sup><small><small>[[G8602]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] eye | <big><span class="asgreek">οφθαλμός</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| of \[the\] vulture | <big><span class="asgreek">γυπός</span></big> <sup><small><small>[[G6778]]</small></small></sup> |
 [[Job.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.6|<< Job 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.8|Job 28:8 >>]]</td></tr></table>
 
 

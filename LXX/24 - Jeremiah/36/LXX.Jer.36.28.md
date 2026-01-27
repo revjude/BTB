@@ -9,26 +9,26 @@ Take thee again another roll, and write in it all the former words that were in 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Again | <span class="asgreek">πάλιν <sup><small><small>[[G3825]]</small></small></sup> </span> |
-| take | <span class="asgreek">λάβε <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| to yourself | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| papyrus paper \[scroll\] | <span class="asgreek">χαρτίον <sup><small><small>[[G9707]]</small></small></sup> </span> |
-| another | <span class="asgreek">έτερον <sup><small><small>[[G2087]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| write | <span class="asgreek">γράψον <sup><small><small>[[G1125]]</small></small></sup> </span> |
-| all | <span class="asgreek">άπαντας <sup><small><small>[[G0537]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| words | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being | <span class="asgreek">όντας <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| on | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| papyrus paper \[scroll\] | <span class="asgreek">χαρτίου <sup><small><small>[[G9707]]</small></small></sup> </span> |
-| which | <span class="asgreek">ους <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| incinerated | <span class="asgreek">κατέκαυσεν <sup><small><small>[[G2618]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| Jehoaikim | <span class="asgreek">Ιωακείμ <sup><small><small>[[H3079]]</small></small></sup> </span> |
+| Again | <big><span class="asgreek">πάλιν</span></big> <sup><small><small>[[G3825]]</small></small></sup> |
+| take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| to yourself | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| papyrus paper \[scroll\] | <big><span class="asgreek">χαρτίον</span></big> <sup><small><small>[[G9707]]</small></small></sup> |
+| another | <big><span class="asgreek">έτερον</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| write | <big><span class="asgreek">γράψον</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| all | <big><span class="asgreek">άπαντας</span></big> <sup><small><small>[[G0537]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being | <big><span class="asgreek">όντας</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| on | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| papyrus paper \[scroll\] | <big><span class="asgreek">χαρτίου</span></big> <sup><small><small>[[G9707]]</small></small></sup> |
+| which | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| incinerated | <big><span class="asgreek">κατέκαυσεν</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεύς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| Jehoaikim | <big><span class="asgreek">Ιωακείμ</span></big> <sup><small><small>[[H3079]]</small></small></sup> |
 [[Jer.36.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.27|<< Jeremiah 36:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.29|Jeremiah 36:29 >>]]</td></tr></table>
 
 

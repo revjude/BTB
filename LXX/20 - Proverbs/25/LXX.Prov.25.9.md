@@ -9,12 +9,12 @@ Argue your case with your neighbor without betraying another’s confidence,<sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| withdraw | <span class="asgreek">αναχώρει <sup><small><small>[[G0402]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rear, | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
-| do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| disdain \[him\]! | <span class="asgreek">καταφρόνει <sup><small><small>[[G2706]]</small></small></sup> </span> |
+| withdraw | <big><span class="asgreek">αναχώρει</span></big> <sup><small><small>[[G0402]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rear, | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
+| do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| disdain \[him\]! | <big><span class="asgreek">καταφρόνει</span></big> <sup><small><small>[[G2706]]</small></small></sup> |
 [[Prov.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.8|<< Proverbs 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.10|Proverbs 25:10 >>]]</td></tr></table>
 
 

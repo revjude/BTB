@@ -9,19 +9,19 @@ Who [is] this that darkeneth counsel by words without knowledge?
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \[is\] this | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hiding | <span class="asgreek">κρύπτων <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| counsel, | <span class="asgreek">βουλήν <sup><small><small>[[G1012]]</small></small></sup> </span> |
-| and constraining | <span class="asgreek">συνέχων <sup><small><small>[[G4912]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| matters | <span class="asgreek">ρήματα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| heart, | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| from me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| imagines | <span class="asgreek">οίεται <sup><small><small>[[G3633]]</small></small></sup> </span> |
-| to hide | <span class="asgreek">κρύπτειν <sup><small><small>[[G2928]]</small></small></sup> </span> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \[is\] this | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hiding | <big><span class="asgreek">κρύπτων</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| counsel, | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> |
+| and constraining | <big><span class="asgreek">συνέχων</span></big> <sup><small><small>[[G4912]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| matters | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| heart, | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| from me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| imagines | <big><span class="asgreek">οίεται</span></big> <sup><small><small>[[G3633]]</small></small></sup> |
+| to hide | <big><span class="asgreek">κρύπτειν</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
 [[Job.38.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.1|<< Job 38:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.3|Job 38:3 >>]]</td></tr></table>
 
 

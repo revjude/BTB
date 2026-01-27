@@ -9,20 +9,20 @@ He who guards his mouth protects his life, but the one who opens his lips invite
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] one who | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| guards | <span class="asgreek">φυλάσσει <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his own | <span class="asgreek">εαυτού <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| mouth | <span class="asgreek">στόμα <sup><small><small>[[G4750]]</small></small></sup> </span> |
-| gives heed to | <span class="asgreek">τηρεί <sup><small><small>[[G5083]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his own | <span class="asgreek">εαυτού <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| soul; | <span class="asgreek">ψυχήν <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| but the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[with\] precipitous | <span class="asgreek">προπετής <sup><small><small>[[G4312]]</small></small></sup> </span> |
-| lips | <span class="asgreek">χείλεσι <sup><small><small>[[G5491]]</small></small></sup> </span> |
-| shall terrify | <span class="asgreek">πτοήσει <sup><small><small>[[G4422]]</small></small></sup> </span> |
-| himself. | <span class="asgreek">εαυτόν <sup><small><small>[[G1438]]</small></small></sup> </span> |
+| \[The\] one who | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| guards | <big><span class="asgreek">φυλάσσει</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
+| gives heed to | <big><span class="asgreek">τηρεί</span></big> <sup><small><small>[[G5083]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his own | <big><span class="asgreek">εαυτού</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| soul; | <big><span class="asgreek">ψυχήν</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| but the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[with\] precipitous | <big><span class="asgreek">προπετής</span></big> <sup><small><small>[[G4312]]</small></small></sup> |
+| lips | <big><span class="asgreek">χείλεσι</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
+| shall terrify | <big><span class="asgreek">πτοήσει</span></big> <sup><small><small>[[G4422]]</small></small></sup> |
+| himself. | <big><span class="asgreek">εαυτόν</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
 [[Prov.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.2|<< Proverbs 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.4|Proverbs 13:4 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ He who walks in uprightness fears the LORD, but the one who is devious in his wa
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one going | <span class="asgreek">πορευόμενος <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| rightly | <span class="asgreek">ορθώς <sup><small><small>[[G3723]]</small></small></sup> </span> |
-| fears | <span class="asgreek">φοβείται <sup><small><small>[[G5399]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>; | <span class="asgreek">κύριον <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| but the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| crooked one | <span class="asgreek">σκολιάζων <sup><small><small>[[G9111]]</small></small></sup> </span> |
-| in | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his ways | <span class="asgreek">οδοίς <sup><small><small>[[G3598]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall be dishonored | <span class="asgreek">ατιμασθήσεται <sup><small><small>[[G0818]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one going | <big><span class="asgreek">πορευόμενος</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| rightly | <big><span class="asgreek">ορθώς</span></big> <sup><small><small>[[G3723]]</small></small></sup> |
+| fears | <big><span class="asgreek">φοβείται</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριον</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| but the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| crooked one | <big><span class="asgreek">σκολιάζων</span></big> <sup><small><small>[[G9111]]</small></small></sup> |
+| in | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his ways | <big><span class="asgreek">οδοίς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall be dishonored | <big><span class="asgreek">ατιμασθήσεται</span></big> <sup><small><small>[[G0818]]</small></small></sup> |
 [[Prov.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.1|<< Proverbs 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.3|Proverbs 14:3 >>]]</td></tr></table>
 
 

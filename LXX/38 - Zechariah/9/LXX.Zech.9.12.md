@@ -9,20 +9,20 @@ Return to your stronghold, O prisoners of hope; even today I declare that I will
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You shall settle | <span class="asgreek">καθήσεσθε <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| fortresses | <span class="asgreek">οχυρώμασι <sup><small><small>[[G3794]]</small></small></sup> </span> |
-| prisoners | <span class="asgreek">δέσμιοι <sup><small><small>[[G1198]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| congregation | <span class="asgreek">συναγωγής <sup><small><small>[[G4864]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| for | <span class="asgreek">αντί <sup><small><small>[[G0473]]</small></small></sup> </span> |
-| one | <span class="asgreek">μιάς <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρας <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of your sojourning | <span class="asgreek">παροικεσίας <sup><small><small>[[G8655]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| double | <span class="asgreek">διπλά <sup><small><small>[[G1362]]</small></small></sup> </span> |
-| I will recompense | <span class="asgreek">ανταποδώσω <sup><small><small>[[G0467]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| You shall settle | <big><span class="asgreek">καθήσεσθε</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| fortresses | <big><span class="asgreek">οχυρώμασι</span></big> <sup><small><small>[[G3794]]</small></small></sup> |
+| prisoners | <big><span class="asgreek">δέσμιοι</span></big> <sup><small><small>[[G1198]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| congregation | <big><span class="asgreek">συναγωγής</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| for | <big><span class="asgreek">αντί</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
+| one | <big><span class="asgreek">μιάς</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρας</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of your sojourning | <big><span class="asgreek">παροικεσίας</span></big> <sup><small><small>[[G8655]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| double | <big><span class="asgreek">διπλά</span></big> <sup><small><small>[[G1362]]</small></small></sup> |
+| I will recompense | <big><span class="asgreek">ανταποδώσω</span></big> <sup><small><small>[[G0467]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Zech.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.11|<< Zechariah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.13|Zechariah 9:13 >>]]</td></tr></table>
 
 

@@ -9,18 +9,18 @@ clothed in blue, governors and commanders, all desirable young men, horsemen mou
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ones being clothed | <span class="asgreek">ενδεδυκότας <sup><small><small>[[G1746]]</small></small></sup> </span> |
-| in blue, | <span class="asgreek">υακίνθινα <sup><small><small>[[G5191]]</small></small></sup> </span> |
-| leaders | <span class="asgreek">ηγουμένους <sup><small><small>[[G2233]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| commandants, | <span class="asgreek">στρατηγούς <sup><small><small>[[G4755]]</small></small></sup> </span> |
-| young men, | <span class="asgreek">νεανίσκοι <sup><small><small>[[G3495]]</small></small></sup> </span> |
-| choice | <span class="asgreek">επιλέκτους <sup><small><small>[[G7427]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| horsemen | <span class="asgreek">ιππείς <sup><small><small>[[G2460]]</small></small></sup> </span> |
-| riding | <span class="asgreek">ιππαζομένους <sup><small><small>[[G7725]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| horses. | <span class="asgreek">ίππων <sup><small><small>[[G2462]]</small></small></sup> </span> |
+| ones being clothed | <big><span class="asgreek">ενδεδυκότας</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
+| in blue, | <big><span class="asgreek">υακίνθινα</span></big> <sup><small><small>[[G5191]]</small></small></sup> |
+| leaders | <big><span class="asgreek">ηγουμένους</span></big> <sup><small><small>[[G2233]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| commandants, | <big><span class="asgreek">στρατηγούς</span></big> <sup><small><small>[[G4755]]</small></small></sup> |
+| young men, | <big><span class="asgreek">νεανίσκοι</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
+| choice | <big><span class="asgreek">επιλέκτους</span></big> <sup><small><small>[[G7427]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| horsemen | <big><span class="asgreek">ιππείς</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
+| riding | <big><span class="asgreek">ιππαζομένους</span></big> <sup><small><small>[[G7725]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| horses. | <big><span class="asgreek">ίππων</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
 [[Ezek.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.5|<< Ezekiel 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.7|Ezekiel 23:7 >>]]</td></tr></table>
 
 

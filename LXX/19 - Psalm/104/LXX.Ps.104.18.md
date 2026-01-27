@@ -9,15 +9,15 @@ The high mountains are for the wild goats, the cliffs a refuge for the rock badg
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| mountains | <span class="asgreek">όρη <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[the\] high | <span class="asgreek">υψηλά <sup><small><small>[[G5308]]</small></small></sup> </span> |
-| for the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| stags; | <span class="asgreek">ελάφοις <sup><small><small>[[G7180]]</small></small></sup> </span> |
-| a rock | <span class="asgreek">πέτρα <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| of refuge | <span class="asgreek">καταφυγή <sup><small><small>[[G7950]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hyrax. | <span class="asgreek">χοιρογρυλλίοις <sup><small><small>[[G9742]]</small></small></sup> </span> |
+| mountains | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[the\] high | <big><span class="asgreek">υψηλά</span></big> <sup><small><small>[[G5308]]</small></small></sup> |
+| for the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| stags; | <big><span class="asgreek">ελάφοις</span></big> <sup><small><small>[[G7180]]</small></small></sup> |
+| a rock | <big><span class="asgreek">πέτρα</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| of refuge | <big><span class="asgreek">καταφυγή</span></big> <sup><small><small>[[G7950]]</small></small></sup> |
+| for the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hyrax. | <big><span class="asgreek">χοιρογρυλλίοις</span></big> <sup><small><small>[[G9742]]</small></small></sup> |
 [[Ps.104.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.17|<< Psalm 104:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.19|Psalm 104:19 >>]]</td></tr></table>
 
 

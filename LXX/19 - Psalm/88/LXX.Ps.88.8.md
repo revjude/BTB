@@ -9,20 +9,20 @@ You have removed my friends from me; You have made me repulsive to them; I am co
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You distanced | <span class="asgreek">εμάκρυνας <sup><small><small>[[G8239]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| knowing | <span class="asgreek">γνωστούς <sup><small><small>[[G1110]]</small></small></sup> </span> |
-| me | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| You made | <span class="asgreek">έθεντό <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| an abomination | <span class="asgreek">βδέλυγμα <sup><small><small>[[G0946]]</small></small></sup> </span> |
-| to them. | <span class="asgreek">εαυτοίς <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| I have been delivered up, | <span class="asgreek">παρεδόθην <sup><small><small>[[G3860]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| have not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| gone forth. | <span class="asgreek">εξεπορευόμην <sup><small><small>[[G1607]]</small></small></sup> </span> |
+| You distanced | <big><span class="asgreek">εμάκρυνας</span></big> <sup><small><small>[[G8239]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| knowing | <big><span class="asgreek">γνωστούς</span></big> <sup><small><small>[[G1110]]</small></small></sup> |
+| me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You made | <big><span class="asgreek">έθεντό</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| an abomination | <big><span class="asgreek">βδέλυγμα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
+| to them. | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| I have been delivered up, | <big><span class="asgreek">παρεδόθην</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| have not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| gone forth. | <big><span class="asgreek">εξεπορευόμην</span></big> <sup><small><small>[[G1607]]</small></small></sup> |
 [[Ps.88.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.7|<< Psalm 88:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.9|Psalm 88:9 >>]]</td></tr></table>
 
 

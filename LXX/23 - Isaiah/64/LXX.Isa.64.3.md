@@ -9,13 +9,13 @@ When You did awesome works that we did not expect, You came down, and the mounta
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| you should do | <span class="asgreek">ποιής <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| honorable \[things\] | <span class="asgreek">ένδοξα <sup><small><small>[[G1741]]</small></small></sup> </span> |
-| trembling | <span class="asgreek">τρόμος <sup><small><small>[[G5156]]</small></small></sup> </span> |
-| shall take \[hold\] | <span class="asgreek">λήψεται <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| of mountains. | <span class="asgreek">όρη <sup><small><small>[[G3735]]</small></small></sup> </span> |
+| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| you should do | <big><span class="asgreek">ποιής</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| honorable \[things\] | <big><span class="asgreek">ένδοξα</span></big> <sup><small><small>[[G1741]]</small></small></sup> |
+| trembling | <big><span class="asgreek">τρόμος</span></big> <sup><small><small>[[G5156]]</small></small></sup> |
+| shall take \[hold\] | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| of mountains. | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
 [[Isa.64.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.2|<< Isaiah 64:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.4|Isaiah 64:4 >>]]</td></tr></table>
 
 

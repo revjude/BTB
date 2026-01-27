@@ -9,13 +9,13 @@ Anguish is coming! They will seek peace, but find none.<small><sub>**MT:**</sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Making an atonement | <span class="asgreek">εξιλασμός <sup><small><small>[[G7333]]</small></small></sup> </span> |
-| shall come, | <span class="asgreek">ήξει <sup><small><small>[[G2240]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[one\] shall seek | <span class="asgreek">ζητήσει <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| peace, | <span class="asgreek">ειρήνην <sup><small><small>[[G1515]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will not be. | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| Making an atonement | <big><span class="asgreek">εξιλασμός</span></big> <sup><small><small>[[G7333]]</small></small></sup> |
+| shall come, | <big><span class="asgreek">ήξει</span></big> <sup><small><small>[[G2240]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[one\] shall seek | <big><span class="asgreek">ζητήσει</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| peace, | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will not be. | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Ezek.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.24|<< Ezekiel 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.26|Ezekiel 7:26 >>]]</td></tr></table>
 
 

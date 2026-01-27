@@ -13,19 +13,19 @@ In colorful garments she is led to the king; her virgin companions are brought b
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| being put around, | <span class="asgreek">περιβεβλημένη <sup><small><small>[[G4016]]</small></small></sup> </span> |
-| being embroidered. | <span class="asgreek">πεποικιλμένη <sup><small><small>[[G8831]]</small></small></sup> </span> |
-| shall be carried | <span class="asgreek">απενεχθήσονται <sup><small><small>[[G0667]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| \[The\] virgins | <span class="asgreek">παρθένοι <sup><small><small>[[G3933]]</small></small></sup> </span> |
-| after | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
-| her; | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| near | <span class="asgreek">πλησίον <sup><small><small>[[G4139]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall be carried | <span class="asgreek">απενεχθήσονταί <sup><small><small>[[G0667]]</small></small></sup> </span> |
-| to you. | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| being put around, | <big><span class="asgreek">περιβεβλημένη</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
+| being embroidered. | <big><span class="asgreek">πεποικιλμένη</span></big> <sup><small><small>[[G8831]]</small></small></sup> |
+| shall be carried | <big><span class="asgreek">απενεχθήσονται</span></big> <sup><small><small>[[G0667]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| \[The\] virgins | <big><span class="asgreek">παρθένοι</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
+| after | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
+| her; | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the ones | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| near | <big><span class="asgreek">πλησίον</span></big> <sup><small><small>[[G4139]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall be carried | <big><span class="asgreek">απενεχθήσονταί</span></big> <sup><small><small>[[G0667]]</small></small></sup> |
+| to you. | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.45.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.13|<< Psalm 45:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.15|Psalm 45:15 >>]]</td></tr></table>
 
 

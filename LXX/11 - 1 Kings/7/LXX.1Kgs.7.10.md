@@ -9,16 +9,16 @@ The foundations were laid with large, costly stones, some ten cubits long and so
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| in the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| laying a foundation | <span class="asgreek">τεθεμελιωμένην <sup><small><small>[[G2311]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθοις <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| valuable | <span class="asgreek">τιμίοις <sup><small><small>[[G5093]]</small></small></sup> </span> |
-| great | <span class="asgreek">μεγάλοις <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθοις <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| ten cubits | <span class="asgreek">δεκαπήχεσι <sup><small><small>[[G6795]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| eight cubits \[in size\]. | <span class="asgreek">οκταπήχεσι <sup><small><small>[[G8477]]</small></small></sup> </span> |
+| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| laying a foundation | <big><span class="asgreek">τεθεμελιωμένην</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| valuable | <big><span class="asgreek">τιμίοις</span></big> <sup><small><small>[[G5093]]</small></small></sup> |
+| great | <big><span class="asgreek">μεγάλοις</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθοις</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| ten cubits | <big><span class="asgreek">δεκαπήχεσι</span></big> <sup><small><small>[[G6795]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| eight cubits \[in size\]. | <big><span class="asgreek">οκταπήχεσι</span></big> <sup><small><small>[[G8477]]</small></small></sup> |
 [[1Kgs.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.9|<< 1 Kings 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.11|1 Kings 7:11 >>]]</td></tr></table>
 
 

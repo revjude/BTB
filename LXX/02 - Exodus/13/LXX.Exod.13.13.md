@@ -9,22 +9,22 @@ You must redeem every firstborn donkey with a lamb, and if you do not redeem it,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Every \[newborn\] | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| opening | <span class="asgreek">διανοίγον <sup><small><small>[[G1272]]</small></small></sup> </span> |
-| \[the\] womb | <span class="asgreek">μήτραν <sup><small><small>[[G3388]]</small></small></sup> </span> |
-| of donkey | <span class="asgreek">όνου <sup><small><small>[[G3688]]</small></small></sup> </span> |
-| you shall barter | <span class="asgreek">αλλάξεις <sup><small><small>[[G0236]]</small></small></sup> </span> |
-| for sheep. | <span class="asgreek">προβάτω <sup><small><small>[[G4263]]</small></small></sup> </span> |
-| But if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| you should not barter | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">αλλάξης <sup><small><small>[[G0236]]</small></small></sup> </span> |
-| you shall ransom | <span class="asgreek">λυτρώση <sup><small><small>[[G3084]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| first-born | <span class="asgreek">πρωτότοκον <sup><small><small>[[G4416]]</small></small></sup> </span> |
-| of man | <span class="asgreek">ανθρώπου <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall ransom. | <span class="asgreek">λυτρώση <sup><small><small>[[G3084]]</small></small></sup> </span> |
+| Every \[newborn\] | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| opening | <big><span class="asgreek">διανοίγον</span></big> <sup><small><small>[[G1272]]</small></small></sup> |
+| \[the\] womb | <big><span class="asgreek">μήτραν</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
+| of donkey | <big><span class="asgreek">όνου</span></big> <sup><small><small>[[G3688]]</small></small></sup> |
+| you shall barter | <big><span class="asgreek">αλλάξεις</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
+| for sheep. | <big><span class="asgreek">προβάτω</span></big> <sup><small><small>[[G4263]]</small></small></sup> |
+| But if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| you should not barter | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">αλλάξης</span></big> <sup><small><small>[[G0236]]</small></small></sup> |
+| you shall ransom | <big><span class="asgreek">λυτρώση</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Every | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| first-born | <big><span class="asgreek">πρωτότοκον</span></big> <sup><small><small>[[G4416]]</small></small></sup> |
+| of man | <big><span class="asgreek">ανθρώπου</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall ransom. | <big><span class="asgreek">λυτρώση</span></big> <sup><small><small>[[G3084]]</small></small></sup> |
 [[Exod.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.12|<< Exodus 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.14|Exodus 13:14 >>]]</td></tr></table>
 
 

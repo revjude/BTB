@@ -9,11 +9,11 @@ For you ask, ‘What does it profit me, and what benefit do I gain apart from si
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">οτι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| you shall say, | <span class="asgreek">ερείς <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| How | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| should I have committed | <span class="asgreek">ποιήσω <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| sinning? | <span class="asgreek">αμαρτών <sup><small><small>[[G0264]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">οτι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| How | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| should I have committed | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| sinning? | <big><span class="asgreek">αμαρτών</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
 [[Job.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.2|<< Job 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.4|Job 35:4 >>]]</td></tr></table>
 
 

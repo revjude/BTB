@@ -9,20 +9,20 @@ Rehum the commander and Shimshai the scribe wrote the letter against Jerusalem t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Rehum | <span class="asgreek">Ρεούμ <sup><small><small>[[H7348b]]</small></small></sup> </span> |
-| \[the\] master | <span class="asgreek">βααλτάμ <sup><small><small>[[G6640]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Shimshai | <span class="asgreek">Σαμψά <sup><small><small>[[H8124]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| scribe | <span class="asgreek">γραμματεύς <sup><small><small>[[G1122]]</small></small></sup> </span> |
-| wrote | <span class="asgreek">έγραψαν <sup><small><small>[[G1125]]</small></small></sup> </span> |
-| letter | <span class="asgreek">επιστολήν <sup><small><small>[[G1992]]</small></small></sup> </span> |
-| one | <span class="asgreek">μίαν <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| Jerusalem | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to Artaxerxes | <span class="asgreek">Αρθασασθά <sup><small><small>[[H0783b]]</small></small></sup> </span> |
-| \[the\] king, \[saying\], | <span class="asgreek">βασιλεί <sup><small><small>[[G0935]]</small></small></sup> </span> |
+| Rehum | <big><span class="asgreek">Ρεούμ</span></big> <sup><small><small>[[H7348b]]</small></small></sup> |
+| \[the\] master | <big><span class="asgreek">βααλτάμ</span></big> <sup><small><small>[[G6640]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Shimshai | <big><span class="asgreek">Σαμψά</span></big> <sup><small><small>[[H8124]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| scribe | <big><span class="asgreek">γραμματεύς</span></big> <sup><small><small>[[G1122]]</small></small></sup> |
+| wrote | <big><span class="asgreek">έγραψαν</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| letter | <big><span class="asgreek">επιστολήν</span></big> <sup><small><small>[[G1992]]</small></small></sup> |
+| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| Jerusalem | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to Artaxerxes | <big><span class="asgreek">Αρθασασθά</span></big> <sup><small><small>[[H0783b]]</small></small></sup> |
+| \[the\] king, \[saying\], | <big><span class="asgreek">βασιλεί</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
 [[Ezra.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.7|<< Ezra 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.9|Ezra 4:9 >>]]</td></tr></table>
 
 

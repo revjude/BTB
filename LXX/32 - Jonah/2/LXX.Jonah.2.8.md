@@ -9,12 +9,12 @@ Those who cling to worthless idols forsake His loving devotion.<small><sub>**MT
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] ones watching | <span class="asgreek">φυλασσόμενοι <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| vanities | <span class="asgreek">μάταια <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lies | <span class="asgreek">ψευδή <sup><small><small>[[G5571]]</small></small></sup> </span> |
-| their mercy | <span class="asgreek">έλεον <sup><small><small>[[G1656]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| abandoned | <span class="asgreek">εγκατέλιπον <sup><small><small>[[G1459]]</small></small></sup> </span> |
+| \[The\] ones watching | <big><span class="asgreek">φυλασσόμενοι</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| vanities | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lies | <big><span class="asgreek">ψευδή</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| their mercy | <big><span class="asgreek">έλεον</span></big> <sup><small><small>[[G1656]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| abandoned | <big><span class="asgreek">εγκατέλιπον</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
 [[Jonah.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.7|<< Jonah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.9|Jonah 2:9 >>]]</td></tr></table>
 
 

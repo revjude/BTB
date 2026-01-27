@@ -9,14 +9,14 @@ in whose hands are wicked schemes, whose right hands are full of bribes.<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| in whose | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| hands | <span class="asgreek">χερσίν <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[are\] lawless deeds, | <span class="asgreek">ανομίαι <sup><small><small>[[G0458]]</small></small></sup> </span> |
-| \[and\]\<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their right \[hand\] | <span class="asgreek">δεξιά <sup><small><small>[[G1188]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| was filled | <span class="asgreek">επλήσθη <sup><small><small>[[G4130]]</small></small></sup> </span> |
-| of bribes. | <span class="asgreek">δώρων <sup><small><small>[[G1435]]</small></small></sup> </span> |
+| in whose | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| hands | <big><span class="asgreek">χερσίν</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[are\] lawless deeds, | <big><span class="asgreek">ανομίαι</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| \[and\]\<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their right \[hand\] | <big><span class="asgreek">δεξιά</span></big> <sup><small><small>[[G1188]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was filled | <big><span class="asgreek">επλήσθη</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
+| of bribes. | <big><span class="asgreek">δώρων</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
 [[Ps.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.26.9|<< Psalm 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.11|Psalm 26:11 >>]]</td></tr></table>
 
 

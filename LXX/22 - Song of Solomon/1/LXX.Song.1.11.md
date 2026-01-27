@@ -9,14 +9,14 @@ We will make you ornaments of gold, studded with beads of silver.<small><sub>**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Representations | <span class="asgreek">ομοιώματα <sup><small><small>[[G3667]]</small></small></sup> </span> |
-| of gold | <span class="asgreek">χρυσίου <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| we will make | <span class="asgreek">ποιήσομέν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| for you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| marks | <span class="asgreek">στιγμάτων <sup><small><small>[[G4742]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of silver. | <span class="asgreek">αργυρίου <sup><small><small>[[G0694]]</small></small></sup> </span> |
+| Representations | <big><span class="asgreek">ομοιώματα</span></big> <sup><small><small>[[G3667]]</small></small></sup> |
+| of gold | <big><span class="asgreek">χρυσίου</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| we will make | <big><span class="asgreek">ποιήσομέν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| for you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| marks | <big><span class="asgreek">στιγμάτων</span></big> <sup><small><small>[[G4742]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of silver. | <big><span class="asgreek">αργυρίου</span></big> <sup><small><small>[[G0694]]</small></small></sup> |
 [[Song.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.10|<< Song of Solomon 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.12|Song of Solomon 1:12 >>]]</td></tr></table>
 
 

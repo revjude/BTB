@@ -9,25 +9,25 @@ Tomorrow you are to march down against them. You will see them coming up the Asc
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Tomorrow | <span class="asgreek">αύριον <sup><small><small>[[G0839]]</small></small></sup> </span> |
-| go down | <span class="asgreek">κατάβητε <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| against | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| them! | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| they ascend | <span class="asgreek">αναβαίνουσι <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| according to | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ascent | <span class="asgreek">ανάβασιν <sup><small><small>[[G6273]]</small></small></sup> </span> |
-| of Ziz; | <span class="asgreek">Ασίς <sup><small><small>[[H6732]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall find | <span class="asgreek">ευρήσετε <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| at | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] tip | <span class="asgreek">άκρου <sup><small><small>[[G6208]]</small></small></sup> </span> |
-| of \[the\] river | <span class="asgreek">ποταμού <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wilderness | <span class="asgreek">ερήμου <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| of Jeruel. | <span class="asgreek">Ιεριήλ <sup><small><small>[[H3385]]</small></small></sup> </span> |
+| Tomorrow | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
+| go down | <big><span class="asgreek">κατάβητε</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| against | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| them! | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| they ascend | <big><span class="asgreek">αναβαίνουσι</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| according to | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ascent | <big><span class="asgreek">ανάβασιν</span></big> <sup><small><small>[[G6273]]</small></small></sup> |
+| of Ziz; | <big><span class="asgreek">Ασίς</span></big> <sup><small><small>[[H6732]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall find | <big><span class="asgreek">ευρήσετε</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| at | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] tip | <big><span class="asgreek">άκρου</span></big> <sup><small><small>[[G6208]]</small></small></sup> |
+| of \[the\] river | <big><span class="asgreek">ποταμού</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wilderness | <big><span class="asgreek">ερήμου</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| of Jeruel. | <big><span class="asgreek">Ιεριήλ</span></big> <sup><small><small>[[H3385]]</small></small></sup> |
 [[2Chr.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.15|<< 2 Chronicles 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.17|2 Chronicles 20:17 >>]]</td></tr></table>
 
 

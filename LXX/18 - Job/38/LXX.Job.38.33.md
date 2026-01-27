@@ -9,15 +9,15 @@ Do you know the laws of the heavens? Can you set their dominion over the earth?
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And do you know | <span class="asgreek">επίστασαι <sup><small><small>[[G1987]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[the\] circuits | <span class="asgreek">τροπάς <sup><small><small>[[G5157]]</small></small></sup> </span> |
-| of heaven, | <span class="asgreek">ουρανού <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| under | <span class="asgreek">υπ΄ <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| heaven | <span class="asgreek">ουρανόν <sup><small><small>[[G3772]]</small></small></sup> </span> |
-| with one accord | <span class="asgreek">ομοθυμαδόν <sup><small><small>[[G3661]]</small></small></sup> </span> |
-| taking place | <span class="asgreek">γινόμενα <sup><small><small>[[G1096]]</small></small></sup> </span> |
+| And do you know | <big><span class="asgreek">επίστασαι</span></big> <sup><small><small>[[G1987]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[the\] circuits | <big><span class="asgreek">τροπάς</span></big> <sup><small><small>[[G5157]]</small></small></sup> |
+| of heaven, | <big><span class="asgreek">ουρανού</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| under | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| heaven | <big><span class="asgreek">ουρανόν</span></big> <sup><small><small>[[G3772]]</small></small></sup> |
+| with one accord | <big><span class="asgreek">ομοθυμαδόν</span></big> <sup><small><small>[[G3661]]</small></small></sup> |
+| taking place | <big><span class="asgreek">γινόμενα</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
 [[Job.38.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.32|<< Job 38:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.34|Job 38:34 >>]]</td></tr></table>
 
 

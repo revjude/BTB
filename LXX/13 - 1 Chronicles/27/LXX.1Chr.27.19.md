@@ -9,18 +9,18 @@ over Zebulun was Ishmaiah son of Obadiah; over Naphtali was Jerimoth son of Azri
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Zebulun | <span class="asgreek">Ζαβουλών <sup><small><small>[[G2194]]</small></small></sup> </span> |
-| \[was\] Ishmaiah | <span class="asgreek">Σαμαϊας <sup><small><small>[[H3460]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[son of\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Obadiah; | <span class="asgreek">Αβδίου <sup><small><small>[[H5662]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Naphtali | <span class="asgreek">Νεφθαλί <sup><small><small>[[G3508]]</small></small></sup> </span> |
-| \[was\] Jerimoth | <span class="asgreek">Ιεριμούθ <sup><small><small>[[H3406]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[son of\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Azriel; | <span class="asgreek">Εζιήλ <sup><small><small>[[H3149]]</small></small></sup> </span> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Zebulun | <big><span class="asgreek">Ζαβουλών</span></big> <sup><small><small>[[G2194]]</small></small></sup> |
+| \[was\] Ishmaiah | <big><span class="asgreek">Σαμαϊας</span></big> <sup><small><small>[[H3460]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Obadiah; | <big><span class="asgreek">Αβδίου</span></big> <sup><small><small>[[H5662]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Naphtali | <big><span class="asgreek">Νεφθαλί</span></big> <sup><small><small>[[G3508]]</small></small></sup> |
+| \[was\] Jerimoth | <big><span class="asgreek">Ιεριμούθ</span></big> <sup><small><small>[[H3406]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[son of\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Azriel; | <big><span class="asgreek">Εζιήλ</span></big> <sup><small><small>[[H3149]]</small></small></sup> |
 [[1Chr.27.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.18|<< 1 Chronicles 27:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.20|1 Chronicles 27:20 >>]]</td></tr></table>
 
 

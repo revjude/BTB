@@ -9,16 +9,16 @@ In old age they will still bear fruit; healthy and green they will remain,<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Still | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| they shall be multiplied | <span class="asgreek">πληθυνθήσονται <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| old age | <span class="asgreek">γήρει <sup><small><small>[[G1094]]</small></small></sup> </span> |
-| plentiful | <span class="asgreek">πίονι <sup><small><small>[[G8798]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| enjoying pleasure | <span class="asgreek">ευπαθούντες <sup><small><small>[[G7556]]</small></small></sup> </span> |
-| they will be | <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to announce | <span class="asgreek">αναγγείλαι <sup><small><small>[[G0312]]</small></small></sup> </span> |
+| Still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| they shall be multiplied | <big><span class="asgreek">πληθυνθήσονται</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| old age | <big><span class="asgreek">γήρει</span></big> <sup><small><small>[[G1094]]</small></small></sup> |
+| plentiful | <big><span class="asgreek">πίονι</span></big> <sup><small><small>[[G8798]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| enjoying pleasure | <big><span class="asgreek">ευπαθούντες</span></big> <sup><small><small>[[G7556]]</small></small></sup> |
+| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to announce | <big><span class="asgreek">αναγγείλαι</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
 [[Ps.92.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.13|<< Psalm 92:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.15|Psalm 92:15 >>]]</td></tr></table>
 
 

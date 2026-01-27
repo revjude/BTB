@@ -9,23 +9,23 @@ She was also the mother of Shaaph father of Madmannah, and of Sheva father of Ma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she bore | <span class="asgreek">εγέννησε <sup><small><small>[[G1080]]</small></small></sup> </span> |
-| Shaaph | <span class="asgreek">Σαάφ <sup><small><small>[[H8174]]</small></small></sup> </span> |
-| father | <span class="asgreek">πατέρα <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of Madmannah, | <span class="asgreek">Μεδμηνά <sup><small><small>[[H4089]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Sheva | <span class="asgreek">Σουϊ <sup><small><small>[[H7864]]</small></small></sup> </span> |
-| father | <span class="asgreek">πατέρα <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of Machbenah, | <span class="asgreek">Μαχβανά <sup><small><small>[[H4343]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] father | <span class="asgreek">πατέρα <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of Gibea; | <span class="asgreek">Γαββαά <sup><small><small>[[H1388]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] daughter | <span class="asgreek">θυγάτηρ <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Caleb | <span class="asgreek">Χαλέβ <sup><small><small>[[H3612]]</small></small></sup> </span> |
-| was Achsa. | <span class="asgreek">Οξά <sup><small><small>[[H5915]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she bore | <big><span class="asgreek">εγέννησε</span></big> <sup><small><small>[[G1080]]</small></small></sup> |
+| Shaaph | <big><span class="asgreek">Σαάφ</span></big> <sup><small><small>[[H8174]]</small></small></sup> |
+| father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of Madmannah, | <big><span class="asgreek">Μεδμηνά</span></big> <sup><small><small>[[H4089]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Sheva | <big><span class="asgreek">Σουϊ</span></big> <sup><small><small>[[H7864]]</small></small></sup> |
+| father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of Machbenah, | <big><span class="asgreek">Μαχβανά</span></big> <sup><small><small>[[H4343]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of Gibea; | <big><span class="asgreek">Γαββαά</span></big> <sup><small><small>[[H1388]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Caleb | <big><span class="asgreek">Χαλέβ</span></big> <sup><small><small>[[H3612]]</small></small></sup> |
+| was Achsa. | <big><span class="asgreek">Οξά</span></big> <sup><small><small>[[H5915]]</small></small></sup> |
 [[1Chr.2.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.48|<< 1 Chronicles 2:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.50|1 Chronicles 2:50 >>]]</td></tr></table>
 
 

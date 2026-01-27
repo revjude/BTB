@@ -9,18 +9,18 @@ The threshing floors will be full of grain, and the vats will overflow with new 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be filled | <span class="asgreek">πλησθήσονται <sup><small><small>[[G4130]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| threshing-floors | <span class="asgreek">άλωνες <sup><small><small>[[G0257]]</small></small></sup> </span> |
-| of grain, | <span class="asgreek">σίτου <sup><small><small>[[G4621]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall be overflowing | <span class="asgreek">υπερεκχυθήσονται <sup><small><small>[[G9563]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| vats | <span class="asgreek">ληνοί <sup><small><small>[[G3025]]</small></small></sup> </span> |
-| of wine | <span class="asgreek">οίνου <sup><small><small>[[G3631]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| oil. | <span class="asgreek">ελαίου <sup><small><small>[[G1637]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be filled | <big><span class="asgreek">πλησθήσονται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| threshing-floors | <big><span class="asgreek">άλωνες</span></big> <sup><small><small>[[G0257]]</small></small></sup> |
+| of grain, | <big><span class="asgreek">σίτου</span></big> <sup><small><small>[[G4621]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall be overflowing | <big><span class="asgreek">υπερεκχυθήσονται</span></big> <sup><small><small>[[G9563]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| vats | <big><span class="asgreek">ληνοί</span></big> <sup><small><small>[[G3025]]</small></small></sup> |
+| of wine | <big><span class="asgreek">οίνου</span></big> <sup><small><small>[[G3631]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| oil. | <big><span class="asgreek">ελαίου</span></big> <sup><small><small>[[G1637]]</small></small></sup> |
 [[Joel.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.23|<< Joel 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.25|Joel 2:25 >>]]</td></tr></table>
 
 

@@ -9,21 +9,21 @@ The righteous consider the cause of the poor, but the wicked have no regard for 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| has knowledge | <span class="asgreek">επίσταται <sup><small><small>[[G1987]]</small></small></sup> </span> |
-| A just \[man\] | <span class="asgreek">δίκαιος <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| to judge | <span class="asgreek">κρίνειν <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| for \[the\] destitute; | <span class="asgreek">πενιχροίς <sup><small><small>[[G3998]]</small></small></sup> </span> |
-| but the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| impious | <span class="asgreek">ασεβής <sup><small><small>[[G0765]]</small></small></sup> </span> |
-| do not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| comprehend | <span class="asgreek">νοεί <sup><small><small>[[G3539]]</small></small></sup> </span> |
-| knowledge; | <span class="asgreek">γνώσιν <sup><small><small>[[G1108]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[to the\] poor | <span class="asgreek">πτωχώ <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| \[there does\] not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| exist | <span class="asgreek">υπάρχει <sup><small><small>[[G5225]]</small></small></sup> </span> |
-| \[the\] mind | <span class="asgreek">νους <sup><small><small>[[G3563]]</small></small></sup> </span> |
-| of an arbitrator. | <span class="asgreek">επιγνώμων <sup><small><small>[[G7397]]</small></small></sup> </span> |
+| has knowledge | <big><span class="asgreek">επίσταται</span></big> <sup><small><small>[[G1987]]</small></small></sup> |
+| A just \[man\] | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| to judge | <big><span class="asgreek">κρίνειν</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| for \[the\] destitute; | <big><span class="asgreek">πενιχροίς</span></big> <sup><small><small>[[G3998]]</small></small></sup> |
+| but the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| impious | <big><span class="asgreek">ασεβής</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
+| do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| comprehend | <big><span class="asgreek">νοεί</span></big> <sup><small><small>[[G3539]]</small></small></sup> |
+| knowledge; | <big><span class="asgreek">γνώσιν</span></big> <sup><small><small>[[G1108]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[to the\] poor | <big><span class="asgreek">πτωχώ</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| \[there does\] not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| exist | <big><span class="asgreek">υπάρχει</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
+| \[the\] mind | <big><span class="asgreek">νους</span></big> <sup><small><small>[[G3563]]</small></small></sup> |
+| of an arbitrator. | <big><span class="asgreek">επιγνώμων</span></big> <sup><small><small>[[G7397]]</small></small></sup> |
 [[Prov.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.6|<< Proverbs 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.8|Proverbs 29:8 >>]]</td></tr></table>
 
 

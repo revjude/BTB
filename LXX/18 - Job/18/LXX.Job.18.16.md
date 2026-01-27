@@ -9,14 +9,14 @@ The roots beneath him dry up, and the branches above him wither away.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| from beneath | <span class="asgreek">υποκάτωθεν <sup><small><small>[[G9575]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| His roots | <span class="asgreek">ρίζαι <sup><small><small>[[G4491]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shall be dried | <span class="asgreek">ξηρανθήσονται <sup><small><small>[[G3583]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| on top | <span class="asgreek">επάνωθεν <sup><small><small>[[G7366]]</small></small></sup> </span> |
-| shall fall | <span class="asgreek">επιπεσείται <sup><small><small>[[G1968]]</small></small></sup> </span> |
-| his harvest | <span class="asgreek">θερισμός <sup><small><small>[[G2326]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| from beneath | <big><span class="asgreek">υποκάτωθεν</span></big> <sup><small><small>[[G9575]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| His roots | <big><span class="asgreek">ρίζαι</span></big> <sup><small><small>[[G4491]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shall be dried | <big><span class="asgreek">ξηρανθήσονται</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| on top | <big><span class="asgreek">επάνωθεν</span></big> <sup><small><small>[[G7366]]</small></small></sup> |
+| shall fall | <big><span class="asgreek">επιπεσείται</span></big> <sup><small><small>[[G1968]]</small></small></sup> |
+| his harvest | <big><span class="asgreek">θερισμός</span></big> <sup><small><small>[[G2326]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.15|<< Job 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.17|Job 18:17 >>]]</td></tr></table>
 
 

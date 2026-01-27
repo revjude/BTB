@@ -9,16 +9,16 @@ Can a man walk on hot coals without scorching his feet?<small><sub>**MT:**</sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| shall anyone walk | <span class="asgreek">περιπατήσει <sup><small><small>[[G4043]]</small></small></sup> <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| coals | <span class="asgreek">ανθράκων <sup><small><small>[[G0440]]</small></small></sup> </span> |
-| of fire, | <span class="asgreek">πυρός <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| \[his\] feet | <span class="asgreek">πόδας <sup><small><small>[[G4228]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| incinerate. | <span class="asgreek">κατακαύσει <sup><small><small>[[G2618]]</small></small></sup> </span> |
+| Or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| shall anyone walk | <big><span class="asgreek">περιπατήσει</span></big> <sup><small><small>[[G4043]]</small></small></sup> <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| coals | <big><span class="asgreek">ανθράκων</span></big> <sup><small><small>[[G0440]]</small></small></sup> |
+| of fire, | <big><span class="asgreek">πυρός</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| \[his\] feet | <big><span class="asgreek">πόδας</span></big> <sup><small><small>[[G4228]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| incinerate. | <big><span class="asgreek">κατακαύσει</span></big> <sup><small><small>[[G2618]]</small></small></sup> |
 [[Prov.6.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.27|<< Proverbs 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.29|Proverbs 6:29 >>]]</td></tr></table>
 
 

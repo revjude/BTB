@@ -9,21 +9,21 @@ Pharaoh’s chariots and army He has cast into the sea; the finest of his office
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] chariots | <span class="asgreek">άρματα <sup><small><small>[[G0716]]</small></small></sup> </span> |
-| of Pharaoh, | <span class="asgreek">Φαραώ <sup><small><small>[[G5328]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his force | <span class="asgreek">δύναμιν <sup><small><small>[[G1411]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he tossed | <span class="asgreek">έρριψεν <sup><small><small>[[G4496]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] sea; | <span class="asgreek">θάλασσαν <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| chosen | <span class="asgreek">επιλέκτους <sup><small><small>[[G7427]]</small></small></sup> </span> |
-| riders -- | <span class="asgreek">αναβάτας <sup><small><small>[[G6275]]</small></small></sup> </span> |
-| tribunes | <span class="asgreek">τριστάτας <sup><small><small>[[G9496]]</small></small></sup> </span> |
-| he sank | <span class="asgreek">κατεπόντισεν <sup><small><small>[[G2670]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] red | <span class="asgreek">ερυθρά <sup><small><small>[[G2063]]</small></small></sup> </span> |
-| sea. | <span class="asgreek">θαλάσση <sup><small><small>[[G2281]]</small></small></sup> </span> |
+| \[The\] chariots | <big><span class="asgreek">άρματα</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
+| of Pharaoh, | <big><span class="asgreek">Φαραώ</span></big> <sup><small><small>[[G5328]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his force | <big><span class="asgreek">δύναμιν</span></big> <sup><small><small>[[G1411]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he tossed | <big><span class="asgreek">έρριψεν</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] sea; | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| chosen | <big><span class="asgreek">επιλέκτους</span></big> <sup><small><small>[[G7427]]</small></small></sup> |
+| riders -- | <big><span class="asgreek">αναβάτας</span></big> <sup><small><small>[[G6275]]</small></small></sup> |
+| tribunes | <big><span class="asgreek">τριστάτας</span></big> <sup><small><small>[[G9496]]</small></small></sup> |
+| he sank | <big><span class="asgreek">κατεπόντισεν</span></big> <sup><small><small>[[G2670]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] red | <big><span class="asgreek">ερυθρά</span></big> <sup><small><small>[[G2063]]</small></small></sup> |
+| sea. | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
 [[Exod.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.3|<< Exodus 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.5|Exodus 15:5 >>]]</td></tr></table>
 
 

@@ -9,43 +9,43 @@ the weight of the gold lampstands and their lamps, including the weight of each 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] weight | <span class="asgreek">σταθμόν <sup><small><small>[[G9150]]</small></small></sup> </span> |
-| to the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lamp-stands, | <span class="asgreek">λυχνίαις <sup><small><small>[[G3087]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in gold, | <span class="asgreek">χρυσαίς <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their lamps, | <span class="asgreek">λύχνοις <sup><small><small>[[G3088]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| gold | <span class="asgreek">χρυσίον <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| weight -- | <span class="asgreek">σταθμώ <sup><small><small>[[G9150]]</small></small></sup> </span> |
-| of lamp-stand | <span class="asgreek">λυχνίας <sup><small><small>[[G3087]]</small></small></sup> </span> |
-| by | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lamp-stand, | <span class="asgreek">λυχνίας <sup><small><small>[[G3087]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its lamps, | <span class="asgreek">λύχνοις <sup><small><small>[[G3088]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lamp-stands. | <span class="asgreek">λυχνίαις <sup><small><small>[[G3087]]</small></small></sup> </span> |
-| But of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">τε <sup><small><small>[[G5037]]</small></small></sup> </span> |
-| gold | <span class="asgreek">χρυσών <sup><small><small>[[G5552]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| silver | <span class="asgreek">αργυρών <sup><small><small>[[G0693]]</small></small></sup> </span> |
-| lamp-stands | <span class="asgreek">λυχνιών <sup><small><small>[[G3087]]</small></small></sup> </span> |
-| of the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| scale-weight \[of money\] | <span class="asgreek">ολκήν <sup><small><small>[[G8490]]</small></small></sup> </span> |
-| he gave | <span class="asgreek">έδωκεν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lamp-stands | <span class="asgreek">λυχνιών <sup><small><small>[[G3087]]</small></small></sup> </span> |
-| he gave | <span class="asgreek">έδωκεν <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| scale-weight. | <span class="asgreek">ολκήν <sup><small><small>[[G8490]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] weight | <big><span class="asgreek">σταθμόν</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
+| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lamp-stands, | <big><span class="asgreek">λυχνίαις</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in gold, | <big><span class="asgreek">χρυσαίς</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their lamps, | <big><span class="asgreek">λύχνοις</span></big> <sup><small><small>[[G3088]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| weight -- | <big><span class="asgreek">σταθμώ</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
+| of lamp-stand | <big><span class="asgreek">λυχνίας</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
+| by | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lamp-stand, | <big><span class="asgreek">λυχνίας</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its lamps, | <big><span class="asgreek">λύχνοις</span></big> <sup><small><small>[[G3088]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lamp-stands. | <big><span class="asgreek">λυχνίαις</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
+| But of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">τε</span></big> <sup><small><small>[[G5037]]</small></small></sup> |
+| gold | <big><span class="asgreek">χρυσών</span></big> <sup><small><small>[[G5552]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| silver | <big><span class="asgreek">αργυρών</span></big> <sup><small><small>[[G0693]]</small></small></sup> |
+| lamp-stands | <big><span class="asgreek">λυχνιών</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
+| of the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| scale-weight \[of money\] | <big><span class="asgreek">ολκήν</span></big> <sup><small><small>[[G8490]]</small></small></sup> |
+| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lamp-stands | <big><span class="asgreek">λυχνιών</span></big> <sup><small><small>[[G3087]]</small></small></sup> |
+| he gave | <big><span class="asgreek">έδωκεν</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| scale-weight. | <big><span class="asgreek">ολκήν</span></big> <sup><small><small>[[G8490]]</small></small></sup> |
 [[1Chr.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.14|<< 1 Chronicles 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.16|1 Chronicles 28:16 >>]]</td></tr></table>
 
 

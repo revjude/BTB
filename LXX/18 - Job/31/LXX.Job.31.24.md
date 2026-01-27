@@ -9,15 +9,15 @@ If I have put my trust in gold or called pure gold my security,<small><sub>**MT
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| I ordered up | <span class="asgreek">έταξα <sup><small><small>[[G5021]]</small></small></sup> </span> |
-| gold | <span class="asgreek">χρυσίον <sup><small><small>[[G5553]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| my strength; | <span class="asgreek">ισχύν <sup><small><small>[[G2479]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and if even | <span class="asgreek">ει δε και <sup><small><small>[[G7048]]</small></small></sup> </span> |
-| stone | <span class="asgreek">λίθω <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| very costly | <span class="asgreek">πολυτελεί <sup><small><small>[[G4185]]</small></small></sup> </span> |
-| I relied upon | <span class="asgreek">επεποίθησα <sup><small><small>[[G3982]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| I ordered up | <big><span class="asgreek">έταξα</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
+| gold | <big><span class="asgreek">χρυσίον</span></big> <sup><small><small>[[G5553]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| my strength; | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and if even | <big><span class="asgreek">ει δε και</span></big> <sup><small><small>[[G7048]]</small></small></sup> |
+| stone | <big><span class="asgreek">λίθω</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| very costly | <big><span class="asgreek">πολυτελεί</span></big> <sup><small><small>[[G4185]]</small></small></sup> |
+| I relied upon | <big><span class="asgreek">επεποίθησα</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
 [[Job.31.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.23|<< Job 31:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.25|Job 31:25 >>]]</td></tr></table>
 
 

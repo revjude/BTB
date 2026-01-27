@@ -9,27 +9,27 @@ For they sow the wind, and they shall reap the whirlwind. There is no standing g
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| being destroyed by the wind | <span class="asgreek">ανεμόφθορα <sup><small><small>[[G6334]]</small></small></sup> </span> |
-| they sowed, | <span class="asgreek">έσπειραν <sup><small><small>[[G4687]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their final end | <span class="asgreek">καταστροφή <sup><small><small>[[G2692]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| looks out for | <span class="asgreek">εκδέξεται <sup><small><small>[[G1551]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a sheaf | <span class="asgreek">δράγμα <sup><small><small>[[G6967]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| having | <span class="asgreek">έχον <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| strength | <span class="asgreek">ισχύν <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to produce | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| flour; | <span class="asgreek">άλευρον <sup><small><small>[[G0224]]</small></small></sup> </span> |
-| and if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it should produce, | <span class="asgreek">ποιήση <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| strangers | <span class="asgreek">αλλότριοι <sup><small><small>[[G0245]]</small></small></sup> </span> |
-| shall devour | <span class="asgreek">καταφάγονται <sup><small><small>[[G2719]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| being destroyed by the wind | <big><span class="asgreek">ανεμόφθορα</span></big> <sup><small><small>[[G6334]]</small></small></sup> |
+| they sowed, | <big><span class="asgreek">έσπειραν</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their final end | <big><span class="asgreek">καταστροφή</span></big> <sup><small><small>[[G2692]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| looks out for | <big><span class="asgreek">εκδέξεται</span></big> <sup><small><small>[[G1551]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a sheaf | <big><span class="asgreek">δράγμα</span></big> <sup><small><small>[[G6967]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| having | <big><span class="asgreek">έχον</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| strength | <big><span class="asgreek">ισχύν</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to produce | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| flour; | <big><span class="asgreek">άλευρον</span></big> <sup><small><small>[[G0224]]</small></small></sup> |
+| and if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it should produce, | <big><span class="asgreek">ποιήση</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| strangers | <big><span class="asgreek">αλλότριοι</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| shall devour | <big><span class="asgreek">καταφάγονται</span></big> <sup><small><small>[[G2719]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Hos.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.6|<< Hosea 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.8|Hosea 8:8 >>]]</td></tr></table>
 
 

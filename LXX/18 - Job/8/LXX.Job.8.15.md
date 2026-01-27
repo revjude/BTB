@@ -9,16 +9,16 @@ He leans on his web, but it gives way; he holds fast, but it does not endure.<s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| one should overlook | <span class="asgreek">υπερείση <sup><small><small>[[G5237]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| his house, | <span class="asgreek">οικίαν <sup><small><small>[[G3614]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall it stand; | <span class="asgreek">στη <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| and grasping | <span class="asgreek">περιδραξαμένου <sup><small><small>[[G8724]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall it remain. | <span class="asgreek">υπομείνη <sup><small><small>[[G5278]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| one should overlook | <big><span class="asgreek">υπερείση</span></big> <sup><small><small>[[G5237]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| his house, | <big><span class="asgreek">οικίαν</span></big> <sup><small><small>[[G3614]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall it stand; | <big><span class="asgreek">στη</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| and grasping | <big><span class="asgreek">περιδραξαμένου</span></big> <sup><small><small>[[G8724]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall it remain. | <big><span class="asgreek">υπομείνη</span></big> <sup><small><small>[[G5278]]</small></small></sup> |
 [[Job.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.14|<< Job 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.16|Job 8:16 >>]]</td></tr></table>
 
 

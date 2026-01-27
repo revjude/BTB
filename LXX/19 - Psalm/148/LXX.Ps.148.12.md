@@ -9,12 +9,12 @@ young men and maidens, old and young together.<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| young men | <span class="asgreek">νεανίσκοι <sup><small><small>[[G3495]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| virgins; | <span class="asgreek">παρθένοι <sup><small><small>[[G3933]]</small></small></sup> </span> |
-| elders | <span class="asgreek">πρεσβύτεροι <sup><small><small>[[G4245]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| younger; | <span class="asgreek">νεωτέρων <sup><small><small>[[G3501]]</small></small></sup> </span> |
+| young men | <big><span class="asgreek">νεανίσκοι</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| virgins; | <big><span class="asgreek">παρθένοι</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
+| elders | <big><span class="asgreek">πρεσβύτεροι</span></big> <sup><small><small>[[G4245]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| younger; | <big><span class="asgreek">νεωτέρων</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
 [[Ps.148.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.11|<< Psalm 148:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.13|Psalm 148:13 >>]]</td></tr></table>
 
 

@@ -9,23 +9,23 @@ Depart in shameful nakedness, O dwellers of Shaphir. The dwellers of Zaanan will
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Her inhabiting | <span class="asgreek">κατοικούσα <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| well | <span class="asgreek">καλώς <sup><small><small>[[G2573]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| come forth. | <span class="asgreek">εξήλθε <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| Her inhabiting | <span class="asgreek">κατοικούσα <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| Zaanan | <span class="asgreek">Σαινάν <sup><small><small>[[H6630]]</small></small></sup> </span> |
-| to beat her chest | <span class="asgreek">κόψασθαι <sup><small><small>[[G2875]]</small></small></sup> </span> |
-| \[for the\] house | <span class="asgreek">οίκον <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| next | <span class="asgreek">εχόμενον <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| to her; | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| she shall receive | <span class="asgreek">λήψεται <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| from | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| your | <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| calamity | <span class="asgreek">πληγήν <sup><small><small>[[G4127]]</small></small></sup> </span> |
-| of grief. | <span class="asgreek">οδύνης <sup><small><small>[[G3601]]</small></small></sup> </span> |
+| Her inhabiting | <big><span class="asgreek">κατοικούσα</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| well | <big><span class="asgreek">καλώς</span></big> <sup><small><small>[[G2573]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| come forth. | <big><span class="asgreek">εξήλθε</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| Her inhabiting | <big><span class="asgreek">κατοικούσα</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| Zaanan | <big><span class="asgreek">Σαινάν</span></big> <sup><small><small>[[H6630]]</small></small></sup> |
+| to beat her chest | <big><span class="asgreek">κόψασθαι</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
+| \[for the\] house | <big><span class="asgreek">οίκον</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| next | <big><span class="asgreek">εχόμενον</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| to her; | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| she shall receive | <big><span class="asgreek">λήψεται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| from | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| your | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| calamity | <big><span class="asgreek">πληγήν</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
+| of grief. | <big><span class="asgreek">οδύνης</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
 [[Mic.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.10|<< Micah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.12|Micah 1:12 >>]]</td></tr></table>
 
 

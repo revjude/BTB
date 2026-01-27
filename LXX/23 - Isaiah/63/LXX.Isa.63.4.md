@@ -9,14 +9,14 @@ For the day of vengeance was in My heart, and the year of My redemption had come
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For a day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| of recompense | <span class="asgreek">ανταποδόσεως <sup><small><small>[[G0469]]</small></small></sup> </span> |
-| came upon | <span class="asgreek">επήλθεν <sup><small><small>[[G1904]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a year | <span class="asgreek">ενιαυτός <sup><small><small>[[G1763]]</small></small></sup> </span> |
-| of ransoming | <span class="asgreek">λυτρώσεως <sup><small><small>[[G3085]]</small></small></sup> </span> |
-| \[is\] at hand. | <span class="asgreek">πάρεστι <sup><small><small>[[G3918]]</small></small></sup> </span> |
+| For a day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| of recompense | <big><span class="asgreek">ανταποδόσεως</span></big> <sup><small><small>[[G0469]]</small></small></sup> |
+| came upon | <big><span class="asgreek">επήλθεν</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a year | <big><span class="asgreek">ενιαυτός</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
+| of ransoming | <big><span class="asgreek">λυτρώσεως</span></big> <sup><small><small>[[G3085]]</small></small></sup> |
+| \[is\] at hand. | <big><span class="asgreek">πάρεστι</span></big> <sup><small><small>[[G3918]]</small></small></sup> |
 [[Isa.63.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.3|<< Isaiah 63:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.5|Isaiah 63:5 >>]]</td></tr></table>
 
 

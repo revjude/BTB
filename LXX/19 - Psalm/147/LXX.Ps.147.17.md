@@ -9,15 +9,15 @@ He casts forth His hail like pebbles. Who can withstand His icy blast?<small><s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| throwing | <span class="asgreek">βάλλοντος <sup><small><small>[[G0906]]</small></small></sup> </span> |
-| his ice | <span class="asgreek">κρύσταλλον <sup><small><small>[[G2930]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| morsels. | <span class="asgreek">ψωμούς <sup><small><small>[[G9804]]</small></small></sup> </span> |
-| Before | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| \[the\] presence | <span class="asgreek">πρόσωπον <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of his chilliness | <span class="asgreek">ψύχους <sup><small><small>[[G5592]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall stand? | <span class="asgreek">υποστήσεται <sup><small><small>[[G9609]]</small></small></sup> </span> |
+| throwing | <big><span class="asgreek">βάλλοντος</span></big> <sup><small><small>[[G0906]]</small></small></sup> |
+| his ice | <big><span class="asgreek">κρύσταλλον</span></big> <sup><small><small>[[G2930]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| morsels. | <big><span class="asgreek">ψωμούς</span></big> <sup><small><small>[[G9804]]</small></small></sup> |
+| Before | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| \[the\] presence | <big><span class="asgreek">πρόσωπον</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of his chilliness | <big><span class="asgreek">ψύχους</span></big> <sup><small><small>[[G5592]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall stand? | <big><span class="asgreek">υποστήσεται</span></big> <sup><small><small>[[G9609]]</small></small></sup> |
 [[Ps.147.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.16|<< Psalm 147:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.18|Psalm 147:18 >>]]</td></tr></table>
 
 

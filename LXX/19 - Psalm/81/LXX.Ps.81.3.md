@@ -9,14 +9,14 @@ Sound the ram’s horn at the New Moon, and at the full moon on the day of our F
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Trump | <span class="asgreek">σαλπίσατε <sup><small><small>[[G4537]]</small></small></sup> </span> |
-| during | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] new moon -- | <span class="asgreek">νεομηνία <sup><small><small>[[G3561]]</small></small></sup> </span> |
-| a trumpet | <span class="asgreek">σάλπιγγι <sup><small><small>[[G4536]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] well-marked | <span class="asgreek">ευσήμω <sup><small><small>[[G2154]]</small></small></sup> </span> |
-| day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of your holiday! | <span class="asgreek">εορτής <sup><small><small>[[G1859]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Trump | <big><span class="asgreek">σαλπίσατε</span></big> <sup><small><small>[[G4537]]</small></small></sup> |
+| during | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] new moon -- | <big><span class="asgreek">νεομηνία</span></big> <sup><small><small>[[G3561]]</small></small></sup> |
+| a trumpet | <big><span class="asgreek">σάλπιγγι</span></big> <sup><small><small>[[G4536]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] well-marked | <big><span class="asgreek">ευσήμω</span></big> <sup><small><small>[[G2154]]</small></small></sup> |
+| day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of your holiday! | <big><span class="asgreek">εορτής</span></big> <sup><small><small>[[G1859]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.81.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.2|<< Psalm 81:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.4|Psalm 81:4 >>]]</td></tr></table>
 
 

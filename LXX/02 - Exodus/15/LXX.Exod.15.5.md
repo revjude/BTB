@@ -9,14 +9,14 @@ The depths have covered them; they sank there like a stone.<small><sub>**MT:**<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A high sea | <span class="asgreek">πόντω <sup><small><small>[[G4195]]</small></small></sup> </span> |
-| covered | <span class="asgreek">εκάλυψεν <sup><small><small>[[G2572]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they descended | <span class="asgreek">κατέδυσαν <sup><small><small>[[G7840]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] bottom of the sea | <span class="asgreek">βυθόν <sup><small><small>[[G1037]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| stone. | <span class="asgreek">λίθος <sup><small><small>[[G3037]]</small></small></sup> </span> |
+| A high sea | <big><span class="asgreek">πόντω</span></big> <sup><small><small>[[G4195]]</small></small></sup> |
+| covered | <big><span class="asgreek">εκάλυψεν</span></big> <sup><small><small>[[G2572]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they descended | <big><span class="asgreek">κατέδυσαν</span></big> <sup><small><small>[[G7840]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] bottom of the sea | <big><span class="asgreek">βυθόν</span></big> <sup><small><small>[[G1037]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| stone. | <big><span class="asgreek">λίθος</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
 [[Exod.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.4|<< Exodus 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.6|Exodus 15:6 >>]]</td></tr></table>
 
 

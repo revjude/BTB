@@ -9,23 +9,23 @@ Draw your water for the siege; strengthen your fortresses. Work the clay and tre
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| for being encompassed about | <span class="asgreek">περιοχής <sup><small><small>[[G4042]]</small></small></sup> </span> |
-| Draw | <span class="asgreek">επίσπασαι <sup><small><small>[[G1986]]</small></small></sup> </span> |
-| to yourself | <span class="asgreek">σεαυτή <sup><small><small>[[G4572]]</small></small></sup> </span> |
-| Secure | <span class="asgreek">κατακράτησον <sup><small><small>[[G7860]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your fortresses! | <span class="asgreek">οχυρωμάτων <sup><small><small>[[G3794]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Step | <span class="asgreek">έμβηθι <sup><small><small>[[G1684]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] mortar, | <span class="asgreek">πηλόν <sup><small><small>[[G4081]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| trample it together | <span class="asgreek">συμπατήθητι <sup><small><small>[[G9271]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| straw! | <span class="asgreek">αχύροις <sup><small><small>[[G0892]]</small></small></sup> </span> |
-| Secure it | <span class="asgreek">κατακράτησον <sup><small><small>[[G7860]]</small></small></sup> </span> |
-| more than | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| \[with\] a brick! | <span class="asgreek">πλίνθον <sup><small><small>[[G8820]]</small></small></sup> </span> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| for being encompassed about | <big><span class="asgreek">περιοχής</span></big> <sup><small><small>[[G4042]]</small></small></sup> |
+| Draw | <big><span class="asgreek">επίσπασαι</span></big> <sup><small><small>[[G1986]]</small></small></sup> |
+| to yourself | <big><span class="asgreek">σεαυτή</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
+| Secure | <big><span class="asgreek">κατακράτησον</span></big> <sup><small><small>[[G7860]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your fortresses! | <big><span class="asgreek">οχυρωμάτων</span></big> <sup><small><small>[[G3794]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Step | <big><span class="asgreek">έμβηθι</span></big> <sup><small><small>[[G1684]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] mortar, | <big><span class="asgreek">πηλόν</span></big> <sup><small><small>[[G4081]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| trample it together | <big><span class="asgreek">συμπατήθητι</span></big> <sup><small><small>[[G9271]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| straw! | <big><span class="asgreek">αχύροις</span></big> <sup><small><small>[[G0892]]</small></small></sup> |
+| Secure it | <big><span class="asgreek">κατακράτησον</span></big> <sup><small><small>[[G7860]]</small></small></sup> |
+| more than | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| \[with\] a brick! | <big><span class="asgreek">πλίνθον</span></big> <sup><small><small>[[G8820]]</small></small></sup> |
 [[Nah.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.13|<< Nahum 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.15|Nahum 3:15 >>]]</td></tr></table>
 
 

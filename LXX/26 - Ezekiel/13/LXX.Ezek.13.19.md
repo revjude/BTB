@@ -9,39 +9,39 @@ You have profaned Me among My people for handfuls of barley and scraps of bread.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they profaned | <span class="asgreek">εβεβήλουν <sup><small><small>[[G0953]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| before | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my people | <span class="asgreek">λαόν <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for | <span class="asgreek">ένεκεν <sup><small><small>[[G1752]]</small></small></sup> </span> |
-| a handful | <span class="asgreek">δρακός <sup><small><small>[[G6968]]</small></small></sup> </span> |
-| of barley, | <span class="asgreek">κριθών <sup><small><small>[[G2915]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| for | <span class="asgreek">ένεκεν <sup><small><small>[[G1752]]</small></small></sup> </span> |
-| pieces | <span class="asgreek">κλασμάτων <sup><small><small>[[G2801]]</small></small></sup> </span> |
-| of bread loaves, | <span class="asgreek">άρτων <sup><small><small>[[G0740]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to kill | <span class="asgreek">αποκτείναι <sup><small><small>[[G0615]]</small></small></sup> </span> |
-| \[the\] souls | <span class="asgreek">ψυχάς <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| who | <span class="asgreek">ας <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| must not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έδει <sup><small><small>[[G1163]]</small></small></sup> </span> |
-| die, | <span class="asgreek">αποθανείν <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to protect | <span class="asgreek">περιποιήσασθαι <sup><small><small>[[G4046]]</small></small></sup> </span> |
-| souls | <span class="asgreek">ψυχάς <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| who | <span class="asgreek">ας <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| must not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">έδει <sup><small><small>[[G1163]]</small></small></sup> </span> |
-| live, | <span class="asgreek">ζήσαι <sup><small><small>[[G2198]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| you declaring | <span class="asgreek">αποφθέγγεσθαι <sup><small><small>[[G0669]]</small></small></sup> <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to a people | <span class="asgreek">λαώ <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| listening to | <span class="asgreek">εισακούοντι <sup><small><small>[[G1522]]</small></small></sup> </span> |
-| vain | <span class="asgreek">μάταια <sup><small><small>[[G3152]]</small></small></sup> </span> |
-| maxims. | <span class="asgreek">αποφθέγματα <sup><small><small>[[G6509]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they profaned | <big><span class="asgreek">εβεβήλουν</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| before | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my people | <big><span class="asgreek">λαόν</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
+| a handful | <big><span class="asgreek">δρακός</span></big> <sup><small><small>[[G6968]]</small></small></sup> |
+| of barley, | <big><span class="asgreek">κριθών</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| for | <big><span class="asgreek">ένεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
+| pieces | <big><span class="asgreek">κλασμάτων</span></big> <sup><small><small>[[G2801]]</small></small></sup> |
+| of bread loaves, | <big><span class="asgreek">άρτων</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to kill | <big><span class="asgreek">αποκτείναι</span></big> <sup><small><small>[[G0615]]</small></small></sup> |
+| \[the\] souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| who | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| must not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έδει</span></big> <sup><small><small>[[G1163]]</small></small></sup> |
+| die, | <big><span class="asgreek">αποθανείν</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to protect | <big><span class="asgreek">περιποιήσασθαι</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
+| souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| who | <big><span class="asgreek">ας</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| must not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">έδει</span></big> <sup><small><small>[[G1163]]</small></small></sup> |
+| live, | <big><span class="asgreek">ζήσαι</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| you declaring | <big><span class="asgreek">αποφθέγγεσθαι</span></big> <sup><small><small>[[G0669]]</small></small></sup> <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to a people | <big><span class="asgreek">λαώ</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| listening to | <big><span class="asgreek">εισακούοντι</span></big> <sup><small><small>[[G1522]]</small></small></sup> |
+| vain | <big><span class="asgreek">μάταια</span></big> <sup><small><small>[[G3152]]</small></small></sup> |
+| maxims. | <big><span class="asgreek">αποφθέγματα</span></big> <sup><small><small>[[G6509]]</small></small></sup> |
 [[Ezek.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.18|<< Ezekiel 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.20|Ezekiel 13:20 >>]]</td></tr></table>
 
 

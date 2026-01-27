@@ -9,25 +9,25 @@ rebelling and denying the LORD, turning away from our God, speaking oppression a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| We were impious, | <span class="asgreek">ησεβήσαμεν <sup><small><small>[[G0764]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lied, | <span class="asgreek">εψευσάμεθα <sup><small><small>[[G5574]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| departed | <span class="asgreek">απέστημεν <sup><small><small>[[G0868]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our God. | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| We spoke | <span class="asgreek">ελαλήσαμεν <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| unjustly, | <span class="asgreek">άδικα <sup><small><small>[[G0094]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we resisted persuasion. | <span class="asgreek">ηπειθήσαμεν <sup><small><small>[[G0544]]</small></small></sup> </span> |
-| We sired, | <span class="asgreek">εκύομεν <sup><small><small>[[G8137]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| meditated | <span class="asgreek">εμελετήσαμεν <sup><small><small>[[G3191]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| our heart | <span class="asgreek">καρδίας <sup><small><small>[[G2588]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| words | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| unjust | <span class="asgreek">αδίκους <sup><small><small>[[G0094]]</small></small></sup> </span> |
+| We were impious, | <big><span class="asgreek">ησεβήσαμεν</span></big> <sup><small><small>[[G0764]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lied, | <big><span class="asgreek">εψευσάμεθα</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| departed | <big><span class="asgreek">απέστημεν</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our God. | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| We spoke | <big><span class="asgreek">ελαλήσαμεν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| unjustly, | <big><span class="asgreek">άδικα</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we resisted persuasion. | <big><span class="asgreek">ηπειθήσαμεν</span></big> <sup><small><small>[[G0544]]</small></small></sup> |
+| We sired, | <big><span class="asgreek">εκύομεν</span></big> <sup><small><small>[[G8137]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| meditated | <big><span class="asgreek">εμελετήσαμεν</span></big> <sup><small><small>[[G3191]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| our heart | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| words | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| unjust | <big><span class="asgreek">αδίκους</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
 [[Isa.59.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.12|<< Isaiah 59:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.14|Isaiah 59:14 >>]]</td></tr></table>
 
 

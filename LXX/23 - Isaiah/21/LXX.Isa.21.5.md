@@ -9,16 +9,16 @@ They prepare a table, they lay out a carpet, they eat, they drink! Rise up, O pr
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Prepare | <span class="asgreek">ετοιμάσατε <sup><small><small>[[G2090]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| table! | <span class="asgreek">τράπεζαν <sup><small><small>[[G5132]]</small></small></sup> </span> |
-| Eat! | <span class="asgreek">φάγετε <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| Drink! | <span class="asgreek">πίετε <sup><small><small>[[G4095]]</small></small></sup> </span> |
-| Rising up | <span class="asgreek">αναστάντες <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| are the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rulers. | <span class="asgreek">άρχοντες <sup><small><small>[[G0758]]</small></small></sup> </span> |
-| Pull up | <span class="asgreek">ανασπάσατε <sup><small><small>[[G0385]]</small></small></sup> </span> |
-| shields! | <span class="asgreek">θυρεούς <sup><small><small>[[G2375]]</small></small></sup> </span> |
+| Prepare | <big><span class="asgreek">ετοιμάσατε</span></big> <sup><small><small>[[G2090]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| table! | <big><span class="asgreek">τράπεζαν</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
+| Eat! | <big><span class="asgreek">φάγετε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| Drink! | <big><span class="asgreek">πίετε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| Rising up | <big><span class="asgreek">αναστάντες</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| are the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rulers. | <big><span class="asgreek">άρχοντες</span></big> <sup><small><small>[[G0758]]</small></small></sup> |
+| Pull up | <big><span class="asgreek">ανασπάσατε</span></big> <sup><small><small>[[G0385]]</small></small></sup> |
+| shields! | <big><span class="asgreek">θυρεούς</span></big> <sup><small><small>[[G2375]]</small></small></sup> |
 [[Isa.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.4|<< Isaiah 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.6|Isaiah 21:6 >>]]</td></tr></table>
 
 

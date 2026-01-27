@@ -9,17 +9,17 @@ For they hear: “Order on order, order on order, line on line, line on line; a 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Affliction | <span class="asgreek">θλίψιν <sup><small><small>[[G2347]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| affliction; | <span class="asgreek">θλίψιν <sup><small><small>[[G2347]]</small></small></sup> </span> |
-| favorably receive | <span class="asgreek">προσδέχου <sup><small><small>[[G4327]]</small></small></sup> </span> |
-| hope | <span class="asgreek">ελπίδα <sup><small><small>[[G1680]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| hope; | <span class="asgreek">ελπίδι <sup><small><small>[[G1680]]</small></small></sup> </span> |
-| still | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| a little, | <span class="asgreek">μικρόν <sup><small><small>[[G3398]]</small></small></sup> </span> |
-| still | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| a little, | <span class="asgreek">μικρόν <sup><small><small>[[G3398]]</small></small></sup> </span> |
+| Affliction | <big><span class="asgreek">θλίψιν</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| affliction; | <big><span class="asgreek">θλίψιν</span></big> <sup><small><small>[[G2347]]</small></small></sup> |
+| favorably receive | <big><span class="asgreek">προσδέχου</span></big> <sup><small><small>[[G4327]]</small></small></sup> |
+| hope | <big><span class="asgreek">ελπίδα</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| hope; | <big><span class="asgreek">ελπίδι</span></big> <sup><small><small>[[G1680]]</small></small></sup> |
+| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| a little, | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
+| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| a little, | <big><span class="asgreek">μικρόν</span></big> <sup><small><small>[[G3398]]</small></small></sup> |
 [[Isa.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.9|<< Isaiah 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.11|Isaiah 28:11 >>]]</td></tr></table>
 
 

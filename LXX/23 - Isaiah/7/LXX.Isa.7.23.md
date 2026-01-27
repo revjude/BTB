@@ -9,25 +9,25 @@ And on that day, in every place that had a thousand vines worth a thousand sheke
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| it will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| that day | <span class="asgreek">ημέρα <sup><small><small>[[G2250]]</small></small></sup> <span class="asgreek">εκείνη <sup><small><small>[[G1565]]</small></small></sup> </span> |
-| \[that\] every | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| place | <span class="asgreek">τόπος <sup><small><small>[[G5117]]</small></small></sup> </span> |
-| where | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| ever | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| might be | <span class="asgreek">ώσι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| a thousand | <span class="asgreek">χίλιαι <sup><small><small>[[G5507]]</small></small></sup> </span> |
-| grapevines | <span class="asgreek">άμπελοι <sup><small><small>[[G0288]]</small></small></sup> </span> |
-| worth a thousand | <span class="asgreek">χιλίων <sup><small><small>[[G5507]]</small></small></sup> </span> |
-| shekels, | <span class="asgreek">σικλών <sup><small><small>[[G9079]]</small></small></sup> </span> |
-|  | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| they shall be uncultivated | <span class="asgreek">χέρσον <sup><small><small>[[G9719]]</small></small></sup> <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| for | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] thorn-bush. | <span class="asgreek">άκανθαν <sup><small><small>[[G0173]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| it will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| that day | <big><span class="asgreek">ημέρα</span></big> <sup><small><small>[[G2250]]</small></small></sup> <big><span class="asgreek">εκείνη</span></big> <sup><small><small>[[G1565]]</small></small></sup> |
+| \[that\] every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| place | <big><span class="asgreek">τόπος</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
+| where | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| ever | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| might be | <big><span class="asgreek">ώσι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| a thousand | <big><span class="asgreek">χίλιαι</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
+| grapevines | <big><span class="asgreek">άμπελοι</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
+| worth a thousand | <big><span class="asgreek">χιλίων</span></big> <sup><small><small>[[G5507]]</small></small></sup> |
+| shekels, | <big><span class="asgreek">σικλών</span></big> <sup><small><small>[[G9079]]</small></small></sup> |
+|  | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| they shall be uncultivated | <big><span class="asgreek">χέρσον</span></big> <sup><small><small>[[G9719]]</small></small></sup> <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| for | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] thorn-bush. | <big><span class="asgreek">άκανθαν</span></big> <sup><small><small>[[G0173]]</small></small></sup> |
 [[Isa.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.22|<< Isaiah 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.24|Isaiah 7:24 >>]]</td></tr></table>
 
 

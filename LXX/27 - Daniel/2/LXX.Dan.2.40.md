@@ -9,26 +9,26 @@ Finally, there will be a fourth kingdom as strong as iron; for iron shatters and
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| kingdom | <span class="asgreek">βασιλεία <sup><small><small>[[G0932]]</small></small></sup> </span> |
-| a fourth | <span class="asgreek">τετάρτη <sup><small><small>[[G5067]]</small></small></sup> </span> |
-| which | <span class="asgreek">ήτις <sup><small><small>[[G3748]]</small></small></sup> </span> |
-| shall be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| strong | <span class="asgreek">ισχυρα <sup><small><small>[[G2478]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| iron, | <span class="asgreek">σίδηρος <sup><small><small>[[G4604]]</small></small></sup> </span> |
-| in which | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| manner | <span class="asgreek">τρόπον <sup><small><small>[[G5158]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| iron | <span class="asgreek">σίδηρος <sup><small><small>[[G4604]]</small></small></sup> </span> |
-| makes fine | <span class="asgreek">λεπτύνει <sup><small><small>[[G8183]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| tames | <span class="asgreek">δαμάζει <sup><small><small>[[G1150]]</small></small></sup> </span> |
-| all \[things\] -- | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| it shall be made fine | <span class="asgreek">λεπτυνεί <sup><small><small>[[G8183]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| be tamed. | <span class="asgreek">δαμάσει <sup><small><small>[[G1150]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| kingdom | <big><span class="asgreek">βασιλεία</span></big> <sup><small><small>[[G0932]]</small></small></sup> |
+| a fourth | <big><span class="asgreek">τετάρτη</span></big> <sup><small><small>[[G5067]]</small></small></sup> |
+| which | <big><span class="asgreek">ήτις</span></big> <sup><small><small>[[G3748]]</small></small></sup> |
+| shall be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| strong | <big><span class="asgreek">ισχυρα</span></big> <sup><small><small>[[G2478]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| iron, | <big><span class="asgreek">σίδηρος</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
+| in which | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| manner | <big><span class="asgreek">τρόπον</span></big> <sup><small><small>[[G5158]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| iron | <big><span class="asgreek">σίδηρος</span></big> <sup><small><small>[[G4604]]</small></small></sup> |
+| makes fine | <big><span class="asgreek">λεπτύνει</span></big> <sup><small><small>[[G8183]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| tames | <big><span class="asgreek">δαμάζει</span></big> <sup><small><small>[[G1150]]</small></small></sup> |
+| all \[things\] -- | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| it shall be made fine | <big><span class="asgreek">λεπτυνεί</span></big> <sup><small><small>[[G8183]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| be tamed. | <big><span class="asgreek">δαμάσει</span></big> <sup><small><small>[[G1150]]</small></small></sup> |
 [[Dan.2.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.39|<< Daniel 2:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.41|Daniel 2:41 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ When You give it to them, they gather it up; when You open Your hand, they are s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[At\] your giving | <span class="asgreek">δόντος <sup><small><small>[[G1325]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to them, | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall collect; | <span class="asgreek">συλλέξουσιν <sup><small><small>[[G4816]]</small></small></sup> </span> |
-| opening | <span class="asgreek">ανοίξαντός <sup><small><small>[[G0455]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| hand, | <span class="asgreek">χείρα <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| all things | <span class="asgreek">σύμπαντα <sup><small><small>[[G9270]]</small></small></sup> </span> |
-| shall be filled | <span class="asgreek">πλησθήσονται <sup><small><small>[[G4130]]</small></small></sup> </span> |
-| \[by\] that which is good. | <span class="asgreek">χρηστότητος <sup><small><small>[[G5544]]</small></small></sup> </span> |
+| \[At\] your giving | <big><span class="asgreek">δόντος</span></big> <sup><small><small>[[G1325]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to them, | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall collect; | <big><span class="asgreek">συλλέξουσιν</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
+| opening | <big><span class="asgreek">ανοίξαντός</span></big> <sup><small><small>[[G0455]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| hand, | <big><span class="asgreek">χείρα</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| all things | <big><span class="asgreek">σύμπαντα</span></big> <sup><small><small>[[G9270]]</small></small></sup> |
+| shall be filled | <big><span class="asgreek">πλησθήσονται</span></big> <sup><small><small>[[G4130]]</small></small></sup> |
+| \[by\] that which is good. | <big><span class="asgreek">χρηστότητος</span></big> <sup><small><small>[[G5544]]</small></small></sup> |
 [[Ps.104.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.27|<< Psalm 104:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.29|Psalm 104:29 >>]]</td></tr></table>
 
 

@@ -9,15 +9,15 @@ The LORD sustains the humble, but casts the wicked to the ground.<small><sub>**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The one taking up | <span class="asgreek">αναλαμβάνων <sup><small><small>[[G0353]]</small></small></sup> </span> |
-| \[the\] gentle ones | <span class="asgreek">πραείς <sup><small><small>[[G4239]]</small></small></sup> </span> |
-| \[is\] the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>; | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| but humbling | <span class="asgreek">ταπεινών <sup><small><small>[[G5013]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| sinners | <span class="asgreek">αμαρτωλούς <sup><small><small>[[G0268]]</small></small></sup> </span> |
-| onto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ground. | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| The one taking up | <big><span class="asgreek">αναλαμβάνων</span></big> <sup><small><small>[[G0353]]</small></small></sup> |
+| \[the\] gentle ones | <big><span class="asgreek">πραείς</span></big> <sup><small><small>[[G4239]]</small></small></sup> |
+| \[is\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| but humbling | <big><span class="asgreek">ταπεινών</span></big> <sup><small><small>[[G5013]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| sinners | <big><span class="asgreek">αμαρτωλούς</span></big> <sup><small><small>[[G0268]]</small></small></sup> |
+| onto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ground. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
 [[Ps.147.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.5|<< Psalm 147:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.7|Psalm 147:7 >>]]</td></tr></table>
 
 

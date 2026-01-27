@@ -9,21 +9,21 @@ One lacking such an offering chooses wood that will not rot. He seeks a skilled 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| wood | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| For | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| incorruptible | <span class="asgreek">άσηπτον <sup><small><small>[[G6568]]</small></small></sup> </span> |
-| chooses | <span class="asgreek">εκλέγεται <sup><small><small>[[G1586]]</small></small></sup> </span> |
-| \[the\] fabricator | <span class="asgreek">τέκτων <sup><small><small>[[G5045]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wisely | <span class="asgreek">σοφώς <sup><small><small>[[G9132]]</small></small></sup> </span> |
-| seeks | <span class="asgreek">ζητεί <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| how | <span class="asgreek">πως <sup><small><small>[[G4459]]</small></small></sup> </span> |
-| to station | <span class="asgreek">στήσει <sup><small><small>[[G2476]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| image, | <span class="asgreek">εικόνα <sup><small><small>[[G1504]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| it should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| be shaken. | <span class="asgreek">σαλεύηται <sup><small><small>[[G4531]]</small></small></sup> </span> |
+| wood | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| For | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| incorruptible | <big><span class="asgreek">άσηπτον</span></big> <sup><small><small>[[G6568]]</small></small></sup> |
+| chooses | <big><span class="asgreek">εκλέγεται</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
+| \[the\] fabricator | <big><span class="asgreek">τέκτων</span></big> <sup><small><small>[[G5045]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wisely | <big><span class="asgreek">σοφώς</span></big> <sup><small><small>[[G9132]]</small></small></sup> |
+| seeks | <big><span class="asgreek">ζητεί</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
+| to station | <big><span class="asgreek">στήσει</span></big> <sup><small><small>[[G2476]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| image, | <big><span class="asgreek">εικόνα</span></big> <sup><small><small>[[G1504]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| it should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| be shaken. | <big><span class="asgreek">σαλεύηται</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
 [[Isa.40.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.19|<< Isaiah 40:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.21|Isaiah 40:21 >>]]</td></tr></table>
 
 

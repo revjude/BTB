@@ -9,14 +9,14 @@ and smashing all the carvings with hatchets and picks.<small><sub>**MT:**</sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[so\]\<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its doors | <span class="asgreek">θύρας <sup><small><small>[[G2374]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| together | <span class="asgreek">επιτοαυτό <sup><small><small>[[G7464]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a hewing axe | <span class="asgreek">πελέκει <sup><small><small>[[G8685]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| chisel | <span class="asgreek">λαξευτηρίω <sup><small><small>[[G8161]]</small></small></sup> </span> |
-| they broke down | <span class="asgreek">κατέρραξαν <sup><small><small>[[G7907]]</small></small></sup> <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[so\]\<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its doors | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| together | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a hewing axe | <big><span class="asgreek">πελέκει</span></big> <sup><small><small>[[G8685]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| chisel | <big><span class="asgreek">λαξευτηρίω</span></big> <sup><small><small>[[G8161]]</small></small></sup> |
+| they broke down | <big><span class="asgreek">κατέρραξαν</span></big> <sup><small><small>[[G7907]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.74.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.5|<< Psalm 74:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.7|Psalm 74:7 >>]]</td></tr></table>
 
 

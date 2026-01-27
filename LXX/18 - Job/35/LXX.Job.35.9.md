@@ -9,14 +9,14 @@ Men cry out under great oppression; they plead for relief from the arm of the mi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| by | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| a multitude | <span class="asgreek">πλήθους <sup><small><small>[[G4128]]</small></small></sup> </span> |
-| The ones being extorted | <span class="asgreek">συκοφαντούμενοι <sup><small><small>[[G4811]]</small></small></sup> </span> |
-| shall cry out; | <span class="asgreek">κεκράξονται <sup><small><small>[[G2896]]</small></small></sup> </span> |
-| they shall yell | <span class="asgreek">βοήσονται <sup><small><small>[[G0994]]</small></small></sup> </span> |
-| because of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] arm | <span class="asgreek">βραχίονος <sup><small><small>[[G1023]]</small></small></sup> </span> |
-| of many. | <span class="asgreek">πολλών <sup><small><small>[[G4183]]</small></small></sup> </span> |
+| by | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| a multitude | <big><span class="asgreek">πλήθους</span></big> <sup><small><small>[[G4128]]</small></small></sup> |
+| The ones being extorted | <big><span class="asgreek">συκοφαντούμενοι</span></big> <sup><small><small>[[G4811]]</small></small></sup> |
+| shall cry out; | <big><span class="asgreek">κεκράξονται</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
+| they shall yell | <big><span class="asgreek">βοήσονται</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
+| because of | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] arm | <big><span class="asgreek">βραχίονος</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
+| of many. | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
 [[Job.35.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.8|<< Job 35:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.10|Job 35:10 >>]]</td></tr></table>
 
 

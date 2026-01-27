@@ -9,15 +9,15 @@ A mountain of God is Mount Bashan; a mountain of many peaks is Mount Bashan.<sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] mountain | <span class="asgreek">όρος <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of God; | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| \[the\] mountain | <span class="asgreek">όρος <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| being plentiful; | <span class="asgreek">πίον <sup><small><small>[[G8798]]</small></small></sup> </span> |
-| \[the\] mountain | <span class="asgreek">όρος <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| for making cheese; | <span class="asgreek">τετυρωμένον <sup><small><small>[[G9518]]</small></small></sup> </span> |
-| \[the\] mountain | <span class="asgreek">όρος <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| being plentiful. | <span class="asgreek">πίον <sup><small><small>[[G8798]]</small></small></sup> </span> |
+| \[The\] mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of God; | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| \[the\] mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| being plentiful; | <big><span class="asgreek">πίον</span></big> <sup><small><small>[[G8798]]</small></small></sup> |
+| \[the\] mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| for making cheese; | <big><span class="asgreek">τετυρωμένον</span></big> <sup><small><small>[[G9518]]</small></small></sup> |
+| \[the\] mountain | <big><span class="asgreek">όρος</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| being plentiful. | <big><span class="asgreek">πίον</span></big> <sup><small><small>[[G8798]]</small></small></sup> |
 [[Ps.68.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.14|<< Psalm 68:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.16|Psalm 68:16 >>]]</td></tr></table>
 
 

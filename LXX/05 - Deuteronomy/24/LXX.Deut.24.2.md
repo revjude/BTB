@@ -9,11 +9,11 @@ If, after leaving his house, she goes and becomes another man’s wife,<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| going forth, | <span class="asgreek">απελθούσα <sup><small><small>[[G0565]]</small></small></sup> </span> |
-| should she become | <span class="asgreek">γένηται <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| man's \[wife\] | <span class="asgreek">ανδρί <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| another | <span class="asgreek">ετέρω <sup><small><small>[[G2087]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| going forth, | <big><span class="asgreek">απελθούσα</span></big> <sup><small><small>[[G0565]]</small></small></sup> |
+| should she become | <big><span class="asgreek">γένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| man's \[wife\] | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| another | <big><span class="asgreek">ετέρω</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
 [[Deut.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.1|<< Deuteronomy 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.3|Deuteronomy 24:3 >>]]</td></tr></table>
 
 

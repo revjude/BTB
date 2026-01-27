@@ -9,15 +9,15 @@ If He were to set His heart to it and withdraw His Spirit and breath,<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| he might want | <span class="asgreek">βούλοιτο <sup><small><small>[[G1014]]</small></small></sup> </span> |
-| to constrain, | <span class="asgreek">συσχείν <sup><small><small>[[G4912]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| spirit | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| by | <span class="asgreek">παρ΄ <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| himself | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to hold down | <span class="asgreek">κατασχείν <sup><small><small>[[G2722]]</small></small></sup> </span> |
+| For if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| he might want | <big><span class="asgreek">βούλοιτο</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
+| to constrain, | <big><span class="asgreek">συσχείν</span></big> <sup><small><small>[[G4912]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| by | <big><span class="asgreek">παρ΄</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| himself | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to hold down | <big><span class="asgreek">κατασχείν</span></big> <sup><small><small>[[G2722]]</small></small></sup> |
 [[Job.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.13|<< Job 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.15|Job 34:15 >>]]</td></tr></table>
 
 

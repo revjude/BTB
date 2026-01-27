@@ -9,15 +9,15 @@ I hate, I despise your feast days, and I will not smell in your solemn assemblie
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I have detested, | <span class="asgreek">μεμίσηκα <sup><small><small>[[G3404]]</small></small></sup> </span> |
-| I have thrust away | <span class="asgreek">απώσμαι <sup><small><small>[[G0683]]</small></small></sup> </span> |
-| your holiday \[feasts\], | <span class="asgreek">εορτάς <sup><small><small>[[G1859]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall I savor | <span class="asgreek">οσφρανθώ <sup><small><small>[[G8562]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your festivals. | <span class="asgreek">πανηγύρεσιν <sup><small><small>[[G3831]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| I have detested, | <big><span class="asgreek">μεμίσηκα</span></big> <sup><small><small>[[G3404]]</small></small></sup> |
+| I have thrust away | <big><span class="asgreek">απώσμαι</span></big> <sup><small><small>[[G0683]]</small></small></sup> |
+| your holiday \[feasts\], | <big><span class="asgreek">εορτάς</span></big> <sup><small><small>[[G1859]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall I savor | <big><span class="asgreek">οσφρανθώ</span></big> <sup><small><small>[[G8562]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your festivals. | <big><span class="asgreek">πανηγύρεσιν</span></big> <sup><small><small>[[G3831]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Amos.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.20|<< Amos 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.22|Amos 5:22 >>]]</td></tr></table>
 
 

@@ -9,19 +9,19 @@ Like a slug that dissolves in its slime, like a woman’s stillborn child, may t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| beeswax | <span class="asgreek">κηρός <sup><small><small>[[G8008]]</small></small></sup> </span> |
-| melting away, | <span class="asgreek">τακείς <sup><small><small>[[G5080]]</small></small></sup> </span> |
-| they shall be taken away in return. | <span class="asgreek">ανταναιρεθήσονται <sup><small><small>[[G6357]]</small></small></sup> </span> |
-| fell | <span class="asgreek">έπεσε <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| Fire | <span class="asgreek">πυρ <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| see | <span class="asgreek">είδον <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sun. | <span class="asgreek">ήλιον <sup><small><small>[[G2246]]</small></small></sup> </span> |
+| As | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| beeswax | <big><span class="asgreek">κηρός</span></big> <sup><small><small>[[G8008]]</small></small></sup> |
+| melting away, | <big><span class="asgreek">τακείς</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
+| they shall be taken away in return. | <big><span class="asgreek">ανταναιρεθήσονται</span></big> <sup><small><small>[[G6357]]</small></small></sup> |
+| fell | <big><span class="asgreek">έπεσε</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| Fire | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| see | <big><span class="asgreek">είδον</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sun. | <big><span class="asgreek">ήλιον</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
 [[Ps.58.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.7|<< Psalm 58:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.9|Psalm 58:9 >>]]</td></tr></table>
 
 

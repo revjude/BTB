@@ -9,15 +9,15 @@ Rise up, O Judge of the earth; render a reward to the proud.<small><sub>**MT:**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Rise up high, | <span class="asgreek">υψώθητι <sup><small><small>[[G5312]]</small></small></sup> </span> |
-| O | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one judging | <span class="asgreek">κρίνων <sup><small><small>[[G2919]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth! | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| Render | <span class="asgreek">απόδος <sup><small><small>[[G0591]]</small></small></sup> </span> |
-| recompense | <span class="asgreek">ανταπόδοσιν <sup><small><small>[[G0469]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| proud! | <span class="asgreek">υπερηφάνοις <sup><small><small>[[G5244]]</small></small></sup> </span> |
+| Rise up high, | <big><span class="asgreek">υψώθητι</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| O | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one judging | <big><span class="asgreek">κρίνων</span></big> <sup><small><small>[[G2919]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth! | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| Render | <big><span class="asgreek">απόδος</span></big> <sup><small><small>[[G0591]]</small></small></sup> |
+| recompense | <big><span class="asgreek">ανταπόδοσιν</span></big> <sup><small><small>[[G0469]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| proud! | <big><span class="asgreek">υπερηφάνοις</span></big> <sup><small><small>[[G5244]]</small></small></sup> |
 [[Ps.94.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.1|<< Psalm 94:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.3|Psalm 94:3 >>]]</td></tr></table>
 
 

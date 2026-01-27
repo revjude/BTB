@@ -9,15 +9,15 @@ You who dwell in the gardens, my companions are listening for your voice. Let me
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| O one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sitting down | <span class="asgreek">καθήμενος <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] gardens, | <span class="asgreek">κήποις <sup><small><small>[[G2779]]</small></small></sup> </span> |
-| \[the\] companions | <span class="asgreek">εταίροι <sup><small><small>[[G2083]]</small></small></sup> </span> |
-| are taking heed | <span class="asgreek">προσέχοντες <sup><small><small>[[G4337]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your voice. | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| You caused me to hear! | <span class="asgreek">ακούτισόν <sup><small><small>[[G6201]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| O one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sitting down | <big><span class="asgreek">καθήμενος</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] gardens, | <big><span class="asgreek">κήποις</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
+| \[the\] companions | <big><span class="asgreek">εταίροι</span></big> <sup><small><small>[[G2083]]</small></small></sup> |
+| are taking heed | <big><span class="asgreek">προσέχοντες</span></big> <sup><small><small>[[G4337]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your voice. | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| You caused me to hear! | <big><span class="asgreek">ακούτισόν</span></big> <sup><small><small>[[G6201]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Song.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.12|<< Song of Solomon 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.14|Song of Solomon 8:14 >>]]</td></tr></table>
 
 

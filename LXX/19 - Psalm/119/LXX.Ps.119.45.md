@@ -9,14 +9,14 @@ And I will walk in freedom, for I have sought Your precepts.<small><sub>**MT:**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I went | <span class="asgreek">επορευόμην <sup><small><small>[[G4198]]</small></small></sup> </span> |
-| into | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| an enlargement; | <span class="asgreek">πλατυσμώ <sup><small><small>[[G8803]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your commandments | <span class="asgreek">εντολάς <sup><small><small>[[G1785]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I sought after | <span class="asgreek">εξεζήτησα <sup><small><small>[[G1567]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I went | <big><span class="asgreek">επορευόμην</span></big> <sup><small><small>[[G4198]]</small></small></sup> |
+| into | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| an enlargement; | <big><span class="asgreek">πλατυσμώ</span></big> <sup><small><small>[[G8803]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your commandments | <big><span class="asgreek">εντολάς</span></big> <sup><small><small>[[G1785]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I sought after | <big><span class="asgreek">εξεζήτησα</span></big> <sup><small><small>[[G1567]]</small></small></sup> |
 [[Ps.119.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.44|<< Psalm 119:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.46|Psalm 119:46 >>]]</td></tr></table>
 
 

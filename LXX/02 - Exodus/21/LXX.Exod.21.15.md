@@ -9,13 +9,13 @@ Whoever strikes his father or mother must surely be put to death.<small><sub>**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Whoever | <span class="asgreek">ος <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| beats | <span class="asgreek">τύπτει <sup><small><small>[[G5180]]</small></small></sup> </span> |
-| his father | <span class="asgreek">πατέρα <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| his mother, | <span class="asgreek">μητέρα <sup><small><small>[[G3384]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to death | <span class="asgreek">θανάτω <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| he should be put to death. | <span class="asgreek">θανατούσθω <sup><small><small>[[G2289]]</small></small></sup> </span> |
+| Whoever | <big><span class="asgreek">ος</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| beats | <big><span class="asgreek">τύπτει</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
+| his father | <big><span class="asgreek">πατέρα</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| his mother, | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to death | <big><span class="asgreek">θανάτω</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| he should be put to death. | <big><span class="asgreek">θανατούσθω</span></big> <sup><small><small>[[G2289]]</small></small></sup> |
 [[Exod.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.14|<< Exodus 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.16|Exodus 21:16 >>]]</td></tr></table>
 
 

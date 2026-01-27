@@ -9,20 +9,20 @@ The sons of Hodiah’s wife, the sister of Naham, were the fathers of Keilah the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of \[his\] wife -- | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| Hodiah | <span class="asgreek">Ωδία <sup><small><small>[[H1941]]</small></small></sup> </span> |
-| \[the\] sister | <span class="asgreek">αδελφης <sup><small><small>[[G0079]]</small></small></sup> </span> |
-| of Naham, | <span class="asgreek">Ναούμ <sup><small><small>[[G3486]]</small></small></sup> </span> |
-| father | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| of Keila | <span class="asgreek">Κεειλά <sup><small><small>[[H7084]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Garmite, | <span class="asgreek">Γαρμί <sup><small><small>[[H1636]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Eshtemoa | <span class="asgreek">Εσθαμά <sup><small><small>[[H0851]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Maachathite. | <span class="asgreek">Μακαθί <sup><small><small>[[H4601]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of \[his\] wife -- | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| Hodiah | <big><span class="asgreek">Ωδία</span></big> <sup><small><small>[[H1941]]</small></small></sup> |
+| \[the\] sister | <big><span class="asgreek">αδελφης</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
+| of Naham, | <big><span class="asgreek">Ναούμ</span></big> <sup><small><small>[[G3486]]</small></small></sup> |
+| father | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| of Keila | <big><span class="asgreek">Κεειλά</span></big> <sup><small><small>[[H7084]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Garmite, | <big><span class="asgreek">Γαρμί</span></big> <sup><small><small>[[H1636]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Eshtemoa | <big><span class="asgreek">Εσθαμά</span></big> <sup><small><small>[[H0851]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Maachathite. | <big><span class="asgreek">Μακαθί</span></big> <sup><small><small>[[H4601]]</small></small></sup> |
 [[1Chr.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.18|<< 1 Chronicles 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.20|1 Chronicles 4:20 >>]]</td></tr></table>
 
 

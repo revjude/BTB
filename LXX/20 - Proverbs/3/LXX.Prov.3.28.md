@@ -9,24 +9,24 @@ Do not tell your neighbor, “Come back tomorrow and I will provide”—when yo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You should not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| say, | <span class="asgreek">είπης <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Returning back, | <span class="asgreek">επανελθών <sup><small><small>[[G1880]]</small></small></sup> </span> |
-| come back again! | <span class="asgreek">επάνηκε <sup><small><small>[[G7364]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| tomorrow | <span class="asgreek">αύριον <sup><small><small>[[G0839]]</small></small></sup> </span> |
-| I will give; | <span class="asgreek">δώσω <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| able | <span class="asgreek">δυνατού <sup><small><small>[[G1415]]</small></small></sup> </span> |
-| \[is\] with you | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[while\] being | <span class="asgreek">όντος <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| good | <span class="asgreek">ευ <sup><small><small>[[G2095]]</small></small></sup> </span> |
-| to do | <span class="asgreek">ποιείν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| for you shall not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| see | <span class="asgreek">οίδας <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| what | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| shall give birth | <span class="asgreek">τέξεται <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| against \[you\]. | <span class="asgreek">επιούσα <sup><small><small>[[G7377]]</small></small></sup> </span> |
+| You should not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| say, | <big><span class="asgreek">είπης</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Returning back, | <big><span class="asgreek">επανελθών</span></big> <sup><small><small>[[G1880]]</small></small></sup> |
+| come back again! | <big><span class="asgreek">επάνηκε</span></big> <sup><small><small>[[G7364]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| tomorrow | <big><span class="asgreek">αύριον</span></big> <sup><small><small>[[G0839]]</small></small></sup> |
+| I will give; | <big><span class="asgreek">δώσω</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| able | <big><span class="asgreek">δυνατού</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
+| \[is\] with you | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[while\] being | <big><span class="asgreek">όντος</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| good | <big><span class="asgreek">ευ</span></big> <sup><small><small>[[G2095]]</small></small></sup> |
+| to do | <big><span class="asgreek">ποιείν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| for you shall not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| see | <big><span class="asgreek">οίδας</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| shall give birth | <big><span class="asgreek">τέξεται</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| against \[you\]. | <big><span class="asgreek">επιούσα</span></big> <sup><small><small>[[G7377]]</small></small></sup> |
 [[Prov.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.27|<< Proverbs 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.29|Proverbs 3:29 >>]]</td></tr></table>
 
 

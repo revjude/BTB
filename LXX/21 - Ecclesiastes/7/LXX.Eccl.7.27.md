@@ -9,17 +9,17 @@ Behold, this have I found, saith the preacher, [counting] one by one, to find ou
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold! | <span class="asgreek">ίδε <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| I found, | <span class="asgreek">εύρον <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| said | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ecclesiastic, | <span class="asgreek">εκκλησιαστής <sup><small><small>[[G7103]]</small></small></sup> </span> |
-| \[counting\] one | <span class="asgreek">μία <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| by | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one, | <span class="asgreek">μία <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| to find | <span class="asgreek">ευρείν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| a device, | <span class="asgreek">λογισμόν <sup><small><small>[[G3053]]</small></small></sup> </span> |
+| Behold! | <big><span class="asgreek">ίδε</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| I found, | <big><span class="asgreek">εύρον</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| said | <big><span class="asgreek">είπεν</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ecclesiastic, | <big><span class="asgreek">εκκλησιαστής</span></big> <sup><small><small>[[G7103]]</small></small></sup> |
+| \[counting\] one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| by | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one, | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| to find | <big><span class="asgreek">ευρείν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| a device, | <big><span class="asgreek">λογισμόν</span></big> <sup><small><small>[[G3053]]</small></small></sup> |
 [[Eccl.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.26|<< Ecclesiastes 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.28|Ecclesiastes 7:28 >>]]</td></tr></table>
 
 

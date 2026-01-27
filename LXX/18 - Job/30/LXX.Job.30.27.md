@@ -9,16 +9,16 @@ I am churning within and cannot rest; days of affliction confront me.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| My belly | <span class="asgreek">κοιλία <sup><small><small>[[G2836]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| erupted, | <span class="asgreek">εξέζεσε <sup><small><small>[[G7091]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| would not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| keep silent; | <span class="asgreek">σιωπήσεται <sup><small><small>[[G4623]]</small></small></sup> </span> |
-| anticipated | <span class="asgreek">προέφθασάν <sup><small><small>[[G4399]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| days | <span class="asgreek">ημέραι <sup><small><small>[[G2250]]</small></small></sup> </span> |
-| of poorness | <span class="asgreek">πτωχείας <sup><small><small>[[G4432]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| My belly | <big><span class="asgreek">κοιλία</span></big> <sup><small><small>[[G2836]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| erupted, | <big><span class="asgreek">εξέζεσε</span></big> <sup><small><small>[[G7091]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| would not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| keep silent; | <big><span class="asgreek">σιωπήσεται</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
+| anticipated | <big><span class="asgreek">προέφθασάν</span></big> <sup><small><small>[[G4399]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| days | <big><span class="asgreek">ημέραι</span></big> <sup><small><small>[[G2250]]</small></small></sup> |
+| of poorness | <big><span class="asgreek">πτωχείας</span></big> <sup><small><small>[[G4432]]</small></small></sup> |
 [[Job.30.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.26|<< Job 30:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.28|Job 30:28 >>]]</td></tr></table>
 
 

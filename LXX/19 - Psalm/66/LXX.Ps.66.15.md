@@ -9,20 +9,20 @@ I will offer You fatlings as burnt offerings, with the fragrant smoke of rams; I
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Whole burnt-offerings | <span class="asgreek">ολοκαυτώματα <sup><small><small>[[G3646]]</small></small></sup> </span> |
-| being filled with marrow | <span class="asgreek">μεμυελωμένα <sup><small><small>[[G8354]]</small></small></sup> </span> |
-| I will offer | <span class="asgreek">ανοίσω <sup><small><small>[[G0399]]</small></small></sup> </span> |
-| to you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| incense | <span class="asgreek">θυμιάματος <sup><small><small>[[G2368]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| rams. | <span class="asgreek">κριών <sup><small><small>[[G8096]]</small></small></sup> </span> |
-| I will offer | <span class="asgreek">ανοίσω <sup><small><small>[[G0399]]</small></small></sup> </span> |
-| to you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| oxen | <span class="asgreek">βόας <sup><small><small>[[G1016]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| winter yearlings. | <span class="asgreek">χιμάρων <sup><small><small>[[G9733]]</small></small></sup> </span> |
-| PAUSE. | <span class="asgreek">διάψαλμα <sup><small><small>[[G6908]]</small></small></sup> </span> |
+| Whole burnt-offerings | <big><span class="asgreek">ολοκαυτώματα</span></big> <sup><small><small>[[G3646]]</small></small></sup> |
+| being filled with marrow | <big><span class="asgreek">μεμυελωμένα</span></big> <sup><small><small>[[G8354]]</small></small></sup> |
+| I will offer | <big><span class="asgreek">ανοίσω</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
+| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| incense | <big><span class="asgreek">θυμιάματος</span></big> <sup><small><small>[[G2368]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| rams. | <big><span class="asgreek">κριών</span></big> <sup><small><small>[[G8096]]</small></small></sup> |
+| I will offer | <big><span class="asgreek">ανοίσω</span></big> <sup><small><small>[[G0399]]</small></small></sup> |
+| to you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| oxen | <big><span class="asgreek">βόας</span></big> <sup><small><small>[[G1016]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| winter yearlings. | <big><span class="asgreek">χιμάρων</span></big> <sup><small><small>[[G9733]]</small></small></sup> |
+| PAUSE. | <big><span class="asgreek">διάψαλμα</span></big> <sup><small><small>[[G6908]]</small></small></sup> |
 [[Ps.66.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.14|<< Psalm 66:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.16|Psalm 66:16 >>]]</td></tr></table>
 
 

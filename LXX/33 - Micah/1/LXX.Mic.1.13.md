@@ -9,24 +9,24 @@ Harness your chariot horses, O dweller of Lachish. You were the beginning of sin
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[even\] noise | <span class="asgreek">ψόφος <sup><small><small>[[G9800]]</small></small></sup> </span> |
-| of chariots | <span class="asgreek">αρμάτων <sup><small><small>[[G0716]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| ones riding. | <span class="asgreek">ιππευόντων <sup><small><small>[[G7728]]</small></small></sup> </span> |
-| Dwelling | <span class="asgreek">κατοικούσα <sup><small><small>[[G2730]]</small></small></sup> </span> |
-| Lachish | <span class="asgreek">Λαχής <sup><small><small>[[H3923]]</small></small></sup> </span> |
-| \[the\] head | <span class="asgreek">αρχηγός <sup><small><small>[[G0747]]</small></small></sup> </span> |
-| of sin | <span class="asgreek">αμαρτίας <sup><small><small>[[G0266]]</small></small></sup> </span> |
-| is | <span class="asgreek">έστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| daughter | <span class="asgreek">θυγατρί <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Zion; | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they found | <span class="asgreek">ευρέθησαν <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| \[the\] impious deeds | <span class="asgreek">ασέβειαι <sup><small><small>[[G0763]]</small></small></sup> </span> |
-| of Israel. | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
+| \[even\] noise | <big><span class="asgreek">ψόφος</span></big> <sup><small><small>[[G9800]]</small></small></sup> |
+| of chariots | <big><span class="asgreek">αρμάτων</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| ones riding. | <big><span class="asgreek">ιππευόντων</span></big> <sup><small><small>[[G7728]]</small></small></sup> |
+| Dwelling | <big><span class="asgreek">κατοικούσα</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
+| Lachish | <big><span class="asgreek">Λαχής</span></big> <sup><small><small>[[H3923]]</small></small></sup> |
+| \[the\] head | <big><span class="asgreek">αρχηγός</span></big> <sup><small><small>[[G0747]]</small></small></sup> |
+| of sin | <big><span class="asgreek">αμαρτίας</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| is | <big><span class="asgreek">έστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| daughter | <big><span class="asgreek">θυγατρί</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Zion; | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they found | <big><span class="asgreek">ευρέθησαν</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| \[the\] impious deeds | <big><span class="asgreek">ασέβειαι</span></big> <sup><small><small>[[G0763]]</small></small></sup> |
+| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
 [[Mic.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.12|<< Micah 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.14|Micah 1:14 >>]]</td></tr></table>
 
 

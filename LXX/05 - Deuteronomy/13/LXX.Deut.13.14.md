@@ -9,25 +9,25 @@ then you must inquire, investigate, and interrogate thoroughly. And if it is est
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| then | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall examine, | <span class="asgreek">ετάσεις <sup><small><small>[[G7521]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall ask, | <span class="asgreek">ερωτήσεις <sup><small><small>[[G2065]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall search | <span class="asgreek">εξερευνήσεις <sup><small><small>[[G7314]]</small></small></sup> </span> |
-| exceedingly; | <span class="asgreek">σφόδρα <sup><small><small>[[G4970]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| true | <span class="asgreek">αληθής <sup><small><small>[[G0227]]</small></small></sup> </span> |
-| \[be\] clearly | <span class="asgreek">σαφώς <sup><small><small>[[G9062]]</small></small></sup> </span> |
-| \[if\] the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| word | <span class="asgreek">λόγος <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| has taken place | <span class="asgreek">γεγένηται <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| abomination | <span class="asgreek">βδέλυγμα <sup><small><small>[[G0946]]</small></small></sup> </span> |
-| \[that\] this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| you; | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall examine, | <big><span class="asgreek">ετάσεις</span></big> <sup><small><small>[[G7521]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall ask, | <big><span class="asgreek">ερωτήσεις</span></big> <sup><small><small>[[G2065]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall search | <big><span class="asgreek">εξερευνήσεις</span></big> <sup><small><small>[[G7314]]</small></small></sup> |
+| exceedingly; | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| true | <big><span class="asgreek">αληθής</span></big> <sup><small><small>[[G0227]]</small></small></sup> |
+| \[be\] clearly | <big><span class="asgreek">σαφώς</span></big> <sup><small><small>[[G9062]]</small></small></sup> |
+| \[if\] the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| word | <big><span class="asgreek">λόγος</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| has taken place | <big><span class="asgreek">γεγένηται</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| abomination | <big><span class="asgreek">βδέλυγμα</span></big> <sup><small><small>[[G0946]]</small></small></sup> |
+| \[that\] this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| you; | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.13|<< Deuteronomy 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.15|Deuteronomy 13:15 >>]]</td></tr></table>
 
 

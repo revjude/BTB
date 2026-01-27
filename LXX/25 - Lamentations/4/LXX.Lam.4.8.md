@@ -11,26 +11,26 @@ But now their appearance is blacker than soot; they are not recognized in the st
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΗΘ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΗΘ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| darkened | <span class="asgreek">εσκότασεν <sup><small><small>[[G9117]]</small></small></sup> </span> |
-| above | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| lamp black | <span class="asgreek">ασβόλην <sup><small><small>[[G6566]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their appearance | <span class="asgreek">είδος <sup><small><small>[[G1491]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they are not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| recognized | <span class="asgreek">επεγνώσθησαν <sup><small><small>[[G1921]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| streets; | <span class="asgreek">εξόδοις <sup><small><small>[[G1841]][[G1473]]</small></small></sup> </span> |
-| was fixed | <span class="asgreek">επάγη <sup><small><small>[[G4078]]</small></small></sup> </span> |
-| their skin | <span class="asgreek">δέρμα <sup><small><small>[[G1192]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| against | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their bones; | <span class="asgreek">οστά <sup><small><small>[[G3747]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they are dried up, | <span class="asgreek">εξηράνθησαν <sup><small><small>[[G3583]]</small></small></sup> </span> |
-| they were | <span class="asgreek">εγενήθησαν <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
-| wood. | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
+| ΗΘ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΗΘ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| darkened | <big><span class="asgreek">εσκότασεν</span></big> <sup><small><small>[[G9117]]</small></small></sup> |
+| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| lamp black | <big><span class="asgreek">ασβόλην</span></big> <sup><small><small>[[G6566]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their appearance | <big><span class="asgreek">είδος</span></big> <sup><small><small>[[G1491]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they are not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| recognized | <big><span class="asgreek">επεγνώσθησαν</span></big> <sup><small><small>[[G1921]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| streets; | <big><span class="asgreek">εξόδοις</span></big> <sup><small><small>[[G1841]][[G1473]]</small></small></sup> |
+| was fixed | <big><span class="asgreek">επάγη</span></big> <sup><small><small>[[G4078]]</small></small></sup> |
+| their skin | <big><span class="asgreek">δέρμα</span></big> <sup><small><small>[[G1192]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| against | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their bones; | <big><span class="asgreek">οστά</span></big> <sup><small><small>[[G3747]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they are dried up, | <big><span class="asgreek">εξηράνθησαν</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| they were | <big><span class="asgreek">εγενήθησαν</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> |
+| wood. | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
 [[Lam.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.7|<< Lamentations 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.9|Lamentations 4:9 >>]]</td></tr></table>
 
 

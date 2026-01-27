@@ -9,24 +9,24 @@ He will be a snake by the road, a viper in the path that bites the horse’s hee
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| let Dan become | <span class="asgreek">γενηθήτω <sup><small><small>[[G1096]]</small></small></sup> <span class="asgreek">Δαν <sup><small><small>[[H1835]]</small></small></sup> </span> |
-| a serpent | <span class="asgreek">όφις <sup><small><small>[[G3789]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] way, | <span class="asgreek">οδού <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| lying in wait | <span class="asgreek">εγκαθήμενος <sup><small><small>[[G7002]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] road, | <span class="asgreek">τρίβου <sup><small><small>[[G5147]]</small></small></sup> </span> |
-| biting | <span class="asgreek">δάκνων <sup><small><small>[[G1143]]</small></small></sup> </span> |
-| \[the\] heel | <span class="asgreek">πτέρναν <sup><small><small>[[G4418]]</small></small></sup> </span> |
-| of \[the\] horse. | <span class="asgreek">ίππου <sup><small><small>[[G2462]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall fall | <span class="asgreek">πεσείται <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| horseman | <span class="asgreek">ιππεύς <sup><small><small>[[G2460]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rear \[places\], | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| let Dan become | <big><span class="asgreek">γενηθήτω</span></big> <sup><small><small>[[G1096]]</small></small></sup> <big><span class="asgreek">Δαν</span></big> <sup><small><small>[[H1835]]</small></small></sup> |
+| a serpent | <big><span class="asgreek">όφις</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] way, | <big><span class="asgreek">οδού</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| lying in wait | <big><span class="asgreek">εγκαθήμενος</span></big> <sup><small><small>[[G7002]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] road, | <big><span class="asgreek">τρίβου</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
+| biting | <big><span class="asgreek">δάκνων</span></big> <sup><small><small>[[G1143]]</small></small></sup> |
+| \[the\] heel | <big><span class="asgreek">πτέρναν</span></big> <sup><small><small>[[G4418]]</small></small></sup> |
+| of \[the\] horse. | <big><span class="asgreek">ίππου</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall fall | <big><span class="asgreek">πεσείται</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| horseman | <big><span class="asgreek">ιππεύς</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
+| upon | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rear \[places\], | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
 [[Gen.49.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.16|<< Genesis 49:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.18|Genesis 49:18 >>]]</td></tr></table>
 
 

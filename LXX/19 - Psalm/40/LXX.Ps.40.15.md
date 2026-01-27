@@ -13,14 +13,14 @@ May those who say to me, “Aha, aha!” be appalled at their own shame.<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Let them carry | <span class="asgreek">κομισάσθωσαν <sup><small><small>[[G2865]]</small></small></sup> </span> |
-| immediately | <span class="asgreek">παραχρήμα <sup><small><small>[[G3916]]</small></small></sup> </span> |
-| their shame -- | <span class="asgreek">αισχύνην <sup><small><small>[[G0152]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones saying | <span class="asgreek">λέγοντές <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| to me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Well done. | <span class="asgreek">εύγε <sup><small><small>[[G7530]]</small></small></sup> </span> |
-| well done. | <span class="asgreek">εύγε <sup><small><small>[[G7530]]</small></small></sup> </span> |
+| Let them carry | <big><span class="asgreek">κομισάσθωσαν</span></big> <sup><small><small>[[G2865]]</small></small></sup> |
+| immediately | <big><span class="asgreek">παραχρήμα</span></big> <sup><small><small>[[G3916]]</small></small></sup> |
+| their shame -- | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones saying | <big><span class="asgreek">λέγοντές</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| to me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Well done. | <big><span class="asgreek">εύγε</span></big> <sup><small><small>[[G7530]]</small></small></sup> |
+| well done. | <big><span class="asgreek">εύγε</span></big> <sup><small><small>[[G7530]]</small></small></sup> |
 [[Ps.40.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.14|<< Psalm 40:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.16|Psalm 40:16 >>]]</td></tr></table>
 
 

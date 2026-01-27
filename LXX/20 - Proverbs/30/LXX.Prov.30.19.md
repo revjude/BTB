@@ -9,23 +9,23 @@ the way of an eagle in the sky, the way of a snake on a rock, the way of a ship 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[the\] traces | <span class="asgreek">ίχνη <sup><small><small>[[G2487]]</small></small></sup> </span> |
-| eagle | <span class="asgreek">αετού <sup><small><small>[[G0105]]</small></small></sup> </span> |
-| of a flying | <span class="asgreek">πετομένου <sup><small><small>[[G4072]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] ways | <span class="asgreek">οδούς <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| of a serpent | <span class="asgreek">όφεως <sup><small><small>[[G3789]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| a rock, | <span class="asgreek">πέτρας <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] paths | <span class="asgreek">τρίβους <sup><small><small>[[G5147]]</small></small></sup> </span> |
-| of a ship | <span class="asgreek">νηός <sup><small><small>[[G3491]]</small></small></sup> </span> |
-| passing through the sea, | <span class="asgreek">ποντοπορούσης <sup><small><small>[[G8864]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] ways | <span class="asgreek">οδούς <sup><small><small>[[G3598]]</small></small></sup> </span> |
-| of a man | <span class="asgreek">ανδρός <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| youth. | <span class="asgreek">νεότητι <sup><small><small>[[G3503]]</small></small></sup> </span> |
+| \[the\] traces | <big><span class="asgreek">ίχνη</span></big> <sup><small><small>[[G2487]]</small></small></sup> |
+| eagle | <big><span class="asgreek">αετού</span></big> <sup><small><small>[[G0105]]</small></small></sup> |
+| of a flying | <big><span class="asgreek">πετομένου</span></big> <sup><small><small>[[G4072]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| of a serpent | <big><span class="asgreek">όφεως</span></big> <sup><small><small>[[G3789]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| a rock, | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] paths | <big><span class="asgreek">τρίβους</span></big> <sup><small><small>[[G5147]]</small></small></sup> |
+| of a ship | <big><span class="asgreek">νηός</span></big> <sup><small><small>[[G3491]]</small></small></sup> |
+| passing through the sea, | <big><span class="asgreek">ποντοπορούσης</span></big> <sup><small><small>[[G8864]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> |
+| of a man | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| youth. | <big><span class="asgreek">νεότητι</span></big> <sup><small><small>[[G3503]]</small></small></sup> |
 [[Prov.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.18|<< Proverbs 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.20|Proverbs 30:20 >>]]</td></tr></table>
 
 

@@ -9,18 +9,18 @@ If I were to count them, they would outnumber the grains of sand; and when I awa
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I shall count | <span class="asgreek">εξαριθμήσομαι <sup><small><small>[[G7300]]</small></small></sup> </span> |
-| them out, | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| above | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| \[the\] sand | <span class="asgreek">άμμον <sup><small><small>[[G0285]]</small></small></sup> </span> |
-| they shall be multiplied; | <span class="asgreek">πληθυνθήσονται <sup><small><small>[[G4129]]</small></small></sup> </span> |
-| I awake, | <span class="asgreek">εξηγέρθην <sup><small><small>[[G1825]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| still | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| I am | <span class="asgreek">ειμί <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| I shall count | <big><span class="asgreek">εξαριθμήσομαι</span></big> <sup><small><small>[[G7300]]</small></small></sup> |
+| them out, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| \[the\] sand | <big><span class="asgreek">άμμον</span></big> <sup><small><small>[[G0285]]</small></small></sup> |
+| they shall be multiplied; | <big><span class="asgreek">πληθυνθήσονται</span></big> <sup><small><small>[[G4129]]</small></small></sup> |
+| I awake, | <big><span class="asgreek">εξηγέρθην</span></big> <sup><small><small>[[G1825]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| still | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| I am | <big><span class="asgreek">ειμί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you. | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.139.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.17|<< Psalm 139:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.19|Psalm 139:19 >>]]</td></tr></table>
 
 

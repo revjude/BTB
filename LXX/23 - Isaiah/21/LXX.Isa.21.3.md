@@ -9,27 +9,27 @@ Therefore my body is filled with anguish. Pain grips me, like the pains of a wom
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Because of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| was filled | <span class="asgreek">ενεπλήσθη <sup><small><small>[[G1705]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my loin | <span class="asgreek">οσφύς <sup><small><small>[[G3751]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with feebleness, | <span class="asgreek">εκλύσεως <sup><small><small>[[G7117]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| pangs | <span class="asgreek">ωδίνες <sup><small><small>[[G5604]]</small></small></sup> </span> |
-| took | <span class="asgreek">έλαβόν <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one giving birth. | <span class="asgreek">τίκτουσαν <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| I transgressed | <span class="asgreek">ηδίκησα <sup><small><small>[[G0091]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| hear, | <span class="asgreek">ακούσαι <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| I hurried | <span class="asgreek">εσπούδασα <sup><small><small>[[G4704]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| see. | <span class="asgreek">βλέπειν <sup><small><small>[[G0991]]</small></small></sup> </span> |
+| Because of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| was filled | <big><span class="asgreek">ενεπλήσθη</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my loin | <big><span class="asgreek">οσφύς</span></big> <sup><small><small>[[G3751]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with feebleness, | <big><span class="asgreek">εκλύσεως</span></big> <sup><small><small>[[G7117]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| pangs | <big><span class="asgreek">ωδίνες</span></big> <sup><small><small>[[G5604]]</small></small></sup> |
+| took | <big><span class="asgreek">έλαβόν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one giving birth. | <big><span class="asgreek">τίκτουσαν</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| I transgressed | <big><span class="asgreek">ηδίκησα</span></big> <sup><small><small>[[G0091]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| hear, | <big><span class="asgreek">ακούσαι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| I hurried | <big><span class="asgreek">εσπούδασα</span></big> <sup><small><small>[[G4704]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| see. | <big><span class="asgreek">βλέπειν</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
 [[Isa.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.2|<< Isaiah 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.4|Isaiah 21:4 >>]]</td></tr></table>
 
 

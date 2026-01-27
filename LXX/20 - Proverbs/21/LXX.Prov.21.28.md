@@ -9,13 +9,13 @@ A lying witness will perish, but the man who listens to truth will speak forever
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| witness | <span class="asgreek">μάρτυς <sup><small><small>[[G3144]]</small></small></sup> </span> |
-| A lying | <span class="asgreek">ψευδής <sup><small><small>[[G5571]]</small></small></sup> </span> |
-| shall perish; | <span class="asgreek">απολείται <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| a man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| \[who is\] subject | <span class="asgreek">υπήκοος <sup><small><small>[[G5255]]</small></small></sup> </span> |
-| guardedly | <span class="asgreek">φυλασσόμενος <sup><small><small>[[G5442]]</small></small></sup> </span> |
-| will speak | <span class="asgreek">λαλήσει <sup><small><small>[[G2980]]</small></small></sup> </span> |
+| witness | <big><span class="asgreek">μάρτυς</span></big> <sup><small><small>[[G3144]]</small></small></sup> |
+| A lying | <big><span class="asgreek">ψευδής</span></big> <sup><small><small>[[G5571]]</small></small></sup> |
+| shall perish; | <big><span class="asgreek">απολείται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| a man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| \[who is\] subject | <big><span class="asgreek">υπήκοος</span></big> <sup><small><small>[[G5255]]</small></small></sup> |
+| guardedly | <big><span class="asgreek">φυλασσόμενος</span></big> <sup><small><small>[[G5442]]</small></small></sup> |
+| will speak | <big><span class="asgreek">λαλήσει</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
 [[Prov.21.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.27|<< Proverbs 21:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.29|Proverbs 21:29 >>]]</td></tr></table>
 
 

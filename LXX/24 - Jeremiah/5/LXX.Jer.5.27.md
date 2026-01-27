@@ -9,21 +9,21 @@ Like cages full of birds, so their houses are full of deceit. Therefore they hav
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| As | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a snare | <span class="asgreek">παγίς <sup><small><small>[[G3803]]</small></small></sup> </span> |
-| having been set | <span class="asgreek">εφεσταμένη <sup><small><small>[[G2186]]</small></small></sup> </span> |
-| \[is\] full | <span class="asgreek">πλήρης <sup><small><small>[[G4134]]</small></small></sup> </span> |
-| of birds, | <span class="asgreek">πετεινών <sup><small><small>[[G4071]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their houses | <span class="asgreek">οίκοι <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[are\] full | <span class="asgreek">πλήρεις <sup><small><small>[[G4134]]</small></small></sup> </span> |
-| of treachery. | <span class="asgreek">δόλου <sup><small><small>[[G1388]]</small></small></sup> </span> |
-| On account of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| this | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| they were magnified, | <span class="asgreek">εμεγαλύνθησαν <sup><small><small>[[G3170]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| enriched. | <span class="asgreek">επλούτησαν <sup><small><small>[[G4147]]</small></small></sup> </span> |
+| As | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a snare | <big><span class="asgreek">παγίς</span></big> <sup><small><small>[[G3803]]</small></small></sup> |
+| having been set | <big><span class="asgreek">εφεσταμένη</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
+| \[is\] full | <big><span class="asgreek">πλήρης</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
+| of birds, | <big><span class="asgreek">πετεινών</span></big> <sup><small><small>[[G4071]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their houses | <big><span class="asgreek">οίκοι</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[are\] full | <big><span class="asgreek">πλήρεις</span></big> <sup><small><small>[[G4134]]</small></small></sup> |
+| of treachery. | <big><span class="asgreek">δόλου</span></big> <sup><small><small>[[G1388]]</small></small></sup> |
+| On account of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| this | <big><span class="asgreek">τούτο</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| they were magnified, | <big><span class="asgreek">εμεγαλύνθησαν</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| enriched. | <big><span class="asgreek">επλούτησαν</span></big> <sup><small><small>[[G4147]]</small></small></sup> |
 [[Jer.5.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.26|<< Jeremiah 5:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.28|Jeremiah 5:28 >>]]</td></tr></table>
 
 

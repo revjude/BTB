@@ -9,16 +9,16 @@ The fool delights in shameful conduct, but a man of understanding has wisdom.<s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| With | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| laughter | <span class="asgreek">γέλωτι <sup><small><small>[[G1071]]</small></small></sup> </span> |
-| a fool | <span class="asgreek">άφρων <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| commits | <span class="asgreek">πράσσει <sup><small><small>[[G4238]]</small></small></sup> </span> |
-| evils; | <span class="asgreek">κακά <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| but | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| wisdom | <span class="asgreek">σοφία <sup><small><small>[[G4678]]</small></small></sup> </span> |
-| to a man | <span class="asgreek">ανδρί <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| births | <span class="asgreek">τίκτει <sup><small><small>[[G5088]]</small></small></sup> </span> |
-| intelligence | <span class="asgreek">φρόνησιν <sup><small><small>[[G5428]]</small></small></sup> </span> |
+| With | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| laughter | <big><span class="asgreek">γέλωτι</span></big> <sup><small><small>[[G1071]]</small></small></sup> |
+| a fool | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| commits | <big><span class="asgreek">πράσσει</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
+| evils; | <big><span class="asgreek">κακά</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| but | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| wisdom | <big><span class="asgreek">σοφία</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
+| to a man | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| births | <big><span class="asgreek">τίκτει</span></big> <sup><small><small>[[G5088]]</small></small></sup> |
+| intelligence | <big><span class="asgreek">φρόνησιν</span></big> <sup><small><small>[[G5428]]</small></small></sup> |
 [[Prov.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.22|<< Proverbs 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.24|Proverbs 10:24 >>]]</td></tr></table>
 
 

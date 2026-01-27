@@ -9,15 +9,15 @@ For the upright will inhabit the land, and the blameless will remain in it;<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| \[the\] upright | <span class="asgreek">ευθείς <sup><small><small>[[G2117]]</small></small></sup> </span> |
-| shall encamp | <span class="asgreek">κατασκηνώσουσι <sup><small><small>[[G2681]]</small></small></sup> </span> |
-| in \[the\] land, | <span class="asgreek">γην <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sacred ones | <span class="asgreek">όσιοι <sup><small><small>[[G3741]]</small></small></sup> </span> |
-| will be left behind | <span class="asgreek">υπολειφθήσονται <sup><small><small>[[G5275]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| it. | <span class="asgreek">αυτή <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| \[the\] upright | <big><span class="asgreek">ευθείς</span></big> <sup><small><small>[[G2117]]</small></small></sup> |
+| shall encamp | <big><span class="asgreek">κατασκηνώσουσι</span></big> <sup><small><small>[[G2681]]</small></small></sup> |
+| in \[the\] land, | <big><span class="asgreek">γην</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sacred ones | <big><span class="asgreek">όσιοι</span></big> <sup><small><small>[[G3741]]</small></small></sup> |
+| will be left behind | <big><span class="asgreek">υπολειφθήσονται</span></big> <sup><small><small>[[G5275]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| it. | <big><span class="asgreek">αυτή</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.20|<< Proverbs 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.22|Proverbs 2:22 >>]]</td></tr></table>
 
 

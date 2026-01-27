@@ -9,16 +9,16 @@ the Oznite clan from Ozni, the Erite clan from Eri,<small><sub>**MT:**</sub></s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Ozni, | <span class="asgreek">Αζέ <sup><small><small>[[H0244a]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Oznites; | <span class="asgreek">Αζενί <sup><small><small>[[H0244a]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Eri, | <span class="asgreek">Αδδί <sup><small><small>[[H2311]]</small></small></sup> </span> |
-| \[the\] people | <span class="asgreek">δήμος <sup><small><small>[[G1218]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Erites; | <span class="asgreek">Αδδί <sup><small><small>[[H2311]]</small></small></sup> </span> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Ozni, | <big><span class="asgreek">Αζέ</span></big> <sup><small><small>[[H0244a]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Oznites; | <big><span class="asgreek">Αζενί</span></big> <sup><small><small>[[H0244a]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Eri, | <big><span class="asgreek">Αδδί</span></big> <sup><small><small>[[H2311]]</small></small></sup> |
+| \[the\] people | <big><span class="asgreek">δήμος</span></big> <sup><small><small>[[G1218]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Erites; | <big><span class="asgreek">Αδδί</span></big> <sup><small><small>[[H2311]]</small></small></sup> |
 [[Num.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.15|<< Numbers 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.17|Numbers 26:17 >>]]</td></tr></table>
 
 

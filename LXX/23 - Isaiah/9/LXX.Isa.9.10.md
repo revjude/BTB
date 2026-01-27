@@ -9,21 +9,21 @@ The bricks are fallen down, but we will build with hewn stones: the sycomores ar
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] bricks | <span class="asgreek">πλίνθοι <sup><small><small>[[G8820]]</small></small></sup> </span> |
-| are fallen, | <span class="asgreek">πεπτώκασιν <sup><small><small>[[G4098]]</small></small></sup> </span> |
-| but | <span class="asgreek">αλλά <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| come, | <span class="asgreek">δεύτε <sup><small><small>[[G1205]]</small></small></sup> </span> |
-| we should dress | <span class="asgreek">λαξεύσωμεν <sup><small><small>[[G8162]]</small></small></sup> </span> |
-| stones. | <span class="asgreek">λίθους <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we should fell | <span class="asgreek">κόψωμεν <sup><small><small>[[G2875]]</small></small></sup> </span> |
-| sycamine trees | <span class="asgreek">συκαμίνους <sup><small><small>[[G4807]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| cedars, | <span class="asgreek">κέδρους <sup><small><small>[[G2748]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we should build | <span class="asgreek">οικοδομήσωμεν <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| for ourselves | <span class="asgreek">εαυτοίς <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| a tower. | <span class="asgreek">πύργον <sup><small><small>[[G4444]]</small></small></sup> </span> |
+| \[The\] bricks | <big><span class="asgreek">πλίνθοι</span></big> <sup><small><small>[[G8820]]</small></small></sup> |
+| are fallen, | <big><span class="asgreek">πεπτώκασιν</span></big> <sup><small><small>[[G4098]]</small></small></sup> |
+| but | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| come, | <big><span class="asgreek">δεύτε</span></big> <sup><small><small>[[G1205]]</small></small></sup> |
+| we should dress | <big><span class="asgreek">λαξεύσωμεν</span></big> <sup><small><small>[[G8162]]</small></small></sup> |
+| stones. | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we should fell | <big><span class="asgreek">κόψωμεν</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
+| sycamine trees | <big><span class="asgreek">συκαμίνους</span></big> <sup><small><small>[[G4807]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| cedars, | <big><span class="asgreek">κέδρους</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we should build | <big><span class="asgreek">οικοδομήσωμεν</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| for ourselves | <big><span class="asgreek">εαυτοίς</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| a tower. | <big><span class="asgreek">πύργον</span></big> <sup><small><small>[[G4444]]</small></small></sup> |
 [[Isa.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.9|<< Isaiah 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.11|Isaiah 9:11 >>]]</td></tr></table>
 
 

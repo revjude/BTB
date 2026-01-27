@@ -9,14 +9,14 @@ The dying man blessed me, and I made the widow’s heart sing for joy.<small><s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[the\] blessing | <span class="asgreek">ευλογία <sup><small><small>[[G2129]]</small></small></sup> </span> |
-| of the one perishing | <span class="asgreek">απολλυμένου <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| come | <span class="asgreek">έλθοι <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| for \[the\] mouth | <span class="asgreek">στόμα <sup><small><small>[[G4750]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of \[the\] widow | <span class="asgreek">χήρας <sup><small><small>[[G5503]]</small></small></sup> </span> |
-| blessed me. | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">ευλόγησε <sup><small><small>[[G2127]]</small></small></sup> </span> |
+| \[the\] blessing | <big><span class="asgreek">ευλογία</span></big> <sup><small><small>[[G2129]]</small></small></sup> |
+| of the one perishing | <big><span class="asgreek">απολλυμένου</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| come | <big><span class="asgreek">έλθοι</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| for \[the\] mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of \[the\] widow | <big><span class="asgreek">χήρας</span></big> <sup><small><small>[[G5503]]</small></small></sup> |
+| blessed me. | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ευλόγησε</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
 [[Job.29.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.12|<< Job 29:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.14|Job 29:14 >>]]</td></tr></table>
 
 

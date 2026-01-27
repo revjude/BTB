@@ -9,25 +9,25 @@ Then the wayward in spirit will come to understanding, and those who grumble wil
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall know | <span class="asgreek">γνώσονται <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wandering | <span class="asgreek">πλανώμενοι <sup><small><small>[[G4105]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| spirit | <span class="asgreek">πνεύματι <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| understanding, | <span class="asgreek">σύνεσιν <sup><small><small>[[G4907]]</small></small></sup> </span> |
-| and the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| grumbling | <span class="asgreek">γογγύζοντες <sup><small><small>[[G1111]]</small></small></sup> </span> |
-| shall learn | <span class="asgreek">μαθήσονται <sup><small><small>[[G3129]]</small></small></sup> </span> |
-| to obey, | <span class="asgreek">υπακούειν <sup><small><small>[[G5219]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tongues | <span class="asgreek">γλώσσαι <sup><small><small>[[G1100]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| stuttering | <span class="asgreek">ψελλίζουσαι <sup><small><small>[[G9789]]</small></small></sup> </span> |
-| shall learn | <span class="asgreek">μαθήσονται <sup><small><small>[[G3129]]</small></small></sup> </span> |
-| to speak | <span class="asgreek">λαλείν <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| peace. | <span class="asgreek">ειρήνην <sup><small><small>[[G1515]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall know | <big><span class="asgreek">γνώσονται</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wandering | <big><span class="asgreek">πλανώμενοι</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
+| in the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| spirit | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| understanding, | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
+| and the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| grumbling | <big><span class="asgreek">γογγύζοντες</span></big> <sup><small><small>[[G1111]]</small></small></sup> |
+| shall learn | <big><span class="asgreek">μαθήσονται</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
+| to obey, | <big><span class="asgreek">υπακούειν</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tongues | <big><span class="asgreek">γλώσσαι</span></big> <sup><small><small>[[G1100]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| stuttering | <big><span class="asgreek">ψελλίζουσαι</span></big> <sup><small><small>[[G9789]]</small></small></sup> |
+| shall learn | <big><span class="asgreek">μαθήσονται</span></big> <sup><small><small>[[G3129]]</small></small></sup> |
+| to speak | <big><span class="asgreek">λαλείν</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| peace. | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
 [[Isa.29.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.23|<< Isaiah 29:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.1|Isaiah 30:1 >>]]</td></tr></table>
 
 

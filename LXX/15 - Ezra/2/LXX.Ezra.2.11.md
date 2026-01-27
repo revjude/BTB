@@ -9,10 +9,10 @@ the descendants of Bebai, 623;<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Bebai -- | <span class="asgreek">Βαβαϊ <sup><small><small>[[H0893]]</small></small></sup> </span> |
-| six hundred | <span class="asgreek">εξακόσιοι <sup><small><small>[[G1812]]</small></small></sup> </span> |
-| twenty-three. | <span class="asgreek">εικοσιτρείς <sup><small><small>[[G7061]]</small></small></sup> </span> |
+| Sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Bebai -- | <big><span class="asgreek">Βαβαϊ</span></big> <sup><small><small>[[H0893]]</small></small></sup> |
+| six hundred | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
+| twenty-three. | <big><span class="asgreek">εικοσιτρείς</span></big> <sup><small><small>[[G7061]]</small></small></sup> |
 [[Ezra.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.10|<< Ezra 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.12|Ezra 2:12 >>]]</td></tr></table>
 
 

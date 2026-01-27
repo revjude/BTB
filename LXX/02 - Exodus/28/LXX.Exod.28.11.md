@@ -9,21 +9,21 @@ Engrave the names of the sons of Israel on the two stones the way a gem cutter e
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| of a stonecutter's | <span class="asgreek">λιθουργικής <sup><small><small>[[G8193]]</small></small></sup> </span> |
-| craft, | <span class="asgreek">τέχνης <sup><small><small>[[G5078]]</small></small></sup> </span> |
-| \[as a\] carving | <span class="asgreek">γλύμμα <sup><small><small>[[G6744]]</small></small></sup> </span> |
-| \[of a\] seal | <span class="asgreek">σφραγίδος <sup><small><small>[[G4973]]</small></small></sup> </span> |
-| you shall carve | <span class="asgreek">διαγλύψεις <sup><small><small>[[G6821]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| stones | <span class="asgreek">λίθους <sup><small><small>[[G3037]]</small></small></sup> </span> |
-| with | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| names | <span class="asgreek">ονόμασι <sup><small><small>[[G3686]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Israel. | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
+| A work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| of a stonecutter's | <big><span class="asgreek">λιθουργικής</span></big> <sup><small><small>[[G8193]]</small></small></sup> |
+| craft, | <big><span class="asgreek">τέχνης</span></big> <sup><small><small>[[G5078]]</small></small></sup> |
+| \[as a\] carving | <big><span class="asgreek">γλύμμα</span></big> <sup><small><small>[[G6744]]</small></small></sup> |
+| \[of a\] seal | <big><span class="asgreek">σφραγίδος</span></big> <sup><small><small>[[G4973]]</small></small></sup> |
+| you shall carve | <big><span class="asgreek">διαγλύψεις</span></big> <sup><small><small>[[G6821]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| stones | <big><span class="asgreek">λίθους</span></big> <sup><small><small>[[G3037]]</small></small></sup> |
+| with | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| names | <big><span class="asgreek">ονόμασι</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιών</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Israel. | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
 [[Exod.28.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.10|<< Exodus 28:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.12|Exodus 28:12 >>]]</td></tr></table>
 
 

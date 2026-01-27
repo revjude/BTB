@@ -9,16 +9,16 @@ You are not to eat anything leavened; eat unleavened bread in all your homes.”
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Anything | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| leavened | <span class="asgreek">ζυμωτόν <sup><small><small>[[G7608]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| eat. | <span class="asgreek">έδεσθε <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| every | <span class="asgreek">παντί <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| home | <span class="asgreek">κατοικητηρίω <sup><small><small>[[G2732]]</small></small></sup> </span> |
-| of yours | <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall eat | <span class="asgreek">έδεσθε <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| unleavened \[breads\]. | <span class="asgreek">άζυμα <sup><small><small>[[G0106]]</small></small></sup> </span> |
+| Anything | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| leavened | <big><span class="asgreek">ζυμωτόν</span></big> <sup><small><small>[[G7608]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| eat. | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| every | <big><span class="asgreek">παντί</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| home | <big><span class="asgreek">κατοικητηρίω</span></big> <sup><small><small>[[G2732]]</small></small></sup> |
+| of yours | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall eat | <big><span class="asgreek">έδεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| unleavened \[breads\]. | <big><span class="asgreek">άζυμα</span></big> <sup><small><small>[[G0106]]</small></small></sup> |
 [[Exod.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.19|<< Exodus 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.21|Exodus 12:21 >>]]</td></tr></table>
 
 

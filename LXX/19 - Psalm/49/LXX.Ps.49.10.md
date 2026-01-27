@@ -9,20 +9,20 @@ For it is clear that wise men die, and the foolish and the senseless both perish
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
-| he should behold | <span class="asgreek">ίδη <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| wise men | <span class="asgreek">σοφούς <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| dying, | <span class="asgreek">αποθνήσκοντας <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| together | <span class="asgreek">επιτοαυτό <sup><small><small>[[G7464]]</small></small></sup> </span> |
-| \[the\] fool | <span class="asgreek">άφρων <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] mindless one | <span class="asgreek">άνους <sup><small><small>[[G6352]]</small></small></sup> </span> |
-| shall perish | <span class="asgreek">απολούνται <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall leave behind | <span class="asgreek">καταλείψουσιν <sup><small><small>[[G2641]]</small></small></sup> </span> |
-| to strangers | <span class="asgreek">αλλοτρίοις <sup><small><small>[[G0245]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their riches | <span class="asgreek">πλούτον <sup><small><small>[[G4149]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Whenever | <big><span class="asgreek">όταν</span></big> <sup><small><small>[[G3752]]</small></small></sup> |
+| he should behold | <big><span class="asgreek">ίδη</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| wise men | <big><span class="asgreek">σοφούς</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| dying, | <big><span class="asgreek">αποθνήσκοντας</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| together | <big><span class="asgreek">επιτοαυτό</span></big> <sup><small><small>[[G7464]]</small></small></sup> |
+| \[the\] fool | <big><span class="asgreek">άφρων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] mindless one | <big><span class="asgreek">άνους</span></big> <sup><small><small>[[G6352]]</small></small></sup> |
+| shall perish | <big><span class="asgreek">απολούνται</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall leave behind | <big><span class="asgreek">καταλείψουσιν</span></big> <sup><small><small>[[G2641]]</small></small></sup> |
+| to strangers | <big><span class="asgreek">αλλοτρίοις</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their riches | <big><span class="asgreek">πλούτον</span></big> <sup><small><small>[[G4149]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.49.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.9|<< Psalm 49:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.11|Psalm 49:11 >>]]</td></tr></table>
 
 

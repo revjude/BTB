@@ -16,28 +16,28 @@ I am sought of [them that] asked not [for me]; I am found of [them that] sought 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| apparent | <span class="asgreek">εμφανής <sup><small><small>[[G1717]]</small></small></sup> </span> |
-| I became | <span class="asgreek">εγενήθην <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| seeking | <span class="asgreek">ζητούσιν <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| I was found | <span class="asgreek">ευρέθην <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| \[by\] the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| asking | <span class="asgreek">επερωτώσιν <sup><small><small>[[G1905]]</small></small></sup> </span> |
-| I said, | <span class="asgreek">είπα <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| Behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| I am -- | <span class="asgreek">ειμι <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nation, | <span class="asgreek">έθνει <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| the ones who | <span class="asgreek">οι <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| call | <span class="asgreek">εκάλεσάν <sup><small><small>[[G2564]]</small></small></sup> </span> |
-| of me | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[by\]\<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| name. | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> </span> |
+| apparent | <big><span class="asgreek">εμφανής</span></big> <sup><small><small>[[G1717]]</small></small></sup> |
+| I became | <big><span class="asgreek">εγενήθην</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| seeking | <big><span class="asgreek">ζητούσιν</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| I was found | <big><span class="asgreek">ευρέθην</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| \[by\] the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| asking | <big><span class="asgreek">επερωτώσιν</span></big> <sup><small><small>[[G1905]]</small></small></sup> |
+| I said, | <big><span class="asgreek">είπα</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| Behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| I am -- | <big><span class="asgreek">ειμι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nation, | <big><span class="asgreek">έθνει</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| the ones who | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| call | <big><span class="asgreek">εκάλεσάν</span></big> <sup><small><small>[[G2564]]</small></small></sup> |
+| of me | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[by\]\<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| name. | <big><span class="asgreek">όνομα</span></big> <sup><small><small>[[G3686]]</small></small></sup> |
 [[Isa.65.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.12|<< Isaiah 64:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.2|Isaiah 65:2 >>]]</td></tr></table>
 
 

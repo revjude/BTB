@@ -9,28 +9,28 @@ Behind the door and doorpost you have set up your memorial. Forsaking Me, you un
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| behind | <span class="asgreek">οπίσω <sup><small><small>[[G3694]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| doorposts | <span class="asgreek">σταθμών <sup><small><small>[[G9150]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your door | <span class="asgreek">θύρας <sup><small><small>[[G2374]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you placed | <span class="asgreek">έθηκας <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| your memorials. | <span class="asgreek">μνημόσυνά <sup><small><small>[[G3422]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[Did\] you think | <span class="asgreek">ελογίσθης <sup><small><small>[[G3049]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should separate | <span class="asgreek">αποστής <sup><small><small>[[G0868]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| more | <span class="asgreek">πλείόν <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| anything | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \[you would\] have | <span class="asgreek">έξειν <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| You loved | <span class="asgreek">ηγάπησας <sup><small><small>[[G0025]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones going to bed | <span class="asgreek">κοιμωμένους <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| you; | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| behind | <big><span class="asgreek">οπίσω</span></big> <sup><small><small>[[G3694]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| doorposts | <big><span class="asgreek">σταθμών</span></big> <sup><small><small>[[G9150]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your door | <big><span class="asgreek">θύρας</span></big> <sup><small><small>[[G2374]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you placed | <big><span class="asgreek">έθηκας</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| your memorials. | <big><span class="asgreek">μνημόσυνά</span></big> <sup><small><small>[[G3422]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[Did\] you think | <big><span class="asgreek">ελογίσθης</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| if | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should separate | <big><span class="asgreek">αποστής</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| more | <big><span class="asgreek">πλείόν</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| anything | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \[you would\] have | <big><span class="asgreek">έξειν</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| You loved | <big><span class="asgreek">ηγάπησας</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones going to bed | <big><span class="asgreek">κοιμωμένους</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| you; | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.57.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.7|<< Isaiah 57:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.9|Isaiah 57:9 >>]]</td></tr></table>
 
 

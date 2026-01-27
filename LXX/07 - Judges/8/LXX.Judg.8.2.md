@@ -9,22 +9,22 @@ But Gideon answered them, “Now what have I accomplished compared to you? Are n
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| What | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| did I \[do\] | <span class="asgreek">εποίησα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| as \[concerning\] | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| you? | <span class="asgreek">υμείς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Is not | <span class="asgreek">ουχί <sup><small><small>[[G3780]]</small></small></sup> </span> |
-| better | <span class="asgreek">κρείσσον <sup><small><small>[[G2908]]</small></small></sup> </span> |
-| \[the\] gleaning | <span class="asgreek">επιφυλλίς <sup><small><small>[[G7470]]</small></small></sup> </span> |
-| of Ephraim | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
-| than | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| \[the\] gathering the crops | <span class="asgreek">τρυγητός <sup><small><small>[[G9506]]</small></small></sup> </span> |
-| of Abiezer? | <span class="asgreek">Αβιέζερ <sup><small><small>[[H0044]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| What | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| did I \[do\] | <big><span class="asgreek">εποίησα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| as \[concerning\] | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| you? | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Is not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
+| better | <big><span class="asgreek">κρείσσον</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
+| \[the\] gleaning | <big><span class="asgreek">επιφυλλίς</span></big> <sup><small><small>[[G7470]]</small></small></sup> |
+| of Ephraim | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| \[the\] gathering the crops | <big><span class="asgreek">τρυγητός</span></big> <sup><small><small>[[G9506]]</small></small></sup> |
+| of Abiezer? | <big><span class="asgreek">Αβιέζερ</span></big> <sup><small><small>[[H0044]]</small></small></sup> |
 [[Judg.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.1|<< Judges 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.3|Judges 8:3 >>]]</td></tr></table>
 
 

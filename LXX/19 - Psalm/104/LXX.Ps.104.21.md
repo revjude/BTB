@@ -9,17 +9,17 @@ The young lions roar for their prey and seek their food from God.<small><sub>**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[Lion\] cubs | <span class="asgreek">σκύμνοι <sup><small><small>[[G9121]]</small></small></sup> </span> |
-| roaring | <span class="asgreek">ωρυόμενοι <sup><small><small>[[G5612]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to seize by force; | <span class="asgreek">αρπάσαι <sup><small><small>[[G0726]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| seeking | <span class="asgreek">ζητήσαι <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| from | <span class="asgreek">παρά <sup><small><small>[[G3844]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεώ <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| food | <span class="asgreek">βρώσιν <sup><small><small>[[G1035]]</small></small></sup> </span> |
-| for themselves. | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[Lion\] cubs | <big><span class="asgreek">σκύμνοι</span></big> <sup><small><small>[[G9121]]</small></small></sup> |
+| roaring | <big><span class="asgreek">ωρυόμενοι</span></big> <sup><small><small>[[G5612]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to seize by force; | <big><span class="asgreek">αρπάσαι</span></big> <sup><small><small>[[G0726]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| seeking | <big><span class="asgreek">ζητήσαι</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| from | <big><span class="asgreek">παρά</span></big> <sup><small><small>[[G3844]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| God | <big><span class="asgreek">θεώ</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| food | <big><span class="asgreek">βρώσιν</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
+| for themselves. | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.104.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.20|<< Psalm 104:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.22|Psalm 104:22 >>]]</td></tr></table>
 
 

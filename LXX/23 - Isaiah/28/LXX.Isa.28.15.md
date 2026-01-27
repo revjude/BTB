@@ -9,33 +9,33 @@ For you said, “We have made a covenant with death; we have fashioned an agreem
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| you said, | <span class="asgreek">είπατε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| We made | <span class="asgreek">εποιήσαμεν <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| a covenant | <span class="asgreek">διαθήκην <sup><small><small>[[G1242]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hades, | <span class="asgreek">άδου <sup><small><small>[[G0086]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| death | <span class="asgreek">θανάτου <sup><small><small>[[G2288]]</small></small></sup> </span> |
-| treaties | <span class="asgreek">συνθηκας <sup><small><small>[[G9326]]</small></small></sup> </span> |
-| a gale | <span class="asgreek">καταιγίς <sup><small><small>[[G7844]]</small></small></sup> </span> |
-| being brought | <span class="asgreek">φερομένη <sup><small><small>[[G5342]]</small></small></sup> </span> |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| should go by, | <span class="asgreek">παρέλθη <sup><small><small>[[G3928]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| should it come | <span class="asgreek">έλθη <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| to us. | <span class="asgreek">ημίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| We made | <span class="asgreek">εθήκαμεν <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| \[the\] lie | <span class="asgreek">ψεύδος <sup><small><small>[[G5579]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our hope, | <span class="asgreek">ελπίδα <sup><small><small>[[G1680]]</small></small></sup> <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| by the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lie | <span class="asgreek">ψεύδει <sup><small><small>[[G5579]]</small></small></sup> </span> |
-| we shall be sheltered. | <span class="asgreek">σκεπασθησόμεθα <sup><small><small>[[G9095]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| you said, | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| We made | <big><span class="asgreek">εποιήσαμεν</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| a covenant | <big><span class="asgreek">διαθήκην</span></big> <sup><small><small>[[G1242]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hades, | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| death | <big><span class="asgreek">θανάτου</span></big> <sup><small><small>[[G2288]]</small></small></sup> |
+| treaties | <big><span class="asgreek">συνθηκας</span></big> <sup><small><small>[[G9326]]</small></small></sup> |
+| a gale | <big><span class="asgreek">καταιγίς</span></big> <sup><small><small>[[G7844]]</small></small></sup> |
+| being brought | <big><span class="asgreek">φερομένη</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| should go by, | <big><span class="asgreek">παρέλθη</span></big> <sup><small><small>[[G3928]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| should it come | <big><span class="asgreek">έλθη</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| to us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| We made | <big><span class="asgreek">εθήκαμεν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| \[the\] lie | <big><span class="asgreek">ψεύδος</span></big> <sup><small><small>[[G5579]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our hope, | <big><span class="asgreek">ελπίδα</span></big> <sup><small><small>[[G1680]]</small></small></sup> <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| by the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lie | <big><span class="asgreek">ψεύδει</span></big> <sup><small><small>[[G5579]]</small></small></sup> |
+| we shall be sheltered. | <big><span class="asgreek">σκεπασθησόμεθα</span></big> <sup><small><small>[[G9095]]</small></small></sup> |
 [[Isa.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.14|<< Isaiah 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.16|Isaiah 28:16 >>]]</td></tr></table>
 
 

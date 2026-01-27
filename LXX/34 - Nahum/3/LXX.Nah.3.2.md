@@ -9,18 +9,18 @@ The crack of the whip, the rumble of the wheel, galloping horse and bounding cha
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] sound | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of whips, | <span class="asgreek">μαστίγων <sup><small><small>[[G3148]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] sound | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of quaking | <span class="asgreek">σεισμού <sup><small><small>[[G4578]]</small></small></sup> </span> |
-| of wheels, | <span class="asgreek">τροχών <sup><small><small>[[G5164]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| horse | <span class="asgreek">ίππου <sup><small><small>[[G2462]]</small></small></sup> </span> |
-| \[the\] pursuing | <span class="asgreek">διώκοντος <sup><small><small>[[G1377]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] chariot | <span class="asgreek">άρματος <sup><small><small>[[G0716]]</small></small></sup> </span> |
-| stirring up, | <span class="asgreek">αναβράσσοντος <sup><small><small>[[G6277]]</small></small></sup> </span> |
+| \[The\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of whips, | <big><span class="asgreek">μαστίγων</span></big> <sup><small><small>[[G3148]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of quaking | <big><span class="asgreek">σεισμού</span></big> <sup><small><small>[[G4578]]</small></small></sup> |
+| of wheels, | <big><span class="asgreek">τροχών</span></big> <sup><small><small>[[G5164]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| horse | <big><span class="asgreek">ίππου</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| \[the\] pursuing | <big><span class="asgreek">διώκοντος</span></big> <sup><small><small>[[G1377]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] chariot | <big><span class="asgreek">άρματος</span></big> <sup><small><small>[[G0716]]</small></small></sup> |
+| stirring up, | <big><span class="asgreek">αναβράσσοντος</span></big> <sup><small><small>[[G6277]]</small></small></sup> |
 [[Nah.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.1|<< Nahum 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.3|Nahum 3:3 >>]]</td></tr></table>
 
 

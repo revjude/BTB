@@ -9,27 +9,27 @@ I have cut off the nations: their towers are desolate; I made their streets wast
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I tore down | <span class="asgreek">κατέσπασα <sup><small><small>[[G7924]]</small></small></sup> </span> |
-| \[the\] proud; | <span class="asgreek">υπερηφάνους <sup><small><small>[[G5244]]</small></small></sup> </span> |
-| were obliterated | <span class="asgreek">ηφανίσθησαν <sup><small><small>[[G0853]]</small></small></sup> </span> |
-| their corners | <span class="asgreek">γωνίαι <sup><small><small>[[G1137]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I shall make quite desolate | <span class="asgreek">εξερήμωσω <sup><small><small>[[G7315]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their ways | <span class="asgreek">οδούς <sup><small><small>[[G3598]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| thoroughly, | <span class="asgreek">παράπαν <sup><small><small>[[G8630]]</small></small></sup> </span> |
-| \[so as\]\<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| travel through. | <span class="asgreek">διοδεύειν <sup><small><small>[[G1353]]</small></small></sup> </span> |
-| vanished | <span class="asgreek">εξέλιπον <sup><small><small>[[G1587]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their cities | <span class="asgreek">πόλεις <sup><small><small>[[G4172]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| by reason of | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| no one | <span class="asgreek">μηδένα <sup><small><small>[[G3367]]</small></small></sup> </span> |
-| to exist | <span class="asgreek">υπάρχειν <sup><small><small>[[G5225]]</small></small></sup> </span> |
-| nor | <span class="asgreek">μηδέ <sup><small><small>[[G3366]]</small></small></sup> </span> |
-| to dwell \[in them\]. | <span class="asgreek">κατοικείν <sup><small><small>[[G2730]]</small></small></sup> </span> |
+| I tore down | <big><span class="asgreek">κατέσπασα</span></big> <sup><small><small>[[G7924]]</small></small></sup> |
+| \[the\] proud; | <big><span class="asgreek">υπερηφάνους</span></big> <sup><small><small>[[G5244]]</small></small></sup> |
+| were obliterated | <big><span class="asgreek">ηφανίσθησαν</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| their corners | <big><span class="asgreek">γωνίαι</span></big> <sup><small><small>[[G1137]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I shall make quite desolate | <big><span class="asgreek">εξερήμωσω</span></big> <sup><small><small>[[G7315]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their ways | <big><span class="asgreek">οδούς</span></big> <sup><small><small>[[G3598]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| thoroughly, | <big><span class="asgreek">παράπαν</span></big> <sup><small><small>[[G8630]]</small></small></sup> |
+| \[so as\]\<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| travel through. | <big><span class="asgreek">διοδεύειν</span></big> <sup><small><small>[[G1353]]</small></small></sup> |
+| vanished | <big><span class="asgreek">εξέλιπον</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their cities | <big><span class="asgreek">πόλεις</span></big> <sup><small><small>[[G4172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| by reason of | <big><span class="asgreek">διά</span></big> <sup><small><small>[[G1223]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| no one | <big><span class="asgreek">μηδένα</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
+| to exist | <big><span class="asgreek">υπάρχειν</span></big> <sup><small><small>[[G5225]]</small></small></sup> |
+| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
+| to dwell \[in them\]. | <big><span class="asgreek">κατοικείν</span></big> <sup><small><small>[[G2730]]</small></small></sup> |
 [[Zeph.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.5|<< Zephaniah 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.7|Zephaniah 3:7 >>]]</td></tr></table>
 
 

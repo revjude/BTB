@@ -9,21 +9,21 @@ But ye have profaned it, in that ye say, The table of the LORD [is] polluted; an
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But you | <span class="asgreek">υμείς <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| profane | <span class="asgreek">βεβηλούτε <sup><small><small>[[G0953]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτό <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your saying, | <span class="asgreek">λέγειν <sup><small><small>[[G3004]]</small></small></sup> <span class="asgreek">υμάς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[The\] table | <span class="asgreek">τράπεζα <sup><small><small>[[G5132]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| is polluted; | <span class="asgreek">ηλισγημένη <sup><small><small>[[G6225]]</small></small></sup> <span class="asgreek">εστί <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| placed upon \[it\] | <span class="asgreek">επιτιθέμενα <sup><small><small>[[G2007]]</small></small></sup> </span> |
-| \[are\] treated with contempt | <span class="asgreek">εξουδένωται <sup><small><small>[[G1847]]</small></small></sup> </span> |
-| foods | <span class="asgreek">βρώματα <sup><small><small>[[G1033]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| But you | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| profane | <big><span class="asgreek">βεβηλούτε</span></big> <sup><small><small>[[G0953]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτό</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your saying, | <big><span class="asgreek">λέγειν</span></big> <sup><small><small>[[G3004]]</small></small></sup> <big><span class="asgreek">υμάς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[The\] table | <big><span class="asgreek">τράπεζα</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| is polluted; | <big><span class="asgreek">ηλισγημένη</span></big> <sup><small><small>[[G6225]]</small></small></sup> <big><span class="asgreek">εστί</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| placed upon \[it\] | <big><span class="asgreek">επιτιθέμενα</span></big> <sup><small><small>[[G2007]]</small></small></sup> |
+| \[are\] treated with contempt | <big><span class="asgreek">εξουδένωται</span></big> <sup><small><small>[[G1847]]</small></small></sup> |
+| foods | <big><span class="asgreek">βρώματα</span></big> <sup><small><small>[[G1033]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Mal.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.11|<< Malachi 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.13|Malachi 1:13 >>]]</td></tr></table>
 
 

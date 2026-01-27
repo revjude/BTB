@@ -9,16 +9,16 @@ Cherubim and palm trees were carved on the wall of the outer sanctuary from the 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| From | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| floor | <span class="asgreek">εδάφους <sup><small><small>[[G1475]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| fretwork, | <span class="asgreek">φατνώματος <sup><small><small>[[G9625]]</small></small></sup> </span> |
-| cherubim | <span class="asgreek">χερουβείμ <sup><small><small>[[G5502]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| palms | <span class="asgreek">φοίνικες <sup><small><small>[[G5404]]</small></small></sup> </span> |
-| having been carved. | <span class="asgreek">διαγεγλυμμένοι <sup><small><small>[[G6821]]</small></small></sup> </span> |
+| From | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| floor | <big><span class="asgreek">εδάφους</span></big> <sup><small><small>[[G1475]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| fretwork, | <big><span class="asgreek">φατνώματος</span></big> <sup><small><small>[[G9625]]</small></small></sup> |
+| cherubim | <big><span class="asgreek">χερουβείμ</span></big> <sup><small><small>[[G5502]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| palms | <big><span class="asgreek">φοίνικες</span></big> <sup><small><small>[[G5404]]</small></small></sup> |
+| having been carved. | <big><span class="asgreek">διαγεγλυμμένοι</span></big> <sup><small><small>[[G6821]]</small></small></sup> |
 [[Ezek.41.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.19|<< Ezekiel 41:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.21|Ezekiel 41:21 >>]]</td></tr></table>
 
 

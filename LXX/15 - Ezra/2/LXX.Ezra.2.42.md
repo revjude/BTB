@@ -9,25 +9,25 @@ The gatekeepers: the descendants of Shallum, the descendants of Ater, the descen
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| gatekeepers -- | <span class="asgreek">πυλωρών <sup><small><small>[[G8988]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Shallum, | <span class="asgreek">Σελλούμ <sup><small><small>[[H7968]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Ater, | <span class="asgreek">Ατήρ <sup><small><small>[[H0333]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Telmon, | <span class="asgreek">Τελμών <sup><small><small>[[H2929]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Akkub, | <span class="asgreek">Ακούβ <sup><small><small>[[H6126]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Hatita, | <span class="asgreek">Ατιτά <sup><small><small>[[H2410]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Shobai, | <span class="asgreek">Σωβαϊ <sup><small><small>[[H7630]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in all -- | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| a hundred | <span class="asgreek">εκατόν <sup><small><small>[[G1540]]</small></small></sup> </span> |
-| thirty-nine. | <span class="asgreek">τριακονταεννέα <sup><small><small>[[G9474]]</small></small></sup> </span> |
+| \[The\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| gatekeepers -- | <big><span class="asgreek">πυλωρών</span></big> <sup><small><small>[[G8988]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Shallum, | <big><span class="asgreek">Σελλούμ</span></big> <sup><small><small>[[H7968]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Ater, | <big><span class="asgreek">Ατήρ</span></big> <sup><small><small>[[H0333]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Telmon, | <big><span class="asgreek">Τελμών</span></big> <sup><small><small>[[H2929]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Akkub, | <big><span class="asgreek">Ακούβ</span></big> <sup><small><small>[[H6126]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Hatita, | <big><span class="asgreek">Ατιτά</span></big> <sup><small><small>[[H2410]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Shobai, | <big><span class="asgreek">Σωβαϊ</span></big> <sup><small><small>[[H7630]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in all -- | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
+| thirty-nine. | <big><span class="asgreek">τριακονταεννέα</span></big> <sup><small><small>[[G9474]]</small></small></sup> |
 [[Ezra.2.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.41|<< Ezra 2:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.43|Ezra 2:43 >>]]</td></tr></table>
 
 

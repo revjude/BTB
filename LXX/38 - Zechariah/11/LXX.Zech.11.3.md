@@ -9,22 +9,22 @@ Listen to the wailing of the shepherds, for their glory is in ruins. Listen to t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A sound | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of wailing | <span class="asgreek">θρηνούντων <sup><small><small>[[G2354]]</small></small></sup> </span> |
-| of shepherds, | <span class="asgreek">ποιμένων <sup><small><small>[[G4166]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| languishes | <span class="asgreek">τεταλαιπώρηκεν <sup><small><small>[[G5003]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their greatness | <span class="asgreek">μεγαλωσύνη <sup><small><small>[[G3172]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| A sound | <span class="asgreek">φωνή <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| of roaring | <span class="asgreek">ωρυομένων <sup><small><small>[[G5612]]</small></small></sup> </span> |
-| lions, | <span class="asgreek">λεόντων <sup><small><small>[[G3023]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| languishes | <span class="asgreek">τεταλαιπώρηκεν <sup><small><small>[[G5003]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| neighing | <span class="asgreek">φρύαγμα <sup><small><small>[[G9668]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Jordan | <span class="asgreek">Ιορδάνου <sup><small><small>[[G2446]]</small></small></sup> </span> |
+| A sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of wailing | <big><span class="asgreek">θρηνούντων</span></big> <sup><small><small>[[G2354]]</small></small></sup> |
+| of shepherds, | <big><span class="asgreek">ποιμένων</span></big> <sup><small><small>[[G4166]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| languishes | <big><span class="asgreek">τεταλαιπώρηκεν</span></big> <sup><small><small>[[G5003]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their greatness | <big><span class="asgreek">μεγαλωσύνη</span></big> <sup><small><small>[[G3172]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| A sound | <big><span class="asgreek">φωνή</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| of roaring | <big><span class="asgreek">ωρυομένων</span></big> <sup><small><small>[[G5612]]</small></small></sup> |
+| lions, | <big><span class="asgreek">λεόντων</span></big> <sup><small><small>[[G3023]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| languishes | <big><span class="asgreek">τεταλαιπώρηκεν</span></big> <sup><small><small>[[G5003]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| neighing | <big><span class="asgreek">φρύαγμα</span></big> <sup><small><small>[[G9668]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Jordan | <big><span class="asgreek">Ιορδάνου</span></big> <sup><small><small>[[G2446]]</small></small></sup> |
 [[Zech.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.2|<< Zechariah 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.4|Zechariah 11:4 >>]]</td></tr></table>
 
 

@@ -9,22 +9,22 @@ But you are cast out of your grave like a rejected branch, covered by those slai
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| But you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| shall be tossed | <span class="asgreek">ριφήση <sup><small><small>[[G4496]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| mountains | <span class="asgreek">όρεσιν <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| dead, | <span class="asgreek">νεκρός <sup><small><small>[[G3498]]</small></small></sup> </span> |
-| being abhorred | <span class="asgreek">εβδελυγμένος <sup><small><small>[[G0948]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλών <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| having died | <span class="asgreek">τεθνηκότων <sup><small><small>[[G2348]]</small></small></sup> </span> |
-| being stabbed | <span class="asgreek">εκκεκεντημένων <sup><small><small>[[G1574]]</small></small></sup> </span> |
-| by a sword, | <span class="asgreek">μαχαίρα <sup><small><small>[[G3162]]</small></small></sup> </span> |
-| going down | <span class="asgreek">καταβαινόντων <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| Hades. | <span class="asgreek">άδου <sup><small><small>[[G0086]]</small></small></sup> </span> |
+| But you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| shall be tossed | <big><span class="asgreek">ριφήση</span></big> <sup><small><small>[[G4496]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| mountains | <big><span class="asgreek">όρεσιν</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| dead, | <big><span class="asgreek">νεκρός</span></big> <sup><small><small>[[G3498]]</small></small></sup> |
+| being abhorred | <big><span class="asgreek">εβδελυγμένος</span></big> <sup><small><small>[[G0948]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλών</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| having died | <big><span class="asgreek">τεθνηκότων</span></big> <sup><small><small>[[G2348]]</small></small></sup> |
+| being stabbed | <big><span class="asgreek">εκκεκεντημένων</span></big> <sup><small><small>[[G1574]]</small></small></sup> |
+| by a sword, | <big><span class="asgreek">μαχαίρα</span></big> <sup><small><small>[[G3162]]</small></small></sup> |
+| going down | <big><span class="asgreek">καταβαινόντων</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| Hades. | <big><span class="asgreek">άδου</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
 [[Isa.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.18|<< Isaiah 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.20|Isaiah 14:20 >>]]</td></tr></table>
 
 

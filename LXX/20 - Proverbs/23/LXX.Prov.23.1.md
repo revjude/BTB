@@ -12,17 +12,17 @@ When you sit down to dine with a ruler, consider carefully what is set before yo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
-| you should sit | <span class="asgreek">καθίσης <sup><small><small>[[G2523]]</small></small></sup> </span> |
-| to have supper | <span class="asgreek">δειπνήσαι <sup><small><small>[[G1172]]</small></small></sup> </span> |
-| at | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] table | <span class="asgreek">τραπέζης <sup><small><small>[[G5132]]</small></small></sup> </span> |
-| of a monarch, | <span class="asgreek">δυνάστου <sup><small><small>[[G1413]]</small></small></sup> </span> |
-| intelligibly | <span class="asgreek">νοητώς <sup><small><small>[[G8401]]</small></small></sup> </span> |
-| comprehend | <span class="asgreek">νόει <sup><small><small>[[G3539]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being placed near | <span class="asgreek">παρατιθέμενά <sup><small><small>[[G3908]]</small></small></sup> </span> |
-| you! | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">εάν</span></big> <sup><small><small>[[G1437]]</small></small></sup> |
+| you should sit | <big><span class="asgreek">καθίσης</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
+| to have supper | <big><span class="asgreek">δειπνήσαι</span></big> <sup><small><small>[[G1172]]</small></small></sup> |
+| at | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] table | <big><span class="asgreek">τραπέζης</span></big> <sup><small><small>[[G5132]]</small></small></sup> |
+| of a monarch, | <big><span class="asgreek">δυνάστου</span></big> <sup><small><small>[[G1413]]</small></small></sup> |
+| intelligibly | <big><span class="asgreek">νοητώς</span></big> <sup><small><small>[[G8401]]</small></small></sup> |
+| comprehend | <big><span class="asgreek">νόει</span></big> <sup><small><small>[[G3539]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being placed near | <big><span class="asgreek">παρατιθέμενά</span></big> <sup><small><small>[[G3908]]</small></small></sup> |
+| you! | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.29|<< Proverbs 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.2|Proverbs 23:2 >>]]</td></tr></table>
 
 

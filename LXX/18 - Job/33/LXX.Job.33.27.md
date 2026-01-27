@@ -9,21 +9,21 @@ Then he sings before men with these words: ‘I have sinned and perverted what w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Even | <span class="asgreek">είτα <sup><small><small>[[G1534]]</small></small></sup> </span> |
-| then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| blame | <span class="asgreek">απομέμψεται <sup><small><small>[[G6460]]</small></small></sup> </span> |
-| a man | <span class="asgreek">άνθρωπος <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| himself, | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">εαυτώ <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| What \[things\] | <span class="asgreek">οία <sup><small><small>[[G3634]]</small></small></sup> </span> |
-| have I completed? | <span class="asgreek">συνετέλουν <sup><small><small>[[G4931]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| worth | <span class="asgreek">άξια <sup><small><small>[[G0514]]</small></small></sup> </span> |
-| he chastised | <span class="asgreek">ήτασέ <sup><small><small>[[G7521]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| what | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I sinned. | <span class="asgreek">ήμαρτον <sup><small><small>[[G0264]]</small></small></sup> </span> |
+| Even | <big><span class="asgreek">είτα</span></big> <sup><small><small>[[G1534]]</small></small></sup> |
+| then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| blame | <big><span class="asgreek">απομέμψεται</span></big> <sup><small><small>[[G6460]]</small></small></sup> |
+| a man | <big><span class="asgreek">άνθρωπος</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| himself, | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| saying, | <big><span class="asgreek">λέγων</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| What \[things\] | <big><span class="asgreek">οία</span></big> <sup><small><small>[[G3634]]</small></small></sup> |
+| have I completed? | <big><span class="asgreek">συνετέλουν</span></big> <sup><small><small>[[G4931]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| worth | <big><span class="asgreek">άξια</span></big> <sup><small><small>[[G0514]]</small></small></sup> |
+| he chastised | <big><span class="asgreek">ήτασέ</span></big> <sup><small><small>[[G7521]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| what | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I sinned. | <big><span class="asgreek">ήμαρτον</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
 [[Job.33.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.26|<< Job 33:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.28|Job 33:28 >>]]</td></tr></table>
 
 

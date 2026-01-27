@@ -9,20 +9,20 @@ My beloved has gone down to his garden, to the beds of spices, to pasture his fl
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| My beloved \[man\] | <span class="asgreek">αδελφιδός <sup><small><small>[[G6137]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| went down | <span class="asgreek">κατέβη <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| his garden, | <span class="asgreek">κήπον <sup><small><small>[[G2779]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| bowls | <span class="asgreek">φιάλας <sup><small><small>[[G5357]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| aromatics, | <span class="asgreek">αρώματος <sup><small><small>[[G0759]]</small></small></sup> </span> |
-| to tend | <span class="asgreek">ποιμαίνειν <sup><small><small>[[G4165]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| gardens, | <span class="asgreek">κήποις <sup><small><small>[[G2779]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to collect | <span class="asgreek">συλλέγειν <sup><small><small>[[G4816]]</small></small></sup> </span> |
-| lilies. | <span class="asgreek">κρίνα <sup><small><small>[[G2918]]</small></small></sup> </span> |
+| My beloved \[man\] | <big><span class="asgreek">αδελφιδός</span></big> <sup><small><small>[[G6137]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| went down | <big><span class="asgreek">κατέβη</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| his garden, | <big><span class="asgreek">κήπον</span></big> <sup><small><small>[[G2779]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| bowls | <big><span class="asgreek">φιάλας</span></big> <sup><small><small>[[G5357]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| aromatics, | <big><span class="asgreek">αρώματος</span></big> <sup><small><small>[[G0759]]</small></small></sup> |
+| to tend | <big><span class="asgreek">ποιμαίνειν</span></big> <sup><small><small>[[G4165]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| gardens, | <big><span class="asgreek">κήποις</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to collect | <big><span class="asgreek">συλλέγειν</span></big> <sup><small><small>[[G4816]]</small></small></sup> |
+| lilies. | <big><span class="asgreek">κρίνα</span></big> <sup><small><small>[[G2918]]</small></small></sup> |
 [[Song.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.1|<< Song of Solomon 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.3|Song of Solomon 6:3 >>]]</td></tr></table>
 
 

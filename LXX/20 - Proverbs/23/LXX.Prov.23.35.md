@@ -9,26 +9,26 @@ They have stricken me, [shalt thou say, and] I was not sick; they have beaten me
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and you shall say, | <span class="asgreek">ερείς <sup><small><small>[[G2046]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| They beat | <span class="asgreek">έτυπτόν <sup><small><small>[[G5180]]</small></small></sup> </span> |
-| me, | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I did not have | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| pain; | <span class="asgreek">επόνεσα <sup><small><small>[[G8862]]</small></small></sup> </span> |
-| and, | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| They mocked | <span class="asgreek">ενέπαιξάν <sup><small><small>[[G1702]]</small></small></sup> </span> |
-| me, | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| did not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| know. | <span class="asgreek">ήδειν <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| When | <span class="asgreek">πότε <sup><small><small>[[G4219]]</small></small></sup> </span> |
-| will it be dawn | <span class="asgreek">όρθρος <sup><small><small>[[G3722]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| coming | <span class="asgreek">ελθών <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| I shall seek | <span class="asgreek">ζητήσω <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| after | <span class="asgreek">μεθ΄ <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| one who | <span class="asgreek">ων <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| shall go together with me to \[drink\]? | <span class="asgreek">συνελεύσομαι <sup><small><small>[[G4905]]</small></small></sup> </span> |
+| and you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| They beat | <big><span class="asgreek">έτυπτόν</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
+| me, | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I did not have | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| pain; | <big><span class="asgreek">επόνεσα</span></big> <sup><small><small>[[G8862]]</small></small></sup> |
+| and, | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| They mocked | <big><span class="asgreek">ενέπαιξάν</span></big> <sup><small><small>[[G1702]]</small></small></sup> |
+| me, | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| did not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| know. | <big><span class="asgreek">ήδειν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| When | <big><span class="asgreek">πότε</span></big> <sup><small><small>[[G4219]]</small></small></sup> |
+| will it be dawn | <big><span class="asgreek">όρθρος</span></big> <sup><small><small>[[G3722]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| coming | <big><span class="asgreek">ελθών</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| I shall seek | <big><span class="asgreek">ζητήσω</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| after | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| one who | <big><span class="asgreek">ων</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| shall go together with me to \[drink\]? | <big><span class="asgreek">συνελεύσομαι</span></big> <sup><small><small>[[G4905]]</small></small></sup> |
 [[Prov.23.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.34|<< Proverbs 23:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.1|Proverbs 24:1 >>]]</td></tr></table>
 
 

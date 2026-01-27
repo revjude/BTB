@@ -9,25 +9,25 @@ They will be wasted from hunger and ravaged by pestilence and bitter plague; I w
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| melting \[them\] away | <span class="asgreek">τηκόμενοι <sup><small><small>[[G5080]]</small></small></sup> </span> |
-| in hunger, | <span class="asgreek">λιμώ <sup><small><small>[[G3042]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| being food | <span class="asgreek">βρώσει <sup><small><small>[[G1035]]</small></small></sup> </span> |
-| of fowls, | <span class="asgreek">ορνέων <sup><small><small>[[G3732]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| convulsion | <span class="asgreek">οπισθότονος <sup><small><small>[[G8533]]</small></small></sup> </span> |
-| incurable | <span class="asgreek">ανίατος <sup><small><small>[[G6345]]</small></small></sup> </span> |
-| \[The\] teeth | <span class="asgreek">οδόντας <sup><small><small>[[G3599]]</small></small></sup> </span> |
-| of wild beasts | <span class="asgreek">θηρίων <sup><small><small>[[G2342]]</small></small></sup> </span> |
-| I will send as a successor | <span class="asgreek">επαποστελώ <sup><small><small>[[G7369]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| rage | <span class="asgreek">θυμού <sup><small><small>[[G2372]]</small></small></sup> </span> |
-| dragging \[them\] | <span class="asgreek">συρόντων <sup><small><small>[[G4951]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ground. | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| melting \[them\] away | <big><span class="asgreek">τηκόμενοι</span></big> <sup><small><small>[[G5080]]</small></small></sup> |
+| in hunger, | <big><span class="asgreek">λιμώ</span></big> <sup><small><small>[[G3042]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| being food | <big><span class="asgreek">βρώσει</span></big> <sup><small><small>[[G1035]]</small></small></sup> |
+| of fowls, | <big><span class="asgreek">ορνέων</span></big> <sup><small><small>[[G3732]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| convulsion | <big><span class="asgreek">οπισθότονος</span></big> <sup><small><small>[[G8533]]</small></small></sup> |
+| incurable | <big><span class="asgreek">ανίατος</span></big> <sup><small><small>[[G6345]]</small></small></sup> |
+| \[The\] teeth | <big><span class="asgreek">οδόντας</span></big> <sup><small><small>[[G3599]]</small></small></sup> |
+| of wild beasts | <big><span class="asgreek">θηρίων</span></big> <sup><small><small>[[G2342]]</small></small></sup> |
+| I will send as a successor | <big><span class="asgreek">επαποστελώ</span></big> <sup><small><small>[[G7369]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| rage | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
+| dragging \[them\] | <big><span class="asgreek">συρόντων</span></big> <sup><small><small>[[G4951]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ground. | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
 [[Deut.32.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.23|<< Deuteronomy 32:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.25|Deuteronomy 32:25 >>]]</td></tr></table>
 
 

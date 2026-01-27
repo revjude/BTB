@@ -9,18 +9,18 @@ Because the Israelites are My servants, whom I brought out of the land of Egypt,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Because | <span class="asgreek">διότι <sup><small><small>[[G1360]]</small></small></sup> </span> |
-| my servants | <span class="asgreek">οικέται <sup><small><small>[[G3610]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| these are | <span class="asgreek">εισίν <sup><small><small>[[G1510]]</small></small></sup> <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| whom | <span class="asgreek">ους <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| I led out | <span class="asgreek">εξήγαγον <sup><small><small>[[G1806]]</small></small></sup> </span> |
-| of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] land | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of Egypt. | <span class="asgreek">Αιγύπτου <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| They shall not be sold | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">πραθήσονται <sup><small><small>[[G4097]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a sale | <span class="asgreek">πράσει <sup><small><small>[[G8876]]</small></small></sup> </span> |
-| of a domestic servant. | <span class="asgreek">οικέτου <sup><small><small>[[G3610]]</small></small></sup> </span> |
+| Because | <big><span class="asgreek">διότι</span></big> <sup><small><small>[[G1360]]</small></small></sup> |
+| my servants | <big><span class="asgreek">οικέται</span></big> <sup><small><small>[[G3610]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| these are | <big><span class="asgreek">εισίν</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| I led out | <big><span class="asgreek">εξήγαγον</span></big> <sup><small><small>[[G1806]]</small></small></sup> |
+| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of Egypt. | <big><span class="asgreek">Αιγύπτου</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| They shall not be sold | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">πραθήσονται</span></big> <sup><small><small>[[G4097]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a sale | <big><span class="asgreek">πράσει</span></big> <sup><small><small>[[G8876]]</small></small></sup> |
+| of a domestic servant. | <big><span class="asgreek">οικέτου</span></big> <sup><small><small>[[G3610]]</small></small></sup> |
 [[Lev.25.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.41|<< Leviticus 25:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.43|Leviticus 25:43 >>]]</td></tr></table>
 
 

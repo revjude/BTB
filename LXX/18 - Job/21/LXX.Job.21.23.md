@@ -9,15 +9,15 @@ One man dies full of vigor, completely secure and at ease.<small><sub>**MT:**</
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| This one | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| shall die | <span class="asgreek">αποθανείται <sup><small><small>[[G0599]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] might | <span class="asgreek">κράτει <sup><small><small>[[G2904]]</small></small></sup> </span> |
-| of his singleness \[of purpose\], | <span class="asgreek">απλοσύνης <sup><small><small>[[G6415]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but entirely | <span class="asgreek">όλος <sup><small><small>[[G3650]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| enjoying pleasure | <span class="asgreek">ευπαθών <sup><small><small>[[G7556]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| prospering; | <span class="asgreek">ευθηνών <sup><small><small>[[G7541]]</small></small></sup> </span> |
+| This one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| shall die | <big><span class="asgreek">αποθανείται</span></big> <sup><small><small>[[G0599]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] might | <big><span class="asgreek">κράτει</span></big> <sup><small><small>[[G2904]]</small></small></sup> |
+| of his singleness \[of purpose\], | <big><span class="asgreek">απλοσύνης</span></big> <sup><small><small>[[G6415]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but entirely | <big><span class="asgreek">όλος</span></big> <sup><small><small>[[G3650]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| enjoying pleasure | <big><span class="asgreek">ευπαθών</span></big> <sup><small><small>[[G7556]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| prospering; | <big><span class="asgreek">ευθηνών</span></big> <sup><small><small>[[G7541]]</small></small></sup> |
 [[Job.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.22|<< Job 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.24|Job 21:24 >>]]</td></tr></table>
 
 

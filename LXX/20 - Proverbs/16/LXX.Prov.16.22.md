@@ -9,14 +9,14 @@ Understanding is a fountain of life to its possessor, but the discipline of fool
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] spring | <span class="asgreek">πηγή <sup><small><small>[[G4077]]</small></small></sup> </span> |
-| of life | <span class="asgreek">ζωής <sup><small><small>[[G2222]]</small></small></sup> </span> |
-| \[is\] insight | <span class="asgreek">έννοια <sup><small><small>[[G1771]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| acquiring; | <span class="asgreek">κεκτημένοις <sup><small><small>[[G2932]]</small></small></sup> </span> |
-| but \[the\] instruction | <span class="asgreek">παιδεία <sup><small><small>[[G3809]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of fools | <span class="asgreek">αφρόνων <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| \[is\] evil. | <span class="asgreek">κακή <sup><small><small>[[G2556]]</small></small></sup> </span> |
+| \[The\] spring | <big><span class="asgreek">πηγή</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
+| of life | <big><span class="asgreek">ζωής</span></big> <sup><small><small>[[G2222]]</small></small></sup> |
+| \[is\] insight | <big><span class="asgreek">έννοια</span></big> <sup><small><small>[[G1771]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| acquiring; | <big><span class="asgreek">κεκτημένοις</span></big> <sup><small><small>[[G2932]]</small></small></sup> |
+| but \[the\] instruction | <big><span class="asgreek">παιδεία</span></big> <sup><small><small>[[G3809]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of fools | <big><span class="asgreek">αφρόνων</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| \[is\] evil. | <big><span class="asgreek">κακή</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
 [[Prov.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.21|<< Proverbs 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.23|Proverbs 16:23 >>]]</td></tr></table>
 
 

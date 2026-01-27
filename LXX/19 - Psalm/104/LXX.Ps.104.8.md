@@ -9,16 +9,16 @@ the mountains rose and the valleys sank to the place You assigned for them—<s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They ascend | <span class="asgreek">αναβαίνουσιν <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| \[the\] mountains, | <span class="asgreek">όρη <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| go down | <span class="asgreek">καταβαίνουσι <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| to \[the\] plains, | <span class="asgreek">πεδία <sup><small><small>[[G8676]]</small></small></sup> </span> |
-| to | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a place | <span class="asgreek">τόπον <sup><small><small>[[G5117]]</small></small></sup> </span> |
-| where | <span class="asgreek">ον <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you laid a foundation | <span class="asgreek">εθεμελίωσας <sup><small><small>[[G2311]]</small></small></sup> </span> |
-| for them. | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| They ascend | <big><span class="asgreek">αναβαίνουσιν</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| \[the\] mountains, | <big><span class="asgreek">όρη</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| go down | <big><span class="asgreek">καταβαίνουσι</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| to \[the\] plains, | <big><span class="asgreek">πεδία</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
+| to | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a place | <big><span class="asgreek">τόπον</span></big> <sup><small><small>[[G5117]]</small></small></sup> |
+| where | <big><span class="asgreek">ον</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you laid a foundation | <big><span class="asgreek">εθεμελίωσας</span></big> <sup><small><small>[[G2311]]</small></small></sup> |
+| for them. | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.104.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.7|<< Psalm 104:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.9|Psalm 104:9 >>]]</td></tr></table>
 
 

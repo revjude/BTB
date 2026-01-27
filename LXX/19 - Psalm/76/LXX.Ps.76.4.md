@@ -9,12 +9,12 @@ You are resplendent with light, more majestic than mountains filled with game.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| give light | <span class="asgreek">φωτίζεις <sup><small><small>[[G5461]]</small></small></sup> </span> |
-| You | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| wonderfully | <span class="asgreek">θαυμαστώς <sup><small><small>[[G7644]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| mountains | <span class="asgreek">ορέων <sup><small><small>[[G3735]]</small></small></sup> </span> |
-| \[the\] eternal | <span class="asgreek">αιωνίων <sup><small><small>[[G0166]]</small></small></sup> </span> |
+| give light | <big><span class="asgreek">φωτίζεις</span></big> <sup><small><small>[[G5461]]</small></small></sup> |
+| You | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| wonderfully | <big><span class="asgreek">θαυμαστώς</span></big> <sup><small><small>[[G7644]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| mountains | <big><span class="asgreek">ορέων</span></big> <sup><small><small>[[G3735]]</small></small></sup> |
+| \[the\] eternal | <big><span class="asgreek">αιωνίων</span></big> <sup><small><small>[[G0166]]</small></small></sup> |
 [[Ps.76.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.3|<< Psalm 76:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.5|Psalm 76:5 >>]]</td></tr></table>
 
 

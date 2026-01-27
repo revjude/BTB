@@ -13,12 +13,12 @@ I believed, therefore I said, “I am greatly afflicted.”<small><sub>**MT:**<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I trusted, | <span class="asgreek">επίστευσα <sup><small><small>[[G4100]]</small></small></sup> </span> |
-| therefore | <span class="asgreek">διό <sup><small><small>[[G1352]]</small></small></sup> </span> |
-| I spoke; | <span class="asgreek">ελάλησα <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| but I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| was humbled | <span class="asgreek">εταπεινώθην <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| exceedingly. | <span class="asgreek">σφόδρα <sup><small><small>[[G4970]]</small></small></sup> </span> |
+| I trusted, | <big><span class="asgreek">επίστευσα</span></big> <sup><small><small>[[G4100]]</small></small></sup> |
+| therefore | <big><span class="asgreek">διό</span></big> <sup><small><small>[[G1352]]</small></small></sup> |
+| I spoke; | <big><span class="asgreek">ελάλησα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| but I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| was humbled | <big><span class="asgreek">εταπεινώθην</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| exceedingly. | <big><span class="asgreek">σφόδρα</span></big> <sup><small><small>[[G4970]]</small></small></sup> |
 [[Ps.116.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.9|<< Psalm 116:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.11|Psalm 116:11 >>]]</td></tr></table>
 
 

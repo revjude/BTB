@@ -13,29 +13,29 @@ Sheol beneath is eager to meet you upon your arrival. It stirs the spirits of th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Hades | <span class="asgreek">άδης <sup><small><small>[[G0086]]</small></small></sup> </span> |
-| from below | <span class="asgreek">κάτωθεν <sup><small><small>[[G7985]]</small></small></sup> </span> |
-| was embittered | <span class="asgreek">επικράνθη <sup><small><small>[[G4087]]</small></small></sup> </span> |
-| meeting with | <span class="asgreek">συναντήσας <sup><small><small>[[G4876]]</small></small></sup> </span> |
-| you; | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| were risen up together | <span class="asgreek">συνηγέρθησάν <sup><small><small>[[G4891]]</small></small></sup> </span> |
-| against you | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| giants | <span class="asgreek">γίγαντες <sup><small><small>[[G6736]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ruling | <span class="asgreek">άρξαντες <sup><small><small>[[G0756]]</small></small></sup> </span> |
-| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| earth | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rising | <span class="asgreek">εγείραντες <sup><small><small>[[G1453]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their thrones, | <span class="asgreek">θρόνων <sup><small><small>[[G2362]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \[the\] kings | <span class="asgreek">βασιλείς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of \[the\] nations. | <span class="asgreek">εθνών <sup><small><small>[[G1484]]</small></small></sup> </span> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Hades | <big><span class="asgreek">άδης</span></big> <sup><small><small>[[G0086]]</small></small></sup> |
+| from below | <big><span class="asgreek">κάτωθεν</span></big> <sup><small><small>[[G7985]]</small></small></sup> |
+| was embittered | <big><span class="asgreek">επικράνθη</span></big> <sup><small><small>[[G4087]]</small></small></sup> |
+| meeting with | <big><span class="asgreek">συναντήσας</span></big> <sup><small><small>[[G4876]]</small></small></sup> |
+| you; | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| were risen up together | <big><span class="asgreek">συνηγέρθησάν</span></big> <sup><small><small>[[G4891]]</small></small></sup> |
+| against you | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| giants | <big><span class="asgreek">γίγαντες</span></big> <sup><small><small>[[G6736]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ruling | <big><span class="asgreek">άρξαντες</span></big> <sup><small><small>[[G0756]]</small></small></sup> |
+| the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| earth | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rising | <big><span class="asgreek">εγείραντες</span></big> <sup><small><small>[[G1453]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their thrones, | <big><span class="asgreek">θρόνων</span></big> <sup><small><small>[[G2362]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \[the\] kings | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of \[the\] nations. | <big><span class="asgreek">εθνών</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
 [[Isa.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.8|<< Isaiah 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.10|Isaiah 14:10 >>]]</td></tr></table>
 
 

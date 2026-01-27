@@ -12,22 +12,22 @@ This is the burden against Tyre: Wail, O ships of Tarshish, for Tyre is laid was
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| matter | <span class="asgreek">ρήμα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| of Tyre. | <span class="asgreek">Τύρου <sup><small><small>[[G5184]]</small></small></sup> </span> |
-| Shriek | <span class="asgreek">ολολύξατε <sup><small><small>[[G3649]]</small></small></sup> </span> |
-| O boats | <span class="asgreek">πλοία <sup><small><small>[[G4143]]</small></small></sup> </span> |
-| of Carthage! | <span class="asgreek">Καρχηδόνος <sup><small><small>[[H8659]]</small></small></sup> </span> |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| she perished, | <span class="asgreek">απώλετο <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| no longer | <span class="asgreek">ουκέτι <sup><small><small>[[G3765]]</small></small></sup> </span> |
-| do they come | <span class="asgreek">έρχονται <sup><small><small>[[G2064]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] land | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of Chittim; | <span class="asgreek">Κιτιαίων <sup><small><small>[[H3794]]</small></small></sup> </span> |
-| she is led | <span class="asgreek">ήκται <sup><small><small>[[G0071]]</small></small></sup> </span> |
-| captive. | <span class="asgreek">αιχμάλωτος <sup><small><small>[[G0164]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| matter | <big><span class="asgreek">ρήμα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| of Tyre. | <big><span class="asgreek">Τύρου</span></big> <sup><small><small>[[G5184]]</small></small></sup> |
+| Shriek | <big><span class="asgreek">ολολύξατε</span></big> <sup><small><small>[[G3649]]</small></small></sup> |
+| O boats | <big><span class="asgreek">πλοία</span></big> <sup><small><small>[[G4143]]</small></small></sup> |
+| of Carthage! | <big><span class="asgreek">Καρχηδόνος</span></big> <sup><small><small>[[H8659]]</small></small></sup> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| she perished, | <big><span class="asgreek">απώλετο</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| no longer | <big><span class="asgreek">ουκέτι</span></big> <sup><small><small>[[G3765]]</small></small></sup> |
+| do they come | <big><span class="asgreek">έρχονται</span></big> <sup><small><small>[[G2064]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] land | <big><span class="asgreek">γης</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of Chittim; | <big><span class="asgreek">Κιτιαίων</span></big> <sup><small><small>[[H3794]]</small></small></sup> |
+| she is led | <big><span class="asgreek">ήκται</span></big> <sup><small><small>[[G0071]]</small></small></sup> |
+| captive. | <big><span class="asgreek">αιχμάλωτος</span></big> <sup><small><small>[[G0164]]</small></small></sup> |
 [[Isa.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.25|<< Isaiah 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.2|Isaiah 23:2 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ You will still be eating the old supply of grain when you need to clear it out t
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall eat | <span class="asgreek">φάγεσθε <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] old | <span class="asgreek">παλαιά <sup><small><small>[[G3820]]</small></small></sup> </span> |
-| \[of the\] old, | <span class="asgreek">παλαιών <sup><small><small>[[G3820]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] old | <span class="asgreek">παλαιά <sup><small><small>[[G3820]]</small></small></sup> </span> |
-| in | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| front of | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| \[the\] new | <span class="asgreek">νέων <sup><small><small>[[G3501]]</small></small></sup> </span> |
-| you shall bring forth | <span class="asgreek">εξοίσετε <sup><small><small>[[G1627]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall eat | <big><span class="asgreek">φάγεσθε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] old | <big><span class="asgreek">παλαιά</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
+| \[of the\] old, | <big><span class="asgreek">παλαιών</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] old | <big><span class="asgreek">παλαιά</span></big> <sup><small><small>[[G3820]]</small></small></sup> |
+| in | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| front of | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| \[the\] new | <big><span class="asgreek">νέων</span></big> <sup><small><small>[[G3501]]</small></small></sup> |
+| you shall bring forth | <big><span class="asgreek">εξοίσετε</span></big> <sup><small><small>[[G1627]]</small></small></sup> |
 [[Lev.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.9|<< Leviticus 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.11|Leviticus 26:11 >>]]</td></tr></table>
 
 

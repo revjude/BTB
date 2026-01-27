@@ -9,26 +9,26 @@ You are not to reap the aftergrowth of your harvest or gather the grapes of your
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| by itself | <span class="asgreek">αυτόματα <sup><small><small>[[G0844]]</small></small></sup> </span> |
-| \[produce\] ascending | <span class="asgreek">αναβαίνοντα <sup><small><small>[[G0305]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in your field | <span class="asgreek">αγρού <sup><small><small>[[G0068]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| reap up, | <span class="asgreek">εκθερισείς <sup><small><small>[[G7093]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| grape | <span class="asgreek">σταφυλήν <sup><small><small>[[G4718]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your sanctification | <span class="asgreek">αγιάσματός <sup><small><small>[[G6114]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| gather in the vintage; | <span class="asgreek">εκτρυγήσεις <sup><small><small>[[G7162]]</small></small></sup> </span> |
-| a year's | <span class="asgreek">ενιαυτός <sup><small><small>[[G1763]]</small></small></sup> </span> |
-| rest | <span class="asgreek">αναπαύσεως <sup><small><small>[[G0372]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| land. | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| by itself | <big><span class="asgreek">αυτόματα</span></big> <sup><small><small>[[G0844]]</small></small></sup> |
+| \[produce\] ascending | <big><span class="asgreek">αναβαίνοντα</span></big> <sup><small><small>[[G0305]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in your field | <big><span class="asgreek">αγρού</span></big> <sup><small><small>[[G0068]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| reap up, | <big><span class="asgreek">εκθερισείς</span></big> <sup><small><small>[[G7093]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| grape | <big><span class="asgreek">σταφυλήν</span></big> <sup><small><small>[[G4718]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your sanctification | <big><span class="asgreek">αγιάσματός</span></big> <sup><small><small>[[G6114]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| gather in the vintage; | <big><span class="asgreek">εκτρυγήσεις</span></big> <sup><small><small>[[G7162]]</small></small></sup> |
+| a year's | <big><span class="asgreek">ενιαυτός</span></big> <sup><small><small>[[G1763]]</small></small></sup> |
+| rest | <big><span class="asgreek">αναπαύσεως</span></big> <sup><small><small>[[G0372]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| for the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| land. | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
 [[Lev.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.4|<< Leviticus 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.6|Leviticus 25:6 >>]]</td></tr></table>
 
 

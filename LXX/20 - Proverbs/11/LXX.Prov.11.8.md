@@ -9,16 +9,16 @@ The righteous man is delivered from trouble; in his place the wicked man goes in
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] just | <span class="asgreek">δίκαιος <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| a trap | <span class="asgreek">θήρας <sup><small><small>[[G2339]]</small></small></sup> </span> |
-| are taken | <span class="asgreek">εκδύνει <sup><small><small>[[G1562]]</small></small></sup> </span> |
-| instead | <span class="asgreek">αντ΄ <sup><small><small>[[G0473]]</small></small></sup> </span> |
-| of him | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| is delivered up | <span class="asgreek">παραδίδοται <sup><small><small>[[G3860]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| impious one | <span class="asgreek">ασεβής <sup><small><small>[[G0765]]</small></small></sup> </span> |
+| \[The\] just | <big><span class="asgreek">δίκαιος</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| a trap | <big><span class="asgreek">θήρας</span></big> <sup><small><small>[[G2339]]</small></small></sup> |
+| are taken | <big><span class="asgreek">εκδύνει</span></big> <sup><small><small>[[G1562]]</small></small></sup> |
+| instead | <big><span class="asgreek">αντ΄</span></big> <sup><small><small>[[G0473]]</small></small></sup> |
+| of him | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| is delivered up | <big><span class="asgreek">παραδίδοται</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| impious one | <big><span class="asgreek">ασεβής</span></big> <sup><small><small>[[G0765]]</small></small></sup> |
 [[Prov.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.7|<< Proverbs 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.9|Proverbs 11:9 >>]]</td></tr></table>
 
 

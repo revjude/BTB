@@ -9,16 +9,16 @@ Should he argue with useless words or speeches that serve no purpose?<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| reproving | <span class="asgreek">ελέγχων <sup><small><small>[[G1651]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| sayings | <span class="asgreek">ρήμασιν <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| in which | <span class="asgreek">οις <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| must not \[be spoken\] | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">δει <sup><small><small>[[G1163]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| words | <span class="asgreek">λόγοις <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| in which | <span class="asgreek">οις <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| no one | <span class="asgreek">ουδέν <sup><small><small>[[G3762]]</small></small></sup> </span> |
-| benefits? | <span class="asgreek">όφελος <sup><small><small>[[G3786]]</small></small></sup> </span> |
+| reproving | <big><span class="asgreek">ελέγχων</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| sayings | <big><span class="asgreek">ρήμασιν</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| in which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| must not \[be spoken\] | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">δει</span></big> <sup><small><small>[[G1163]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| words | <big><span class="asgreek">λόγοις</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| in which | <big><span class="asgreek">οις</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| no one | <big><span class="asgreek">ουδέν</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| benefits? | <big><span class="asgreek">όφελος</span></big> <sup><small><small>[[G3786]]</small></small></sup> |
 [[Job.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.2|<< Job 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.4|Job 15:4 >>]]</td></tr></table>
 
 

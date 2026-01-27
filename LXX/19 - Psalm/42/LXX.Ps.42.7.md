@@ -9,22 +9,22 @@ Deep calls to deep in the roar of Your waterfalls; all Your breakers and waves h
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] deep | <span class="asgreek">άβυσσος <sup><small><small>[[G0012]]</small></small></sup> </span> |
-| \[the\] deep | <span class="asgreek">άβυσσον <sup><small><small>[[G0012]]</small></small></sup> </span> |
-| calls | <span class="asgreek">επικαλείται <sup><small><small>[[G1941]]</small></small></sup> </span> |
-| at | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] sound | <span class="asgreek">φωνήν <sup><small><small>[[G5456]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of your torrents; | <span class="asgreek">καταρρακτών <sup><small><small>[[G7909]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your crests | <span class="asgreek">μετεωρισμοί <sup><small><small>[[G8307]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your waves | <span class="asgreek">κύματά <sup><small><small>[[G2949]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| over | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| went | <span class="asgreek">διήλθον <sup><small><small>[[G1330]]</small></small></sup> </span> |
+| \[The\] deep | <big><span class="asgreek">άβυσσος</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
+| \[the\] deep | <big><span class="asgreek">άβυσσον</span></big> <sup><small><small>[[G0012]]</small></small></sup> |
+| calls | <big><span class="asgreek">επικαλείται</span></big> <sup><small><small>[[G1941]]</small></small></sup> |
+| at | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] sound | <big><span class="asgreek">φωνήν</span></big> <sup><small><small>[[G5456]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of your torrents; | <big><span class="asgreek">καταρρακτών</span></big> <sup><small><small>[[G7909]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your crests | <big><span class="asgreek">μετεωρισμοί</span></big> <sup><small><small>[[G8307]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your waves | <big><span class="asgreek">κύματά</span></big> <sup><small><small>[[G2949]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| over | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| went | <big><span class="asgreek">διήλθον</span></big> <sup><small><small>[[G1330]]</small></small></sup> |
 [[Ps.42.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.42.6|<< Psalm 42:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.42.8|Psalm 42:8 >>]]</td></tr></table>
 
 

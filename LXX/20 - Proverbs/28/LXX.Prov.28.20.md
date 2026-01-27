@@ -9,14 +9,14 @@ A faithful man will abound with blessings, but one eager to be rich will not go 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A man | <span class="asgreek">ανήρ <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| worthy of trust | <span class="asgreek">αξιόπιστος <sup><small><small>[[G6381]]</small></small></sup> </span> |
-| in many \[things\] | <span class="asgreek">πολλά <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| shall be blessed; | <span class="asgreek">ευλογηθήσεται <sup><small><small>[[G2127]]</small></small></sup> </span> |
-| but the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| evil one | <span class="asgreek">κακός <sup><small><small>[[G2556]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be unpunished. | <span class="asgreek">ατιμώρητος <sup><small><small>[[G6590]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| A man | <big><span class="asgreek">ανήρ</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| worthy of trust | <big><span class="asgreek">αξιόπιστος</span></big> <sup><small><small>[[G6381]]</small></small></sup> |
+| in many \[things\] | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| shall be blessed; | <big><span class="asgreek">ευλογηθήσεται</span></big> <sup><small><small>[[G2127]]</small></small></sup> |
+| but the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| evil one | <big><span class="asgreek">κακός</span></big> <sup><small><small>[[G2556]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be unpunished. | <big><span class="asgreek">ατιμώρητος</span></big> <sup><small><small>[[G6590]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Prov.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.19|<< Proverbs 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.21|Proverbs 28:21 >>]]</td></tr></table>
 
 

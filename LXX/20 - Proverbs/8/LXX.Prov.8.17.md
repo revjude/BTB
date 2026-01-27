@@ -9,15 +9,15 @@ I love those who love me, and those who seek me early shall find me.<small><sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| being fond of | <span class="asgreek">φιλούντας <sup><small><small>[[G5368]]</small></small></sup> </span> |
-| love | <span class="asgreek">αγαπώ <sup><small><small>[[G0025]]</small></small></sup> </span> |
-| and the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| seeking me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">ζητούντες <sup><small><small>[[G2212]]</small></small></sup> </span> |
-| shall find | <span class="asgreek">ευρήσουσι <sup><small><small>[[G2147]]</small></small></sup> </span> |
-| favor. | <span class="asgreek">χάριν <sup><small><small>[[G5485]]</small></small></sup> </span> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| being fond of | <big><span class="asgreek">φιλούντας</span></big> <sup><small><small>[[G5368]]</small></small></sup> |
+| love | <big><span class="asgreek">αγαπώ</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
+| and the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| seeking me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ζητούντες</span></big> <sup><small><small>[[G2212]]</small></small></sup> |
+| shall find | <big><span class="asgreek">ευρήσουσι</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
+| favor. | <big><span class="asgreek">χάριν</span></big> <sup><small><small>[[G5485]]</small></small></sup> |
 [[Prov.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.16|<< Proverbs 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.18|Proverbs 8:18 >>]]</td></tr></table>
 
 

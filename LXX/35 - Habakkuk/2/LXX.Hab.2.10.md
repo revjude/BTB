@@ -9,17 +9,17 @@ You have plotted shame for your house by cutting off many peoples and forfeiting
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You deliberated | <span class="asgreek">εβουλεύσω <sup><small><small>[[G1011]]</small></small></sup> </span> |
-| shame | <span class="asgreek">αισχύνην <sup><small><small>[[G0152]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your house; | <span class="asgreek">οίκω <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you finished off | <span class="asgreek">συνεπέρανας <sup><small><small>[[G9272]]</small></small></sup> </span> |
-| many | <span class="asgreek">πολλούς <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| peoples, | <span class="asgreek">λαούς <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| was led into sin | <span class="asgreek">εξήμαρτεν <sup><small><small>[[G7292]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| You deliberated | <big><span class="asgreek">εβουλεύσω</span></big> <sup><small><small>[[G1011]]</small></small></sup> |
+| shame | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your house; | <big><span class="asgreek">οίκω</span></big> <sup><small><small>[[G3624]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you finished off | <big><span class="asgreek">συνεπέρανας</span></big> <sup><small><small>[[G9272]]</small></small></sup> |
+| many | <big><span class="asgreek">πολλούς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| peoples, | <big><span class="asgreek">λαούς</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| was led into sin | <big><span class="asgreek">εξήμαρτεν</span></big> <sup><small><small>[[G7292]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Hab.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.9|<< Habakkuk 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.11|Habakkuk 2:11 >>]]</td></tr></table>
 
 

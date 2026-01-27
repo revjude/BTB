@@ -9,26 +9,26 @@ So you will desecrate your silver-plated idols and your gold-plated images. You 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall remove | <span class="asgreek">εξαρείς <sup><small><small>[[G1808]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| idols | <span class="asgreek">είδωλα <sup><small><small>[[G1497]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being silver plated; | <span class="asgreek">περιηργυρωμένα <sup><small><small>[[G8716]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the ones being gilded | <span class="asgreek">περικεχρυσωμένα <sup><small><small>[[G8776]]</small></small></sup> </span> |
-| fine \[dust\] | <span class="asgreek">λεπτά <sup><small><small>[[G3016]]</small></small></sup> </span> |
-| you shall make \[into\] | <span class="asgreek">ποιήσεις <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall winnow | <span class="asgreek">λικμήσεις <sup><small><small>[[G3039]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| of a woman sitting apart, | <span class="asgreek">αποκαθημένης <sup><small><small>[[G6436]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| dung | <span class="asgreek">κόπρον <sup><small><small>[[G8068]]</small></small></sup> </span> |
-| you shall thrust | <span class="asgreek">ώσεις <sup><small><small>[[G9809]]</small></small></sup> </span> |
-| them away | <span class="asgreek">αυτά <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall remove | <big><span class="asgreek">εξαρείς</span></big> <sup><small><small>[[G1808]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| idols | <big><span class="asgreek">είδωλα</span></big> <sup><small><small>[[G1497]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being silver plated; | <big><span class="asgreek">περιηργυρωμένα</span></big> <sup><small><small>[[G8716]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the ones being gilded | <big><span class="asgreek">περικεχρυσωμένα</span></big> <sup><small><small>[[G8776]]</small></small></sup> |
+| fine \[dust\] | <big><span class="asgreek">λεπτά</span></big> <sup><small><small>[[G3016]]</small></small></sup> |
+| you shall make \[into\] | <big><span class="asgreek">ποιήσεις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall winnow | <big><span class="asgreek">λικμήσεις</span></big> <sup><small><small>[[G3039]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| of a woman sitting apart, | <big><span class="asgreek">αποκαθημένης</span></big> <sup><small><small>[[G6436]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| dung | <big><span class="asgreek">κόπρον</span></big> <sup><small><small>[[G8068]]</small></small></sup> |
+| you shall thrust | <big><span class="asgreek">ώσεις</span></big> <sup><small><small>[[G9809]]</small></small></sup> |
+| them away | <big><span class="asgreek">αυτά</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Isa.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.21|<< Isaiah 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.23|Isaiah 30:23 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ do not bring hastily to court. Otherwise, what will you do in the end when your 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Do not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| fall | <span class="asgreek">πρόσπιπτε <sup><small><small>[[G4363]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a fight | <span class="asgreek">μάχην <sup><small><small>[[G3163]]</small></small></sup> </span> |
-| quickly! | <span class="asgreek">ταχέως <sup><small><small>[[G5030]]</small></small></sup> </span> |
-| lest | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| you should change your mind | <span class="asgreek">μεταμεληθής <sup><small><small>[[G3338]]</small></small></sup> </span> |
-| at | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] last. | <span class="asgreek">εσχάτων <sup><small><small>[[G2078]]</small></small></sup> </span> |
-| When | <span class="asgreek">ηνίκα <sup><small><small>[[G2259]]</small></small></sup> </span> |
-| ever | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| should berate you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">ονειδίση <sup><small><small>[[G3679]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| a friend | <span class="asgreek">φίλος <sup><small><small>[[G5384]]</small></small></sup> </span> |
+| Do not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| fall | <big><span class="asgreek">πρόσπιπτε</span></big> <sup><small><small>[[G4363]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a fight | <big><span class="asgreek">μάχην</span></big> <sup><small><small>[[G3163]]</small></small></sup> |
+| quickly! | <big><span class="asgreek">ταχέως</span></big> <sup><small><small>[[G5030]]</small></small></sup> |
+| lest | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| you should change your mind | <big><span class="asgreek">μεταμεληθής</span></big> <sup><small><small>[[G3338]]</small></small></sup> |
+| at | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] last. | <big><span class="asgreek">εσχάτων</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
+| When | <big><span class="asgreek">ηνίκα</span></big> <sup><small><small>[[G2259]]</small></small></sup> |
+| ever | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| should berate you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ονειδίση</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| a friend | <big><span class="asgreek">φίλος</span></big> <sup><small><small>[[G5384]]</small></small></sup> |
 [[Prov.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.7|<< Proverbs 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.9|Proverbs 25:9 >>]]</td></tr></table>
 
 

@@ -8,9 +8,9 @@ Typically used as a personal note-taking solution, in this application the fast 
 
 Endless thanks to all of the proud scholars, theologians, and scribes who did the real work that made a project like this possible.  This Bible was built on the backs of many who began their painstaking work digitizing, analyzing, and correcting centuries-old publications, years before modern tools made such tasks easier.  Also, special thanks to the groups and individuals listed [below](#Acknowledgments), who made their work freely available to the public and provided the source data for this project.
 
-*The first iteration is somewhat complete, but it only scratches the surface of what could be done leveraging the Obsidian platform.  Endless possibilities include: full text search in bases, topical concordances which can be applied to verses as properties or tags, a team-style workflow for managing translation projects, additional bible versions, 'Scripture Quoting Scripture' cross-references, etc.*
+*The first iteration is somewhat complete, but it only scratches the surface of what could be done leveraging the Obsidian platform.  Endless possibilities include: full text search, topical concordances, a team-style workflow for managing translation projects, additional bible versions...*
 
-**Important:** Initial setup takes a little while, but once the indexing is complete everything runs lightning fast. After cloning the repository, or downloading and unzipping the archive of over 100,000 individual "notes" that make up the Bible, the first index can take about an hour, more or less.
+**Important:** Initial setup takes a little while, but once the indexing is complete everything runs lightning fast. After cloning the repository, or downloading and unzipping the archive of over 130,000 individual "notes" that make up the Bible, the first index can take about an hour, more or less.
 ## Screenshots
 #### CHAPTERS
 ![Chapter View](/lexicon/views/ChapterView.png)
@@ -22,13 +22,16 @@ Endless thanks to all of the proud scholars, theologians, and scribes who did th
 ![Chapter View](/lexicon/views/Lexicon.PNG)
 #### MAPS
 ![Chapter View](/lexicon/views/Maps.PNG)
+#### SCRIPTURE QUOTING SCRIPTURE
+![Chapter View](/lexicon/views/SQS.PNG)
 
 ## Features
 - Full chapters feature the **KJV** text with **Jesus' words in red-letters**.
 - Chapters are divided by section headings from the **Berean Standard Bible** (with cross-references) for easy reading.
 - Full chapters also include all 500,000+ references and notes from the expansive **Treasury of Scripture Knowledge** which are available as Obsidian footnotes aligned with their catchwords (and which appear to be the primary source of the extensive ESV references and notes).
 - Individual verses (easily accessible from chapter view) include the verse text from the **KJV** representing the majority text.  
-- All **Septuagint** interlinear text is available directly from the Masoretic text and vice versa.  This allows you to easily see the same scripture used during the 1st century which is often quoted in the New Testament.
+- All **Septuagint** interlinear text is taken from the Apostolic Bible Polyglot and made available directly from the Masoretic text and vice versa.  This allows you to easily see the same scripture used during the 1st century which is often quoted in the New Testament.
+- **Scripture Passages Quoting Scripture** is embedded in the verse views, which is especially insightful when studying New Testament scripture that quotes or reference passages in the Septuagint (LXX)—the Bible used by the New Testament authors (not the Masoretic text of the Old Testament).
 - Text from the **Berean Standard Bible** is also included in the verse view for quick reference to a modern translation of the critical text.
 - Individual verses are broken down in an interlinear format, displaying the unicode word in the original language (color-coded: **red** for **Hebrew**, **green** for **Aramaic**, **purple** for **Greek** - and **orange** for **Latin** in a few places), a link to the lexical entry for every Strong's tagged word, and a hover preview of full explanations for parts-of-speech & morphology.
 - Also included in the verse view are translator's notes from the **Translator's Amalgamated Hebrew Old Testament and Greek New Testament**, explaining word order differences between sources, the different spellings or definitions, and which sources include or exclude which words, phrases, and verses.  It's like having a reference to every source text all in one easy interface.
@@ -45,7 +48,7 @@ Endless thanks to all of the proud scholars, theologians, and scribes who did th
 1. Download or clone this repository
 2. Open the folder as a vault in [Obsidian](https://obsidian.md)
 3. **Be patient during initial indexing** - Obsidian will need time (potentially up to an hour)
-4. Enable CSS snippets and select the btb.css snippet file which is installed in the .obsidian folder and found in the root of this repository.
+4. Enable CSS snippets and select the btb.css snippet file which is installed in the .obsidian folder and also found in the root of this repository.
 5. Change your settings so that reading view is the default when opening notes.
 6. If you would like to use the maps features you have to sign up for a [Google developer API key](https://developers.google.com/maps/documentation/javascript), and then use VS Code to do a global find and replace of '\[GoogleAPIKey\]' with your key.
 

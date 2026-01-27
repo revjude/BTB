@@ -9,22 +9,22 @@ Who is this who shines like the dawn, as fair as the moon, as bright as the sun,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \[is\] she, | <span class="asgreek">αύτη <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| the one | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| looking out | <span class="asgreek">εκκύπτουσα <sup><small><small>[[G7107]]</small></small></sup> </span> |
-| as | <span class="asgreek">ωσεί <sup><small><small>[[G5616]]</small></small></sup> </span> |
-| \[the\] dawn, | <span class="asgreek">όρθρος <sup><small><small>[[G3722]]</small></small></sup> </span> |
-| fair | <span class="asgreek">καλή <sup><small><small>[[G2570]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] moon, | <span class="asgreek">σελήνη <sup><small><small>[[G4582]]</small></small></sup> </span> |
-| choice | <span class="asgreek">εκλεκτή <sup><small><small>[[G1588]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sun, | <span class="asgreek">ήλιος <sup><small><small>[[G2246]]</small></small></sup> </span> |
-| \[the\] consternation | <span class="asgreek">θάμβος <sup><small><small>[[G2285]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[troops\] being set in order. | <span class="asgreek">τεταγμέναι <sup><small><small>[[G5021]]</small></small></sup> </span> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \[is\] she, | <big><span class="asgreek">αύτη</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| the one | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| looking out | <big><span class="asgreek">εκκύπτουσα</span></big> <sup><small><small>[[G7107]]</small></small></sup> |
+| as | <big><span class="asgreek">ωσεί</span></big> <sup><small><small>[[G5616]]</small></small></sup> |
+| \[the\] dawn, | <big><span class="asgreek">όρθρος</span></big> <sup><small><small>[[G3722]]</small></small></sup> |
+| fair | <big><span class="asgreek">καλή</span></big> <sup><small><small>[[G2570]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] moon, | <big><span class="asgreek">σελήνη</span></big> <sup><small><small>[[G4582]]</small></small></sup> |
+| choice | <big><span class="asgreek">εκλεκτή</span></big> <sup><small><small>[[G1588]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sun, | <big><span class="asgreek">ήλιος</span></big> <sup><small><small>[[G2246]]</small></small></sup> |
+| \[the\] consternation | <big><span class="asgreek">θάμβος</span></big> <sup><small><small>[[G2285]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[troops\] being set in order. | <big><span class="asgreek">τεταγμέναι</span></big> <sup><small><small>[[G5021]]</small></small></sup> |
 [[Song.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.9|<< Song of Solomon 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.11|Song of Solomon 6:11 >>]]</td></tr></table>
 
 

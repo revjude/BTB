@@ -9,26 +9,26 @@ those who indict a man with a word, who ensnare the mediator at the gate, and wh
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| causing | <span class="asgreek">ποιούντες <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| to sin | <span class="asgreek">αμαρτείν <sup><small><small>[[G0264]]</small></small></sup> </span> |
-| men | <span class="asgreek">ανθρώπους <sup><small><small>[[G0444]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a word. | <span class="asgreek">λόγω <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντας <sup><small><small>[[G3956]][[G1161]]</small></small></sup> </span> |
-| And | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| reproving | <span class="asgreek">ελέγχοντας <sup><small><small>[[G1651]]</small></small></sup> </span> |
-| at | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] gates | <span class="asgreek">πύλαις <sup><small><small>[[G4439]]</small></small></sup> </span> |
-| to be considered for stumbling | <span class="asgreek">πρόσκομμα <sup><small><small>[[G4348]]</small></small></sup> </span> |
-| men shall make | <span class="asgreek">θήσουσιν <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| they bent away | <span class="asgreek">επλαγίασαν <sup><small><small>[[G8799]]</small></small></sup> </span> |
-| by | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| unjust \[acts\] | <span class="asgreek">αδίκοις <sup><small><small>[[G0094]]</small></small></sup> </span> |
-| \[the\] just one | <span class="asgreek">δίκαιον <sup><small><small>[[G1342]]</small></small></sup> </span> |
+| even | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| causing | <big><span class="asgreek">ποιούντες</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| to sin | <big><span class="asgreek">αμαρτείν</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| men | <big><span class="asgreek">ανθρώπους</span></big> <sup><small><small>[[G0444]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a word. | <big><span class="asgreek">λόγω</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]][[G1161]]</small></small></sup> |
+| And | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| reproving | <big><span class="asgreek">ελέγχοντας</span></big> <sup><small><small>[[G1651]]</small></small></sup> |
+| at | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] gates | <big><span class="asgreek">πύλαις</span></big> <sup><small><small>[[G4439]]</small></small></sup> |
+| to be considered for stumbling | <big><span class="asgreek">πρόσκομμα</span></big> <sup><small><small>[[G4348]]</small></small></sup> |
+| men shall make | <big><span class="asgreek">θήσουσιν</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| they bent away | <big><span class="asgreek">επλαγίασαν</span></big> <sup><small><small>[[G8799]]</small></small></sup> |
+| by | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| unjust \[acts\] | <big><span class="asgreek">αδίκοις</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
+| \[the\] just one | <big><span class="asgreek">δίκαιον</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
 [[Isa.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.20|<< Isaiah 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.22|Isaiah 29:22 >>]]</td></tr></table>
 
 

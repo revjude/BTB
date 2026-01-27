@@ -9,22 +9,22 @@ May lying lips be silenced—lips that speak with arrogance against the righteou
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| speechless | <span class="asgreek">άλαλα <sup><small><small>[[G0216]]</small></small></sup> </span> |
-| become | <span class="asgreek">γενηθήτω <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| lips | <span class="asgreek">χείλη <sup><small><small>[[G5491]]</small></small></sup> </span> |
-| of the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| deceitful | <span class="asgreek">δόλια <sup><small><small>[[G1386]]</small></small></sup> </span> |
-| \[even\] the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones speaking | <span class="asgreek">λαλούντα <sup><small><small>[[G2980]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| just | <span class="asgreek">δικαίου <sup><small><small>[[G1342]]</small></small></sup> </span> |
-| in lawlessness | <span class="asgreek">ανομίαν <sup><small><small>[[G0458]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| pride | <span class="asgreek">υπερηφανία <sup><small><small>[[G5243]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| contempt. | <span class="asgreek">εξουδενώσει <sup><small><small>[[G7352]]</small></small></sup> </span> |
+| speechless | <big><span class="asgreek">άλαλα</span></big> <sup><small><small>[[G0216]]</small></small></sup> |
+| become | <big><span class="asgreek">γενηθήτω</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| lips | <big><span class="asgreek">χείλη</span></big> <sup><small><small>[[G5491]]</small></small></sup> |
+| of the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| deceitful | <big><span class="asgreek">δόλια</span></big> <sup><small><small>[[G1386]]</small></small></sup> |
+| \[even\] the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones speaking | <big><span class="asgreek">λαλούντα</span></big> <sup><small><small>[[G2980]]</small></small></sup> |
+| against | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| just | <big><span class="asgreek">δικαίου</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
+| in lawlessness | <big><span class="asgreek">ανομίαν</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| pride | <big><span class="asgreek">υπερηφανία</span></big> <sup><small><small>[[G5243]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| contempt. | <big><span class="asgreek">εξουδενώσει</span></big> <sup><small><small>[[G7352]]</small></small></sup> |
 [[Ps.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.17|<< Psalm 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.19|Psalm 31:19 >>]]</td></tr></table>
 
 

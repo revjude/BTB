@@ -9,12 +9,12 @@ the men of Bethlehem and Netophah, 188;<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Beth-lehem | <span class="asgreek">Βαιθαλέμ <sup><small><small>[[G0965]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Netophah, | <span class="asgreek">Νετωφαθί <sup><small><small>[[H5199]]</small></small></sup> </span> |
-| a hundred | <span class="asgreek">εκατόν <sup><small><small>[[G1540]]</small></small></sup> </span> |
-| twenty-three.; | <span class="asgreek">εικοσιτρείς <sup><small><small>[[G7061]]</small></small></sup> </span> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Beth-lehem | <big><span class="asgreek">Βαιθαλέμ</span></big> <sup><small><small>[[G0965]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Netophah, | <big><span class="asgreek">Νετωφαθί</span></big> <sup><small><small>[[H5199]]</small></small></sup> |
+| a hundred | <big><span class="asgreek">εκατόν</span></big> <sup><small><small>[[G1540]]</small></small></sup> |
+| twenty-three.; | <big><span class="asgreek">εικοσιτρείς</span></big> <sup><small><small>[[G7061]]</small></small></sup> |
 [[Neh.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.25|<< Nehemiah 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.27|Nehemiah 7:27 >>]]</td></tr></table>
 
 

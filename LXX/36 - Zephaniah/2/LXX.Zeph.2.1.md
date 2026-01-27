@@ -12,13 +12,13 @@ Gather yourselves, gather together, O shameful nation,<small><sub>**MT:**</sub>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Be gathered | <span class="asgreek">συνάχθητε <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bound together, | <span class="asgreek">συνδέθητε <sup><small><small>[[G4887]]</small></small></sup> </span> |
-| O | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nation | <span class="asgreek">έθνος <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| uninstructed | <span class="asgreek">απαίδευτον <sup><small><small>[[G0521]]</small></small></sup> </span> |
+| Be gathered | <big><span class="asgreek">συνάχθητε</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bound together, | <big><span class="asgreek">συνδέθητε</span></big> <sup><small><small>[[G4887]]</small></small></sup> |
+| O | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| uninstructed | <big><span class="asgreek">απαίδευτον</span></big> <sup><small><small>[[G0521]]</small></small></sup> |
 [[Zeph.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.18|<< Zephaniah 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.2|Zephaniah 2:2 >>]]</td></tr></table>
 
 

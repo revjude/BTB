@@ -9,15 +9,15 @@ If a ruler listens to lies, all his officials will be wicked.<small><sub>**MT:*
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| A king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| hearkening | <span class="asgreek">υπακούοντος <sup><small><small>[[G5219]]</small></small></sup> </span> |
-| matter | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| in an unjust | <span class="asgreek">άδικον <sup><small><small>[[G0094]]</small></small></sup> </span> |
-| \[makes\] all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \[the\] ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| under | <span class="asgreek">υπ΄ <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| lawbreakers. | <span class="asgreek">παράνομοι <sup><small><small>[[G8627]]</small></small></sup> </span> |
+| A king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| hearkening | <big><span class="asgreek">υπακούοντος</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
+| matter | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| in an unjust | <big><span class="asgreek">άδικον</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
+| \[makes\] all | <big><span class="asgreek">πάντες</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \[the\] ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| under | <big><span class="asgreek">υπ΄</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| lawbreakers. | <big><span class="asgreek">παράνομοι</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
 [[Prov.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.11|<< Proverbs 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.13|Proverbs 29:13 >>]]</td></tr></table>
 
 

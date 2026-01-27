@@ -12,25 +12,25 @@ The LORD also said to Moses, “Take fragrant spices—gum resin, onycha, galban
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
-| Moses, | <span class="asgreek">Μωυσήν <sup><small><small>[[G3475]]</small></small></sup> </span> |
-| Take | <span class="asgreek">λάβε <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| to yourself | <span class="asgreek">σεαυτώ <sup><small><small>[[G4572]]</small></small></sup> </span> |
-| spices -- | <span class="asgreek">ηδύσματα <sup><small><small>[[G7621]]</small></small></sup> </span> |
-| balsam, | <span class="asgreek">στακτήν <sup><small><small>[[G9152]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| onycha, | <span class="asgreek">όνυχα <sup><small><small>[[G8521]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| galbanum | <span class="asgreek">χαλβάνην <sup><small><small>[[G9692]]</small></small></sup> </span> |
-| luscious | <span class="asgreek">ηδυσμού <sup><small><small>[[G7622]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| frankincense | <span class="asgreek">λίβανον <sup><small><small>[[G3030]]</small></small></sup> </span> |
-| transparent | <span class="asgreek">διαφανή <sup><small><small>[[G1307]]</small></small></sup> </span> |
-| equal | <span class="asgreek">ίσον <sup><small><small>[[G2470]]</small></small></sup> </span> |
-| to equal | <span class="asgreek">ίσω <sup><small><small>[[G2470]]</small></small></sup> </span> |
-| it will be. | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> said | <big><span class="asgreek">είπε</span></big> <sup><small><small>[[G2036]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| to | <big><span class="asgreek">προς</span></big> <sup><small><small>[[G4314]]</small></small></sup> |
+| Moses, | <big><span class="asgreek">Μωυσήν</span></big> <sup><small><small>[[G3475]]</small></small></sup> |
+| Take | <big><span class="asgreek">λάβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| to yourself | <big><span class="asgreek">σεαυτώ</span></big> <sup><small><small>[[G4572]]</small></small></sup> |
+| spices -- | <big><span class="asgreek">ηδύσματα</span></big> <sup><small><small>[[G7621]]</small></small></sup> |
+| balsam, | <big><span class="asgreek">στακτήν</span></big> <sup><small><small>[[G9152]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| onycha, | <big><span class="asgreek">όνυχα</span></big> <sup><small><small>[[G8521]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| galbanum | <big><span class="asgreek">χαλβάνην</span></big> <sup><small><small>[[G9692]]</small></small></sup> |
+| luscious | <big><span class="asgreek">ηδυσμού</span></big> <sup><small><small>[[G7622]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| frankincense | <big><span class="asgreek">λίβανον</span></big> <sup><small><small>[[G3030]]</small></small></sup> |
+| transparent | <big><span class="asgreek">διαφανή</span></big> <sup><small><small>[[G1307]]</small></small></sup> |
+| equal | <big><span class="asgreek">ίσον</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
+| to equal | <big><span class="asgreek">ίσω</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
+| it will be. | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Exod.30.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.33|<< Exodus 30:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.35|Exodus 30:35 >>]]</td></tr></table>
 
 

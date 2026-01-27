@@ -9,18 +9,18 @@ Do not accept a bribe, for a bribe blinds those who see and twists the words of 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| bribes | <span class="asgreek">δώρα <sup><small><small>[[G1435]]</small></small></sup> </span> |
-| you shall not receive; | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">λήψη <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| bribes | <span class="asgreek">δώρα <sup><small><small>[[G1435]]</small></small></sup> </span> |
-| blind | <span class="asgreek">εκτυφλοί <sup><small><small>[[G7167]]</small></small></sup> </span> |
-| \[the\] eyes | <span class="asgreek">οφθαλμούς <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| for seeing | <span class="asgreek">βλεπόντων <sup><small><small>[[G0991]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| lay waste | <span class="asgreek">λυμαίνεται <sup><small><small>[[G3075]]</small></small></sup> </span> |
-| matters | <span class="asgreek">ρήματα <sup><small><small>[[G4487]]</small></small></sup> </span> |
-| just | <span class="asgreek">δίκαια <sup><small><small>[[G1342]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| bribes | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
+| you shall not receive; | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">λήψη</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| for the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| bribes | <big><span class="asgreek">δώρα</span></big> <sup><small><small>[[G1435]]</small></small></sup> |
+| blind | <big><span class="asgreek">εκτυφλοί</span></big> <sup><small><small>[[G7167]]</small></small></sup> |
+| \[the\] eyes | <big><span class="asgreek">οφθαλμούς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| for seeing | <big><span class="asgreek">βλεπόντων</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| lay waste | <big><span class="asgreek">λυμαίνεται</span></big> <sup><small><small>[[G3075]]</small></small></sup> |
+| matters | <big><span class="asgreek">ρήματα</span></big> <sup><small><small>[[G4487]]</small></small></sup> |
+| just | <big><span class="asgreek">δίκαια</span></big> <sup><small><small>[[G1342]]</small></small></sup> |
 [[Exod.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.7|<< Exodus 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.9|Exodus 23:9 >>]]</td></tr></table>
 
 

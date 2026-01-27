@@ -9,18 +9,18 @@ An evil disease, [say they], cleaveth fast unto him: and [now] that he lieth he 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| matter | <span class="asgreek">λόγον <sup><small><small>[[G3056]]</small></small></sup> </span> |
-| an illegal | <span class="asgreek">παράνομον <sup><small><small>[[G8627]]</small></small></sup> </span> |
-| They laid down | <span class="asgreek">κατέθεντο <sup><small><small>[[G2698]]</small></small></sup> </span> |
-| against | <span class="asgreek">κατ΄ <sup><small><small>[[G2596]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Shall | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one going to bed | <span class="asgreek">κοιμώμενος <sup><small><small>[[G2837]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουχί <sup><small><small>[[G3780]]</small></small></sup> </span> |
-| proceed | <span class="asgreek">προσθήσει <sup><small><small>[[G4369]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to rise up? | <span class="asgreek">αναστήναι <sup><small><small>[[G0450]]</small></small></sup> </span> |
+| matter | <big><span class="asgreek">λόγον</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
+| an illegal | <big><span class="asgreek">παράνομον</span></big> <sup><small><small>[[G8627]]</small></small></sup> |
+| They laid down | <big><span class="asgreek">κατέθεντο</span></big> <sup><small><small>[[G2698]]</small></small></sup> |
+| against | <big><span class="asgreek">κατ΄</span></big> <sup><small><small>[[G2596]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one going to bed | <big><span class="asgreek">κοιμώμενος</span></big> <sup><small><small>[[G2837]]</small></small></sup> |
+| not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
+| proceed | <big><span class="asgreek">προσθήσει</span></big> <sup><small><small>[[G4369]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to rise up? | <big><span class="asgreek">αναστήναι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
 [[Ps.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.7|<< Psalm 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.9|Psalm 41:9 >>]]</td></tr></table>
 
 

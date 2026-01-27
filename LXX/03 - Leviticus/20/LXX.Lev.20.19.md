@@ -9,21 +9,21 @@ You must not have sexual relations with the sister of your mother or your father
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] indecency | <span class="asgreek">ασχημοσύνην <sup><small><small>[[G0808]]</small></small></sup> </span> |
-| sister | <span class="asgreek">αδελφής <sup><small><small>[[G0079]]</small></small></sup> </span> |
-| of your father's | <span class="asgreek">πατρός <sup><small><small>[[G3962]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| sister | <span class="asgreek">αδελφής <sup><small><small>[[G0079]]</small></small></sup> </span> |
-| your mother's | <span class="asgreek">μητρός <sup><small><small>[[G3384]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| uncover, | <span class="asgreek">αποκαλύψεις <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| for | <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| \[family\] intimacy | <span class="asgreek">οικειότητα <sup><small><small>[[G8449]]</small></small></sup> </span> |
-| he uncovered | <span class="asgreek">απεκάλυψεν <sup><small><small>[[G0601]]</small></small></sup> </span> |
-| their sin | <span class="asgreek">αμαρτίαν <sup><small><small>[[G0266]]</small></small></sup> <span class="asgreek">αυτων <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they shall carry | <span class="asgreek">αποίσονται <sup><small><small>[[G0667]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] indecency | <big><span class="asgreek">ασχημοσύνην</span></big> <sup><small><small>[[G0808]]</small></small></sup> |
+| sister | <big><span class="asgreek">αδελφής</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
+| of your father's | <big><span class="asgreek">πατρός</span></big> <sup><small><small>[[G3962]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| sister | <big><span class="asgreek">αδελφής</span></big> <sup><small><small>[[G0079]]</small></small></sup> |
+| your mother's | <big><span class="asgreek">μητρός</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| uncover, | <big><span class="asgreek">αποκαλύψεις</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| for | <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| \[family\] intimacy | <big><span class="asgreek">οικειότητα</span></big> <sup><small><small>[[G8449]]</small></small></sup> |
+| he uncovered | <big><span class="asgreek">απεκάλυψεν</span></big> <sup><small><small>[[G0601]]</small></small></sup> |
+| their sin | <big><span class="asgreek">αμαρτίαν</span></big> <sup><small><small>[[G0266]]</small></small></sup> <big><span class="asgreek">αυτων</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they shall carry | <big><span class="asgreek">αποίσονται</span></big> <sup><small><small>[[G0667]]</small></small></sup> |
 [[Lev.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.18|<< Leviticus 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.20|Leviticus 20:20 >>]]</td></tr></table>
 
 

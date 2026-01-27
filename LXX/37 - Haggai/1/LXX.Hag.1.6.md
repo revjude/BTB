@@ -9,36 +9,36 @@ You have planted much but harvested little. You eat but never have enough. You d
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You sowed | <span class="asgreek">εσπείρατε <sup><small><small>[[G4687]]</small></small></sup> </span> |
-| much, | <span class="asgreek">πολλά <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| carried in | <span class="asgreek">εισηνέγκατε <sup><small><small>[[G1533]]</small></small></sup> </span> |
-| little; | <span class="asgreek">ολίγα <sup><small><small>[[G3641]]</small></small></sup> </span> |
-| you ate | <span class="asgreek">εφάγετε <sup><small><small>[[G2068]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| fullness; | <span class="asgreek">πλησμονήν <sup><small><small>[[G4140]]</small></small></sup> </span> |
-| you drank | <span class="asgreek">επίετε <sup><small><small>[[G4095]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| unto | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| intoxication; | <span class="asgreek">μέθην <sup><small><small>[[G3178]]</small></small></sup> </span> |
-| you clothed yourselves, | <span class="asgreek">περιεβάλεσθε <sup><small><small>[[G4016]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| were not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| heated | <span class="asgreek">εθερμάνθητε <sup><small><small>[[G2328]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| these; | <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wages | <span class="asgreek">μισθούς <sup><small><small>[[G3408]]</small></small></sup> </span> |
-| gathering | <span class="asgreek">συνάγων <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| gathered \[them\] | <span class="asgreek">συνήγαγεν <sup><small><small>[[G4863]]</small></small></sup> </span> |
-| in | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a bundle | <span class="asgreek">δεσμόν <sup><small><small>[[G1199]]</small></small></sup> </span> |
-| having holes being made \[in it\]. | <span class="asgreek">τετρυπημένον <sup><small><small>[[G9508]]</small></small></sup> </span> |
+| You sowed | <big><span class="asgreek">εσπείρατε</span></big> <sup><small><small>[[G4687]]</small></small></sup> |
+| much, | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| carried in | <big><span class="asgreek">εισηνέγκατε</span></big> <sup><small><small>[[G1533]]</small></small></sup> |
+| little; | <big><span class="asgreek">ολίγα</span></big> <sup><small><small>[[G3641]]</small></small></sup> |
+| you ate | <big><span class="asgreek">εφάγετε</span></big> <sup><small><small>[[G2068]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| fullness; | <big><span class="asgreek">πλησμονήν</span></big> <sup><small><small>[[G4140]]</small></small></sup> |
+| you drank | <big><span class="asgreek">επίετε</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| unto | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| intoxication; | <big><span class="asgreek">μέθην</span></big> <sup><small><small>[[G3178]]</small></small></sup> |
+| you clothed yourselves, | <big><span class="asgreek">περιεβάλεσθε</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| were not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| heated | <big><span class="asgreek">εθερμάνθητε</span></big> <sup><small><small>[[G2328]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| these; | <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wages | <big><span class="asgreek">μισθούς</span></big> <sup><small><small>[[G3408]]</small></small></sup> |
+| gathering | <big><span class="asgreek">συνάγων</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| gathered \[them\] | <big><span class="asgreek">συνήγαγεν</span></big> <sup><small><small>[[G4863]]</small></small></sup> |
+| in | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a bundle | <big><span class="asgreek">δεσμόν</span></big> <sup><small><small>[[G1199]]</small></small></sup> |
+| having holes being made \[in it\]. | <big><span class="asgreek">τετρυπημένον</span></big> <sup><small><small>[[G9508]]</small></small></sup> |
 [[Hag.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.5|<< Haggai 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.7|Haggai 1:7 >>]]</td></tr></table>
 
 

@@ -9,14 +9,14 @@ Prize her, and she will exalt you; if you embrace her, she will honor you.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Surround her with a rampart! | <span class="asgreek">περιχαράκωσον <sup><small><small>[[G8773]]</small></small></sup> <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| she shall exalt | <span class="asgreek">υψώσει <sup><small><small>[[G5312]]</small></small></sup> </span> |
-| you. | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Esteem | <span class="asgreek">τίμησον <sup><small><small>[[G5091]]</small></small></sup> </span> |
-| her! | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| she should keep you; | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">περιλάβη <sup><small><small>[[G8736]]</small></small></sup> </span> |
+| Surround her with a rampart! | <big><span class="asgreek">περιχαράκωσον</span></big> <sup><small><small>[[G8773]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| she shall exalt | <big><span class="asgreek">υψώσει</span></big> <sup><small><small>[[G5312]]</small></small></sup> |
+| you. | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Esteem | <big><span class="asgreek">τίμησον</span></big> <sup><small><small>[[G5091]]</small></small></sup> |
+| her! | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| she should keep you; | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">περιλάβη</span></big> <sup><small><small>[[G8736]]</small></small></sup> |
 [[Prov.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.7|<< Proverbs 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.9|Proverbs 4:9 >>]]</td></tr></table>
 
 

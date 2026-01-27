@@ -9,23 +9,23 @@ I went down to the walnut grove to see the blossoms of the valley, to see if the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] garden | <span class="asgreek">κήπον <sup><small><small>[[G2779]]</small></small></sup> </span> |
-| of walnuts | <span class="asgreek">καρύας <sup><small><small>[[G7811]]</small></small></sup> </span> |
-| I went down | <span class="asgreek">κατέβην <sup><small><small>[[G2597]]</small></small></sup> </span> |
-| to behold | <span class="asgreek">ιδείν <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] produce | <span class="asgreek">γεννήματι <sup><small><small>[[G1081]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[valley of the\] rushing stream; | <span class="asgreek">χειμάρρου <sup><small><small>[[G5493]]</small></small></sup> </span> |
-| to see | <span class="asgreek">ιδείν <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| if | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| bloomed | <span class="asgreek">ήνθησεν <sup><small><small>[[G6341]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| grapevine | <span class="asgreek">άμπελος <sup><small><small>[[G0288]]</small></small></sup> </span> |
-| blossomed | <span class="asgreek">εξήνθησαν <sup><small><small>[[G7296]]</small></small></sup> </span> |
-| \[or if\] the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| pomegranates | <span class="asgreek">ροαί <sup><small><small>[[G9029]]</small></small></sup> </span> |
+| Into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] garden | <big><span class="asgreek">κήπον</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
+| of walnuts | <big><span class="asgreek">καρύας</span></big> <sup><small><small>[[G7811]]</small></small></sup> |
+| I went down | <big><span class="asgreek">κατέβην</span></big> <sup><small><small>[[G2597]]</small></small></sup> |
+| to behold | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] produce | <big><span class="asgreek">γεννήματι</span></big> <sup><small><small>[[G1081]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[valley of the\] rushing stream; | <big><span class="asgreek">χειμάρρου</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
+| to see | <big><span class="asgreek">ιδείν</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| if | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| bloomed | <big><span class="asgreek">ήνθησεν</span></big> <sup><small><small>[[G6341]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| grapevine | <big><span class="asgreek">άμπελος</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
+| blossomed | <big><span class="asgreek">εξήνθησαν</span></big> <sup><small><small>[[G7296]]</small></small></sup> |
+| \[or if\] the | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| pomegranates | <big><span class="asgreek">ροαί</span></big> <sup><small><small>[[G9029]]</small></small></sup> |
 [[Song.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.10|<< Song of Solomon 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.12|Song of Solomon 6:12 >>]]</td></tr></table>
 
 

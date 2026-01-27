@@ -9,22 +9,22 @@ I have dug wells and drunk foreign waters. With the soles of my feet I have drie
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| cooled \[myself\] | <span class="asgreek">έψυξα <sup><small><small>[[G5594]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| drank | <span class="asgreek">έπιον <sup><small><small>[[G4095]]</small></small></sup> </span> |
-| waters | <span class="asgreek">ύδατα <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| alien | <span class="asgreek">αλλότρια <sup><small><small>[[G0245]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I made quite desolate | <span class="asgreek">εξηρήμωσα <sup><small><small>[[G7315]]</small></small></sup> </span> |
-| with the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sole | <span class="asgreek">ίχνει <sup><small><small>[[G2487]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of my feet | <span class="asgreek">ποδών <sup><small><small>[[G4228]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rivers | <span class="asgreek">ποταμούς <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| of \[the\] citadel. | <span class="asgreek">περιοχής <sup><small><small>[[G4042]]</small></small></sup> </span> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| cooled \[myself\] | <big><span class="asgreek">έψυξα</span></big> <sup><small><small>[[G5594]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| drank | <big><span class="asgreek">έπιον</span></big> <sup><small><small>[[G4095]]</small></small></sup> |
+| waters | <big><span class="asgreek">ύδατα</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| alien | <big><span class="asgreek">αλλότρια</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I made quite desolate | <big><span class="asgreek">εξηρήμωσα</span></big> <sup><small><small>[[G7315]]</small></small></sup> |
+| with the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sole | <big><span class="asgreek">ίχνει</span></big> <sup><small><small>[[G2487]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of my feet | <big><span class="asgreek">ποδών</span></big> <sup><small><small>[[G4228]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rivers | <big><span class="asgreek">ποταμούς</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| of \[the\] citadel. | <big><span class="asgreek">περιοχής</span></big> <sup><small><small>[[G4042]]</small></small></sup> |
 [[2Kgs.19.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.23|<< 2 Kings 19:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.25|2 Kings 19:25 >>]]</td></tr></table>
 
 

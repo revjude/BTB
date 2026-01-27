@@ -9,16 +9,16 @@ If you sin, what do you accomplish against Him? If you multiply your transgressi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| If | <span class="asgreek">ει <sup><small><small>[[G1487]]</small></small></sup> </span> |
-| you sinned, | <span class="asgreek">ήμαρτες <sup><small><small>[[G0264]]</small></small></sup> </span> |
-| what | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| will you do? | <span class="asgreek">πράξεις <sup><small><small>[[G4238]]</small></small></sup> </span> |
-| And even if | <span class="asgreek">ει δε και <sup><small><small>[[G7048]]</small></small></sup> </span> |
-| in many \[things\] | <span class="asgreek">πολλά <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| you acted lawlessly, | <span class="asgreek">ηνόμησας <sup><small><small>[[G6349]]</small></small></sup> </span> |
-| what | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| are you able | <span class="asgreek">δύνασαι <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| to do? | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> </span> |
+| If | <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1487]]</small></small></sup> |
+| you sinned, | <big><span class="asgreek">ήμαρτες</span></big> <sup><small><small>[[G0264]]</small></small></sup> |
+| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| will you do? | <big><span class="asgreek">πράξεις</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
+| And even if | <big><span class="asgreek">ει δε και</span></big> <sup><small><small>[[G7048]]</small></small></sup> |
+| in many \[things\] | <big><span class="asgreek">πολλά</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| you acted lawlessly, | <big><span class="asgreek">ηνόμησας</span></big> <sup><small><small>[[G6349]]</small></small></sup> |
+| what | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| are you able | <big><span class="asgreek">δύνασαι</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| to do? | <big><span class="asgreek">ποιήσαι</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
 [[Job.35.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.5|<< Job 35:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.7|Job 35:7 >>]]</td></tr></table>
 
 

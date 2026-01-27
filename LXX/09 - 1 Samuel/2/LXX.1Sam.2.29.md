@@ -9,30 +9,30 @@ Why then do you kick at My sacrifice and offering that I have prescribed for My 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Why have | <span class="asgreek">ινατί <sup><small><small>[[G2444]]</small></small></sup> </span> |
-| you looked | <span class="asgreek">επέβλεψας <sup><small><small>[[G1914]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my incense \[offering\], | <span class="asgreek">θυμίαμά <sup><small><small>[[G2368]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my sacrifice \[offering\] | <span class="asgreek">θυσίαν <sup><small><small>[[G2378]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[with an\] impudent | <span class="asgreek">αναιδεί <sup><small><small>[[G6282]]</small></small></sup> </span> |
-| eye, | <span class="asgreek">οφθαλμώ <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| glorified | <span class="asgreek">εδόξασας <sup><small><small>[[G1392]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your sons | <span class="asgreek">υιούς <sup><small><small>[[G5207]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| above | <span class="asgreek">υπέρ <sup><small><small>[[G5228]]</small></small></sup> </span> |
-| me, | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in \[them\] blessing themselves | <span class="asgreek">ενευλογείσθαι <sup><small><small>[[G1757]]</small></small></sup> </span> |
-| \[with the\] first-fruit | <span class="asgreek">απαρχής <sup><small><small>[[G0536]]</small></small></sup> </span> |
-| of every | <span class="asgreek">πάσης <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| sacrifice | <span class="asgreek">θυσίας <sup><small><small>[[G2378]]</small></small></sup> </span> |
-| of Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
-| prior | <span class="asgreek">έμπροσθέν <sup><small><small>[[G1715]]</small></small></sup> </span> |
-| of me? | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Why have | <big><span class="asgreek">ινατί</span></big> <sup><small><small>[[G2444]]</small></small></sup> |
+| you looked | <big><span class="asgreek">επέβλεψας</span></big> <sup><small><small>[[G1914]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my incense \[offering\], | <big><span class="asgreek">θυμίαμά</span></big> <sup><small><small>[[G2368]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my sacrifice \[offering\] | <big><span class="asgreek">θυσίαν</span></big> <sup><small><small>[[G2378]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[with an\] impudent | <big><span class="asgreek">αναιδεί</span></big> <sup><small><small>[[G6282]]</small></small></sup> |
+| eye, | <big><span class="asgreek">οφθαλμώ</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| glorified | <big><span class="asgreek">εδόξασας</span></big> <sup><small><small>[[G1392]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your sons | <big><span class="asgreek">υιούς</span></big> <sup><small><small>[[G5207]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| above | <big><span class="asgreek">υπέρ</span></big> <sup><small><small>[[G5228]]</small></small></sup> |
+| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in \[them\] blessing themselves | <big><span class="asgreek">ενευλογείσθαι</span></big> <sup><small><small>[[G1757]]</small></small></sup> |
+| \[with the\] first-fruit | <big><span class="asgreek">απαρχής</span></big> <sup><small><small>[[G0536]]</small></small></sup> |
+| of every | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| sacrifice | <big><span class="asgreek">θυσίας</span></big> <sup><small><small>[[G2378]]</small></small></sup> |
+| of Israel, | <big><span class="asgreek">Ισραήλ</span></big> <sup><small><small>[[G2474]]</small></small></sup> |
+| prior | <big><span class="asgreek">έμπροσθέν</span></big> <sup><small><small>[[G1715]]</small></small></sup> |
+| of me? | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[1Sam.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.28|<< 1 Samuel 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.30|1 Samuel 2:30 >>]]</td></tr></table>
 
 

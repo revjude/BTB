@@ -9,17 +9,17 @@ But if you refuse to let them go, I will plague your whole country with frogs.<
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| should not | <span class="asgreek">ει δε μη <sup><small><small>[[G1490]]</small></small></sup> </span> |
-| be willing | <span class="asgreek">βούλη <sup><small><small>[[G1014]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to send, | <span class="asgreek">εξαποστείλαι <sup><small><small>[[G1821]]</small></small></sup> </span> |
-| behold, | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| strike | <span class="asgreek">τύπτω <sup><small><small>[[G5180]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your boundaries | <span class="asgreek">όριά <sup><small><small>[[G3725]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| with frogs. | <span class="asgreek">βατράχοις <sup><small><small>[[G0944]]</small></small></sup> </span> |
+| should not | <big><span class="asgreek">ει δε μη</span></big> <sup><small><small>[[G1490]]</small></small></sup> |
+| be willing | <big><span class="asgreek">βούλη</span></big> <sup><small><small>[[G1014]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to send, | <big><span class="asgreek">εξαποστείλαι</span></big> <sup><small><small>[[G1821]]</small></small></sup> |
+| behold, | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| strike | <big><span class="asgreek">τύπτω</span></big> <sup><small><small>[[G5180]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your boundaries | <big><span class="asgreek">όριά</span></big> <sup><small><small>[[G3725]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| with frogs. | <big><span class="asgreek">βατράχοις</span></big> <sup><small><small>[[G0944]]</small></small></sup> |
 [[Exod.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.1|<< Exodus 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.3|Exodus 8:3 >>]]</td></tr></table>
 
 

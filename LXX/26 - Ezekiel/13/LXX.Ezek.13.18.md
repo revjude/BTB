@@ -9,39 +9,39 @@ and tell them that this is what the Lord GOD says: Woe to the women who sew magi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall say, | <span class="asgreek">ερείς <sup><small><small>[[G2046]]</small></small></sup> </span> |
-| Thus | <span class="asgreek">τάδε <sup><small><small>[[G3592]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| Adonai | <span class="asgreek">Αδωναϊ <sup><small><small>[[H0113]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>; | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| Woe | <span class="asgreek">ουαί <sup><small><small>[[G3759]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sewing together | <span class="asgreek">συρραπτούσαις <sup><small><small>[[G9351]]</small></small></sup> </span> |
-| pillows | <span class="asgreek">προσκεφάλαια <sup><small><small>[[G4344]]</small></small></sup> </span> |
-| under | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| elbow | <span class="asgreek">αγκώνα <sup><small><small>[[G6118]]</small></small></sup> </span> |
-| of \[the\] hand, | <span class="asgreek">χειρός <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| making | <span class="asgreek">ποιούσαις <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| coverings | <span class="asgreek">επιβόλαια <sup><small><small>[[G7389]]</small></small></sup> </span> |
-| for | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάσαν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| head | <span class="asgreek">κεφαλήν <sup><small><small>[[G2776]]</small></small></sup> </span> |
-| of every | <span class="asgreek">πάσης <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| stature | <span class="asgreek">ηλικίας <sup><small><small>[[G2244]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to pervert | <span class="asgreek">διαστρέφειν <sup><small><small>[[G1294]]</small></small></sup> </span> |
-| souls. | <span class="asgreek">ψυχάς <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| The | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| souls | <span class="asgreek">ψυχαί <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| are perverted | <span class="asgreek">διεστράφησαν <sup><small><small>[[G1294]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of my people, | <span class="asgreek">λαού <sup><small><small>[[G2992]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| souls | <span class="asgreek">ψυχάς <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| they protected | <span class="asgreek">περιεποιούντο <sup><small><small>[[G4046]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall say, | <big><span class="asgreek">ερείς</span></big> <sup><small><small>[[G2046]]</small></small></sup> |
+| Thus | <big><span class="asgreek">τάδε</span></big> <sup><small><small>[[G3592]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| Adonai | <big><span class="asgreek">Αδωναϊ</span></big> <sup><small><small>[[H0113]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>; | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sewing together | <big><span class="asgreek">συρραπτούσαις</span></big> <sup><small><small>[[G9351]]</small></small></sup> |
+| pillows | <big><span class="asgreek">προσκεφάλαια</span></big> <sup><small><small>[[G4344]]</small></small></sup> |
+| under | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| elbow | <big><span class="asgreek">αγκώνα</span></big> <sup><small><small>[[G6118]]</small></small></sup> |
+| of \[the\] hand, | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| making | <big><span class="asgreek">ποιούσαις</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| coverings | <big><span class="asgreek">επιβόλαια</span></big> <sup><small><small>[[G7389]]</small></small></sup> |
+| for | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| head | <big><span class="asgreek">κεφαλήν</span></big> <sup><small><small>[[G2776]]</small></small></sup> |
+| of every | <big><span class="asgreek">πάσης</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| stature | <big><span class="asgreek">ηλικίας</span></big> <sup><small><small>[[G2244]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to pervert | <big><span class="asgreek">διαστρέφειν</span></big> <sup><small><small>[[G1294]]</small></small></sup> |
+| souls. | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| The | <big><span class="asgreek">αι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| souls | <big><span class="asgreek">ψυχαί</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| are perverted | <big><span class="asgreek">διεστράφησαν</span></big> <sup><small><small>[[G1294]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of my people, | <big><span class="asgreek">λαού</span></big> <sup><small><small>[[G2992]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| souls | <big><span class="asgreek">ψυχάς</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| they protected | <big><span class="asgreek">περιεποιούντο</span></big> <sup><small><small>[[G4046]]</small></small></sup> |
 [[Ezek.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.17|<< Ezekiel 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.19|Ezekiel 13:19 >>]]</td></tr></table>
 
 

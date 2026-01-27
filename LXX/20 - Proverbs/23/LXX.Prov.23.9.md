@@ -9,17 +9,17 @@ Do not speak to a fool, for he will despise the wisdom of your words.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] ears | <span class="asgreek">ώτα <sup><small><small>[[G3775]]</small></small></sup> </span> |
-| of a fool | <span class="asgreek">άφρονος <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| Do not | <span class="asgreek">μηδέν <sup><small><small>[[G3367]]</small></small></sup> </span> |
-| speak | <span class="asgreek">λέγε <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| lest at any time | <span class="asgreek">μή ποτε <sup><small><small>[[G3379]]</small></small></sup> </span> |
-| he sneer at | <span class="asgreek">μυκτηρίση <sup><small><small>[[G3456]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| discerning | <span class="asgreek">συνετούς <sup><small><small>[[G4908]]</small></small></sup> </span> |
-| your | <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| words. | <span class="asgreek">λόγους <sup><small><small>[[G3056]]</small></small></sup> </span> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] ears | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> |
+| of a fool | <big><span class="asgreek">άφρονος</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| Do not | <big><span class="asgreek">μηδέν</span></big> <sup><small><small>[[G3367]]</small></small></sup> |
+| speak | <big><span class="asgreek">λέγε</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| lest at any time | <big><span class="asgreek">μή ποτε</span></big> <sup><small><small>[[G3379]]</small></small></sup> |
+| he sneer at | <big><span class="asgreek">μυκτηρίση</span></big> <sup><small><small>[[G3456]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| discerning | <big><span class="asgreek">συνετούς</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
+| your | <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| words. | <big><span class="asgreek">λόγους</span></big> <sup><small><small>[[G3056]]</small></small></sup> |
 [[Prov.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.8|<< Proverbs 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.10|Proverbs 23:10 >>]]</td></tr></table>
 
 

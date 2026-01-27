@@ -9,28 +9,28 @@ O Ephraim, what have I to do anymore with idols? It is I who answer and watch ov
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[To\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Ephraim, | <span class="asgreek">Εφραϊμ <sup><small><small>[[G2187]]</small></small></sup> </span> |
-| what \[is there\] | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| yet | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to idols? | <span class="asgreek">ειδώλοις <sup><small><small>[[G1497]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| humbled | <span class="asgreek">εταπείνωσα <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| him, | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I shall strengthen | <span class="asgreek">κατισχύσω <sup><small><small>[[G2729]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I am | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a juniper | <span class="asgreek">άρκευθος <sup><small><small>[[G6534]]</small></small></sup> </span> |
-| being dense. | <span class="asgreek">πυκάζουσα <sup><small><small>[[G8987]]</small></small></sup> </span> |
-| From | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your fruit | <span class="asgreek">καρπός σου <sup><small><small>[[G2590]]</small></small></sup> </span> |
-| has been found. | <span class="asgreek">εύρηται <sup><small><small>[[G2147]]</small></small></sup> </span> |
+| \[To\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Ephraim, | <big><span class="asgreek">Εφραϊμ</span></big> <sup><small><small>[[G2187]]</small></small></sup> |
+| what \[is there\] | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| yet | <big><span class="asgreek">έτι</span></big> <sup><small><small>[[G2089]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to idols? | <big><span class="asgreek">ειδώλοις</span></big> <sup><small><small>[[G1497]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| humbled | <big><span class="asgreek">εταπείνωσα</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I shall strengthen | <big><span class="asgreek">κατισχύσω</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I am | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a juniper | <big><span class="asgreek">άρκευθος</span></big> <sup><small><small>[[G6534]]</small></small></sup> |
+| being dense. | <big><span class="asgreek">πυκάζουσα</span></big> <sup><small><small>[[G8987]]</small></small></sup> |
+| From | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| me | <big><span class="asgreek">εμού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your fruit | <big><span class="asgreek">καρπός σου</span></big> <sup><small><small>[[G2590]]</small></small></sup> |
+| has been found. | <big><span class="asgreek">εύρηται</span></big> <sup><small><small>[[G2147]]</small></small></sup> |
 [[Hos.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.14.7|<< Hosea 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.14.9|Hosea 14:9 >>]]</td></tr></table>
 
 

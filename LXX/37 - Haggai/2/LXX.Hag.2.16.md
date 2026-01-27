@@ -9,31 +9,31 @@ from that time, when one came expecting a heap of twenty ephahs of grain, there 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| what | <span class="asgreek">τίνες <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| you were | <span class="asgreek">ήτε <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| when | <span class="asgreek">ότε <sup><small><small>[[G3753]]</small></small></sup> </span> |
-| you put | <span class="asgreek">ενεβάλλετε <sup><small><small>[[G1685]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] granary | <span class="asgreek">κυψέλην <sup><small><small>[[G8136]]</small></small></sup> </span> |
-| of barley | <span class="asgreek">κριθής <sup><small><small>[[G2915]]</small></small></sup> </span> |
-| twenty | <span class="asgreek">είκοσι <sup><small><small>[[G1501]]</small></small></sup> </span> |
-| seahs | <span class="asgreek">σάτα <sup><small><small>[[G4568]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there existed | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \[only\] ten | <span class="asgreek">δέκα <sup><small><small>[[G1176]]</small></small></sup> </span> |
-| seahs | <span class="asgreek">σάτα <sup><small><small>[[G4568]]</small></small></sup> </span> |
-| of barley. | <span class="asgreek">κριθής <sup><small><small>[[G2915]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you entered | <span class="asgreek">εισεπορεύεσθε <sup><small><small>[[G1531]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wine-vat | <span class="asgreek">υπολήνιον <sup><small><small>[[G5276]]</small></small></sup> </span> |
-| to draw out | <span class="asgreek">εξαντλήσαι <sup><small><small>[[G7297]]</small></small></sup> </span> |
-| fifty | <span class="asgreek">πεντήκοντα <sup><small><small>[[G4004]]</small></small></sup> </span> |
-| measures, | <span class="asgreek">μετρητάς <sup><small><small>[[G3355]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| there existed | <span class="asgreek">εγένοντο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| \[only\] twenty. | <span class="asgreek">είκοσι <sup><small><small>[[G1501]]</small></small></sup> </span> |
+| what | <big><span class="asgreek">τίνες</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| you were | <big><span class="asgreek">ήτε</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| when | <big><span class="asgreek">ότε</span></big> <sup><small><small>[[G3753]]</small></small></sup> |
+| you put | <big><span class="asgreek">ενεβάλλετε</span></big> <sup><small><small>[[G1685]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] granary | <big><span class="asgreek">κυψέλην</span></big> <sup><small><small>[[G8136]]</small></small></sup> |
+| of barley | <big><span class="asgreek">κριθής</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
+| twenty | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
+| seahs | <big><span class="asgreek">σάτα</span></big> <sup><small><small>[[G4568]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there existed | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \[only\] ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| seahs | <big><span class="asgreek">σάτα</span></big> <sup><small><small>[[G4568]]</small></small></sup> |
+| of barley. | <big><span class="asgreek">κριθής</span></big> <sup><small><small>[[G2915]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you entered | <big><span class="asgreek">εισεπορεύεσθε</span></big> <sup><small><small>[[G1531]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wine-vat | <big><span class="asgreek">υπολήνιον</span></big> <sup><small><small>[[G5276]]</small></small></sup> |
+| to draw out | <big><span class="asgreek">εξαντλήσαι</span></big> <sup><small><small>[[G7297]]</small></small></sup> |
+| fifty | <big><span class="asgreek">πεντήκοντα</span></big> <sup><small><small>[[G4004]]</small></small></sup> |
+| measures, | <big><span class="asgreek">μετρητάς</span></big> <sup><small><small>[[G3355]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| there existed | <big><span class="asgreek">εγένοντο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| \[only\] twenty. | <big><span class="asgreek">είκοσι</span></big> <sup><small><small>[[G1501]]</small></small></sup> |
 [[Hag.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.15|<< Haggai 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.17|Haggai 2:17 >>]]</td></tr></table>
 
 

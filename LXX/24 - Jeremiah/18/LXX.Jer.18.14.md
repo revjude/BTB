@@ -9,22 +9,22 @@ Does the snow of Lebanon ever leave its rocky slopes? Or do its cool waters flow
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Shall | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| fail | <span class="asgreek">εκλείψουσιν <sup><small><small>[[G1587]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \[the\] rock | <span class="asgreek">πέτρας <sup><small><small>[[G4073]]</small></small></sup> </span> |
-| nipples | <span class="asgreek">μαστοί <sup><small><small>[[G3149]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| snow | <span class="asgreek">χιών <sup><small><small>[[G5510]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Lebanon range? | <span class="asgreek">Λιβάνου <sup><small><small>[[H3844]]</small></small></sup> </span> |
-| Will | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| turn aside | <span class="asgreek">εκκλίνη <sup><small><small>[[G1578]]</small></small></sup> </span> |
-| water | <span class="asgreek">ύδωρ <sup><small><small>[[G5204]]</small></small></sup> </span> |
-| forcibly | <span class="asgreek">βιαίως <sup><small><small>[[G6670]]</small></small></sup> </span> |
-| by a wind | <span class="asgreek">ανέμω <sup><small><small>[[G0417]]</small></small></sup> </span> |
-| being brought | <span class="asgreek">φερόμενον <sup><small><small>[[G5342]]</small></small></sup> </span> |
+| Shall | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| fail | <big><span class="asgreek">εκλείψουσιν</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \[the\] rock | <big><span class="asgreek">πέτρας</span></big> <sup><small><small>[[G4073]]</small></small></sup> |
+| nipples | <big><span class="asgreek">μαστοί</span></big> <sup><small><small>[[G3149]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| snow | <big><span class="asgreek">χιών</span></big> <sup><small><small>[[G5510]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Lebanon range? | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
+| Will | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| turn aside | <big><span class="asgreek">εκκλίνη</span></big> <sup><small><small>[[G1578]]</small></small></sup> |
+| water | <big><span class="asgreek">ύδωρ</span></big> <sup><small><small>[[G5204]]</small></small></sup> |
+| forcibly | <big><span class="asgreek">βιαίως</span></big> <sup><small><small>[[G6670]]</small></small></sup> |
+| by a wind | <big><span class="asgreek">ανέμω</span></big> <sup><small><small>[[G0417]]</small></small></sup> |
+| being brought | <big><span class="asgreek">φερόμενον</span></big> <sup><small><small>[[G5342]]</small></small></sup> |
 [[Jer.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.13|<< Jeremiah 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.15|Jeremiah 18:15 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ Its portico faced the outer court, and its side pillars were decorated with palm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| portals | <span class="asgreek">αιλαύ <sup><small><small>[[G6160]]</small></small></sup> </span> |
-| of | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| courtyard | <span class="asgreek">αυλής <sup><small><small>[[G0833]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| outer | <span class="asgreek">εξωτέρας <sup><small><small>[[G1857]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| palms | <span class="asgreek">φοίνικες <sup><small><small>[[G5404]]</small></small></sup> </span> |
-| of portals | <span class="asgreek">αιλαύ <sup><small><small>[[G6160]]</small></small></sup> </span> |
-| on this side and that side, | <span class="asgreek">ένθεν και ένθεν <sup><small><small>[[G6033]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| eight | <span class="asgreek">οκτώ <sup><small><small>[[G3638]]</small></small></sup> </span> |
-| steps. | <span class="asgreek">κλημακτήρες <sup><small><small>[[G8024]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| portals | <big><span class="asgreek">αιλαύ</span></big> <sup><small><small>[[G6160]]</small></small></sup> |
+| of | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| courtyard | <big><span class="asgreek">αυλής</span></big> <sup><small><small>[[G0833]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| outer | <big><span class="asgreek">εξωτέρας</span></big> <sup><small><small>[[G1857]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| palms | <big><span class="asgreek">φοίνικες</span></big> <sup><small><small>[[G5404]]</small></small></sup> |
+| of portals | <big><span class="asgreek">αιλαύ</span></big> <sup><small><small>[[G6160]]</small></small></sup> |
+| on this side and that side, | <big><span class="asgreek">ένθεν και ένθεν</span></big> <sup><small><small>[[G6033]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| eight | <big><span class="asgreek">οκτώ</span></big> <sup><small><small>[[G3638]]</small></small></sup> |
+| steps. | <big><span class="asgreek">κλημακτήρες</span></big> <sup><small><small>[[G8024]]</small></small></sup> |
 [[Ezek.40.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.36|<< Ezekiel 40:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.38|Ezekiel 40:38 >>]]</td></tr></table>
 
 

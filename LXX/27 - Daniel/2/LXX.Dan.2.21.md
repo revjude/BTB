@@ -9,25 +9,25 @@ He changes the times and seasons; He removes kings and establishes them. He give
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| changes | <span class="asgreek">αλλοιοί <sup><small><small>[[G6230]]</small></small></sup> </span> |
-| seasons | <span class="asgreek">καιρούς <sup><small><small>[[G2540]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| times; | <span class="asgreek">χρόνους <sup><small><small>[[G5550]]</small></small></sup> </span> |
-| he ordains | <span class="asgreek">καθιστά <sup><small><small>[[G2525]]</small></small></sup> </span> |
-| kings, | <span class="asgreek">βασιλείς <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| changes; | <span class="asgreek">μεθιστά <sup><small><small>[[G3179]]</small></small></sup> </span> |
-| giving | <span class="asgreek">διδούς <sup><small><small>[[G1325]]</small></small></sup> </span> |
-| wisdom | <span class="asgreek">σοφίαν <sup><small><small>[[G4678]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wise, | <span class="asgreek">σοφοίς <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| intelligence | <span class="asgreek">φρόνησιν <sup><small><small>[[G5428]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| knowing | <span class="asgreek">ειδόσι <sup><small><small>[[G1492]]</small></small></sup> </span> |
-| understanding. | <span class="asgreek">σύνεσιν <sup><small><small>[[G4907]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he | <big><span class="asgreek">αυτός</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| changes | <big><span class="asgreek">αλλοιοί</span></big> <sup><small><small>[[G6230]]</small></small></sup> |
+| seasons | <big><span class="asgreek">καιρούς</span></big> <sup><small><small>[[G2540]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| times; | <big><span class="asgreek">χρόνους</span></big> <sup><small><small>[[G5550]]</small></small></sup> |
+| he ordains | <big><span class="asgreek">καθιστά</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
+| kings, | <big><span class="asgreek">βασιλείς</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| changes; | <big><span class="asgreek">μεθιστά</span></big> <sup><small><small>[[G3179]]</small></small></sup> |
+| giving | <big><span class="asgreek">διδούς</span></big> <sup><small><small>[[G1325]]</small></small></sup> |
+| wisdom | <big><span class="asgreek">σοφίαν</span></big> <sup><small><small>[[G4678]]</small></small></sup> |
+| to the | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wise, | <big><span class="asgreek">σοφοίς</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| intelligence | <big><span class="asgreek">φρόνησιν</span></big> <sup><small><small>[[G5428]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| knowing | <big><span class="asgreek">ειδόσι</span></big> <sup><small><small>[[G1492]]</small></small></sup> |
+| understanding. | <big><span class="asgreek">σύνεσιν</span></big> <sup><small><small>[[G4907]]</small></small></sup> |
 [[Dan.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.20|<< Daniel 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.22|Daniel 2:22 >>]]</td></tr></table>
 
 

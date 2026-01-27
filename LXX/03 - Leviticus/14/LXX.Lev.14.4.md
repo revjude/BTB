@@ -9,26 +9,26 @@ the priest shall order that two live clean birds, cedar wood, scarlet yarn, and 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| then | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall assign | <span class="asgreek">προστάξει <sup><small><small>[[G4367]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| priest | <span class="asgreek">ιερεύς <sup><small><small>[[G2409]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall take | <span class="asgreek">λήψονται <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| for the one | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being cleansed | <span class="asgreek">κεκαθαρισμένω <sup><small><small>[[G2511]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| small birds | <span class="asgreek">ορνίθια <sup><small><small>[[G8551]]</small></small></sup> </span> |
-| living | <span class="asgreek">ζώντα <sup><small><small>[[G2198]]</small></small></sup> </span> |
-| clean | <span class="asgreek">καθαρά <sup><small><small>[[G2513]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wood | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| of cedar, | <span class="asgreek">κέδρινον <sup><small><small>[[G7989]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| twined | <span class="asgreek">κεκλωσμένον <sup><small><small>[[G8029]]</small></small></sup> </span> |
-| scarlet, | <span class="asgreek">κόκκινον <sup><small><small>[[G2847]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| hyssop. | <span class="asgreek">ύσσωπον <sup><small><small>[[G5301]]</small></small></sup> </span> |
+| then | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall assign | <big><span class="asgreek">προστάξει</span></big> <sup><small><small>[[G4367]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| priest | <big><span class="asgreek">ιερεύς</span></big> <sup><small><small>[[G2409]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall take | <big><span class="asgreek">λήψονται</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| for the one | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being cleansed | <big><span class="asgreek">κεκαθαρισμένω</span></big> <sup><small><small>[[G2511]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| small birds | <big><span class="asgreek">ορνίθια</span></big> <sup><small><small>[[G8551]]</small></small></sup> |
+| living | <big><span class="asgreek">ζώντα</span></big> <sup><small><small>[[G2198]]</small></small></sup> |
+| clean | <big><span class="asgreek">καθαρά</span></big> <sup><small><small>[[G2513]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wood | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| of cedar, | <big><span class="asgreek">κέδρινον</span></big> <sup><small><small>[[G7989]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| twined | <big><span class="asgreek">κεκλωσμένον</span></big> <sup><small><small>[[G8029]]</small></small></sup> |
+| scarlet, | <big><span class="asgreek">κόκκινον</span></big> <sup><small><small>[[G2847]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| hyssop. | <big><span class="asgreek">ύσσωπον</span></big> <sup><small><small>[[G5301]]</small></small></sup> |
 [[Lev.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.3|<< Leviticus 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.5|Leviticus 14:5 >>]]</td></tr></table>
 
 

@@ -9,17 +9,17 @@ I was speechless and still; I remained silent, even from speaking good, and my s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I was mute | <span class="asgreek">εκωφώθην <sup><small><small>[[G8147]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| humbled | <span class="asgreek">εταπεινώθην <sup><small><small>[[G5013]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| quiet | <span class="asgreek">εσίγησα <sup><small><small>[[G4601]]</small></small></sup> </span> |
-| of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| good \[words\], | <span class="asgreek">αγαθών <sup><small><small>[[G0018]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my pain | <span class="asgreek">άλγημά <sup><small><small>[[G6218]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| was renewed. | <span class="asgreek">ανεκαινίσθη <sup><small><small>[[G0340]]</small></small></sup> </span> |
+| I was mute | <big><span class="asgreek">εκωφώθην</span></big> <sup><small><small>[[G8147]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| humbled | <big><span class="asgreek">εταπεινώθην</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| quiet | <big><span class="asgreek">εσίγησα</span></big> <sup><small><small>[[G4601]]</small></small></sup> |
+| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| good \[words\], | <big><span class="asgreek">αγαθών</span></big> <sup><small><small>[[G0018]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my pain | <big><span class="asgreek">άλγημά</span></big> <sup><small><small>[[G6218]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| was renewed. | <big><span class="asgreek">ανεκαινίσθη</span></big> <sup><small><small>[[G0340]]</small></small></sup> |
 [[Ps.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.1|<< Psalm 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.3|Psalm 39:3 >>]]</td></tr></table>
 
 

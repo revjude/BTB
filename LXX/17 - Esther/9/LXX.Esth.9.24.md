@@ -9,20 +9,20 @@ For Haman son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| of how | <span class="asgreek">πως <sup><small><small>[[G4459]]</small></small></sup> </span> |
-| Haman | <span class="asgreek">Αμάν <sup><small><small>[[H2001]]</small></small></sup> </span> |
-| \[son of\] Hammedatha | <span class="asgreek">Αμαδαθού <sup><small><small>[[H4099]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Macedonian | <span class="asgreek">Μακεδών <sup><small><small>[[G3109]]</small></small></sup> </span> |
-| waged war | <span class="asgreek">επολέμει <sup><small><small>[[G4170]]</small></small></sup> </span> |
-| against them; | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">καθώς <sup><small><small>[[G2531]]</small></small></sup> </span> |
-| he ordained | <span class="asgreek">έθετο <sup><small><small>[[G5087]]</small></small></sup> </span> |
-| a referendum | <span class="asgreek">ψήφισμα <sup><small><small>[[G9793]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] lot, | <span class="asgreek">κλήρον <sup><small><small>[[G2819]]</small></small></sup> </span> |
-| to obliterate | <span class="asgreek">αφανίσαι <sup><small><small>[[G0853]]</small></small></sup> </span> |
-| them; | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| of how | <big><span class="asgreek">πως</span></big> <sup><small><small>[[G4459]]</small></small></sup> |
+| Haman | <big><span class="asgreek">Αμάν</span></big> <sup><small><small>[[H2001]]</small></small></sup> |
+| \[son of\] Hammedatha | <big><span class="asgreek">Αμαδαθού</span></big> <sup><small><small>[[H4099]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Macedonian | <big><span class="asgreek">Μακεδών</span></big> <sup><small><small>[[G3109]]</small></small></sup> |
+| waged war | <big><span class="asgreek">επολέμει</span></big> <sup><small><small>[[G4170]]</small></small></sup> |
+| against them; | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">καθώς</span></big> <sup><small><small>[[G2531]]</small></small></sup> |
+| he ordained | <big><span class="asgreek">έθετο</span></big> <sup><small><small>[[G5087]]</small></small></sup> |
+| a referendum | <big><span class="asgreek">ψήφισμα</span></big> <sup><small><small>[[G9793]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] lot, | <big><span class="asgreek">κλήρον</span></big> <sup><small><small>[[G2819]]</small></small></sup> |
+| to obliterate | <big><span class="asgreek">αφανίσαι</span></big> <sup><small><small>[[G0853]]</small></small></sup> |
+| them; | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Esth.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.23|<< Esther 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.25|Esther 9:25 >>]]</td></tr></table>
 
 

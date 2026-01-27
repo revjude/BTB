@@ -13,32 +13,32 @@ you are to present to the LORD the firstborn male of every womb. All the firstbo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you shall separate | <span class="asgreek">αφοριείς <sup><small><small>[[G0873]]</small></small></sup> </span> |
-| every \[offspring\] | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| opening | <span class="asgreek">διανοίγον <sup><small><small>[[G1272]]</small></small></sup> </span> |
-| \[the\] womb, | <span class="asgreek">μήτραν <sup><small><small>[[G3388]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| males | <span class="asgreek">αρσενικά <sup><small><small>[[G6544]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| every \[offspring\] | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| opening | <span class="asgreek">διανοίγον <sup><small><small>[[G1272]]</small></small></sup> </span> |
-| \[the\] womb | <span class="asgreek">μήτραν <sup><small><small>[[G3388]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| herds | <span class="asgreek">βουκολίων <sup><small><small>[[G6690]]</small></small></sup> </span> |
-| among | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your cattle. | <span class="asgreek">κτήνεσί <sup><small><small>[[G2934]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| As many | <span class="asgreek">όσα <sup><small><small>[[G3745]]</small></small></sup> </span> |
-| as | <span class="asgreek">αν <sup><small><small>[[G0302]]</small></small></sup> </span> |
-| come to pass | <span class="asgreek">γένηταί <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| to you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| males | <span class="asgreek">αρσενικά <sup><small><small>[[G6544]]</small></small></sup> </span> |
-| \[are\] to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| that | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you shall separate | <big><span class="asgreek">αφοριείς</span></big> <sup><small><small>[[G0873]]</small></small></sup> |
+| every \[offspring\] | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| opening | <big><span class="asgreek">διανοίγον</span></big> <sup><small><small>[[G1272]]</small></small></sup> |
+| \[the\] womb, | <big><span class="asgreek">μήτραν</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| males | <big><span class="asgreek">αρσενικά</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>, | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| every \[offspring\] | <big><span class="asgreek">παν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| opening | <big><span class="asgreek">διανοίγον</span></big> <sup><small><small>[[G1272]]</small></small></sup> |
+| \[the\] womb | <big><span class="asgreek">μήτραν</span></big> <sup><small><small>[[G3388]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| herds | <big><span class="asgreek">βουκολίων</span></big> <sup><small><small>[[G6690]]</small></small></sup> |
+| among | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your cattle. | <big><span class="asgreek">κτήνεσί</span></big> <sup><small><small>[[G2934]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| As many | <big><span class="asgreek">όσα</span></big> <sup><small><small>[[G3745]]</small></small></sup> |
+| as | <big><span class="asgreek">αν</span></big> <sup><small><small>[[G0302]]</small></small></sup> |
+| come to pass | <big><span class="asgreek">γένηταί</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| males | <big><span class="asgreek">αρσενικά</span></big> <sup><small><small>[[G6544]]</small></small></sup> |
+| \[are\] to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Exod.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.11|<< Exodus 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.13|Exodus 13:13 >>]]</td></tr></table>
 
 

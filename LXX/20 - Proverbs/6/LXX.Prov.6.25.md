@@ -9,21 +9,21 @@ Do not lust in your heart for her beauty or let her captivate you with her eyes.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| O son, | <span class="asgreek">υιέ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| let not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| overcome you | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">νικήση <sup><small><small>[[G3528]]</small></small></sup> </span> |
-| of beauty | <span class="asgreek">κάλλους <sup><small><small>[[G7782]]</small></small></sup> </span> |
-| \[the\] desire | <span class="asgreek">επιθυμία <sup><small><small>[[G1939]]</small></small></sup> </span> |
-| nor | <span class="asgreek">μηδέ <sup><small><small>[[G3366]]</small></small></sup> </span> |
-| be caught | <span class="asgreek">αγρευθής <sup><small><small>[[G0064]]</small></small></sup> </span> |
-| your | <span class="asgreek">σοις <sup><small><small>[[G4674]]</small></small></sup> </span> |
-| eyes | <span class="asgreek">οφθαλμοίς <sup><small><small>[[G3788]]</small></small></sup> </span> |
-| nor | <span class="asgreek">μηδέ <sup><small><small>[[G3366]]</small></small></sup> </span> |
-| seized | <span class="asgreek">συναρπασθής <sup><small><small>[[G4884]]</small></small></sup> </span> |
-| by | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| eyelids. | <span class="asgreek">βλεφάρων <sup><small><small>[[G6678]]</small></small></sup> </span> |
+| O son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| let not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| overcome you | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">νικήση</span></big> <sup><small><small>[[G3528]]</small></small></sup> |
+| of beauty | <big><span class="asgreek">κάλλους</span></big> <sup><small><small>[[G7782]]</small></small></sup> |
+| \[the\] desire | <big><span class="asgreek">επιθυμία</span></big> <sup><small><small>[[G1939]]</small></small></sup> |
+| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
+| be caught | <big><span class="asgreek">αγρευθής</span></big> <sup><small><small>[[G0064]]</small></small></sup> |
+| your | <big><span class="asgreek">σοις</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
+| eyes | <big><span class="asgreek">οφθαλμοίς</span></big> <sup><small><small>[[G3788]]</small></small></sup> |
+| nor | <big><span class="asgreek">μηδέ</span></big> <sup><small><small>[[G3366]]</small></small></sup> |
+| seized | <big><span class="asgreek">συναρπασθής</span></big> <sup><small><small>[[G4884]]</small></small></sup> |
+| by | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| eyelids. | <big><span class="asgreek">βλεφάρων</span></big> <sup><small><small>[[G6678]]</small></small></sup> |
 [[Prov.6.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.24|<< Proverbs 6:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.26|Proverbs 6:26 >>]]</td></tr></table>
 
 

@@ -13,21 +13,21 @@ Hear now this, O foolish people, and without understanding; which have eyes, and
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Hearken | <span class="asgreek">ακούσατε <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">δη <sup><small><small>[[G1211]]</small></small></sup> </span> |
-| to these \[things\], | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| people | <span class="asgreek">λαός <sup><small><small>[[G2992]]</small></small></sup> </span> |
-| O moronish | <span class="asgreek">μωρός <sup><small><small>[[G3474]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| heartless | <span class="asgreek">ακάρδιος <sup><small><small>[[G6179]]</small></small></sup> </span> |
-| They \[have\] eyes, | <span class="asgreek">οφθαλμοί <sup><small><small>[[G3788]]</small></small></sup> <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they do not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| see; | <span class="asgreek">βλέπουσιν <sup><small><small>[[G0991]]</small></small></sup> </span> |
-| they \[have\] ears, | <span class="asgreek">ώτα <sup><small><small>[[G3775]]</small></small></sup> <span class="asgreek">αυτοίς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they do not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| hear. | <span class="asgreek">ακούουσι <sup><small><small>[[G0191]]</small></small></sup> </span> |
+| Hearken | <big><span class="asgreek">ακούσατε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| indeed | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
+| to these \[things\], | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| people | <big><span class="asgreek">λαός</span></big> <sup><small><small>[[G2992]]</small></small></sup> |
+| O moronish | <big><span class="asgreek">μωρός</span></big> <sup><small><small>[[G3474]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| heartless | <big><span class="asgreek">ακάρδιος</span></big> <sup><small><small>[[G6179]]</small></small></sup> |
+| They \[have\] eyes, | <big><span class="asgreek">οφθαλμοί</span></big> <sup><small><small>[[G3788]]</small></small></sup> <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they do not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| see; | <big><span class="asgreek">βλέπουσιν</span></big> <sup><small><small>[[G0991]]</small></small></sup> |
+| they \[have\] ears, | <big><span class="asgreek">ώτα</span></big> <sup><small><small>[[G3775]]</small></small></sup> <big><span class="asgreek">αυτοίς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they do not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| hear. | <big><span class="asgreek">ακούουσι</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
 [[Jer.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.20|<< Jeremiah 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.22|Jeremiah 5:22 >>]]</td></tr></table>
 
 

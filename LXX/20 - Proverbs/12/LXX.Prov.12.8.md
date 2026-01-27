@@ -9,13 +9,13 @@ A man is praised according to his wisdom, but a twisted mind is despised.<small
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] mouth | <span class="asgreek">στόμα <sup><small><small>[[G4750]]</small></small></sup> </span> |
-| of \[the\] discerning | <span class="asgreek">συνετού <sup><small><small>[[G4908]]</small></small></sup> </span> |
-| is lauded | <span class="asgreek">εγκωμιάζεται <sup><small><small>[[G7033]]</small></small></sup> </span> |
-| by | <span class="asgreek">υπό <sup><small><small>[[G5259]]</small></small></sup> </span> |
-| a man; | <span class="asgreek">ανδρός <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| but \[the\] dull of heart | <span class="asgreek">νωθροκάρδιος <sup><small><small>[[G8419]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| is sneered at. | <span class="asgreek">μυκτηρίζεται <sup><small><small>[[G3456]]</small></small></sup> </span> |
+| \[The\] mouth | <big><span class="asgreek">στόμα</span></big> <sup><small><small>[[G4750]]</small></small></sup> |
+| of \[the\] discerning | <big><span class="asgreek">συνετού</span></big> <sup><small><small>[[G4908]]</small></small></sup> |
+| is lauded | <big><span class="asgreek">εγκωμιάζεται</span></big> <sup><small><small>[[G7033]]</small></small></sup> |
+| by | <big><span class="asgreek">υπό</span></big> <sup><small><small>[[G5259]]</small></small></sup> |
+| a man; | <big><span class="asgreek">ανδρός</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| but \[the\] dull of heart | <big><span class="asgreek">νωθροκάρδιος</span></big> <sup><small><small>[[G8419]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| is sneered at. | <big><span class="asgreek">μυκτηρίζεται</span></big> <sup><small><small>[[G3456]]</small></small></sup> |
 [[Prov.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.7|<< Proverbs 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.9|Proverbs 12:9 >>]]</td></tr></table>
 
 

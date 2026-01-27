@@ -9,15 +9,15 @@ Foreigners cower before me; when they hear me, they obey me.<small><sub>**MT:**
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| With | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| a hearing | <span class="asgreek">ακοήν <sup><small><small>[[G0189]]</small></small></sup> </span> |
-| ear | <span class="asgreek">ωτίου <sup><small><small>[[G5621]]</small></small></sup> </span> |
-| it obeyed | <span class="asgreek">υπήκουσέ <sup><small><small>[[G5219]]</small></small></sup> </span> |
-| me. | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| Alien | <span class="asgreek">αλλότριοι <sup><small><small>[[G0245]]</small></small></sup> </span> |
-| lied | <span class="asgreek">εψεύσαντό <sup><small><small>[[G5574]]</small></small></sup> </span> |
-| to me; | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| With | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| a hearing | <big><span class="asgreek">ακοήν</span></big> <sup><small><small>[[G0189]]</small></small></sup> |
+| ear | <big><span class="asgreek">ωτίου</span></big> <sup><small><small>[[G5621]]</small></small></sup> |
+| it obeyed | <big><span class="asgreek">υπήκουσέ</span></big> <sup><small><small>[[G5219]]</small></small></sup> |
+| me. | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| Alien | <big><span class="asgreek">αλλότριοι</span></big> <sup><small><small>[[G0245]]</small></small></sup> |
+| lied | <big><span class="asgreek">εψεύσαντό</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
+| to me; | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[2Sam.22.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.44|<< 2 Samuel 22:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.46|2 Samuel 22:46 >>]]</td></tr></table>
 
 

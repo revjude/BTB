@@ -9,8 +9,8 @@ Hodiah, Bani, and Beninu.<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Beninu. | <span class="asgreek">Βανουνέ <sup><small><small>[[H1148]]</small></small></sup> </span> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Beninu. | <big><span class="asgreek">Βανουνέ</span></big> <sup><small><small>[[H1148]]</small></small></sup> |
 [[Neh.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.12|<< Nehemiah 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.14|Nehemiah 10:14 >>]]</td></tr></table>
 
 

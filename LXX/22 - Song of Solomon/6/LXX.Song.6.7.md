@@ -9,14 +9,14 @@ Your brow behind your veil is like a slice of pomegranate.<small><sub>**MT:**</
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[are\] as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| \[the\] rind | <span class="asgreek">λέπυρον <sup><small><small>[[G8184]]</small></small></sup> </span> |
-| of the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| pomegranate | <span class="asgreek">ροάς <sup><small><small>[[G9029]]</small></small></sup> </span> |
-| Your cheeks | <span class="asgreek">μήλόν <sup><small><small>[[G8316]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[being seen\] outside | <span class="asgreek">εκτός <sup><small><small>[[G1622]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your veil. | <span class="asgreek">σιωπήσεώς <sup><small><small>[[G9091]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[are\] as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| \[the\] rind | <big><span class="asgreek">λέπυρον</span></big> <sup><small><small>[[G8184]]</small></small></sup> |
+| of the | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| pomegranate | <big><span class="asgreek">ροάς</span></big> <sup><small><small>[[G9029]]</small></small></sup> |
+| Your cheeks | <big><span class="asgreek">μήλόν</span></big> <sup><small><small>[[G8316]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[being seen\] outside | <big><span class="asgreek">εκτός</span></big> <sup><small><small>[[G1622]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your veil. | <big><span class="asgreek">σιωπήσεώς</span></big> <sup><small><small>[[G9091]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Song.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.6|<< Song of Solomon 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.8|Song of Solomon 6:8 >>]]</td></tr></table>
 
 

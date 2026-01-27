@@ -9,20 +9,20 @@ I never sat with the band of revelers, nor did I celebrate with them. Because Yo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I sat not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">εκάθισα <sup><small><small>[[G2523]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| their sanhedrin | <span class="asgreek">συνεδρίω <sup><small><small>[[G4892]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| playing about, | <span class="asgreek">παιζόντων <sup><small><small>[[G3815]]</small></small></sup> </span> |
-| but | <span class="asgreek">αλλ΄ <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| I was cautious | <span class="asgreek">ευλαβούμην <sup><small><small>[[G2125]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| in front | <span class="asgreek">προσώπου <sup><small><small>[[G4383]]</small></small></sup> </span> |
-| of your hand. | <span class="asgreek">χειρός <sup><small><small>[[G5495]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Alone | <span class="asgreek">κατα <sup><small><small>[[G2596]]</small></small></sup> <span class="asgreek">μόνας <sup><small><small>[[G3441]]</small></small></sup> </span> |
-| I sat, | <span class="asgreek">εκαθήμην <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| with bitterness | <span class="asgreek">πικρίας <sup><small><small>[[G4088]]</small></small></sup> </span> |
-| I was filled | <span class="asgreek">ενεπλήσθην <sup><small><small>[[G1705]]</small></small></sup> </span> |
+| I sat not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εκάθισα</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| their sanhedrin | <big><span class="asgreek">συνεδρίω</span></big> <sup><small><small>[[G4892]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| playing about, | <big><span class="asgreek">παιζόντων</span></big> <sup><small><small>[[G3815]]</small></small></sup> |
+| but | <big><span class="asgreek">αλλ΄</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| I was cautious | <big><span class="asgreek">ευλαβούμην</span></big> <sup><small><small>[[G2125]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| in front | <big><span class="asgreek">προσώπου</span></big> <sup><small><small>[[G4383]]</small></small></sup> |
+| of your hand. | <big><span class="asgreek">χειρός</span></big> <sup><small><small>[[G5495]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Alone | <big><span class="asgreek">κατα</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">μόνας</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
+| I sat, | <big><span class="asgreek">εκαθήμην</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| with bitterness | <big><span class="asgreek">πικρίας</span></big> <sup><small><small>[[G4088]]</small></small></sup> |
+| I was filled | <big><span class="asgreek">ενεπλήσθην</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
 [[Jer.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.16|<< Jeremiah 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.18|Jeremiah 15:18 >>]]</td></tr></table>
 
 

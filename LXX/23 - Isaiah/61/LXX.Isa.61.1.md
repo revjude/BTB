@@ -16,29 +16,29 @@ The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Spirit | <span class="asgreek">πνεύμα <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| of \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| \[is\] upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| me, | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-|  | <span class="asgreek">ου <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| because | <span class="asgreek">είνεκεν <sup><small><small>[[G1752]]</small></small></sup> </span> |
-| he anointed | <span class="asgreek">έχρισέ <sup><small><small>[[G5548]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to announce good news | <span class="asgreek">ευαγγελίσασθαι <sup><small><small>[[G2097]]</small></small></sup> </span> |
-| to \[the\] poor. | <span class="asgreek">πτωχοίς <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| He has sent | <span class="asgreek">απέσταλκέ <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| to heal | <span class="asgreek">ιάσασθαι <sup><small><small>[[G2390]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being broken | <span class="asgreek">συντετριμμένους <sup><small><small>[[G4937]]</small></small></sup> </span> |
-| in the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| heart; | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> </span> |
-| to proclaim | <span class="asgreek">κηρύξαι <sup><small><small>[[G2784]]</small></small></sup> </span> |
-| to captives | <span class="asgreek">αιχμαλώτοις <sup><small><small>[[G0164]]</small></small></sup> </span> |
-| a release | <span class="asgreek">άφεσιν <sup><small><small>[[G0859]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| to \[the\] blind | <span class="asgreek">τυφλοίς <sup><small><small>[[G5185]]</small></small></sup> </span> |
-| recovery of sight | <span class="asgreek">ανάβλεψιν <sup><small><small>[[G0309]]</small></small></sup> </span> |
+| Spirit | <big><span class="asgreek">πνεύμα</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| of \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| \[is\] upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| me, | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+|  | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| because | <big><span class="asgreek">είνεκεν</span></big> <sup><small><small>[[G1752]]</small></small></sup> |
+| he anointed | <big><span class="asgreek">έχρισέ</span></big> <sup><small><small>[[G5548]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to announce good news | <big><span class="asgreek">ευαγγελίσασθαι</span></big> <sup><small><small>[[G2097]]</small></small></sup> |
+| to \[the\] poor. | <big><span class="asgreek">πτωχοίς</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| He has sent | <big><span class="asgreek">απέσταλκέ</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| to heal | <big><span class="asgreek">ιάσασθαι</span></big> <sup><small><small>[[G2390]]</small></small></sup> |
+| the ones | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being broken | <big><span class="asgreek">συντετριμμένους</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| in the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| heart; | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
+| to proclaim | <big><span class="asgreek">κηρύξαι</span></big> <sup><small><small>[[G2784]]</small></small></sup> |
+| to captives | <big><span class="asgreek">αιχμαλώτοις</span></big> <sup><small><small>[[G0164]]</small></small></sup> |
+| a release | <big><span class="asgreek">άφεσιν</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| to \[the\] blind | <big><span class="asgreek">τυφλοίς</span></big> <sup><small><small>[[G5185]]</small></small></sup> |
+| recovery of sight | <big><span class="asgreek">ανάβλεψιν</span></big> <sup><small><small>[[G0309]]</small></small></sup> |
 [[Isa.61.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.22|<< Isaiah 60:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.2|Isaiah 61:2 >>]]</td></tr></table>
 
 

@@ -9,12 +9,12 @@ My sister, my bride, you are a garden locked up, a spring enclosed, a fountain s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[is as\] a garden | <span class="asgreek">κήπος <sup><small><small>[[G2779]]</small></small></sup> </span> |
-| being locked | <span class="asgreek">κεκλεισμένος <sup><small><small>[[G2808]]</small></small></sup> </span> |
-| My sister | <span class="asgreek">αδελφή <sup><small><small>[[G0079]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O bride; | <span class="asgreek">νύμφη <sup><small><small>[[G3565]]</small></small></sup> </span> |
-| a spring | <span class="asgreek">πηγή <sup><small><small>[[G4077]]</small></small></sup> </span> |
-| having a seal upon it. | <span class="asgreek">εσφραγισμένη <sup><small><small>[[G4972]]</small></small></sup> </span> |
+| \[is as\] a garden | <big><span class="asgreek">κήπος</span></big> <sup><small><small>[[G2779]]</small></small></sup> |
+| being locked | <big><span class="asgreek">κεκλεισμένος</span></big> <sup><small><small>[[G2808]]</small></small></sup> |
+| My sister | <big><span class="asgreek">αδελφή</span></big> <sup><small><small>[[G0079]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O bride; | <big><span class="asgreek">νύμφη</span></big> <sup><small><small>[[G3565]]</small></small></sup> |
+| a spring | <big><span class="asgreek">πηγή</span></big> <sup><small><small>[[G4077]]</small></small></sup> |
+| having a seal upon it. | <big><span class="asgreek">εσφραγισμένη</span></big> <sup><small><small>[[G4972]]</small></small></sup> |
 [[Song.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.11|<< Song of Solomon 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.13|Song of Solomon 4:13 >>]]</td></tr></table>
 
 

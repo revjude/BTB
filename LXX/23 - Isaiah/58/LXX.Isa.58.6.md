@@ -13,31 +13,31 @@ Isn’t this the fast that I have chosen: to break the chains of wickedness, to 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| not | <span class="asgreek">ουχί <sup><small><small>[[G3780]]</small></small></sup> </span> |
-| such | <span class="asgreek">τοιαύτην <sup><small><small>[[G5108]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| choose | <span class="asgreek">εξελεξάμην <sup><small><small>[[G1586]]</small></small></sup> </span> |
-| a fast, | <span class="asgreek">νηστείαν <sup><small><small>[[G3521]]</small></small></sup> </span> |
-| says | <span class="asgreek">λέγει <sup><small><small>[[G3004]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span>. | <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| But | <span class="asgreek">αλλά <sup><small><small>[[G0235]]</small></small></sup> </span> |
-| untie | <span class="asgreek">λύε <sup><small><small>[[G3089]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάντα <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| bond | <span class="asgreek">σύνδεσμον <sup><small><small>[[G4886]]</small></small></sup> </span> |
-| of injustice! | <span class="asgreek">αδικίας <sup><small><small>[[G0093]]</small></small></sup> </span> |
-| Part | <span class="asgreek">διάλυε <sup><small><small>[[G1262]]</small></small></sup> </span> |
-| perverseness | <span class="asgreek">στραγγαλιάς <sup><small><small>[[G9193]]</small></small></sup> </span> |
-| violent | <span class="asgreek">βιαίων <sup><small><small>[[G0972]]</small></small></sup> </span> |
-| of exchanges! | <span class="asgreek">συναλλαγμάτων <sup><small><small>[[G9292]]</small></small></sup> </span> |
-| Send out | <span class="asgreek">απόστελλε <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| \[the\] ones having been devastated | <span class="asgreek">τεθραυσμένους <sup><small><small>[[G2352]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a \[free\] release | <span class="asgreek">αφέσει <sup><small><small>[[G0859]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| every | <span class="asgreek">πάσαν <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| writ | <span class="asgreek">συγγραφήν <sup><small><small>[[G9219]]</small></small></sup> </span> |
-| unjust | <span class="asgreek">άδικον <sup><small><small>[[G0094]]</small></small></sup> </span> |
-| tear apart | <span class="asgreek">διάσπα <sup><small><small>[[G1288]]</small></small></sup> </span> |
+| not | <big><span class="asgreek">ουχί</span></big> <sup><small><small>[[G3780]]</small></small></sup> |
+| such | <big><span class="asgreek">τοιαύτην</span></big> <sup><small><small>[[G5108]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| choose | <big><span class="asgreek">εξελεξάμην</span></big> <sup><small><small>[[G1586]]</small></small></sup> |
+| a fast, | <big><span class="asgreek">νηστείαν</span></big> <sup><small><small>[[G3521]]</small></small></sup> |
+| says | <big><span class="asgreek">λέγει</span></big> <sup><small><small>[[G3004]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| But | <big><span class="asgreek">αλλά</span></big> <sup><small><small>[[G0235]]</small></small></sup> |
+| untie | <big><span class="asgreek">λύε</span></big> <sup><small><small>[[G3089]]</small></small></sup> |
+| every | <big><span class="asgreek">πάντα</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| bond | <big><span class="asgreek">σύνδεσμον</span></big> <sup><small><small>[[G4886]]</small></small></sup> |
+| of injustice! | <big><span class="asgreek">αδικίας</span></big> <sup><small><small>[[G0093]]</small></small></sup> |
+| Part | <big><span class="asgreek">διάλυε</span></big> <sup><small><small>[[G1262]]</small></small></sup> |
+| perverseness | <big><span class="asgreek">στραγγαλιάς</span></big> <sup><small><small>[[G9193]]</small></small></sup> |
+| violent | <big><span class="asgreek">βιαίων</span></big> <sup><small><small>[[G0972]]</small></small></sup> |
+| of exchanges! | <big><span class="asgreek">συναλλαγμάτων</span></big> <sup><small><small>[[G9292]]</small></small></sup> |
+| Send out | <big><span class="asgreek">απόστελλε</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| \[the\] ones having been devastated | <big><span class="asgreek">τεθραυσμένους</span></big> <sup><small><small>[[G2352]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a \[free\] release | <big><span class="asgreek">αφέσει</span></big> <sup><small><small>[[G0859]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| every | <big><span class="asgreek">πάσαν</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| writ | <big><span class="asgreek">συγγραφήν</span></big> <sup><small><small>[[G9219]]</small></small></sup> |
+| unjust | <big><span class="asgreek">άδικον</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
+| tear apart | <big><span class="asgreek">διάσπα</span></big> <sup><small><small>[[G1288]]</small></small></sup> |
 [[Isa.58.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.5|<< Isaiah 58:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.7|Isaiah 58:7 >>]]</td></tr></table>
 
 

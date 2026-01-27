@@ -9,16 +9,16 @@ The whirlwind has wrapped them in its wings, and their sacrifices will bring the
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| a tumultuous | <span class="asgreek">συστροφή <sup><small><small>[[G4963]]</small></small></sup> </span> |
-| wind | <span class="asgreek">πνεύματος <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| You are | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">ει <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| her wings, | <span class="asgreek">πτέρυξιν <sup><small><small>[[G4420]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| they shall be disgraced | <span class="asgreek">καταισχυνθήσονται <sup><small><small>[[G2617]]</small></small></sup> </span> |
-| because of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their altars. | <span class="asgreek">θυσιαστηρίων <sup><small><small>[[G2379]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| a tumultuous | <big><span class="asgreek">συστροφή</span></big> <sup><small><small>[[G4963]]</small></small></sup> |
+| wind | <big><span class="asgreek">πνεύματος</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| You are | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">ει</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| her wings, | <big><span class="asgreek">πτέρυξιν</span></big> <sup><small><small>[[G4420]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| they shall be disgraced | <big><span class="asgreek">καταισχυνθήσονται</span></big> <sup><small><small>[[G2617]]</small></small></sup> |
+| because of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">των</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their altars. | <big><span class="asgreek">θυσιαστηρίων</span></big> <sup><small><small>[[G2379]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Hos.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.18|<< Hosea 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.1|Hosea 5:1 >>]]</td></tr></table>
 
 

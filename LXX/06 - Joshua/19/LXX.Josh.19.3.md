@@ -9,12 +9,12 @@ Hazar-shual, Balah, Ezem,<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Hazar-shual, | <span class="asgreek">Αρσεσουάλ <sup><small><small>[[H2705]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Balah, | <span class="asgreek">Βολά <sup><small><small>[[H1088]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Azem, | <span class="asgreek">Ιασόμ <sup><small><small>[[H6107]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Hazar-shual, | <big><span class="asgreek">Αρσεσουάλ</span></big> <sup><small><small>[[H2705]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Balah, | <big><span class="asgreek">Βολά</span></big> <sup><small><small>[[H1088]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Azem, | <big><span class="asgreek">Ιασόμ</span></big> <sup><small><small>[[H6107]]</small></small></sup> |
 [[Josh.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.2|<< Joshua 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.4|Joshua 19:4 >>]]</td></tr></table>
 
 

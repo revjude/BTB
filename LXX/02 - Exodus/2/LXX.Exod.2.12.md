@@ -9,21 +9,21 @@ After looking this way and that and seeing no one, he struck down the Egyptian a
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And looking about | <span class="asgreek">περιβλεψάμενος <sup><small><small>[[G4017]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| here \[on this side\] | <span class="asgreek">ώδε <sup><small><small>[[G5602]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| here \[on that side\] | <span class="asgreek">ώδε <sup><small><small>[[G5602]]</small></small></sup> </span> |
-| he did not see | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">ορά <sup><small><small>[[G3708]]</small></small></sup> </span> |
-| anyone. | <span class="asgreek">ουδένα <sup><small><small>[[G3762]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| striking | <span class="asgreek">πατάξας <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Egyptian, | <span class="asgreek">Αιγύπτιον <sup><small><small>[[G0125]]</small></small></sup> </span> |
-| he hid | <span class="asgreek">έκρυψεν <sup><small><small>[[G2928]]</small></small></sup> </span> |
-| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sand. | <span class="asgreek">άμμω <sup><small><small>[[G0285]]</small></small></sup> </span> |
+| And looking about | <big><span class="asgreek">περιβλεψάμενος</span></big> <sup><small><small>[[G4017]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| here \[on this side\] | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| here \[on that side\] | <big><span class="asgreek">ώδε</span></big> <sup><small><small>[[G5602]]</small></small></sup> |
+| he did not see | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">ορά</span></big> <sup><small><small>[[G3708]]</small></small></sup> |
+| anyone. | <big><span class="asgreek">ουδένα</span></big> <sup><small><small>[[G3762]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| striking | <big><span class="asgreek">πατάξας</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Egyptian, | <big><span class="asgreek">Αιγύπτιον</span></big> <sup><small><small>[[G0125]]</small></small></sup> |
+| he hid | <big><span class="asgreek">έκρυψεν</span></big> <sup><small><small>[[G2928]]</small></small></sup> |
+| him | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sand. | <big><span class="asgreek">άμμω</span></big> <sup><small><small>[[G0285]]</small></small></sup> |
 [[Exod.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.11|<< Exodus 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.13|Exodus 2:13 >>]]</td></tr></table>
 
 

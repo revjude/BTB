@@ -9,22 +9,22 @@ For you know in your heart that many times you yourself have cursed others.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| very often | <span class="asgreek">πλειστάκις <sup><small><small>[[G8804]]</small></small></sup> </span> |
-| he will act wickedly | <span class="asgreek">πονηρεύσεταί <sup><small><small>[[G8863]]</small></small></sup> </span> |
-| against you, | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| returning | <span class="asgreek">καθόδους <sup><small><small>[[G7761]]</small></small></sup> </span> |
-| many \[times\] | <span class="asgreek">πολλάς <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| he shall inflict | <span class="asgreek">κακώσει <sup><small><small>[[G2559]]</small></small></sup> </span> |
-| your heart; | <span class="asgreek">καρδίαν <sup><small><small>[[G2588]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| also | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| indeed | <span class="asgreek">γε <sup><small><small>[[G1065]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| cursed | <span class="asgreek">κατηράσω <sup><small><small>[[G2672]]</small></small></sup> </span> |
-| others. | <span class="asgreek">ετέρους <sup><small><small>[[G2087]]</small></small></sup> </span> |
+| For | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| very often | <big><span class="asgreek">πλειστάκις</span></big> <sup><small><small>[[G8804]]</small></small></sup> |
+| he will act wickedly | <big><span class="asgreek">πονηρεύσεταί</span></big> <sup><small><small>[[G8863]]</small></small></sup> |
+| against you, | <big><span class="asgreek">σε</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| returning | <big><span class="asgreek">καθόδους</span></big> <sup><small><small>[[G7761]]</small></small></sup> |
+| many \[times\] | <big><span class="asgreek">πολλάς</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| he shall inflict | <big><span class="asgreek">κακώσει</span></big> <sup><small><small>[[G2559]]</small></small></sup> |
+| your heart; | <big><span class="asgreek">καρδίαν</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| also | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| indeed | <big><span class="asgreek">γε</span></big> <sup><small><small>[[G1065]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| cursed | <big><span class="asgreek">κατηράσω</span></big> <sup><small><small>[[G2672]]</small></small></sup> |
+| others. | <big><span class="asgreek">ετέρους</span></big> <sup><small><small>[[G2087]]</small></small></sup> |
 [[Eccl.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.21|<< Ecclesiastes 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.23|Ecclesiastes 7:23 >>]]</td></tr></table>
 
 

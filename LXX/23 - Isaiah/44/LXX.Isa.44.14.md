@@ -9,28 +9,28 @@ He cuts down cedars or retrieves a cypress or oak. He lets it grow strong among 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| in which | <span class="asgreek">ω <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he fells | <span class="asgreek">έκοψε <sup><small><small>[[G2875]]</small></small></sup> </span> |
-| for himself | <span class="asgreek">εαυτώ <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| cedars | <span class="asgreek">κέδρους <sup><small><small>[[G2748]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he takes | <span class="asgreek">έλαβε <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| \[the\] holm oak | <span class="asgreek">αγριοβάλανον <sup><small><small>[[G6125]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] oak; | <span class="asgreek">δρύν <sup><small><small>[[G6972]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he strengthened | <span class="asgreek">εκαρτέρωσεν <sup><small><small>[[G7810]]</small></small></sup> </span> |
-| for himself | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] tree | <span class="asgreek">ξύλον <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| grove | <span class="asgreek">δρυμού <sup><small><small>[[G6971]]</small></small></sup> </span> |
-| which | <span class="asgreek">ο <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> planted -- | <span class="asgreek">εφύτευσε <sup><small><small>[[G5452]]</small></small></sup> <span class="asgreek">κύριος <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| a pine; | <span class="asgreek">πίτυν <sup><small><small>[[G8797]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] rain | <span class="asgreek">υετός <sup><small><small>[[G5205]]</small></small></sup> </span> |
-| lengthened it, | <span class="asgreek">εμήκυνεν <sup><small><small>[[G3373]]</small></small></sup> </span> |
+| in which | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he fells | <big><span class="asgreek">έκοψε</span></big> <sup><small><small>[[G2875]]</small></small></sup> |
+| for himself | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| cedars | <big><span class="asgreek">κέδρους</span></big> <sup><small><small>[[G2748]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he takes | <big><span class="asgreek">έλαβε</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| \[the\] holm oak | <big><span class="asgreek">αγριοβάλανον</span></big> <sup><small><small>[[G6125]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] oak; | <big><span class="asgreek">δρύν</span></big> <sup><small><small>[[G6972]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he strengthened | <big><span class="asgreek">εκαρτέρωσεν</span></big> <sup><small><small>[[G7810]]</small></small></sup> |
+| for himself | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] tree | <big><span class="asgreek">ξύλον</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| from | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| grove | <big><span class="asgreek">δρυμού</span></big> <sup><small><small>[[G6971]]</small></small></sup> |
+| which | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> planted -- | <big><span class="asgreek">εφύτευσε</span></big> <sup><small><small>[[G5452]]</small></small></sup> <big><span class="asgreek">κύριος</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| a pine; | <big><span class="asgreek">πίτυν</span></big> <sup><small><small>[[G8797]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] rain | <big><span class="asgreek">υετός</span></big> <sup><small><small>[[G5205]]</small></small></sup> |
+| lengthened it, | <big><span class="asgreek">εμήκυνεν</span></big> <sup><small><small>[[G3373]]</small></small></sup> |
 [[Isa.44.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.13|<< Isaiah 44:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.15|Isaiah 44:15 >>]]</td></tr></table>
 
 

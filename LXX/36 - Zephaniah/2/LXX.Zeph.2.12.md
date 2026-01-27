@@ -12,12 +12,12 @@ Ye Ethiopians also, ye [shall be] slain by my sword.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| you, | <span class="asgreek">υμείς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O Ethiopians, | <span class="asgreek">Αιθίοπες <sup><small><small>[[G0128]]</small></small></sup> </span> |
-| \[the\] slain | <span class="asgreek">τραυματίαι <sup><small><small>[[G9470]]</small></small></sup> </span> |
-| of my broadsword | <span class="asgreek">ρομφαίας <sup><small><small>[[G4501]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| are | <span class="asgreek">εστέ <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| you, | <big><span class="asgreek">υμείς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O Ethiopians, | <big><span class="asgreek">Αιθίοπες</span></big> <sup><small><small>[[G0128]]</small></small></sup> |
+| \[the\] slain | <big><span class="asgreek">τραυματίαι</span></big> <sup><small><small>[[G9470]]</small></small></sup> |
+| of my broadsword | <big><span class="asgreek">ρομφαίας</span></big> <sup><small><small>[[G4501]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| are | <big><span class="asgreek">εστέ</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Zeph.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.11|<< Zephaniah 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.13|Zephaniah 2:13 >>]]</td></tr></table>
 
 

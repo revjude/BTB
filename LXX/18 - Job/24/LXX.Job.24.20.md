@@ -9,27 +9,27 @@ The womb forgets them; the worm feeds on them; they are remembered no more. So i
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| So then | <span class="asgreek">ειτ΄ <sup><small><small>[[G1534]]</small></small></sup> </span> |
-| is called to mind | <span class="asgreek">ανεμνήσθη <sup><small><small>[[G0363]]</small></small></sup> </span> |
-| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sin | <span class="asgreek">αμαρτία <sup><small><small>[[G0266]]</small></small></sup> </span> |
-| and as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| fog | <span class="asgreek">ομίχλη <sup><small><small>[[G6068]]</small></small></sup> </span> |
-| of dew | <span class="asgreek">δρόσου <sup><small><small>[[G6970]]</small></small></sup> </span> |
-| vanishes | <span class="asgreek">αφανής <sup><small><small>[[G0852]]</small></small></sup> </span> |
-| he | <span class="asgreek">εγένετο <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| and may it be recompensed | <span class="asgreek">αποδοθείη <sup><small><small>[[G0591]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| to him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| what | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he acted; | <span class="asgreek">έπραξε <sup><small><small>[[G4238]]</small></small></sup> </span> |
-| be destroyed | <span class="asgreek">συντριβείη <sup><small><small>[[G4937]]</small></small></sup> </span> |
-| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| every | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| unjust one | <span class="asgreek">άδικος <sup><small><small>[[G0094]]</small></small></sup> </span> |
-| equally | <span class="asgreek">ίσα <sup><small><small>[[G2470]]</small></small></sup> </span> |
-| wood | <span class="asgreek">ξύλω <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| as incurable \[rotten\] | <span class="asgreek">ανιάτω <sup><small><small>[[G6345]]</small></small></sup> </span> |
+| So then | <big><span class="asgreek">ειτ΄</span></big> <sup><small><small>[[G1534]]</small></small></sup> |
+| is called to mind | <big><span class="asgreek">ανεμνήσθη</span></big> <sup><small><small>[[G0363]]</small></small></sup> |
+| his | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sin | <big><span class="asgreek">αμαρτία</span></big> <sup><small><small>[[G0266]]</small></small></sup> |
+| and as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| fog | <big><span class="asgreek">ομίχλη</span></big> <sup><small><small>[[G6068]]</small></small></sup> |
+| of dew | <big><span class="asgreek">δρόσου</span></big> <sup><small><small>[[G6970]]</small></small></sup> |
+| vanishes | <big><span class="asgreek">αφανής</span></big> <sup><small><small>[[G0852]]</small></small></sup> |
+| he | <big><span class="asgreek">εγένετο</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| and may it be recompensed | <big><span class="asgreek">αποδοθείη</span></big> <sup><small><small>[[G0591]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| to him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he acted; | <big><span class="asgreek">έπραξε</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
+| be destroyed | <big><span class="asgreek">συντριβείη</span></big> <sup><small><small>[[G4937]]</small></small></sup> |
+| and | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| unjust one | <big><span class="asgreek">άδικος</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
+| equally | <big><span class="asgreek">ίσα</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
+| wood | <big><span class="asgreek">ξύλω</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| as incurable \[rotten\] | <big><span class="asgreek">ανιάτω</span></big> <sup><small><small>[[G6345]]</small></small></sup> |
 [[Job.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.19|<< Job 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.21|Job 24:21 >>]]</td></tr></table>
 
 

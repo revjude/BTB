@@ -9,12 +9,12 @@ Do you make him leap like a locust, striking terror with his proud snorting?<sm
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And did you invest | <span class="asgreek">περιέθηκας <sup><small><small>[[G4060]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| in him | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| full armor, | <span class="asgreek">πανοπλίαν <sup><small><small>[[G3833]]</small></small></sup> </span> |
-| and \[the\] glory | <span class="asgreek">δόξα <sup><small><small>[[G1391]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of his breast | <span class="asgreek">στήθεων αυτού <sup><small><small>[[G4738]]</small></small></sup> </span> |
-| in daring? | <span class="asgreek">τόλμη <sup><small><small>[[G9458]]</small></small></sup> </span> |
+| And did you invest | <big><span class="asgreek">περιέθηκας</span></big> <sup><small><small>[[G4060]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| in him | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| full armor, | <big><span class="asgreek">πανοπλίαν</span></big> <sup><small><small>[[G3833]]</small></small></sup> |
+| and \[the\] glory | <big><span class="asgreek">δόξα</span></big> <sup><small><small>[[G1391]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of his breast | <big><span class="asgreek">στήθεων αυτού</span></big> <sup><small><small>[[G4738]]</small></small></sup> |
+| in daring? | <big><span class="asgreek">τόλμη</span></big> <sup><small><small>[[G9458]]</small></small></sup> |
 [[Job.39.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.19|<< Job 39:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.21|Job 39:21 >>]]</td></tr></table>
 
 

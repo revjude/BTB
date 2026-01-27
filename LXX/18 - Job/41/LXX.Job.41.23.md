@@ -9,13 +9,13 @@ The folds of his flesh are tightly joined; they are firm and immovable.<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And \[the\] flesh | <span class="asgreek">σάρκες <sup><small><small>[[G4561]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of his body | <span class="asgreek">σώματος <sup><small><small>[[G4983]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| cleaves \[tightly\]. | <span class="asgreek">κεκόλληνται <sup><small><small>[[G2853]]</small></small></sup> </span> |
-| If one pours down | <span class="asgreek">καταχέει <sup><small><small>[[G2708]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| him, | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| he will not be shaken. | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">σαλευθήσεται <sup><small><small>[[G4531]]</small></small></sup> </span> |
+| And \[the\] flesh | <big><span class="asgreek">σάρκες</span></big> <sup><small><small>[[G4561]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of his body | <big><span class="asgreek">σώματος</span></big> <sup><small><small>[[G4983]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| cleaves \[tightly\]. | <big><span class="asgreek">κεκόλληνται</span></big> <sup><small><small>[[G2853]]</small></small></sup> |
+| If one pours down | <big><span class="asgreek">καταχέει</span></big> <sup><small><small>[[G2708]]</small></small></sup> |
+| upon | <big><span class="asgreek">επ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| him, | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| he will not be shaken. | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">σαλευθήσεται</span></big> <sup><small><small>[[G4531]]</small></small></sup> |
 [[Job.41.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.22|<< Job 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.24|Job 41:24 >>]]</td></tr></table>
 
 

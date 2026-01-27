@@ -9,11 +9,11 @@ and the descendants of Senaah, 3,630.<small><sub>**MT:**</sub></small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Senaah -- | <span class="asgreek">Σεναά <sup><small><small>[[H5570]]</small></small></sup> </span> |
-| three thousand | <span class="asgreek">τρισχίλιοι <sup><small><small>[[G5153]]</small></small></sup> </span> |
-| six hundred | <span class="asgreek">εξακόσιοι <sup><small><small>[[G1812]]</small></small></sup> </span> |
-| thirty. | <span class="asgreek">τριάκοντα <sup><small><small>[[G5144]]</small></small></sup> </span> |
+| Sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Senaah -- | <big><span class="asgreek">Σεναά</span></big> <sup><small><small>[[H5570]]</small></small></sup> |
+| three thousand | <big><span class="asgreek">τρισχίλιοι</span></big> <sup><small><small>[[G5153]]</small></small></sup> |
+| six hundred | <big><span class="asgreek">εξακόσιοι</span></big> <sup><small><small>[[G1812]]</small></small></sup> |
+| thirty. | <big><span class="asgreek">τριάκοντα</span></big> <sup><small><small>[[G5144]]</small></small></sup> |
 [[Ezra.2.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.34|<< Ezra 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.36|Ezra 2:36 >>]]</td></tr></table>
 
 

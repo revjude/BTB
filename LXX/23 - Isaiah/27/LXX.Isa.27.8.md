@@ -9,23 +9,23 @@ By warfare and exile You contended with her and removed her with a fierce wind, 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| doing combat | <span class="asgreek">μαχόμενος <sup><small><small>[[G3164]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| berating | <span class="asgreek">ονειδίζων <sup><small><small>[[G3679]]</small></small></sup> </span> |
-| He shall send them out | <span class="asgreek">εξαποστελεί <sup><small><small>[[G1821]]</small></small></sup> <span class="asgreek">αυτους <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| you | <span class="asgreek">συ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Were | <span class="asgreek">ήσθα <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| meditating with | <span class="asgreek">μελετών <sup><small><small>[[G3191]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| spirit | <span class="asgreek">πνεύματι <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| a harsh | <span class="asgreek">σκληρώ <sup><small><small>[[G4642]]</small></small></sup> </span> |
-| to do away with | <span class="asgreek">ανελείν <sup><small><small>[[G0337]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in a spirit | <span class="asgreek">πνεύματι <sup><small><small>[[G4151]]</small></small></sup> </span> |
-| of rage? | <span class="asgreek">θυμού <sup><small><small>[[G2372]]</small></small></sup> </span> |
+| doing combat | <big><span class="asgreek">μαχόμενος</span></big> <sup><small><small>[[G3164]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| berating | <big><span class="asgreek">ονειδίζων</span></big> <sup><small><small>[[G3679]]</small></small></sup> |
+| He shall send them out | <big><span class="asgreek">εξαποστελεί</span></big> <sup><small><small>[[G1821]]</small></small></sup> <big><span class="asgreek">αυτους</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| not | <big><span class="asgreek">ου</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| you | <big><span class="asgreek">συ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Were | <big><span class="asgreek">ήσθα</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| meditating with | <big><span class="asgreek">μελετών</span></big> <sup><small><small>[[G3191]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| spirit | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| a harsh | <big><span class="asgreek">σκληρώ</span></big> <sup><small><small>[[G4642]]</small></small></sup> |
+| to do away with | <big><span class="asgreek">ανελείν</span></big> <sup><small><small>[[G0337]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in a spirit | <big><span class="asgreek">πνεύματι</span></big> <sup><small><small>[[G4151]]</small></small></sup> |
+| of rage? | <big><span class="asgreek">θυμού</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
 [[Isa.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.7|<< Isaiah 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.9|Isaiah 27:9 >>]]</td></tr></table>
 
 

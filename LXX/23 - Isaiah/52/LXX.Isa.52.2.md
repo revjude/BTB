@@ -9,22 +9,22 @@ Shake off your dust! Rise up and sit on your throne, O Jerusalem. Remove the cha
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Shake off | <span class="asgreek">εκτίναξαι <sup><small><small>[[G1621]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| dust | <span class="asgreek">χουν <sup><small><small>[[G5522]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| rise up! | <span class="asgreek">ανάστηθι <sup><small><small>[[G0450]]</small></small></sup> </span> |
-| Sit, | <span class="asgreek">κάθισον <sup><small><small>[[G2523]]</small></small></sup> </span> |
-| O Jerusalem! | <span class="asgreek">Ιερουσαλήμ <sup><small><small>[[G2419]]</small></small></sup> </span> |
-| Take off | <span class="asgreek">έκδυσαι <sup><small><small>[[G1562]]</small></small></sup> </span> |
-| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| bond | <span class="asgreek">δεσμόν <sup><small><small>[[G1199]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| from your neck, | <span class="asgreek">τραχήλου <sup><small><small>[[G5137]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| captive | <span class="asgreek">αιχμάλωτος <sup><small><small>[[G0164]]</small></small></sup> </span> |
-| daughter | <span class="asgreek">θυγάτηρ <sup><small><small>[[G2364]]</small></small></sup> </span> |
-| of Zion! | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
+| Shake off | <big><span class="asgreek">εκτίναξαι</span></big> <sup><small><small>[[G1621]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| dust | <big><span class="asgreek">χουν</span></big> <sup><small><small>[[G5522]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| rise up! | <big><span class="asgreek">ανάστηθι</span></big> <sup><small><small>[[G0450]]</small></small></sup> |
+| Sit, | <big><span class="asgreek">κάθισον</span></big> <sup><small><small>[[G2523]]</small></small></sup> |
+| O Jerusalem! | <big><span class="asgreek">Ιερουσαλήμ</span></big> <sup><small><small>[[G2419]]</small></small></sup> |
+| Take off | <big><span class="asgreek">έκδυσαι</span></big> <sup><small><small>[[G1562]]</small></small></sup> |
+| the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| bond | <big><span class="asgreek">δεσμόν</span></big> <sup><small><small>[[G1199]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| from your neck, | <big><span class="asgreek">τραχήλου</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| captive | <big><span class="asgreek">αιχμάλωτος</span></big> <sup><small><small>[[G0164]]</small></small></sup> |
+| daughter | <big><span class="asgreek">θυγάτηρ</span></big> <sup><small><small>[[G2364]]</small></small></sup> |
+| of Zion! | <big><span class="asgreek">Σιών</span></big> <sup><small><small>[[G4622]]</small></small></sup> |
 [[Isa.52.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.1|<< Isaiah 52:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.3|Isaiah 52:3 >>]]</td></tr></table>
 
 

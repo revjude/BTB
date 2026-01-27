@@ -12,18 +12,18 @@ In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham became king
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| In | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| year | <span class="asgreek">έτει <sup><small><small>[[G2094]]</small></small></sup> </span> |
-| \[the\] seventeenth | <span class="asgreek">επτακαιδεκάτω <sup><small><small>[[G7484]]</small></small></sup> </span> |
-| of Pekah | <span class="asgreek">Φακεαί <sup><small><small>[[H6492]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Remaliah, | <span class="asgreek">Ρομελίου <sup><small><small>[[H7425]]</small></small></sup> </span> |
-| reigned | <span class="asgreek">εβασίλευσεν <sup><small><small>[[G0936]]</small></small></sup> </span> |
-| Ahaz | <span class="asgreek">Αχαζ <sup><small><small>[[G0881]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Jotham | <span class="asgreek">Ιωθάμ <sup><small><small>[[G2488]]</small></small></sup> </span> |
-| king | <span class="asgreek">βασιλέως <sup><small><small>[[G0935]]</small></small></sup> </span> |
-| of Judah | <span class="asgreek">Ιούδα <sup><small><small>[[G2448]]</small></small></sup> </span> |
+| In | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| year | <big><span class="asgreek">έτει</span></big> <sup><small><small>[[G2094]]</small></small></sup> |
+| \[the\] seventeenth | <big><span class="asgreek">επτακαιδεκάτω</span></big> <sup><small><small>[[G7484]]</small></small></sup> |
+| of Pekah | <big><span class="asgreek">Φακεαί</span></big> <sup><small><small>[[H6492]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Remaliah, | <big><span class="asgreek">Ρομελίου</span></big> <sup><small><small>[[H7425]]</small></small></sup> |
+| reigned | <big><span class="asgreek">εβασίλευσεν</span></big> <sup><small><small>[[G0936]]</small></small></sup> |
+| Ahaz | <big><span class="asgreek">Αχαζ</span></big> <sup><small><small>[[G0881]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Jotham | <big><span class="asgreek">Ιωθάμ</span></big> <sup><small><small>[[G2488]]</small></small></sup> |
+| king | <big><span class="asgreek">βασιλέως</span></big> <sup><small><small>[[G0935]]</small></small></sup> |
+| of Judah | <big><span class="asgreek">Ιούδα</span></big> <sup><small><small>[[G2448]]</small></small></sup> |
 [[2Kgs.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.38|<< 2 Kings 15:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.2|2 Kings 16:2 >>]]</td></tr></table>
 
 

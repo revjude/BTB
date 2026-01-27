@@ -9,18 +9,18 @@ Better to live on a corner of the roof than to share a house with a quarrelsome 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Better | <span class="asgreek">κρείσσον <sup><small><small>[[G2908]]</small></small></sup> </span> |
-| to live | <span class="asgreek">οικείν <sup><small><small>[[G3611]]</small></small></sup> </span> |
-| upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| \[the\] corner | <span class="asgreek">γωνίας <sup><small><small>[[G1137]]</small></small></sup> </span> |
-| of a roof, | <span class="asgreek">δώματος <sup><small><small>[[G1430]]</small></small></sup> </span> |
-| than | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| wife | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| a reviling | <span class="asgreek">λοιδόρου <sup><small><small>[[G3060]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| house | <span class="asgreek">οικία <sup><small><small>[[G3614]]</small></small></sup> </span> |
-| a common | <span class="asgreek">κοινή <sup><small><small>[[G2839]]</small></small></sup> </span> |
+| Better | <big><span class="asgreek">κρείσσον</span></big> <sup><small><small>[[G2908]]</small></small></sup> |
+| to live | <big><span class="asgreek">οικείν</span></big> <sup><small><small>[[G3611]]</small></small></sup> |
+| upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| \[the\] corner | <big><span class="asgreek">γωνίας</span></big> <sup><small><small>[[G1137]]</small></small></sup> |
+| of a roof, | <big><span class="asgreek">δώματος</span></big> <sup><small><small>[[G1430]]</small></small></sup> |
+| than | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| wife | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| a reviling | <big><span class="asgreek">λοιδόρου</span></big> <sup><small><small>[[G3060]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| house | <big><span class="asgreek">οικία</span></big> <sup><small><small>[[G3614]]</small></small></sup> |
+| a common | <big><span class="asgreek">κοινή</span></big> <sup><small><small>[[G2839]]</small></small></sup> |
 [[Prov.25.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.23|<< Proverbs 25:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.25|Proverbs 25:25 >>]]</td></tr></table>
 
 

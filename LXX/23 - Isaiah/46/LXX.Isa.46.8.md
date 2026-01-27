@@ -12,16 +12,16 @@ Remember this and be brave; take it to heart, you transgressors!<small><sub>**M
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Remember | <span class="asgreek">μνήσθητε <sup><small><small>[[G3403]]</small></small></sup> </span> |
-| these \[things\] | <span class="asgreek">ταύτα <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| moan! | <span class="asgreek">στενάξατε <sup><small><small>[[G4727]]</small></small></sup> </span> |
-| Change your mind, | <span class="asgreek">μετανοήσατε <sup><small><small>[[G3340]]</small></small></sup> </span> |
-| O ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being misled! | <span class="asgreek">πεπλανημένοι <sup><small><small>[[G4105]]</small></small></sup> </span> |
-| Turn | <span class="asgreek">επιστρέψατε <sup><small><small>[[G1994]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| in heart! | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> </span> |
+| Remember | <big><span class="asgreek">μνήσθητε</span></big> <sup><small><small>[[G3403]]</small></small></sup> |
+| these \[things\] | <big><span class="asgreek">ταύτα</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| moan! | <big><span class="asgreek">στενάξατε</span></big> <sup><small><small>[[G4727]]</small></small></sup> |
+| Change your mind, | <big><span class="asgreek">μετανοήσατε</span></big> <sup><small><small>[[G3340]]</small></small></sup> |
+| O ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being misled! | <big><span class="asgreek">πεπλανημένοι</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
+| Turn | <big><span class="asgreek">επιστρέψατε</span></big> <sup><small><small>[[G1994]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| in heart! | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
 [[Isa.46.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.7|<< Isaiah 46:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.9|Isaiah 46:9 >>]]</td></tr></table>
 
 

@@ -9,25 +9,25 @@ and the clans of Kiriath-jearim—the Ithrites, Puthites, Shumathites, and Mishr
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Oumasphae | <span class="asgreek">Ουμασφααί <sup><small><small>[[H4940]]</small></small></sup> </span> |
-| \[the\] city | <span class="asgreek">πόλις <sup><small><small>[[G4172]]</small></small></sup> </span> |
-| of Jair. | <span class="asgreek">Ιαϊρ <sup><small><small>[[H3265]]</small></small></sup> </span> |
-| Aithalim, | <span class="asgreek">Αιθαλίμ <sup><small><small>[[H3297]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Miphithim, | <span class="asgreek">Μιφιθίμ <sup><small><small>[[H3505]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Esamathim, | <span class="asgreek">Ησαμαθίμ <sup><small><small>[[H8126]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Emasaraim. | <span class="asgreek">Ημασαραϊμ <sup><small><small>[[H4954]]</small></small></sup> </span> |
-| From out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| these | <span class="asgreek">τούτων <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| came forth | <span class="asgreek">εξήλθον <sup><small><small>[[G1831]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Zareathitees, | <span class="asgreek">Σαρααθί <sup><small><small>[[H6882]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Eshtaulites. | <span class="asgreek">Εσταολί <sup><small><small>[[H0848]]</small></small></sup> </span> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Oumasphae | <big><span class="asgreek">Ουμασφααί</span></big> <sup><small><small>[[H4940]]</small></small></sup> |
+| \[the\] city | <big><span class="asgreek">πόλις</span></big> <sup><small><small>[[G4172]]</small></small></sup> |
+| of Jair. | <big><span class="asgreek">Ιαϊρ</span></big> <sup><small><small>[[H3265]]</small></small></sup> |
+| Aithalim, | <big><span class="asgreek">Αιθαλίμ</span></big> <sup><small><small>[[H3297]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Miphithim, | <big><span class="asgreek">Μιφιθίμ</span></big> <sup><small><small>[[H3505]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Esamathim, | <big><span class="asgreek">Ησαμαθίμ</span></big> <sup><small><small>[[H8126]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Emasaraim. | <big><span class="asgreek">Ημασαραϊμ</span></big> <sup><small><small>[[H4954]]</small></small></sup> |
+| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| these | <big><span class="asgreek">τούτων</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| came forth | <big><span class="asgreek">εξήλθον</span></big> <sup><small><small>[[G1831]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Zareathitees, | <big><span class="asgreek">Σαρααθί</span></big> <sup><small><small>[[H6882]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Eshtaulites. | <big><span class="asgreek">Εσταολί</span></big> <sup><small><small>[[H0848]]</small></small></sup> |
 [[1Chr.2.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.52|<< 1 Chronicles 2:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.54|1 Chronicles 2:54 >>]]</td></tr></table>
 
 

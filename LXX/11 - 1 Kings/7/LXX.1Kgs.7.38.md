@@ -9,32 +9,32 @@ He also made ten bronze basins, each holding forty baths and measuring four cubi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he made | <span class="asgreek">εποίησε <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| ten | <span class="asgreek">δέκα <sup><small><small>[[G1176]]</small></small></sup> </span> |
-| pots | <span class="asgreek">χυτρογαύλους <sup><small><small>[[G9767]]</small></small></sup> </span> |
-| of brass, | <span class="asgreek">χαλκούς <sup><small><small>[[G5470]]</small></small></sup> </span> |
-| of forty | <span class="asgreek">τεσσαράκοντα <sup><small><small>[[G5062]]</small></small></sup> </span> |
-| coos | <span class="asgreek">χόεις <sup><small><small>[[G9753]]</small></small></sup> </span> |
-| having the capacity | <span class="asgreek">χωρούντα <sup><small><small>[[G5562]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one | <span class="asgreek">ένα <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| pot, | <span class="asgreek">χυτρόγαυλον <sup><small><small>[[G9767]]</small></small></sup> </span> |
-| measuring | <span class="asgreek">μετρήσει <sup><small><small>[[G8312]]</small></small></sup> </span> |
-| four | <span class="asgreek">τεσσάρων <sup><small><small>[[G5064]]</small></small></sup> </span> |
-| cubits. | <span class="asgreek">πηχέων <sup><small><small>[[G4083]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| pot | <span class="asgreek">χυτρόγαυλος <sup><small><small>[[G9767]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one | <span class="asgreek">εις <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| \[was\] upon | <span class="asgreek">επί <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| base | <span class="asgreek">μεχωνά <sup><small><small>[[G8314]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one | <span class="asgreek">μίαν <sup><small><small>[[G1520]]</small></small></sup> </span> |
-| for the | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ten | <span class="asgreek">δέκα <sup><small><small>[[G1176]]</small></small></sup> </span> |
-| bases. | <span class="asgreek">μεχωνώθ <sup><small><small>[[G8314]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he made | <big><span class="asgreek">εποίησε</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| pots | <big><span class="asgreek">χυτρογαύλους</span></big> <sup><small><small>[[G9767]]</small></small></sup> |
+| of brass, | <big><span class="asgreek">χαλκούς</span></big> <sup><small><small>[[G5470]]</small></small></sup> |
+| of forty | <big><span class="asgreek">τεσσαράκοντα</span></big> <sup><small><small>[[G5062]]</small></small></sup> |
+| coos | <big><span class="asgreek">χόεις</span></big> <sup><small><small>[[G9753]]</small></small></sup> |
+| having the capacity | <big><span class="asgreek">χωρούντα</span></big> <sup><small><small>[[G5562]]</small></small></sup> |
+| to the | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one | <big><span class="asgreek">ένα</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| pot, | <big><span class="asgreek">χυτρόγαυλον</span></big> <sup><small><small>[[G9767]]</small></small></sup> |
+| measuring | <big><span class="asgreek">μετρήσει</span></big> <sup><small><small>[[G8312]]</small></small></sup> |
+| four | <big><span class="asgreek">τεσσάρων</span></big> <sup><small><small>[[G5064]]</small></small></sup> |
+| cubits. | <big><span class="asgreek">πηχέων</span></big> <sup><small><small>[[G4083]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| pot | <big><span class="asgreek">χυτρόγαυλος</span></big> <sup><small><small>[[G9767]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| \[was\] upon | <big><span class="asgreek">επί</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| base | <big><span class="asgreek">μεχωνά</span></big> <sup><small><small>[[G8314]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one | <big><span class="asgreek">μίαν</span></big> <sup><small><small>[[G1520]]</small></small></sup> |
+| for the | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ten | <big><span class="asgreek">δέκα</span></big> <sup><small><small>[[G1176]]</small></small></sup> |
+| bases. | <big><span class="asgreek">μεχωνώθ</span></big> <sup><small><small>[[G8314]]</small></small></sup> |
 [[1Kgs.7.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.37|<< 1 Kings 7:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.39|1 Kings 7:39 >>]]</td></tr></table>
 
 

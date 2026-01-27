@@ -9,13 +9,13 @@ Let me hear joy and gladness; let the bones You have crushed rejoice.<small><su
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| You shall cause me to hear | <span class="asgreek">ακουτιείς <sup><small><small>[[G6201]]</small></small></sup> <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| exultation | <span class="asgreek">αγαλλίασιν <sup><small><small>[[G0020]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| gladness; | <span class="asgreek">ευφροσύνην <sup><small><small>[[G2167]]</small></small></sup> </span> |
-| shall exult | <span class="asgreek">αγαλλιάσονται <sup><small><small>[[G0021]]</small></small></sup> </span> |
-| \[the\] bones | <span class="asgreek">οστεά <sup><small><small>[[G3747]]</small></small></sup> </span> |
-| being humbled | <span class="asgreek">τεταπεινωμένα <sup><small><small>[[G5013]]</small></small></sup> </span> |
+| You shall cause me to hear | <big><span class="asgreek">ακουτιείς</span></big> <sup><small><small>[[G6201]]</small></small></sup> <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| exultation | <big><span class="asgreek">αγαλλίασιν</span></big> <sup><small><small>[[G0020]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| gladness; | <big><span class="asgreek">ευφροσύνην</span></big> <sup><small><small>[[G2167]]</small></small></sup> |
+| shall exult | <big><span class="asgreek">αγαλλιάσονται</span></big> <sup><small><small>[[G0021]]</small></small></sup> |
+| \[the\] bones | <big><span class="asgreek">οστεά</span></big> <sup><small><small>[[G3747]]</small></small></sup> |
+| being humbled | <big><span class="asgreek">τεταπεινωμένα</span></big> <sup><small><small>[[G5013]]</small></small></sup> |
 [[Ps.51.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.7|<< Psalm 51:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.9|Psalm 51:9 >>]]</td></tr></table>
 
 

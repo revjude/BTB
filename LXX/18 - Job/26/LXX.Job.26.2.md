@@ -9,21 +9,21 @@ How hast thou helped [him that is] without power? [how] savest thou the arm [tha
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| To whom | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| do you lie near to, | <span class="asgreek">πρόσκεισαι <sup><small><small>[[G8929]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| to whom | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| are you about | <span class="asgreek">μέλλεις <sup><small><small>[[G3195]]</small></small></sup> </span> |
-| to help? | <span class="asgreek">βοηθείν <sup><small><small>[[G0997]]</small></small></sup> </span> |
-| Is it | <span class="asgreek">πότερον <sup><small><small>[[G4220]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουχ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| \[the\] one who | <span class="asgreek">ω <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| \[has\] much | <span class="asgreek">πολλή <sup><small><small>[[G4183]]</small></small></sup> </span> |
-| strength, | <span class="asgreek">ισχύς <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| whose | <span class="asgreek">ω <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| arm | <span class="asgreek">βραχίων <sup><small><small>[[G1023]]</small></small></sup> </span> |
-| is fortified? | <span class="asgreek">κραταίος <sup><small><small>[[G2900]]</small></small></sup> <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| To whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| do you lie near to, | <big><span class="asgreek">πρόσκεισαι</span></big> <sup><small><small>[[G8929]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| to whom | <big><span class="asgreek">τίνι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| are you about | <big><span class="asgreek">μέλλεις</span></big> <sup><small><small>[[G3195]]</small></small></sup> |
+| to help? | <big><span class="asgreek">βοηθείν</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
+| Is it | <big><span class="asgreek">πότερον</span></big> <sup><small><small>[[G4220]]</small></small></sup> |
+| not | <big><span class="asgreek">ουχ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| \[the\] one who | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| \[has\] much | <big><span class="asgreek">πολλή</span></big> <sup><small><small>[[G4183]]</small></small></sup> |
+| strength, | <big><span class="asgreek">ισχύς</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| whose | <big><span class="asgreek">ω</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| arm | <big><span class="asgreek">βραχίων</span></big> <sup><small><small>[[G1023]]</small></small></sup> |
+| is fortified? | <big><span class="asgreek">κραταίος</span></big> <sup><small><small>[[G2900]]</small></small></sup> <big><span class="asgreek">εστι</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Job.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.26.1|<< Job 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.26.3|Job 26:3 >>]]</td></tr></table>
 
 

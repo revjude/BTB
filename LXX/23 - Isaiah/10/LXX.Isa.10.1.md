@@ -12,13 +12,13 @@ Woe to those who enact unjust statutes and issue oppressive decrees,<small><sub
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Woe | <span class="asgreek">ουαί <sup><small><small>[[G3759]]</small></small></sup> </span> |
-| to the ones | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| writing | <span class="asgreek">γράφουσι <sup><small><small>[[G1125]]</small></small></sup> </span> |
-| wickedness; | <span class="asgreek">πονηρίαν <sup><small><small>[[G4189]]</small></small></sup> </span> |
-| for \[the\] ones writing | <span class="asgreek">γράφοντες <sup><small><small>[[G1125]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| wickedness | <span class="asgreek">πονηρίαν <sup><small><small>[[G4189]]</small></small></sup> </span> |
-| are writing | <span class="asgreek">γράφουσιν <sup><small><small>[[G1125]]</small></small></sup> </span> |
+| Woe | <big><span class="asgreek">ουαί</span></big> <sup><small><small>[[G3759]]</small></small></sup> |
+| to the ones | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| writing | <big><span class="asgreek">γράφουσι</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
+| wickedness; | <big><span class="asgreek">πονηρίαν</span></big> <sup><small><small>[[G4189]]</small></small></sup> |
+| for \[the\] ones writing | <big><span class="asgreek">γράφοντες</span></big> <sup><small><small>[[G1125]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| wickedness | <big><span class="asgreek">πονηρίαν</span></big> <sup><small><small>[[G4189]]</small></small></sup> |
+| are writing | <big><span class="asgreek">γράφουσιν</span></big> <sup><small><small>[[G1125]]</small></small></sup> |
 [[Isa.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.21|<< Isaiah 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.2|Isaiah 10:2 >>]]</td></tr></table>
 
 

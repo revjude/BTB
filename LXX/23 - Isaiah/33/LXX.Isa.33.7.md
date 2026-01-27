@@ -9,25 +9,25 @@ Behold, their valiant ones cry aloud in the streets; the envoys of peace weep bi
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Behold | <span class="asgreek">ιδού <sup><small><small>[[G2400]]</small></small></sup> </span> |
-| indeed, | <span class="asgreek">δη <sup><small><small>[[G1211]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| fear | <span class="asgreek">φόβω <sup><small><small>[[G5401]]</small></small></sup> </span> |
-| of you | <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| these | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| shall be fearful. | <span class="asgreek">φοβηθήσονται <sup><small><small>[[G5399]]</small></small></sup> </span> |
-| Whom | <span class="asgreek">ους <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| you feared | <span class="asgreek">εφοβείσθε <sup><small><small>[[G5399]]</small></small></sup> </span> |
-| shall yell out | <span class="asgreek">βοήσονται <sup><small><small>[[G0994]]</small></small></sup> </span> |
-| because of | <span class="asgreek">αφ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| you; | <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| for messengers | <span class="asgreek">άγγελοι <sup><small><small>[[G0032]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| shall be sent | <span class="asgreek">αποσταλήσονται <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| enjoining for | <span class="asgreek">παρακαλούντες <sup><small><small>[[G3870]]</small></small></sup> </span> |
-| peace, | <span class="asgreek">ειρήνην <sup><small><small>[[G1515]]</small></small></sup> </span> |
-| bitterly | <span class="asgreek">πικρώς <sup><small><small>[[G4090]]</small></small></sup> </span> |
-| weeping. | <span class="asgreek">κλαίοντες <sup><small><small>[[G2799]]</small></small></sup> </span> |
+| Behold | <big><span class="asgreek">ιδού</span></big> <sup><small><small>[[G2400]]</small></small></sup> |
+| indeed, | <big><span class="asgreek">δη</span></big> <sup><small><small>[[G1211]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| fear | <big><span class="asgreek">φόβω</span></big> <sup><small><small>[[G5401]]</small></small></sup> |
+| of you | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| these | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| shall be fearful. | <big><span class="asgreek">φοβηθήσονται</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| Whom | <big><span class="asgreek">ους</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| you feared | <big><span class="asgreek">εφοβείσθε</span></big> <sup><small><small>[[G5399]]</small></small></sup> |
+| shall yell out | <big><span class="asgreek">βοήσονται</span></big> <sup><small><small>[[G0994]]</small></small></sup> |
+| because of | <big><span class="asgreek">αφ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| you; | <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| for messengers | <big><span class="asgreek">άγγελοι</span></big> <sup><small><small>[[G0032]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| shall be sent | <big><span class="asgreek">αποσταλήσονται</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| enjoining for | <big><span class="asgreek">παρακαλούντες</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
+| peace, | <big><span class="asgreek">ειρήνην</span></big> <sup><small><small>[[G1515]]</small></small></sup> |
+| bitterly | <big><span class="asgreek">πικρώς</span></big> <sup><small><small>[[G4090]]</small></small></sup> |
+| weeping. | <big><span class="asgreek">κλαίοντες</span></big> <sup><small><small>[[G2799]]</small></small></sup> |
 [[Isa.33.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.6|<< Isaiah 33:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.8|Isaiah 33:8 >>]]</td></tr></table>
 
 

@@ -9,27 +9,27 @@ with an opening at its top in the center. Around the opening shall be a woven co
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| will be | <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cleft | <span class="asgreek">περιστόμιον <sup><small><small>[[G8761]]</small></small></sup> </span> |
-| of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| in the middle, | <span class="asgreek">μέσον <sup><small><small>[[G3319]]</small></small></sup> </span> |
-| an edge | <span class="asgreek">ωαν <sup><small><small>[[G9807]]</small></small></sup> </span> |
-| having | <span class="asgreek">έχον <sup><small><small>[[G2192]]</small></small></sup> </span> |
-| round about | <span class="asgreek">κύκλω <sup><small><small>[[G2945]]</small></small></sup> </span> |
-| the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| cleft -- | <span class="asgreek">περιστομίου <sup><small><small>[[G8761]]</small></small></sup> </span> |
-| a work | <span class="asgreek">έργον <sup><small><small>[[G2041]]</small></small></sup> </span> |
-| of a weaver; | <span class="asgreek">υφαντού <sup><small><small>[[G9607]]</small></small></sup> </span> |
-| in the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| coupling | <span class="asgreek">συμβολήν <sup><small><small>[[G9257]]</small></small></sup> </span> |
-| being woven together | <span class="asgreek">συνυφασμένην <sup><small><small>[[G9344]]</small></small></sup> </span> |
-| of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| it | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| that | <span class="asgreek">ίνα <sup><small><small>[[G2443]]</small></small></sup> </span> |
-| it should not be torn. | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> <span class="asgreek">ραγή <sup><small><small>[[G4486]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| will be | <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cleft | <big><span class="asgreek">περιστόμιον</span></big> <sup><small><small>[[G8761]]</small></small></sup> |
+| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| in the middle, | <big><span class="asgreek">μέσον</span></big> <sup><small><small>[[G3319]]</small></small></sup> |
+| an edge | <big><span class="asgreek">ωαν</span></big> <sup><small><small>[[G9807]]</small></small></sup> |
+| having | <big><span class="asgreek">έχον</span></big> <sup><small><small>[[G2192]]</small></small></sup> |
+| round about | <big><span class="asgreek">κύκλω</span></big> <sup><small><small>[[G2945]]</small></small></sup> |
+| the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| cleft -- | <big><span class="asgreek">περιστομίου</span></big> <sup><small><small>[[G8761]]</small></small></sup> |
+| a work | <big><span class="asgreek">έργον</span></big> <sup><small><small>[[G2041]]</small></small></sup> |
+| of a weaver; | <big><span class="asgreek">υφαντού</span></big> <sup><small><small>[[G9607]]</small></small></sup> |
+| in the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| coupling | <big><span class="asgreek">συμβολήν</span></big> <sup><small><small>[[G9257]]</small></small></sup> |
+| being woven together | <big><span class="asgreek">συνυφασμένην</span></big> <sup><small><small>[[G9344]]</small></small></sup> |
+| of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| it | <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| that | <big><span class="asgreek">ίνα</span></big> <sup><small><small>[[G2443]]</small></small></sup> |
+| it should not be torn. | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> <big><span class="asgreek">ραγή</span></big> <sup><small><small>[[G4486]]</small></small></sup> |
 [[Exod.28.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.31|<< Exodus 28:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.33|Exodus 28:33 >>]]</td></tr></table>
 
 

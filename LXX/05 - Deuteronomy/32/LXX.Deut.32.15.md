@@ -9,28 +9,28 @@ But Jeshurun grew fat and kicked—becoming fat, bloated, and gorged. He abandon
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| Jacob ate | <span class="asgreek">έφαγεν <sup><small><small>[[G2068]]</small></small></sup> <span class="asgreek">Ιακώβ <sup><small><small>[[G2384]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| was filled up, | <span class="asgreek">ενεπλήσθη <sup><small><small>[[G1705]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| kicked up | <span class="asgreek">απελάκτισεν <sup><small><small>[[G6453]]</small></small></sup> </span> |
-| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one being loved | <span class="asgreek">ηγαπημένος <sup><small><small>[[G0025]]</small></small></sup> </span> |
-| he was fattened, | <span class="asgreek">ελιπάνθη <sup><small><small>[[G8202]]</small></small></sup> </span> |
-| he was thickened, | <span class="asgreek">επαχύνθη <sup><small><small>[[G3975]]</small></small></sup> </span> |
-| he was widened, | <span class="asgreek">επλατύνθη <sup><small><small>[[G4115]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he abandoned | <span class="asgreek">εγκατέλιπε <sup><small><small>[[G1459]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεόν <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| the one | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| making | <span class="asgreek">ποιήσαντα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| him; | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he left | <span class="asgreek">απέστη <sup><small><small>[[G0868]]</small></small></sup> </span> |
-| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| God | <span class="asgreek">θεού <sup><small><small>[[G2316]]</small></small></sup> </span> |
-| his deliverer. | <span class="asgreek">σωτήρος <sup><small><small>[[G4990]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| Jacob ate | <big><span class="asgreek">έφαγεν</span></big> <sup><small><small>[[G2068]]</small></small></sup> <big><span class="asgreek">Ιακώβ</span></big> <sup><small><small>[[G2384]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| was filled up, | <big><span class="asgreek">ενεπλήσθη</span></big> <sup><small><small>[[G1705]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| kicked up | <big><span class="asgreek">απελάκτισεν</span></big> <sup><small><small>[[G6453]]</small></small></sup> |
+| the | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one being loved | <big><span class="asgreek">ηγαπημένος</span></big> <sup><small><small>[[G0025]]</small></small></sup> |
+| he was fattened, | <big><span class="asgreek">ελιπάνθη</span></big> <sup><small><small>[[G8202]]</small></small></sup> |
+| he was thickened, | <big><span class="asgreek">επαχύνθη</span></big> <sup><small><small>[[G3975]]</small></small></sup> |
+| he was widened, | <big><span class="asgreek">επλατύνθη</span></big> <sup><small><small>[[G4115]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he abandoned | <big><span class="asgreek">εγκατέλιπε</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
+| God | <big><span class="asgreek">θεόν</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| making | <big><span class="asgreek">ποιήσαντα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| him; | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he left | <big><span class="asgreek">απέστη</span></big> <sup><small><small>[[G0868]]</small></small></sup> |
+| from | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| God | <big><span class="asgreek">θεού</span></big> <sup><small><small>[[G2316]]</small></small></sup> |
+| his deliverer. | <big><span class="asgreek">σωτήρος</span></big> <sup><small><small>[[G4990]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Deut.32.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.14|<< Deuteronomy 32:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.16|Deuteronomy 32:16 >>]]</td></tr></table>
 
 

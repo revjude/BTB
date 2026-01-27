@@ -9,14 +9,14 @@ I expanded my pursuits. I built houses and planted vineyards for myself.<small>
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I magnified | <span class="asgreek">εμεγάλυνα <sup><small><small>[[G3170]]</small></small></sup> </span> |
-| my action; | <span class="asgreek">ποίημά <sup><small><small>[[G4161]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I built | <span class="asgreek">ωκοδόμησά <sup><small><small>[[G3618]]</small></small></sup> </span> |
-| to myself | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| houses; | <span class="asgreek">οίκους <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| I planted | <span class="asgreek">εφύτευσά <sup><small><small>[[G5452]]</small></small></sup> </span> |
-| my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| vineyards. | <span class="asgreek">αμπελώνας <sup><small><small>[[G0290]]</small></small></sup> </span> |
+| I magnified | <big><span class="asgreek">εμεγάλυνα</span></big> <sup><small><small>[[G3170]]</small></small></sup> |
+| my action; | <big><span class="asgreek">ποίημά</span></big> <sup><small><small>[[G4161]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I built | <big><span class="asgreek">ωκοδόμησά</span></big> <sup><small><small>[[G3618]]</small></small></sup> |
+| to myself | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| houses; | <big><span class="asgreek">οίκους</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| I planted | <big><span class="asgreek">εφύτευσά</span></big> <sup><small><small>[[G5452]]</small></small></sup> |
+| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| vineyards. | <big><span class="asgreek">αμπελώνας</span></big> <sup><small><small>[[G0290]]</small></small></sup> |
 [[Eccl.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.3|<< Ecclesiastes 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.5|Ecclesiastes 2:5 >>]]</td></tr></table>
 
 

@@ -9,20 +9,20 @@ A wife of noble character is her husband’s crown, but she who causes shame is 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| wife | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| A courageous | <span class="asgreek">ανδρεία <sup><small><small>[[G6326]]</small></small></sup> </span> |
-| \[is\] a crown | <span class="asgreek">στέφανος <sup><small><small>[[G4735]]</small></small></sup> </span> |
-| to | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her husband; | <span class="asgreek">ανδρί <sup><small><small>[[G0435]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| but as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| wood | <span class="asgreek">ξύλω <sup><small><small>[[G3586]]</small></small></sup> </span> |
-| \[the\] worm | <span class="asgreek">σκώληξ <sup><small><small>[[G4663]]</small></small></sup> </span> |
-| so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| \[her\] husband | <span class="asgreek">άνδρα <sup><small><small>[[G0435]]</small></small></sup> </span> |
-| destroys | <span class="asgreek">απόλλυσι <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| wife | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| an evil doing | <span class="asgreek">κακοποιός <sup><small><small>[[G2555]]</small></small></sup> </span> |
+| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| A courageous | <big><span class="asgreek">ανδρεία</span></big> <sup><small><small>[[G6326]]</small></small></sup> |
+| \[is\] a crown | <big><span class="asgreek">στέφανος</span></big> <sup><small><small>[[G4735]]</small></small></sup> |
+| to | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her husband; | <big><span class="asgreek">ανδρί</span></big> <sup><small><small>[[G0435]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| but as | <big><span class="asgreek">ώσπερ</span></big> <sup><small><small>[[G5618]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| wood | <big><span class="asgreek">ξύλω</span></big> <sup><small><small>[[G3586]]</small></small></sup> |
+| \[the\] worm | <big><span class="asgreek">σκώληξ</span></big> <sup><small><small>[[G4663]]</small></small></sup> |
+| so | <big><span class="asgreek">ούτως</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| \[her\] husband | <big><span class="asgreek">άνδρα</span></big> <sup><small><small>[[G0435]]</small></small></sup> |
+| destroys | <big><span class="asgreek">απόλλυσι</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| wife | <big><span class="asgreek">γυνή</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| an evil doing | <big><span class="asgreek">κακοποιός</span></big> <sup><small><small>[[G2555]]</small></small></sup> |
 [[Prov.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.3|<< Proverbs 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.5|Proverbs 12:5 >>]]</td></tr></table>
 
 

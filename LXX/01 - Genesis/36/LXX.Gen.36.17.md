@@ -9,31 +9,31 @@ These are the sons of Esau’s son Reuel: Chiefs Nahath, Zerah, Shammah, and Miz
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| these \[were\] | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Reuel, | <span class="asgreek">Ραγουήλ <sup><small><small>[[H7467]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιόυ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Esau -- | <span class="asgreek">Ησαύ <sup><small><small>[[G2269]]</small></small></sup> </span> |
-| prince | <span class="asgreek">ηγεμών <sup><small><small>[[G2232]]</small></small></sup> </span> |
-| Nahath, | <span class="asgreek">Ναχώθ <sup><small><small>[[H5184]]</small></small></sup> </span> |
-| prince | <span class="asgreek">ηγεμών <sup><small><small>[[G2232]]</small></small></sup> </span> |
-| Zerah, | <span class="asgreek">Ζαρέ <sup><small><small>[[G2196]]</small></small></sup> </span> |
-| prince | <span class="asgreek">ηγεμών <sup><small><small>[[G2232]]</small></small></sup> </span> |
-| Shammah, | <span class="asgreek">Σομέ <sup><small><small>[[H8048]]</small></small></sup> </span> |
-| prince | <span class="asgreek">ηγεμών <sup><small><small>[[G2232]]</small></small></sup> </span> |
-| Mizzah. | <span class="asgreek">Μοζέ <sup><small><small>[[H4199]]</small></small></sup> </span> |
-| These \[were\] | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[the\] princes | <span class="asgreek">ηγεμόνες <sup><small><small>[[G2232]]</small></small></sup> </span> |
-| of Reuel | <span class="asgreek">Ραγουήλ <sup><small><small>[[H7467]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \[the\] land | <span class="asgreek">γη <sup><small><small>[[G1093]]</small></small></sup> </span> |
-| of Edom. | <span class="asgreek">Εδώμ <sup><small><small>[[H0123]]</small></small></sup> </span> |
-| These \[were\] | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| \[the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Bashemath, | <span class="asgreek">Βασεμάθ <sup><small><small>[[H1315]]</small></small></sup> </span> |
-| wife | <span class="asgreek">γυναικός <sup><small><small>[[G1135]]</small></small></sup> </span> |
-| of Esau. | <span class="asgreek">Ησαύ <sup><small><small>[[G2269]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| these \[were\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Reuel, | <big><span class="asgreek">Ραγουήλ</span></big> <sup><small><small>[[H7467]]</small></small></sup> |
+| son | <big><span class="asgreek">υιόυ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Esau -- | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
+| prince | <big><span class="asgreek">ηγεμών</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
+| Nahath, | <big><span class="asgreek">Ναχώθ</span></big> <sup><small><small>[[H5184]]</small></small></sup> |
+| prince | <big><span class="asgreek">ηγεμών</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
+| Zerah, | <big><span class="asgreek">Ζαρέ</span></big> <sup><small><small>[[G2196]]</small></small></sup> |
+| prince | <big><span class="asgreek">ηγεμών</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
+| Shammah, | <big><span class="asgreek">Σομέ</span></big> <sup><small><small>[[H8048]]</small></small></sup> |
+| prince | <big><span class="asgreek">ηγεμών</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
+| Mizzah. | <big><span class="asgreek">Μοζέ</span></big> <sup><small><small>[[H4199]]</small></small></sup> |
+| These \[were\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[the\] princes | <big><span class="asgreek">ηγεμόνες</span></big> <sup><small><small>[[G2232]]</small></small></sup> |
+| of Reuel | <big><span class="asgreek">Ραγουήλ</span></big> <sup><small><small>[[H7467]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \[the\] land | <big><span class="asgreek">γη</span></big> <sup><small><small>[[G1093]]</small></small></sup> |
+| of Edom. | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
+| These \[were\] | <big><span class="asgreek">ούτοι</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| \[the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Bashemath, | <big><span class="asgreek">Βασεμάθ</span></big> <sup><small><small>[[H1315]]</small></small></sup> |
+| wife | <big><span class="asgreek">γυναικός</span></big> <sup><small><small>[[G1135]]</small></small></sup> |
+| of Esau. | <big><span class="asgreek">Ησαύ</span></big> <sup><small><small>[[G2269]]</small></small></sup> |
 [[Gen.36.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.16|<< Genesis 36:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.18|Genesis 36:18 >>]]</td></tr></table>
 
 

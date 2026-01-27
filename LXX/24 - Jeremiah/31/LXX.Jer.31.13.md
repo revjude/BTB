@@ -9,28 +9,28 @@ Then the maidens will rejoice with dancing, young men and old as well. I will tu
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Then | <span class="asgreek">τότε <sup><small><small>[[G5119]]</small></small></sup> </span> |
-| shall rejoice | <span class="asgreek">χαρήσονται <sup><small><small>[[G5463]]</small></small></sup> </span> |
-| virgins | <span class="asgreek">παρθένοι <sup><small><small>[[G3933]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| a gathering | <span class="asgreek">συναγωγή <sup><small><small>[[G4864]]</small></small></sup> </span> |
-| of young men; | <span class="asgreek">νεανίσκων <sup><small><small>[[G3495]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| old men | <span class="asgreek">πρεσβύται <sup><small><small>[[G4246]]</small></small></sup> </span> |
-| shall rejoice. | <span class="asgreek">χαρήσονται <sup><small><small>[[G5463]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will turn | <span class="asgreek">στρέψω <sup><small><small>[[G4762]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their mourning | <span class="asgreek">πένθος <sup><small><small>[[G3997]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| joyfulness, | <span class="asgreek">χαρμοσύνην <sup><small><small>[[G9705]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will comfort | <span class="asgreek">παρακληθήσομαι <sup><small><small>[[G3870]]</small></small></sup> </span> |
-| them, | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| I will make | <span class="asgreek">ποιήσω <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| ones being glad. | <span class="asgreek">ευφραινομένους <sup><small><small>[[G2165]]</small></small></sup> </span> |
+| Then | <big><span class="asgreek">τότε</span></big> <sup><small><small>[[G5119]]</small></small></sup> |
+| shall rejoice | <big><span class="asgreek">χαρήσονται</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
+| virgins | <big><span class="asgreek">παρθένοι</span></big> <sup><small><small>[[G3933]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| a gathering | <big><span class="asgreek">συναγωγή</span></big> <sup><small><small>[[G4864]]</small></small></sup> |
+| of young men; | <big><span class="asgreek">νεανίσκων</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| old men | <big><span class="asgreek">πρεσβύται</span></big> <sup><small><small>[[G4246]]</small></small></sup> |
+| shall rejoice. | <big><span class="asgreek">χαρήσονται</span></big> <sup><small><small>[[G5463]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will turn | <big><span class="asgreek">στρέψω</span></big> <sup><small><small>[[G4762]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their mourning | <big><span class="asgreek">πένθος</span></big> <sup><small><small>[[G3997]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| joyfulness, | <big><span class="asgreek">χαρμοσύνην</span></big> <sup><small><small>[[G9705]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will comfort | <big><span class="asgreek">παρακληθήσομαι</span></big> <sup><small><small>[[G3870]]</small></small></sup> |
+| them, | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| I will make | <big><span class="asgreek">ποιήσω</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| ones being glad. | <big><span class="asgreek">ευφραινομένους</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
 [[Jer.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.12|<< Jeremiah 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.14|Jeremiah 31:14 >>]]</td></tr></table>
 
 

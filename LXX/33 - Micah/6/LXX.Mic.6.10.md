@@ -9,18 +9,18 @@ Can I forget any longer, O house of the wicked, the treasures of wickedness and 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[Is there\] not | <span class="asgreek">μη <sup><small><small>[[G3361]]</small></small></sup> </span> |
-| fire, | <span class="asgreek">πυρ <sup><small><small>[[G4442]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] house | <span class="asgreek">οίκος <sup><small><small>[[G3624]]</small></small></sup> </span> |
-| of the lawless one | <span class="asgreek">ανόμου <sup><small><small>[[G0459]]</small></small></sup> </span> |
-| treasuring up | <span class="asgreek">θησαυρίζων <sup><small><small>[[G2343]]</small></small></sup> </span> |
-| treasures | <span class="asgreek">θησαυρούς <sup><small><small>[[G2344]]</small></small></sup> </span> |
-| of lawless deeds, | <span class="asgreek">ανόμους <sup><small><small>[[G0459]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| insolence | <span class="asgreek">ύβρεως <sup><small><small>[[G5196]]</small></small></sup> </span> |
-| unrighteous | <span class="asgreek">άδικα <sup><small><small>[[G0094]]</small></small></sup> </span> |
+| \[Is there\] not | <big><span class="asgreek">μη</span></big> <sup><small><small>[[G3361]]</small></small></sup> |
+| fire, | <big><span class="asgreek">πυρ</span></big> <sup><small><small>[[G4442]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] house | <big><span class="asgreek">οίκος</span></big> <sup><small><small>[[G3624]]</small></small></sup> |
+| of the lawless one | <big><span class="asgreek">ανόμου</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
+| treasuring up | <big><span class="asgreek">θησαυρίζων</span></big> <sup><small><small>[[G2343]]</small></small></sup> |
+| treasures | <big><span class="asgreek">θησαυρούς</span></big> <sup><small><small>[[G2344]]</small></small></sup> |
+| of lawless deeds, | <big><span class="asgreek">ανόμους</span></big> <sup><small><small>[[G0459]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| insolence | <big><span class="asgreek">ύβρεως</span></big> <sup><small><small>[[G5196]]</small></small></sup> |
+| unrighteous | <big><span class="asgreek">άδικα</span></big> <sup><small><small>[[G0094]]</small></small></sup> |
 [[Mic.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.9|<< Micah 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.11|Micah 6:11 >>]]</td></tr></table>
 
 

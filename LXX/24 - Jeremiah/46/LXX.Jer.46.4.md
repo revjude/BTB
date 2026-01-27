@@ -9,24 +9,24 @@ Harness the horses; mount the steeds; take your positions with helmets on! Polis
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Saddle | <span class="asgreek">επισάξατε <sup><small><small>[[G7442]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| horses, | <span class="asgreek">ίππους <sup><small><small>[[G2462]]</small></small></sup> </span> |
-| mount up | <span class="asgreek">επίβητε <sup><small><small>[[G1910]]</small></small></sup> </span> |
-| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| horsemen, | <span class="asgreek">ιππείς <sup><small><small>[[G2460]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| put | <span class="asgreek">κατάστητε <sup><small><small>[[G2525]]</small></small></sup> </span> |
-| on | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ταις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your helmets! | <span class="asgreek">περικεφαλαίαις <sup><small><small>[[G4030]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Furbish | <span class="asgreek">προβάλλετε <sup><small><small>[[G4261]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| spears, | <span class="asgreek">δόρατα <sup><small><small>[[G6965]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| put on | <span class="asgreek">ενδύσασθε <sup><small><small>[[G1746]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your chest \[plates\]! | <span class="asgreek">θώρακας <sup><small><small>[[G2382]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Saddle | <big><span class="asgreek">επισάξατε</span></big> <sup><small><small>[[G7442]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| horses, | <big><span class="asgreek">ίππους</span></big> <sup><small><small>[[G2462]]</small></small></sup> |
+| mount up | <big><span class="asgreek">επίβητε</span></big> <sup><small><small>[[G1910]]</small></small></sup> |
+| the | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| horsemen, | <big><span class="asgreek">ιππείς</span></big> <sup><small><small>[[G2460]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| put | <big><span class="asgreek">κατάστητε</span></big> <sup><small><small>[[G2525]]</small></small></sup> |
+| on | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ταις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your helmets! | <big><span class="asgreek">περικεφαλαίαις</span></big> <sup><small><small>[[G4030]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Furbish | <big><span class="asgreek">προβάλλετε</span></big> <sup><small><small>[[G4261]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| spears, | <big><span class="asgreek">δόρατα</span></big> <sup><small><small>[[G6965]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| put on | <big><span class="asgreek">ενδύσασθε</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your chest \[plates\]! | <big><span class="asgreek">θώρακας</span></big> <sup><small><small>[[G2382]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Jer.46.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.3|<< Jeremiah 46:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.5|Jeremiah 46:5 >>]]</td></tr></table>
 
 

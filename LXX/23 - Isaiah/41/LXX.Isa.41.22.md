@@ -9,30 +9,30 @@ Let them bring [them] forth, and shew us what shall happen: let them shew the fo
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Let them approach | <span class="asgreek">εγγισάτωσαν <sup><small><small>[[G1448]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| announce | <span class="asgreek">αναγγειλάτωσαν <sup><small><small>[[G0312]]</small></small></sup> </span> |
-| to you! | <span class="asgreek">υμίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| what | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| shall come to pass, | <span class="asgreek">συμβήσεται <sup><small><small>[[G4819]]</small></small></sup> </span> |
-| or | <span class="asgreek">η <sup><small><small>[[G2228]]</small></small></sup> </span> |
-| the \[things\]\<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| prior to | <span class="asgreek">πρότερα <sup><small><small>[[G4387]]</small></small></sup> </span> |
-| what | <span class="asgreek">τίνα <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| it was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| you said. | <span class="asgreek">είπατε <sup><small><small>[[G2036]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we will attend | <span class="asgreek">επιστήσομεν <sup><small><small>[[G2186]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| our mind, | <span class="asgreek">νουν <sup><small><small>[[G3563]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we shall know | <span class="asgreek">γνωσόμεθα <sup><small><small>[[G1097]]</small></small></sup> </span> |
-| what | <span class="asgreek">α <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| last \[things\] | <span class="asgreek">έσχατα <sup><small><small>[[G2078]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| ones coming \[are\]. | <span class="asgreek">επερχόμενα <sup><small><small>[[G1904]]</small></small></sup> </span> |
+| Let them approach | <big><span class="asgreek">εγγισάτωσαν</span></big> <sup><small><small>[[G1448]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| announce | <big><span class="asgreek">αναγγειλάτωσαν</span></big> <sup><small><small>[[G0312]]</small></small></sup> |
+| to you! | <big><span class="asgreek">υμίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| shall come to pass, | <big><span class="asgreek">συμβήσεται</span></big> <sup><small><small>[[G4819]]</small></small></sup> |
+| or | <big><span class="asgreek">η</span></big> <sup><small><small>[[G2228]]</small></small></sup> |
+| the \[things\]\<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| prior to | <big><span class="asgreek">πρότερα</span></big> <sup><small><small>[[G4387]]</small></small></sup> |
+| what | <big><span class="asgreek">τίνα</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| it was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| you said. | <big><span class="asgreek">είπατε</span></big> <sup><small><small>[[G2036]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we will attend | <big><span class="asgreek">επιστήσομεν</span></big> <sup><small><small>[[G2186]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| our mind, | <big><span class="asgreek">νουν</span></big> <sup><small><small>[[G3563]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we shall know | <big><span class="asgreek">γνωσόμεθα</span></big> <sup><small><small>[[G1097]]</small></small></sup> |
+| what | <big><span class="asgreek">α</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| last \[things\] | <big><span class="asgreek">έσχατα</span></big> <sup><small><small>[[G2078]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| ones coming \[are\]. | <big><span class="asgreek">επερχόμενα</span></big> <sup><small><small>[[G1904]]</small></small></sup> |
 [[Isa.41.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.21|<< Isaiah 41:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.23|Isaiah 41:23 >>]]</td></tr></table>
 
 

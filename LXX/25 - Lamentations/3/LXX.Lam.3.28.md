@@ -11,15 +11,15 @@ Let him sit alone in silence, for the LORD has laid it upon him.<small><sub>**M
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| ΙΩΘ <sup><small>[acrostic title]</small></sup> | <span class="asgreek"><seg><hi type="acrostic">ΙΩΘ</hi></seg>  <sup><small><small></small></small></sup> </span> |
-| He will sit down | <span class="asgreek">καθήσεται <sup><small><small>[[G2521]]</small></small></sup> </span> |
-| alone, | <span class="asgreek">κατά <sup><small><small>[[G2596]]</small></small></sup> <span class="asgreek">μόνας <sup><small><small>[[G3441]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| will keep silent, | <span class="asgreek">σιωπήσεται <sup><small><small>[[G4623]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| he lifted \[it\] | <span class="asgreek">ήρεν <sup><small><small>[[G0142]]</small></small></sup> </span> |
-| upon | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| himself. | <span class="asgreek">εαυτώ <sup><small><small>[[G1438]]</small></small></sup> </span> |
+| ΙΩΘ <sup><small>[acrostic title]</small></sup> | <big><span class="asgreek"><seg><hi type="acrostic">ΙΩΘ</hi></seg> </span></big> <sup><small><small></small></small></sup> |
+| He will sit down | <big><span class="asgreek">καθήσεται</span></big> <sup><small><small>[[G2521]]</small></small></sup> |
+| alone, | <big><span class="asgreek">κατά</span></big> <sup><small><small>[[G2596]]</small></small></sup> <big><span class="asgreek">μόνας</span></big> <sup><small><small>[[G3441]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| will keep silent, | <big><span class="asgreek">σιωπήσεται</span></big> <sup><small><small>[[G4623]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| he lifted \[it\] | <big><span class="asgreek">ήρεν</span></big> <sup><small><small>[[G0142]]</small></small></sup> |
+| upon | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| himself. | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
 [[Lam.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.27|<< Lamentations 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.29|Lamentations 3:29 >>]]</td></tr></table>
 
 

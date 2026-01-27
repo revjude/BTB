@@ -9,15 +9,15 @@ yet in his stomach his food sours into the venom of cobras within him.<small><s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Yet | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall he be able | <span class="asgreek">δυνηθή <sup><small><small>[[G1410]]</small></small></sup> </span> |
-| to help | <span class="asgreek">βοηθήσαι <sup><small><small>[[G0997]]</small></small></sup> </span> |
-| himself; | <span class="asgreek">εαυτώ <sup><small><small>[[G1438]]</small></small></sup> </span> |
-| \[the\] bile | <span class="asgreek">χολή <sup><small><small>[[G5521]]</small></small></sup> </span> |
-| of an asp | <span class="asgreek">ασπίδος <sup><small><small>[[G0785]]</small></small></sup> </span> |
-| is in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| his belly. | <span class="asgreek">γαστρί <sup><small><small>[[G1064]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Yet | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall he be able | <big><span class="asgreek">δυνηθή</span></big> <sup><small><small>[[G1410]]</small></small></sup> |
+| to help | <big><span class="asgreek">βοηθήσαι</span></big> <sup><small><small>[[G0997]]</small></small></sup> |
+| himself; | <big><span class="asgreek">εαυτώ</span></big> <sup><small><small>[[G1438]]</small></small></sup> |
+| \[the\] bile | <big><span class="asgreek">χολή</span></big> <sup><small><small>[[G5521]]</small></small></sup> |
+| of an asp | <big><span class="asgreek">ασπίδος</span></big> <sup><small><small>[[G0785]]</small></small></sup> |
+| is in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| his belly. | <big><span class="asgreek">γαστρί</span></big> <sup><small><small>[[G1064]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Job.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.13|<< Job 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.15|Job 20:15 >>]]</td></tr></table>
 
 

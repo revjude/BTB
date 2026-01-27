@@ -9,27 +9,27 @@ The ephah and the bath shall be the same quantity so that the bath will contain 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| choenix | <span class="asgreek">χοίνιξ <sup><small><small>[[G5518]]</small></small></sup> </span> |
-| in like manner | <span class="asgreek">ομοίως <sup><small><small>[[G3668]]</small></small></sup> </span> |
-| will be one | <span class="asgreek">μία <sup><small><small>[[G1520]]</small></small></sup> <span class="asgreek">έσται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| to receive | <span class="asgreek">λαβείν <sup><small><small>[[G2983]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| tenth | <span class="asgreek">δέκατον <sup><small><small>[[G1181]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| homer, | <span class="asgreek">γόμορ <sup><small><small>[[G6758]]</small></small></sup> </span> |
-| a choenix | <span class="asgreek">χοίνιξ <sup><small><small>[[G5518]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| a tenth | <span class="asgreek">δέκατον <sup><small><small>[[G1181]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| homer -- | <span class="asgreek">γόμορ <sup><small><small>[[G6758]]</small></small></sup> </span> |
-| \[the\] ephah | <span class="asgreek">οίφί <sup><small><small>[[G8467]]</small></small></sup> </span> |
-| the | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| homer | <span class="asgreek">γόμορ <sup><small><small>[[G6758]]</small></small></sup> </span> |
-| shall be | <span class="asgreek">έστω <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| equal to | <span class="asgreek">ίσον <sup><small><small>[[G2470]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| choenix | <big><span class="asgreek">χοίνιξ</span></big> <sup><small><small>[[G5518]]</small></small></sup> |
+| in like manner | <big><span class="asgreek">ομοίως</span></big> <sup><small><small>[[G3668]]</small></small></sup> |
+| will be one | <big><span class="asgreek">μία</span></big> <sup><small><small>[[G1520]]</small></small></sup> <big><span class="asgreek">έσται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| to receive | <big><span class="asgreek">λαβείν</span></big> <sup><small><small>[[G2983]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| tenth | <big><span class="asgreek">δέκατον</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| homer, | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
+| a choenix | <big><span class="asgreek">χοίνιξ</span></big> <sup><small><small>[[G5518]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| a tenth | <big><span class="asgreek">δέκατον</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| homer -- | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
+| \[the\] ephah | <big><span class="asgreek">οίφί</span></big> <sup><small><small>[[G8467]]</small></small></sup> |
+| the | <big><span class="asgreek">το</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| homer | <big><span class="asgreek">γόμορ</span></big> <sup><small><small>[[G6758]]</small></small></sup> |
+| shall be | <big><span class="asgreek">έστω</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| equal to | <big><span class="asgreek">ίσον</span></big> <sup><small><small>[[G2470]]</small></small></sup> |
 [[Ezek.45.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.10|<< Ezekiel 45:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.12|Ezekiel 45:12 >>]]</td></tr></table>
 
 

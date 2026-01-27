@@ -9,24 +9,24 @@ Bring two loaves of bread from your dwellings as a wave offering, each made from
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| From | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| your houses | <span class="asgreek">κατοικίας <sup><small><small>[[G2733]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| you shall bring | <span class="asgreek">προσοίσετε <sup><small><small>[[G4374]]</small></small></sup> </span> |
-| bread loaves, | <span class="asgreek">άρτους <sup><small><small>[[G0740]]</small></small></sup> </span> |
-| an increase \[offering\]; | <span class="asgreek">επίθεμα <sup><small><small>[[G7409]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| bread loaves | <span class="asgreek">άρτους <sup><small><small>[[G0740]]</small></small></sup> </span> |
-| of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| two | <span class="asgreek">δύο <sup><small><small>[[G1417]]</small></small></sup> </span> |
-| tenths | <span class="asgreek">δεκάτων <sup><small><small>[[G1181]]</small></small></sup> </span> |
-| of fine flour | <span class="asgreek">σεμιδάλεως <sup><small><small>[[G4585]]</small></small></sup> </span> |
-| they shall be | <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
-| being leaven | <span class="asgreek">εζυμωμένοι <sup><small><small>[[G2220]]</small></small></sup> </span> |
-| baked | <span class="asgreek">πεφθήσονται <sup><small><small>[[G8778]]</small></small></sup> </span> |
-| of \[the\] first produce | <span class="asgreek">πρωτογεννημάτων <sup><small><small>[[G8966]]</small></small></sup> </span> |
-| to the | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| <span class="smallcaps">lord</span>. | <span class="asgreek">κυρίω <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| From | <big><span class="asgreek">από</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">της</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| your houses | <big><span class="asgreek">κατοικίας</span></big> <sup><small><small>[[G2733]]</small></small></sup> <big><span class="asgreek">υμών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| you shall bring | <big><span class="asgreek">προσοίσετε</span></big> <sup><small><small>[[G4374]]</small></small></sup> |
+| bread loaves, | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| an increase \[offering\]; | <big><span class="asgreek">επίθεμα</span></big> <sup><small><small>[[G7409]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| bread loaves | <big><span class="asgreek">άρτους</span></big> <sup><small><small>[[G0740]]</small></small></sup> |
+| of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| two | <big><span class="asgreek">δύο</span></big> <sup><small><small>[[G1417]]</small></small></sup> |
+| tenths | <big><span class="asgreek">δεκάτων</span></big> <sup><small><small>[[G1181]]</small></small></sup> |
+| of fine flour | <big><span class="asgreek">σεμιδάλεως</span></big> <sup><small><small>[[G4585]]</small></small></sup> |
+| they shall be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
+| being leaven | <big><span class="asgreek">εζυμωμένοι</span></big> <sup><small><small>[[G2220]]</small></small></sup> |
+| baked | <big><span class="asgreek">πεφθήσονται</span></big> <sup><small><small>[[G8778]]</small></small></sup> |
+| of \[the\] first produce | <big><span class="asgreek">πρωτογεννημάτων</span></big> <sup><small><small>[[G8966]]</small></small></sup> |
+| to the | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| <span class="smallcaps">lord</span>. | <big><span class="asgreek">κυρίω</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Lev.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.16|<< Leviticus 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.18|Leviticus 23:18 >>]]</td></tr></table>
 
 

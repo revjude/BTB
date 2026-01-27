@@ -9,22 +9,22 @@ A man fathers a fool to his own grief; the father of a fool has no joy.<small><
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| and \[the\] heart | <span class="asgreek">καρδία <sup><small><small>[[G2588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of a fool | <span class="asgreek">άφρονος <sup><small><small>[[G0878]]</small></small></sup> </span> |
-| is grief | <span class="asgreek">οδύνη <sup><small><small>[[G3601]]</small></small></sup> </span> |
-| \[to\]\<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| its possessor. | <span class="asgreek">κεκτημένω <sup><small><small>[[G2932]]</small></small></sup> <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| is not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| glad | <span class="asgreek">ευφραίνεται <sup><small><small>[[G2165]]</small></small></sup> </span> |
-| A father | <span class="asgreek">πατήρ <sup><small><small>[[G3962]]</small></small></sup> </span> |
-| over | <span class="asgreek">εφ΄ <sup><small><small>[[G1909]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιώ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| an uninstructed | <span class="asgreek">απαιδεύτω <sup><small><small>[[G0521]]</small></small></sup> </span> |
-| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| but | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| an intelligent | <span class="asgreek">φρόνιμος <sup><small><small>[[G5429]]</small></small></sup> </span> |
-| gladdens | <span class="asgreek">ευφραίνει <sup><small><small>[[G2165]]</small></small></sup> </span> |
-| his mother. | <span class="asgreek">μητέρα <sup><small><small>[[G3384]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| and \[the\] heart | <big><span class="asgreek">καρδία</span></big> <sup><small><small>[[G2588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of a fool | <big><span class="asgreek">άφρονος</span></big> <sup><small><small>[[G0878]]</small></small></sup> |
+| is grief | <big><span class="asgreek">οδύνη</span></big> <sup><small><small>[[G3601]]</small></small></sup> |
+| \[to\]\<the> | <big><span class="asgreek">τω</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| its possessor. | <big><span class="asgreek">κεκτημένω</span></big> <sup><small><small>[[G2932]]</small></small></sup> <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| is not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| glad | <big><span class="asgreek">ευφραίνεται</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| A father | <big><span class="asgreek">πατήρ</span></big> <sup><small><small>[[G3962]]</small></small></sup> |
+| over | <big><span class="asgreek">εφ΄</span></big> <sup><small><small>[[G1909]]</small></small></sup> |
+| son | <big><span class="asgreek">υιώ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| an uninstructed | <big><span class="asgreek">απαιδεύτω</span></big> <sup><small><small>[[G0521]]</small></small></sup> |
+| son | <big><span class="asgreek">υιός</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| but | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| an intelligent | <big><span class="asgreek">φρόνιμος</span></big> <sup><small><small>[[G5429]]</small></small></sup> |
+| gladdens | <big><span class="asgreek">ευφραίνει</span></big> <sup><small><small>[[G2165]]</small></small></sup> |
+| his mother. | <big><span class="asgreek">μητέρα</span></big> <sup><small><small>[[G3384]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Prov.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.20|<< Proverbs 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.22|Proverbs 17:22 >>]]</td></tr></table>
 
 

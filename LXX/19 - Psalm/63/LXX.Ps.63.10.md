@@ -9,13 +9,13 @@ They will fall to the power of the sword; they will become a portion for foxes.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They shall be delivered up | <span class="asgreek">παραδοθήσονται <sup><small><small>[[G3860]]</small></small></sup> </span> |
-| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| \[the\] hands | <span class="asgreek">χείρας <sup><small><small>[[G5495]]</small></small></sup> </span> |
-| of \[the\] broadsword; | <span class="asgreek">ρομφαίας <sup><small><small>[[G4501]]</small></small></sup> </span> |
-| portions | <span class="asgreek">μερίδες <sup><small><small>[[G3310]]</small></small></sup> </span> |
-| \[for\] foxes | <span class="asgreek">αλωπέκων <sup><small><small>[[G0258]]</small></small></sup> </span> |
-| they will be | <span class="asgreek">έσονται <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| They shall be delivered up | <big><span class="asgreek">παραδοθήσονται</span></big> <sup><small><small>[[G3860]]</small></small></sup> |
+| into | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| \[the\] hands | <big><span class="asgreek">χείρας</span></big> <sup><small><small>[[G5495]]</small></small></sup> |
+| of \[the\] broadsword; | <big><span class="asgreek">ρομφαίας</span></big> <sup><small><small>[[G4501]]</small></small></sup> |
+| portions | <big><span class="asgreek">μερίδες</span></big> <sup><small><small>[[G3310]]</small></small></sup> |
+| \[for\] foxes | <big><span class="asgreek">αλωπέκων</span></big> <sup><small><small>[[G0258]]</small></small></sup> |
+| they will be | <big><span class="asgreek">έσονται</span></big> <sup><small><small>[[G1510]]</small></small></sup> |
 [[Ps.63.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.9|<< Psalm 63:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.11|Psalm 63:11 >>]]</td></tr></table>
 
 

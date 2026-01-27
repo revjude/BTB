@@ -9,19 +9,19 @@ It struck the peoples in anger with unceasing blows; it subdued the nations in r
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Having struck | <span class="asgreek">πατάξας <sup><small><small>[[G3960]]</small></small></sup> </span> |
-| a nation | <span class="asgreek">έθνος <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| in rage | <span class="asgreek">θυμώ <sup><small><small>[[G2372]]</small></small></sup> </span> |
-| calamity | <span class="asgreek">πληγή <sup><small><small>[[G4127]]</small></small></sup> </span> |
-| with an incurable | <span class="asgreek">ανιάτω <sup><small><small>[[G6345]]</small></small></sup> </span> |
-| hitting | <span class="asgreek">παίων <sup><small><small>[[G3817]]</small></small></sup> </span> |
-| a nation | <span class="asgreek">έθνος <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| with a calamity | <span class="asgreek">πληγή <sup><small><small>[[G4127]]</small></small></sup> </span> |
-| of rage, | <span class="asgreek">θυμόυ <sup><small><small>[[G2372]]</small></small></sup> </span> |
-| which | <span class="asgreek">η <sup><small><small>[[G3739]]</small></small></sup> </span> |
-| he spared not, | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> <span class="asgreek">εφείσατο <sup><small><small>[[G5339]]</small></small></sup> </span> |
-| he rested | <span class="asgreek">ανεπαύσατο <sup><small><small>[[G0373]]</small></small></sup> </span> |
-| persuading. | <span class="asgreek">πεποιθώς <sup><small><small>[[G3982]]</small></small></sup> </span> |
+| Having struck | <big><span class="asgreek">πατάξας</span></big> <sup><small><small>[[G3960]]</small></small></sup> |
+| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| in rage | <big><span class="asgreek">θυμώ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
+| calamity | <big><span class="asgreek">πληγή</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
+| with an incurable | <big><span class="asgreek">ανιάτω</span></big> <sup><small><small>[[G6345]]</small></small></sup> |
+| hitting | <big><span class="asgreek">παίων</span></big> <sup><small><small>[[G3817]]</small></small></sup> |
+| a nation | <big><span class="asgreek">έθνος</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| with a calamity | <big><span class="asgreek">πληγή</span></big> <sup><small><small>[[G4127]]</small></small></sup> |
+| of rage, | <big><span class="asgreek">θυμόυ</span></big> <sup><small><small>[[G2372]]</small></small></sup> |
+| which | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3739]]</small></small></sup> |
+| he spared not, | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> <big><span class="asgreek">εφείσατο</span></big> <sup><small><small>[[G5339]]</small></small></sup> |
+| he rested | <big><span class="asgreek">ανεπαύσατο</span></big> <sup><small><small>[[G0373]]</small></small></sup> |
+| persuading. | <big><span class="asgreek">πεποιθώς</span></big> <sup><small><small>[[G3982]]</small></small></sup> |
 [[Isa.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.5|<< Isaiah 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.7|Isaiah 14:7 >>]]</td></tr></table>
 
 

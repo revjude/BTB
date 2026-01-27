@@ -9,16 +9,16 @@ Listen, my son, and be wise, and guide your heart on the right course.<small><s
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Hear, | <span class="asgreek">άκουε <sup><small><small>[[G0191]]</small></small></sup> </span> |
-| O son, | <span class="asgreek">υιέ <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| wise | <span class="asgreek">σοφός <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| be | <span class="asgreek">γίνου <sup><small><small>[[G1096]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| straighten out | <span class="asgreek">κατεύθυνε <sup><small><small>[[G2720]]</small></small></sup> </span> |
-| the reflections | <span class="asgreek">εννοίας <sup><small><small>[[G1771]]</small></small></sup> </span> |
-| of your | <span class="asgreek">σης <sup><small><small>[[G4674]]</small></small></sup> </span> |
-| heart! | <span class="asgreek">καρδίας <sup><small><small>[[G2588]]</small></small></sup> </span> |
+| Hear, | <big><span class="asgreek">άκουε</span></big> <sup><small><small>[[G0191]]</small></small></sup> |
+| O son, | <big><span class="asgreek">υιέ</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| wise | <big><span class="asgreek">σοφός</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| be | <big><span class="asgreek">γίνου</span></big> <sup><small><small>[[G1096]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| straighten out | <big><span class="asgreek">κατεύθυνε</span></big> <sup><small><small>[[G2720]]</small></small></sup> |
+| the reflections | <big><span class="asgreek">εννοίας</span></big> <sup><small><small>[[G1771]]</small></small></sup> |
+| of your | <big><span class="asgreek">σης</span></big> <sup><small><small>[[G4674]]</small></small></sup> |
+| heart! | <big><span class="asgreek">καρδίας</span></big> <sup><small><small>[[G2588]]</small></small></sup> |
 [[Prov.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.18|<< Proverbs 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.20|Proverbs 23:20 >>]]</td></tr></table>
 
 

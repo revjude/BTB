@@ -9,16 +9,16 @@ May my accusers be clothed with disgrace; may they wear their shame like a robe.
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| put on | <span class="asgreek">ενδυσάσθωσαν <sup><small><small>[[G1746]]</small></small></sup> </span> |
-| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| slandering | <span class="asgreek">ενδιαβάλλοντές <sup><small><small>[[G7223]]</small></small></sup> </span> |
-| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| shame, | <span class="asgreek">εντροπήν <sup><small><small>[[G1791]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| around | <span class="asgreek">περιβαλέσθωσαν <sup><small><small>[[G4016]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a garment | <span class="asgreek">διπλοϊδα <sup><small><small>[[G6943]]</small></small></sup> </span> |
-| their shame | <span class="asgreek">αισχύνην <sup><small><small>[[G0152]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| put on | <big><span class="asgreek">ενδυσάσθωσαν</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
+| the ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| slandering | <big><span class="asgreek">ενδιαβάλλοντές</span></big> <sup><small><small>[[G7223]]</small></small></sup> |
+| me | <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| shame, | <big><span class="asgreek">εντροπήν</span></big> <sup><small><small>[[G1791]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| around | <big><span class="asgreek">περιβαλέσθωσαν</span></big> <sup><small><small>[[G4016]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a garment | <big><span class="asgreek">διπλοϊδα</span></big> <sup><small><small>[[G6943]]</small></small></sup> |
+| their shame | <big><span class="asgreek">αισχύνην</span></big> <sup><small><small>[[G0152]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Ps.109.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.28|<< Psalm 109:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.30|Psalm 109:30 >>]]</td></tr></table>
 
 

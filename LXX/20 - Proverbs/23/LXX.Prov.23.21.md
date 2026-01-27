@@ -9,18 +9,18 @@ For the drunkard and the glutton will come to poverty, and drowsiness will cloth
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| For every | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| intoxicated one | <span class="asgreek">μέθυσος <sup><small><small>[[G3183]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| whoremonger | <span class="asgreek">πορνοκόπος <sup><small><small>[[G8868]]</small></small></sup> </span> |
-| shall be poor; | <span class="asgreek">πτωχεύσει <sup><small><small>[[G4433]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| shall put on | <span class="asgreek">ενδύσεται <sup><small><small>[[G1746]]</small></small></sup> </span> |
-| torn | <span class="asgreek">διερρηγμένα <sup><small><small>[[G1284]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| ragged \[garments\] | <span class="asgreek">ρακώδη <sup><small><small>[[G9008]]</small></small></sup> </span> |
-| every | <span class="asgreek">πας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| sleepy one | <span class="asgreek">υπνώδης <sup><small><small>[[G9568]]</small></small></sup> </span> |
+| For every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| intoxicated one | <big><span class="asgreek">μέθυσος</span></big> <sup><small><small>[[G3183]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| whoremonger | <big><span class="asgreek">πορνοκόπος</span></big> <sup><small><small>[[G8868]]</small></small></sup> |
+| shall be poor; | <big><span class="asgreek">πτωχεύσει</span></big> <sup><small><small>[[G4433]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| shall put on | <big><span class="asgreek">ενδύσεται</span></big> <sup><small><small>[[G1746]]</small></small></sup> |
+| torn | <big><span class="asgreek">διερρηγμένα</span></big> <sup><small><small>[[G1284]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| ragged \[garments\] | <big><span class="asgreek">ρακώδη</span></big> <sup><small><small>[[G9008]]</small></small></sup> |
+| every | <big><span class="asgreek">πας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| sleepy one | <big><span class="asgreek">υπνώδης</span></big> <sup><small><small>[[G9568]]</small></small></sup> |
 [[Prov.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.20|<< Proverbs 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.22|Proverbs 23:22 >>]]</td></tr></table>
 
 

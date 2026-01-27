@@ -9,17 +9,17 @@ Although I trained and strengthened their arms, they plot evil against Me.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| They were corrected | <span class="asgreek">επαιδεύθησαν <sup><small><small>[[G3811]]</small></small></sup> </span> |
-| by | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| me; | <span class="asgreek">εμοί <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| I strengthened | <span class="asgreek">κατίσχυσα <sup><small><small>[[G2729]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| their arms; | <span class="asgreek">βραχίονας <sup><small><small>[[G1023]]</small></small></sup> <span class="asgreek">αυτών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| against | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
-| me | <span class="asgreek">εμέ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| they devised | <span class="asgreek">ελογίσαντο <sup><small><small>[[G3049]]</small></small></sup> </span> |
-| wicked \[things\]. | <span class="asgreek">πονηρά <sup><small><small>[[G4190]]</small></small></sup> </span> |
+| They were corrected | <big><span class="asgreek">επαιδεύθησαν</span></big> <sup><small><small>[[G3811]]</small></small></sup> |
+| by | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| me; | <big><span class="asgreek">εμοί</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| I strengthened | <big><span class="asgreek">κατίσχυσα</span></big> <sup><small><small>[[G2729]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| their arms; | <big><span class="asgreek">βραχίονας</span></big> <sup><small><small>[[G1023]]</small></small></sup> <big><span class="asgreek">αυτών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| against | <big><span class="asgreek">εις</span></big> <sup><small><small>[[G1519]]</small></small></sup> |
+| me | <big><span class="asgreek">εμέ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| they devised | <big><span class="asgreek">ελογίσαντο</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
+| wicked \[things\]. | <big><span class="asgreek">πονηρά</span></big> <sup><small><small>[[G4190]]</small></small></sup> |
 [[Hos.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.14|<< Hosea 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.16|Hosea 7:16 >>]]</td></tr></table>
 
 

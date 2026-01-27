@@ -9,19 +9,19 @@ But you did not even let me kiss my grandchildren and my daughters goodbye. Now 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| am I worthy | <span class="asgreek">ηξιώθην <sup><small><small>[[G0515]]</small></small></sup> </span> |
-| to kiss | <span class="asgreek">καταφιλήσαι <sup><small><small>[[G2705]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my children, | <span class="asgreek">παιδία <sup><small><small>[[G3813]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| my daughters. | <span class="asgreek">θυγατέρας <sup><small><small>[[G2364]]</small></small></sup> <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| Now | <span class="asgreek">νυν <sup><small><small>[[G3568]]</small></small></sup> </span> |
-| then | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| unwisely | <span class="asgreek">αφρόνως <sup><small><small>[[G6630]]</small></small></sup> </span> |
-| you acted | <span class="asgreek">έπραξας <sup><small><small>[[G4238]]</small></small></sup> </span> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| am I worthy | <big><span class="asgreek">ηξιώθην</span></big> <sup><small><small>[[G0515]]</small></small></sup> |
+| to kiss | <big><span class="asgreek">καταφιλήσαι</span></big> <sup><small><small>[[G2705]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my children, | <big><span class="asgreek">παιδία</span></big> <sup><small><small>[[G3813]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| my daughters. | <big><span class="asgreek">θυγατέρας</span></big> <sup><small><small>[[G2364]]</small></small></sup> <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| Now | <big><span class="asgreek">νυν</span></big> <sup><small><small>[[G3568]]</small></small></sup> |
+| then | <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| unwisely | <big><span class="asgreek">αφρόνως</span></big> <sup><small><small>[[G6630]]</small></small></sup> |
+| you acted | <big><span class="asgreek">έπραξας</span></big> <sup><small><small>[[G4238]]</small></small></sup> |
 [[Gen.31.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.27|<< Genesis 31:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.29|Genesis 31:29 >>]]</td></tr></table>
 
 

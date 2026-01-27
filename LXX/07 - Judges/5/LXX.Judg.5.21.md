@@ -9,18 +9,18 @@ The River Kishon swept them away, the ancient river, the River Kishon. March on,
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] rushing stream | <span class="asgreek">χειμάρρους <sup><small><small>[[G5493]]</small></small></sup> </span> |
-| Kishon | <span class="asgreek">Κισών <sup><small><small>[[H7028]]</small></small></sup> </span> |
-| cast them out, | <span class="asgreek">εξέβαλεν <sup><small><small>[[G1544]]</small></small></sup> <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| \[the\] rushing stream | <span class="asgreek">χειμάρρους <sup><small><small>[[G5493]]</small></small></sup> </span> |
-| of antiquity, | <span class="asgreek">Καδημίμ <sup><small><small>[[G7747]]</small></small></sup> </span> |
-| \[the\] rushing stream | <span class="asgreek">χειμάρρους <sup><small><small>[[G5493]]</small></small></sup> </span> |
-| Kishon; | <span class="asgreek">Κισών <sup><small><small>[[H7028]]</small></small></sup> </span> |
-| shall trample | <span class="asgreek">καταπατήσει <sup><small><small>[[G2662]]</small></small></sup> </span> |
-| them | <span class="asgreek">αυτούς <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| soul | <span class="asgreek">ψυχή <sup><small><small>[[G5590]]</small></small></sup> </span> |
-| my | <span class="asgreek">μου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| mighty | <span class="asgreek">δυνατή <sup><small><small>[[G1415]]</small></small></sup> </span> |
+| \[The\] rushing stream | <big><span class="asgreek">χειμάρρους</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
+| Kishon | <big><span class="asgreek">Κισών</span></big> <sup><small><small>[[H7028]]</small></small></sup> |
+| cast them out, | <big><span class="asgreek">εξέβαλεν</span></big> <sup><small><small>[[G1544]]</small></small></sup> <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| \[the\] rushing stream | <big><span class="asgreek">χειμάρρους</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
+| of antiquity, | <big><span class="asgreek">Καδημίμ</span></big> <sup><small><small>[[G7747]]</small></small></sup> |
+| \[the\] rushing stream | <big><span class="asgreek">χειμάρρους</span></big> <sup><small><small>[[G5493]]</small></small></sup> |
+| Kishon; | <big><span class="asgreek">Κισών</span></big> <sup><small><small>[[H7028]]</small></small></sup> |
+| shall trample | <big><span class="asgreek">καταπατήσει</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
+| them | <big><span class="asgreek">αυτούς</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| soul | <big><span class="asgreek">ψυχή</span></big> <sup><small><small>[[G5590]]</small></small></sup> |
+| my | <big><span class="asgreek">μου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| mighty | <big><span class="asgreek">δυνατή</span></big> <sup><small><small>[[G1415]]</small></small></sup> |
 [[Judg.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.20|<< Judges 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.22|Judges 5:22 >>]]</td></tr></table>
 
 

@@ -9,14 +9,14 @@ Your cheeks are beautiful with ornaments, your neck with strings of jewels.<sma
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| How | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| are beautiful | <span class="asgreek">ωραιώθησαν <sup><small><small>[[G9813]]</small></small></sup> </span> |
-| your cheeks | <span class="asgreek">σιαγόνες <sup><small><small>[[G4600]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| a turtle-dove; | <span class="asgreek">τρυγόνος <sup><small><small>[[G5167]]</small></small></sup> </span> |
-| your neck | <span class="asgreek">τράχηλός <sup><small><small>[[G5137]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
-| pendants. | <span class="asgreek">ορμίσκοι <sup><small><small>[[G8549]]</small></small></sup> </span> |
+| How | <big><span class="asgreek">τι</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| are beautiful | <big><span class="asgreek">ωραιώθησαν</span></big> <sup><small><small>[[G9813]]</small></small></sup> |
+| your cheeks | <big><span class="asgreek">σιαγόνες</span></big> <sup><small><small>[[G4600]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| a turtle-dove; | <big><span class="asgreek">τρυγόνος</span></big> <sup><small><small>[[G5167]]</small></small></sup> |
+| your neck | <big><span class="asgreek">τράχηλός</span></big> <sup><small><small>[[G5137]]</small></small></sup> <big><span class="asgreek">σου</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| as | <big><span class="asgreek">ως</span></big> <sup><small><small>[[G5613]]</small></small></sup> |
+| pendants. | <big><span class="asgreek">ορμίσκοι</span></big> <sup><small><small>[[G8549]]</small></small></sup> |
 [[Song.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.9|<< Song of Solomon 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.11|Song of Solomon 1:11 >>]]</td></tr></table>
 
 

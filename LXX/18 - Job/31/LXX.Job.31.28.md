@@ -9,19 +9,19 @@ this would also be an iniquity to be judged, for I would have denied God on high
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| then let | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| this \[be\] | <span class="asgreek">τούτό <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| so to me | <span class="asgreek">μοι <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">άρα <sup><small><small>[[G0686]]</small></small></sup> </span> |
-| lawlessness | <span class="asgreek">ανομία <sup><small><small>[[G0458]]</small></small></sup> </span> |
-| \[as\] the | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| greatest | <span class="asgreek">μεγίστη <sup><small><small>[[G3173]]</small></small></sup> </span> |
-| imputed | <span class="asgreek">λογισθείη <sup><small><small>[[G3049]]</small></small></sup> </span> |
-| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| I lied | <span class="asgreek">εψευσάμην <sup><small><small>[[G5574]]</small></small></sup> </span> |
-| before | <span class="asgreek">έναντι <sup><small><small>[[G1725]]</small></small></sup> </span> |
-| \[the\] <span class="smallcaps">lord</span> | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| highest. | <span class="asgreek">υψίστου <sup><small><small>[[G5310]]</small></small></sup> </span> |
+| then let | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| this \[be\] | <big><span class="asgreek">τούτό</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| so to me | <big><span class="asgreek">μοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> <big><span class="asgreek">άρα</span></big> <sup><small><small>[[G0686]]</small></small></sup> |
+| lawlessness | <big><span class="asgreek">ανομία</span></big> <sup><small><small>[[G0458]]</small></small></sup> |
+| \[as\] the | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| greatest | <big><span class="asgreek">μεγίστη</span></big> <sup><small><small>[[G3173]]</small></small></sup> |
+| imputed | <big><span class="asgreek">λογισθείη</span></big> <sup><small><small>[[G3049]]</small></small></sup> |
+| for | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| I lied | <big><span class="asgreek">εψευσάμην</span></big> <sup><small><small>[[G5574]]</small></small></sup> |
+| before | <big><span class="asgreek">έναντι</span></big> <sup><small><small>[[G1725]]</small></small></sup> |
+| \[the\] <span class="smallcaps">lord</span> | <big><span class="asgreek">κυρίου</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| highest. | <big><span class="asgreek">υψίστου</span></big> <sup><small><small>[[G5310]]</small></small></sup> |
 [[Job.31.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.27|<< Job 31:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.29|Job 31:29 >>]]</td></tr></table>
 
 

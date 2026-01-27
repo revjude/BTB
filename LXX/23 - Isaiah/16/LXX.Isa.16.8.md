@@ -9,33 +9,33 @@ For the fields of Heshbon have withered, along with the grapevines of Sibmah. Th
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| plains | <span class="asgreek">πεδία <sup><small><small>[[G8676]]</small></small></sup> </span> |
-| of Heshbon | <span class="asgreek">Εσεβών <sup><small><small>[[H2809]]</small></small></sup> </span> |
-| shall mourn | <span class="asgreek">πενθήσει <sup><small><small>[[G3996]]</small></small></sup> </span> |
-| \[the\] grapevine | <span class="asgreek">άμπελος <sup><small><small>[[G0288]]</small></small></sup> </span> |
-| of Sibmah. | <span class="asgreek">Σεβαμά <sup><small><small>[[H7643]]</small></small></sup> </span> |
-| Swallowing down | <span class="asgreek">καταπίνοντες <sup><small><small>[[G2666]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| nations, | <span class="asgreek">έθνη <sup><small><small>[[G1484]]</small></small></sup> </span> |
-| trampling | <span class="asgreek">καταπατήσαντες <sup><small><small>[[G2662]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τας <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| her grapevines, | <span class="asgreek">αμπέλους <sup><small><small>[[G0288]]</small></small></sup> <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
-| Jazer | <span class="asgreek">Ιαζήρ <sup><small><small>[[H3270]]</small></small></sup> </span> |
-| in no way | <span class="asgreek">ου μη <sup><small><small>[[G3364]]</small></small></sup> </span> |
-| shall you join together. | <span class="asgreek">συνάψητε <sup><small><small>[[G9297]]</small></small></sup> </span> |
-| Wander | <span class="asgreek">πλανήθητε <sup><small><small>[[G4105]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| wilderness! | <span class="asgreek">έρημον <sup><small><small>[[G2048]]</small></small></sup> </span> |
-| The ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| being sent | <span class="asgreek">απεσταλμένοι <sup><small><small>[[G0649]]</small></small></sup> </span> |
-| from | <span class="asgreek">απ΄ <sup><small><small>[[G0575]]</small></small></sup> </span> |
-| her | <span class="asgreek">αυτής <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| were abandoned, | <span class="asgreek">εγκατελείφθησαν <sup><small><small>[[G1459]]</small></small></sup> </span> |
-| for they passed over | <span class="asgreek">διέβησαν <sup><small><small>[[G1224]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| the | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| sea. | <span class="asgreek">θάλασσαν <sup><small><small>[[G2281]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| plains | <big><span class="asgreek">πεδία</span></big> <sup><small><small>[[G8676]]</small></small></sup> |
+| of Heshbon | <big><span class="asgreek">Εσεβών</span></big> <sup><small><small>[[H2809]]</small></small></sup> |
+| shall mourn | <big><span class="asgreek">πενθήσει</span></big> <sup><small><small>[[G3996]]</small></small></sup> |
+| \[the\] grapevine | <big><span class="asgreek">άμπελος</span></big> <sup><small><small>[[G0288]]</small></small></sup> |
+| of Sibmah. | <big><span class="asgreek">Σεβαμά</span></big> <sup><small><small>[[H7643]]</small></small></sup> |
+| Swallowing down | <big><span class="asgreek">καταπίνοντες</span></big> <sup><small><small>[[G2666]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| nations, | <big><span class="asgreek">έθνη</span></big> <sup><small><small>[[G1484]]</small></small></sup> |
+| trampling | <big><span class="asgreek">καταπατήσαντες</span></big> <sup><small><small>[[G2662]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τας</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| her grapevines, | <big><span class="asgreek">αμπέλους</span></big> <sup><small><small>[[G0288]]</small></small></sup> <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| unto | <big><span class="asgreek">έως</span></big> <sup><small><small>[[G2193]]</small></small></sup> |
+| Jazer | <big><span class="asgreek">Ιαζήρ</span></big> <sup><small><small>[[H3270]]</small></small></sup> |
+| in no way | <big><span class="asgreek">ου μη</span></big> <sup><small><small>[[G3364]]</small></small></sup> |
+| shall you join together. | <big><span class="asgreek">συνάψητε</span></big> <sup><small><small>[[G9297]]</small></small></sup> |
+| Wander | <big><span class="asgreek">πλανήθητε</span></big> <sup><small><small>[[G4105]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| wilderness! | <big><span class="asgreek">έρημον</span></big> <sup><small><small>[[G2048]]</small></small></sup> |
+| The ones | <big><span class="asgreek">οι</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| being sent | <big><span class="asgreek">απεσταλμένοι</span></big> <sup><small><small>[[G0649]]</small></small></sup> |
+| from | <big><span class="asgreek">απ΄</span></big> <sup><small><small>[[G0575]]</small></small></sup> |
+| her | <big><span class="asgreek">αυτής</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| were abandoned, | <big><span class="asgreek">εγκατελείφθησαν</span></big> <sup><small><small>[[G1459]]</small></small></sup> |
+| for they passed over | <big><span class="asgreek">διέβησαν</span></big> <sup><small><small>[[G1224]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| the | <big><span class="asgreek">την</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| sea. | <big><span class="asgreek">θάλασσαν</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
 [[Isa.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.7|<< Isaiah 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.9|Isaiah 16:9 >>]]</td></tr></table>
 
 

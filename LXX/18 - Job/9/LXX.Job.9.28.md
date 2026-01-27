@@ -9,15 +9,15 @@ I would still dread all my sufferings; I know that You will not acquit me.<smal
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| I shake | <span class="asgreek">σείομαι <sup><small><small>[[G4579]]</small></small></sup> </span> |
-| in all | <span class="asgreek">πάσι <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| \[my\] limbs, | <span class="asgreek">μέλεσιν <sup><small><small>[[G3196]]</small></small></sup> </span> |
-| for I know | <span class="asgreek">οίδα <sup><small><small>[[G1492]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
-| that | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
-| not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| me be innocent | <span class="asgreek">αθώόν <sup><small><small>[[G0121]]</small></small></sup> <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| let | <span class="asgreek">εάσεις <sup><small><small>[[G1439]]</small></small></sup> </span> |
+| I shake | <big><span class="asgreek">σείομαι</span></big> <sup><small><small>[[G4579]]</small></small></sup> |
+| in all | <big><span class="asgreek">πάσι</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">τοις</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| \[my\] limbs, | <big><span class="asgreek">μέλεσιν</span></big> <sup><small><small>[[G3196]]</small></small></sup> |
+| for I know | <big><span class="asgreek">οίδα</span></big> <sup><small><small>[[G1492]]</small></small></sup> <big><span class="asgreek">γαρ</span></big> <sup><small><small>[[G1063]]</small></small></sup> |
+| that | <big><span class="asgreek">ότι</span></big> <sup><small><small>[[G3754]]</small></small></sup> |
+| not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| me be innocent | <big><span class="asgreek">αθώόν</span></big> <sup><small><small>[[G0121]]</small></small></sup> <big><span class="asgreek">με</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| let | <big><span class="asgreek">εάσεις</span></big> <sup><small><small>[[G1439]]</small></small></sup> |
 [[Job.9.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.27|<< Job 9:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.29|Job 9:29 >>]]</td></tr></table>
 
 

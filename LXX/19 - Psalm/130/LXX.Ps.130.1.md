@@ -14,11 +14,11 @@ A song of ascents. Out of the depths I cry to You, O LORD!<small><sub>**MT:**</
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| From out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| \[the\] depths | <span class="asgreek">βαθέων <sup><small><small>[[G0899]]</small></small></sup> </span> |
-| I cried out | <span class="asgreek">εκέκραξά <sup><small><small>[[G2896]]</small></small></sup> </span> |
-| to you, | <span class="asgreek">σοι <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| O <span class="smallcaps">lord</span>. | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| From out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| \[the\] depths | <big><span class="asgreek">βαθέων</span></big> <sup><small><small>[[G0899]]</small></small></sup> |
+| I cried out | <big><span class="asgreek">εκέκραξά</span></big> <sup><small><small>[[G2896]]</small></small></sup> |
+| to you, | <big><span class="asgreek">σοι</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| O <span class="smallcaps">lord</span>. | <big><span class="asgreek">κύριε</span></big> <sup><small><small>[[G2962]]</small></small></sup> |
 [[Ps.130.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.129.8|<< Psalm 129:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.130.2|Psalm 130:2 >>]]</td></tr></table>
 
 

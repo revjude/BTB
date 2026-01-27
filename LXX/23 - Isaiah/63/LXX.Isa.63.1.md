@@ -16,29 +16,29 @@ Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| Who | <span class="asgreek">τις <sup><small><small>[[G5100]]</small></small></sup> </span> |
-| \[is\] this, | <span class="asgreek">ούτος <sup><small><small>[[G3778]]</small></small></sup> </span> |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| coming | <span class="asgreek">παραγενόμενος <sup><small><small>[[G3854]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εξ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Edom, | <span class="asgreek">Εδώμ <sup><small><small>[[H0123]]</small></small></sup> </span> |
-| dyed red | <span class="asgreek">ερύθημα <sup><small><small>[[G7509]]</small></small></sup> </span> |
-| garments | <span class="asgreek">ιματίων <sup><small><small>[[G2440]]</small></small></sup> </span> |
-| from out of | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
-| Bozrah? | <span class="asgreek">Βοσόρ <sup><small><small>[[H1308]]</small></small></sup> </span> |
-| This one | <span class="asgreek">ούτος <sup><small><small>[[G3779]]</small></small></sup> </span> |
-| beautiful | <span class="asgreek">ωραίος <sup><small><small>[[G5611]]</small></small></sup> </span> |
-| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| his apparel, | <span class="asgreek">στολή <sup><small><small>[[G4749]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| force | <span class="asgreek">βία <sup><small><small>[[G0970]]</small></small></sup> </span> |
-| with | <span class="asgreek">μετά <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| a mighty | <span class="asgreek">ισχύος <sup><small><small>[[G2479]]</small></small></sup> </span> |
-| I | <span class="asgreek">εγώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| reason | <span class="asgreek">διαλέγομαι <sup><small><small>[[G1256]]</small></small></sup> </span> |
-| righteousness | <span class="asgreek">δικαιοσύνην <sup><small><small>[[G1343]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the\] case | <span class="asgreek">κρίσιν <sup><small><small>[[G2920]]</small></small></sup> </span> |
-| of deliverance. | <span class="asgreek">σωτηρίου <sup><small><small>[[G4992]]</small></small></sup> </span> |
+| Who | <big><span class="asgreek">τις</span></big> <sup><small><small>[[G5100]]</small></small></sup> |
+| \[is\] this, | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3778]]</small></small></sup> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| coming | <big><span class="asgreek">παραγενόμενος</span></big> <sup><small><small>[[G3854]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εξ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Edom, | <big><span class="asgreek">Εδώμ</span></big> <sup><small><small>[[H0123]]</small></small></sup> |
+| dyed red | <big><span class="asgreek">ερύθημα</span></big> <sup><small><small>[[G7509]]</small></small></sup> |
+| garments | <big><span class="asgreek">ιματίων</span></big> <sup><small><small>[[G2440]]</small></small></sup> |
+| from out of | <big><span class="asgreek">εκ</span></big> <sup><small><small>[[G1537]]</small></small></sup> |
+| Bozrah? | <big><span class="asgreek">Βοσόρ</span></big> <sup><small><small>[[H1308]]</small></small></sup> |
+| This one | <big><span class="asgreek">ούτος</span></big> <sup><small><small>[[G3779]]</small></small></sup> |
+| beautiful | <big><span class="asgreek">ωραίος</span></big> <sup><small><small>[[G5611]]</small></small></sup> |
+| in | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| his apparel, | <big><span class="asgreek">στολή</span></big> <sup><small><small>[[G4749]]</small></small></sup> <big><span class="asgreek">αυτού</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| force | <big><span class="asgreek">βία</span></big> <sup><small><small>[[G0970]]</small></small></sup> |
+| with | <big><span class="asgreek">μετά</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| a mighty | <big><span class="asgreek">ισχύος</span></big> <sup><small><small>[[G2479]]</small></small></sup> |
+| I | <big><span class="asgreek">εγώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| reason | <big><span class="asgreek">διαλέγομαι</span></big> <sup><small><small>[[G1256]]</small></small></sup> |
+| righteousness | <big><span class="asgreek">δικαιοσύνην</span></big> <sup><small><small>[[G1343]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the\] case | <big><span class="asgreek">κρίσιν</span></big> <sup><small><small>[[G2920]]</small></small></sup> |
+| of deliverance. | <big><span class="asgreek">σωτηρίου</span></big> <sup><small><small>[[G4992]]</small></small></sup> |
 [[Isa.63.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.12|<< Isaiah 62:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.2|Isaiah 63:2 >>]]</td></tr></table>
 
 

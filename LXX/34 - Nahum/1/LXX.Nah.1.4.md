@@ -9,28 +9,28 @@ He rebukes the sea and dries it up; He makes all the rivers run dry. Bashan and 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[the\] one pressing together | <span class="asgreek">απειλών <sup><small><small>[[G0546]]</small></small></sup> </span> |
-| \[the\] sea, | <span class="asgreek">θαλάσση <sup><small><small>[[G2281]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \[the one\] drying | <span class="asgreek">ξηραίνων <sup><small><small>[[G3583]]</small></small></sup> </span> |
-| it, | <span class="asgreek">αυτήν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| all | <span class="asgreek">πάντας <sup><small><small>[[G3956]]</small></small></sup> </span> |
-| the | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| rivers | <span class="asgreek">ποταμούς <sup><small><small>[[G4215]]</small></small></sup> </span> |
-| making quite desolate | <span class="asgreek">εξερημών <sup><small><small>[[G7315]]</small></small></sup> </span> |
-| are lessened | <span class="asgreek">ωλιγώθη <sup><small><small>[[G8487]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Bashan | <span class="asgreek">Βασανίτις <sup><small><small>[[H1316]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| Carmel | <span class="asgreek">Κάρμηλος <sup><small><small>[[H3760]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| the | <span class="asgreek">τα <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| blossoming | <span class="asgreek">εξανθούντα <sup><small><small>[[G7296]]</small></small></sup> </span> |
-| \<the> | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| of Lebanon | <span class="asgreek">Λιβάνου <sup><small><small>[[H3844]]</small></small></sup> </span> |
-| failed. | <span class="asgreek">εξέλιπε <sup><small><small>[[G1587]]</small></small></sup> </span> |
+| \[the\] one pressing together | <big><span class="asgreek">απειλών</span></big> <sup><small><small>[[G0546]]</small></small></sup> |
+| \[the\] sea, | <big><span class="asgreek">θαλάσση</span></big> <sup><small><small>[[G2281]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \[the one\] drying | <big><span class="asgreek">ξηραίνων</span></big> <sup><small><small>[[G3583]]</small></small></sup> |
+| it, | <big><span class="asgreek">αυτήν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| all | <big><span class="asgreek">πάντας</span></big> <sup><small><small>[[G3956]]</small></small></sup> |
+| the | <big><span class="asgreek">τους</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| rivers | <big><span class="asgreek">ποταμούς</span></big> <sup><small><small>[[G4215]]</small></small></sup> |
+| making quite desolate | <big><span class="asgreek">εξερημών</span></big> <sup><small><small>[[G7315]]</small></small></sup> |
+| are lessened | <big><span class="asgreek">ωλιγώθη</span></big> <sup><small><small>[[G8487]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">η</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Bashan | <big><span class="asgreek">Βασανίτις</span></big> <sup><small><small>[[H1316]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| Carmel | <big><span class="asgreek">Κάρμηλος</span></big> <sup><small><small>[[H3760]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| the | <big><span class="asgreek">τα</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| blossoming | <big><span class="asgreek">εξανθούντα</span></big> <sup><small><small>[[G7296]]</small></small></sup> |
+| \<the> | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| of Lebanon | <big><span class="asgreek">Λιβάνου</span></big> <sup><small><small>[[H3844]]</small></small></sup> |
+| failed. | <big><span class="asgreek">εξέλιπε</span></big> <sup><small><small>[[G1587]]</small></small></sup> |
 [[Nah.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.3|<< Nahum 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.5|Nahum 1:5 >>]]</td></tr></table>
 
 

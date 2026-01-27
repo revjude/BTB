@@ -9,20 +9,20 @@ Now a young Hebrew was there with us, a servant of the captain of the guard. We 
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| And there was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| there | <span class="asgreek">εκεί <sup><small><small>[[G1563]]</small></small></sup> </span> |
-| with | <span class="asgreek">μεθ΄ <sup><small><small>[[G3326]]</small></small></sup> </span> |
-| us | <span class="asgreek">ημών <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| a young | <span class="asgreek">νεανίσκος <sup><small><small>[[G3495]]</small></small></sup> </span> |
-| Hebrew servant | <span class="asgreek">παις <sup><small><small>[[G3816]]</small></small></sup> <span class="asgreek">Εβραίος <sup><small><small>[[G1444]]</small></small></sup> </span> |
-| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| chief guard. | <span class="asgreek">αρχιμαγείρου <sup><small><small>[[G6554]]</small></small></sup> </span> |
-| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| we described | <span class="asgreek">διηγησάμεθα <sup><small><small>[[G1334]]</small></small></sup> </span> |
-| to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
-| he interpreted | <span class="asgreek">συνέκρινεν <sup><small><small>[[G4793]]</small></small></sup> </span> |
-| to us. | <span class="asgreek">ημίν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And there was | <big><span class="asgreek">ην</span></big> <sup><small><small>[[G1510]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| there | <big><span class="asgreek">εκεί</span></big> <sup><small><small>[[G1563]]</small></small></sup> |
+| with | <big><span class="asgreek">μεθ΄</span></big> <sup><small><small>[[G3326]]</small></small></sup> |
+| us | <big><span class="asgreek">ημών</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| a young | <big><span class="asgreek">νεανίσκος</span></big> <sup><small><small>[[G3495]]</small></small></sup> |
+| Hebrew servant | <big><span class="asgreek">παις</span></big> <sup><small><small>[[G3816]]</small></small></sup> <big><span class="asgreek">Εβραίος</span></big> <sup><small><small>[[G1444]]</small></small></sup> |
+| of the | <big><span class="asgreek">του</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| chief guard. | <big><span class="asgreek">αρχιμαγείρου</span></big> <sup><small><small>[[G6554]]</small></small></sup> |
+| And | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| we described | <big><span class="asgreek">διηγησάμεθα</span></big> <sup><small><small>[[G1334]]</small></small></sup> |
+| to him, | <big><span class="asgreek">αυτώ</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| and | <big><span class="asgreek">και</span></big> <sup><small><small>[[G2532]]</small></small></sup> |
+| he interpreted | <big><span class="asgreek">συνέκρινεν</span></big> <sup><small><small>[[G4793]]</small></small></sup> |
+| to us. | <big><span class="asgreek">ημίν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
 [[Gen.41.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.11|<< Genesis 41:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.13|Genesis 41:13 >>]]</td></tr></table>
 
 

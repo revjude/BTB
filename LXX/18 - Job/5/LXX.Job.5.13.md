@@ -13,15 +13,15 @@ He catches the wise in their craftiness, and sweeps away the plans of the cunnin
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| overtaking | <span class="asgreek">καταλαμβάνων <sup><small><small>[[G2638]]</small></small></sup> </span> |
-| \[the\] wise | <span class="asgreek">σοφούς <sup><small><small>[[G4680]]</small></small></sup> </span> |
-| with | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
-| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| intellect; | <span class="asgreek">φρονήσει <sup><small><small>[[G5428]]</small></small></sup> </span> |
-| and \[the\] counsel | <span class="asgreek">βουλήν <sup><small><small>[[G1012]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| of \[the\] crafty ones | <span class="asgreek">πολυπλόκων <sup><small><small>[[G8856]]</small></small></sup> </span> |
-| he amazes. | <span class="asgreek">εξέστησεν <sup><small><small>[[G1839]]</small></small></sup> </span> |
+| the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| overtaking | <big><span class="asgreek">καταλαμβάνων</span></big> <sup><small><small>[[G2638]]</small></small></sup> |
+| \[the\] wise | <big><span class="asgreek">σοφούς</span></big> <sup><small><small>[[G4680]]</small></small></sup> |
+| with | <big><span class="asgreek">εν</span></big> <sup><small><small>[[G1722]]</small></small></sup> |
+| the | <big><span class="asgreek">τη</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| intellect; | <big><span class="asgreek">φρονήσει</span></big> <sup><small><small>[[G5428]]</small></small></sup> |
+| and \[the\] counsel | <big><span class="asgreek">βουλήν</span></big> <sup><small><small>[[G1012]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| of \[the\] crafty ones | <big><span class="asgreek">πολυπλόκων</span></big> <sup><small><small>[[G8856]]</small></small></sup> |
+| he amazes. | <big><span class="asgreek">εξέστησεν</span></big> <sup><small><small>[[G1839]]</small></small></sup> |
 [[Job.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.12|<< Job 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.14|Job 5:14 >>]]</td></tr></table>
 
 

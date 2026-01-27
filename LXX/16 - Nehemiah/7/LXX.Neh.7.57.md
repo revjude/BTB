@@ -9,15 +9,15 @@ The descendants of the servants of Solomon: the descendants of Sotai, the descen
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| \[The\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of \[the\] servants | <span class="asgreek">δούλων <sup><small><small>[[G1401]]</small></small></sup> </span> |
-| of Solomon | <span class="asgreek">Σολομώντος <sup><small><small>[[G4672]]</small></small></sup> </span> |
-| \[were the\] sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Sotai, | <span class="asgreek">Σουτεϊ <sup><small><small>[[H5479]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Sophereth, | <span class="asgreek">Σαφαράτ <sup><small><small>[[H5618]]</small></small></sup> </span> |
-| sons | <span class="asgreek">υιοί <sup><small><small>[[G5207]]</small></small></sup> </span> |
-| of Perida, | <span class="asgreek">Φεριδά <sup><small><small>[[H6514]]</small></small></sup> </span> |
+| \[The\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of \[the\] servants | <big><span class="asgreek">δούλων</span></big> <sup><small><small>[[G1401]]</small></small></sup> |
+| of Solomon | <big><span class="asgreek">Σολομώντος</span></big> <sup><small><small>[[G4672]]</small></small></sup> |
+| \[were the\] sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Sotai, | <big><span class="asgreek">Σουτεϊ</span></big> <sup><small><small>[[H5479]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Sophereth, | <big><span class="asgreek">Σαφαράτ</span></big> <sup><small><small>[[H5618]]</small></small></sup> |
+| sons | <big><span class="asgreek">υιοί</span></big> <sup><small><small>[[G5207]]</small></small></sup> |
+| of Perida, | <big><span class="asgreek">Φεριδά</span></big> <sup><small><small>[[H6514]]</small></small></sup> |
 [[Neh.7.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.56|<< Nehemiah 7:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.58|Nehemiah 7:58 >>]]</td></tr></table>
 
 

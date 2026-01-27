@@ -9,21 +9,21 @@ He who mocks the poor insults their Maker; whoever gloats over calamity will not
 
 | Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
 | - | - |
-| The | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| one ridiculing | <span class="asgreek">καταγελών <sup><small><small>[[G2606]]</small></small></sup> </span> |
-| \[the\] poor | <span class="asgreek">πτωχού <sup><small><small>[[G4434]]</small></small></sup> </span> |
-| provokes | <span class="asgreek">παροξύνει <sup><small><small>[[G3947]]</small></small></sup> </span> |
-| the one | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
-| making | <span class="asgreek">ποιήσαντα <sup><small><small>[[G4160]]</small></small></sup> </span> |
-| him. | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
-| And the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| rejoicing at | <span class="asgreek">επιχαίρων <sup><small><small>[[G7471]]</small></small></sup> </span> |
-| one being destroyed | <span class="asgreek">απολλυμένω <sup><small><small>[[G0622]]</small></small></sup> </span> |
-| shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
-| be acquitted; | <span class="asgreek">αθωωθήσεται <sup><small><small>[[G6154]]</small></small></sup> </span> |
-| but the one | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
-| showing compassion | <span class="asgreek">επισπλαγχνιζόμενος <sup><small><small>[[G7451]]</small></small></sup> </span> |
-| shall be shown mercy. | <span class="asgreek">ελεηθήσεται <sup><small><small>[[G1653]]</small></small></sup> </span> |
+| The | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| one ridiculing | <big><span class="asgreek">καταγελών</span></big> <sup><small><small>[[G2606]]</small></small></sup> |
+| \[the\] poor | <big><span class="asgreek">πτωχού</span></big> <sup><small><small>[[G4434]]</small></small></sup> |
+| provokes | <big><span class="asgreek">παροξύνει</span></big> <sup><small><small>[[G3947]]</small></small></sup> |
+| the one | <big><span class="asgreek">τον</span></big> <sup><small><small>[[G3588]]</small></small></sup> |
+| making | <big><span class="asgreek">ποιήσαντα</span></big> <sup><small><small>[[G4160]]</small></small></sup> |
+| him. | <big><span class="asgreek">αυτόν</span></big> <sup><small><small>[[G1473]]</small></small></sup> |
+| And the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| rejoicing at | <big><span class="asgreek">επιχαίρων</span></big> <sup><small><small>[[G7471]]</small></small></sup> |
+| one being destroyed | <big><span class="asgreek">απολλυμένω</span></big> <sup><small><small>[[G0622]]</small></small></sup> |
+| shall not | <big><span class="asgreek">ουκ</span></big> <sup><small><small>[[G3756]]</small></small></sup> |
+| be acquitted; | <big><span class="asgreek">αθωωθήσεται</span></big> <sup><small><small>[[G6154]]</small></small></sup> |
+| but the one | <big><span class="asgreek">ο</span></big> <sup><small><small>[[G3588]]</small></small></sup> <big><span class="asgreek">δε</span></big> <sup><small><small>[[G1161]]</small></small></sup> |
+| showing compassion | <big><span class="asgreek">επισπλαγχνιζόμενος</span></big> <sup><small><small>[[G7451]]</small></small></sup> |
+| shall be shown mercy. | <big><span class="asgreek">ελεηθήσεται</span></big> <sup><small><small>[[G1653]]</small></small></sup> |
 [[Prov.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.4|<< Proverbs 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.6|Proverbs 17:6 >>]]</td></tr></table>
 
 
