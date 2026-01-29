@@ -8,7 +8,7 @@
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Judg.12.8|8]]**<span class="endversemarker">]</span> And after him Ibzan<small><small>[^15]</small></small> of Beth–lehem judged Israel.<small><small>[^16]</small></small> <span class="startversemarker">[</span>**[[Judg.12.9|9]]**<span class="endversemarker">]</span> And he had thirty sons, and thirty daughters, \[whom\] he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.<small><small>[^17]</small></small> <span class="startversemarker">[</span>**[[Judg.12.10|10]]**<span class="endversemarker">]</span> Then died Ibzan, and was buried at Beth–lehem. 
+$\quad$ <span class="startversemarker">[</span>**[[Judg.12.8|8]]**<span class="endversemarker">]</span> And after him Ibzan<small><small>[^15]</small></small> of Beth–lehem<small><small>[^16]</small></small> judged Israel. <span class="startversemarker">[</span>**[[Judg.12.9|9]]**<span class="endversemarker">]</span> And he had thirty sons, and thirty daughters, \[whom\] he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.<small><small>[^17]</small></small> <span class="startversemarker">[</span>**[[Judg.12.10|10]]**<span class="endversemarker">]</span> Then died Ibzan, and was buried at Beth–lehem. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Judg.12.11|11]]**<span class="endversemarker">]</span> [¶]And after him Elon, a Zebulonite, judged Israel; and he judged Israel ten years.<small><small>[^18]</small></small> <span class="startversemarker">[</span>**[[Judg.12.12|12]]**<span class="endversemarker">]</span> And Elon the Zebulonite died, and was buried in Aijalon<small><small>[^19]</small></small> in the country of Zebulun. 
 
@@ -43,17 +43,17 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.12.13|13]]**<span class=
 
 [^14]: ***Arbaim ooshenayim aleph***, "forty and two thousand." Here the <span class="asgreek"><span class='asgreek'>ε</span></span>, and, may mean simple addition; and this number may denote 2,040 and not 42,000. At the last census of the Israelites ([[Num.26|Num 26:37]]) the whole tribe of Ephraim only amounted to 32,500, compared with which this last number appears far too great.
 
-[^15]: am 2823, bc 1181, An, Ex, Is, 310, "He seems to have been only a civil judge to do justice in North-east Israel."
+[^15]: am 2823, bc 1181, An, Ex, Is, 310, "He seems to have been only a civil judge to do justice in Northeast Israel."
 
-[^16]: ***Bethlehem*** [[Gen.15|Gen 15:19]]; [[1Sam.16|1Sam 16:1]]; [[Mic.5|Mic 5:2]]; [[Matt.2|Matt 2:1]]
+[^16]: [[Gen.15|Gen 15:19]]; [[1Sam.16|1Sam 16:1]]; [[Mic.5|Mic 5:2]]; [[Matt.2|Matt 2:1]]
 
 [^17]: [[Judg.12|Judg 12:14]], [[Judg.10|Judg 10:4]]
 
-[^18]: am 2830, bc 1174, An, Ex, Is, 317, "A civil judge in North-east Israel." [[Judg.12|Judg 12:11]]
+[^18]: am 2830, bc 1174, An, Ex, Is, 317, "A civil judge in Northeast Israel." [[Judg.12|Judg 12:11]]
 
 [^19]: [[Josh.19|Josh 19:42]]; [[1Chr.6|1Chr 6:69]], [[1Chr.8|1Chr 8:13]]
 
-[^20]: am 2840, bc 1164, An, Ex, Is, 327, "A civil judge also in North-east Israel." [[Judg.12|Judg 12:13]]
+[^20]: am 2840, bc 1164, An, Ex, Is, 327, "A civil judge also in Northeast Israel." [[Judg.12|Judg 12:13]]
 
 [^21]: Heb. sons' sons
 

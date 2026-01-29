@@ -2,7 +2,7 @@
 
 ***The Futility of Life*** ^bsb1522
 
- $\quad$ <span class="startversemarker">[</span>**[[Eccl.6.1|1]]**<span class="endversemarker">]</span> There is an evil which I have seen under the sun, and it \[is\] common among men:<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[Eccl.6.2|2]]**<span class="endversemarker">]</span> A man to whom God hath given riches, wealth, and honour, so<small><small>[^3]</small></small> that he wanteth nothing for his soul of all that he desireth, yet<small><small>[^4]</small></small> God giveth him not power to eat thereof, but<small><small>[^5]</small></small> a stranger eateth it: this \[is\] vanity<small><small>[^6]</small></small>, and it \[is\] an evil disease.<small><small>[^7]</small></small> 
+ $\quad$ <span class="startversemarker">[</span>**[[Eccl.6.1|1]]**<span class="endversemarker">]</span> There is an evil which I have seen under the sun, and it \[is\] common among men:<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[Eccl.6.2|2]]**<span class="endversemarker">]</span> A man<small><small>[^3]</small></small> to whom God hath given riches, wealth, and honour, so<small><small>[^4]</small></small> that he wanteth nothing for his soul of all that he desireth, yet<small><small>[^5]</small></small> God giveth him not power to eat thereof, but<small><small>[^6]</small></small> a stranger eateth it: this \[is\] vanity<small><small>[^7]</small></small>, and it \[is\] an evil disease. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Eccl.6.3|3]]**<span class="endversemarker">]</span> [¶]If a man<small><small>[^8]</small></small> beget an hundred \[children\], and live many years, so<small><small>[^9]</small></small> that the days of his years be many, and his soul be not filled with good, and also<small><small>[^10]</small></small> \[that\] he have no burial; I say, \[that\] an<small><small>[^11]</small></small> untimely birth \[is\] better than he. <span class="startversemarker">[</span>**[[Eccl.6.4|4]]**<span class="endversemarker">]</span> For he cometh in with vanity, and departeth in darkness, and his name<small><small>[^12]</small></small> shall be covered with darkness. <span class="startversemarker">[</span>**[[Eccl.6.5|5]]**<span class="endversemarker">]</span> Moreover he hath not seen the sun, nor known \[any thing\]: this<small><small>[^13]</small></small> hath more rest than the other. 
 
@@ -17,15 +17,15 @@ $\quad$ <span class="startversemarker">[</span>**[[Eccl.6.11|11]]**<span class="
 
 [^2]: [[Eccl.5|Eccl 5:13]]
 
-[^3]: [[Eccl.2|Eccl 2:4-10]]; [[Deut.8|Deut 8:7-10]]; [[Judg.18|Judg 18:10]]; [[Job.21|Job 21:9-15]]; [[Ps.17|Ps 17:14]], [[Ps.73|Ps 73:7]]; [[Luke.12|Luke 12:19-20]]
+[^3]: [[Eccl.5|Eccl 5:19]]; [[1Kgs.3|1Kgs 3:13]]; [[1Chr.29|1Chr 29:25]], [[1Chr.29|1Chr 29:28]]; [[2Chr.1|2Chr 1:11]]; [[Dan.5|Dan 5:18]]
 
-[^4]: A man may possess much earthly goods, and yet have neither the heart nor power to enjoy them. Possession and fruition are not necessarily joined together; and this is also among the vanities of life, and was and still is a very "common evil among men." It belongs to God as much to give the power to enjoy, as it does to give earthly blessings.
+[^4]: [[Eccl.2|Eccl 2:4-10]]; [[Deut.8|Deut 8:7-10]]; [[Judg.18|Judg 18:10]]; [[Job.21|Job 21:9-15]]; [[Ps.17|Ps 17:14]], [[Ps.73|Ps 73:7]]; [[Luke.12|Luke 12:19-20]]
 
-[^5]: [[Deut.28|Deut 28:33]], [[Deut.28|Deut 28:43]]; [[Ps.39|Ps 39:6]]; [[Lam.5|Lam 5:2]]; [[Hos.7|Hos 7:9]]
+[^5]: A man may possess much earthly goods, and yet have neither the heart nor power to enjoy them. Possession and fruition are not necessarily joined together; and this is also among the vanities of life, and was and still is a very "common evil among men." It belongs to God as much to give the power to enjoy, as it does to give earthly blessings.
 
-[^6]: [[Eccl.4|Eccl 4:4]], [[Eccl.4|Eccl 4:8]], [[Eccl.5|Eccl 5:16]]
+[^6]: [[Deut.28|Deut 28:33]], [[Deut.28|Deut 28:43]]; [[Ps.39|Ps 39:6]]; [[Lam.5|Lam 5:2]]; [[Hos.7|Hos 7:9]]
 
-[^7]: ***a man*** [[Eccl.5|Eccl 5:19]]; [[1Kgs.3|1Kgs 3:13]]; [[1Chr.29|1Chr 29:25]], [[1Chr.29|1Chr 29:28]]; [[2Chr.1|2Chr 1:11]]; [[Dan.5|Dan 5:18]]
+[^7]: [[Eccl.4|Eccl 4:4]], [[Eccl.4|Eccl 4:8]], [[Eccl.5|Eccl 5:16]]
 
 [^8]: [[Gen.33|Gen 33:5]]; [[1Sam.2|1Sam 2:20-21]]; [[2Kgs.10|2Kgs 10:1]]; [[1Chr.28|1Chr 28:5]]; [[2Chr.11|2Chr 11:21]]; [[Esth.5|Esth 5:11]]; [[Ps.127|Ps 127:4-5]]; [[Prov.17|Prov 17:6]]
 

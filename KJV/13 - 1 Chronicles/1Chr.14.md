@@ -2,7 +2,7 @@
 
 ***David’s Family Grows***&emsp;<small><sup>\[ [[2Sam.5|2 Samuel 5:12–16]] ]</sup></small> ^bsb1018
 
- $\quad$ <span class="startversemarker">[</span>**[[1Chr.14.1|1]]**<span class="endversemarker">]</span> Now Hiram<small><small>[^2]</small></small> king of Tyre sent messengers to David, and timber<small><small>[^3]</small></small> of cedars, with masons and carpenters, to build him<small><small>[^4]</small></small> an house.<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[1Chr.14.2|2]]**<span class="endversemarker">]</span> And David perceived that the <span class="smallcaps">Lord</span> had confirmed him king over Israel, for his kingdom<small><small>[^6]</small></small> was lifted up on high, because<small><small>[^7]</small></small> of his people Israel.<small><small>[^8]</small></small> 
+ $\quad$ <span class="startversemarker">[</span>**[[1Chr.14.1|1]]**<span class="endversemarker">]</span> Now Hiram<small><small>[^2]</small></small> king of Tyre sent messengers to David, and timber<small><small>[^3]</small></small> of cedars, with masons and carpenters, to build him<small><small>[^4]</small></small> an house.<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[1Chr.14.2|2]]**<span class="endversemarker">]</span> And David perceived that the <span class="smallcaps">Lord<small><small>[^6]</small></small></span> had confirmed him king over Israel, for his kingdom<small><small>[^7]</small></small> was lifted up on high, because<small><small>[^8]</small></small> of his people Israel. 
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.14.3|3]]**<span class="endversemarker">]</span> [¶]And David took<small><small>[^9]</small></small> more<small><small>[^10]</small></small> wives at Jerusalem: and David begat more sons and daughters. <span class="startversemarker">[</span>**[[1Chr.14.4|4]]**<span class="endversemarker">]</span> Now these \[are\] the names of \[his\] children which he had in Jerusalem; Shammua<small><small>[^11]</small></small>, and Shobab, Nathan<small><small>[^12]</small></small>, and Solomon<small><small>[^13]</small></small>, <span class="startversemarker">[</span>**[[1Chr.14.5|5]]**<span class="endversemarker">]</span> And Ibhar, and Elishua<small><small>[^14]</small></small>, and Elpalet, <span class="startversemarker">[</span>**[[1Chr.14.6|6]]**<span class="endversemarker">]</span> And Nogah, and Nepheg, and Japhia, <span class="startversemarker">[</span>**[[1Chr.14.7|7]]**<span class="endversemarker">]</span> And Elishama, and Beeliada<small><small>[^15]</small></small>, and Eliphalet<small><small>[^16]</small></small>.
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.14.3|3]]**<span class="e
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[1Chr.14.8|8]]**<span class="endversemarker">]</span> And when<small><small>[^17]</small></small> the Philistines heard that David was anointed<small><small>[^18]</small></small> king over all Israel, all the Philistines<small><small>[^19]</small></small> went up to seek David. And David heard \[of it\], and went out against them.<small><small>[^20]</small></small> <span class="startversemarker">[</span>**[[1Chr.14.9|9]]**<span class="endversemarker">]</span> And the Philistines came and spread themselves in the valley<small><small>[^21]</small></small> of Rephaim. <span class="startversemarker">[</span>**[[1Chr.14.10|10]]**<span class="endversemarker">]</span> And David enquired of God, saying, Shall I go<small><small>[^22]</small></small> up against the Philistines? and wilt thou deliver them into mine hand? And the <span class="smallcaps">Lord</span> said unto him, Go up<small><small>[^23]</small></small>; for I will deliver them into thine hand.<small><small>[^24]</small></small> <span class="startversemarker">[</span>**[[1Chr.14.11|11]]**<span class="endversemarker">]</span> So they came up to Baal–perazim; and David smote them there. Then David said, God<small><small>[^25]</small></small> hath broken in upon mine enemies by mine hand like the breaking<small><small>[^26]</small></small> forth of waters: therefore they called the name of that place Baal–perazim.<small><small>[^27]</small></small><small><small>[^28]</small></small> <span class="startversemarker">[</span>**[[1Chr.14.12|12]]**<span class="endversemarker">]</span> And when they had left their gods there, David gave a commandment, and they were burned<small><small>[^29]</small></small> with fire. <span class="startversemarker">[</span>**[[1Chr.14.13|13]]**<span class="endversemarker">]</span> And the Philistines yet again<small><small>[^30]</small></small> spread themselves abroad in the valley. <span class="startversemarker">[</span>**[[1Chr.14.14|14]]**<span class="endversemarker">]</span> Therefore David enquired again of God; and God said unto him, Go not up after them; turn away<small><small>[^31]</small></small> from them, and come upon them over against the mulberry trees.<small><small>[^32]</small></small> <span class="startversemarker">[</span>**[[1Chr.14.15|15]]**<span class="endversemarker">]</span> And it shall be, when thou shalt hear<small><small>[^33]</small></small> a sound of going in the tops of the mulberry trees, \[that\] then thou<small><small>[^34]</small></small> shalt go out to battle: for God<small><small>[^35]</small></small> is gone forth before thee to smite the host of the Philistines. <span class="startversemarker">[</span>**[[1Chr.14.16|16]]**<span class="endversemarker">]</span> David therefore did as God<small><small>[^36]</small></small> commanded him: and they smote the host of the Philistines from Gibeon<small><small>[^37]</small></small> even to Gazer<small><small>[^38]</small></small>. <span class="startversemarker">[</span>**[[1Chr.14.17|17]]**<span class="endversemarker">]</span> And the fame of David<small><small>[^39]</small></small> went out into all lands; and the <span class="smallcaps">Lord</span> brought the fear of him<small><small>[^40]</small></small> upon all nations. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13|<< 1 Chronicles 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15|1 Chronicles 15 >>]]</td></tr></table>
+$\quad$ <span class="startversemarker">[</span>**[[1Chr.14.8|8]]**<span class="endversemarker">]</span> And when<small><small>[^17]</small></small> the Philistines heard that David was anointed<small><small>[^18]</small></small> king over all Israel, all the Philistines<small><small>[^19]</small></small> went up to seek David. And David heard \[of it\], and went out against them.<small><small>[^20]</small></small> <span class="startversemarker">[</span>**[[1Chr.14.9|9]]**<span class="endversemarker">]</span> And the Philistines came and spread themselves in the valley<small><small>[^21]</small></small> of Rephaim. <span class="startversemarker">[</span>**[[1Chr.14.10|10]]**<span class="endversemarker">]</span> And David enquired<small><small>[^22]</small></small> of God, saying, Shall I go<small><small>[^23]</small></small> up<small><small>[^24]</small></small> against the Philistines? and wilt thou deliver them into mine hand? And the <span class="smallcaps">Lord</span> said unto him, Go up; for I will deliver them into thine hand. <span class="startversemarker">[</span>**[[1Chr.14.11|11]]**<span class="endversemarker">]</span> So they came up to Baal–perazim<small><small>[^25]</small></small>; and David smote them there. Then David said, God<small><small>[^26]</small></small> hath broken in upon mine enemies by mine hand like the breaking<small><small>[^27]</small></small> forth of waters: therefore they called the name of that place Baal–perazim<small><small>[^28]</small></small>. <span class="startversemarker">[</span>**[[1Chr.14.12|12]]**<span class="endversemarker">]</span> And when they had left their gods there, David gave a commandment, and they were burned<small><small>[^29]</small></small> with fire. <span class="startversemarker">[</span>**[[1Chr.14.13|13]]**<span class="endversemarker">]</span> And the Philistines yet again<small><small>[^30]</small></small> spread themselves abroad in the valley. <span class="startversemarker">[</span>**[[1Chr.14.14|14]]**<span class="endversemarker">]</span> Therefore David enquired<small><small>[^31]</small></small> again of God; and God said unto him, Go not up after them; turn away<small><small>[^32]</small></small> from them, and come upon them over against the mulberry trees. <span class="startversemarker">[</span>**[[1Chr.14.15|15]]**<span class="endversemarker">]</span> And it shall be, when thou shalt hear<small><small>[^33]</small></small> a sound of going in the tops of the mulberry trees, \[that\] then thou<small><small>[^34]</small></small> shalt go out to battle: for God<small><small>[^35]</small></small> is gone forth before thee to smite the host of the Philistines. <span class="startversemarker">[</span>**[[1Chr.14.16|16]]**<span class="endversemarker">]</span> David therefore did as God<small><small>[^36]</small></small> commanded him: and they smote the host of the Philistines from Gibeon<small><small>[^37]</small></small> even to Gazer<small><small>[^38]</small></small>. <span class="startversemarker">[</span>**[[1Chr.14.17|17]]**<span class="endversemarker">]</span> And the fame of David<small><small>[^39]</small></small> went out into all lands; and the <span class="smallcaps">Lord</span> brought the fear of him<small><small>[^40]</small></small> upon all nations. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13|<< 1 Chronicles 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15|1 Chronicles 15 >>]]</td></tr></table>
 
 
 [^1]:  [[1Chr.14|1Chr 14:1]], Hiram’s kindness to David; [[1Chr.14|1Chr 14:2]], David’s felicity in people, wives, and children; [[1Chr.14|1Chr 14:8]], His two victories against the Philistines.
@@ -23,17 +23,17 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.14.8|8]]**<span class="e
 
 [^5]: am 2961, bc 1043, An, Ex, Is, 448
 
-[^6]: [[Num.24|Num 24:7]]; [[2Sam.7|2Sam 7:8]]
+[^6]: [[1Chr.17|1Chr 17:17]]; [[2Sam.7|2Sam 7:16]]; [[Ps.89|Ps 89:20-37]]
 
-[^7]: [[1Kgs.10|1Kgs 10:9]]; [[2Chr.2|2Chr 2:11]]; [[Esth.4|Esth 4:14]]; [[Isa.1|Isa 1:25-27]]; [[Dan.2|Dan 2:30]]
+[^7]: [[Num.24|Num 24:7]]; [[2Sam.7|2Sam 7:8]]
 
-[^8]: ***the Lord*** [[1Chr.17|1Chr 17:17]]; [[2Sam.7|2Sam 7:16]]; [[Ps.89|Ps 89:20-37]]
+[^8]: [[1Kgs.10|1Kgs 10:9]]; [[2Chr.2|2Chr 2:11]]; [[Esth.4|Esth 4:14]]; [[Isa.1|Isa 1:25-27]]; [[Dan.2|Dan 2:30]]
 
 [^9]: [[1Chr.3|1Chr 3:1-4]]; [[Deut.17|Deut 17:17]]; [[2Sam.5|2Sam 5:13]]; [[1Kgs.11|1Kgs 11:3]]; [[Prov.5|Prov 5:18-19]]; [[Eccl.7|Eccl 7:26-29]], [[Eccl.9|Eccl 9:9]]; [[Mal.2|Mal 2:14]]; [[Matt.19|Matt 19:4-5]], [[Matt.19|Matt 19:8]]
 
 [^10]: Heb. yet
 
-[^11]: [[1Chr.3|1Chr 3:5-9]], Shimea, [[2Sam.5|2Sam 5:14]], Shammuah
+[^11]: [[1Chr.3|1Chr 3:5-9]], Shimea, [[2Sam.5|2Sam 5:14]], Shammua
 
 [^12]: [[2Sam.12|2Sam 12:1]]; [[Luke.3|Luke 3:31]]
 
@@ -55,27 +55,27 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.14.8|8]]**<span class="e
 
 [^21]: [[1Chr.11|1Chr 11:15]]; [[2Sam.5|2Sam 5:18]], [[2Sam.23|2Sam 23:13]]; [[Isa.17|Isa 17:5]]
 
-[^22]: [[1Sam.30|1Sam 30:8]]; [[Prov.3|Prov 3:6]]
+[^22]: [[1Chr.14|1Chr 14:14]], [[1Chr.13|1Chr 13:3]]; [[1Sam.23|1Sam 23:2-4]], [[1Sam.23|1Sam 23:9-12]]; [[2Sam.2|2Sam 2:1]], [[2Sam.5|2Sam 5:19]], [[2Sam.5|2Sam 5:23]]
 
-[^23]: [[Judg.4|Judg 4:6-7]]; [[1Kgs.22|1Kgs 22:6]], [[1Kgs.22|1Kgs 22:15-17]]
+[^23]: [[1Sam.30|1Sam 30:8]]; [[Prov.3|Prov 3:6]]
 
-[^24]: ***inquired*** [[1Chr.14|1Chr 14:14]], [[1Chr.13|1Chr 13:3]]; [[1Sam.23|1Sam 23:2-4]], [[1Sam.23|1Sam 23:9-12]]; [[2Sam.2|2Sam 2:1]], [[2Sam.5|2Sam 5:19]], [[2Sam.5|2Sam 5:23]]
+[^24]: [[Judg.4|Judg 4:6-7]]; [[1Kgs.22|1Kgs 22:6]], [[1Kgs.22|1Kgs 22:15-17]]
 
-[^25]: [[Ps.18|Ps 18:13-15]], [[Ps.44|Ps 44:3]], [[Ps.144|Ps 144:1]], [[Ps.144|Ps 144:10]]
+[^25]: [[2Sam.5|2Sam 5:20]]; [[Isa.28|Isa 28:21]]
 
-[^26]: [[Exod.14|Exod 14:28]]; [[Job.30|Job 30:14]]; [[Matt.7|Matt 7:27]]
+[^26]: [[Ps.18|Ps 18:13-15]], [[Ps.44|Ps 44:3]], [[Ps.144|Ps 144:1]], [[Ps.144|Ps 144:10]]
 
-[^27]: ***Baalperazim*** [[2Sam.5|2Sam 5:20]]; [[Isa.28|Isa 28:21]]
+[^27]: [[Exod.14|Exod 14:28]]; [[Job.30|Job 30:14]]; [[Matt.7|Matt 7:27]]
 
-[^28]: ***Baalperazim*** that is, a place of breaches
+[^28]: that is, a place of breaches
 
 [^29]: [[Exod.12|Exod 12:12]], [[Exod.32|Exod 32:20]]; [[Deut.7|Deut 7:5]], [[Deut.7|Deut 7:25]]; [[1Sam.5|1Sam 5:2-6]]; [[2Kgs.19|2Kgs 19:18]]
 
 [^30]: [[1Chr.14|1Chr 14:9]]; [[2Sam.5|2Sam 5:22-25]]; [[1Kgs.20|1Kgs 20:22]]
 
-[^31]: [[Josh.8|Josh 8:2-7]]; [[John.9|John 9:6-7]]
+[^31]: [[1Chr.14|1Chr 14:10]]; [[Ps.27|Ps 27:4]]
 
-[^32]: ***inquired*** [[1Chr.14|1Chr 14:10]]; [[Ps.27|Ps 27:4]]
+[^32]: [[Josh.8|Josh 8:2-7]]; [[John.9|John 9:6-7]]
 
 [^33]: Some, taking the word ***bechaim***, translated "mulberry trees," as a proper name, render, "when thou shalt hear a sound of going upon the summits of Bechaim;" other understanding ***rosh***, "a top," in the sense of beginning or entrance, read, "when thou hearest a sound of footsteps at the entrance of the grove of mulberry trees;" and others think a rustling among the leaves is intended. The Targumist read, "When thou shalt hear the sound of the angels coming to thy assistance, then go out to battle; for an angel is sent from the presence of God, that he may render thy way prosperous." If there had not been an evident supernatural interference, David might have thought that the ***ruse de guerre*** which he had used, was the cause of his victory. [[Lev.26|Lev 26:36]]; [[2Kgs.7|2Kgs 7:6]], [[2Kgs.19|2Kgs 19:7]]; [[Acts.2|Acts 2:2]]
 

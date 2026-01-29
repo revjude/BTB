@@ -8,7 +8,7 @@
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Exod.26.7|7]]**<span class="endversemarker">]</span> And thou shalt make curtains<small><small>[^11]</small></small> \[of\] goa<small><small>[^12]</small></small>ts’ \[hair\] to be a covering upon the tabernacle: eleven<small><small>[^13]</small></small> curtains shalt thou make.<small><small>[^14]</small></small> <span class="startversemarker">[</span>**[[Exod.26.8|8]]**<span class="endversemarker">]</span> The length of one curtain<small><small>[^15]</small></small> \[shall be\] thirty cubits, and the breadth of one curtain four cubits: and the eleven curtains \[shall be all\] of one measure. <span class="startversemarker">[</span>**[[Exod.26.9|9]]**<span class="endversemarker">]</span> And thou shalt couple five curtains by themselves<small><small>[^16]</small></small>, and six curtains by themselves, and shalt double the sixth curtain in the forefront of the tabernacle. <span class="startversemarker">[</span>**[[Exod.26.10|10]]**<span class="endversemarker">]</span> And thou shalt make fifty loops<small><small>[^17]</small></small> on the edge of the one curtain \[that is\] outmost in the coupling, and fifty loops in the edge of the curtain which coupleth the second. <span class="startversemarker">[</span>**[[Exod.26.11|11]]**<span class="endversemarker">]</span> And thou shalt make fifty taches of brass, and put the taches into the loops, and couple the tent<small><small>[^18]</small></small> together, that it may be one. <span class="startversemarker">[</span>**[[Exod.26.12|12]]**<span class="endversemarker">]</span> And the remnant that remaineth of the curtains of the tent, the half curtain that remaineth, shall hang over<small><small>[^19]</small></small> the backside of the tabernacle. <span class="startversemarker">[</span>**[[Exod.26.13|13]]**<span class="endversemarker">]</span> And a cubit<small><small>[^20]</small></small> on the one side, and a cubit on the other side of that which remaineth<small><small>[^21]</small></small> in the length of the curtains of the tent, it shall hang over the sides of the tabernacle on this side and on that side, to cover it. <span class="startversemarker">[</span>**[[Exod.26.14|14]]**<span class="endversemarker">]</span> And thou shalt make a covering<small><small>[^22]</small></small> for the tent \[of\] rams’ skins dyed red, and a covering above \[of\] badgers’ skins.<small><small>[^23]</small></small><small><small>[^24]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[Exod.26.7|7]]**<span class="endversemarker">]</span> And thou shalt make curtains<small><small>[^11]</small></small> \[of\] goa<small><small>[^12]</small></small>ts’ \[hair<small><small>[^13]</small></small>\] to be a covering upon the tabernacle: eleven<small><small>[^14]</small></small> curtains shalt thou make. <span class="startversemarker">[</span>**[[Exod.26.8|8]]**<span class="endversemarker">]</span> The length of one curtain<small><small>[^15]</small></small> \[shall be\] thirty cubits, and the breadth of one curtain four cubits: and the eleven curtains \[shall be all\] of one measure. <span class="startversemarker">[</span>**[[Exod.26.9|9]]**<span class="endversemarker">]</span> And thou shalt couple five curtains by themselves<small><small>[^16]</small></small>, and six curtains by themselves, and shalt double the sixth curtain in the forefront of the tabernacle. <span class="startversemarker">[</span>**[[Exod.26.10|10]]**<span class="endversemarker">]</span> And thou shalt make fifty loops<small><small>[^17]</small></small> on the edge of the one curtain \[that is\] outmost in the coupling, and fifty loops in the edge of the curtain which coupleth the second. <span class="startversemarker">[</span>**[[Exod.26.11|11]]**<span class="endversemarker">]</span> And thou shalt make fifty taches of brass, and put the taches into the loops, and couple the tent<small><small>[^18]</small></small> together, that it may be one. <span class="startversemarker">[</span>**[[Exod.26.12|12]]**<span class="endversemarker">]</span> And the remnant that remaineth of the curtains of the tent, the half curtain that remaineth, shall hang over<small><small>[^19]</small></small> the backside of the tabernacle. <span class="startversemarker">[</span>**[[Exod.26.13|13]]**<span class="endversemarker">]</span> And a cubit<small><small>[^20]</small></small> on the one side, and a cubit on the other side of that which remaineth<small><small>[^21]</small></small> in the length of the curtains of the tent, it shall hang over the sides of the tabernacle on this side and on that side, to cover it. <span class="startversemarker">[</span>**[[Exod.26.14|14]]**<span class="endversemarker">]</span> And thou shalt make a covering<small><small>[^22]</small></small> for the tent \[of\] rams’ skins dyed red<small><small>[^23]</small></small>, and a covering above \[of\] badgers’ skins<small><small>[^24]</small></small>.
 
 ***The Frames and Bases***&emsp;<small><sup>\[ [[Exod.36|Exodus 36:20–34]] ]</sup></small> ^bsb217
 
@@ -22,9 +22,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.26.26|26]]**<span class=
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Exod.26.31|31]]**<span class="endversemarker">]</span> And thou shalt make a vail \[of\] blue<small><small>[^38]</small></small>, and purple<small><small>[^39]</small></small>, and scarlet<small><small>[^40]</small></small>, and fine twined linen of cunning work<small><small>[^41]</small></small>: with cherubims shall it be made<small><small>[^42]</small></small>:<small><small>[^43]</small></small> <span class="startversemarker">[</span>**[[Exod.26.32|32]]**<span class="endversemarker">]</span> And thou shalt hang it upon four pillars of shittim<small><small>[^44]</small></small> \[wood\] overlaid with gold: their hooks \[shall be of\] gold<small><small>[^45]</small></small>, upon the four sockets of silver.<small><small>[^46]</small></small><small><small>[^47]</small></small> 
+$\quad$ <span class="startversemarker">[</span>**[[Exod.26.31|31]]**<span class="endversemarker">]</span> And thou shalt make a vail \[of<small><small>[^38]</small></small>\] blue<small><small>[^39]</small></small>, and purple<small><small>[^40]</small></small>, and scarlet<small><small>[^41]</small></small>, and fine twined linen of cunning work<small><small>[^42]</small></small>: with cherubims shall it be made<small><small>[^43]</small></small>: <span class="startversemarker">[</span>**[[Exod.26.32|32]]**<span class="endversemarker">]</span> And thou shalt hang it upon four pillars of shittim<small><small>[^44]</small></small> \[wood\] overlaid with gold: their hooks \[shall be of\] gold<small><small>[^45]</small></small>, upon the four sockets of silver.<small><small>[^46]</small></small><small><small>[^47]</small></small> 
 
-$\quad$ <span class="startversemarker">[</span>**[[Exod.26.33|33]]**<span class="endversemarker">]</span> [¶]And thou shalt hang up the vail under the taches<small><small>[^48]</small></small>, that thou mayest bring in thither within the vail the ark of the testimony<small><small>[^49]</small></small>: and the vail shall divide unto you between the holy \[place<small><small>[^50]</small></small>\] and the most holy.<small><small>[^51]</small></small> <span class="startversemarker">[</span>**[[Exod.26.34|34]]**<span class="endversemarker">]</span> And thou shalt put the mercy seat<small><small>[^52]</small></small> upon the ark of the testimony in the most holy \[place\]. <span class="startversemarker">[</span>**[[Exod.26.35|35]]**<span class="endversemarker">]</span> And thou shalt set the table<small><small>[^53]</small></small> without the vail, and the candlestick<small><small>[^54]</small></small> over against the table on the side of the tabernacle toward the south: and thou shalt put the table on the north side.
+$\quad$ <span class="startversemarker">[</span>**[[Exod.26.33|33]]**<span class="endversemarker">]</span> [¶]And thou shalt hang up the vail under the taches<small><small>[^48]</small></small>, that thou mayest bring in thither within the vail<small><small>[^49]</small></small> the ark of the testimony<small><small>[^50]</small></small>: and the vail shall divide unto you between the holy \[place<small><small>[^51]</small></small>\] and the most holy. <span class="startversemarker">[</span>**[[Exod.26.34|34]]**<span class="endversemarker">]</span> And thou shalt put the mercy seat<small><small>[^52]</small></small> upon the ark of the testimony in the most holy \[place\]. <span class="startversemarker">[</span>**[[Exod.26.35|35]]**<span class="endversemarker">]</span> And thou shalt set the table<small><small>[^53]</small></small> without the vail, and the candlestick<small><small>[^54]</small></small> over against the table on the side of the tabernacle toward the south: and thou shalt put the table on the north side.
 
 ***The Curtain for the Entrance***&emsp;<small><sup>\[ [[Exod.36|Exodus 36:37–38]] ]</sup></small> ^bsb219
 
@@ -53,11 +53,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.26.33|33]]**<span class=
 
 [^11]: [[Exod.35|Exod 35:26]], [[Exod.36|Exod 36:14-18]]; [[Num.4|Num 4:25]]; [[Ps.45|Ps 45:13]]; [[1Pet.3|1Pet 3:4]], [[1Pet.5|1Pet 5:5]]
 
-[^12]: [[Exod.26|Exod 26:14]]; [[Isa.4|Isa 4:5]]
+[^12]: ***Izzim***, goats, but used here elliptically for goats' hair. In different parts of Asia Minor, Syria, Cilicia, and Phrygia, the goats have long, fine, and beautiful hair; in some cases, almost as fine as silk, which is shorn at proper times, and manufactured into garments. [[Exod.25|Exod 25:4]], [[Exod.35|Exod 35:6]], [[Exod.35|Exod 35:23]]; [[Num.31|Num 31:20]]
 
-[^13]: [[Exod.26|Exod 26:1]], [[Exod.26|Exod 26:9]], [[Exod.26|Exod 26:12]]
+[^13]: [[Exod.26|Exod 26:14]]; [[Isa.4|Isa 4:5]]
 
-[^14]: ***goats' hair*** ***Izzim***, goats, but used here elliptically for goats' hair. In different parts of Asia Minor, Syria, Cilicia, and Phrygia, the goats have long, fine, and beautiful hair; in some cases, almost as fine as silk, which is shorn at proper times, and manufactured into garments. [[Exod.25|Exod 25:4]], [[Exod.35|Exod 35:6]], [[Exod.35|Exod 35:23]]; [[Num.31|Num 31:20]]
+[^14]: [[Exod.26|Exod 26:1]], [[Exod.26|Exod 26:9]], [[Exod.26|Exod 26:12]]
 
 [^15]: [[Exod.26|Exod 26:2]], [[Exod.26|Exod 26:13]]
 
@@ -75,9 +75,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.26.33|33]]**<span class=
 
 [^22]: [[Exod.36|Exod 36:19]]; [[Num.4|Num 4:5]]; [[Ps.27|Ps 27:5]], [[Ps.121|Ps 121:4-5]]; [[Isa.4|Isa 4:6]], [[Isa.25|Isa 25:4]]
 
-[^23]: ***rams' skins dyed red*** ***Oroth ailim meoddamim***, literally, the skins of red rams. It is a fact, attested by many respectable travellers, that in the Levant, sheep are often met with having red or violet coloured fleeces. Almost all ancient writers speak of the same thing. [[Exod.25|Exod 25:5]], [[Exod.35|Exod 35:7]], [[Exod.35|Exod 35:23]], [[Exod.39|Exod 39:34]]; [[Num.4|Num 4:10]]; [[Ezek.16|Ezek 16:10]]
+[^23]: ***Oroth ailim meoddamim***, literally, the skins of red rams. It is a fact, attested by many respectable travellers, that in the Levant, sheep are often met with having red or violet coloured fleeces. Almost all ancient writers speak of the same thing. [[Exod.25|Exod 25:5]], [[Exod.35|Exod 35:7]], [[Exod.35|Exod 35:23]], [[Exod.39|Exod 39:34]]; [[Num.4|Num 4:10]]; [[Ezek.16|Ezek 16:10]]
 
-[^24]: ***badgers' skins*** ***Oroth techashim***, which nearly all the ancient versions have taken to be the name of a colour, though they differ very much with regard to the particular colour intended: the LXX, Vulgate, and Coptic, have skins dyed of a violet colour; the Syriac, azure; and the Arabic, black; and Bochart contends for the hysginus, a very deep blue. It may, however, denote an animal; for Dr. Geddes remarks, had the sacred writer meant to express only a variety of colour, he would hardly have repeated ***oroth***, skins, after ***meoddamim***, red, in [[Exod.25|Exod 25:5]].
+[^24]: ***Oroth techashim***, which nearly all the ancient versions have taken to be the name of a colour, though they differ very much with regard to the particular colour intended: the LXX, Vulgate, and Coptic, have skins dyed of a violet colour; the Syriac, azure; and the Arabic, black; and Bochart contends for the hysginus, a very deep blue. It may, however, denote an animal; for Dr. Geddes remarks, had the sacred writer meant to express only a variety of colour, he would hardly have repeated ***oroth***, skins, after ***meoddamim***, red, in [[Exod.25|Exod 25:5]].
 
 [^25]: [[Exod.26|Exod 26:18]], [[Exod.26|Exod 26:22-29]], [[Exod.36|Exod 36:20-33]], [[Exod.40|Exod 40:17-18]]; [[Num.4|Num 4:31-32]]; [[Eph.2|Eph 2:20-21]]
 
@@ -105,17 +105,17 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.26.33|33]]**<span class=
 
 [^37]: [[Exod.25|Exod 25:9]], [[Exod.25|Exod 25:40]], [[Exod.27|Exod 27:8]]; [[Acts.7|Acts 7:44]]; [[Heb.8|Heb 8:5]], [[Heb.9|Heb 9:23]]
 
-[^38]: [[Exod.25|Exod 25:4]], [[Exod.35|Exod 35:6]], [[Exod.35|Exod 35:25]], [[Exod.35|Exod 35:35]], [[Exod.36|Exod 36:8]]
+[^38]: [[Exod.36|Exod 36:35]], [[Exod.40|Exod 40:3]], [[Exod.40|Exod 40:21]]; [[Lev.16|Lev 16:2]], [[Lev.16|Lev 16:15]]; [[2Chr.3|2Chr 3:14]]; [[Matt.27|Matt 27:51]]; [[Mark.15|Mark 15:38]]; [[Luke.23|Luke 23:45]]; [[Eph.2|Eph 2:14]]; [[Heb.9|Heb 9:3-8]], [[Heb.10|Heb 10:20-21]]
 
-[^39]: ***Argaman***, a very precious colour, extracted from the ***purpura***, or ***murex***, a species of shell-fish; and supposed to be the same with the costly and much celebrated Tyrian purple.
+[^39]: [[Exod.25|Exod 25:4]], [[Exod.35|Exod 35:6]], [[Exod.35|Exod 35:25]], [[Exod.35|Exod 35:35]], [[Exod.36|Exod 36:8]]
 
-[^40]: ***Tolaâth***; properly the worm whence the scarlet colour was produced; which grew in a coccus, or excrescence, of a shrub of the ***ilex*** kind, like the ***cochineal*** worm in the ***Opuntia*** of America; which is arranged under the same genus as the Arabic ***Kermez***, which also denotes this colour.
+[^40]: ***Argaman***, a very precious colour, extracted from the ***purpura***, or ***murex***, a species of shell-fish; and supposed to be the same with the costly and much celebrated Tyrian purple.
 
-[^41]: [[Exod.26|Exod 26:1]], [[Exod.28|Exod 28:15]], [[Exod.38|Exod 38:23]]; [[2Chr.2|2Chr 2:7-13]]; [[Ps.137|Ps 137:5]]; [[Song.7|Song 7:1]]
+[^41]: ***Tolaâth***; properly the worm whence the scarlet colour was produced; which grew in a coccus, or excrescence, of a shrub of the ***ilex*** kind, like the ***cochineal*** worm in the ***Opuntia*** of America; which is arranged under the same genus as the Arabic ***Kermez***, which also denotes this colour.
 
-[^42]: [[Exod.25|Exod 25:18]]
+[^42]: [[Exod.26|Exod 26:1]], [[Exod.28|Exod 28:15]], [[Exod.38|Exod 38:23]]; [[2Chr.2|2Chr 2:7-13]]; [[Ps.137|Ps 137:5]]; [[Song.7|Song 7:1]]
 
-[^43]: ***a veil of*** [[Exod.36|Exod 36:35]], [[Exod.40|Exod 40:3]], [[Exod.40|Exod 40:21]]; [[Lev.16|Lev 16:2]], [[Lev.16|Lev 16:15]]; [[2Chr.3|2Chr 3:14]]; [[Matt.27|Matt 27:51]]; [[Mark.15|Mark 15:38]]; [[Luke.23|Luke 23:45]]; [[Eph.2|Eph 2:14]]; [[Heb.9|Heb 9:3-8]], [[Heb.10|Heb 10:20-21]]
+[^43]: [[Exod.25|Exod 25:18]]
 
 [^44]: [[Exod.26|Exod 26:37]], [[Exod.36|Exod 36:38]]; [[Esth.1|Esth 1:6]]
 
@@ -127,11 +127,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.26.33|33]]**<span class=
 
 [^48]: [[Exod.27|Exod 27:10]], [[Exod.36|Exod 36:36]]
 
-[^49]: [[Exod.25|Exod 25:16]], [[Exod.40|Exod 40:21]]
+[^49]: [[Gen.9|Gen 9:4-5]]
 
-[^50]: [[Lev.16|Lev 16:2]]; [[1Kgs.8|1Kgs 8:6]], [[1Kgs.8|1Kgs 8:10]]; [[2Chr.5|2Chr 5:7-10]]; [[Heb.9|Heb 9:2-3]]
+[^50]: [[Exod.25|Exod 25:16]], [[Exod.40|Exod 40:21]]
 
-[^51]: ***within the veil*** [[Gen.9|Gen 9:4-5]]
+[^51]: [[Lev.16|Lev 16:2]]; [[1Kgs.8|1Kgs 8:6]], [[1Kgs.8|1Kgs 8:10]]; [[2Chr.5|2Chr 5:7-10]]; [[Heb.9|Heb 9:2-3]]
 
 [^52]: [[Exod.25|Exod 25:21]], [[Exod.40|Exod 40:20]]; [[Heb.9|Heb 9:5]]
 

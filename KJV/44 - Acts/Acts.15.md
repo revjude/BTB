@@ -6,9 +6,9 @@
 
 ***The Council at Jerusalem***&emsp;<small><sup>\[ [[Amos.9|Amos 9:11–15]] <big>†</big> [[Gal.2|Galatians 2:1–10]] ]</sup></small> ^bsb2640
 
- <span class="startversemarker">[</span>**[[Acts.15.5|5]]**<span class="endversemarker">]</span> But there rose up certain<small><small>[^19]</small></small> of the sect of the Pharisees which believed, saying, That it<small><small>[^20]</small></small> was needful to circumcise them, and to command \[them\] to keep the law of Moses.<small><small>[^21]</small></small> 
+ <span class="startversemarker">[</span>**[[Acts.15.5|5]]**<span class="endversemarker">]</span> But there rose up certain<small><small>[^19]</small></small><small><small>[^20]</small></small> of the sect of the Pharisees which believed, saying, That it<small><small>[^21]</small></small> was needful to circumcise them, and to command \[them\] to keep the law of Moses. 
 
-$\quad$ <span class="startversemarker">[</span>**[[Acts.15.6|6]]**<span class="endversemarker">]</span> And the apostles and elders came together for to consider of this matter.<small><small>[^22]</small></small> <span class="startversemarker">[</span>**[[Acts.15.7|7]]**<span class="endversemarker">]</span> And when there had been much<small><small>[^23]</small></small> disputing, Peter rose up, and said unto them, Men \[and\] brethren, ye know<small><small>[^24]</small></small> how that a good while ago God<small><small>[^25]</small></small> made choice among us, that the Gentiles by my<small><small>[^26]</small></small> mouth should hear the word of the gospel, and believe. <span class="startversemarker">[</span>**[[Acts.15.8|8]]**<span class="endversemarker">]</span> And God, which<small><small>[^27]</small></small> knoweth the hearts, bare<small><small>[^28]</small></small> them witness, giving<small><small>[^29]</small></small> them the Holy Ghost, even as \[he did\] unto us; <span class="startversemarker">[</span>**[[Acts.15.9|9]]**<span class="endversemarker">]</span> And put<small><small>[^30]</small></small> no difference between us and them, purifying<small><small>[^31]</small></small> their hearts by faith. <span class="startversemarker">[</span>**[[Acts.15.10|10]]**<span class="endversemarker">]</span> Now therefore why tempt ye God, to put<small><small>[^32]</small></small> a yoke upon the neck of the disciples, which<small><small>[^33]</small></small> neither our fathers nor we were able to bear?<small><small>[^34]</small></small> <span class="startversemarker">[</span>**[[Acts.15.11|11]]**<span class="endversemarker">]</span> But we believe that<small><small>[^35]</small></small> through the grace of the Lord Jesus Christ we shall be saved, even as they. 
+$\quad$ <span class="startversemarker">[</span>**[[Acts.15.6|6]]**<span class="endversemarker">]</span> And the apostles and elders came together for to consider of this matter.<small><small>[^22]</small></small> <span class="startversemarker">[</span>**[[Acts.15.7|7]]**<span class="endversemarker">]</span> And when there had been much<small><small>[^23]</small></small> disputing, Peter rose up, and said unto them, Men \[and\] brethren, ye know<small><small>[^24]</small></small> how that a good while ago God<small><small>[^25]</small></small> made choice among us, that the Gentiles by my<small><small>[^26]</small></small> mouth should hear the word of the gospel, and believe. <span class="startversemarker">[</span>**[[Acts.15.8|8]]**<span class="endversemarker">]</span> And God, which<small><small>[^27]</small></small> knoweth the hearts, bare<small><small>[^28]</small></small> them witness, giving<small><small>[^29]</small></small> them the Holy Ghost, even as \[he did\] unto us; <span class="startversemarker">[</span>**[[Acts.15.9|9]]**<span class="endversemarker">]</span> And put<small><small>[^30]</small></small> no difference between us and them, purifying<small><small>[^31]</small></small> their hearts by faith. <span class="startversemarker">[</span>**[[Acts.15.10|10]]**<span class="endversemarker">]</span> Now therefore why<small><small>[^32]</small></small> tempt ye God, to put<small><small>[^33]</small></small> a yoke upon the neck of the disciples, which<small><small>[^34]</small></small> neither our fathers nor we were able to bear? <span class="startversemarker">[</span>**[[Acts.15.11|11]]**<span class="endversemarker">]</span> But we believe that<small><small>[^35]</small></small> through the grace of the Lord Jesus Christ we shall be saved, even as they. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Acts.15.12|12]]**<span class="endversemarker">]</span> [¶]Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring<small><small>[^36]</small></small> what miracles and wonders God had wrought among the Gentiles by them. 
 
@@ -67,9 +67,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Acts.15.36|36]]**<span class=
 
 [^19]: or, rose up, said they
 
-[^20]: [[Acts.15|Acts 15:1]], [[Acts.15|Acts 15:24]]; [[Gal.5|Gal 5:1-3]]
+[^20]: the sect, [[Acts.21|Acts 21:20]], [[Acts.26|Acts 26:5-6]]; [[Phil.3|Phil 3:5-8]]
 
-[^21]: ***certain*** the sect, [[Acts.21|Acts 21:20]], [[Acts.26|Acts 26:5-6]]; [[Phil.3|Phil 3:5-8]]
+[^21]: [[Acts.15|Acts 15:1]], [[Acts.15|Acts 15:24]]; [[Gal.5|Gal 5:1-3]]
 
 [^22]: [[Acts.15|Acts 15:25]], [[Acts.6|Acts 6:2]], [[Acts.21|Acts 21:18]]; [[Prov.15|Prov 15:22]]; [[Matt.18|Matt 18:20]]; [[Heb.13|Heb 13:7]], [[Heb.13|Heb 13:17]]
 
@@ -91,11 +91,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Acts.15.36|36]]**<span class=
 
 [^31]: [[Acts.10|Acts 10:15]], [[Acts.10|Acts 10:28]], [[Acts.10|Acts 10:43-44]]; [[1Cor.1|1Cor 1:2]]; [[Heb.9|Heb 9:13-14]]; [[1Pet.1|1Pet 1:22]]
 
-[^32]: [[Matt.11|Matt 11:28-30]], [[Matt.23|Matt 23:4]]; [[Gal.5|Gal 5:1]]
+[^32]: [[Exod.17|Exod 17:2]]; [[Isa.7|Isa 7:12]]; [[Matt.4|Matt 4:7]]; [[Heb.3|Heb 3:9]]
 
-[^33]: [[Gal.4|Gal 4:1-5]], [[Gal.4|Gal 4:9]]; [[Heb.9|Heb 9:9]]
+[^33]: [[Matt.11|Matt 11:28-30]], [[Matt.23|Matt 23:4]]; [[Gal.5|Gal 5:1]]
 
-[^34]: ***Why*** [[Exod.17|Exod 17:2]]; [[Isa.7|Isa 7:12]]; [[Matt.4|Matt 4:7]]; [[Heb.3|Heb 3:9]]
+[^34]: [[Gal.4|Gal 4:1-5]], [[Gal.4|Gal 4:9]]; [[Heb.9|Heb 9:9]]
 
 [^35]: [[Rom.3|Rom 3:24]], [[Rom.5|Rom 5:20-21]], [[Rom.6|Rom 6:23]]; [[1Cor.16|1Cor 16:23]]; [[2Cor.8|2Cor 8:9]], [[2Cor.13|2Cor 13:14]]; [[Gal.1|Gal 1:6]], [[Gal.2|Gal 2:16]]; [[Eph.1|Eph 1:6-7]], [[Eph.2|Eph 2:7-9]]; [[Titus.2|Titus 2:11]], [[Titus.3|Titus 3:4-7]]; [[Rev.5|Rev 5:9]]
 

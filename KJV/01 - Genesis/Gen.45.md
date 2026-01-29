@@ -18,7 +18,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.45.16|16]]**<span class="
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Gen.45.25|25]]**<span class="endversemarker">]</span> And they went up out of Egypt, and came into the land of Canaan unto Jacob their father, <span class="startversemarker">[</span>**[[Gen.45.26|26]]**<span class="endversemarker">]</span> And told him, saying, Joseph<small><small>[^48]</small></small> \[is\] yet alive, and he \[is<small><small>[^49]</small></small>\] governor over all the land of Egypt. And Jacob’s heart fainted, for he believed<small><small>[^50]</small></small> them not.<small><small>[^51]</small></small> <span class="startversemarker">[</span>**[[Gen.45.27|27]]**<span class="endversemarker">]</span> And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit<small><small>[^52]</small></small> of Jacob their father revived: <span class="startversemarker">[</span>**[[Gen.45.28|28]]**<span class="endversemarker">]</span> And Israel said, \[It is\] enough<small><small>[^53]</small></small>; Joseph my son \[is\] yet alive: I will go and see him before I die. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44|<< Genesis 44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46|Genesis 46 >>]]</td></tr></table>
+$\quad$ <span class="startversemarker">[</span>**[[Gen.45.25|25]]**<span class="endversemarker">]</span> And they went up out of Egypt, and came into the land of Canaan unto Jacob their father, <span class="startversemarker">[</span>**[[Gen.45.26|26]]**<span class="endversemarker">]</span> And told him, saying, Joseph<small><small>[^48]</small></small> \[is\] yet alive, and he \[is<small><small>[^49]</small></small>\] governor over all the land of Egypt. And Jacob’s<small><small>[^50]</small></small> heart fainted, for he believed<small><small>[^51]</small></small> them not. <span class="startversemarker">[</span>**[[Gen.45.27|27]]**<span class="endversemarker">]</span> And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit<small><small>[^52]</small></small> of Jacob their father revived: <span class="startversemarker">[</span>**[[Gen.45.28|28]]**<span class="endversemarker">]</span> And Israel said, \[It is\] enough<small><small>[^53]</small></small>; Joseph my son \[is\] yet alive: I will go and see him before I die. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44|<< Genesis 44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46|Genesis 46 >>]]</td></tr></table>
 
 
 [^1]:  [[Gen.45|Gen 45:1]], Joseph makes himself known to his brethren; [[Gen.45|Gen 45:5]], He comforts them in God’s providence; [[Gen.45|Gen 45:9]], He sends for his father; [[Gen.45|Gen 45:16]], Pharaoh confirms it; [[Gen.45|Gen 45:21]], Joseph furnishes then for their journey, and exhorts them to concord; [[Gen.45|Gen 45:25]], Jacob is revived with the news.
@@ -119,9 +119,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.45.25|25]]**<span class="
 
 [^49]: [[Gen.45|Gen 45:8-9]]; [[Ps.105|Ps 105:21]]
 
-[^50]: [[Job.9|Job 9:16]], [[Job.29|Job 29:24]]; [[Ps.126|Ps 126:1]]; [[Luke.24|Luke 24:11]], [[Luke.24|Luke 24:41]]
+[^50]: Heb. And his, [[Gen.37|Gen 37:35]], [[Gen.42|Gen 42:36]], [[Gen.42|Gen 42:38]], [[Gen.44|Gen 44:28]]; [[Jonah.2|Jonah 2:7]]
 
-[^51]: ***And Jacob's*** Heb. And his, [[Gen.37|Gen 37:35]], [[Gen.42|Gen 42:36]], [[Gen.42|Gen 42:38]], [[Gen.44|Gen 44:28]]; [[Jonah.2|Jonah 2:7]]
+[^51]: [[Job.9|Job 9:16]], [[Job.29|Job 29:24]]; [[Ps.126|Ps 126:1]]; [[Luke.24|Luke 24:11]], [[Luke.24|Luke 24:41]]
 
 [^52]: [[Judg.15|Judg 15:19]]; [[1Sam.30|1Sam 30:12]]; [[Ps.85|Ps 85:6]]; [[Isa.57|Isa 57:15]]; [[Hos.6|Hos 6:2]]
 

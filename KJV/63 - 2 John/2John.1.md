@@ -2,7 +2,7 @@
 
 ***A Greeting from the Elder***&emsp;<small><sup>\[ [[3John.1|3 John 1:1–4]] ]</sup></small> ^bsb3014
 
- $\quad$ <span class="startversemarker">[</span>**[[2John.1.1|1]]**<span class="endversemarker">]</span> The elder<small><small>[^2]</small></small> unto the elect lady<small><small>[^3]</small></small> and her children, whom<small><small>[^4]</small></small> I love in the truth; and not I only, but also all they that have known<small><small>[^5]</small></small> the truth;<small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[2John.1.2|2]]**<span class="endversemarker">]</span> For the truth’s sake, which<small><small>[^7]</small></small> dwelleth in us, and shall be with us for ever.<small><small>[^8]</small></small> <span class="startversemarker">[</span>**[[2John.1.3|3]]**<span class="endversemarker">]</span> Grace<small><small>[^9]</small></small> be<small><small>[^10]</small></small> with you, mercy, \[and\] peace, from God the Father, and from the Lord Jesus Christ, the Son<small><small>[^11]</small></small> of the Father, in truth<small><small>[^12]</small></small> and love.
+ $\quad$ <span class="startversemarker">[</span>**[[2John.1.1|1]]**<span class="endversemarker">]</span> The elder<small><small>[^2]</small></small> unto the elect lady<small><small>[^3]</small></small> and her children, whom<small><small>[^4]</small></small> I love in the truth; and not I only, but also all they that have known<small><small>[^5]</small></small> the truth;<small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[2John.1.2|2]]**<span class="endversemarker">]</span> For the truth’s<small><small>[^7]</small></small> sake, which<small><small>[^8]</small></small> dwelleth in us, and shall be with us for ever. <span class="startversemarker">[</span>**[[2John.1.3|3]]**<span class="endversemarker">]</span> Grace<small><small>[^9]</small></small> be<small><small>[^10]</small></small> with you, mercy, \[and\] peace, from God the Father, and from the Lord Jesus Christ, the Son<small><small>[^11]</small></small> of the Father, in truth<small><small>[^12]</small></small> and love.
 
 ***Walking in the Truth***&emsp;<small><sup>\[ [[John.8|John 8:30–47]] ]</sup></small> ^bsb3015
 
@@ -29,9 +29,9 @@
 
 [^6]: ad 90, am 4094
 
-[^7]: [[John.15|John 15:7]]; [[Col.3|Col 3:16]]; [[2Tim.1|2Tim 1:5]]; [[1Pet.1|1Pet 1:23-25]]; [[1John.2|1John 2:14]], [[1John.2|1John 2:17]]
+[^7]: [[1Cor.9|1Cor 9:23]]; [[2Cor.4|2Cor 4:5]]
 
-[^8]: ***the truth's*** [[1Cor.9|1Cor 9:23]]; [[2Cor.4|2Cor 4:5]]
+[^8]: [[John.15|John 15:7]]; [[Col.3|Col 3:16]]; [[2Tim.1|2Tim 1:5]]; [[1Pet.1|1Pet 1:23-25]]; [[1John.2|1John 2:14]], [[1John.2|1John 2:17]]
 
 [^9]: [[Rom.1|Rom 1:7]]; [[1Tim.1|1Tim 1:2]]
 

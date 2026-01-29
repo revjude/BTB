@@ -2,7 +2,7 @@
 
 ***The Woman on the Beast*** ^bsb3069
 
- $\quad$ <span class="startversemarker">[</span>**[[Rev.17.1|1]]**<span class="endversemarker">]</span> And there came one<small><small>[^2]</small></small> of the seven angels which had the seven vials, and talked<small><small>[^3]</small></small> with me, saying unto me, Come hither; I will<small><small>[^4]</small></small> shew unto thee the judgment of the great<small><small>[^5]</small></small> whore that sitteth<small><small>[^6]</small></small> upon many waters: <span class="startversemarker">[</span>**[[Rev.17.2|2]]**<span class="endversemarker">]</span> With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[Rev.17.3|3]]**<span class="endversemarker">]</span> So he carried<small><small>[^8]</small></small> me away in the spirit into<small><small>[^9]</small></small> the wilderness: and I saw a woman<small><small>[^10]</small></small> sit upon a scarlet coloured beast, full<small><small>[^11]</small></small> of names of blasphemy, having<small><small>[^12]</small></small> seven heads and ten horns. <span class="startversemarker">[</span>**[[Rev.17.4|4]]**<span class="endversemarker">]</span> And the woman was arrayed<small><small>[^13]</small></small> in purple and scarlet colour, and decked<small><small>[^14]</small></small> with gold and precious stones and pearls, having a golden<small><small>[^15]</small></small> cup in her hand full of abominations<small><small>[^16]</small></small> and filthiness<small><small>[^17]</small></small> of her fornication: <span class="startversemarker">[</span>**[[Rev.17.5|5]]**<span class="endversemarker">]</span> And upon<small><small>[^18]</small></small> her forehead \[was\] a name written, <inscription>MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH</inscription>.<small><small>[^19]</small></small><small><small>[^20]</small></small><small><small>[^21]</small></small><small><small>[^22]</small></small>
+ $\quad$ <span class="startversemarker">[</span>**[[Rev.17.1|1]]**<span class="endversemarker">]</span> And there came one<small><small>[^2]</small></small> of the seven angels which had the seven vials, and talked<small><small>[^3]</small></small> with me, saying unto me, Come hither; I will<small><small>[^4]</small></small> shew unto thee the judgment of the great<small><small>[^5]</small></small> whore that sitteth<small><small>[^6]</small></small> upon many waters: <span class="startversemarker">[</span>**[[Rev.17.2|2]]**<span class="endversemarker">]</span> With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[Rev.17.3|3]]**<span class="endversemarker">]</span> So he carried<small><small>[^8]</small></small> me away in the spirit into<small><small>[^9]</small></small> the wilderness: and I saw a woman<small><small>[^10]</small></small> sit upon a scarlet coloured beast, full<small><small>[^11]</small></small> of names of blasphemy, having<small><small>[^12]</small></small> seven heads and ten horns. <span class="startversemarker">[</span>**[[Rev.17.4|4]]**<span class="endversemarker">]</span> And the woman was arrayed<small><small>[^13]</small></small> in purple and scarlet colour, and decked<small><small>[^14]</small></small> with gold and precious stones and pearls, having a golden<small><small>[^15]</small></small> cup in her hand full of abominations<small><small>[^16]</small></small> and filthiness<small><small>[^17]</small></small> of her fornication: <span class="startversemarker">[</span>**[[Rev.17.5|5]]**<span class="endversemarker">]</span> And upon<small><small>[^18]</small></small> her forehead \[was\] a name written, <inscription>MYSTERY<small><small>[^19]</small></small>, BABYLON<small><small>[^20]</small></small> THE GREAT, THE MOTHER<small><small>[^21]</small></small> OF HARLOTS<small><small>[^22]</small></small> AND ABOMINATIONS OF THE EARTH</inscription>.
 
 ***The Mystery Explained*** ^bsb3070
 
@@ -49,13 +49,13 @@
 
 [^18]: [[Rev.7|Rev 7:3]]; [[Isa.3|Isa 3:9]]; [[Phil.3|Phil 3:19]]
 
-[^19]: ***mystery*** [[2Thess.2|2Thess 2:7]]; [[2Tim.3|2Tim 3:1-5]]
+[^19]: [[2Thess.2|2Thess 2:7]]; [[2Tim.3|2Tim 3:1-5]]
 
-[^20]: ***Babylon*** [[Rev.11|Rev 11:8]], [[Rev.14|Rev 14:8]], [[Rev.16|Rev 16:19]], [[Rev.18|Rev 18:2]], [[Rev.18|Rev 18:10]], [[Rev.18|Rev 18:21]]; [[Jer.51|Jer 51:47-48]]
+[^20]: [[Rev.11|Rev 11:8]], [[Rev.14|Rev 14:8]], [[Rev.16|Rev 16:19]], [[Rev.18|Rev 18:2]], [[Rev.18|Rev 18:10]], [[Rev.18|Rev 18:21]]; [[Jer.51|Jer 51:47-48]]
 
-[^21]: ***the Mother*** [[Rev.18|Rev 18:9]], [[Rev.19|Rev 19:2]]
+[^21]: [[Rev.18|Rev 18:9]], [[Rev.19|Rev 19:2]]
 
-[^22]: ***harlots*** or, fornications
+[^22]: or, fornications
 
 [^23]: [[Rev.13|Rev 13:7]], [[Rev.13|Rev 13:15]], [[Rev.16|Rev 16:6]], [[Rev.18|Rev 18:20-24]]; [[Dan.7|Dan 7:21]], [[Dan.7|Dan 7:25]]
 

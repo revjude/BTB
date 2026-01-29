@@ -16,7 +16,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Matt.7.7|7]]**<span class="en
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Matt.7.13|13]]**<span class="endversemarker">]</span> <span style="color:red;">Enter ye in at<small><small>[^21]</small></small> the strait gate: for<small><small>[^22]</small></small> wide \[is\] the gate, and broad \[is\] the way, that<small><small>[^23]</small></small> leadeth to destruction, and many there be which go in thereat:</span> <span class="startversemarker">[</span>**[[Matt.7.14|14]]**<span class="endversemarker">]</span> <span style="color:red;">Because strait \[is\] the gate, and narrow<small><small>[^24]</small></small> \[is\] the way, which leadeth unto life, and few<small><small>[^25]</small></small> there be that find it.</span><small><small>[^26]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[Matt.7.13|13]]**<span class="endversemarker">]</span> <span style="color:red;">Enter ye in at<small><small>[^21]</small></small> the strait gate: for<small><small>[^22]</small></small> wide \[is\] the gate, and broad \[is\] the way, that<small><small>[^23]</small></small> leadeth to destruction, and many there be which go in thereat:</span> <span class="startversemarker">[</span>**[[Matt.7.14|14]]**<span class="endversemarker">]</span> <span style="color:red;">Because<small><small>[^24]</small></small> strait \[is\] the gate, and narrow<small><small>[^25]</small></small> \[is\] the way, which leadeth unto life, and few<small><small>[^26]</small></small> there be that find it.</span>
 
 ***A Tree and Its Fruit***&emsp;<small><sup>\[ [[Luke.6|Luke 6:43–45]] ]</sup></small> ^bsb2124
 
@@ -83,11 +83,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Matt.7.24|24]]**<span class="
 
 [^23]: [[Matt.25|Matt 25:41]], [[Matt.25|Matt 25:46]]; [[Prov.7|Prov 7:27]], [[Prov.16|Prov 16:25]]; [[Rom.9|Rom 9:22]]; [[Phil.3|Phil 3:19]]; [[2Thess.1|2Thess 1:8-9]]; [[1Pet.4|1Pet 4:17-18]]; [[Rev.20|Rev 20:15]]
 
-[^24]: [[Matt.16|Matt 16:24-25]]; [[Prov.4|Prov 4:26-27]], [[Prov.8|Prov 8:20]]; [[Isa.30|Isa 30:21]], [[Isa.35|Isa 35:8]], [[Isa.57|Isa 57:14]]; [[Jer.6|Jer 6:16]]; [[Mark.8|Mark 8:34]]; [[John.15|John 15:18-20]], [[John.16|John 16:2]], [[John.16|John 16:33]]; [[Acts.14|Acts 14:22]]; [[1Thess.3|1Thess 3:2-5]]
+[^24]: or, How
 
-[^25]: [[Matt.20|Matt 20:16]], [[Matt.22|Matt 22:14]], [[Matt.25|Matt 25:1-12]]; [[Luke.12|Luke 12:32]], [[Luke.13|Luke 13:23-30]]; [[Rom.9|Rom 9:27-29]], [[Rom.9|Rom 9:32]], [[Rom.11|Rom 11:5-6]]; [[Rom.12|Rom 12:2]]; [[Eph.2|Eph 2:2-3]]; [[1Pet.3|1Pet 3:20-21]]
+[^25]: [[Matt.16|Matt 16:24-25]]; [[Prov.4|Prov 4:26-27]], [[Prov.8|Prov 8:20]]; [[Isa.30|Isa 30:21]], [[Isa.35|Isa 35:8]], [[Isa.57|Isa 57:14]]; [[Jer.6|Jer 6:16]]; [[Mark.8|Mark 8:34]]; [[John.15|John 15:18-20]], [[John.16|John 16:2]], [[John.16|John 16:33]]; [[Acts.14|Acts 14:22]]; [[1Thess.3|1Thess 3:2-5]]
 
-[^26]: ***because*** or, How
+[^26]: [[Matt.20|Matt 20:16]], [[Matt.22|Matt 22:14]], [[Matt.25|Matt 25:1-12]]; [[Luke.12|Luke 12:32]], [[Luke.13|Luke 13:23-30]]; [[Rom.9|Rom 9:27-29]], [[Rom.9|Rom 9:32]], [[Rom.11|Rom 11:5-6]]; [[Rom.12|Rom 12:2]]; [[Eph.2|Eph 2:2-3]]; [[1Pet.3|1Pet 3:20-21]]
 
 [^27]: [[Matt.10|Matt 10:17]], [[Matt.16|Matt 16:6]], [[Matt.16|Matt 16:11]]; [[Mark.12|Mark 12:38]]; [[Luke.12|Luke 12:15]]; [[Acts.13|Acts 13:40]]; [[Phil.3|Phil 3:2]]; [[Col.2|Col 2:8]]; [[2Pet.3|2Pet 3:17]]
 

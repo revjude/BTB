@@ -39,7 +39,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.29.31|31]]**<span class="
 
 [^9]: In Arabia, and other places in the East, they cover up their wells of water, lest the sand, which is put in motion by the winds, should fill and quite stop them up. So great was their care not to leave the well open any length of time, that they waited till the flocks were all gathered together before they began to draw water; and when they had finished, the well was immediately closed again.
 
-[^10]: Instead of ***haadarim***, "the flocks," the Samaritan reads ***haroim***, "the shepherds," as does also the Arabic in Walton's Polyglott. This verse describes what was usually done by some mutual compact among the shepherds, and shows the purpose for which the flocks lay by the well; for the stone was not removed till all the flocks had been collected. Scott. [[Gen.29|Gen 29:3]]
+[^10]: Instead of ***haadarim***, "the flocks," the Samaritan reads ***haroim***, "the shepherds," as does also the Arabic in Walton's Polyglott. This verse describes what was usually done by some mutual compact among the shepherds, and shews the purpose for which the flocks lay by the well; for the stone was not removed till all the flocks had been collected. Scott. [[Gen.29|Gen 29:3]]
 
 [^11]: [[Gen.11|Gen 11:31]], [[Gen.24|Gen 24:10]], [[Gen.27|Gen 27:43]], [[Gen.28|Gen 28:10]]; [[Acts.7|Acts 7:2]], [[Acts.7|Acts 7:4]], Charran
 

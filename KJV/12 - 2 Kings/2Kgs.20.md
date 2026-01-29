@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Kgs.20.8|8]]**<span class="e
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[2Kgs.20.12|12]]**<span class="endversemarker">]</span> At that time Berodach–baladan, the son of Baladan, king<small><small>[^31]</small></small> of Babylon<small><small>[^32]</small></small>, sent letters<small><small>[^33]</small></small> and a present unto Hezekiah: for he had heard<small><small>[^34]</small></small> that Hezekiah had been sick.<small><small>[^35]</small></small><small><small>[^36]</small></small> <span class="startversemarker">[</span>**[[2Kgs.20.13|13]]**<span class="endversemarker">]</span> And Hezekiah hearkened unto them, and shewed them all the house of his precious things<small><small>[^37]</small></small>, the silver, and the gold, and the spices, and the precious ointment, and \[all\] the house of his armour<small><small>[^38]</small></small>, and all that was found in his treasures: there was nothing<small><small>[^39]</small></small> in his house, nor in all his dominion, that Hezekiah shewed them not.<small><small>[^40]</small></small> 
+$\quad$ <span class="startversemarker">[</span>**[[2Kgs.20.12|12]]**<span class="endversemarker">]</span> At that time Berodach–baladan<small><small>[^31]</small></small>, the son of Baladan, king<small><small>[^32]</small></small> of Babylon<small><small>[^33]</small></small>, sent letters<small><small>[^34]</small></small> and a present unto Hezekiah: for he had heard<small><small>[^35]</small></small> that Hezekiah had been sick.<small><small>[^36]</small></small> <span class="startversemarker">[</span>**[[2Kgs.20.13|13]]**<span class="endversemarker">]</span> And Hezekiah hearkened unto them, and shewed<small><small>[^37]</small></small> them all the house of his precious things<small><small>[^38]</small></small>, the silver, and the gold, and the spices, and the precious ointment, and \[all\] the house of his armour<small><small>[^39]</small></small>, and all that was found in his treasures: there was nothing<small><small>[^40]</small></small> in his house, nor in all his dominion, that Hezekiah shewed them not. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Kgs.20.14|14]]**<span class="endversemarker">]</span> [¶]Then came Isaiah<small><small>[^41]</small></small> the prophet unto king Hezekiah, and said unto him, What said<small><small>[^42]</small></small> these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country<small><small>[^43]</small></small>, \[even\] from Babylon. <span class="startversemarker">[</span>**[[2Kgs.20.15|15]]**<span class="endversemarker">]</span> And he said, What have they seen in thine house? And Hezekiah answered, All \[the things<small><small>[^44]</small></small>\] that \[are\] in mine house have they seen: there is nothing among my treasures that I have not shewed them. <span class="startversemarker">[</span>**[[2Kgs.20.16|16]]**<span class="endversemarker">]</span> And Isaiah said unto Hezekiah, Hear<small><small>[^45]</small></small> the word of the <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[2Kgs.20.17|17]]**<span class="endversemarker">]</span> Behold, the days come, that all that \[is\] in thine house, and that which thy fathers have laid up in store unto this day, shall be carried<small><small>[^46]</small></small> into Babylon: nothing shall be left, saith the <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[2Kgs.20.18|18]]**<span class="endversemarker">]</span> And of thy sons<small><small>[^47]</small></small> that shall issue from thee, which thou shalt beget, shall they take away; and they shall be<small><small>[^48]</small></small> eunuchs in the palace of the king of Babylon. <span class="startversemarker">[</span>**[[2Kgs.20.19|19]]**<span class="endversemarker">]</span> Then said Hezekiah unto Isaiah, Good<small><small>[^49]</small></small> \[is\] the word of the <span class="smallcaps">Lord</span> which thou hast spoken. And he said, \[Is it\] not \[good\], if peace and truth<small><small>[^50]</small></small> be in my days?<small><small>[^51]</small></small>
 
@@ -21,7 +21,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Kgs.20.14|14]]**<span class=
 $\quad$ <span class="startversemarker">[</span>**[[2Kgs.20.20|20]]**<span class="endversemarker">]</span> [¶]And the rest of the acts of Hezekiah, and all his might, and how he made a pool<small><small>[^52]</small></small>, and a conduit, and brought water into the city, \[are\] they not written in the book<small><small>[^53]</small></small> of the chronicles of the kings of Judah? <span class="startversemarker">[</span>**[[2Kgs.20.21|21]]**<span class="endversemarker">]</span> And Hezekiah slept<small><small>[^54]</small></small> with his fathers: and Manasseh<small><small>[^55]</small></small> his son reigned in his stead. <small><small>[^56]</small></small><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19|<< 2 Kings 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21|2 Kings 21 >>]]</td></tr></table>
 
 
-[^1]:  [[2Kgs.20|2Kgs 20:1]], Hezekiah, having received a message of death, by prayer has his life lengthened; [[2Kgs.20|2Kgs 20:8]], The sun goes ten degrees backward for a sign of that promise; [[2Kgs.20|2Kgs 20:12]], Berodach-baladan sending to visit Hezekiah, because of the wonder, has notice of his treasures; [[2Kgs.20|2Kgs 20:14]], Isaiah understanding thereof, foretells the Babylonian captivity; [[2Kgs.20|2Kgs 20:20]], Manasseh succeeds Hezekiah.
+[^1]:  [[2Kgs.20|2Kgs 20:1]], Hezekiah, having received a message of death, by prayer has his life lengthened; [[2Kgs.20|2Kgs 20:8]], The sun goes ten degrees backward for a sign of that promise; [[2Kgs.20|2Kgs 20:12]], Berodach–baladan sending to visit Hezekiah, because of the wonder, has notice of his treasures; [[2Kgs.20|2Kgs 20:14]], Isaiah understanding thereof, foretells the Babylonian captivity; [[2Kgs.20|2Kgs 20:20]], Manasseh succeeds Hezekiah.
 
 [^2]: [[2Chr.32|2Chr 32:24-26]]; [[Isa.38|Isa 38:1-20]]; [[John.11|John 11:1-5]]; [[Phil.2|Phil 2:27]], [[Phil.2|Phil 2:30]]
 
@@ -81,25 +81,25 @@ $\quad$ <span class="startversemarker">[</span>**[[2Kgs.20.20|20]]**<span class=
 
 [^30]: Heb. degrees
 
-[^31]: [[2Chr.32|2Chr 32:31]]
+[^31]: [[Isa.39|Isa 39:1-8]], Merodach–baladan
 
-[^32]: [[Gen.10|Gen 10:10]], [[Gen.11|Gen 11:9]]; [[Isa.13|Isa 13:1]], [[Isa.13|Isa 13:19]], [[Isa.14|Isa 14:4]]
+[^32]: [[2Chr.32|2Chr 32:31]]
 
-[^33]: [[2Sam.8|2Sam 8:10]], [[2Sam.10|2Sam 10:2]]
+[^33]: [[Gen.10|Gen 10:10]], [[Gen.11|Gen 11:9]]; [[Isa.13|Isa 13:1]], [[Isa.13|Isa 13:19]], [[Isa.14|Isa 14:4]]
 
-[^34]: [[Isa.39|Isa 39:1]]
+[^34]: [[2Sam.8|2Sam 8:10]], [[2Sam.10|2Sam 10:2]]
 
-[^35]: am 3292, bc 712
+[^35]: [[Isa.39|Isa 39:1]]
 
-[^36]: ***Berodachbaladan*** [[Isa.39|Isa 39:1-8]], Merodach-baladan
+[^36]: am 3292, bc 712
 
-[^37]: or, spicery, [[1Kgs.10|1Kgs 10:2]], [[1Kgs.10|1Kgs 10:10]], [[1Kgs.10|1Kgs 10:15]], [[1Kgs.10|1Kgs 10:25]]
+[^37]: [[2Chr.32|2Chr 32:27]]; [[Isa.39|Isa 39:2]]
 
-[^38]: or, jewels, Heb. vessels
+[^38]: or, spicery, [[1Kgs.10|1Kgs 10:2]], [[1Kgs.10|1Kgs 10:10]], [[1Kgs.10|1Kgs 10:15]], [[1Kgs.10|1Kgs 10:25]]
 
-[^39]: [[2Chr.32|2Chr 32:25-26]]; [[Prov.23|Prov 23:5]]; [[Eccl.7|Eccl 7:20]]
+[^39]: or, jewels, Heb. vessels
 
-[^40]: ***showed*** [[2Chr.32|2Chr 32:27]]; [[Isa.39|Isa 39:2]]
+[^40]: [[2Chr.32|2Chr 32:25-26]]; [[Prov.23|Prov 23:5]]; [[Eccl.7|Eccl 7:20]]
 
 [^41]: [[Isa.39|Isa 39:3-8]]
 

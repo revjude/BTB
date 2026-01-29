@@ -2,11 +2,11 @@
 
 ***Prologue***&emsp;<small><sup>\[ [[Dan.12|Daniel 12:1–13]] ]</sup></small> ^bsb3026
 
- $\quad$ <span class="startversemarker">[</span>**[[Rev.1.1|1]]**<span class="endversemarker">]</span> The Revelation<small><small>[^3]</small></small> of Jesus Christ, which God<small><small>[^4]</small></small> gave unto him, to shew unto his servants things which must<small><small>[^5]</small></small> shortly come to pass; and he<small><small>[^6]</small></small> sent and signified \[it\] by his angel unto his servant John<small><small>[^7]</small></small>:<small><small>[^8]</small></small> <span class="startversemarker">[</span>**[[Rev.1.2|2]]**<span class="endversemarker">]</span> Who bare<small><small>[^9]</small></small> record of the word of God, and of the testimony of Jesus Christ, and of all<small><small>[^10]</small></small> things that he saw. <span class="startversemarker">[</span>**[[Rev.1.3|3]]**<span class="endversemarker">]</span> Blessed<small><small>[^11]</small></small> \[is\] he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for<small><small>[^12]</small></small> the time \[is\] at hand.
+ $\quad$ <span class="startversemarker">[</span>**[[Rev.1.1|1]]**<span class="endversemarker">]</span> The Revelation<small><small>[^3]</small></small> of Jesus Christ, which God<small><small>[^4]</small></small> gave unto him, to shew<small><small>[^5]</small></small> unto his servants things which must<small><small>[^6]</small></small> shortly come to pass; and he<small><small>[^7]</small></small> sent and signified \[it\] by his angel unto his servant John<small><small>[^8]</small></small>: <span class="startversemarker">[</span>**[[Rev.1.2|2]]**<span class="endversemarker">]</span> Who bare<small><small>[^9]</small></small> record of the word of God, and of the testimony of Jesus Christ, and of all<small><small>[^10]</small></small> things that he saw. <span class="startversemarker">[</span>**[[Rev.1.3|3]]**<span class="endversemarker">]</span> Blessed<small><small>[^11]</small></small> \[is\] he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for<small><small>[^12]</small></small> the time \[is\] at hand.
 
 ***John Greets the Seven Churches*** ^bsb3027
 
- <span class="startversemarker">[</span>**[[Rev.1.4|4]]**<span class="endversemarker">]</span> John<small><small>[^13]</small></small> to the<small><small>[^14]</small></small> seven churches which are in Asia: Grace<small><small>[^15]</small></small> \[be\] unto you, and peace, from him<small><small>[^16]</small></small> which is, and which was, and which is to come; and from the<small><small>[^17]</small></small> seven Spirits which are before his throne; <span class="startversemarker">[</span>**[[Rev.1.5|5]]**<span class="endversemarker">]</span> And from Jesus Christ, \[who is<small><small>[^18]</small></small>\] the faithful witness, \[and\] the first<small><small>[^19]</small></small> begotten of the dead, and the prince<small><small>[^20]</small></small> of the kings of the earth. Unto him<small><small>[^21]</small></small> that loved us, and washed<small><small>[^22]</small></small> us from our sins in his own blood, <span class="startversemarker">[</span>**[[Rev.1.6|6]]**<span class="endversemarker">]</span> And hath made<small><small>[^23]</small></small> us kings and priests unto God and his Father; to him<small><small>[^24]</small></small> \[be\] glory and dominion for ever and ever. Amen. <span class="startversemarker">[</span>**[[Rev.1.7|7]]**<span class="endversemarker">]</span> Behold, he cometh<small><small>[^25]</small></small> with clouds; and every<small><small>[^26]</small></small> eye shall see him, and they<small><small>[^27]</small></small> \[also\] which pierced him: and all<small><small>[^28]</small></small> kindreds of the earth shall wail because of him. Even so, Amen.<small><small>[^29]</small></small> <span class="startversemarker">[</span>**[[Rev.1.8|8]]**<span class="endversemarker">]</span> I am Alpha<small><small>[^30]</small></small> and Omega, the beginning and the ending, saith the Lord, which is<small><small>[^31]</small></small>, and which was, and which is to come, the Almighty<small><small>[^32]</small></small>.
+ <span class="startversemarker">[</span>**[[Rev.1.4|4]]**<span class="endversemarker">]</span> John<small><small>[^13]</small></small> to the<small><small>[^14]</small></small> seven churches which are in Asia: Grace<small><small>[^15]</small></small> \[be\] unto you, and peace, from him<small><small>[^16]</small></small> which is, and which was, and which is to come; and from the<small><small>[^17]</small></small> seven Spirits which are before his throne; <span class="startversemarker">[</span>**[[Rev.1.5|5]]**<span class="endversemarker">]</span> And from Jesus Christ, \[who is<small><small>[^18]</small></small>\] the faithful witness, \[and\] the first<small><small>[^19]</small></small> begotten of the dead, and the prince<small><small>[^20]</small></small> of the kings of the earth. Unto him<small><small>[^21]</small></small> that loved us, and washed<small><small>[^22]</small></small> us from our sins in his own blood, <span class="startversemarker">[</span>**[[Rev.1.6|6]]**<span class="endversemarker">]</span> And hath made<small><small>[^23]</small></small> us kings and priests unto God and his Father; to him<small><small>[^24]</small></small> \[be\] glory and dominion for ever and ever. Amen. <span class="startversemarker">[</span>**[[Rev.1.7|7]]**<span class="endversemarker">]</span> Behold, he cometh<small><small>[^25]</small></small> with clouds; and every<small><small>[^26]</small></small> eye shall see him, and they<small><small>[^27]</small></small> \[also\] which pierced him: and all<small><small>[^28]</small></small> kindreds of the earth shall wail because of him. Even so<small><small>[^29]</small></small>, Amen. <span class="startversemarker">[</span>**[[Rev.1.8|8]]**<span class="endversemarker">]</span> I am Alpha<small><small>[^30]</small></small> and Omega, the beginning and the ending, saith the Lord, which is<small><small>[^31]</small></small>, and which was, and which is to come, the Almighty<small><small>[^32]</small></small>.
 
 ***John’s Vision on Patmos*** ^bsb3028
 
@@ -21,13 +21,13 @@
 
 [^4]: [[John.3|John 3:32]], [[John.8|John 8:26]], [[John.12|John 12:49]]
 
-[^5]: [[Rev.1|Rev 1:3]], [[Rev.1|Rev 1:19]], [[Rev.4|Rev 4:1]], [[Rev.22|Rev 22:10]], [[2Pet.3|2Pet 3:8]]
+[^5]: [[Rev.22|Rev 22:6]]; [[Ps.25|Ps 25:14]]; [[John.15|John 15:15]]
 
-[^6]: [[Rev.22|Rev 22:6]], [[Rev.22|Rev 22:16]]; [[Dan.8|Dan 8:16]], [[Dan.9|Dan 9:21]], [[Dan.9|Dan 9:23]]
+[^6]: [[Rev.1|Rev 1:3]], [[Rev.1|Rev 1:19]], [[Rev.4|Rev 4:1]], [[Rev.22|Rev 22:10]], [[2Pet.3|2Pet 3:8]]
 
-[^7]: [[Rev.1|Rev 1:4]], [[Rev.1|Rev 1:9]], [[Rev.21|Rev 21:2]]
+[^7]: [[Rev.22|Rev 22:6]], [[Rev.22|Rev 22:16]]; [[Dan.8|Dan 8:16]], [[Dan.9|Dan 9:21]], [[Dan.9|Dan 9:23]]
 
-[^8]: ***to show*** [[Rev.22|Rev 22:6]]; [[Ps.25|Ps 25:14]]; [[John.15|John 15:15]]
+[^8]: [[Rev.1|Rev 1:4]], [[Rev.1|Rev 1:9]], [[Rev.21|Rev 21:2]]
 
 [^9]: [[Rev.1|Rev 1:9]], [[Rev.6|Rev 6:9]], [[Rev.12|Rev 12:11]], [[Rev.12|Rev 12:17]]; [[John.1|John 1:32]], [[John.12|John 12:17]], [[John.19|John 19:35]], [[John.21|John 21:24]]; [[1Cor.1|1Cor 1:6]], [[1Cor.2|1Cor 2:1]]; [[1John.5|1John 5:7-11]]; [[3John.1|3John 1:12]]
 
@@ -69,7 +69,7 @@
 
 [^28]: [[Rev.6|Rev 6:15-17]], [[Rev.18|Rev 18:15-19]]; [[Matt.24|Matt 24:30]]; [[Luke.23|Luke 23:28-30]]
 
-[^29]: ***Even So*** [[Rev.18|Rev 18:20]], [[Rev.19|Rev 19:1-3]], [[Rev.22|Rev 22:20]]; [[Judg.5|Judg 5:31]]; [[Ps.68|Ps 68:1]]
+[^29]: [[Rev.18|Rev 18:20]], [[Rev.19|Rev 19:1-3]], [[Rev.22|Rev 22:20]]; [[Judg.5|Judg 5:31]]; [[Ps.68|Ps 68:1]]
 
 [^30]: [[Rev.1|Rev 1:11]], [[Rev.1|Rev 1:17]], [[Rev.2|Rev 2:8]], [[Rev.21|Rev 21:6]], [[Rev.22|Rev 22:13]]; [[Isa.41|Isa 41:4]], [[Isa.43|Isa 43:10]], [[Isa.44|Isa 44:6]], [[Isa.48|Isa 48:12]]
 

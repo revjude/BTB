@@ -23,7 +23,7 @@
 
 [^1]:  The Church at Philippi in Macedonia was planted by the Apostle Paul about ad 53 (Acts 16:9-40); and it appears he visited them again, ad 60, though no particulars are recorded concerning that visit ([[Acts.20|Acts 20:6]]). The Philippians were greatly attached to St. Paul, and testified their affection by sending him supplies, even when labouring for other churches ([[Phil.4|Phil 4:15]], [[Phil.4|Phil 4:16]]; [[2Cor.11|2Cor 11:9]]); and when they heard that he was under confinement at Rome, they sent Epaphroditus, one of their pastors, to him with a present, lest he should want necessaries during his imprisonment ([[Phil.2|Phil 2:25]]; [[Phil.4|Phil 4:10]], [[Phil.4|Phil 4:14-18]]). The more immediate occasion of the Epistle was the return of Epaphroditus, by whom the apostle sent it as a grateful acknowledgment of their kindness; which occurred towards the close of his first imprisonment, about the end of ad 62, or the commencement of 63.
 
-[^2]:  [[Phil.1|Phil 1:1]], Paul testifies his thankfulness to God, and his love towards them, for the fruits of their faith, and fellowship in his sufferings; [[Phil.1|Phil 1:9]], daily praying to him for their increase in grace; [[Phil.1|Phil 1:12]], he shows what good the faith of Christ had received by his troubles at Rome; [[Phil.1|Phil 1:21]], and how ready he is to glorify Christ either by his life or death; [[Phil.1|Phil 1:27]], exhorting them to unity; [[Phil.1|Phil 1:28]], and to fortitude in persecution.
+[^2]:  [[Phil.1|Phil 1:1]], Paul testifies his thankfulness to God, and his love towards them, for the fruits of their faith, and fellowship in his sufferings; [[Phil.1|Phil 1:9]], daily praying to him for their increase in grace; [[Phil.1|Phil 1:12]], he shews what good the faith of Christ had received by his troubles at Rome; [[Phil.1|Phil 1:21]], and how ready he is to glorify Christ either by his life or death; [[Phil.1|Phil 1:27]], exhorting them to unity; [[Phil.1|Phil 1:28]], and to fortitude in persecution.
 
 [^3]: [[Rom.1|Rom 1:1]]; [[1Cor.1|1Cor 1:1]]
 
@@ -111,7 +111,7 @@
 
 [^45]: or, for Christ, [[1Pet.4|1Pet 4:12-16]]
 
-[^46]: or, Caesar's court, [[Phil.4|Phil 4:22]]
+[^46]: or, Cesar's court, [[Phil.4|Phil 4:22]]
 
 [^47]: or, to all others, [[1Thess.1|1Thess 1:8-9]]
 

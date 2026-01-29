@@ -2,15 +2,15 @@
 
 ***David’s Triumphs***&emsp;<small><sup>\[ [[2Sam.8|2 Samuel 8:1–14]] <big>†</big> [[Ps.60|Psalms 60:1–12]] ]</sup></small> ^bsb1030
 
- $\quad$ <span class="startversemarker">[</span>**[[1Chr.18.1|1]]**<span class="endversemarker">]</span> Now after this<small><small>[^2]</small></small> it came to pass, that David smote the Philistines, and subdued them, and took Gath<small><small>[^3]</small></small> and her towns out of the hand of the Philistines.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[1Chr.18.2|2]]**<span class="endversemarker">]</span> And he smote Moab; and the Moabites became David’s servants, \[and\] brought gifts<small><small>[^5]</small></small>.<small><small>[^6]</small></small> 
+ $\quad$ <span class="startversemarker">[</span>**[[1Chr.18.1|1]]**<span class="endversemarker">]</span> Now after this<small><small>[^2]</small></small> it came to pass, that David smote the Philistines, and subdued them, and took Gath<small><small>[^3]</small></small> and her towns out of the hand of the Philistines.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[1Chr.18.2|2]]**<span class="endversemarker">]</span> And he smote<small><small>[^5]</small></small> Moab; and the Moabites became David’s servants, \[and\] brought gifts<small><small>[^6]</small></small>. 
 
-$\quad$ <span class="startversemarker">[</span>**[[1Chr.18.3|3]]**<span class="endversemarker">]</span> [¶]And David smote Hadarezer<small><small>[^7]</small></small> king of Zobah<small><small>[^8]</small></small> unto Hamath, as he went to stablish his dominion by the river<small><small>[^9]</small></small> Euphrates. <span class="startversemarker">[</span>**[[1Chr.18.4|4]]**<span class="endversemarker">]</span> And David took from him a thousand chariots, and seven thousand<small><small>[^10]</small></small> horsemen, and twenty thousand footmen: David<small><small>[^11]</small></small> also houghed all the chariot \[horses\], but reserved of them an hundred chariots<small><small>[^12]</small></small>. <span class="startversemarker">[</span>**[[1Chr.18.5|5]]**<span class="endversemarker">]</span> And when the Syrians<small><small>[^13]</small></small> of Damascus<small><small>[^14]</small></small> came to help<small><small>[^15]</small></small> Hadarezer king of Zobah<small><small>[^16]</small></small>, David slew of the Syrians two and twenty thousand men. <span class="startversemarker">[</span>**[[1Chr.18.6|6]]**<span class="endversemarker">]</span> Then David put \[garrisons\] in Syria–damascus; and the Syrians became David’s servants, \[and\] brought gifts. Thus the <span class="smallcaps">Lord</span> preserved David whithersoever he went.<small><small>[^17]</small></small><small><small>[^18]</small></small> <span class="startversemarker">[</span>**[[1Chr.18.7|7]]**<span class="endversemarker">]</span> And David took the shields<small><small>[^19]</small></small> of gold that were on the servants of Hadarezer, and brought them to Jerusalem. <span class="startversemarker">[</span>**[[1Chr.18.8|8]]**<span class="endversemarker">]</span> Likewise from Tibhath<small><small>[^20]</small></small>, and from Chun, cities of Hadarezer, brought David very much brass, wherewith<small><small>[^21]</small></small> Solomon made the brasen sea, and the pillars, and the vessels of brass. 
+$\quad$ <span class="startversemarker">[</span>**[[1Chr.18.3|3]]**<span class="endversemarker">]</span> [¶]And David smote Hadarezer<small><small>[^7]</small></small> king of Zobah<small><small>[^8]</small></small> unto Hamath, as he went to stablish his dominion by the river<small><small>[^9]</small></small> Euphrates. <span class="startversemarker">[</span>**[[1Chr.18.4|4]]**<span class="endversemarker">]</span> And David took from him a thousand chariots, and seven thousand<small><small>[^10]</small></small> horsemen, and twenty thousand footmen: David<small><small>[^11]</small></small> also houghed all the chariot \[horses\], but reserved of them an hundred chariots<small><small>[^12]</small></small>. <span class="startversemarker">[</span>**[[1Chr.18.5|5]]**<span class="endversemarker">]</span> And when the Syrians<small><small>[^13]</small></small> of Damascus<small><small>[^14]</small></small> came to help<small><small>[^15]</small></small> Hadarezer king of Zobah<small><small>[^16]</small></small>, David slew of the Syrians two and twenty thousand men. <span class="startversemarker">[</span>**[[1Chr.18.6|6]]**<span class="endversemarker">]</span> Then David put \[garrisons\] in Syria–damascus; and the Syrians became David’s<small><small>[^17]</small></small> servants, \[and\] brought gifts. Thus the <span class="smallcaps">Lord<small><small>[^18]</small></small></span> preserved David whithersoever he went. <span class="startversemarker">[</span>**[[1Chr.18.7|7]]**<span class="endversemarker">]</span> And David took the shields<small><small>[^19]</small></small> of gold that were on the servants of Hadarezer, and brought them to Jerusalem. <span class="startversemarker">[</span>**[[1Chr.18.8|8]]**<span class="endversemarker">]</span> Likewise from Tibhath<small><small>[^20]</small></small>, and from Chun, cities of Hadarezer, brought David very much brass, wherewith<small><small>[^21]</small></small> Solomon made the brasen sea, and the pillars, and the vessels of brass. 
 
-$\quad$ <span class="startversemarker">[</span>**[[1Chr.18.9|9]]**<span class="endversemarker">]</span> Now when Tou<small><small>[^22]</small></small> king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah; <span class="startversemarker">[</span>**[[1Chr.18.10|10]]**<span class="endversemarker">]</span> He sent Hadoram<small><small>[^23]</small></small> his son to king David, to enquire of his welfare, and to congratulate him<small><small>[^24]</small></small>, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war<small><small>[^25]</small></small> with Tou;) and \[with him\] all manner<small><small>[^26]</small></small> of vessels of gold and silver and brass.<small><small>[^27]</small></small> 
+$\quad$ <span class="startversemarker">[</span>**[[1Chr.18.9|9]]**<span class="endversemarker">]</span> Now when Tou<small><small>[^22]</small></small> king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah; <span class="startversemarker">[</span>**[[1Chr.18.10|10]]**<span class="endversemarker">]</span> He sent Hadoram<small><small>[^23]</small></small> his son to king David, to enquire<small><small>[^24]</small></small> of his welfare, and to congratulate him<small><small>[^25]</small></small>, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war<small><small>[^26]</small></small> with Tou;) and \[with him\] all manner<small><small>[^27]</small></small> of vessels of gold and silver and brass. 
 
-$\quad$ <span class="startversemarker">[</span>**[[1Chr.18.11|11]]**<span class="endversemarker">]</span> [¶]Them also king David dedicated<small><small>[^28]</small></small> unto the <span class="smallcaps">Lord</span>, with the silver and the gold that he brought from all \[these\] nations; from Edom, and from Moab, and from the children<small><small>[^29]</small></small> of Ammon, and from the Philistines, and from Amalek<small><small>[^30]</small></small>. <span class="startversemarker">[</span>**[[1Chr.18.12|12]]**<span class="endversemarker">]</span> Moreover<small><small>[^31]</small></small> Abishai<small><small>[^32]</small></small> the son of Zeruiah slew of the Edomites<small><small>[^33]</small></small> in the valley of salt eighteen thousand.<small><small>[^34]</small></small> 
+$\quad$ <span class="startversemarker">[</span>**[[1Chr.18.11|11]]**<span class="endversemarker">]</span> [¶]Them also king David dedicated<small><small>[^28]</small></small> unto the <span class="smallcaps">Lord</span>, with the silver and the gold that he brought from all \[these\] nations; from Edom, and from Moab, and from the children<small><small>[^29]</small></small> of Ammon, and from the Philistines, and from Amalek<small><small>[^30]</small></small>. <span class="startversemarker">[</span>**[[1Chr.18.12|12]]**<span class="endversemarker">]</span> Moreover<small><small>[^31]</small></small> Abishai<small><small>[^32]</small></small> the son of Zeruiah slew of the Edomites<small><small>[^33]</small></small> in the valley of salt<small><small>[^34]</small></small> eighteen thousand. 
 
-$\quad$ <span class="startversemarker">[</span>**[[1Chr.18.13|13]]**<span class="endversemarker">]</span> [¶]And he put garrisons<small><small>[^35]</small></small> in Edom; and all the Edomites<small><small>[^36]</small></small> became David’s servants. Thus the <span class="smallcaps">Lord</span> preserved David whithersoever he went.<small><small>[^37]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[1Chr.18.13|13]]**<span class="endversemarker">]</span> [¶]And he put garrisons<small><small>[^35]</small></small> in Edom; and all the Edomites<small><small>[^36]</small></small> became David’s servants. Thus the <span class="smallcaps">Lord<small><small>[^37]</small></small></span> preserved David whithersoever he went.
 
 ***David’s Officers***&emsp;<small><sup>\[ [[2Sam.8|2 Samuel 8:15–18]] ]</sup></small> ^bsb1031
 
@@ -23,13 +23,13 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.18.14|14]]**<span class=
 
 [^2]: [[2Sam.8|2Sam 8:1]], [[2Sam.8|2Sam 8:2-18]]
 
-[^3]: [[1Sam.5|1Sam 5:8]], [[1Sam.27|1Sam 27:4]]; [[2Sam.1|2Sam 1:20]], [[2Sam.8|2Sam 8:1]], Metheg-ammah
+[^3]: [[1Sam.5|1Sam 5:8]], [[1Sam.27|1Sam 27:4]]; [[2Sam.1|2Sam 1:20]], [[2Sam.8|2Sam 8:1]], Metheg–ammah
 
 [^4]: am 2964, bc 1040, An, Ex, Is, 451
 
-[^5]: [[1Sam.10|1Sam 10:27]]; [[1Kgs.10|1Kgs 10:2]], [[1Kgs.10|1Kgs 10:25]]; [[2Kgs.3|2Kgs 3:4-5]]; [[Ps.68|Ps 68:29-30]], [[Ps.72|Ps 72:8-10]]; [[Isa.16|Isa 16:1]]
+[^5]: [[Num.24|Num 24:17]]; [[Judg.3|Judg 3:29-30]]; [[2Sam.8|2Sam 8:2]]; [[Ps.60|Ps 60:8]]; [[Isa.11|Isa 11:14]]
 
-[^6]: ***He smote*** [[Num.24|Num 24:17]]; [[Judg.3|Judg 3:29-30]]; [[2Sam.8|2Sam 8:2]]; [[Ps.60|Ps 60:8]]; [[Isa.11|Isa 11:14]]
+[^6]: [[1Sam.10|1Sam 10:27]]; [[1Kgs.10|1Kgs 10:2]], [[1Kgs.10|1Kgs 10:25]]; [[2Kgs.3|2Kgs 3:4-5]]; [[Ps.68|Ps 68:29-30]], [[Ps.72|Ps 72:8-10]]; [[Isa.16|Isa 16:1]]
 
 [^7]: Hadadezer, <span class="asgreek"><span class='asgreek'>δγγςζψ</span></span> (<span class="ashebrew">‎הֲדַדְעֶזֶר‎</span><sup><small>[[H1909]]</small></sup>), in the parallel passage, seems an evident mistake for <span class="asgreek"><span class='asgreek'>δγψςζψ</span></span> (<span class="ashebrew">‎הֲדַרְעֶזֶר‎</span><sup><small>[[H1928]]</small></sup>), Hadarezer; for the LXX and Vulgate there, as here, read <span class="asgreek"><span class='asgreek'>Αδρααζαρ</span></span>, ***Adarezer***. The difference arises from the mistake of a <span class="asgreek"><span class='asgreek'>ψ</span></span>, ***raish***, for a <span class="asgreek"><span class='asgreek'>γ</span></span>, ***daleth***, two letters very similar. [[2Sam.8|2Sam 8:3]], Hadadezer
 
@@ -51,9 +51,9 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.18.14|14]]**<span class=
 
 [^16]: [[1Chr.18|1Chr 18:3]]; [[1Sam.14|1Sam 14:47]]
 
-[^17]: ***became David's*** [[1Chr.18|1Chr 18:2]]; [[Ps.18|Ps 18:43-44]]
+[^17]: [[1Chr.18|1Chr 18:2]]; [[Ps.18|Ps 18:43-44]]
 
-[^18]: ***Thus the Lord*** [[1Chr.17|1Chr 17:8]]; [[Ps.121|Ps 121:8]]; [[Prov.21|Prov 21:31]]
+[^18]: [[1Chr.17|1Chr 17:8]]; [[Ps.121|Ps 121:8]]; [[Prov.21|Prov 21:31]]
 
 [^19]: [[1Kgs.10|1Kgs 10:16-17]], [[1Kgs.14|1Kgs 14:26-28]]; [[2Chr.9|2Chr 9:15-16]], [[2Chr.12|2Chr 12:9-10]]
 
@@ -65,13 +65,13 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.18.14|14]]**<span class=
 
 [^23]: or Joram, [[2Sam.8|2Sam 8:10]]; Joram, in the parallel text, seems a mistake for Hadoram, or Idoram; for the LXX have there <span class="asgreek"><span class='asgreek'>Ιεδδουραμ</span>.</span>
 
-[^24]: Heb. bless him
+[^24]: or salute him
 
-[^25]: Heb. was the man of wars
+[^25]: Heb. bless him
 
-[^26]: [[2Chr.9|2Chr 9:1]], [[2Chr.9|2Chr 9:23-24]]; [[Isa.39|Isa 39:1]]
+[^26]: Heb. was the man of wars
 
-[^27]: ***inquire*** or salute him
+[^27]: [[2Chr.9|2Chr 9:1]], [[2Chr.9|2Chr 9:23-24]]; [[Isa.39|Isa 39:1]]
 
 [^28]: [[1Chr.22|1Chr 22:14]], [[1Chr.26|1Chr 26:20]], [[1Chr.26|1Chr 26:26-27]], [[1Chr.29|1Chr 29:14]]; [[Exod.35|Exod 35:5]], [[Exod.35|Exod 35:21-24]]; [[Josh.6|Josh 6:19]]; [[2Sam.8|2Sam 8:11-12]]; [[1Kgs.7|1Kgs 7:51]]; [[2Kgs.12|2Kgs 12:18]]; [[2Chr.5|2Chr 5:1]]; [[Mic.4|Mic 4:13]]
 
@@ -85,13 +85,13 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.18.14|14]]**<span class=
 
 [^33]: [[2Sam.7|2Sam 7:13]], [[2Sam.8|2Sam 8:13-14]]; [[Ps.60|Ps 60:1]] *title [[Ps.60|Ps 60:8-9]]
 
-[^34]: ***the valley of Salt*** [[2Kgs.14|2Kgs 14:7]]; [[2Chr.25|2Chr 25:11]]
+[^34]: [[2Kgs.14|2Kgs 14:7]]; [[2Chr.25|2Chr 25:11]]
 
 [^35]: [[1Chr.18|1Chr 18:6]]; [[1Sam.10|1Sam 10:5]], [[1Sam.13|1Sam 13:3]], [[1Sam.14|1Sam 14:1]]; [[2Sam.7|2Sam 7:14-17]], [[2Sam.23|2Sam 23:14]]; [[2Cor.11|2Cor 11:32]]
 
 [^36]: [[Gen.25|Gen 25:23]], [[Gen.27|Gen 27:29]], [[Gen.27|Gen 27:37]], [[Gen.27|Gen 27:40]]; [[Num.24|Num 24:18]]
 
-[^37]: ***Thus the Lord*** [[1Chr.18|1Chr 18:6]]; [[Ps.18|Ps 18:48-50]], [[Ps.121|Ps 121:7]], [[Ps.144|Ps 144:10]]
+[^37]: [[1Chr.18|1Chr 18:6]]; [[Ps.18|Ps 18:48-50]], [[Ps.121|Ps 121:7]], [[Ps.144|Ps 144:10]]
 
 [^38]: [[1Chr.12|1Chr 12:38]]
 

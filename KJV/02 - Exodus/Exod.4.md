@@ -2,7 +2,7 @@
 
 ***Moses’ Staff*** ^bsb155
 
- $\quad$ <span class="startversemarker">[</span>**[[Exod.4.1|1]]**<span class="endversemarker">]</span> And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The <span class="smallcaps">Lord</span> hath not appeared unto thee.<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[Exod.4.2|2]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto him, What \[is\] that in thine hand? And he said, A rod.<small><small>[^3]</small></small> <span class="startversemarker">[</span>**[[Exod.4.3|3]]**<span class="endversemarker">]</span> And he said, Cast it on the ground. And he cast it on the ground, and it became<small><small>[^4]</small></small> a serpent; and Moses fled from before it. <span class="startversemarker">[</span>**[[Exod.4.4|4]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto Moses, Put forth thine hand, and take it by the tail. And he put forth<small><small>[^5]</small></small> his hand, and caught it, and it became a rod in his hand:<small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[Exod.4.5|5]]**<span class="endversemarker">]</span> That they<small><small>[^7]</small></small> may believe that the <span class="smallcaps">Lord</span> God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.<small><small>[^8]</small></small>
+ $\quad$ <span class="startversemarker">[</span>**[[Exod.4.1|1]]**<span class="endversemarker">]</span> And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The <span class="smallcaps">Lord</span> hath not appeared unto thee.<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[Exod.4.2|2]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto him, What \[is\] that in thine hand? And he said, A rod<small><small>[^3]</small></small>. <span class="startversemarker">[</span>**[[Exod.4.3|3]]**<span class="endversemarker">]</span> And he said, Cast it on the ground. And he cast it on the ground, and it became<small><small>[^4]</small></small> a serpent; and Moses fled from before it. <span class="startversemarker">[</span>**[[Exod.4.4|4]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto Moses, Put forth<small><small>[^5]</small></small> thine hand, and take it by the tail. And he put<small><small>[^6]</small></small> forth his hand, and caught it, and it became a rod in his hand: <span class="startversemarker">[</span>**[[Exod.4.5|5]]**<span class="endversemarker">]</span> That they<small><small>[^7]</small></small> may believe that the <span class="smallcaps">Lord<small><small>[^8]</small></small></span> God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.
 
 ***Moses’ Hand*** ^bsb156
 
@@ -22,7 +22,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.4.10|10]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.4.18|18]]**<span class="endversemarker">]</span> And Moses went and returned to Jethro<small><small>[^29]</small></small> his father in law, and said unto him, Let me go<small><small>[^30]</small></small>, I pray thee, and return unto my brethren which \[are\] in Egypt, and see<small><small>[^31]</small></small> whether they be yet alive. And Jethro said to Moses, Go in peace<small><small>[^32]</small></small>. <span class="startversemarker">[</span>**[[Exod.4.19|19]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto Moses in Midian<small><small>[^33]</small></small>, Go, return into Egypt: for all<small><small>[^34]</small></small> the men are dead which sought thy life. <span class="startversemarker">[</span>**[[Exod.4.20|20]]**<span class="endversemarker">]</span> And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God<small><small>[^35]</small></small> in his hand. <span class="startversemarker">[</span>**[[Exod.4.21|21]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders<small><small>[^36]</small></small> before Pharaoh, which I have put in thine hand: but I will harden<small><small>[^37]</small></small> his heart, that he shall not let the people go. <span class="startversemarker">[</span>**[[Exod.4.22|22]]**<span class="endversemarker">]</span> And thou shalt say unto Pharaoh, Thus saith the <span class="smallcaps">Lord</span>, Israel<small><small>[^38]</small></small> \[is\] my son, \[even\] my firstborn: <span class="startversemarker">[</span>**[[Exod.4.23|23]]**<span class="endversemarker">]</span> And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, \[even\] thy firstborn.<small><small>[^39]</small></small> 
 
-$\quad$ <span class="startversemarker">[</span>**[[Exod.4.24|24]]**<span class="endversemarker">]</span> And it came to pass by the way in the inn<small><small>[^40]</small></small>, that the <span class="smallcaps">Lord</span> met him, and sought<small><small>[^41]</small></small> to kill him.<small><small>[^42]</small></small> <span class="startversemarker">[</span>**[[Exod.4.25|25]]**<span class="endversemarker">]</span> Then Zipporah took a sharp stone<small><small>[^43]</small></small>, and cut off the foreskin of her son, and cast \[it<small><small>[^44]</small></small>\] at his feet, and said, Surely a bloody<small><small>[^45]</small></small> husband \[art\] thou to me. <span class="startversemarker">[</span>**[[Exod.4.26|26]]**<span class="endversemarker">]</span> So he let him go: then she said, A bloody husband \[thou art\], because of the circumcision.
+$\quad$ <span class="startversemarker">[</span>**[[Exod.4.24|24]]**<span class="endversemarker">]</span> And it came to pass by the way in the inn<small><small>[^40]</small></small>, that the <span class="smallcaps">Lord<small><small>[^41]</small></small></span> met him, and sought<small><small>[^42]</small></small> to kill him. <span class="startversemarker">[</span>**[[Exod.4.25|25]]**<span class="endversemarker">]</span> Then Zipporah took a sharp stone<small><small>[^43]</small></small>, and cut off the foreskin of her son, and cast \[it<small><small>[^44]</small></small>\] at his feet, and said, Surely a bloody<small><small>[^45]</small></small> husband \[art\] thou to me. <span class="startversemarker">[</span>**[[Exod.4.26|26]]**<span class="endversemarker">]</span> So he let him go: then she said, A bloody husband \[thou art\], because of the circumcision.
 
 ***The People Believe Moses and Aaron*** ^bsb159
 
@@ -37,17 +37,17 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.4.29|29]]**<span class="
 
 [^2]: [[Exod.4|Exod 4:31]], [[Exod.2|Exod 2:14]], [[Exod.3|Exod 3:18]]; [[Jer.1|Jer 1:6]]; [[Ezek.3|Ezek 3:14]]; [[Acts.7|Acts 7:25]]
 
-[^3]: ***a rod*** [[Exod.4|Exod 4:17]], [[Exod.4|Exod 4:20]]; [[Gen.30|Gen 30:37]]; [[Lev.27|Lev 27:32]]; [[Ps.110|Ps 110:2]]; [[Isa.11|Isa 11:4]]; [[Mic.7|Mic 7:14]]
+[^3]: [[Exod.4|Exod 4:17]], [[Exod.4|Exod 4:20]]; [[Gen.30|Gen 30:37]]; [[Lev.27|Lev 27:32]]; [[Ps.110|Ps 110:2]]; [[Isa.11|Isa 11:4]]; [[Mic.7|Mic 7:14]]
 
 [^4]: [[Exod.4|Exod 4:17]], [[Exod.7|Exod 7:10-15]]; [[Amos.5|Amos 5:19]]
 
 [^5]: [[Gen.22|Gen 22:1-2]]; [[Ps.91|Ps 91:13]]; [[Mark.16|Mark 16:18]]; [[Luke.10|Luke 10:19]]; [[Acts.28|Acts 28:3-6]]
 
-[^6]: ***And he put*** [[John.2|John 2:5]]
+[^6]: [[John.2|John 2:5]]
 
 [^7]: [[Exod.4|Exod 4:1]], [[Exod.3|Exod 3:18]], [[Exod.4|Exod 4:31]], [[Exod.19|Exod 19:9]]; [[2Chr.20|2Chr 20:20]]; [[Isa.7|Isa 7:9]]; [[John.5|John 5:36]], [[John.11|John 11:15]], [[John.11|John 11:42]], [[John.20|John 20:27]], [[John.20|John 20:31]]
 
-[^8]: ***the Lord*** [[Exod.3|Exod 3:15]]; [[Gen.12|Gen 12:7]], [[Gen.17|Gen 17:1]], [[Gen.18|Gen 18:1]], [[Gen.26|Gen 26:2]], [[Gen.48|Gen 48:3]]; [[Jer.31|Jer 31:3]]; [[Acts.7|Acts 7:2]]
+[^8]: [[Exod.3|Exod 3:15]]; [[Gen.12|Gen 12:7]], [[Gen.17|Gen 17:1]], [[Gen.18|Gen 18:1]], [[Gen.26|Gen 26:2]], [[Gen.48|Gen 48:3]]; [[Jer.31|Jer 31:3]]; [[Acts.7|Acts 7:2]]
 
 [^9]: [[Num.12|Num 12:10]]; [[2Kgs.5|2Kgs 5:27]]
 
@@ -113,9 +113,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.4.29|29]]**<span class="
 
 [^40]: [[Gen.42|Gen 42:27]]; The account in this and the two following verses, although rather obscure, seems to imply, that on their way to the land of Egypt, an angel appeared to Moses, and sought to kill his son, on account of his father's non-observance of the Lord's positive command to Abraham, that every man child of the Jewish nation, or born in his house in servitude, should be circumcised on the eighth day; and the Zipporah, at the command of Moses, immediately fulfilled the injunction, and thus averted the wrath of God, denounced against the disobedient: "The uncircumcised man child, whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people." [[Gen.17|Gen 17:14]]
 
-[^41]: [[Gen.17|Gen 17:14]]; [[Lev.10|Lev 10:3]]; [[1Kgs.13|1Kgs 13:24]]
+[^41]: [[Exod.3|Exod 3:18]]; [[Num.22|Num 22:22-23]]; [[1Chr.21|1Chr 21:16]]; [[Hos.13|Hos 13:8]]
 
-[^42]: ***the Lord*** [[Exod.3|Exod 3:18]]; [[Num.22|Num 22:22-23]]; [[1Chr.21|1Chr 21:16]]; [[Hos.13|Hos 13:8]]
+[^42]: [[Gen.17|Gen 17:14]]; [[Lev.10|Lev 10:3]]; [[1Kgs.13|1Kgs 13:24]]
 
 [^43]: or, knife, [[Josh.5|Josh 5:2-3]]
 

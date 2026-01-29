@@ -47,7 +47,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Lev.6.24|24]]**<span class="e
 
 [^11]: [[Lev.5|Lev 5:16]]; [[Exod.22|Exod 22:1]], [[Exod.22|Exod 22:4]], [[Exod.22|Exod 22:7]], [[Exod.22|Exod 22:9]]; [[Num.5|Num 5:7-8]]; [[1Sam.12|1Sam 12:3]]; [[2Sam.12|2Sam 12:6]]; [[Prov.6|Prov 6:30-31]]; [[Isa.58|Isa 58:6]], [[Isa.58|Isa 58:9]]; [[Luke.19|Luke 19:8]]
 
-[^12]: The property itself, if still remaining, or its full value, to which a fifth part more was to be added, to compensate the owner for the loss he had sustained by being deprived of the use of his goods. He must also bring a trespass offering to the Lord; which was intended to show that disobedience to God is the great evil, even of those crimes which are injurious to man, and that repentance, and even restitution, though needful in order to (obtain) forgiveness, cannot atone for sin.
+[^12]: The property itself, if still remaining, or its full value, to which a fifth part more was to be added, to compensate the owner for the loss he had sustained by being deprived of the use of his goods. He must also bring a trespass offering to the Lord; which was intended to shew that disobedience to God is the great evil, even of those crimes which are injurious to man, and that repentance, and even restitution, though needful in order to (obtain) forgiveness, cannot atone for sin.
 
 [^13]: or, of his being found guilty, Heb. of trespass. [[Matt.5|Matt 5:23-24]]
 

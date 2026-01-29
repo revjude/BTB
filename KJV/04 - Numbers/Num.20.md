@@ -27,7 +27,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Num.20.22|22]]**<span class="
 
 [^3]: [[Num.13|Num 13:21]], [[Num.27|Num 27:14]], [[Num.33|Num 33:36]]; [[Deut.32|Deut 32:51]]
 
-[^4]: This Kadesh in the wilderness of Zin, is different from Kadesh-barnea, lying in, or adjoining to the wilderness of Paran, about eight leagues south of Hebron. (See note on [[Num.34|Num 34:3-4]]. [[Josh.15|Josh 15:1]], [[Josh.15|Josh 15:3]].) Kadesh is called Rekam, by the Targumists, Rekem, in the Syriac, and Rakim, in Arabic. Rekem, says Rabbi Nissin (in Gittin, chapter 1) is on the east, meaning of the land of Israel. [[Num.20|Num 20:16]]; [[Ps.29|Ps 29:8]]
+[^4]: This Kadesh in the wilderness of Zin, is different from Kadesh–barnea, lying in, or adjoining to the wilderness of Paran, about eight leagues south of Hebron. (See note on [[Num.34|Num 34:3-4]]. [[Josh.15|Josh 15:1]], [[Josh.15|Josh 15:3]].) Kadesh is called Rekam, by the Targumists, Rekem, in the Syriac, and Rakim, in Arabic. Rekem, says Rabbi Nissin (in Gittin, chapter 1) is on the east, meaning of the land of Israel. [[Num.20|Num 20:16]]; [[Ps.29|Ps 29:8]]
 
 [^5]: [[Num.12|Num 12:1]], [[Num.12|Num 12:10]], [[Num.12|Num 12:15]], [[Num.26|Num 26:59]]; [[Exod.2|Exod 2:4]], [[Exod.2|Exod 2:7]], [[Exod.15|Exod 15:20]]; [[Mic.6|Mic 6:4]]
 
@@ -77,7 +77,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Num.20.22|22]]**<span class="
 
 [^28]: [[Deut.33|Deut 33:8]]; [[Ps.95|Ps 95:8]], [[Ps.106|Ps 106:32-48]]
 
-[^29]: i.e. Strife, [[Exod.17|Exod 17:7]]; [[Deut.32|Deut 32:51]], Meribah-Kadesh
+[^29]: i.e. Strife, [[Exod.17|Exod 17:7]]; [[Deut.32|Deut 32:51]], Meribah–Kadesh
 
 [^30]: [[Isa.5|Isa 5:16]]; [[Ezek.20|Ezek 20:41]], [[Ezek.36|Ezek 36:23]], [[Ezek.38|Ezek 38:16]]
 

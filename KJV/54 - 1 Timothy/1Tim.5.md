@@ -2,7 +2,7 @@
 
 ***Reproof and Respect*** ^bsb2895
 
- $\quad$ <span class="startversemarker">[</span>**[[1Tim.5.1|1]]**<span class="endversemarker">]</span> Rebuke<small><small>[^2]</small></small> not an elder<small><small>[^3]</small></small>, but intreat \[him\] as a father; \[and\] the younger men as brethren<small><small>[^4]</small></small>;<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[1Tim.5.2|2]]**<span class="endversemarker">]</span> The elder<small><small>[^6]</small></small> women as mothers; the younger as sisters, with<small><small>[^7]</small></small> all purity.
+ $\quad$ <span class="startversemarker">[</span>**[[1Tim.5.1|1]]**<span class="endversemarker">]</span> Rebuke<small><small>[^2]</small></small> not an elder<small><small>[^3]</small></small>, but intreat<small><small>[^4]</small></small> \[him\] as a father; \[and\] the younger men as brethren<small><small>[^5]</small></small>; <span class="startversemarker">[</span>**[[1Tim.5.2|2]]**<span class="endversemarker">]</span> The elder<small><small>[^6]</small></small> women as mothers; the younger as sisters, with<small><small>[^7]</small></small> all purity.
 
 ***Honoring True Widows***&emsp;<small><sup>\[ [[Ruth.1|Ruth 1:1–5]] ]</sup></small> ^bsb2896
 
@@ -23,9 +23,9 @@
 
 [^3]: [[1Tim.5|1Tim 5:17]]; [[Acts.14|Acts 14:23]], [[Acts.15|Acts 15:4]], [[Acts.15|Acts 15:6]], [[Acts.20|Acts 20:17]]; [[Titus.1|Titus 1:5-6]]; [[Jas.5|Jas 5:14]]; [[1Pet.5|1Pet 5:1]]; [[2John.1|2John 1:1]]; [[3John.1|3John 1:1]]; [[Rev.4|Rev 4:4]]
 
-[^4]: [[Matt.18|Matt 18:15-17]], [[Matt.23|Matt 23:8]]
+[^4]: [[Rom.13|Rom 13:7]]; [[Gal.6|Gal 6:1]]; [[2Tim.2|2Tim 2:24-25]]; [[Phlm.1|Phlm 1:9-10]]; [[Jas.3|Jas 3:17]]; [[1Pet.5|1Pet 5:5-6]]
 
-[^5]: ***entreat*** [[Rom.13|Rom 13:7]]; [[Gal.6|Gal 6:1]]; [[2Tim.2|2Tim 2:24-25]]; [[Phlm.1|Phlm 1:9-10]]; [[Jas.3|Jas 3:17]]; [[1Pet.5|1Pet 5:5-6]]
+[^5]: [[Matt.18|Matt 18:15-17]], [[Matt.23|Matt 23:8]]
 
 [^6]: [[1Tim.5|1Tim 5:3]]; [[Matt.12|Matt 12:50]]; [[John.19|John 19:26-27]]
 

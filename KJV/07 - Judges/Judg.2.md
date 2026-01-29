@@ -8,7 +8,7 @@
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Judg.2.6|6]]**<span class="endversemarker">]</span> And when Joshua<small><small>[^15]</small></small> had let the people go, the children of Israel went every man unto his inheritance to possess the land. <span class="startversemarker">[</span>**[[Judg.2.7|7]]**<span class="endversemarker">]</span> And the people<small><small>[^16]</small></small> served the <span class="smallcaps">Lord</span> all the days of Joshua, and all the days of the elders that outlived<small><small>[^17]</small></small> Joshua, who had seen all the great works of the <span class="smallcaps">Lord</span>, that he did for Israel. <span class="startversemarker">[</span>**[[Judg.2.8|8]]**<span class="endversemarker">]</span> And Joshua<small><small>[^18]</small></small> the son of Nun, the servant of the <span class="smallcaps">Lord</span>, died, \[being\] an hundred and ten years old. <span class="startversemarker">[</span>**[[Judg.2.9|9]]**<span class="endversemarker">]</span> And they buried him in the border of his inheritance in Timnath–heres, in the mount of Ephraim, on the north side of the hill Gaash.<small><small>[^19]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[Judg.2.6|6]]**<span class="endversemarker">]</span> And when Joshua<small><small>[^15]</small></small> had let the people go, the children of Israel went every man unto his inheritance to possess the land. <span class="startversemarker">[</span>**[[Judg.2.7|7]]**<span class="endversemarker">]</span> And the people<small><small>[^16]</small></small> served the <span class="smallcaps">Lord</span> all the days of Joshua, and all the days of the elders that outlived<small><small>[^17]</small></small> Joshua, who had seen all the great works of the <span class="smallcaps">Lord</span>, that he did for Israel. <span class="startversemarker">[</span>**[[Judg.2.8|8]]**<span class="endversemarker">]</span> And Joshua<small><small>[^18]</small></small> the son of Nun, the servant of the <span class="smallcaps">Lord</span>, died, \[being\] an hundred and ten years old. <span class="startversemarker">[</span>**[[Judg.2.9|9]]**<span class="endversemarker">]</span> And they buried him in the border of his inheritance in Timnath–heres<small><small>[^19]</small></small>, in the mount of Ephraim, on the north side of the hill Gaash.
 
 ***Israel’s Unfaithfulness***&emsp;<small><sup>\[ [[Isa.43|Isaiah 43:22–28]] <big>†</big> [[Jer.2|Jeremiah 2:23–37]] ]</sup></small> ^bsb602
 
@@ -22,7 +22,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.2.14|14]]**<span class="
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Judg.2.16|16]]**<span class="endversemarker">]</span> [¶]Nevertheless the <span class="smallcaps">Lord</span> raised up judges<small><small>[^36]</small></small>, which delivered<small><small>[^37]</small></small> them out of the hand of those that spoiled them.<small><small>[^38]</small></small><small><small>[^39]</small></small> <span class="startversemarker">[</span>**[[Judg.2.17|17]]**<span class="endversemarker">]</span> And yet they would<small><small>[^40]</small></small> not hearken unto their judges, but they went a whoring<small><small>[^41]</small></small> after other gods, and bowed themselves unto them: they turned quickly<small><small>[^42]</small></small> out of the way which their<small><small>[^43]</small></small> fathers walked in, obeying the commandments of the <span class="smallcaps">Lord</span>; \[but\] they did not so. <span class="startversemarker">[</span>**[[Judg.2.18|18]]**<span class="endversemarker">]</span> And when the <span class="smallcaps">Lord</span> raised them up judges, then the <span class="smallcaps">Lord</span> was with the judge, and delivered them out of the hand of their enemies all the days of the judge: for it repented<small><small>[^44]</small></small> the <span class="smallcaps">Lord</span> because of their groanings<small><small>[^45]</small></small> by reason of them that oppressed them and vexed them.<small><small>[^46]</small></small> <span class="startversemarker">[</span>**[[Judg.2.19|19]]**<span class="endversemarker">]</span> And it came to pass, when the<small><small>[^47]</small></small> judge was dead, \[that\] they returned, and corrupted<small><small>[^48]</small></small> \[themselves\] more<small><small>[^49]</small></small> than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from<small><small>[^50]</small></small> their own doings, nor from their stubborn<small><small>[^51]</small></small> way. 
+$\quad$ <span class="startversemarker">[</span>**[[Judg.2.16|16]]**<span class="endversemarker">]</span> [¶]Nevertheless the <span class="smallcaps">Lord<small><small>[^36]</small></small></span> raised up judges<small><small>[^37]</small></small>, which delivered<small><small>[^38]</small></small> them out of the hand of those that spoiled them.<small><small>[^39]</small></small> <span class="startversemarker">[</span>**[[Judg.2.17|17]]**<span class="endversemarker">]</span> And yet they would<small><small>[^40]</small></small> not hearken unto their judges, but they went a whoring<small><small>[^41]</small></small> after other gods, and bowed themselves unto them: they turned quickly<small><small>[^42]</small></small> out of the way which their<small><small>[^43]</small></small> fathers walked in, obeying the commandments of the <span class="smallcaps">Lord</span>; \[but\] they did not so. <span class="startversemarker">[</span>**[[Judg.2.18|18]]**<span class="endversemarker">]</span> And when the <span class="smallcaps">Lord</span> raised them up judges, then the <span class="smallcaps">Lord<small><small>[^44]</small></small></span> was with the judge, and delivered them out of the hand of their enemies all the days of the judge: for it repented<small><small>[^45]</small></small> the <span class="smallcaps">Lord</span> because of their groanings<small><small>[^46]</small></small> by reason of them that oppressed them and vexed them. <span class="startversemarker">[</span>**[[Judg.2.19|19]]**<span class="endversemarker">]</span> And it came to pass, when the<small><small>[^47]</small></small> judge was dead, \[that\] they returned, and corrupted<small><small>[^48]</small></small> \[themselves\] more<small><small>[^49]</small></small> than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from<small><small>[^50]</small></small> their own doings, nor from their stubborn<small><small>[^51]</small></small> way. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Judg.2.20|20]]**<span class="endversemarker">]</span> [¶]And the anger<small><small>[^52]</small></small> of the <span class="smallcaps">Lord</span> was hot against Israel; and he said, Because that this people hath transgressed<small><small>[^53]</small></small> my covenant which I commanded their fathers, and have not hearkened unto my voice; <span class="startversemarker">[</span>**[[Judg.2.21|21]]**<span class="endversemarker">]</span> I also will not henceforth drive out any from before them of the nations which Joshua left when he died:<small><small>[^54]</small></small> <span class="startversemarker">[</span>**[[Judg.2.22|22]]**<span class="endversemarker">]</span> That through<small><small>[^55]</small></small> them I may prove<small><small>[^56]</small></small> Israel, whether they will keep the way of the <span class="smallcaps">Lord</span> to walk therein, as their fathers did keep \[it\], or not. <span class="startversemarker">[</span>**[[Judg.2.23|23]]**<span class="endversemarker">]</span> Therefore the <span class="smallcaps">Lord</span> left<small><small>[^57]</small></small> those nations, without driving them out hastily; neither delivered he them into the hand of Joshua. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1|<< Judges 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3|Judges 3 >>]]</td></tr></table>
 
@@ -63,7 +63,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.2.20|20]]**<span class="
 
 [^18]: [[Josh.24|Josh 24:29-30]]
 
-[^19]: ***Timnathheres*** This was his own inheritance; and Eusebius says it was celebrated in his time for the tomb of Joshua. [[Josh.19|Josh 19:50]], [[Josh.24|Josh 24:30]], Timnath-serah
+[^19]: This was his own inheritance; and Eusebius says it was celebrated in his time for the tomb of Joshua. [[Josh.19|Josh 19:50]], [[Josh.24|Josh 24:30]], Timnath–serah
 
 [^20]: [[Exod.5|Exod 5:2]]; [[1Sam.2|1Sam 2:12]]; [[1Chr.28|1Chr 28:9]]; [[Job.21|Job 21:14]]; [[Ps.92|Ps 92:5-6]]; [[Isa.5|Isa 5:12]]; [[Jer.9|Jer 9:3]]; [[Jer.22|Jer 22:16]], [[Jer.31|Jer 31:34]]; [[Gal.4|Gal 4:8-9]]; [[2Thess.1|2Thess 1:8]]; [[Titus.1|Titus 1:16]]
 
@@ -71,7 +71,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.2.20|20]]**<span class="
 
 [^22]: [[Judg.4|Judg 4:1]], [[Judg.6|Judg 6:1]], [[Judg.13|Judg 13:1]]; [[Gen.13|Gen 13:13]], [[Gen.38|Gen 38:7]]; [[2Chr.33|2Chr 33:2]], [[2Chr.33|2Chr 33:6]]; [[Ezra.8|Ezra 8:12]]
 
-[^23]: ***Baalim***, or lords, seems to have been the common appellation of the Syrian gods; whence we have Baal-peor, Baal-zebub, etc. [[Judg.3|Judg 3:7]], [[Judg.10|Judg 10:6]], [[Judg.10|Judg 10:10]]; [[1Sam.7|1Sam 7:4]]; [[1Kgs.18|1Kgs 18:18]]; [[2Chr.28|2Chr 28:2]], [[2Chr.33|2Chr 33:3]]; [[Jer.2|Jer 2:23]], [[Jer.9|Jer 9:14]]; [[Hos.2|Hos 2:13-17]]
+[^23]: ***Baalim***, or lords, seems to have been the common appellation of the Syrian gods; whence we have Baal–peor, Baal–zebub, etc. [[Judg.3|Judg 3:7]], [[Judg.10|Judg 10:6]], [[Judg.10|Judg 10:10]]; [[1Sam.7|1Sam 7:4]]; [[1Kgs.18|1Kgs 18:18]]; [[2Chr.28|2Chr 28:2]], [[2Chr.33|2Chr 33:3]]; [[Jer.2|Jer 2:23]], [[Jer.9|Jer 9:14]]; [[Hos.2|Hos 2:13-17]]
 
 [^24]: [[Deut.13|Deut 13:5]], [[Deut.29|Deut 29:18]], [[Deut.29|Deut 29:25]], [[Deut.31|Deut 31:16-17]], [[Deut.32|Deut 32:15]], [[Deut.33|Deut 33:17]]
 
@@ -97,13 +97,13 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.2.20|20]]**<span class="
 
 [^35]: [[Judg.10|Judg 10:9]]; [[1Sam.13|1Sam 13:6]], [[1Sam.14|1Sam 14:24]], [[1Sam.30|1Sam 30:6]]; [[2Cor.4|2Cor 4:8]]
 
-[^36]: The ***shophetim*** were not judges in the usual sense of the term; but were heads or chiefs of the Israelites, raised up on extraordinary occasions, who directed and ruled the nation with sovereign power, administered justice, made peace or war, and led the armies over whom they presided. Officers with the same power, and nearly the same name, were established in New Tyre, after the termination of the regal state; and the Carthaginian Suffetes, the Athenian Archons, and the Roman Dictators, appear to have been nearly the same.
+[^36]: [[Judg.3|Judg 3:9-10]], [[Judg.3|Judg 3:15]], [[Judg.4|Judg 4:5]], [[Judg.6|Judg 6:14]]; [[1Sam.12|1Sam 12:11]]; [[Acts.13|Acts 13:20]]
 
-[^37]: Heb. saved, [[Neh.9|Neh 9:27]]; [[Ps.106|Ps 106:43-45]]
+[^37]: The ***shophetim*** were not judges in the usual sense of the term; but were heads or chiefs of the Israelites, raised up on extraordinary occasions, who directed and ruled the nation with sovereign power, administered justice, made peace or war, and led the armies over whom they presided. Officers with the same power, and nearly the same name, were established in New Tyre, after the termination of the regal state; and the Carthaginian Suffetes, the Athenian Archons, and the Roman Dictators, appear to have been nearly the same.
 
-[^38]: am 2591-2909, bc 1413-1095
+[^38]: Heb. saved, [[Neh.9|Neh 9:27]]; [[Ps.106|Ps 106:43-45]]
 
-[^39]: ***the Lord*** [[Judg.3|Judg 3:9-10]], [[Judg.3|Judg 3:15]], [[Judg.4|Judg 4:5]], [[Judg.6|Judg 6:14]]; [[1Sam.12|1Sam 12:11]]; [[Acts.13|Acts 13:20]]
+[^39]: am 2591-2909, bc 1413-1095
 
 [^40]: [[1Sam.8|1Sam 8:5-8]], [[1Sam.12|1Sam 12:12]], [[1Sam.12|1Sam 12:17]], [[1Sam.12|1Sam 12:19]]; [[2Chr.36|2Chr 36:15-16]]; [[Ps.106|Ps 106:43]]
 
@@ -113,11 +113,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.2.20|20]]**<span class="
 
 [^43]: [[Judg.2|Judg 2:7]]; [[Josh.24|Josh 24:24]], [[Josh.24|Josh 24:31]]
 
-[^44]: [[Judg.10|Judg 10:16]]; [[Gen.6|Gen 6:6]]; [[Deut.32|Deut 32:36]]; [[Ps.90|Ps 90:13]], [[Ps.106|Ps 106:44-45]]; [[Jer.18|Jer 18:7-10]]; [[Hos.11|Hos 11:8]]; [[Jonah.3|Jonah 3:10]]
+[^44]: [[Exod.3|Exod 3:12]]; [[Josh.1|Josh 1:5]]; [[Acts.18|Acts 18:9-10]]
 
-[^45]: [[Exod.2|Exod 2:24]]; [[2Kgs.13|2Kgs 13:4]], [[2Kgs.13|2Kgs 13:22-23]]; [[Ps.12|Ps 12:5]]
+[^45]: [[Judg.10|Judg 10:16]]; [[Gen.6|Gen 6:6]]; [[Deut.32|Deut 32:36]]; [[Ps.90|Ps 90:13]], [[Ps.106|Ps 106:44-45]]; [[Jer.18|Jer 18:7-10]]; [[Hos.11|Hos 11:8]]; [[Jonah.3|Jonah 3:10]]
 
-[^46]: ***then the Lord*** [[Exod.3|Exod 3:12]]; [[Josh.1|Josh 1:5]]; [[Acts.18|Acts 18:9-10]]
+[^46]: [[Exod.2|Exod 2:24]]; [[2Kgs.13|2Kgs 13:4]], [[2Kgs.13|2Kgs 13:22-23]]; [[Ps.12|Ps 12:5]]
 
 [^47]: [[Judg.2|Judg 2:7]], [[Judg.3|Judg 3:11-12]], [[Judg.4|Judg 4:1]], [[Judg.8|Judg 8:33]]; [[Josh.24|Josh 24:31]]; [[2Chr.24|2Chr 24:17-18]]
 

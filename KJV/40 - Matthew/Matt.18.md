@@ -18,7 +18,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Matt.18.7|7]]**<span class="e
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Matt.18.15|15]]**<span class="endversemarker">]</span> <span style="color:red;">Moreover if<small><small>[^37]</small></small> thy brother shall trespass against thee, go<small><small>[^38]</small></small> and tell him his fault between thee and him alone: if he shall hear thee, thou hast<small><small>[^39]</small></small> gained thy brother.</span> <span class="startversemarker">[</span>**[[Matt.18.16|16]]**<span class="endversemarker">]</span> <span style="color:red;">But if he will not hear \[thee\], \[then\] take with thee one or two more, that in<small><small>[^40]</small></small> the mouth of two or three witnesses every word may be established.</span> <span class="startversemarker">[</span>**[[Matt.18.17|17]]**<span class="endversemarker">]</span> <span style="color:red;">And if he shall neglect to hear them, tell<small><small>[^41]</small></small> \[it\] unto the church: but if he neglect to hear the church, let<small><small>[^42]</small></small> him be unto thee as an heathen man and a publican<small><small>[^43]</small></small>.</span><small><small>[^44]</small></small> <span class="startversemarker">[</span>**[[Matt.18.18|18]]**<span class="endversemarker">]</span> <span style="color:red;">Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.</span><small><small>[^45]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[Matt.18.15|15]]**<span class="endversemarker">]</span> <span style="color:red;">Moreover if<small><small>[^37]</small></small> thy brother shall trespass against thee, go<small><small>[^38]</small></small> and tell him his fault between thee and him alone: if he shall hear thee, thou hast<small><small>[^39]</small></small> gained thy brother.</span> <span class="startversemarker">[</span>**[[Matt.18.16|16]]**<span class="endversemarker">]</span> <span style="color:red;">But if he will not hear \[thee\], \[then\] take with thee one or two more, that in<small><small>[^40]</small></small> the mouth of two or three witnesses every word may be established.</span> <span class="startversemarker">[</span>**[[Matt.18.17|17]]**<span class="endversemarker">]</span> <span style="color:red;">And if he shall neglect to hear them, tell<small><small>[^41]</small></small> \[it\] unto the church: but if he neglect to hear the church, let<small><small>[^42]</small></small> him be unto thee as an heathen<small><small>[^43]</small></small> man and a publican<small><small>[^44]</small></small>.</span> <span class="startversemarker">[</span>**[[Matt.18.18|18]]**<span class="endversemarker">]</span> <span style="color:red;">Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.</span><small><small>[^45]</small></small>
 
 ***Ask in My Name***&emsp;<small><sup>\[ [[John.16|John 16:23–33]] ]</sup></small> ^bsb2193
 
@@ -117,9 +117,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Matt.18.23|23]]**<span class=
 
 [^42]: [[Rom.16|Rom 16:17-18]]; [[1Cor.5|1Cor 5:3-5]], [[1Cor.5|1Cor 5:9-13]]; [[2Thess.3|2Thess 3:6]], [[2Thess.3|2Thess 3:14-15]]; [[1Tim.6|1Tim 6:5]]; [[2John.1|2John 1:10-11]]
 
-[^43]: [[Matt.5|Matt 5:46]], [[Matt.11|Matt 11:19]], [[Matt.21|Matt 21:31-32]]; [[Luke.15|Luke 15:1]], [[Luke.18|Luke 18:11]], [[Luke.19|Luke 19:2-3]]
+[^43]: [[Matt.6|Matt 6:7]]; [[Ezra.6|Ezra 6:21]]; [[Ezek.11|Ezek 11:12]]; [[2Cor.6|2Cor 6:14-17]]; [[Eph.4|Eph 4:17-19]], [[Eph.5|Eph 5:11-12]]
 
-[^44]: ***a heathen*** [[Matt.6|Matt 6:7]]; [[Ezra.6|Ezra 6:21]]; [[Ezek.11|Ezek 11:12]]; [[2Cor.6|2Cor 6:14-17]]; [[Eph.4|Eph 4:17-19]], [[Eph.5|Eph 5:11-12]]
+[^44]: [[Matt.5|Matt 5:46]], [[Matt.11|Matt 11:19]], [[Matt.21|Matt 21:31-32]]; [[Luke.15|Luke 15:1]], [[Luke.18|Luke 18:11]], [[Luke.19|Luke 19:2-3]]
 
 [^45]: [[Matt.16|Matt 16:19]]; [[John.20|John 20:23]]; [[Acts.15|Acts 15:23-31]]; [[1Cor.5|1Cor 5:4-5]]; [[2Cor.2|2Cor 2:10]]; [[Rev.3|Rev 3:7-8]]
 

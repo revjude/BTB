@@ -2,7 +2,7 @@
 
 ***The River of Life*** ^bsb3084
 
- $\quad$ <span class="startversemarker">[</span>**[[Rev.22.1|1]]**<span class="endversemarker">]</span> And he shewed me a pure river of water<small><small>[^2]</small></small> of life, clear<small><small>[^3]</small></small> as crystal, proceeding<small><small>[^4]</small></small> out of the throne of God and of the Lamb.<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[Rev.22.2|2]]**<span class="endversemarker">]</span> In the midst<small><small>[^6]</small></small> of the street of it, and on either side of the river, \[was there\] the tree of life<small><small>[^7]</small></small>, which bare twelve \[manner of\] fruits, \[and\] yielded her fruit every month: and the leaves of the tree \[were\] for the healing<small><small>[^8]</small></small> of the nations. <span class="startversemarker">[</span>**[[Rev.22.3|3]]**<span class="endversemarker">]</span> And there<small><small>[^9]</small></small> shall be no more curse: but<small><small>[^10]</small></small> the throne of God and of the Lamb shall be in it; and his<small><small>[^11]</small></small> servants shall serve him: <span class="startversemarker">[</span>**[[Rev.22.4|4]]**<span class="endversemarker">]</span> And they<small><small>[^12]</small></small> shall see his face; and his<small><small>[^13]</small></small> name \[shall be\] in their foreheads. <span class="startversemarker">[</span>**[[Rev.22.5|5]]**<span class="endversemarker">]</span> And there shall be no night<small><small>[^14]</small></small> there; and they<small><small>[^15]</small></small> need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
+ $\quad$ <span class="startversemarker">[</span>**[[Rev.22.1|1]]**<span class="endversemarker">]</span> And he shewed me a pure<small><small>[^2]</small></small> river of water<small><small>[^3]</small></small> of life, clear<small><small>[^4]</small></small> as crystal, proceeding<small><small>[^5]</small></small> out of the throne of God and of the Lamb. <span class="startversemarker">[</span>**[[Rev.22.2|2]]**<span class="endversemarker">]</span> In the midst<small><small>[^6]</small></small> of the street of it, and on either side of the river, \[was there\] the tree of life<small><small>[^7]</small></small>, which bare twelve \[manner of\] fruits, \[and\] yielded her fruit every month: and the leaves of the tree \[were\] for the healing<small><small>[^8]</small></small> of the nations. <span class="startversemarker">[</span>**[[Rev.22.3|3]]**<span class="endversemarker">]</span> And there<small><small>[^9]</small></small> shall be no more curse: but<small><small>[^10]</small></small> the throne of God and of the Lamb shall be in it; and his<small><small>[^11]</small></small> servants shall serve him: <span class="startversemarker">[</span>**[[Rev.22.4|4]]**<span class="endversemarker">]</span> And they<small><small>[^12]</small></small> shall see his face; and his<small><small>[^13]</small></small> name \[shall be\] in their foreheads. <span class="startversemarker">[</span>**[[Rev.22.5|5]]**<span class="endversemarker">]</span> And there shall be no night<small><small>[^14]</small></small> there; and they<small><small>[^15]</small></small> need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
 
 ***Jesus Is Coming*** ^bsb3085
 
@@ -15,13 +15,13 @@
 
 [^1]:  [[Rev.22|Rev 22:1]], The river of the water of life; [[Rev.22|Rev 22:2]], The tree of life; [[Rev.22|Rev 22:5]], The light of the city of God is himself; [[Rev.22|Rev 22:9]], The angel will not be worshipped; [[Rev.22|Rev 22:18]], Nothing may be added to the word of God, nor taken therefrom.
 
-[^2]: [[Rev.7|Rev 7:17]], [[Rev.21|Rev 21:6]]; [[Ps.36|Ps 36:9]]; [[Jer.2|Jer 2:13]], [[Jer.17|Jer 17:13]]; [[John.4|John 4:10-11]], [[John.4|John 4:14]]
+[^2]: [[Ps.36|Ps 36:8]], [[Ps.46|Ps 46:4]]; [[Isa.41|Isa 41:18]], [[Isa.48|Isa 48:18]], [[Isa.66|Isa 66:12]]; [[Ezek.47|Ezek 47:1-9]]; [[Zech.14|Zech 14:8]]; [[John.7|John 7:38-39]]
 
-[^3]: [[Rev.21|Rev 21:11]]
+[^3]: [[Rev.7|Rev 7:17]], [[Rev.21|Rev 21:6]]; [[Ps.36|Ps 36:9]]; [[Jer.2|Jer 2:13]], [[Jer.17|Jer 17:13]]; [[John.4|John 4:10-11]], [[John.4|John 4:14]]
 
-[^4]: [[Rev.3|Rev 3:21]], [[Rev.4|Rev 4:5]], [[Rev.5|Rev 5:6]], [[Rev.5|Rev 5:13]], [[Rev.7|Rev 7:10-11]], [[Rev.7|Rev 7:17]]; [[John.14|John 14:16-18]], [[John.15|John 15:26]], [[John.16|John 16:7-15]]; [[Acts.1|Acts 1:4-5]], [[Acts.2|Acts 2:33]]
+[^4]: [[Rev.21|Rev 21:11]]
 
-[^5]: ***A pure*** [[Ps.36|Ps 36:8]], [[Ps.46|Ps 46:4]]; [[Isa.41|Isa 41:18]], [[Isa.48|Isa 48:18]], [[Isa.66|Isa 66:12]]; [[Ezek.47|Ezek 47:1-9]]; [[Zech.14|Zech 14:8]]; [[John.7|John 7:38-39]]
+[^5]: [[Rev.3|Rev 3:21]], [[Rev.4|Rev 4:5]], [[Rev.5|Rev 5:6]], [[Rev.5|Rev 5:13]], [[Rev.7|Rev 7:10-11]], [[Rev.7|Rev 7:17]]; [[John.14|John 14:16-18]], [[John.15|John 15:26]], [[John.16|John 16:7-15]]; [[Acts.1|Acts 1:4-5]], [[Acts.2|Acts 2:33]]
 
 [^6]: [[Rev.22|Rev 22:1]], [[Rev.21|Rev 21:21]]; [[Ezek.47|Ezek 47:1]], [[Ezek.47|Ezek 47:12]]
 

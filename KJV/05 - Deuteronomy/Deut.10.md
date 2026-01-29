@@ -6,7 +6,7 @@
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.10.6|6]]**<span class="endversemarker">]</span> [¶]And the children of Israel took<small><small>[^16]</small></small> their journey from Beeroth of the children of Jaakan to Mosera<small><small>[^17]</small></small>: there Aaron<small><small>[^18]</small></small> died, and there he was buried; and Eleazar his son ministered in the priest’s office in his stead. <span class="startversemarker">[</span>**[[Deut.10.7|7]]**<span class="endversemarker">]</span> From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters. 
 
-$\quad$ <span class="startversemarker">[</span>**[[Deut.10.8|8]]**<span class="endversemarker">]</span> [¶]At that time the <span class="smallcaps">Lord</span> separated the tribe of Levi, to bear<small><small>[^19]</small></small> the ark of the covenant of the <span class="smallcaps">Lord</span>, to stand<small><small>[^20]</small></small> before the <span class="smallcaps">Lord</span> to minister unto him, and to bless<small><small>[^21]</small></small> in his name, unto this day.<small><small>[^22]</small></small> <span class="startversemarker">[</span>**[[Deut.10.9|9]]**<span class="endversemarker">]</span> Wherefore Levi hath no part nor inheritance with his brethren; the <span class="smallcaps">Lord</span> \[is\] his inheritance, according as the <span class="smallcaps">Lord</span> thy God promised him.<small><small>[^23]</small></small> <span class="startversemarker">[</span>**[[Deut.10.10|10]]**<span class="endversemarker">]</span> And I stayed<small><small>[^24]</small></small> in the mount, according to the first time<small><small>[^25]</small></small>, forty days and forty nights; and the <span class="smallcaps">Lord</span> hearkened unto me at that time also, \[and\] the <span class="smallcaps">Lord</span> would not destroy thee.<small><small>[^26]</small></small> <span class="startversemarker">[</span>**[[Deut.10.11|11]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto me, Arise<small><small>[^27]</small></small>, take \[thy<small><small>[^28]</small></small>\] journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.
+$\quad$ <span class="startversemarker">[</span>**[[Deut.10.8|8]]**<span class="endversemarker">]</span> [¶]At that time the <span class="smallcaps">Lord<small><small>[^19]</small></small></span> separated the tribe of Levi, to bear<small><small>[^20]</small></small> the ark of the covenant of the <span class="smallcaps">Lord</span>, to stand<small><small>[^21]</small></small> before the <span class="smallcaps">Lord</span> to minister unto him, and to bless<small><small>[^22]</small></small> in his name, unto this day. <span class="startversemarker">[</span>**[[Deut.10.9|9]]**<span class="endversemarker">]</span> Wherefore Levi hath no part nor inheritance with his brethren; the <span class="smallcaps">Lord</span> \[is\] his inheritance, according as the <span class="smallcaps">Lord</span> thy God promised him.<small><small>[^23]</small></small> <span class="startversemarker">[</span>**[[Deut.10.10|10]]**<span class="endversemarker">]</span> And I stayed<small><small>[^24]</small></small> in the mount, according to the first time<small><small>[^25]</small></small>, forty days and forty nights; and the <span class="smallcaps">Lord</span> hearkened<small><small>[^26]</small></small> unto me at that time also, \[and\] the <span class="smallcaps">Lord</span> would not destroy thee. <span class="startversemarker">[</span>**[[Deut.10.11|11]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto me, Arise<small><small>[^27]</small></small>, take \[thy<small><small>[^28]</small></small>\] journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.
 
 ***A Call to Obedience***&emsp;<small><sup>\[ [[Josh.24|Joshua 24:14–28]] ]</sup></small> ^bsb482
 
@@ -47,17 +47,17 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.10.12|12]]**<span class=
 
 [^16]: [[Num.10|Num 10:6]], [[Num.10|Num 10:12-13]], [[Num.33|Num 33:1-2]]
 
-[^17]: [[Num.33|Num 33:30-33]], Moseroth, Hor-ha-gid-gad, Jotbathah
+[^17]: [[Num.33|Num 33:30-33]], Moseroth, Hor–hagidgad, Jotbathah
 
 [^18]: [[Num.20|Num 20:23-28]], [[Num.33|Num 33:38]]
 
-[^19]: [[Num.3|Num 3:31]], [[Num.4|Num 4:15]]; [[1Kgs.8|1Kgs 8:3-4]], [[1Kgs.8|1Kgs 8:6]]; [[1Chr.15|1Chr 15:12-15]], [[1Chr.15|1Chr 15:26]], [[1Chr.23|1Chr 23:26]]; [[2Chr.5|2Chr 5:4-5]]
+[^19]: [[Exod.29|Exod 29:1-37]]; [[Lev.8|Lev 8:9]]; [[Num.1|Num 1:47-53]], 3:1-4:49, [[Num.8|Num 8:1-26]], [[Num.16|Num 16:9-10]], [[Num.18|Num 18:1-32]]; [[John.15|John 15:16]]; [[Acts.13|Acts 13:2]]; [[Rom.1|Rom 1:1]]; [[2Cor.6|2Cor 6:17]]; [[Gal.1|Gal 1:15]]
 
-[^20]: [[Deut.18|Deut 18:5]]; [[2Chr.29|2Chr 29:11]]; [[Ps.134|Ps 134:2]], [[Ps.135|Ps 135:2]]; [[Jer.15|Jer 15:19]]; [[Ezek.44|Ezek 44:11]], [[Ezek.44|Ezek 44:15]]; [[Rom.12|Rom 12:7]]
+[^20]: [[Num.3|Num 3:31]], [[Num.4|Num 4:15]]; [[1Kgs.8|1Kgs 8:3-4]], [[1Kgs.8|1Kgs 8:6]]; [[1Chr.15|1Chr 15:12-15]], [[1Chr.15|1Chr 15:26]], [[1Chr.23|1Chr 23:26]]; [[2Chr.5|2Chr 5:4-5]]
 
-[^21]: [[Deut.21|Deut 21:5]]; [[Lev.9|Lev 9:22]]; [[Num.6|Num 6:23-26]]; [[2Chr.30|2Chr 30:27]]
+[^21]: [[Deut.18|Deut 18:5]]; [[2Chr.29|2Chr 29:11]]; [[Ps.134|Ps 134:2]], [[Ps.135|Ps 135:2]]; [[Jer.15|Jer 15:19]]; [[Ezek.44|Ezek 44:11]], [[Ezek.44|Ezek 44:15]]; [[Rom.12|Rom 12:7]]
 
-[^22]: ***time the Lord*** [[Exod.29|Exod 29:1-37]]; [[Lev.8|Lev 8:9]]; [[Num.1|Num 1:47-53]], 3:1-4:49, [[Num.8|Num 8:1-26]], [[Num.16|Num 16:9-10]], [[Num.18|Num 18:1-32]]; [[John.15|John 15:16]]; [[Acts.13|Acts 13:2]]; [[Rom.1|Rom 1:1]]; [[2Cor.6|2Cor 6:17]]; [[Gal.1|Gal 1:15]]
+[^22]: [[Deut.21|Deut 21:5]]; [[Lev.9|Lev 9:22]]; [[Num.6|Num 6:23-26]]; [[2Chr.30|2Chr 30:27]]
 
 [^23]: [[Deut.18|Deut 18:1-2]]; [[Num.18|Num 18:20-24]], [[Num.26|Num 26:62]]; [[Josh.14|Josh 14:3]]; [[Ezek.44|Ezek 44:28]]
 
@@ -65,7 +65,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.10.12|12]]**<span class=
 
 [^25]: or, former days
 
-[^26]: ***the Lord hearkened*** [[Deut.3|Deut 3:23-27]], [[Deut.9|Deut 9:19]]; [[Exod.32|Exod 32:14]], [[Exod.32|Exod 32:33-34]], [[Exod.33|Exod 33:17]]; [[Matt.27|Matt 27:42]]
+[^26]: [[Deut.3|Deut 3:23-27]], [[Deut.9|Deut 9:19]]; [[Exod.32|Exod 32:14]], [[Exod.32|Exod 32:33-34]], [[Exod.33|Exod 33:17]]; [[Matt.27|Matt 27:42]]
 
 [^27]: [[Exod.32|Exod 32:34]], [[Exod.33|Exod 33:1]]
 

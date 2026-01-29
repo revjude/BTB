@@ -16,10 +16,10 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.10.8|8]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.10.11|11]]**<span class="endversemarker">]</span> [¶]And when<small><small>[^26]</small></small> all Jabesh–gilead heard all that the Philistines had done to Saul, <span class="startversemarker">[</span>**[[1Chr.10.12|12]]**<span class="endversemarker">]</span> They arose, all the valiant men, and took away the body of Saul, and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak<small><small>[^27]</small></small> in Jabesh, and fasted<small><small>[^28]</small></small> seven days. 
 
-$\quad$ <span class="startversemarker">[</span>**[[1Chr.10.13|13]]**<span class="endversemarker">]</span> [¶]So Saul died for his transgression which he committed<small><small>[^29]</small></small> against the <span class="smallcaps">Lord</span>, \[even\] against<small><small>[^30]</small></small> the word of the <span class="smallcaps">Lord</span>, which he kept not, and also for asking<small><small>[^31]</small></small> \[counsel\] of \[one that had\] a familiar<small><small>[^32]</small></small> spirit, to enquire \[of it\]; <span class="startversemarker">[</span>**[[1Chr.10.14|14]]**<span class="endversemarker">]</span> And enquired not of the <span class="smallcaps">Lord</span>: therefore he slew<small><small>[^33]</small></small> him, and turned<small><small>[^34]</small></small> the kingdom unto David the son of Jesse<small><small>[^35]</small></small>. <small><small>[^36]</small></small><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9|<< 1 Chronicles 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11|1 Chronicles 11 >>]]</td></tr></table>
+$\quad$ <span class="startversemarker">[</span>**[[1Chr.10.13|13]]**<span class="endversemarker">]</span> [¶]So Saul died for his transgression which he committed<small><small>[^29]</small></small> against the <span class="smallcaps">Lord</span>, \[even\] against<small><small>[^30]</small></small> the word of the <span class="smallcaps">Lord</span>, which he kept not, and also for asking<small><small>[^31]</small></small> \[counsel\] of \[one that had\] a familiar<small><small>[^32]</small></small> spirit, to enquire \[of it\]; <span class="startversemarker">[</span>**[[1Chr.10.14|14]]**<span class="endversemarker">]</span> And enquired<small><small>[^33]</small></small> not of the <span class="smallcaps">Lord</span>: therefore he slew<small><small>[^34]</small></small> him, and turned<small><small>[^35]</small></small> the kingdom unto David the son of Jesse<small><small>[^36]</small></small>. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9|<< 1 Chronicles 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11|1 Chronicles 11 >>]]</td></tr></table>
 
 
-[^1]:  [[1Chr.10|1Chr 10:1]], Saul’s overthrow and death; [[1Chr.10|1Chr 10:8]], The Philistines triumph over Saul; [[1Chr.10|1Chr 10:11]], The kindness of Jabesh-gilead towards Saul and his sons; [[1Chr.10|1Chr 10:13]], Saul’s sin, for which the kingdom was translated from him to David.
+[^1]:  [[1Chr.10|1Chr 10:1]], Saul’s overthrow and death; [[1Chr.10|1Chr 10:8]], The Philistines triumph over Saul; [[1Chr.10|1Chr 10:11]], The kindness of Jabesh–gilead towards Saul and his sons; [[1Chr.10|1Chr 10:13]], Saul’s sin, for which the kingdom was translated from him to David.
 
 [^2]: [[1Sam.28|1Sam 28:1]], [[1Sam.29|1Sam 29:1-2]], [[1Sam.31|1Sam 31:1]], [[1Sam.31|1Sam 31:2-13]]
 
@@ -55,7 +55,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.10.13|13]]**<span class=
 
 [^18]: [[1Sam.4|1Sam 4:10-11]], [[1Sam.4|1Sam 4:18]], [[1Sam.12|1Sam 12:25]]; [[Eccl.9|Eccl 9:1-2]]; [[Hos.13|Hos 13:10-11]]
 
-[^19]: "All his men," in Samuel; that is, all who were present with him in the battle; and his family received such a blow, that it never recovered itself again. For though Ishbosheth reigned over a part of the country, yet it was not in any splendour. This history seems to be repeated here as an introduction to that of the kingdom of David.
+[^19]: "All his men," in Samuel; that is, all who were present with him in the battle; and his family received such a blow, that it never recovered itself again. For though Ish–bosheth reigned over a part of the country, yet it was not in any splendour. This history seems to be repeated here as an introduction to that of the kingdom of David.
 
 [^20]: [[Lev.26|Lev 26:31]], [[Lev.26|Lev 26:36]]; [[Deut.28|Deut 28:33]], [[Deut.28|Deut 28:43]]; [[Judg.6|Judg 6:2]]; [[1Sam.13|1Sam 13:6]], [[1Sam.31|1Sam 31:7]]
 
@@ -83,10 +83,10 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.10.13|13]]**<span class=
 
 [^32]: [[Exod.22|Exod 22:18]]; [[Lev.19|Lev 19:31]], [[Lev.20|Lev 20:6]]; [[Deut.18|Deut 18:10-14]]; [[2Kgs.21|2Kgs 21:6]]; [[Isa.8|Isa 8:19]]; [[Acts.8|Acts 8:9-11]], [[Acts.16|Acts 16:16-18]]
 
-[^33]: [[Prov.17|Prov 17:13]]; [[Isa.10|Isa 10:7]], [[Isa.10|Isa 10:15]]
+[^33]: [[Judg.10|Judg 10:11-16]]; [[1Sam.28|1Sam 28:6]]; [[Ezek.14|Ezek 14:3-6]]
 
-[^34]: [[1Sam.13|1Sam 13:14]], [[1Sam.15|1Sam 15:28]], [[1Sam.16|1Sam 16:1]], [[1Sam.16|1Sam 16:11-13]], [[1Sam.28|1Sam 28:17]]; [[2Sam.3|2Sam 3:9-10]], [[2Sam.5|2Sam 5:3]]
+[^34]: [[Prov.17|Prov 17:13]]; [[Isa.10|Isa 10:7]], [[Isa.10|Isa 10:15]]
 
-[^35]: Heb. Isai
+[^35]: [[1Sam.13|1Sam 13:14]], [[1Sam.15|1Sam 15:28]], [[1Sam.16|1Sam 16:1]], [[1Sam.16|1Sam 16:11-13]], [[1Sam.28|1Sam 28:17]]; [[2Sam.3|2Sam 3:9-10]], [[2Sam.5|2Sam 5:3]]
 
-[^36]: ***inquired*** [[Judg.10|Judg 10:11-16]]; [[1Sam.28|1Sam 28:6]]; [[Ezek.14|Ezek 14:3-6]]
+[^36]: Heb. Isai

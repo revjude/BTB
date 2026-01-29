@@ -14,7 +14,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezra.7.11|11]]**<span class="
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Ezra.7.27|27]]**<span class="endversemarker">]</span> Blessed<small><small>[^68]</small></small> \[be\] the <span class="smallcaps">Lord</span> God of our fathers, which hath put \[such<small><small>[^69]</small></small> a thing\] as this in the king’s heart, to beautify<small><small>[^70]</small></small> the house of the <span class="smallcaps">Lord</span> which \[is\] in Jerusalem:<small><small>[^71]</small></small> <span class="startversemarker">[</span>**[[Ezra.7.28|28]]**<span class="endversemarker">]</span> And hath extended<small><small>[^72]</small></small> mercy unto me before the king, and his counsellors<small><small>[^73]</small></small>, and before all the king’s mighty princes. And I was strengthened<small><small>[^74]</small></small> as the hand<small><small>[^75]</small></small> of the <span class="smallcaps">Lord</span> my God \[was\] upon me, and I gathered together out of Israel chief men to go up with me. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6|<< Ezra 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8|Ezra 8 >>]]</td></tr></table>
+$\quad$ <span class="startversemarker">[</span>**[[Ezra.7.27|27]]**<span class="endversemarker">]</span> Blessed<small><small>[^68]</small></small> \[be\] the <span class="smallcaps">Lord</span> God of our fathers, which hath put \[such<small><small>[^69]</small></small> a thing\] as this in the king’s heart<small><small>[^70]</small></small>, to beautify<small><small>[^71]</small></small> the house of the <span class="smallcaps">Lord</span> which \[is\] in Jerusalem: <span class="startversemarker">[</span>**[[Ezra.7.28|28]]**<span class="endversemarker">]</span> And hath extended<small><small>[^72]</small></small> mercy unto me before the king, and his counsellors<small><small>[^73]</small></small>, and before all the king’s mighty princes. And I was strengthened<small><small>[^74]</small></small> as the hand<small><small>[^75]</small></small> of the <span class="smallcaps">Lord</span> my God \[was\] upon me, and I gathered together out of Israel chief men to go up with me. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6|<< Ezra 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8|Ezra 8 >>]]</td></tr></table>
 
 
 [^1]:  [[Ezra.7|Ezra 7:1]], Ezra goes up to Jerusalem; [[Ezra.7|Ezra 7:11]], The gracious commission of Artaxerxes to Ezra; [[Ezra.7|Ezra 7:27]], Ezra blesses God for this favour.
@@ -151,13 +151,13 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezra.7.27|27]]**<span class="
 
 [^67]: Chal, rooting out, [[Ps.52|Ps 52:5]]
 
-[^68]: There is a most amiable spirit of piety in these reflections. Instead of expatiating on the praises of his munificent patron, or boasting of his own services, he blesses God for "putting such a thing in the king's heart;" and for all the assistance and favour shown him by the king and his counsellors. [[Ezra.6|Ezra 6:22]]; [[1Chr.29|1Chr 29:10-30]]; [[Phil.4|Phil 4:10]]
+[^68]: There is a most amiable spirit of piety in these reflections. Instead of expatiating on the praises of his munificent patron, or boasting of his own services, he blesses God for "putting such a thing in the king's heart;" and for all the assistance and favour shewn him by the king and his counsellors. [[Ezra.6|Ezra 6:22]]; [[1Chr.29|1Chr 29:10-30]]; [[Phil.4|Phil 4:10]]
 
 [^69]: [[Ezra.6|Ezra 6:22]]; [[Neh.2|Neh 2:12]], [[Neh.7|Neh 7:5]]; [[2Cor.8|2Cor 8:16]]; [[Heb.8|Heb 8:10]], [[Heb.10|Heb 10:16]]; [[Jas.1|Jas 1:17]]; [[Rev.17|Rev 17:17]]
 
-[^70]: [[Isa.60|Isa 60:13]]
+[^70]: [[Neh.2|Neh 2:8]]; [[Prov.21|Prov 21:1]]
 
-[^71]: ***in the king's heart*** [[Neh.2|Neh 2:8]]; [[Prov.21|Prov 21:1]]
+[^71]: [[Isa.60|Isa 60:13]]
 
 [^72]: [[Ezra.9|Ezra 9:9]]; [[Gen.32|Gen 32:28]], [[Gen.43|Gen 43:14]]; [[Neh.1|Neh 1:11]]
 

@@ -22,7 +22,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.21.12|12]]**<span class=
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[2Chr.21.16|16]]**<span class="endversemarker">]</span> [¶]Moreover the <span class="smallcaps">Lord</span> stirred up against Jehoram the spirit of the Philistines<small><small>[^44]</small></small>, and of the Arabians, that \[were\] near the Ethiopians:<small><small>[^45]</small></small><small><small>[^46]</small></small> <span class="startversemarker">[</span>**[[2Chr.21.17|17]]**<span class="endversemarker">]</span> And they came up into Judah, and brake into it, and carried away<small><small>[^47]</small></small> all the substance that was found in the king’s house, and his sons also<small><small>[^48]</small></small>, and his wives; so that there was never a son left him, save Jehoahaz<small><small>[^49]</small></small>, the youngest of his sons. 
+$\quad$ <span class="startversemarker">[</span>**[[2Chr.21.16|16]]**<span class="endversemarker">]</span> [¶]Moreover the <span class="smallcaps">Lord<small><small>[^44]</small></small></span> stirred up against Jehoram the spirit of the Philistines<small><small>[^45]</small></small>, and of the Arabians, that \[were\] near the Ethiopians:<small><small>[^46]</small></small> <span class="startversemarker">[</span>**[[2Chr.21.17|17]]**<span class="endversemarker">]</span> And they came up into Judah, and brake into it, and carried away<small><small>[^47]</small></small> all the substance that was found in the king’s house, and his sons also<small><small>[^48]</small></small>, and his wives; so that there was never a son left him, save Jehoahaz<small><small>[^49]</small></small>, the youngest of his sons. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Chr.21.18|18]]**<span class="endversemarker">]</span> [¶]And after all<small><small>[^50]</small></small> this the <span class="smallcaps">Lord</span> smote him in his bowels with an incurable disease<small><small>[^51]</small></small>.<small><small>[^52]</small></small> <span class="startversemarker">[</span>**[[2Chr.21.19|19]]**<span class="endversemarker">]</span> And it came to pass, that in process of time, after the end of two years, his bowels fell out by reason of his sickness: so he died of sore diseases. And his people made no<small><small>[^53]</small></small> burning for him, like the burning of his fathers. <span class="startversemarker">[</span>**[[2Chr.21.20|20]]**<span class="endversemarker">]</span> Thirty and two<small><small>[^54]</small></small> years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired<small><small>[^55]</small></small>. Howbeit they buried him in the city of David, but not in the sepulchres of the kings. <small><small>[^56]</small></small><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20|<< 2 Chronicles 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22|2 Chronicles 22 >>]]</td></tr></table>
 
@@ -113,11 +113,11 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.21.18|18]]**<span class=
 
 [^43]: [[2Chr.21|2Chr 21:18]]; [[Deut.28|Deut 28:27]], [[Deut.28|Deut 28:37]], [[Deut.28|Deut 28:59]], [[Deut.28|Deut 28:67]]
 
-[^44]: [[2Chr.17|2Chr 17:11]]
+[^44]: [[2Chr.33|2Chr 33:11]]; [[1Sam.26|1Sam 26:19]]; [[2Sam.24|2Sam 24:1]]; [[1Kgs.11|1Kgs 11:11]], [[1Kgs.11|1Kgs 11:14]], [[1Kgs.11|1Kgs 11:23]]; [[Ezra.1|Ezra 1:1]], [[Ezra.1|Ezra 1:5]]; [[Isa.10|Isa 10:5-6]]; [[Isa.45|Isa 45:5-7]]; [[Amos.3|Amos 3:6]]
 
-[^45]: am 3117, bc 887
+[^45]: [[2Chr.17|2Chr 17:11]]
 
-[^46]: ***the Lord*** [[2Chr.33|2Chr 33:11]]; [[1Sam.26|1Sam 26:19]]; [[2Sam.24|2Sam 24:1]]; [[1Kgs.11|1Kgs 11:11]], [[1Kgs.11|1Kgs 11:14]], [[1Kgs.11|1Kgs 11:23]]; [[Ezra.1|Ezra 1:1]], [[Ezra.1|Ezra 1:5]]; [[Isa.10|Isa 10:5-6]]; [[Isa.45|Isa 45:5-7]]; [[Amos.3|Amos 3:6]]
+[^46]: am 3117, bc 887
 
 [^47]: Heb. carried captive, [[Job.5|Job 5:3-4]]
 

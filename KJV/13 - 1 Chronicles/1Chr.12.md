@@ -103,7 +103,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.12.23|23]]**<span class=
 
 [^46]: or, captains, or men, Heb. heads
 
-[^47]: Some learned men understand this as relating to the time when David was make king over Judah, on his first coming to Hebron, but it seems wholly to refer to his being made king over all Israel, after the death of Ishbosheth; for there was no such union or assembly of the several tribes on the former occasion, as is here described.
+[^47]: Some learned men understand this as relating to the time when David was make king over Judah, on his first coming to Hebron, but it seems wholly to refer to his being made king over all Israel, after the death of Ish–bosheth; for there was no such union or assembly of the several tribes on the former occasion, as is here described.
 
 [^48]: [[1Chr.10|1Chr 10:14]]
 

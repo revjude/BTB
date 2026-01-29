@@ -10,13 +10,13 @@
 
 $\quad$ <span class="startversemarker">[</span>**[[Num.21.4|4]]**<span class="endversemarker">]</span> And they journeyed from mount Hor<small><small>[^10]</small></small> by the way<small><small>[^11]</small></small> of the Red sea, to compass<small><small>[^12]</small></small> the land of Edom: and the soul<small><small>[^13]</small></small> of the people was much discouraged<small><small>[^14]</small></small> because of the way. <span class="startversemarker">[</span>**[[Num.21.5|5]]**<span class="endversemarker">]</span> And the people spake<small><small>[^15]</small></small> against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for \[there is\] no bread, neither \[is there any\] water; and our soul<small><small>[^16]</small></small> loatheth this light bread. <span class="startversemarker">[</span>**[[Num.21.6|6]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> sent fiery serpents among the people, and they bit the people; and much people of Israel died.<small><small>[^17]</small></small> 
 
-$\quad$ <span class="startversemarker">[</span>**[[Num.21.7|7]]**<span class="endversemarker">]</span> [¶]Therefore the people came to Moses, and said, We have<small><small>[^18]</small></small> sinned, for we have spoken against the <span class="smallcaps">Lord</span>, and against thee; pray<small><small>[^19]</small></small> unto the <span class="smallcaps">Lord</span>, that he take away the serpents from us. And Moses<small><small>[^20]</small></small> prayed for the people. <span class="startversemarker">[</span>**[[Num.21.8|8]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.<small><small>[^21]</small></small> <span class="startversemarker">[</span>**[[Num.21.9|9]]**<span class="endversemarker">]</span> And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he<small><small>[^22]</small></small> beheld the serpent of brass, he lived<small><small>[^23]</small></small>.<small><small>[^24]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[Num.21.7|7]]**<span class="endversemarker">]</span> [¶]Therefore the people came to Moses, and said, We have<small><small>[^18]</small></small> sinned, for we have spoken against the <span class="smallcaps">Lord</span>, and against thee; pray<small><small>[^19]</small></small> unto the <span class="smallcaps">Lord</span>, that he take away the serpents from us. And Moses<small><small>[^20]</small></small> prayed for the people. <span class="startversemarker">[</span>**[[Num.21.8|8]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.<small><small>[^21]</small></small> <span class="startversemarker">[</span>**[[Num.21.9|9]]**<span class="endversemarker">]</span> And Moses made a serpent of<small><small>[^22]</small></small> brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he<small><small>[^23]</small></small> beheld the serpent of brass, he lived<small><small>[^24]</small></small>.
 
 ***The Journey to Moab*** ^bsb403
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Num.21.10|10]]**<span class="endversemarker">]</span> And the children of Israel set forward, and pitched in Oboth.<small><small>[^25]</small></small> <span class="startversemarker">[</span>**[[Num.21.11|11]]**<span class="endversemarker">]</span> And they journeyed from Oboth<small><small>[^26]</small></small>, and pitched at Ije–abarim, in the wilderness which \[is\] before Moab, toward the sunrising.<small><small>[^27]</small></small> 
+$\quad$ <span class="startversemarker">[</span>**[[Num.21.10|10]]**<span class="endversemarker">]</span> And the children of Israel set forward, and pitched in Oboth.<small><small>[^25]</small></small> <span class="startversemarker">[</span>**[[Num.21.11|11]]**<span class="endversemarker">]</span> And they journeyed from Oboth<small><small>[^26]</small></small>, and pitched at Ije–abarim<small><small>[^27]</small></small>, in the wilderness which \[is\] before Moab, toward the sunrising. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Num.21.12|12]]**<span class="endversemarker">]</span> [¶]From thence they removed, and pitched in the valley of Zared<small><small>[^28]</small></small>. <span class="startversemarker">[</span>**[[Num.21.13|13]]**<span class="endversemarker">]</span> From thence they removed, and pitched on the other side of Arnon, which \[is\] in the wilderness that cometh out of the coasts of the Amorites: for Arnon \[is\] the border of Moab, between Moab and the Amorites.<small><small>[^29]</small></small> <span class="startversemarker">[</span>**[[Num.21.14|14]]**<span class="endversemarker">]</span> Wherefore it is said in the book<small><small>[^30]</small></small> of the wars of the <span class="smallcaps">Lord</span>, What he did<small><small>[^31]</small></small> in the Red sea, and in the brooks of Arnon, <span class="startversemarker">[</span>**[[Num.21.15|15]]**<span class="endversemarker">]</span> And at the stream of the brooks that goeth down to the dwelling of Ar<small><small>[^32]</small></small>, and lieth<small><small>[^33]</small></small> upon the border of Moab. <span class="startversemarker">[</span>**[[Num.21.16|16]]**<span class="endversemarker">]</span> And from thence \[they went\] to Beer<small><small>[^34]</small></small>: that \[is\] the well whereof the <span class="smallcaps">Lord</span> spake unto Moses, Gather<small><small>[^35]</small></small> the people together, and I will give them water. 
 
@@ -79,17 +79,17 @@ $\quad$ <span class="startversemarker">[</span>**[[Num.21.33|33]]**<span class="
 
 [^21]: [[Ps.106|Ps 106:43-45]], [[Ps.145|Ps 145:8]]
 
-[^22]: [[Isa.45|Isa 45:22]]; [[Zech.12|Zech 12:10]]; [[John.1|John 1:29]]; [[Heb.12|Heb 12:2]]; [[1John.3|1John 3:8]]
+[^22]: [[2Kgs.18|2Kgs 18:4]]; [[John.3|John 3:14-15]], [[John.12|John 12:32]]; [[Rom.8|Rom 8:3]]; [[2Cor.5|2Cor 5:21]]
 
-[^23]: [[John.6|John 6:40]]; [[Rom.1|Rom 1:17]], [[Rom.5|Rom 5:20-21]]
+[^23]: [[Isa.45|Isa 45:22]]; [[Zech.12|Zech 12:10]]; [[John.1|John 1:29]]; [[Heb.12|Heb 12:2]]; [[1John.3|1John 3:8]]
 
-[^24]: ***A serpent of*** [[2Kgs.18|2Kgs 18:4]]; [[John.3|John 3:14-15]], [[John.12|John 12:32]]; [[Rom.8|Rom 8:3]]; [[2Cor.5|2Cor 5:21]]
+[^24]: [[John.6|John 6:40]]; [[Rom.1|Rom 1:17]], [[Rom.5|Rom 5:20-21]]
 
 [^25]: [[Num.33|Num 33:43-45]]
 
 [^26]: Probably Oboda, a city of Arabia Petrea, mentioned by Ptolemy. Pliny assigns it to the Helmodians; but Stephanus to the Nabatheans.
 
-[^27]: ***Ijeabarim*** or, heaps of Abarim, [[Num.21|Num 21:11]]
+[^27]: or, heaps of Abarim, [[Num.21|Num 21:11]]
 
 [^28]: [[Deut.2|Deut 2:13-14]], the brook Zered
 

@@ -8,13 +8,13 @@
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Num.24.10|10]]**<span class="endversemarker">]</span> And Balak’s anger was kindled against Balaam, and he smote<small><small>[^27]</small></small> his hands together: and Balak said unto Balaam, I called<small><small>[^28]</small></small> thee to curse mine enemies, and, behold, thou hast altogether blessed \[them\] these three times. <span class="startversemarker">[</span>**[[Num.24.11|11]]**<span class="endversemarker">]</span> Therefore now flee thou to thy place: I thought<small><small>[^29]</small></small> to promote thee unto great honour; but, lo, the <span class="smallcaps">Lord</span> hath kept thee back from honour.<small><small>[^30]</small></small> <span class="startversemarker">[</span>**[[Num.24.12|12]]**<span class="endversemarker">]</span> And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,<small><small>[^31]</small></small> <span class="startversemarker">[</span>**[[Num.24.13|13]]**<span class="endversemarker">]</span> If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the <span class="smallcaps">Lord</span>, to do \[either\] good or bad of mine own mind; \[but\] what the <span class="smallcaps">Lord</span> saith, that will I speak? <span class="startversemarker">[</span>**[[Num.24.14|14]]**<span class="endversemarker">]</span> And now, behold, I go unto my people: come \[therefore\], \[and\] I will advertise<small><small>[^32]</small></small> thee what this people shall do to thy people in the latter<small><small>[^33]</small></small> days.
+$\quad$ <span class="startversemarker">[</span>**[[Num.24.10|10]]**<span class="endversemarker">]</span> And Balak’s anger was kindled against Balaam, and he smote<small><small>[^27]</small></small> his hands together: and Balak said unto Balaam, I called<small><small>[^28]</small></small> thee to curse mine enemies, and, behold, thou hast altogether blessed \[them\] these three times. <span class="startversemarker">[</span>**[[Num.24.11|11]]**<span class="endversemarker">]</span> Therefore now flee thou to thy place: I thought<small><small>[^29]</small></small> to promote thee unto great honour; but, lo, the <span class="smallcaps">Lord<small><small>[^30]</small></small></span> hath kept thee back from honour. <span class="startversemarker">[</span>**[[Num.24.12|12]]**<span class="endversemarker">]</span> And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,<small><small>[^31]</small></small> <span class="startversemarker">[</span>**[[Num.24.13|13]]**<span class="endversemarker">]</span> If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the <span class="smallcaps">Lord</span>, to do \[either\] good or bad of mine own mind; \[but\] what the <span class="smallcaps">Lord</span> saith, that will I speak? <span class="startversemarker">[</span>**[[Num.24.14|14]]**<span class="endversemarker">]</span> And now, behold, I go unto my people: come \[therefore\], \[and\] I will advertise<small><small>[^32]</small></small> thee what this people shall do to thy people in the latter<small><small>[^33]</small></small> days.
 
 ***Balaam’s Fourth Oracle*** ^bsb412
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Num.24.15|15]]**<span class="endversemarker">]</span> And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:<small><small>[^34]</small></small> <span class="startversemarker">[</span>**[[Num.24.16|16]]**<span class="endversemarker">]</span> He hath said, which heard the words of God, and knew the knowledge of the most High, \[which\] saw the vision of the Almighty, falling \[into a trance\], but having his eyes open:<small><small>[^35]</small></small> <span class="startversemarker">[</span>**[[Num.24.17|17]]**<span class="endversemarker">]</span> I shall see him<small><small>[^36]</small></small>, but not now: I shall behold him, but not nigh: there shall come a Star<small><small>[^37]</small></small> out of Jacob, and a Sceptre<small><small>[^38]</small></small> shall rise out of Israel, and shall smite the corners of Moab<small><small>[^39]</small></small>, and destroy all the children<small><small>[^40]</small></small> of Sheth<small><small>[^41]</small></small>.<small><small>[^42]</small></small> <span class="startversemarker">[</span>**[[Num.24.18|18]]**<span class="endversemarker">]</span> And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.<small><small>[^43]</small></small> <span class="startversemarker">[</span>**[[Num.24.19|19]]**<span class="endversemarker">]</span> Out of Jacob shall come he that shall have dominion, and shall destroy<small><small>[^44]</small></small> him that remaineth of the city.<small><small>[^45]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[Num.24.15|15]]**<span class="endversemarker">]</span> And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:<small><small>[^34]</small></small> <span class="startversemarker">[</span>**[[Num.24.16|16]]**<span class="endversemarker">]</span> He hath said, which heard the words of God, and knew the knowledge of the most High, \[which\] saw the vision of the Almighty, falling \[into a trance\], but having his eyes open:<small><small>[^35]</small></small> <span class="startversemarker">[</span>**[[Num.24.17|17]]**<span class="endversemarker">]</span> I shall see him<small><small>[^36]</small></small>, but not now: I shall behold him, but not nigh: there shall come a Star<small><small>[^37]</small></small> out of Jacob, and a Sceptre<small><small>[^38]</small></small> shall rise out of Israel, and shall smite the corners of Moab<small><small>[^39]</small></small><small><small>[^40]</small></small>, and destroy all the children<small><small>[^41]</small></small> of Sheth<small><small>[^42]</small></small>. <span class="startversemarker">[</span>**[[Num.24.18|18]]**<span class="endversemarker">]</span> And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.<small><small>[^43]</small></small> <span class="startversemarker">[</span>**[[Num.24.19|19]]**<span class="endversemarker">]</span> Out of Jacob<small><small>[^44]</small></small> shall come he that shall have dominion, and shall destroy<small><small>[^45]</small></small> him that remaineth of the city.
 
 ***Balaam’s Final Three Oracles*** ^bsb413
 
@@ -81,7 +81,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Num.24.20|20]]**<span class="
 
 [^29]: [[Num.22|Num 22:17]], [[Num.22|Num 22:37]]
 
-[^30]: ***the Lord*** [[Matt.19|Matt 19:28-30]]; [[Acts.8|Acts 8:20]]; [[Phil.3|Phil 3:8]]; [[Heb.11|Heb 11:24-26]]; [[1Pet.5|1Pet 5:2-3]]; [[2John.1|2John 1:8]]
+[^30]: [[Matt.19|Matt 19:28-30]]; [[Acts.8|Acts 8:20]]; [[Phil.3|Phil 3:8]]; [[Heb.11|Heb 11:24-26]]; [[1Pet.5|1Pet 5:2-3]]; [[2John.1|2John 1:8]]
 
 [^31]: [[Num.22|Num 22:18]], [[Num.22|Num 22:38]]
 
@@ -101,17 +101,17 @@ $\quad$ <span class="startversemarker">[</span>**[[Num.24.20|20]]**<span class="
 
 [^39]: or, smite through the princes of Moab, [[1Sam.14|1Sam 14:38]] *marg. [[Zech.10|Zech 10:4]]
 
-[^40]: [[Gen.4|Gen 4:25-26]], [[Gen.5|Gen 5:3-29]]
+[^40]: [[2Sam.8|2Sam 8:2]]; [[2Kgs.3|2Kgs 3:5]], [[2Kgs.3|2Kgs 3:26-27]]; [[1Chr.18|1Chr 18:2]]; [[Jer.48|Jer 48:45]]
 
-[^41]: [[Ps.72|Ps 72:8-11]]; [[Rev.11|Rev 11:15]]
+[^41]: [[Gen.4|Gen 4:25-26]], [[Gen.5|Gen 5:3-29]]
 
-[^42]: ***Moab*** [[2Sam.8|2Sam 8:2]]; [[2Kgs.3|2Kgs 3:5]], [[2Kgs.3|2Kgs 3:26-27]]; [[1Chr.18|1Chr 18:2]]; [[Jer.48|Jer 48:45]]
+[^42]: [[Ps.72|Ps 72:8-11]]; [[Rev.11|Rev 11:15]]
 
 [^43]: [[Gen.27|Gen 27:29]], [[Gen.27|Gen 27:40]]; [[2Sam.8|2Sam 8:14]]; [[Ps.60|Ps 60:1]] *title [[Ps.60|Ps 60:8-12]]; [[Isa.34|Isa 34:5]], [[Isa.63|Isa 63:1]]; [[Amos.9|Amos 9:12]]
 
-[^44]: [[Ps.21|Ps 21:7-10]]; [[Matt.25|Matt 25:46]]; [[Luke.19|Luke 19:12]], [[Luke.19|Luke 19:27]]
+[^44]: [[Gen.49|Gen 49:10]]; [[Ps.2|Ps 2:1-12]], [[Ps.72|Ps 72:10-11]]; [[Isa.11|Isa 11:10]]; [[Mic.5|Mic 5:2]], [[Mic.5|Mic 5:4]]; [[Matt.28|Matt 28:18]]; [[1Cor.15|1Cor 15:25]]; [[Eph.1|Eph 1:20-22]]; [[Phil.2|Phil 2:10-11]]; [[Heb.1|Heb 1:8]]; [[1Pet.3|1Pet 3:22]]; [[Rev.19|Rev 19:16]]
 
-[^45]: ***Of Jacob*** [[Gen.49|Gen 49:10]]; [[Ps.2|Ps 2:1-12]], [[Ps.72|Ps 72:10-11]]; [[Isa.11|Isa 11:10]]; [[Mic.5|Mic 5:2]], [[Mic.5|Mic 5:4]]; [[Matt.28|Matt 28:18]]; [[1Cor.15|1Cor 15:25]]; [[Eph.1|Eph 1:20-22]]; [[Phil.2|Phil 2:10-11]]; [[Heb.1|Heb 1:8]]; [[1Pet.3|1Pet 3:22]]; [[Rev.19|Rev 19:16]]
+[^45]: [[Ps.21|Ps 21:7-10]]; [[Matt.25|Matt 25:46]]; [[Luke.19|Luke 19:12]], [[Luke.19|Luke 19:27]]
 
 [^46]: or, the first of the nations that warred against Israel, [[Exod.17|Exod 17:8]], [[Exod.17|Exod 17:16]]
 

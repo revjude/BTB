@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Eccl.12.8|8]]**<span class="e
 
 ***The Whole Duty of Man*** ^bsb1535
 
- <span class="startversemarker">[</span>**[[Eccl.12.9|9]]**<span class="endversemarker">]</span> And moreover, because the preacher was wise, he still<small><small>[^17]</small></small> taught the people knowledge; yea, he gave<small><small>[^18]</small></small> good heed, and sought out, \[and\] set in order many proverbs.<small><small>[^19]</small></small> <span class="startversemarker">[</span>**[[Eccl.12.10|10]]**<span class="endversemarker">]</span> The preacher sought to find out acceptable words<small><small>[^20]</small></small>: and \[that which was\] written<small><small>[^21]</small></small> \[was\] upright, \[even\] words of truth.<small><small>[^22]</small></small> <span class="startversemarker">[</span>**[[Eccl.12.11|11]]**<span class="endversemarker">]</span> The words of the wise \[are\] as goads<small><small>[^23]</small></small>, and as nails fastened \[by\] the masters<small><small>[^24]</small></small> of assemblies, \[which\] are given<small><small>[^25]</small></small> from one shepherd. <span class="startversemarker">[</span>**[[Eccl.12.12|12]]**<span class="endversemarker">]</span> And further, by these<small><small>[^26]</small></small>, my son, be admonished: of making many books \[there is\] no end; and much study<small><small>[^27]</small></small> \[is\] a weariness<small><small>[^28]</small></small> of the flesh. 
+ <span class="startversemarker">[</span>**[[Eccl.12.9|9]]**<span class="endversemarker">]</span> And moreover, because the preacher was wise<small><small>[^17]</small></small>, he still<small><small>[^18]</small></small> taught the people knowledge; yea, he gave<small><small>[^19]</small></small> good heed, and sought out, \[and\] set in order many proverbs. <span class="startversemarker">[</span>**[[Eccl.12.10|10]]**<span class="endversemarker">]</span> The preacher<small><small>[^20]</small></small> sought to find out acceptable words<small><small>[^21]</small></small>: and \[that which was\] written<small><small>[^22]</small></small> \[was\] upright, \[even\] words of truth. <span class="startversemarker">[</span>**[[Eccl.12.11|11]]**<span class="endversemarker">]</span> The words of the wise \[are\] as goads<small><small>[^23]</small></small>, and as nails fastened \[by\] the masters<small><small>[^24]</small></small> of assemblies, \[which\] are given<small><small>[^25]</small></small> from one shepherd. <span class="startversemarker">[</span>**[[Eccl.12.12|12]]**<span class="endversemarker">]</span> And further, by these<small><small>[^26]</small></small>, my son, be admonished: of making many books \[there is\] no end; and much study<small><small>[^27]</small></small> \[is\] a weariness<small><small>[^28]</small></small> of the flesh. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Eccl.12.13|13]]**<span class="endversemarker">]</span> Let us hear the conclusion of the whole matter<small><small>[^29]</small></small>: Fear<small><small>[^30]</small></small> God, and keep his commandments: for<small><small>[^31]</small></small> this \[is\] the whole \[duty\] of man. <span class="startversemarker">[</span>**[[Eccl.12.14|14]]**<span class="endversemarker">]</span> For God shall bring every work into judgment, with every secret thing, whether \[it be\] good, or whether \[it be\] evil.  <div canonical="true" eID="gen708" osisID="Eccl" type="book"/><small><small>[^32]</small></small><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11|<< Ecclesiastes 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1|Song of Solomon 1 >>]]</td></tr></table>
 
@@ -45,17 +45,17 @@ $\quad$ <span class="startversemarker">[</span>**[[Eccl.12.13|13]]**<span class=
 
 [^16]: [[Eccl.1|Eccl 1:2]], [[Eccl.1|Eccl 1:14]], [[Eccl.2|Eccl 2:17]], [[Eccl.4|Eccl 4:4]], [[Eccl.6|Eccl 6:12]], [[Eccl.8|Eccl 8:8]]; [[Ps.62|Ps 62:9]]
 
-[^17]: [[1Kgs.8|1Kgs 8:12-21]], [[1Kgs.10|1Kgs 10:8]]
+[^17]: or, the more wise the Preacher was, etc
 
-[^18]: [[1Kgs.4|1Kgs 4:32]]; [[Prov.1|Prov 1:1]], [[Prov.10|Prov 10:1]], [[Prov.25|Prov 25:1]]
+[^18]: [[1Kgs.8|1Kgs 8:12-21]], [[1Kgs.10|1Kgs 10:8]]
 
-[^19]: ***moreover, because the Preacher was wise*** or, the more wise the Preacher was, etc
+[^19]: [[1Kgs.4|1Kgs 4:32]]; [[Prov.1|Prov 1:1]], [[Prov.10|Prov 10:1]], [[Prov.25|Prov 25:1]]
 
-[^20]: Heb. words of delight, [[Prov.15|Prov 15:23]], [[Prov.15|Prov 15:26]], [[Prov.16|Prov 16:21-24]], [[Prov.25|Prov 25:11-12]]; [[1Tim.1|1Tim 1:15]]
+[^20]: [[Eccl.1|Eccl 1:1]], [[Eccl.1|Eccl 1:12]]
 
-[^21]: [[Prov.1|Prov 1:1-6]], [[Prov.8|Prov 8:6-10]], [[Prov.22|Prov 22:17-21]]; [[Luke.1|Luke 1:1-4]]; [[John.3|John 3:11]]; [[Col.1|Col 1:5]]
+[^21]: Heb. words of delight, [[Prov.15|Prov 15:23]], [[Prov.15|Prov 15:26]], [[Prov.16|Prov 16:21-24]], [[Prov.25|Prov 25:11-12]]; [[1Tim.1|1Tim 1:15]]
 
-[^22]: ***Preacher*** [[Eccl.1|Eccl 1:1]], [[Eccl.1|Eccl 1:12]]
+[^22]: [[Prov.1|Prov 1:1-6]], [[Prov.8|Prov 8:6-10]], [[Prov.22|Prov 22:17-21]]; [[Luke.1|Luke 1:1-4]]; [[John.3|John 3:11]]; [[Col.1|Col 1:5]]
 
 [^23]: [[Jer.23|Jer 23:29]]; [[Matt.3|Matt 3:7]]; [[Acts.2|Acts 2:37]]; [[2Cor.10|2Cor 10:4]]; [[Heb.4|Heb 4:12]]
 

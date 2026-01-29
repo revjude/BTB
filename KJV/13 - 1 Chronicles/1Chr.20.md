@@ -47,7 +47,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.20.4|4]]**<span class="e
 
 [^18]: am 2986, bc 1018, An, Ex, Is, 473
 
-[^19]: [[2Sam.21|2Sam 21:19]], Jaare-oregim
+[^19]: [[2Sam.21|2Sam 21:19]], Jaare–oregim
 
 [^20]: [[1Sam.17|1Sam 17:4]], [[1Sam.21|1Sam 21:9]], [[1Sam.22|1Sam 22:10]]; [[2Sam.21|2Sam 21:19]]
 

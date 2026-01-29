@@ -6,7 +6,7 @@
 
 ***Jesus Calls Levi***&emsp;<small><sup>\[ [[Matt.9|Matthew 9:9–13]] <big>†</big> [[Luke.5|Luke 5:27–32]] ]</sup></small> ^bsb2255
 
- <span class="startversemarker">[</span>**[[Mark.2.13|13]]**<span class="endversemarker">]</span> And he went forth again by<small><small>[^24]</small></small> the sea side; and all<small><small>[^25]</small></small> the multitude resorted unto him, and he taught them. <span class="startversemarker">[</span>**[[Mark.2.14|14]]**<span class="endversemarker">]</span> And as he passed by, he saw<small><small>[^26]</small></small> Levi the \[son\] of Alpheus sitting at the receipt of custom<small><small>[^27]</small></small>, and said unto him, <span style="color:red;">Follow me<small><small>[^28]</small></small>.</span> And he arose and followed him.<small><small>[^29]</small></small> <span class="startversemarker">[</span>**[[Mark.2.15|15]]**<span class="endversemarker">]</span> And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him.<small><small>[^30]</small></small> <span class="startversemarker">[</span>**[[Mark.2.16|16]]**<span class="endversemarker">]</span> And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How<small><small>[^31]</small></small> is it that he eateth and drinketh with publicans<small><small>[^32]</small></small> and sinners? <span class="startversemarker">[</span>**[[Mark.2.17|17]]**<span class="endversemarker">]</span> When Jesus heard \[it\], he saith unto them, <span style="color:red;">They that are whole<small><small>[^33]</small></small> have no need of the physician, but they that are sick: I came<small><small>[^34]</small></small> not to call the righteous, but sinners to repentance.</span>
+ <span class="startversemarker">[</span>**[[Mark.2.13|13]]**<span class="endversemarker">]</span> And he went forth again by<small><small>[^24]</small></small> the sea side; and all<small><small>[^25]</small></small> the multitude resorted unto him, and he taught them. <span class="startversemarker">[</span>**[[Mark.2.14|14]]**<span class="endversemarker">]</span> And as he passed by, he saw<small><small>[^26]</small></small> Levi the \[son\] of Alpheus<small><small>[^27]</small></small> sitting at the receipt of custom<small><small>[^28]</small></small>, and said unto him, <span style="color:red;">Follow me<small><small>[^29]</small></small>.</span> And he arose and followed him. <span class="startversemarker">[</span>**[[Mark.2.15|15]]**<span class="endversemarker">]</span> And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him.<small><small>[^30]</small></small> <span class="startversemarker">[</span>**[[Mark.2.16|16]]**<span class="endversemarker">]</span> And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How<small><small>[^31]</small></small> is it that he eateth and drinketh with publicans<small><small>[^32]</small></small> and sinners? <span class="startversemarker">[</span>**[[Mark.2.17|17]]**<span class="endversemarker">]</span> When Jesus heard \[it\], he saith unto them, <span style="color:red;">They that are whole<small><small>[^33]</small></small> have no need of the physician, but they that are sick: I came<small><small>[^34]</small></small> not to call the righteous, but sinners to repentance.</span>
 
 ***Questions about Fasting***&emsp;<small><sup>\[ [[Matt.9|Matthew 9:14–15]] <big>†</big> [[Luke.5|Luke 5:33–35]] ]</sup></small> ^bsb2256
 
@@ -73,11 +73,11 @@
 
 [^26]: [[Mark.3|Mark 3:18]]; [[Matt.9|Matt 9:9]]; [[Luke.5|Luke 5:27]]
 
-[^27]: or, place where the custom was received
+[^27]: [[Mark.3|Mark 3:18]]; [[Luke.6|Luke 6:15]]; [[Acts.1|Acts 1:13]]
 
-[^28]: [[Mark.1|Mark 1:17-20]]; [[Matt.4|Matt 4:19-22]]
+[^28]: or, place where the custom was received
 
-[^29]: ***Alphaeus*** [[Mark.3|Mark 3:18]]; [[Luke.6|Luke 6:15]]; [[Acts.1|Acts 1:13]]
+[^29]: [[Mark.1|Mark 1:17-20]]; [[Matt.4|Matt 4:19-22]]
 
 [^30]: [[Matt.9|Matt 9:10-11]], [[Matt.21|Matt 21:31-32]]; [[Luke.5|Luke 5:29-30]], [[Luke.6|Luke 6:17]], [[Luke.15|Luke 15:1]]
 

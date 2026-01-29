@@ -2,7 +2,7 @@
 
 ***The Beginning of Knowledge***&emsp;<small><sup>\[ [[Prov.9|Proverbs 9:1–12]] ]</sup></small> ^bsb1444
 
- $\quad$ <span class="startversemarker">[</span>**[[Prov.1.1|1]]**<span class="endversemarker">]</span> The proverbs<small><small>[^3]</small></small> of Solomon<small><small>[^4]</small></small> the son of David, king of Israel; <span class="startversemarker">[</span>**[[Prov.1.2|2]]**<span class="endversemarker">]</span> To know wisdom and instruction; to perceive the words of understanding;<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[Prov.1.3|3]]**<span class="endversemarker">]</span> To receive<small><small>[^6]</small></small> the instruction of wisdom, justice, and judgment, and equity<small><small>[^7]</small></small>; <span class="startversemarker">[</span>**[[Prov.1.4|4]]**<span class="endversemarker">]</span> To give subtilty to the<small><small>[^8]</small></small> simple, to the young man knowledge and discretion<small><small>[^9]</small></small>.<small><small>[^10]</small></small> <span class="startversemarker">[</span>**[[Prov.1.5|5]]**<span class="endversemarker">]</span> A wise<small><small>[^11]</small></small> \[man\] will hear, and will increase learning; and a man<small><small>[^12]</small></small> of understanding shall attain unto wise counsels: <span class="startversemarker">[</span>**[[Prov.1.6|6]]**<span class="endversemarker">]</span> To understand a proverb<small><small>[^13]</small></small>, and the interpretation<small><small>[^14]</small></small>; the words<small><small>[^15]</small></small> of the wise, and their dark<small><small>[^16]</small></small> sayings. 
+ $\quad$ <span class="startversemarker">[</span>**[[Prov.1.1|1]]**<span class="endversemarker">]</span> The proverbs<small><small>[^3]</small></small> of Solomon<small><small>[^4]</small></small> the son of David, king of Israel; <span class="startversemarker">[</span>**[[Prov.1.2|2]]**<span class="endversemarker">]</span> To know wisdom and instruction; to perceive the words of understanding;<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[Prov.1.3|3]]**<span class="endversemarker">]</span> To receive<small><small>[^6]</small></small> the instruction of wisdom, justice, and judgment, and equity<small><small>[^7]</small></small>; <span class="startversemarker">[</span>**[[Prov.1.4|4]]**<span class="endversemarker">]</span> To give subtilty<small><small>[^8]</small></small> to the<small><small>[^9]</small></small> simple, to the young man knowledge and discretion<small><small>[^10]</small></small>. <span class="startversemarker">[</span>**[[Prov.1.5|5]]**<span class="endversemarker">]</span> A wise<small><small>[^11]</small></small> \[man\] will hear, and will increase learning; and a man<small><small>[^12]</small></small> of understanding shall attain unto wise counsels: <span class="startversemarker">[</span>**[[Prov.1.6|6]]**<span class="endversemarker">]</span> To understand a proverb<small><small>[^13]</small></small>, and the interpretation<small><small>[^14]</small></small>; the words<small><small>[^15]</small></small> of the wise, and their dark<small><small>[^16]</small></small> sayings. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Prov.1.7|7]]**<span class="endversemarker">]</span> The fear<small><small>[^17]</small></small> of the <span class="smallcaps">Lord</span> \[is\] the beginning<small><small>[^18]</small></small> of knowledge: \[but<small><small>[^19]</small></small>\] fools despise wisdom and instruction.
 
@@ -35,11 +35,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Prov.1.24|24]]**<span class="
 
 [^7]: Heb. equities, [[1Kgs.3|1Kgs 3:28]]
 
-[^8]: [[Prov.7|Prov 7:7-24]], [[Prov.8|Prov 8:17]], [[Prov.8|Prov 8:32]]; [[Ps.34|Ps 34:11]], [[Ps.119|Ps 119:9]]; [[Eccl.11|Eccl 11:9-10]], [[Eccl.12|Eccl 12:1]]; [[2Tim.2|2Tim 2:22]]; [[Titus.2|Titus 2:6]]
+[^8]: [[Prov.1|Prov 1:22-23]], [[Prov.8|Prov 8:5]], [[Prov.9|Prov 9:4-6]]; [[Ps.19|Ps 19:7]], [[Ps.119|Ps 119:130]]; [[Isa.35|Isa 35:8]]
 
-[^9]: or, advisement
+[^9]: [[Prov.7|Prov 7:7-24]], [[Prov.8|Prov 8:17]], [[Prov.8|Prov 8:32]]; [[Ps.34|Ps 34:11]], [[Ps.119|Ps 119:9]]; [[Eccl.11|Eccl 11:9-10]], [[Eccl.12|Eccl 12:1]]; [[2Tim.2|2Tim 2:22]]; [[Titus.2|Titus 2:6]]
 
-[^10]: ***subtlety*** [[Prov.1|Prov 1:22-23]], [[Prov.8|Prov 8:5]], [[Prov.9|Prov 9:4-6]]; [[Ps.19|Ps 19:7]], [[Ps.119|Ps 119:130]]; [[Isa.35|Isa 35:8]]
+[^10]: or, advisement
 
 [^11]: [[Prov.9|Prov 9:9]], [[Prov.12|Prov 12:1]]; [[Job.34|Job 34:10]], [[Job.34|Job 34:16]], [[Job.34|Job 34:34]]; [[Ps.119|Ps 119:98-100]]; [[1Cor.10|1Cor 10:15]]
 

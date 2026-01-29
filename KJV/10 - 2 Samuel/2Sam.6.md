@@ -8,7 +8,7 @@
 
  <span class="startversemarker">[</span>**[[2Sam.6.5|5]]**<span class="endversemarker">]</span> And David<small><small>[^10]</small></small> and all the house of Israel played before the <span class="smallcaps">Lord</span> on all manner<small><small>[^11]</small></small> of \[instruments made of\] fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals. 
 
-$\quad$ <span class="startversemarker">[</span>**[[2Sam.6.6|6]]**<span class="endversemarker">]</span> And when they came to Nachon’s threshingfloor, Uzzah put forth<small><small>[^12]</small></small> \[his hand\] to the ark of God, and took hold of it; for the oxen shook \[it<small><small>[^13]</small></small>\].<small><small>[^14]</small></small> <span class="startversemarker">[</span>**[[2Sam.6.7|7]]**<span class="endversemarker">]</span> And the anger of the <span class="smallcaps">Lord</span> was kindled against Uzzah; and God smote<small><small>[^15]</small></small> him there for \[his\] error<small><small>[^16]</small></small>; and there he died by the ark of God. <span class="startversemarker">[</span>**[[2Sam.6.8|8]]**<span class="endversemarker">]</span> And David was displeased<small><small>[^17]</small></small>, because the <span class="smallcaps">Lord</span> had made<small><small>[^18]</small></small> a breach upon Uzzah: and he called the name of the place Perez–uzzah to this day.<small><small>[^19]</small></small> <span class="startversemarker">[</span>**[[2Sam.6.9|9]]**<span class="endversemarker">]</span> And David was afraid<small><small>[^20]</small></small> of the <span class="smallcaps">Lord</span> that day, and said, How shall<small><small>[^21]</small></small> the ark of the <span class="smallcaps">Lord</span> come to me? <span class="startversemarker">[</span>**[[2Sam.6.10|10]]**<span class="endversemarker">]</span> So David would not remove the ark of the <span class="smallcaps">Lord</span> unto him into the city of David: but David carried it aside into the house of Obed–edom the Gittite<small><small>[^22]</small></small>.<small><small>[^23]</small></small> <span class="startversemarker">[</span>**[[2Sam.6.11|11]]**<span class="endversemarker">]</span> And the ark of the <span class="smallcaps">Lord</span> continued in the house of Obed–edom the Gittite three months: and the <span class="smallcaps">Lord</span> blessed Obed–edom, and all his household.<small><small>[^24]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[2Sam.6.6|6]]**<span class="endversemarker">]</span> And when they came to Nachon’s<small><small>[^12]</small></small> threshingfloor, Uzzah put forth<small><small>[^13]</small></small> \[his hand\] to the ark of God, and took hold of it; for the oxen shook \[it<small><small>[^14]</small></small>\]. <span class="startversemarker">[</span>**[[2Sam.6.7|7]]**<span class="endversemarker">]</span> And the anger of the <span class="smallcaps">Lord</span> was kindled against Uzzah; and God smote<small><small>[^15]</small></small> him there for \[his\] error<small><small>[^16]</small></small>; and there he died by the ark of God. <span class="startversemarker">[</span>**[[2Sam.6.8|8]]**<span class="endversemarker">]</span> And David was displeased<small><small>[^17]</small></small>, because the <span class="smallcaps">Lord</span> had made<small><small>[^18]</small></small> a breach upon Uzzah: and he called the name of the place Perez–uzzah<small><small>[^19]</small></small> to this day. <span class="startversemarker">[</span>**[[2Sam.6.9|9]]**<span class="endversemarker">]</span> And David was afraid<small><small>[^20]</small></small> of the <span class="smallcaps">Lord</span> that day, and said, How shall<small><small>[^21]</small></small> the ark of the <span class="smallcaps">Lord</span> come to me? <span class="startversemarker">[</span>**[[2Sam.6.10|10]]**<span class="endversemarker">]</span> So David would not remove the ark of the <span class="smallcaps">Lord</span> unto him into the city of David: but David carried it aside into the house of Obed–edom<small><small>[^22]</small></small> the Gittite<small><small>[^23]</small></small>. <span class="startversemarker">[</span>**[[2Sam.6.11|11]]**<span class="endversemarker">]</span> And the ark of the <span class="smallcaps">Lord</span> continued in the house of Obed–edom the Gittite three months: and the <span class="smallcaps">Lord</span> blessed<small><small>[^24]</small></small> Obed–edom, and all his household.
 
 ***The Ark Brought to Jerusalem***&emsp;<small><sup>\[ [[1Chr.15|1 Chronicles 15:1–28]] ]</sup></small> ^bsb744
 
@@ -25,11 +25,11 @@ $\quad$ <span class="startversemarker">[</span>**[[2Sam.6.17|17]]**<span class="
 $\quad$ <span class="startversemarker">[</span>**[[2Sam.6.20|20]]**<span class="endversemarker">]</span> Then David returned to bless<small><small>[^45]</small></small> his household. And Michal<small><small>[^46]</small></small> the daughter of Saul came out to meet David, and said, How glorious<small><small>[^47]</small></small> was the king of Israel to day, who uncovered<small><small>[^48]</small></small> himself to day in the eyes of the handmaids of his servants, as one of the vain fellows<small><small>[^49]</small></small> shamelessly<small><small>[^50]</small></small> uncovereth himself! <span class="startversemarker">[</span>**[[2Sam.6.21|21]]**<span class="endversemarker">]</span> And David said unto Michal, \[It was\] before<small><small>[^51]</small></small> the <span class="smallcaps">Lord</span>, which chose<small><small>[^52]</small></small> me before thy father, and before all his house, to appoint me ruler over the people of the <span class="smallcaps">Lord</span>, over Israel: therefore will I play<small><small>[^53]</small></small> before the <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[2Sam.6.22|22]]**<span class="endversemarker">]</span> And I will yet be more vile<small><small>[^54]</small></small> than thus, and will be base in mine<small><small>[^55]</small></small> own sight: and of the maidservants<small><small>[^56]</small></small> which thou hast spoken of, of them shall I be had<small><small>[^57]</small></small> in honour. <span class="startversemarker">[</span>**[[2Sam.6.23|23]]**<span class="endversemarker">]</span> Therefore Michal<small><small>[^58]</small></small> the daughter of Saul had no child unto the day<small><small>[^59]</small></small> of her death. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5|<< 2 Samuel 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7|2 Samuel 7 >>]]</td></tr></table>
 
 
-[^1]:  [[2Sam.6|2Sam 6:1]], David fetches the ark from Kirjath-jearim on a new cart; [[2Sam.6|2Sam 6:6]], Uzzah is smitten at Perez-uzzah; [[2Sam.6|2Sam 6:9]], God blesses Obed-edom for the ark; [[2Sam.6|2Sam 6:12]], David brings the ark into Zion with sacrifices, and dances before it; for which Michal despises him; [[2Sam.6|2Sam 6:17]], He places it in a tabernacle with great joy and feasting; [[2Sam.6|2Sam 6:20]], Michal, reproving David for his religious joy, is childless to her death.
+[^1]:  [[2Sam.6|2Sam 6:1]], David fetches the ark from Kirjath–jearim on a new cart; [[2Sam.6|2Sam 6:6]], Uzzah is smitten at Perez–uzzah; [[2Sam.6|2Sam 6:9]], God blesses Obed–edom for the ark; [[2Sam.6|2Sam 6:12]], David brings the ark into Zion with sacrifices, and dances before it; for which Michal despises him; [[2Sam.6|2Sam 6:17]], He places it in a tabernacle with great joy and feasting; [[2Sam.6|2Sam 6:20]], Michal, reproving David for his religious joy, is childless to her death.
 
 [^2]: [[2Sam.5|2Sam 5:1]]; [[1Kgs.8|1Kgs 8:1]]; [[1Chr.13|1Chr 13:1-4]]; [[Ps.132|Ps 132:1-6]]
 
-[^3]: [[Josh.15|Josh 15:9-10]], [[Josh.15|Josh 15:60]], Baalah, i.e. Kirjath-jearim, [[1Sam.7|1Sam 7:1]]; [[1Chr.13|1Chr 13:5-6]]
+[^3]: [[Josh.15|Josh 15:9-10]], [[Josh.15|Josh 15:60]], Baalah, i.e. Kirjath–jearim, [[1Sam.7|1Sam 7:1]]; [[1Chr.13|1Chr 13:5-6]]
 
 [^4]: etc. or, at which the name, even the name of the Lord of hosts, was called upon, [[Lev.24|Lev 24:11-16]]; [[Isa.47|Isa 47:4]], [[Isa.54|Isa 54:5]]
 
@@ -47,11 +47,11 @@ $\quad$ <span class="startversemarker">[</span>**[[2Sam.6.20|20]]**<span class="
 
 [^11]: This place should doubtless be corrected from the parallel place, [[1Chr.13|1Chr 13:8]]; where, instead of ***bechol âtzey beroshim***, which is literally, "with all trees or wood of fir," we read ***bechol ôz oovesheerim***, "with all their might, and with songs." This makes a good sense, while the former makes none: the LXX have the same reading here, <span class="asgreek"><span class='asgreek'>εν</span> <span class='asgreek'>ισχυι</span></span>, <span class="asgreek"><span class='asgreek'>και</span> <span class='asgreek'>εν</span> <span class='asgreek'>ωδαις</span></span>.
 
-[^12]: Even the Kohathites, who were appointed to carry the ark, after it was covered by the priests, were forbidden to touch it on pain of death; but Uzzah, who certainly was no priest, probably with some degree of irreverence, having presumed to lay his hand upon the ark, which perhaps was not covered, thus incurred the penalty due to his rashness. [[Num.4|Num 4:15]], [[Num.4|Num 4:19-20]]
+[^12]: [[1Chr.13|1Chr 13:9]], he is called Chidon
 
-[^13]: or, stumbled
+[^13]: Even the Kohathites, who were appointed to carry the ark, after it was covered by the priests, were forbidden to touch it on pain of death; but Uzzah, who certainly was no priest, probably with some degree of irreverence, having presumed to lay his hand upon the ark, which perhaps was not covered, thus incurred the penalty due to his rashness. [[Num.4|Num 4:15]], [[Num.4|Num 4:19-20]]
 
-[^14]: ***Nachon's*** [[1Chr.13|1Chr 13:9]], he is called Chidon
+[^14]: or, stumbled
 
 [^15]: [[Lev.10|Lev 10:1-3]]; [[1Sam.6|1Sam 6:19]]; [[1Chr.13|1Chr 13:10]], [[1Chr.15|1Chr 15:2]], [[1Chr.15|1Chr 15:13]]; [[1Cor.11|1Cor 11:30-32]]
 
@@ -61,17 +61,17 @@ $\quad$ <span class="startversemarker">[</span>**[[2Sam.6.20|20]]**<span class="
 
 [^18]: Heb. broken
 
-[^19]: ***Perezuzzah*** that is, The breach of Uzzah
+[^19]: that is, The breach of Uzzah
 
 [^20]: [[Num.17|Num 17:12-13]]; [[1Sam.5|1Sam 5:10-11]], [[1Sam.6|1Sam 6:20]]; [[Ps.119|Ps 119:120]]; [[Isa.6|Isa 6:5]]; [[Luke.5|Luke 5:8-9]]; [[1Pet.3|1Pet 3:6]]
 
 [^21]: [[1Kgs.8|1Kgs 8:27]]; [[1Chr.13|1Chr 13:11-12]]; [[Job.25|Job 25:5-6]]
 
-[^22]: [[2Sam.4|2Sam 4:3]], [[2Sam.15|2Sam 15:19]], [[2Sam.18|2Sam 18:2]]
+[^22]: [[1Chr.13|1Chr 13:13-14]], [[1Chr.15|1Chr 15:18]], [[1Chr.16|1Chr 16:5]], [[1Chr.26|1Chr 26:4-8]]
 
-[^23]: ***Obededom*** [[1Chr.13|1Chr 13:13-14]], [[1Chr.15|1Chr 15:18]], [[1Chr.16|1Chr 16:5]], [[1Chr.26|1Chr 26:4-8]]
+[^23]: [[2Sam.4|2Sam 4:3]], [[2Sam.15|2Sam 15:19]], [[2Sam.18|2Sam 18:2]]
 
-[^24]: ***the Lord blessed*** [[Gen.30|Gen 30:27]], [[Gen.39|Gen 39:5]], [[Gen.39|Gen 39:23]]; [[Prov.3|Prov 3:9-10]]; [[Mal.3|Mal 3:10]]
+[^24]: [[Gen.30|Gen 30:27]], [[Gen.39|Gen 39:5]], [[Gen.39|Gen 39:23]]; [[Prov.3|Prov 3:9-10]]; [[Mal.3|Mal 3:10]]
 
 [^25]: [[Matt.10|Matt 10:42]]
 

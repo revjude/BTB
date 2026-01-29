@@ -8,7 +8,7 @@
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[2Chr.11.5|5]]**<span class="endversemarker">]</span> [¶]And Rehoboam dwelt in Jerusalem, and built<small><small>[^11]</small></small> cities for defence in Judah.<small><small>[^12]</small></small> <span class="startversemarker">[</span>**[[2Chr.11.6|6]]**<span class="endversemarker">]</span> He built even Beth–lehem, and Etam<small><small>[^13]</small></small>, and Tekoa<small><small>[^14]</small></small>,<small><small>[^15]</small></small> <span class="startversemarker">[</span>**[[2Chr.11.7|7]]**<span class="endversemarker">]</span> And Beth–zur, and Shoco<small><small>[^16]</small></small>, and Adullam<small><small>[^17]</small></small>,<small><small>[^18]</small></small> <span class="startversemarker">[</span>**[[2Chr.11.8|8]]**<span class="endversemarker">]</span> And Gath<small><small>[^19]</small></small>, and Mareshah<small><small>[^20]</small></small>, and Ziph<small><small>[^21]</small></small>, <span class="startversemarker">[</span>**[[2Chr.11.9|9]]**<span class="endversemarker">]</span> And Adoraim, and Lachish<small><small>[^22]</small></small>, and Azekah, <span class="startversemarker">[</span>**[[2Chr.11.10|10]]**<span class="endversemarker">]</span> And Zorah<small><small>[^23]</small></small>, and Aijalon, and Hebron<small><small>[^24]</small></small>, which \[are\] in Judah and in Benjamin fenced cities. <span class="startversemarker">[</span>**[[2Chr.11.11|11]]**<span class="endversemarker">]</span> And he fortified<small><small>[^25]</small></small> the strong holds, and put captains<small><small>[^26]</small></small> in them, and store of victual, and of oil and wine. <span class="startversemarker">[</span>**[[2Chr.11.12|12]]**<span class="endversemarker">]</span> And in every several city \[he put\] shields<small><small>[^27]</small></small> and spears, and made them exceeding strong, having Judah<small><small>[^28]</small></small> and Benjamin on his side.
+$\quad$ <span class="startversemarker">[</span>**[[2Chr.11.5|5]]**<span class="endversemarker">]</span> [¶]And Rehoboam dwelt in Jerusalem, and built<small><small>[^11]</small></small> cities for defence in Judah.<small><small>[^12]</small></small> <span class="startversemarker">[</span>**[[2Chr.11.6|6]]**<span class="endversemarker">]</span> He built even Beth–lehem<small><small>[^13]</small></small>, and Etam<small><small>[^14]</small></small>, and Tekoa<small><small>[^15]</small></small>, <span class="startversemarker">[</span>**[[2Chr.11.7|7]]**<span class="endversemarker">]</span> And Beth–zur<small><small>[^16]</small></small>, and Shoco<small><small>[^17]</small></small>, and Adullam<small><small>[^18]</small></small>, <span class="startversemarker">[</span>**[[2Chr.11.8|8]]**<span class="endversemarker">]</span> And Gath<small><small>[^19]</small></small>, and Mareshah<small><small>[^20]</small></small>, and Ziph<small><small>[^21]</small></small>, <span class="startversemarker">[</span>**[[2Chr.11.9|9]]**<span class="endversemarker">]</span> And Adoraim, and Lachish<small><small>[^22]</small></small>, and Azekah, <span class="startversemarker">[</span>**[[2Chr.11.10|10]]**<span class="endversemarker">]</span> And Zorah<small><small>[^23]</small></small>, and Aijalon, and Hebron<small><small>[^24]</small></small>, which \[are\] in Judah and in Benjamin fenced cities. <span class="startversemarker">[</span>**[[2Chr.11.11|11]]**<span class="endversemarker">]</span> And he fortified<small><small>[^25]</small></small> the strong holds, and put captains<small><small>[^26]</small></small> in them, and store of victual, and of oil and wine. <span class="startversemarker">[</span>**[[2Chr.11.12|12]]**<span class="endversemarker">]</span> And in every several city \[he put\] shields<small><small>[^27]</small></small> and spears, and made them exceeding strong, having Judah<small><small>[^28]</small></small> and Benjamin on his side.
 
 ***Jeroboam Forsakes the Priests and Levites*** ^bsb1089
 
@@ -47,17 +47,17 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.11.18|18]]**<span class=
 
 [^12]: am 3029-3032, bc 975-972
 
-[^13]: [[Judg.15|Judg 15:8]]; [[1Chr.4|1Chr 4:32]]
+[^13]: Beth–lehem, called Beth–lehem Judah ([[Judg.17|Judg 17:7]]), to distinguish it from another Beth–lehem in Zebulun ([[Josh.19|Josh 19:15]]), and also Ephratah (i.e., fruitful), and by the Arabs, Baitellahm, is situated on a rising ground on the southern side of a deep and extensive valley, and reclining from e to w not quite six miles s of Jerusalem. [[Gen.35|Gen 35:19]]; [[1Sam.17|1Sam 17:12]]; [[Matt.2|Matt 2:5-6]]
 
-[^14]: [[2Chr.20|2Chr 20:20]]; [[2Sam.14|2Sam 14:2]]; [[Neh.3|Neh 3:5]], [[Neh.3|Neh 3:27]]; [[Jer.6|Jer 6:1]]; [[Amos.1|Amos 1:1]]
+[^14]: [[Judg.15|Judg 15:8]]; [[1Chr.4|1Chr 4:32]]
 
-[^15]: ***Bethlehem*** Bethlehem, called Bethlehem Judah ([[Judg.17|Judg 17:7]]), to distinguish it from another Bethlehem in Zebulun ([[Josh.19|Josh 19:15]]), and also Ephratah (i.e., fruitful), and by the Arabs, Bait-el-lahm, is situated on a rising ground on the southern side of a deep and extensive valley, and reclining from e to w not quite six miles s of Jerusalem. [[Gen.35|Gen 35:19]]; [[1Sam.17|1Sam 17:12]]; [[Matt.2|Matt 2:5-6]]
+[^15]: [[2Chr.20|2Chr 20:20]]; [[2Sam.14|2Sam 14:2]]; [[Neh.3|Neh 3:5]], [[Neh.3|Neh 3:27]]; [[Jer.6|Jer 6:1]]; [[Amos.1|Amos 1:1]]
 
-[^16]: [[Josh.15|Josh 15:35]], Socoh
+[^16]: [[Josh.15|Josh 15:58]]
 
-[^17]: [[Josh.12|Josh 12:15]], [[Josh.15|Josh 15:35]]; [[1Sam.22|1Sam 22:1]]; [[2Sam.23|2Sam 23:13]]; [[Mic.1|Mic 1:15]]
+[^17]: [[Josh.15|Josh 15:35]], Socoh
 
-[^18]: ***Bethzur*** [[Josh.15|Josh 15:58]]
+[^18]: [[Josh.12|Josh 12:15]], [[Josh.15|Josh 15:35]]; [[1Sam.22|1Sam 22:1]]; [[2Sam.23|2Sam 23:13]]; [[Mic.1|Mic 1:15]]
 
 [^19]: [[1Chr.18|1Chr 18:1]]
 
@@ -105,7 +105,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.11.18|18]]**<span class=
 
 [^41]: am 3029-3032, bc 975-972
 
-[^42]: Eliab was David's eldest brother; and more than eighty years had elapsed since David, at the age of thirty, began to reign: Abigail must therefore have been grand-daughter to Eliab; and this shows the latitude in which the words son and daughter are used in Scripture.
+[^42]: Eliab was David's eldest brother; and more than eighty years had elapsed since David, at the age of thirty, began to reign: Abigail must therefore have been grand-daughter to Eliab; and this shews the latitude in which the words son and daughter are used in Scripture.
 
 [^43]: [[1Sam.16|1Sam 16:6]], [[1Sam.17|1Sam 17:13]], [[1Sam.17|1Sam 17:28]]; [[1Chr.2|1Chr 2:13]], [[1Chr.27|1Chr 27:18]], Elihu
 

@@ -31,7 +31,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Num.25.16|16]]**<span class="
 
 [^8]: [[Num.25|Num 25:14-15]], [[Num.25|Num 25:18]]; [[Exod.18|Exod 18:25]]; [[Deut.4|Deut 4:3]]; [[Josh.22|Josh 22:17]], [[Josh.23|Josh 23:2]]
 
-[^9]: Dr. Kennicott remarks, that the Samaritan and Hebrew Texts must be united to make the sense of this verse complete: "And the Lord said unto Moses, Speak unto all the heads of the people; and let them slay the men that were joined to Baal-peor; and hang them up before the Lord, against the sun," etc. [[Deut.13|Deut 13:6-9]], [[Deut.13|Deut 13:13]], [[Deut.13|Deut 13:15]], [[Deut.21|Deut 21:23]]; [[2Sam.21|2Sam 21:6]], [[2Sam.21|2Sam 21:9]]; [[Esth.7|Esth 7:9-10]]
+[^9]: Dr. Kennicott remarks, that the Samaritan and Hebrew Texts must be united to make the sense of this verse complete: "And the Lord said unto Moses, Speak unto all the heads of the people; and let them slay the men that were joined to Baal–peor; and hang them up before the Lord, against the sun," etc. [[Deut.13|Deut 13:6-9]], [[Deut.13|Deut 13:13]], [[Deut.13|Deut 13:15]], [[Deut.21|Deut 21:23]]; [[2Sam.21|2Sam 21:6]], [[2Sam.21|2Sam 21:9]]; [[Esth.7|Esth 7:9-10]]
 
 [^10]: [[Num.25|Num 25:11]]; [[Deut.13|Deut 13:17]]; [[Josh.7|Josh 7:25-26]]; [[Ps.85|Ps 85:3-4]]; [[Jonah.3|Jonah 3:9]]
 

@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.25.5|5]]**<span class="en
 
  <span class="startversemarker">[</span>**[[Gen.25.7|7]]**<span class="endversemarker">]</span> And these \[are\] the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.<small><small>[^18]</small></small> <span class="startversemarker">[</span>**[[Gen.25.8|8]]**<span class="endversemarker">]</span> Then Abraham gave<small><small>[^19]</small></small> up the ghost, and died in a good<small><small>[^20]</small></small> old age, an old man, and full \[of years\]; and was gathered<small><small>[^21]</small></small> to his people. <span class="startversemarker">[</span>**[[Gen.25.9|9]]**<span class="endversemarker">]</span> And his sons Isaac<small><small>[^22]</small></small> and Ishmael buried him in the cave<small><small>[^23]</small></small> of Machpelah, in the field of Ephron the son of Zohar the Hittite, which \[is\] before Mamre; <span class="startversemarker">[</span>**[[Gen.25.10|10]]**<span class="endversemarker">]</span> The field<small><small>[^24]</small></small> which Abraham purchased of the sons of Heth: there<small><small>[^25]</small></small> was Abraham buried, and Sarah his wife. 
 
-$\quad$ <span class="startversemarker">[</span>**[[Gen.25.11|11]]**<span class="endversemarker">]</span> And it came to pass after<small><small>[^26]</small></small> the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai–roi.<small><small>[^27]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[Gen.25.11|11]]**<span class="endversemarker">]</span> And it came to pass after<small><small>[^26]</small></small> the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai–roi<small><small>[^27]</small></small>.
 
 ***The Descendants of Ishmael***&emsp;<small><sup>\[ [[1Chr.1|1 Chronicles 1:28–31]] ]</sup></small> ^bsb72
 
@@ -22,7 +22,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.25.12|12]]**<span class="
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Gen.25.19|19]]**<span class="endversemarker">]</span> And these \[are\] the generations of Isaac, Abraham<small><small>[^46]</small></small>’s son: Abraham begat Isaac:<small><small>[^47]</small></small> <span class="startversemarker">[</span>**[[Gen.25.20|20]]**<span class="endversemarker">]</span> And Isaac was forty years old when he<small><small>[^48]</small></small> took Rebekah to wife, the daughter of Bethuel the Syrian<small><small>[^49]</small></small> of Padan–aram, the sister to Laban the Syrian.<small><small>[^50]</small></small> <span class="startversemarker">[</span>**[[Gen.25.21|21]]**<span class="endversemarker">]</span> And Isaac intreated the <span class="smallcaps">Lord</span> for his wife, because<small><small>[^51]</small></small> she \[was\] barren: and the<small><small>[^52]</small></small> <span class="smallcaps">Lord</span> was intreated of him, and Rebekah<small><small>[^53]</small></small> his wife conceived.<small><small>[^54]</small></small><small><small>[^55]</small></small> <span class="startversemarker">[</span>**[[Gen.25.22|22]]**<span class="endversemarker">]</span> And the children struggled together within her; and she said, If \[it be\] so, why \[am\] I thus? And she went to enquire of the <span class="smallcaps">Lord</span>.<small><small>[^56]</small></small><small><small>[^57]</small></small> <span class="startversemarker">[</span>**[[Gen.25.23|23]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto her, Two nations<small><small>[^58]</small></small> \[are\] in thy womb, and two manner<small><small>[^59]</small></small> of people shall be separated from thy bowels; and \[the one\] people shall be stronger than \[the other\] people; and the elder<small><small>[^60]</small></small> shall serve the younger. 
+$\quad$ <span class="startversemarker">[</span>**[[Gen.25.19|19]]**<span class="endversemarker">]</span> And these \[are\] the generations of Isaac, Abraham<small><small>[^46]</small></small>’s son: Abraham begat Isaac:<small><small>[^47]</small></small> <span class="startversemarker">[</span>**[[Gen.25.20|20]]**<span class="endversemarker">]</span> And Isaac was forty years old when he<small><small>[^48]</small></small> took Rebekah to wife, the daughter of Bethuel the Syrian<small><small>[^49]</small></small> of Padan–aram, the sister to Laban the Syrian.<small><small>[^50]</small></small> <span class="startversemarker">[</span>**[[Gen.25.21|21]]**<span class="endversemarker">]</span> And Isaac intreated<small><small>[^51]</small></small> the <span class="smallcaps">Lord</span> for his wife, because<small><small>[^52]</small></small> she \[was\] barren: and the<small><small>[^53]</small></small> <span class="smallcaps">Lord</span> was intreated of him, and Rebekah<small><small>[^54]</small></small> his wife conceived.<small><small>[^55]</small></small> <span class="startversemarker">[</span>**[[Gen.25.22|22]]**<span class="endversemarker">]</span> And the children struggled together within her; and she said, If \[it be\] so, why \[am\] I thus? And she went to enquire<small><small>[^56]</small></small> of the <span class="smallcaps">Lord</span>.<small><small>[^57]</small></small> <span class="startversemarker">[</span>**[[Gen.25.23|23]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto her, Two nations<small><small>[^58]</small></small> \[are\] in thy womb, and two manner<small><small>[^59]</small></small> of people shall be separated from thy bowels; and \[the one\] people shall be stronger than \[the other\] people; and the elder<small><small>[^60]</small></small> shall serve the younger. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.25.24|24]]**<span class="endversemarker">]</span> [¶]And when her days to be delivered were fulfilled, behold, \[there were\] twins in her womb. <span class="startversemarker">[</span>**[[Gen.25.25|25]]**<span class="endversemarker">]</span> And the first came out red, all over like an hairy garment; and they called his name Esau<small><small>[^61]</small></small>. <span class="startversemarker">[</span>**[[Gen.25.26|26]]**<span class="endversemarker">]</span> And after<small><small>[^62]</small></small> that came his brother out, and his hand took<small><small>[^63]</small></small> hold on Esau’s heel; and his name was called Jacob<small><small>[^64]</small></small>: and Isaac \[was<small><small>[^65]</small></small>\] threescore years old when she bare them. <span class="startversemarker">[</span>**[[Gen.25.27|27]]**<span class="endversemarker">]</span> And the boys grew: and Esau was a cunning<small><small>[^66]</small></small> hunter, a man of the field; and Jacob \[was\] a plain man<small><small>[^67]</small></small>, dwelling<small><small>[^68]</small></small> in tents. <span class="startversemarker">[</span>**[[Gen.25.28|28]]**<span class="endversemarker">]</span> And Isaac loved Esau, because he did eat of \[his\] venison<small><small>[^69]</small></small>: but Rebekah<small><small>[^70]</small></small> loved Jacob.
 
@@ -65,7 +65,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.25.29|29]]**<span class="
 
 [^16]: [[Gen.21|Gen 21:14]]
 
-[^17]: Arabia Deserta, which was eastward of Beer-sheba, where Abraham dwelt. [[Judg.6|Judg 6:3]]; [[Job.1|Job 1:1]], [[Job.1|Job 1:3]]
+[^17]: Arabia Deserta, which was eastward of Beer–sheba, where Abraham dwelt. [[Judg.6|Judg 6:3]]; [[Job.1|Job 1:1]], [[Job.1|Job 1:3]]
 
 [^18]: am 2183, bc 1821, [[Gen.12|Gen 12:4]]
 
@@ -85,7 +85,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.25.29|29]]**<span class="
 
 [^26]: [[Gen.12|Gen 12:2]], [[Gen.17|Gen 17:19]], [[Gen.22|Gen 22:17]], [[Gen.50|Gen 50:24]]
 
-[^27]: ***La-hai-roi*** [[Gen.16|Gen 16:14]], [[Gen.24|Gen 24:62]]
+[^27]: [[Gen.16|Gen 16:14]], [[Gen.24|Gen 24:62]]
 
 [^28]: [[Gen.16|Gen 16:10-15]], [[Gen.17|Gen 17:20]], [[Gen.21|Gen 21:13]]; [[Ps.83|Ps 83:6]]
 
@@ -133,19 +133,19 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.25.29|29]]**<span class="
 
 [^50]: am 2148, bc 1856
 
-[^51]: [[Gen.11|Gen 11:30]], [[Gen.15|Gen 15:2-3]], [[Gen.16|Gen 16:2]], [[Gen.17|Gen 17:16-19]]; [[1Sam.1|1Sam 1:2]]; [[Luke.1|Luke 1:7]]
+[^51]: [[1Sam.1|1Sam 1:11]], [[1Sam.1|1Sam 1:27]]; [[Ps.50|Ps 50:15]], [[Ps.65|Ps 65:2]], [[Ps.91|Ps 91:15]]; [[Isa.45|Isa 45:11]], [[Isa.58|Isa 58:9]], [[Isa.65|Isa 65:24]]; [[Luke.1|Luke 1:13]]
 
-[^52]: [[1Chr.5|1Chr 5:20]]; [[2Chr.33|2Chr 33:13]]; [[Ezra.8|Ezra 8:23]]; [[Ps.145|Ps 145:19]]; [[Prov.10|Prov 10:24]]
+[^52]: [[Gen.11|Gen 11:30]], [[Gen.15|Gen 15:2-3]], [[Gen.16|Gen 16:2]], [[Gen.17|Gen 17:16-19]]; [[1Sam.1|1Sam 1:2]]; [[Luke.1|Luke 1:7]]
 
-[^53]: [[Rom.9|Rom 9:10-12]]
+[^53]: [[1Chr.5|1Chr 5:20]]; [[2Chr.33|2Chr 33:13]]; [[Ezra.8|Ezra 8:23]]; [[Ps.145|Ps 145:19]]; [[Prov.10|Prov 10:24]]
 
-[^54]: am 2167, bc 1837
+[^54]: [[Rom.9|Rom 9:10-12]]
 
-[^55]: ***entreated*** [[1Sam.1|1Sam 1:11]], [[1Sam.1|1Sam 1:27]]; [[Ps.50|Ps 50:15]], [[Ps.65|Ps 65:2]], [[Ps.91|Ps 91:15]]; [[Isa.45|Isa 45:11]], [[Isa.58|Isa 58:9]], [[Isa.65|Isa 65:24]]; [[Luke.1|Luke 1:13]]
+[^55]: am 2167, bc 1837
 
-[^56]: am 2168, bc 1836
+[^56]: [[1Sam.9|1Sam 9:9]], [[1Sam.10|1Sam 10:22]], [[1Sam.22|1Sam 22:15]], [[1Sam.28|1Sam 28:6]], [[1Sam.30|1Sam 30:8]]; [[Ezek.20|Ezek 20:31]], [[Ezek.36|Ezek 36:37]]
 
-[^57]: ***inquire*** [[1Sam.9|1Sam 9:9]], [[1Sam.10|1Sam 10:22]], [[1Sam.22|1Sam 22:15]], [[1Sam.28|1Sam 28:6]], [[1Sam.30|1Sam 30:8]]; [[Ezek.20|Ezek 20:31]], [[Ezek.36|Ezek 36:37]]
+[^57]: am 2168, bc 1836
 
 [^58]: [[Gen.17|Gen 17:16]], [[Gen.24|Gen 24:60]]
 

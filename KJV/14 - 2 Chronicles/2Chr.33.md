@@ -10,9 +10,9 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.33.3|3]]**<span class="e
 
  <span class="startversemarker">[</span>**[[2Chr.33.10|10]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> spake to Manasseh, and to his people: but they would not hearken.<small><small>[^28]</small></small> 
 
-$\quad$ <span class="startversemarker">[</span>**[[2Chr.33.11|11]]**<span class="endversemarker">]</span> Wherefore the <span class="smallcaps">Lord</span> brought upon them the captains<small><small>[^29]</small></small> of the host of the king<small><small>[^30]</small></small> of Assyria, which took Manasseh among the thorns<small><small>[^31]</small></small>, and bound him<small><small>[^32]</small></small> with fetters<small><small>[^33]</small></small>, and carried him to Babylon.<small><small>[^34]</small></small><small><small>[^35]</small></small> <span class="startversemarker">[</span>**[[2Chr.33.12|12]]**<span class="endversemarker">]</span> And when<small><small>[^36]</small></small> he was in affliction, he besought<small><small>[^37]</small></small> the <span class="smallcaps">Lord</span> his God, and humbled<small><small>[^38]</small></small> himself greatly before the God of his fathers,<small><small>[^39]</small></small> <span class="startversemarker">[</span>**[[2Chr.33.13|13]]**<span class="endversemarker">]</span> And prayed unto him: and he was intreated of him, and heard his supplication, and brought him<small><small>[^40]</small></small> again to Jerusalem into his kingdom. Then Manasseh knew<small><small>[^41]</small></small> that the <span class="smallcaps">Lord</span> he \[was\] God.<small><small>[^42]</small></small> <span class="startversemarker">[</span>**[[2Chr.33.14|14]]**<span class="endversemarker">]</span> Now after this he built<small><small>[^43]</small></small> a wall without the city of David, on the west side of Gihon<small><small>[^44]</small></small>, in the valley, even to the entering in at the fish gate<small><small>[^45]</small></small>, and compassed about Ophel<small><small>[^46]</small></small>, and raised it up a very great height, and put<small><small>[^47]</small></small> captains of war in all the fenced cities of Judah.<small><small>[^48]</small></small> <span class="startversemarker">[</span>**[[2Chr.33.15|15]]**<span class="endversemarker">]</span> And he took<small><small>[^49]</small></small> away the strange gods, and the idol out of the house of the <span class="smallcaps">Lord</span>, and all the altars that he had built in the mount of the house of the <span class="smallcaps">Lord</span>, and in Jerusalem, and cast \[them\] out of the city. <span class="startversemarker">[</span>**[[2Chr.33.16|16]]**<span class="endversemarker">]</span> And he repaired<small><small>[^50]</small></small> the altar of the <span class="smallcaps">Lord</span>, and sacrificed thereon peace<small><small>[^51]</small></small> offerings and thank<small><small>[^52]</small></small> offerings, and commanded<small><small>[^53]</small></small> Judah to serve the <span class="smallcaps">Lord</span> God of Israel. <span class="startversemarker">[</span>**[[2Chr.33.17|17]]**<span class="endversemarker">]</span> Nevertheless the people<small><small>[^54]</small></small> did sacrifice still in the high places, \[yet\] unto the <span class="smallcaps">Lord</span> their God only. 
+$\quad$ <span class="startversemarker">[</span>**[[2Chr.33.11|11]]**<span class="endversemarker">]</span> Wherefore the <span class="smallcaps">Lord<small><small>[^29]</small></small></span> brought upon them the captains<small><small>[^30]</small></small> of the host of the king<small><small>[^31]</small></small> of Assyria, which took Manasseh among the thorns<small><small>[^32]</small></small>, and bound him<small><small>[^33]</small></small> with fetters<small><small>[^34]</small></small>, and carried him to Babylon.<small><small>[^35]</small></small> <span class="startversemarker">[</span>**[[2Chr.33.12|12]]**<span class="endversemarker">]</span> And when<small><small>[^36]</small></small> he was in affliction, he besought<small><small>[^37]</small></small> the <span class="smallcaps">Lord<small><small>[^38]</small></small></span> his God, and humbled<small><small>[^39]</small></small> himself greatly before the God of his fathers, <span class="startversemarker">[</span>**[[2Chr.33.13|13]]**<span class="endversemarker">]</span> And prayed unto him: and he was intreated<small><small>[^40]</small></small> of him, and heard his supplication, and brought him<small><small>[^41]</small></small> again to Jerusalem into his kingdom. Then Manasseh knew<small><small>[^42]</small></small> that the <span class="smallcaps">Lord</span> he \[was\] God. <span class="startversemarker">[</span>**[[2Chr.33.14|14]]**<span class="endversemarker">]</span> Now after this he built<small><small>[^43]</small></small> a wall without the city of David, on the west side of Gihon<small><small>[^44]</small></small>, in the valley, even to the entering in at the fish gate<small><small>[^45]</small></small>, and compassed about Ophel<small><small>[^46]</small></small>, and raised it up a very great height, and put<small><small>[^47]</small></small> captains of war in all the fenced cities of Judah.<small><small>[^48]</small></small> <span class="startversemarker">[</span>**[[2Chr.33.15|15]]**<span class="endversemarker">]</span> And he took<small><small>[^49]</small></small> away the strange gods, and the idol out of the house of the <span class="smallcaps">Lord</span>, and all the altars that he had built in the mount of the house of the <span class="smallcaps">Lord</span>, and in Jerusalem, and cast \[them\] out of the city. <span class="startversemarker">[</span>**[[2Chr.33.16|16]]**<span class="endversemarker">]</span> And he repaired<small><small>[^50]</small></small> the altar of the <span class="smallcaps">Lord</span>, and sacrificed thereon peace<small><small>[^51]</small></small> offerings and thank<small><small>[^52]</small></small> offerings, and commanded<small><small>[^53]</small></small> Judah to serve the <span class="smallcaps">Lord</span> God of Israel. <span class="startversemarker">[</span>**[[2Chr.33.17|17]]**<span class="endversemarker">]</span> Nevertheless the people<small><small>[^54]</small></small> did sacrifice still in the high places, \[yet\] unto the <span class="smallcaps">Lord</span> their God only. 
 
-$\quad$ <span class="startversemarker">[</span>**[[2Chr.33.18|18]]**<span class="endversemarker">]</span> [¶]Now the rest<small><small>[^55]</small></small> of the acts of Manasseh, and his prayer<small><small>[^56]</small></small> unto his God, and the words of the seers<small><small>[^57]</small></small> that spake to him in the name of the <span class="smallcaps">Lord</span> God of Israel, behold, they \[are written\] in the book<small><small>[^58]</small></small> of the kings of Israel.<small><small>[^59]</small></small><small><small>[^60]</small></small> <span class="startversemarker">[</span>**[[2Chr.33.19|19]]**<span class="endversemarker">]</span> His prayer also, and \[how God\] was intreated of him, and all his sin, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he<small><small>[^61]</small></small> was humbled: behold, they \[are\] written among the sayings of the seers<small><small>[^62]</small></small>.<small><small>[^63]</small></small><small><small>[^64]</small></small> 
+$\quad$ <span class="startversemarker">[</span>**[[2Chr.33.18|18]]**<span class="endversemarker">]</span> [¶]Now the rest<small><small>[^55]</small></small> of the acts of Manasseh, and his prayer<small><small>[^56]</small></small> unto his God, and the words of the seers<small><small>[^57]</small></small> that spake to him in the name of the <span class="smallcaps">Lord</span> God of Israel, behold, they \[are written\] in the book<small><small>[^58]</small></small> of the kings of Israel.<small><small>[^59]</small></small><small><small>[^60]</small></small> <span class="startversemarker">[</span>**[[2Chr.33.19|19]]**<span class="endversemarker">]</span> His prayer also<small><small>[^61]</small></small>, and \[how God\] was intreated of him, and all his sin<small><small>[^62]</small></small>, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he<small><small>[^63]</small></small> was humbled: behold, they \[are\] written among the sayings of the seers<small><small>[^64]</small></small>. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Chr.33.20|20]]**<span class="endversemarker">]</span> [¶]So Manasseh<small><small>[^65]</small></small> slept with his fathers, and they buried him in his own house: and Amon<small><small>[^66]</small></small> his son reigned in his stead.
 
@@ -81,33 +81,33 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.33.25|25]]**<span class=
 
 [^28]: [[2Chr.36|2Chr 36:15-16]]; [[Neh.9|Neh 9:29-30]]; [[Jer.25|Jer 25:4-7]], [[Jer.44|Jer 44:4-5]]; [[Zech.1|Zech 1:4]]; [[Acts.7|Acts 7:51-52]]
 
-[^29]: [[Isa.10|Isa 10:8]], [[Isa.36|Isa 36:9]]
+[^29]: [[Deut.28|Deut 28:36]]; [[Job.36|Job 36:8]]
 
-[^30]: Heb. which were the king's, [[Neh.9|Neh 9:32]], [[Neh.9|Neh 9:37]]; [[Isa.5|Isa 5:26-30]], [[Isa.7|Isa 7:18-20]]
+[^30]: [[Isa.10|Isa 10:8]], [[Isa.36|Isa 36:9]]
 
-[^31]: The word ***bachochim*** may possibly here signify with fetters or chains, as the kindred word ***chachim*** denotes, [[Ezek.19|Ezek 19:4]], [[Ezek.19|Ezek 19:9]]. The Syriac and Arabic have alive, probably reading ***bechayim***. [[1Sam.13|1Sam 13:6]]; [[Lam.3|Lam 3:7]]
+[^31]: Heb. which were the king's, [[Neh.9|Neh 9:32]], [[Neh.9|Neh 9:37]]; [[Isa.5|Isa 5:26-30]], [[Isa.7|Isa 7:18-20]]
 
-[^32]: [[2Kgs.23|2Kgs 23:33]], [[2Kgs.25|2Kgs 25:6]]; [[Job.36|Job 36:8-11]]; [[Ps.107|Ps 107:10-14]]
+[^32]: The word ***bachochim*** may possibly here signify with fetters or chains, as the kindred word ***chachim*** denotes, [[Ezek.19|Ezek 19:4]], [[Ezek.19|Ezek 19:9]]. The Syriac and Arabic have alive, probably reading ***bechayim***. [[1Sam.13|1Sam 13:6]]; [[Lam.3|Lam 3:7]]
 
-[^33]: or, chains
+[^33]: [[2Kgs.23|2Kgs 23:33]], [[2Kgs.25|2Kgs 25:6]]; [[Job.36|Job 36:8-11]]; [[Ps.107|Ps 107:10-14]]
 
-[^34]: am 3327, bc 677
+[^34]: or, chains
 
-[^35]: ***the Lord*** [[Deut.28|Deut 28:36]]; [[Job.36|Job 36:8]]
+[^35]: am 3327, bc 677
 
 [^36]: [[2Chr.28|2Chr 28:22]]; [[Lev.26|Lev 26:39-42]]; [[Deut.4|Deut 4:30-31]]; [[Jer.31|Jer 31:18-20]]; [[Hos.5|Hos 5:15]]; [[Mic.6|Mic 6:9]]; [[Luke.15|Luke 15:16-18]]
 
 [^37]: [[2Chr.33|2Chr 33:18-19]]; [[Ps.50|Ps 50:15]]; [[Acts.9|Acts 9:11]]
 
-[^38]: [[2Chr.33|2Chr 33:19]], [[2Chr.33|2Chr 33:23]], [[2Chr.32|2Chr 32:26]]; [[Exod.10|Exod 10:3]]; [[Luke.18|Luke 18:14-15]]; [[Jas.4|Jas 4:10]]; [[1Pet.5|1Pet 5:5-6]]
+[^38]: [[2Chr.28|2Chr 28:5]]
 
-[^39]: ***the Lord*** [[2Chr.28|2Chr 28:5]]
+[^39]: [[2Chr.33|2Chr 33:19]], [[2Chr.33|2Chr 33:23]], [[2Chr.32|2Chr 32:26]]; [[Exod.10|Exod 10:3]]; [[Luke.18|Luke 18:14-15]]; [[Jas.4|Jas 4:10]]; [[1Pet.5|1Pet 5:5-6]]
 
-[^40]: [[Ezra.7|Ezra 7:27]]; [[Prov.16|Prov 16:7]], [[Prov.21|Prov 21:1]]; [[Matt.6|Matt 6:33]]
+[^40]: [[1Chr.5|1Chr 5:20]]; [[Ezra.8|Ezra 8:23]]; [[Job.22|Job 22:23]], [[Job.22|Job 22:27]], [[Job.33|Job 33:16-30]]; [[Ps.32|Ps 32:3-5]], [[Ps.86|Ps 86:5]]; [[Isa.55|Isa 55:6-9]]; [[Jer.29|Jer 29:12-13]]; [[Matt.7|Matt 7:7-8]]; [[Luke.23|Luke 23:42-43]]; [[John.4|John 4:10]]
 
-[^41]: [[Deut.29|Deut 29:6]]; [[Ps.9|Ps 9:16]], [[Ps.46|Ps 46:10]]; [[Jer.24|Jer 24:7]]; [[Dan.4|Dan 4:25]], [[Dan.4|Dan 4:34-35]]; [[John.17|John 17:3]]; [[Heb.8|Heb 8:11]]
+[^41]: [[Ezra.7|Ezra 7:27]]; [[Prov.16|Prov 16:7]], [[Prov.21|Prov 21:1]]; [[Matt.6|Matt 6:33]]
 
-[^42]: ***he was entreated*** [[1Chr.5|1Chr 5:20]]; [[Ezra.8|Ezra 8:23]]; [[Job.22|Job 22:23]], [[Job.22|Job 22:27]], [[Job.33|Job 33:16-30]]; [[Ps.32|Ps 32:3-5]], [[Ps.86|Ps 86:5]]; [[Isa.55|Isa 55:6-9]]; [[Jer.29|Jer 29:12-13]]; [[Matt.7|Matt 7:7-8]]; [[Luke.23|Luke 23:42-43]]; [[John.4|John 4:10]]
+[^42]: [[Deut.29|Deut 29:6]]; [[Ps.9|Ps 9:16]], [[Ps.46|Ps 46:10]]; [[Jer.24|Jer 24:7]]; [[Dan.4|Dan 4:25]], [[Dan.4|Dan 4:34-35]]; [[John.17|John 17:3]]; [[Heb.8|Heb 8:11]]
 
 [^43]: [[2Chr.32|2Chr 32:5]]
 
@@ -145,13 +145,13 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.33.25|25]]**<span class=
 
 [^60]:  [[1Kgs.11|1Kgs 11:41]]
 
-[^61]: [[2Chr.33|2Chr 33:12]], [[2Chr.30|2Chr 30:11]], [[2Chr.36|2Chr 36:12]]; [[Ps.119|Ps 119:67]], [[Ps.119|Ps 119:71]], [[Ps.119|Ps 119:75]]; [[Jer.44|Jer 44:10]]; [[Dan.5|Dan 5:22]]
+[^61]: [[2Chr.33|2Chr 33:11-12]], [[2Chr.33|2Chr 33:19]]; [[Prov.15|Prov 15:8]]; [[Acts.9|Acts 9:11]]; [[1John.1|1John 1:9]]
 
-[^62]: or, Hosai, So the Targum and Vulgate. The Syraic has Hanun the prophet; and the Arabic, Saphan the prophet. This record is totally lost; for the captivity and repentance of Manasseh are related no where else; and the prayer of Manasseh in the Apocrypha was probably composed long afterwards. It is not acknowledged as canonical even by the Romish church, though it was anciently used as a form of confession, and as such still received by the Greek church.
+[^62]: [[2Chr.33|2Chr 33:1-10]]; [[Rom.5|Rom 5:16]]
 
-[^63]: ***his prayer also*** [[2Chr.33|2Chr 33:11-12]], [[2Chr.33|2Chr 33:19]]; [[Prov.15|Prov 15:8]]; [[Acts.9|Acts 9:11]]; [[1John.1|1John 1:9]]
+[^63]: [[2Chr.33|2Chr 33:12]], [[2Chr.30|2Chr 30:11]], [[2Chr.36|2Chr 36:12]]; [[Ps.119|Ps 119:67]], [[Ps.119|Ps 119:71]], [[Ps.119|Ps 119:75]]; [[Jer.44|Jer 44:10]]; [[Dan.5|Dan 5:22]]
 
-[^64]: ***all his sins*** [[2Chr.33|2Chr 33:1-10]]; [[Rom.5|Rom 5:16]]
+[^64]: or, Hosai, So the Targum and Vulgate. The Syraic has Hanun the prophet; and the Arabic, Saphan the prophet. This record is totally lost; for the captivity and repentance of Manasseh are related no where else; and the prayer of Manasseh in the Apocrypha was probably composed long afterwards. It is not acknowledged as canonical even by the Romish church, though it was anciently used as a form of confession, and as such still received by the Greek church.
 
 [^65]: [[2Chr.32|2Chr 32:33]]; [[2Kgs.21|2Kgs 21:18]]
 
@@ -163,7 +163,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.33.25|25]]**<span class=
 
 [^69]: [[2Chr.33|2Chr 33:1-10]]; [[2Kgs.21|2Kgs 21:1-11]], [[2Kgs.21|2Kgs 21:20]]; [[Ezek.20|Ezek 20:18]]
 
-[^70]: Amon's conduct is recorded as like his father Manasseh, in sacrificing to graven images; by which some think it is an evidence that Manasseh did not truly repent, but they forget how many good kings had wicked sons. In one point of view Manasseh was defective, although it cannot be supposed that it affected his eternal state; for when he cast out the images, he did not utterly deface and destroy them, according to the law in [[Deut.7|Deut 7:5]], which required, moreover, that the graven images should be burnt with fire. How necessary that law was, this instance shows; for the carved images being only thrown aside, and not burnt, Amon knew where to find them, soon set them up, and sacrificed to them. [[Isa.44|Isa 44:13-20]]
+[^70]: Amon's conduct is recorded as like his father Manasseh, in sacrificing to graven images; by which some think it is an evidence that Manasseh did not truly repent, but they forget how many good kings had wicked sons. In one point of view Manasseh was defective, although it cannot be supposed that it affected his eternal state; for when he cast out the images, he did not utterly deface and destroy them, according to the law in [[Deut.7|Deut 7:5]], which required, moreover, that the graven images should be burnt with fire. How necessary that law was, this instance shews; for the carved images being only thrown aside, and not burnt, Amon knew where to find them, soon set them up, and sacrificed to them. [[Isa.44|Isa 44:13-20]]
 
 [^71]: [[2Chr.33|2Chr 33:1]], [[2Chr.33|2Chr 33:12]], [[2Chr.33|2Chr 33:19]]; [[Jer.8|Jer 8:12]]
 

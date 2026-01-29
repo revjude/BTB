@@ -4,14 +4,14 @@
 
  $\quad$ <span class="startversemarker">[</span>**[[Hos.1.1|1]]**<span class="endversemarker">]</span> The word<small><small>[^2]</small></small> of the <span class="smallcaps">Lord</span> that came unto Hosea<small><small>[^3]</small></small>, the son of Beeri, in<small><small>[^4]</small></small> the days of Uzziah<small><small>[^5]</small></small>, Jotham, Ahaz, \[and\] Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel. <span class="startversemarker">[</span>**[[Hos.1.2|2]]**<span class="endversemarker">]</span> The beginning<small><small>[^6]</small></small> of the word of the <span class="smallcaps">Lord</span> by Hosea. And the <span class="smallcaps">Lord</span> said to Hosea, Go<small><small>[^7]</small></small>, take unto thee a wife<small><small>[^8]</small></small> of whoredoms and children<small><small>[^9]</small></small> of whoredoms: for<small><small>[^10]</small></small> the land hath committed great whoredom, \[departing\] from the <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[Hos.1.3|3]]**<span class="endversemarker">]</span> So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.<small><small>[^11]</small></small> <span class="startversemarker">[</span>**[[Hos.1.4|4]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto him, Call<small><small>[^12]</small></small> his name Jezreel<small><small>[^13]</small></small>; for yet a little \[while\], and I<small><small>[^14]</small></small> will avenge<small><small>[^15]</small></small> the blood of Jezreel upon the house of Jehu, and will cause<small><small>[^16]</small></small> to cease the kingdom of the house of Israel. <span class="startversemarker">[</span>**[[Hos.1.5|5]]**<span class="endversemarker">]</span> And it shall come to pass at that day, that I will<small><small>[^17]</small></small> break the bow of Israel in<small><small>[^18]</small></small> the valley of Jezreel. 
 
-$\quad$ <span class="startversemarker">[</span>**[[Hos.1.6|6]]**<span class="endversemarker">]</span> [¶]And she conceived again, and bare a daughter. And \[God\] said unto him, Call her name Lo–ruhamah: for<small><small>[^19]</small></small> I will no more have<small><small>[^20]</small></small> mercy upon the house of Israel; but I will utterly take them away.<small><small>[^21]</small></small> <span class="startversemarker">[</span>**[[Hos.1.7|7]]**<span class="endversemarker">]</span> But I will<small><small>[^22]</small></small> have mercy upon the house of Judah, and will save<small><small>[^23]</small></small> them by the <span class="smallcaps">Lord</span> their God, and will not save them by bow<small><small>[^24]</small></small>, nor by sword, nor by battle, by horses, nor by horsemen. 
+$\quad$ <span class="startversemarker">[</span>**[[Hos.1.6|6]]**<span class="endversemarker">]</span> [¶]And she conceived again, and bare a daughter. And \[God\] said unto him, Call her name Lo–ruhamah<small><small>[^19]</small></small>: for<small><small>[^20]</small></small> I will no more have<small><small>[^21]</small></small> mercy upon the house of Israel; but I will utterly take them away. <span class="startversemarker">[</span>**[[Hos.1.7|7]]**<span class="endversemarker">]</span> But I will<small><small>[^22]</small></small> have mercy upon the house of Judah, and will save<small><small>[^23]</small></small> them by the <span class="smallcaps">Lord</span> their God, and will not save them by bow<small><small>[^24]</small></small>, nor by sword, nor by battle, by horses, nor by horsemen. 
 
-$\quad$ <span class="startversemarker">[</span>**[[Hos.1.8|8]]**<span class="endversemarker">]</span> Now when she had weaned Lo–ruhamah, she conceived, and bare a son. <span class="startversemarker">[</span>**[[Hos.1.9|9]]**<span class="endversemarker">]</span> Then said \[God\], Call his name Lo–ammi: for ye \[are\] not my people, and I will not be your \[God\].<small><small>[^25]</small></small> 
+$\quad$ <span class="startversemarker">[</span>**[[Hos.1.8|8]]**<span class="endversemarker">]</span> Now when she had weaned Lo–ruhamah, she conceived, and bare a son. <span class="startversemarker">[</span>**[[Hos.1.9|9]]**<span class="endversemarker">]</span> Then said \[God\], Call his name Lo–ammi<small><small>[^25]</small></small>: for ye \[are\] not my people, and I will not be your \[God\]. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Hos.1.10|10]]**<span class="endversemarker">]</span> [¶]Yet the number<small><small>[^26]</small></small> of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it<small><small>[^27]</small></small> shall come to pass, \[that\] in the<small><small>[^28]</small></small> place where it was said<small><small>[^29]</small></small> unto them, Ye \[are\] not my people, \[there\] it shall be said unto them, \[Ye are\] the sons<small><small>[^30]</small></small> of the living God. <span class="startversemarker">[</span>**[[Hos.1.11|11]]**<span class="endversemarker">]</span> Then shall<small><small>[^31]</small></small> the children of Judah<small><small>[^32]</small></small> and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for<small><small>[^33]</small></small> great \[shall be\] the day of Jezreel. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12|<< Daniel 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2|Hosea 2 >>]]</td></tr></table>
 
 
-[^1]:  [[Hos.1|Hos 1:1]], Hosea, to shew God’s judgment for spiritual whoredom, takes Gomer, [[Hos.1|Hos 1:4]], and has by her Jezreel; [[Hos.1|Hos 1:6]], Loruhamah; [[Hos.1|Hos 1:8]], and Lo-ammi; [[Hos.1|Hos 1:10]], The restoration of Judah and Israel under one head.
+[^1]:  [[Hos.1|Hos 1:1]], Hosea, to shew God’s judgment for spiritual whoredom, takes Gomer, [[Hos.1|Hos 1:4]], and has by her Jezreel; [[Hos.1|Hos 1:6]], Lo–ruhamah; [[Hos.1|Hos 1:8]], and Lo–ammi; [[Hos.1|Hos 1:10]], The restoration of Judah and Israel under one head.
 
 [^2]: [[Jer.1|Jer 1:2]], [[Jer.1|Jer 1:4]]; [[Ezek.1|Ezek 1:3]]; [[Joel.1|Joel 1:1]]; [[Jonah.1|Jonah 1:1]]; [[Zech.1|Zech 1:1]]; [[John.10|John 10:35]]; [[2Pet.1|2Pet 1:21]]
 
@@ -47,11 +47,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Hos.1.10|10]]**<span class="e
 
 [^18]: [[Josh.17|Josh 17:16]]; [[Judg.6|Judg 6:33]]
 
-[^19]: [[2Kgs.17|2Kgs 17:6]], [[2Kgs.17|2Kgs 17:23-41]]; [[Isa.27|Isa 27:11]]
+[^19]: that is, Not having obtained mercy, [[Hos.2|Hos 2:23]]; [[1Pet.2|1Pet 2:10]]
 
-[^20]: Heb. not add any more to have. but I will utterly take them away. or, that I should altogether pardon them. [[Hos.9|Hos 9:15-17]]
+[^20]: [[2Kgs.17|2Kgs 17:6]], [[2Kgs.17|2Kgs 17:23-41]]; [[Isa.27|Isa 27:11]]
 
-[^21]: ***Loruhamah*** that is, Not having obtained mercy, [[Hos.2|Hos 2:23]]; [[1Pet.2|1Pet 2:10]]
+[^21]: Heb. not add any more to have. but I will utterly take them away. or, that I should altogether pardon them. [[Hos.9|Hos 9:15-17]]
 
 [^22]: [[Hos.11|Hos 11:12]]; [[2Kgs.19|2Kgs 19:35]]; Isa. 36:1-37:38
 
@@ -59,7 +59,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Hos.1.10|10]]**<span class="e
 
 [^24]: [[Ps.33|Ps 33:16]], [[Ps.44|Ps 44:3-6]]
 
-[^25]: ***Loammi*** that is, Not my people, [[Jer.15|Jer 15:1]]
+[^25]: that is, Not my people, [[Jer.15|Jer 15:1]]
 
 [^26]: [[Gen.13|Gen 13:16]], [[Gen.32|Gen 32:12]]; [[Isa.48|Isa 48:19]]; [[Rom.9|Rom 9:27-28]]; [[Heb.11|Heb 11:12]]
 

@@ -45,7 +45,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.17.7|7]]**<span class="e
 
 [^19]: That is, of the tribe of Judah by his mother; and of that of Levi by his father.
 
-[^20]: Beth-lehem-judah, [[Judg.19|Judg 19:1-2]]; [[Gen.35|Gen 35:19]]; [[Josh.19|Josh 19:15]]; [[Ruth.1|Ruth 1:1-2]]; [[Mic.5|Mic 5:2]]; [[Matt.2|Matt 2:1]], [[Matt.2|Matt 2:5-6]]
+[^20]: Beth–lehemjudah, [[Judg.19|Judg 19:1-2]]; [[Gen.35|Gen 35:19]]; [[Josh.19|Josh 19:15]]; [[Ruth.1|Ruth 1:1-2]]; [[Mic.5|Mic 5:2]]; [[Matt.2|Matt 2:1]], [[Matt.2|Matt 2:5-6]]
 
 [^21]: [[Judg.17|Judg 17:11]]; [[Neh.13|Neh 13:10-11]]
 

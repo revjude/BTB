@@ -17,7 +17,7 @@
 
 [^6]: or, cut off
 
-[^7]: [[Isa.16|Isa 16:7]], Kir-hareseth, [[Isa.16|Isa 16:11]], Kir-haresh, [[2Kgs.3|2Kgs 3:25]], Kir-haraseth, [[Jer.48|Jer 48:31]], [[Jer.48|Jer 48:36]], Kir-heres
+[^7]: [[Isa.16|Isa 16:7]], Kir–hareseth, [[Isa.16|Isa 16:11]], Kir–haresh, [[2Kgs.3|2Kgs 3:25]], Kir–haraseth, [[Jer.48|Jer 48:31]], [[Jer.48|Jer 48:36]], Kir–heres
 
 [^8]: [[Isa.16|Isa 16:12]]; [[Josh.13|Josh 13:17]]; [[Jer.48|Jer 48:18]], [[Jer.48|Jer 48:22-23]]
 
@@ -55,7 +55,7 @@
 
 [^25]: Heb. breaking, [[Isa.22|Isa 22:5]]; [[Jer.4|Jer 4:20]]
 
-[^26]: [[Num.32|Num 32:3]], [[Num.32|Num 32:36]], Nimrah, Beth-nimrah, [[Josh.13|Josh 13:27]], Beth-nimrah
+[^26]: [[Num.32|Num 32:3]], [[Num.32|Num 32:36]], Nimrah, Beth–nimrah, [[Josh.13|Josh 13:27]], Beth–nimrah
 
 [^27]: Heb. desolations
 
@@ -69,7 +69,7 @@
 
 [^32]: [[Isa.15|Isa 15:2-5]]; [[Jer.48|Jer 48:20-24]], [[Jer.48|Jer 48:31-34]]
 
-[^33]: [[Ezek.47|Ezek 47:10]], En-eglaim, Eglaim is called Agallim by Eusebius, who places it eight miles south from Ar or Areopolis.
+[^33]: [[Ezek.47|Ezek 47:10]], En–eglaim, Eglaim is called Agallim by Eusebius, who places it eight miles south from Ar or Areopolis.
 
 [^34]: Some have Dibon; and Jerome says that the same town was called both Dibon and Dimon.
 

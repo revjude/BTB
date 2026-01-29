@@ -4,7 +4,7 @@
 
  $\quad$ <span class="startversemarker">[</span>**[[2Chr.22.1|1]]**<span class="endversemarker">]</span> And the inhabitants<small><small>[^2]</small></small> of Jerusalem made Ahaziah<small><small>[^3]</small></small> his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain<small><small>[^4]</small></small> all the eldest. So Ahaziah the son of Jehoram king of Judah reigned. <span class="startversemarker">[</span>**[[2Chr.22.2|2]]**<span class="endversemarker">]</span> Forty and two<small><small>[^5]</small></small> years old \[was\] Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother’s name also \[was\] Athaliah<small><small>[^6]</small></small> the daughter of Omri.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[2Chr.22.3|3]]**<span class="endversemarker">]</span> He also walked in the ways of the house of Ahab: for his mother<small><small>[^8]</small></small> was his counsellor<small><small>[^9]</small></small> to do wickedly. <span class="startversemarker">[</span>**[[2Chr.22.4|4]]**<span class="endversemarker">]</span> Wherefore he did evil in the sight of the <span class="smallcaps">Lord</span> like the house of Ahab: for they were his<small><small>[^10]</small></small> counsellors after the death of his father to his destruction. 
 
-$\quad$ <span class="startversemarker">[</span>**[[2Chr.22.5|5]]**<span class="endversemarker">]</span> [¶]He walked<small><small>[^11]</small></small> also after their counsel, and went with<small><small>[^12]</small></small> Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramoth–gilead: and the Syrians smote Joram.<small><small>[^13]</small></small> <span class="startversemarker">[</span>**[[2Chr.22.6|6]]**<span class="endversemarker">]</span> And he returned<small><small>[^14]</small></small> to be healed in Jezreel because of the wounds which were given him<small><small>[^15]</small></small> at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram<small><small>[^16]</small></small> the son of Ahab at Jezreel, because he was sick. <span class="startversemarker">[</span>**[[2Chr.22.7|7]]**<span class="endversemarker">]</span> And the destruction<small><small>[^17]</small></small> of Ahaziah was of God<small><small>[^18]</small></small> by coming to Joram: for when he was come, he went out<small><small>[^19]</small></small> with Jehoram against Jehu the son of Nimshi, whom the <span class="smallcaps">Lord</span> had anointed to cut off the house of Ahab.<small><small>[^20]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[2Chr.22.5|5]]**<span class="endversemarker">]</span> [¶]He walked<small><small>[^11]</small></small> also after their counsel, and went with<small><small>[^12]</small></small> Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramoth–gilead<small><small>[^13]</small></small>: and the Syrians smote Joram. <span class="startversemarker">[</span>**[[2Chr.22.6|6]]**<span class="endversemarker">]</span> And he returned<small><small>[^14]</small></small> to be healed in Jezreel because of the wounds which were given him<small><small>[^15]</small></small> at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram<small><small>[^16]</small></small> the son of Ahab at Jezreel, because he was sick. <span class="startversemarker">[</span>**[[2Chr.22.7|7]]**<span class="endversemarker">]</span> And the destruction<small><small>[^17]</small></small> of Ahaziah was of God<small><small>[^18]</small></small> by coming to Joram: for when he was come, he went out<small><small>[^19]</small></small> with Jehoram against Jehu the son of Nimshi, whom the <span class="smallcaps">Lord</span> had<small><small>[^20]</small></small> anointed to cut off the house of Ahab.
 
 ***Jehu Kills the Princes of Judah***&emsp;<small><sup>\[ [[2Kgs.9|2 Kings 9:14–29]] ]</sup></small> ^bsb1119
 
@@ -41,7 +41,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.22.10|10]]**<span class=
 
 [^12]: [[2Kgs.8|2Kgs 8:28]], 29-9:13
 
-[^13]: ***Ramothgilead*** [[2Chr.18|2Chr 18:3]], [[2Chr.18|2Chr 18:31]], [[2Chr.19|2Chr 19:2]]; [[1Kgs.22|1Kgs 22:3]]; [[Dan.5|Dan 5:22]]
+[^13]: [[2Chr.18|2Chr 18:3]], [[2Chr.18|2Chr 18:31]], [[2Chr.19|2Chr 19:2]]; [[1Kgs.22|1Kgs 22:3]]; [[Dan.5|Dan 5:22]]
 
 [^14]: [[2Kgs.9|2Kgs 9:15]]
 
@@ -55,7 +55,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.22.10|10]]**<span class=
 
 [^19]: [[2Kgs.9|2Kgs 9:21]]
 
-[^20]: ***the Lord had*** [[1Kgs.19|1Kgs 19:16]]; [[2Kgs.9|2Kgs 9:1-7]]
+[^20]: [[1Kgs.19|1Kgs 19:16]]; [[2Kgs.9|2Kgs 9:1-7]]
 
 [^21]: [[2Kgs.10|2Kgs 10:10-14]]
 

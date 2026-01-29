@@ -6,7 +6,7 @@
 
 *The Bride* ^bsb1561
 
- <span class="startversemarker">[</span>**[[Song.6.2|2]]**<span class="endversemarker">]</span> My beloved is gone<small><small>[^4]</small></small> down into his garden, to the beds<small><small>[^5]</small></small> of spices, to feed<small><small>[^6]</small></small> in the gardens, and to<small><small>[^7]</small></small> gather lilies. <span class="startversemarker">[</span>**[[Song.6.3|3]]**<span class="endversemarker">]</span> I \[am\] my beloved’s, and my beloved \[is\] mine: he<small><small>[^8]</small></small> feedeth among the lilies.<small><small>[^9]</small></small>
+ <span class="startversemarker">[</span>**[[Song.6.2|2]]**<span class="endversemarker">]</span> My beloved is gone<small><small>[^4]</small></small> down into his garden, to the beds<small><small>[^5]</small></small> of spices, to feed<small><small>[^6]</small></small> in the gardens, and to<small><small>[^7]</small></small> gather lilies. <span class="startversemarker">[</span>**[[Song.6.3|3]]**<span class="endversemarker">]</span> I \[am\] my beloved’s<small><small>[^8]</small></small>, and my beloved \[is\] mine: he<small><small>[^9]</small></small> feedeth among the lilies.
 
 *The Bridegroom* ^bsb1562
 
@@ -26,7 +26,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Song.6.10|10]]**<span class="
 
 *The Friends* ^bsb1565
 
- <span class="startversemarker">[</span>**[[Song.6.13|13]]**<span class="endversemarker">]</span> Return, return<small><small>[^32]</small></small>, O Shulamite; return, return, that we may look upon thee. What<small><small>[^33]</small></small> will ye see in the Shulamite<small><small>[^34]</small></small>? As<small><small>[^35]</small></small> it were the company of two armies<small><small>[^36]</small></small>. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5|<< Song of Solomon 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7|Song of Solomon 7 >>]]</td></tr></table>
+ <span class="startversemarker">[</span>**[[Song.6.13|13]]**<span class="endversemarker">]</span> Return<small><small>[^32]</small></small>, return, O Shulamite; return, return, that we may look upon thee. What<small><small>[^33]</small></small> will ye see in the Shulamite<small><small>[^34]</small></small>? As<small><small>[^35]</small></small> it were the company of two armies<small><small>[^36]</small></small>. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5|<< Song of Solomon 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7|Song of Solomon 7 >>]]</td></tr></table>
 
 
 [^1]:  [[Song.6|Song 6:1]], The church professes her faith in Christ; [[Song.6|Song 6:4]], Christ shews the graces of the church; [[Song.6|Song 6:10]], and his love towards her.
@@ -43,9 +43,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Song.6.10|10]]**<span class="
 
 [^7]: [[Song.2|Song 2:2]]; [[Isa.57|Isa 57:1]]; [[John.14|John 14:3]], [[John.17|John 17:24]]; [[Phil.1|Phil 1:21-23]]; [[1Thess.4|1Thess 4:13-14]]
 
-[^8]: [[Song.2|Song 2:16]]
+[^8]: [[Song.2|Song 2:16]], [[Song.7|Song 7:10]]; [[Heb.8|Heb 8:10]]; [[Rev.21|Rev 21:2-4]]
 
-[^9]: ***my beloved's*** [[Song.2|Song 2:16]], [[Song.7|Song 7:10]]; [[Heb.8|Heb 8:10]]; [[Rev.21|Rev 21:2-4]]
+[^9]: [[Song.2|Song 2:16]]
 
 [^10]: [[Song.6|Song 6:10]], [[Song.2|Song 2:14]], [[Song.4|Song 4:7]], [[Song.5|Song 5:2]]; [[Ezek.16|Ezek 16:13-14]]; [[Eph.5|Eph 5:27]]
 

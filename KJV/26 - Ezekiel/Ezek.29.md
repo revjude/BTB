@@ -27,7 +27,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezek.29.21|21]]**<span class=
 
 [^3]: [[Ezek.6|Ezek 6:2]], [[Ezek.20|Ezek 20:46]], [[Ezek.21|Ezek 21:2]], [[Ezek.25|Ezek 25:2]], [[Ezek.28|Ezek 28:21-22]]
 
-[^4]: This was Pharaoh-hophra, or Apries, who, Herodotus informs us, agreeably to the character given him by the prophet, "proudly and wickedly boasted of having established his kingdom so securely, that it was not in the power of any God to dispossess him of it." [[Jer.44|Jer 44:30]]
+[^4]: This was Pharaoh–hophra, or Apries, who, Herodotus informs us, agreeably to the character given him by the prophet, "proudly and wickedly boasted of having established his kingdom so securely, that it was not in the power of any God to dispossess him of it." [[Jer.44|Jer 44:30]]
 
 [^5]: Ezek. 30:1-32:32; Isa. 18:1-19:17, [[Isa.20|Isa 20:1-6]]; [[Jer.9|Jer 9:25-26]], [[Jer.25|Jer 25:18-19]]; [[Jer.43|Jer 43:8-13]], [[Jer.46|Jer 46:2-16]]; [[Joel.3|Joel 3:19]]; [[Zech.14|Zech 14:18-19]]
 

@@ -20,7 +20,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.3.11|11]]**<span class="
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[2Chr.3.14|14]]**<span class="endversemarker">]</span> [¶]And he made the vail \[of\] blue, and purple, and crimson, and fine linen, and wrought<small><small>[^25]</small></small> cherubims thereon.<small><small>[^26]</small></small> <span class="startversemarker">[</span>**[[2Chr.3.15|15]]**<span class="endversemarker">]</span> Also he made before the house two pillars<small><small>[^27]</small></small> of thirty<small><small>[^28]</small></small> and five cubits high<small><small>[^29]</small></small>, and the chapiter that \[was\] on the top of each of them \[was\] five cubits. <span class="startversemarker">[</span>**[[2Chr.3.16|16]]**<span class="endversemarker">]</span> And he made chains<small><small>[^30]</small></small>, \[as\] in the oracle, and put \[them\] on the heads of the pillars; and made an hundred<small><small>[^31]</small></small> pomegranates, and put \[them\] on the chains. <span class="startversemarker">[</span>**[[2Chr.3.17|17]]**<span class="endversemarker">]</span> And he reared up<small><small>[^32]</small></small> the pillars before the temple, one on the right hand, and the other on the left; and called the name of that on the right hand Jachin<small><small>[^33]</small></small>, and the name of that on the left Boaz<small><small>[^34]</small></small>. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2|<< 2 Chronicles 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4|2 Chronicles 4 >>]]</td></tr></table>
+$\quad$ <span class="startversemarker">[</span>**[[2Chr.3.14|14]]**<span class="endversemarker">]</span> [¶]And he made the vail<small><small>[^25]</small></small> \[of\] blue, and purple, and crimson, and fine linen, and wrought<small><small>[^26]</small></small> cherubims thereon. <span class="startversemarker">[</span>**[[2Chr.3.15|15]]**<span class="endversemarker">]</span> Also he made before the house two pillars<small><small>[^27]</small></small> of thirty<small><small>[^28]</small></small> and five cubits high<small><small>[^29]</small></small>, and the chapiter that \[was\] on the top of each of them \[was\] five cubits. <span class="startversemarker">[</span>**[[2Chr.3.16|16]]**<span class="endversemarker">]</span> And he made chains<small><small>[^30]</small></small>, \[as\] in the oracle, and put \[them\] on the heads of the pillars; and made an hundred<small><small>[^31]</small></small> pomegranates, and put \[them\] on the chains. <span class="startversemarker">[</span>**[[2Chr.3.17|17]]**<span class="endversemarker">]</span> And he reared up<small><small>[^32]</small></small> the pillars before the temple, one on the right hand, and the other on the left; and called the name of that on the right hand Jachin<small><small>[^33]</small></small>, and the name of that on the left Boaz<small><small>[^34]</small></small>. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2|<< 2 Chronicles 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4|2 Chronicles 4 >>]]</td></tr></table>
 
 
 [^1]:  [[2Chr.3|2Chr 3:1]], The place and time of building the temple; [[2Chr.3|2Chr 3:3]], The measure and ornaments of the house; [[2Chr.3|2Chr 3:11]], The cherubims; [[2Chr.3|2Chr 3:14]], The vail and pillars.
@@ -71,9 +71,9 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.3.14|14]]**<span class="
 
 [^24]: or, toward the house, [[Exod.25|Exod 25:20]]
 
-[^25]: Heb. caused to ascend
+[^25]: [[Exod.26|Exod 26:31-35]]; [[Matt.27|Matt 27:51]]; [[Heb.9|Heb 9:3]], [[Heb.10|Heb 10:20]]
 
-[^26]: ***the veil*** [[Exod.26|Exod 26:31-35]]; [[Matt.27|Matt 27:51]]; [[Heb.9|Heb 9:3]], [[Heb.10|Heb 10:20]]
+[^26]: Heb. caused to ascend
 
 [^27]: [[1Kgs.7|1Kgs 7:15-24]]; [[Jer.52|Jer 52:20-23]]
 

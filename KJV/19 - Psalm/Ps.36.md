@@ -54,7 +54,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Ps.36.1|1]]**<span class="end
 
 [^22]: [[Ps.16|Ps 16:11]], [[Ps.17|Ps 17:15]], [[Ps.63|Ps 63:5]], [[Ps.65|Ps 65:4]]; [[Song.5|Song 5:1]]; [[Isa.25|Isa 25:6]], [[Isa.55|Isa 55:1-2]]; [[Jer.31|Jer 31:12-14]]; [[Zech.9|Zech 9:17]]; [[Matt.5|Matt 5:6]]; [[John.7|John 7:37]]
 
-[^23]: Heb. watered, ***Yirweyun***, "they shall be saturated," as a thirsty field by showers from heaven. [[Isa.58|Isa 58:11]]
+[^23]: Heb. watered, ***Yirweyun***, "they shall be saturated," as a thirsty field by shewers from heaven. [[Isa.58|Isa 58:11]]
 
 [^24]: [[Ps.16|Ps 16:11]], [[Ps.46|Ps 46:4]]; [[Job.20|Job 20:17]]; [[Isa.43|Isa 43:20]], [[Isa.48|Isa 48:21]]; [[Rev.22|Rev 22:1-17]]
 

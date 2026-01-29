@@ -4,7 +4,7 @@
 
  $\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.1|1]]**<span class="endversemarker">]</span> In the<small><small>[^2]</small></small> twenty and seventh<small><small>[^3]</small></small> year of Jeroboam king of Israel began Azariah<small><small>[^4]</small></small> son of Amaziah king of Judah to reign.<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.2|2]]**<span class="endversemarker">]</span> Sixteen years old was he when he began to reign, and he reigned two and fifty years in Jerusalem. And his mother’s name \[was\] Jecholiah of Jerusalem. <span class="startversemarker">[</span>**[[2Kgs.15.3|3]]**<span class="endversemarker">]</span> And he did \[that which was\] right in the sight of the <span class="smallcaps">Lord</span>, according to all that his father Amaziah had done;<small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.4|4]]**<span class="endversemarker">]</span> Save that the high places<small><small>[^7]</small></small> were not removed: the people sacrificed and burnt incense still on the high places. 
 
-$\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.5|5]]**<span class="endversemarker">]</span> [¶]And the <span class="smallcaps">Lord</span> smote the king, so that<small><small>[^8]</small></small> he was a leper unto the day of his death, and dwelt<small><small>[^9]</small></small> in a several house. And Jotham<small><small>[^10]</small></small> the king’s son \[was\] over the house, judging<small><small>[^11]</small></small> the people of the land.<small><small>[^12]</small></small><small><small>[^13]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.6|6]]**<span class="endversemarker">]</span> And the rest of the acts of Azariah<small><small>[^14]</small></small>, and all that he did, \[are\] they not written<small><small>[^15]</small></small> in the book of the chronicles of the kings of Judah?<small><small>[^16]</small></small><small><small>[^17]</small></small><small><small>[^18]</small></small><small><small>[^19]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.7|7]]**<span class="endversemarker">]</span> So Azariah slept with his fathers; and they buried him with his fathers in the city of David: and Jotham his son reigned in his stead.<small><small>[^20]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.5|5]]**<span class="endversemarker">]</span> [¶]And the <span class="smallcaps">Lord<small><small>[^8]</small></small></span> smote the king, so that<small><small>[^9]</small></small> he was a leper unto the day of his death, and dwelt<small><small>[^10]</small></small> in a several house. And Jotham<small><small>[^11]</small></small> the king’s son \[was\] over the house, judging<small><small>[^12]</small></small> the people of the land.<small><small>[^13]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.6|6]]**<span class="endversemarker">]</span> And the rest of the acts of Azariah<small><small>[^14]</small></small>, and all that he did, \[are\] they not written<small><small>[^15]</small></small> in the book of the chronicles of the kings of Judah?<small><small>[^16]</small></small><small><small>[^17]</small></small><small><small>[^18]</small></small><small><small>[^19]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.7|7]]**<span class="endversemarker">]</span> So Azariah slept with his fathers; and they buried him with his fathers in the city of David: and Jotham his son reigned in his stead.<small><small>[^20]</small></small>
 
 ***Zechariah Reigns in Israel*** ^bsb933
 
@@ -36,20 +36,20 @@ $\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.23|23]]**<span class=
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.27|27]]**<span class="endversemarker">]</span> [¶]In the two<small><small>[^63]</small></small> and fiftieth year of Azariah king of Judah Pekah<small><small>[^64]</small></small> the son of Remaliah began to reign over Israel in Samaria, \[and reigned\] twenty years.<small><small>[^65]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.28|28]]**<span class="endversemarker">]</span> And he did \[that which was\] evil<small><small>[^66]</small></small> in the sight of the <span class="smallcaps">Lord</span>: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin. <span class="startversemarker">[</span>**[[2Kgs.15.29|29]]**<span class="endversemarker">]</span> In the days of Pekah king of Israel came Tiglath–pileser king of Assyria, and took Ijon<small><small>[^67]</small></small>, and Abel–beth–maachah, and Janoah<small><small>[^68]</small></small>, and Kedesh<small><small>[^69]</small></small>, and Hazor<small><small>[^70]</small></small>, and Gilead<small><small>[^71]</small></small>, and Galilee<small><small>[^72]</small></small>, all the land of Naphtali, and carried them<small><small>[^73]</small></small> captive to Assyria.<small><small>[^74]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.30|30]]**<span class="endversemarker">]</span> And Hoshea the son of Elah made<small><small>[^75]</small></small> a conspiracy against Pekah the son of Remaliah, and smote<small><small>[^76]</small></small> him, and slew him, and reigned<small><small>[^77]</small></small> in his stead, in the twentieth<small><small>[^78]</small></small> year of Jotham the son of Uzziah.<small><small>[^79]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.31|31]]**<span class="endversemarker">]</span> And the rest of the acts of Pekah, and all that he did, behold, they \[are\] written in the book of the chronicles of the kings of Israel.
+$\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.27|27]]**<span class="endversemarker">]</span> [¶]In the two<small><small>[^63]</small></small> and fiftieth year of Azariah king of Judah Pekah<small><small>[^64]</small></small> the son of Remaliah began to reign over Israel in Samaria, \[and reigned\] twenty years.<small><small>[^65]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.28|28]]**<span class="endversemarker">]</span> And he did \[that which was\] evil<small><small>[^66]</small></small> in the sight of the <span class="smallcaps">Lord</span>: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin. <span class="startversemarker">[</span>**[[2Kgs.15.29|29]]**<span class="endversemarker">]</span> In the days of Pekah king of Israel came Tiglath–pileser<small><small>[^67]</small></small> king of Assyria, and took Ijon<small><small>[^68]</small></small>, and Abel–beth–maachah, and Janoah<small><small>[^69]</small></small>, and Kedesh<small><small>[^70]</small></small>, and Hazor<small><small>[^71]</small></small>, and Gilead<small><small>[^72]</small></small>, and Galilee<small><small>[^73]</small></small>, all the land of Naphtali, and carried them<small><small>[^74]</small></small> captive to Assyria. <span class="startversemarker">[</span>**[[2Kgs.15.30|30]]**<span class="endversemarker">]</span> And Hoshea the son of Elah made<small><small>[^75]</small></small> a conspiracy against Pekah the son of Remaliah, and smote<small><small>[^76]</small></small> him, and slew him, and reigned<small><small>[^77]</small></small> in his stead, in the twentieth<small><small>[^78]</small></small> year of Jotham the son of Uzziah.<small><small>[^79]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.31|31]]**<span class="endversemarker">]</span> And the rest of the acts of Pekah, and all that he did, behold, they \[are\] written in the book of the chronicles of the kings of Israel.
 
 ***Jotham Reigns in Judah***&emsp;<small><sup>\[ [[2Chr.27|2 Chronicles 27:1–9]] ]</sup></small> ^bsb938
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.32|32]]**<span class="endversemarker">]</span> In the second year of Pekah the son of Remaliah king of Israel began Jotham<small><small>[^80]</small></small> the son of Uzziah king of Judah to reign.<small><small>[^81]</small></small><small><small>[^82]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.33|33]]**<span class="endversemarker">]</span> Five and twenty years old was he when he began to reign, and he reigned sixteen years in Jerusalem. And his mother’s name \[was\] Jerusha<small><small>[^83]</small></small>, the daughter of Zadok.<small><small>[^84]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.34|34]]**<span class="endversemarker">]</span> And he did \[that which was\] right in the sight of the <span class="smallcaps">Lord</span>: he did according<small><small>[^85]</small></small> to all that his father Uzziah had done. 
+$\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.32|32]]**<span class="endversemarker">]</span> In the second year of Pekah the son of Remaliah king of Israel began Jotham<small><small>[^80]</small></small><small><small>[^81]</small></small> the son of Uzziah king of Judah to reign.<small><small>[^82]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.33|33]]**<span class="endversemarker">]</span> Five and twenty years old was he when he began to reign, and he reigned sixteen years in Jerusalem. And his mother’s name \[was\] Jerusha<small><small>[^83]</small></small>, the daughter of Zadok.<small><small>[^84]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.34|34]]**<span class="endversemarker">]</span> And he did \[that which was\] right in the sight of the <span class="smallcaps">Lord</span>: he did according<small><small>[^85]</small></small> to all that his father Uzziah had done. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.35|35]]**<span class="endversemarker">]</span> [¶]Howbeit<small><small>[^86]</small></small> the high places were not removed: the people sacrificed and burned incense still in the high places. He built the higher gate<small><small>[^87]</small></small> of the house of the <span class="smallcaps">Lord</span>. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.36|36]]**<span class="endversemarker">]</span> [¶]Now the rest<small><small>[^88]</small></small> of the acts of Jotham, and all that he did, \[are\] they not written in the book of the chronicles of the kings of Judah? <span class="startversemarker">[</span>**[[2Kgs.15.37|37]]**<span class="endversemarker">]</span> In those days<small><small>[^89]</small></small> the <span class="smallcaps">Lord</span> began<small><small>[^90]</small></small> to send<small><small>[^91]</small></small> against Judah Rezin<small><small>[^92]</small></small> the king of Syria, and Pekah<small><small>[^93]</small></small> the son of Remaliah.<small><small>[^94]</small></small> <span class="startversemarker">[</span>**[[2Kgs.15.38|38]]**<span class="endversemarker">]</span> And Jotham<small><small>[^95]</small></small> slept with his fathers, and was buried with his fathers in the city of David his father: and Ahaz<small><small>[^96]</small></small> his son reigned in his stead. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14|<< 2 Kings 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16|2 Kings 16 >>]]</td></tr></table>
 
 
-[^1]:  [[2Kgs.15|2Kgs 15:1]], Azariah’s good reign; [[2Kgs.15|2Kgs 15:5]], He dying a leper, Jotham succeeds; [[2Kgs.15|2Kgs 15:8]], Zachariah the last of Jehu’s generation, reigning ill, is slain by Shallum; [[2Kgs.15|2Kgs 15:13]], Shallum, reigning a month, is slain by Menahem; [[2Kgs.15|2Kgs 15:16]], Menahem strengthens himself by Pul; [[2Kgs.15|2Kgs 15:21]], Pekahiah succeeds him; [[2Kgs.15|2Kgs 15:23]], Pekahiah is slain by Pekah; [[2Kgs.15|2Kgs 15:27]], Pekah is oppressed by Tiglath-pileser, and slain by Hoshea; [[2Kgs.15|2Kgs 15:32]], Jotham’s good reign; [[2Kgs.15|2Kgs 15:36]], Ahaz succeeds him.
+[^1]:  [[2Kgs.15|2Kgs 15:1]], Azariah’s good reign; [[2Kgs.15|2Kgs 15:5]], He dying a leper, Jotham succeeds; [[2Kgs.15|2Kgs 15:8]], Zachariah the last of Jehu’s generation, reigning ill, is slain by Shallum; [[2Kgs.15|2Kgs 15:13]], Shallum, reigning a month, is slain by Menahem; [[2Kgs.15|2Kgs 15:16]], Menahem strengthens himself by Pul; [[2Kgs.15|2Kgs 15:21]], Pekahiah succeeds him; [[2Kgs.15|2Kgs 15:23]], Pekahiah is slain by Pekah; [[2Kgs.15|2Kgs 15:27]], Pekah is oppressed by Tiglath–pileser, and slain by Hoshea; [[2Kgs.15|2Kgs 15:32]], Jotham’s good reign; [[2Kgs.15|2Kgs 15:36]], Ahaz succeeds him.
 
 [^2]: [[2Kgs.15|2Kgs 15:8]], [[2Kgs.14|2Kgs 14:16-17]]
 
@@ -63,17 +63,17 @@ $\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.36|36]]**<span class=
 
 [^7]: [[2Kgs.15|2Kgs 15:35]], [[2Kgs.14|2Kgs 14:4]], [[2Kgs.18|2Kgs 18:4]]; [[1Kgs.15|1Kgs 15:14]], [[1Kgs.22|1Kgs 22:43]]; [[2Chr.17|2Chr 17:6]], [[2Chr.32|2Chr 32:12]], [[2Chr.34|2Chr 34:3]]
 
-[^8]: [[2Kgs.5|2Kgs 5:27]]; [[Num.12|Num 12:10]]
+[^8]: [[2Sam.3|2Sam 3:29]]; [[2Chr.26|2Chr 26:16-20]]; [[Job.34|Job 34:19]]
 
-[^9]: [[2Kgs.7|2Kgs 7:3]]; [[Lev.13|Lev 13:46]]; [[Num.12|Num 12:14]]; [[Deut.24|Deut 24:8]]
+[^9]: [[2Kgs.5|2Kgs 5:27]]; [[Num.12|Num 12:10]]
 
-[^10]: [[2Chr.26|2Chr 26:21]], [[2Chr.26|2Chr 26:23]]
+[^10]: [[2Kgs.7|2Kgs 7:3]]; [[Lev.13|Lev 13:46]]; [[Num.12|Num 12:14]]; [[Deut.24|Deut 24:8]]
 
-[^11]: [[2Sam.8|2Sam 8:15]], [[2Sam.15|2Sam 15:2-4]]; [[1Kgs.3|1Kgs 3:9]], [[1Kgs.3|1Kgs 3:28]]; [[Ps.72|Ps 72:1]]
+[^11]: [[2Chr.26|2Chr 26:21]], [[2Chr.26|2Chr 26:23]]
 
-[^12]: am 3239-3246, bc 765-758
+[^12]: [[2Sam.8|2Sam 8:15]], [[2Sam.15|2Sam 15:2-4]]; [[1Kgs.3|1Kgs 3:9]], [[1Kgs.3|1Kgs 3:28]]; [[Ps.72|Ps 72:1]]
 
-[^13]: ***the Lord*** [[2Sam.3|2Sam 3:29]]; [[2Chr.26|2Chr 26:16-20]]; [[Job.34|Job 34:19]]
+[^13]: am 3239-3246, bc 765-758
 
 [^14]: Dr. Kennicott complains loudly here of "the corruption in the name of this king of Judah, who is expressed by four different names in this chapter: Ozriah, Oziah, Ozrihu, and Ozihu. Our oldest Hebrew manuscript relieves us here, by reading truly, in [[2Kgs.15|2Kgs 15:1]], [[2Kgs.15|2Kgs 15:6-7]], Uzziah, where the printed text is differently corrupted. This reading is called true:
 
@@ -181,21 +181,21 @@ $\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.36|36]]**<span class=
 
 [^66]: [[2Kgs.15|2Kgs 15:9]], [[2Kgs.15|2Kgs 15:18]], [[2Kgs.13|2Kgs 13:2]], [[2Kgs.13|2Kgs 13:6]], [[2Kgs.21|2Kgs 21:2]]
 
-[^67]: [[1Kgs.15|1Kgs 15:20]]; [[2Chr.16|2Chr 16:4]], Abel-beth-maachah, [[2Sam.20|2Sam 20:14-15]]
+[^67]: Some suppose Tiglath–pileser to be the son of Sardanapalus, but the learned Prideaux makes him the same as Arbaces the Mede, called by Alian, Thelgamus, and by Castor, Ninus Junior, who, with Belesis, headed the conspiracy against Sardanapalus, and fixed his royal seat at Nineveh, as Belesis, called in Scripture Baladan ([[Isa.39|Isa 39:1]]), did his at Babylon. He reigned nineteen years, from am 3257 to am 3276. [[2Kgs.16|2Kgs 16:7]]; [[1Chr.5|1Chr 5:6]], [[1Chr.5|1Chr 5:26]]; [[2Chr.28|2Chr 28:20-21]], Tiglathpilneser, [[Isa.9|Isa 9:1]]
 
-[^68]: [[Josh.16|Josh 16:6]], Janohah
+[^68]: [[1Kgs.15|1Kgs 15:20]]; [[2Chr.16|2Chr 16:4]], Abel–beth–maachah, [[2Sam.20|2Sam 20:14-15]]
 
-[^69]: [[Josh.19|Josh 19:37]], [[Josh.20|Josh 20:7]]
+[^69]: [[Josh.16|Josh 16:6]], Janohah
 
-[^70]: [[Josh.11|Josh 11:1]], [[Josh.11|Josh 11:10]], [[Josh.11|Josh 11:13]], [[Josh.12|Josh 12:19]]; [[Judg.4|Judg 4:2]]
+[^70]: [[Josh.19|Josh 19:37]], [[Josh.20|Josh 20:7]]
 
-[^71]: [[Num.32|Num 32:1]], [[Num.32|Num 32:40]]; [[Deut.3|Deut 3:15]]; [[Amos.1|Amos 1:3]], [[Amos.1|Amos 1:13]]
+[^71]: [[Josh.11|Josh 11:1]], [[Josh.11|Josh 11:10]], [[Josh.11|Josh 11:13]], [[Josh.12|Josh 12:19]]; [[Judg.4|Judg 4:2]]
 
-[^72]: [[Josh.20|Josh 20:7]]; [[1Kgs.9|1Kgs 9:11]]; [[Isa.9|Isa 9:1-2]]; [[Matt.4|Matt 4:15-16]]
+[^72]: [[Num.32|Num 32:1]], [[Num.32|Num 32:40]]; [[Deut.3|Deut 3:15]]; [[Amos.1|Amos 1:3]], [[Amos.1|Amos 1:13]]
 
-[^73]: [[2Kgs.17|2Kgs 17:6]], [[2Kgs.17|2Kgs 17:23]]; [[Lev.26|Lev 26:32]], [[Lev.26|Lev 26:38-39]]; [[Deut.4|Deut 4:26-27]], [[Deut.28|Deut 28:25]], [[Deut.28|Deut 28:64-65]]; [[Isa.1|Isa 1:7]], [[Isa.7|Isa 7:20]]
+[^73]: [[Josh.20|Josh 20:7]]; [[1Kgs.9|1Kgs 9:11]]; [[Isa.9|Isa 9:1-2]]; [[Matt.4|Matt 4:15-16]]
 
-[^74]: ***Tiglathpileser*** Some suppose Tiglath-pileser to be the son of Sardanapalus, but the learned Prideaux makes him the same as Arbaces the Mede, called by Alian, Thelgamus, and by Castor, Ninus Junior, who, with Belesis, headed the conspiracy against Sardanapalus, and fixed his royal seat at Nineveh, as Belesis, called in Scripture Baladan ([[Isa.39|Isa 39:1]]), did his at Babylon. He reigned nineteen years, from am 3257 to am 3276. [[2Kgs.16|2Kgs 16:7]]; [[1Chr.5|1Chr 5:6]], [[1Chr.5|1Chr 5:26]]; [[2Chr.28|2Chr 28:20-21]], Tiglath-pilneser, [[Isa.9|Isa 9:1]]
+[^74]: [[2Kgs.17|2Kgs 17:6]], [[2Kgs.17|2Kgs 17:23]]; [[Lev.26|Lev 26:32]], [[Lev.26|Lev 26:38-39]]; [[Deut.4|Deut 4:26-27]], [[Deut.28|Deut 28:25]], [[Deut.28|Deut 28:64-65]]; [[Isa.1|Isa 1:7]], [[Isa.7|Isa 7:20]]
 
 [^75]: [[2Kgs.15|2Kgs 15:10]], [[2Kgs.15|2Kgs 15:25]]
 
@@ -209,9 +209,9 @@ $\quad$ <span class="startversemarker">[</span>**[[2Kgs.15.36|36]]**<span class=
 
 [^80]: [[2Kgs.15|2Kgs 15:7]]; [[1Chr.3|1Chr 3:12]]; [[2Chr.27|2Chr 27:1-9]]; [[Matt.1|Matt 1:9]]
 
-[^81]: am 3246, bc 758
+[^81]: Uzziah, [[2Kgs.15|2Kgs 15:1]], [[2Kgs.15|2Kgs 15:7]], [[2Kgs.15|2Kgs 15:13]], [[2Kgs.15|2Kgs 15:17]], [[2Kgs.15|2Kgs 15:23]], [[2Kgs.15|2Kgs 15:27]], [[2Kgs.14|2Kgs 14:21]]; [[1Chr.3|1Chr 3:12]], Azariah
 
-[^82]: ***Jotham*** Uzziah, [[2Kgs.15|2Kgs 15:1]], [[2Kgs.15|2Kgs 15:7]], [[2Kgs.15|2Kgs 15:13]], [[2Kgs.15|2Kgs 15:17]], [[2Kgs.15|2Kgs 15:23]], [[2Kgs.15|2Kgs 15:27]], [[2Kgs.14|2Kgs 14:21]]; [[1Chr.3|1Chr 3:12]], Azariah
+[^82]: am 3246, bc 758
 
 [^83]: [[2Chr.27|2Chr 27:1]], Jerushah
 

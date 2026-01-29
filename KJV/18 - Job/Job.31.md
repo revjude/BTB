@@ -143,7 +143,7 @@
 
 [^69]: [[Job.13|Job 13:24]], [[Job.19|Job 19:11]], [[Job.19|Job 19:23-24]], [[Job.33|Job 33:10-11]]; [[Matt.5|Matt 5:25]]
 
-[^70]: ***my desire is, that the Almighty would answer me*** or, my sign is that the Almighty will answer me, [[Job.13|Job 13:21-22]]; [[Ps.26|Ps 26:1]]
+[^70]: ***my desire is, that the Almighty would answer*** or, my sign is that the Almighty will answer me, [[Job.13|Job 13:21-22]]; [[Ps.26|Ps 26:1]]
 
 [^71]: [[Exod.28|Exod 28:12]]; [[Isa.22|Isa 22:22]]
 

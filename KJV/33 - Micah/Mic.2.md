@@ -4,7 +4,7 @@
 
  $\quad$ <span class="startversemarker">[</span>**[[Mic.2.1|1]]**<span class="endversemarker">]</span> Woe to<small><small>[^2]</small></small> them that devise iniquity, and work<small><small>[^3]</small></small> evil upon their beds! when<small><small>[^4]</small></small> the morning is light, they practise it, because<small><small>[^5]</small></small> it is in the power of their hand.<small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[Mic.2.2|2]]**<span class="endversemarker">]</span> And they covet<small><small>[^7]</small></small> fields, and take \[them\] by violence; and houses, and take \[them\] away: so<small><small>[^8]</small></small> they oppress<small><small>[^9]</small></small> a man and his house, even a man and his heritage. <span class="startversemarker">[</span>**[[Mic.2.3|3]]**<span class="endversemarker">]</span> Therefore thus saith the <span class="smallcaps">Lord</span>; Behold, against this family<small><small>[^10]</small></small> do<small><small>[^11]</small></small> I devise an evil, from<small><small>[^12]</small></small> which ye shall not remove your necks<small><small>[^13]</small></small>; neither shall ye go<small><small>[^14]</small></small> haughtily: for<small><small>[^15]</small></small> this time \[is\] evil. 
 
-$\quad$ <span class="startversemarker">[</span>**[[Mic.2.4|4]]**<span class="endversemarker">]</span> [¶]In that day shall<small><small>[^16]</small></small> \[one\] take up a parable against you, and lament<small><small>[^17]</small></small> with a doleful lamentation<small><small>[^18]</small></small>, \[and\] say, We<small><small>[^19]</small></small> be utterly spoiled: he<small><small>[^20]</small></small> hath changed the portion of my people: how hath he removed \[it\] from me! turning away he<small><small>[^21]</small></small> hath divided our fields.<small><small>[^22]</small></small> <span class="startversemarker">[</span>**[[Mic.2.5|5]]**<span class="endversemarker">]</span> Therefore thou shalt have none that shall cast<small><small>[^23]</small></small> a cord by lot in the congregation<small><small>[^24]</small></small> of the <span class="smallcaps">Lord</span>.
+$\quad$ <span class="startversemarker">[</span>**[[Mic.2.4|4]]**<span class="endversemarker">]</span> [¶]In that day shall<small><small>[^16]</small></small> \[one\] take up a parable against you, and lament<small><small>[^17]</small></small> with a doleful lamentation<small><small>[^18]</small></small>, \[and\] say, We<small><small>[^19]</small></small> be utterly spoiled: he<small><small>[^20]</small></small> hath changed<small><small>[^21]</small></small> the portion of my people: how hath he removed \[it\] from me! turning away he<small><small>[^22]</small></small> hath divided our fields. <span class="startversemarker">[</span>**[[Mic.2.5|5]]**<span class="endversemarker">]</span> Therefore thou shalt have none that shall cast<small><small>[^23]</small></small> a cord by lot in the congregation<small><small>[^24]</small></small> of the <span class="smallcaps">Lord</span>.
 
 ***Reproof of False Prophets***&emsp;<small><sup>\[ [[Ezek.13|Ezekiel 13:1–16]] ]</sup></small> ^bsb2024
 
@@ -59,9 +59,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Mic.2.12|12]]**<span class="e
 
 [^20]: etc
 
-[^21]: or, instead of restoring
+[^21]: [[Mic.2|Mic 2:10]], [[Mic.1|Mic 1:15]]; [[2Kgs.17|2Kgs 17:23-24]]; [[2Chr.36|2Chr 36:20-21]]; [[Isa.63|Isa 63:17-18]]
 
-[^22]: ***he hath changed*** [[Mic.2|Mic 2:10]], [[Mic.1|Mic 1:15]]; [[2Kgs.17|2Kgs 17:23-24]]; [[2Chr.36|2Chr 36:20-21]]; [[Isa.63|Isa 63:17-18]]
+[^22]: or, instead of restoring
 
 [^23]: [[Deut.32|Deut 32:8]]; [[Josh.18|Josh 18:4]], [[Josh.18|Josh 18:10]]; [[Ps.16|Ps 16:6]]; [[Hos.9|Hos 9:3]]
 

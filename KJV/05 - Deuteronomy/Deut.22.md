@@ -34,7 +34,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.22.25|25]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.22.28|28]]**<span class="endversemarker">]</span> [¶]If a man find a damsel \[that is\] a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;<small><small>[^37]</small></small> <span class="startversemarker">[</span>**[[Deut.22.29|29]]**<span class="endversemarker">]</span> Then the man that lay with her shall give unto the damsel’s father fifty \[shekels\] of silver, and she shall be his wife; because he hath humbled<small><small>[^38]</small></small> her, he may not put her away all his days. 
 
-$\quad$ <span class="startversemarker">[</span>**[[Deut.22.30|30]]**<span class="endversemarker">]</span> [¶]A man shall not take his father’s wife, nor discover<small><small>[^39]</small></small> his father’s skirt. <small><small>[^40]</small></small><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21|<< Deuteronomy 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23|Deuteronomy 23 >>]]</td></tr></table>
+$\quad$ <span class="startversemarker">[</span>**[[Deut.22.30|30]]**<span class="endversemarker">]</span> [¶]A man shall<small><small>[^39]</small></small> not take his father’s wife, nor discover<small><small>[^40]</small></small> his father’s skirt. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21|<< Deuteronomy 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23|Deuteronomy 23 >>]]</td></tr></table>
 
 
 [^1]:  [[Deut.22|Deut 22:1]], Of humanity towards brethren; [[Deut.22|Deut 22:5]], The sex is to be distinguished by apparel; [[Deut.22|Deut 22:6]], The dam is not to be taken with her young ones; [[Deut.22|Deut 22:8]], The house must have battlements; [[Deut.22|Deut 22:9]], Confusion is to be avoided; [[Deut.22|Deut 22:12]], Fringes upon the vesture; [[Deut.22|Deut 22:13]], The punishment of him that slanders his wife; [[Deut.22|Deut 22:22]], Of adultery; [[Deut.22|Deut 22:23]], of rape; [[Deut.22|Deut 22:28]], of fornication; [[Deut.22|Deut 22:30]], of incest.
@@ -113,6 +113,6 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.22.30|30]]**<span class=
 
 [^38]: [[Deut.22|Deut 22:19]], [[Deut.22|Deut 22:24]], [[Deut.21|Deut 21:14]]
 
-[^39]: [[Ruth.3|Ruth 3:9]]; [[Ezek.16|Ezek 16:8]]
+[^39]: This is to be understood as referring to the case of a stepmother. A man in his old age may have married a young woman, and on his dying, his son by another, or a former wife, may desire to espouse her; which is here forbidden. [[Deut.27|Deut 27:20]]; [[Lev.18|Lev 18:8]], [[Lev.20|Lev 20:11]]; [[1Cor.5|1Cor 5:1]], [[1Cor.5|1Cor 5:13]]
 
-[^40]: ***a man shall*** This is to be understood as referring to the case of a stepmother. A man in his old age may have married a young woman, and on his dying, his son by another, or a former wife, may desire to espouse her; which is here forbidden. [[Deut.27|Deut 27:20]]; [[Lev.18|Lev 18:8]], [[Lev.20|Lev 20:11]]; [[1Cor.5|1Cor 5:1]], [[1Cor.5|1Cor 5:13]]
+[^40]: [[Ruth.3|Ruth 3:9]]; [[Ezek.16|Ezek 16:8]]

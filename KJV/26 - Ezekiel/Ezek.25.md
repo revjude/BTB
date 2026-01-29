@@ -8,7 +8,7 @@
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Ezek.25.8|8]]**<span class="endversemarker">]</span> Thus saith the Lord <span class="smallcaps">God</span>; Because that Moab<small><small>[^20]</small></small> and Seir<small><small>[^21]</small></small> do say, Behold, the house<small><small>[^22]</small></small> of Judah \[is\] like unto all the heathen; <span class="startversemarker">[</span>**[[Ezek.25.9|9]]**<span class="endversemarker">]</span> Therefore, behold, I will open the side<small><small>[^23]</small></small> of Moab from the cities, from his cities \[which are\] on his frontiers, the glory of the country, Beth–jeshimoth, Baal–meon, and Kiriathaim,<small><small>[^24]</small></small><small><small>[^25]</small></small> <span class="startversemarker">[</span>**[[Ezek.25.10|10]]**<span class="endversemarker">]</span> Unto the men<small><small>[^26]</small></small> of the east with the Ammonites<small><small>[^27]</small></small>, and will give them in possession, that the Ammonites may<small><small>[^28]</small></small> not be remembered among the nations. <span class="startversemarker">[</span>**[[Ezek.25.11|11]]**<span class="endversemarker">]</span> And I will<small><small>[^29]</small></small> execute judgments upon<small><small>[^30]</small></small> Moab; and they<small><small>[^31]</small></small> shall know that I \[am\] the <span class="smallcaps">Lord</span>.
+$\quad$ <span class="startversemarker">[</span>**[[Ezek.25.8|8]]**<span class="endversemarker">]</span> Thus saith the Lord <span class="smallcaps">God</span>; Because that Moab<small><small>[^20]</small></small> and Seir<small><small>[^21]</small></small> do say, Behold, the house<small><small>[^22]</small></small> of Judah \[is\] like unto all the heathen; <span class="startversemarker">[</span>**[[Ezek.25.9|9]]**<span class="endversemarker">]</span> Therefore, behold, I will open the side<small><small>[^23]</small></small> of Moab from the cities, from his cities \[which are\] on his frontiers, the glory of the country, Beth–jeshimoth<small><small>[^24]</small></small>, Baal–meon<small><small>[^25]</small></small>, and Kiriathaim, <span class="startversemarker">[</span>**[[Ezek.25.10|10]]**<span class="endversemarker">]</span> Unto the men<small><small>[^26]</small></small> of the east with the Ammonites<small><small>[^27]</small></small>, and will give them in possession, that the Ammonites may<small><small>[^28]</small></small> not be remembered among the nations. <span class="startversemarker">[</span>**[[Ezek.25.11|11]]**<span class="endversemarker">]</span> And I will<small><small>[^29]</small></small> execute judgments upon<small><small>[^30]</small></small> Moab; and they<small><small>[^31]</small></small> shall know that I \[am\] the <span class="smallcaps">Lord</span>.
 
 ***A Prophecy against Edom*** ^bsb1875
 
@@ -69,9 +69,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezek.25.15|15]]**<span class=
 
 [^23]: or, shoulder
 
-[^24]: ***Bethjeshimoth*** [[Josh.13|Josh 13:20]]
+[^24]: [[Josh.13|Josh 13:20]]
 
-[^25]: ***Baalmeon*** [[Num.32|Num 32:37-38]]; [[Josh.13|Josh 13:17]], [[Josh.13|Josh 13:19]]; [[Jer.48|Jer 48:23]]
+[^25]: [[Num.32|Num 32:37-38]]; [[Josh.13|Josh 13:17]], [[Josh.13|Josh 13:19]]; [[Jer.48|Jer 48:23]]
 
 [^26]: [[Ezek.25|Ezek 25:4]]
 

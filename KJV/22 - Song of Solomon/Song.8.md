@@ -109,7 +109,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Song.8.14|14]]**<span class="
 
 [^37]: Heb. peace, [[Rom.5|Rom 5:1-10]]
 
-[^38]: Calmet thus translates these verses: "Solomon has a vineyard at Baal-hamon; he has let it out to keepers, each of whom for the fruit of it was to bring a thousand pieces of silver. As for me, my vineyard is before me; keep thyself, O Solomon, thy thousand pieces of silver," etc.
+[^38]: Calmet thus translates these verses: "Solomon has a vineyard at Baal–hamon; he has let it out to keepers, each of whom for the fruit of it was to bring a thousand pieces of silver. As for me, my vineyard is before me; keep thyself, O Solomon, thy thousand pieces of silver," etc.
 
 [^39]: [[Song.7|Song 7:12]]; [[Eccl.2|Eccl 2:4]]; [[Isa.5|Isa 5:1-7]]; [[Matt.21|Matt 21:33-43]]; [[Mark.12|Mark 12:1]]
 

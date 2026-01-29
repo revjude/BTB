@@ -77,4 +77,4 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezek.6.11|11]]**<span class="
 
 [^32]: or, desolate from the wilderness
 
-[^33]: [[Num.33|Num 33:46]], Almon-diblathaim, [[Jer.48|Jer 48:22]], Beth-diblathaim, Diblath was a city of Moab and appears from parallel passages to have been situated between Dibon and Abarim or Nebo.
+[^33]: [[Num.33|Num 33:46]], Almon–diblathaim, [[Jer.48|Jer 48:22]], Beth–diblathaim, Diblath was a city of Moab and appears from parallel passages to have been situated between Dibon and Abarim or Nebo.

@@ -12,13 +12,13 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.4.16|16]]**<span class="e
 
  <span class="startversemarker">[</span>**[[Gen.4.17|17]]**<span class="endversemarker">]</span> And Cain knew his wife; and she conceived, and bare Enoch<small><small>[^46]</small></small>: and he<small><small>[^47]</small></small> builded a city, and called the name<small><small>[^48]</small></small> of the city, after the name of his son, Enoch. <span class="startversemarker">[</span>**[[Gen.4.18|18]]**<span class="endversemarker">]</span> And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech<small><small>[^49]</small></small>.<small><small>[^50]</small></small> 
 
-$\quad$ <span class="startversemarker">[</span>**[[Gen.4.19|19]]**<span class="endversemarker">]</span> And Lamech took unto him two wives<small><small>[^51]</small></small>: the name of the one \[was\] Adah, and the name of the other Zillah. <span class="startversemarker">[</span>**[[Gen.4.20|20]]**<span class="endversemarker">]</span> And Adah bare Jabal: he was the<small><small>[^52]</small></small> father<small><small>[^53]</small></small> of such as dwell<small><small>[^54]</small></small> in tents, and \[of such as have\] cattle. <span class="startversemarker">[</span>**[[Gen.4.21|21]]**<span class="endversemarker">]</span> And his brother’s name \[was\] Jubal: he was the father<small><small>[^55]</small></small> of all such as handle the harp<small><small>[^56]</small></small> and organ.<small><small>[^57]</small></small> <span class="startversemarker">[</span>**[[Gen.4.22|22]]**<span class="endversemarker">]</span> And Zillah, she also bare Tubal–cain, an instructer of every artificer in brass<small><small>[^58]</small></small> and iron: and the sister of Tubal–cain \[was\] Naamah.<small><small>[^59]</small></small> <span class="startversemarker">[</span>**[[Gen.4.23|23]]**<span class="endversemarker">]</span> And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hear<small><small>[^60]</small></small>ken unto my speech: for I have slain a man to my wounding<small><small>[^61]</small></small>, and a young man to my hurt<small><small>[^62]</small></small>. <span class="startversemarker">[</span>**[[Gen.4.24|24]]**<span class="endversemarker">]</span> If Cain shall be avenged sevenfold, truly Lamech seventy<small><small>[^63]</small></small> and sevenfold.<small><small>[^64]</small></small>
+$\quad$ <span class="startversemarker">[</span>**[[Gen.4.19|19]]**<span class="endversemarker">]</span> And Lamech took unto him two wives<small><small>[^51]</small></small>: the name of the one \[was\] Adah, and the name of the other Zillah. <span class="startversemarker">[</span>**[[Gen.4.20|20]]**<span class="endversemarker">]</span> And Adah bare Jabal: he was the<small><small>[^52]</small></small> father<small><small>[^53]</small></small> of such as dwell<small><small>[^54]</small></small> in tents, and \[of such as have\] cattle. <span class="startversemarker">[</span>**[[Gen.4.21|21]]**<span class="endversemarker">]</span> And his brother’s name \[was\] Jubal: he was the father<small><small>[^55]</small></small> of all such as handle the harp<small><small>[^56]</small></small> and organ.<small><small>[^57]</small></small> <span class="startversemarker">[</span>**[[Gen.4.22|22]]**<span class="endversemarker">]</span> And Zillah, she also bare Tubal–cain, an instructor<small><small>[^58]</small></small> of every artificer in brass<small><small>[^59]</small></small> and iron: and the sister of Tubal–cain \[was\] Naamah. <span class="startversemarker">[</span>**[[Gen.4.23|23]]**<span class="endversemarker">]</span> And Lamech said unto his wives, Adah and Zillah, Hear<small><small>[^60]</small></small> my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding<small><small>[^61]</small></small>, and a young man to my hurt<small><small>[^62]</small></small>. <span class="startversemarker">[</span>**[[Gen.4.24|24]]**<span class="endversemarker">]</span> If<small><small>[^63]</small></small> Cain shall be avenged sevenfold, truly Lamech seventy<small><small>[^64]</small></small> and sevenfold.
 
 ***Seth and Enosh*** ^bsb17
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Gen.4.25|25]]**<span class="endversemarker">]</span> And Adam knew his wife again; and she bare a son, and called<small><small>[^65]</small></small> his name Seth<small><small>[^66]</small></small>: For God<small><small>[^67]</small></small>, \[said she\], hath appointed me another seed instead of Abel, whom Cain slew.<small><small>[^68]</small></small> <span class="startversemarker">[</span>**[[Gen.4.26|26]]**<span class="endversemarker">]</span> And to Seth, to him also there was born a son; and he called his name Enos<small><small>[^69]</small></small>: then began men to call upon the name of the <span class="smallcaps">Lord</span>. <small><small>[^70]</small></small><small><small>[^71]</small></small><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3|<< Genesis 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5|Genesis 5 >>]]</td></tr></table>
+$\quad$ <span class="startversemarker">[</span>**[[Gen.4.25|25]]**<span class="endversemarker">]</span> And Adam knew his wife again; and she bare a son, and called<small><small>[^65]</small></small> his name Seth<small><small>[^66]</small></small>: For God<small><small>[^67]</small></small>, \[said she\], hath appointed me another seed instead of Abel, whom Cain slew.<small><small>[^68]</small></small> <span class="startversemarker">[</span>**[[Gen.4.26|26]]**<span class="endversemarker">]</span> And to Seth, to him<small><small>[^69]</small></small> also there was born a son; and he called his name Enos<small><small>[^70]</small></small>: then began men to call upon the name of the <span class="smallcaps">Lord</span>. <small><small>[^71]</small></small><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3|<< Genesis 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5|Genesis 5 >>]]</td></tr></table>
 
 
 [^1]:  [[Gen.4|Gen 4:1]], The birth, occupation, and offering of Cain and Abel; [[Gen.4|Gen 4:8]], Cain murders his brother Abel; [[Gen.4|Gen 4:11]], The curse of Cain; [[Gen.4|Gen 4:17]], Has a son called Enoch, and builds a city, which he calls after his name; [[Gen.4|Gen 4:18]], His descendants, with Lamech and his two wives; [[Gen.4|Gen 4:25]], The birth of Seth, [[Gen.4|Gen 4:26]], and Enos.
@@ -135,9 +135,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.4.25|25]]**<span class="e
 
 [^57]: am cir, 500, bc cir, 3504
 
-[^58]: [[Exod.25|Exod 25:3]]; [[Num.31|Num 31:22]]; [[Deut.8|Deut 8:9]], [[Deut.33|Deut 33:25]]; [[2Chr.2|2Chr 2:7]]
+[^58]: Heb. whetter
 
-[^59]: ***instructor*** Heb. whetter
+[^59]: [[Exod.25|Exod 25:3]]; [[Num.31|Num 31:22]]; [[Deut.8|Deut 8:9]], [[Deut.33|Deut 33:25]]; [[2Chr.2|2Chr 2:7]]
 
 [^60]: [[Num.23|Num 23:18]]; [[Judg.9|Judg 9:7]]
 
@@ -145,9 +145,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.4.25|25]]**<span class="e
 
 [^62]: or, in my hurt
 
-[^63]: [[Matt.18|Matt 18:22]]
+[^63]: [[Gen.4|Gen 4:15]]
 
-[^64]: ***if*** [[Gen.4|Gen 4:15]]
+[^64]: [[Matt.18|Matt 18:22]]
 
 [^65]: [[Gen.5|Gen 5:3-4]]; [[1Chr.1|1Chr 1:1]]; [[Luke.3|Luke 3:38]]
 
@@ -157,8 +157,8 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.4.25|25]]**<span class="e
 
 [^68]: am 130, bc 3874
 
-[^69]: Heb. Enosh, to call upon the name of the Lord. or, call themselves by the name of the Lord. [[Deut.26|Deut 26:17-18]]; [[1Kgs.18|1Kgs 18:24]]; [[Ps.116|Ps 116:17]]; [[Isa.44|Isa 44:5]], [[Isa.48|Isa 48:1]], [[Isa.63|Isa 63:19]]; [[Jer.33|Jer 33:16]]; [[Joel.2|Joel 2:32]]; [[Zeph.3|Zeph 3:9]]; [[Acts.2|Acts 2:21]], [[Acts.11|Acts 11:26]]; [[Rom.10|Rom 10:13]]; [[1Cor.1|1Cor 1:2]]; [[Eph.3|Eph 3:14-15]]
+[^69]: [[Gen.4|Gen 4:6-8]]
 
-[^70]: am 235, bc 3769
+[^70]: Heb. Enosh, to call upon the name of the Lord. or, call themselves by the name of the Lord. [[Deut.26|Deut 26:17-18]]; [[1Kgs.18|1Kgs 18:24]]; [[Ps.116|Ps 116:17]]; [[Isa.44|Isa 44:5]], [[Isa.48|Isa 48:1]], [[Isa.63|Isa 63:19]]; [[Jer.33|Jer 33:16]]; [[Joel.2|Joel 2:32]]; [[Zeph.3|Zeph 3:9]]; [[Acts.2|Acts 2:21]], [[Acts.11|Acts 11:26]]; [[Rom.10|Rom 10:13]]; [[1Cor.1|1Cor 1:2]]; [[Eph.3|Eph 3:14-15]]
 
-[^71]: ***To him*** [[Gen.4|Gen 4:6-8]]
+[^71]: am 235, bc 3769

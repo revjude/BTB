@@ -18,7 +18,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.9.23|23]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[2Chr.9.25|25]]**<span class="endversemarker">]</span> [¶]And Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen; whom he bestowed in the chariot cities, and with the king at Jerusalem.<small><small>[^57]</small></small> 
 
-$\quad$ <span class="startversemarker">[</span>**[[2Chr.9.26|26]]**<span class="endversemarker">]</span> [¶]And he reigned over<small><small>[^58]</small></small> all the kings from the river<small><small>[^59]</small></small> even unto the land of the Philistines, and to the border of Egypt. <span class="startversemarker">[</span>**[[2Chr.9.27|27]]**<span class="endversemarker">]</span> And the king<small><small>[^60]</small></small> made<small><small>[^61]</small></small> silver in Jerusalem as stones, and cedar trees made he as the sycomore trees that \[are\] in the low plains in abundance.<small><small>[^62]</small></small> <span class="startversemarker">[</span>**[[2Chr.9.28|28]]**<span class="endversemarker">]</span> And they brought<small><small>[^63]</small></small> unto Solomon horses out of Egypt, and out of all lands.
+$\quad$ <span class="startversemarker">[</span>**[[2Chr.9.26|26]]**<span class="endversemarker">]</span> [¶]And he reigned over<small><small>[^58]</small></small> all the kings from the river<small><small>[^59]</small></small> even unto the land of the Philistines, and to the border of Egypt. <span class="startversemarker">[</span>**[[2Chr.9.27|27]]**<span class="endversemarker">]</span> And the king<small><small>[^60]</small></small> made<small><small>[^61]</small></small> silver in Jerusalem as stones, and cedar trees made he as the sycomore<small><small>[^62]</small></small> trees that \[are\] in the low plains in abundance. <span class="startversemarker">[</span>**[[2Chr.9.28|28]]**<span class="endversemarker">]</span> And they brought<small><small>[^63]</small></small> unto Solomon horses out of Egypt, and out of all lands.
 
 ***The Death of Solomon***&emsp;<small><sup>\[ [[1Kgs.11|1 Kings 11:41–43]] ]</sup></small> ^bsb1084
 
@@ -123,7 +123,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.9.29|29]]**<span class="
 
 [^48]: [[2Chr.9|2Chr 9:27]]; [[Isa.2|Isa 2:22]]; [[Jer.31|Jer 31:5]]
 
-[^49]: Bochart thinks this Tarshish was probably the promontory Cory, on the north of the island of Ceylon, which, according to him, was the land of Ophir. That it was name of a place in the East Indies, seems probable from the articles brought thence, and also from the ships sent thither being built at Ezion-geber, on the Red Sea; though Michaelis supposes that the fleet coasted along the shore of Africa, doubling the Cape of Good Hope, and came to Tartessus, in Spain, and thence back again the same way; that this accounts for their three years' voyage out and home; and that Spain and the coasts of Africa furnish all the commodities which they brought back.
+[^49]: Bochart thinks this Tarshish was probably the promontory Cory, on the north of the island of Ceylon, which, according to him, was the land of Ophir. That it was name of a place in the East Indies, seems probable from the articles brought thence, and also from the ships sent thither being built at Ezion–geber, on the Red Sea; though Michaelis supposes that the fleet coasted along the shore of Africa, doubling the Cape of Good Hope, and came to Tartessus, in Spain, and thence back again the same way; that this accounts for their three years' voyage out and home; and that Spain and the coasts of Africa furnish all the commodities which they brought back.
 
 [^50]: or, elephants' teeth
 
@@ -149,7 +149,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.9.29|29]]**<span class="
 
 [^61]: Heb. gave
 
-[^62]: ***the sycamore*** [[1Chr.27|1Chr 27:28]]; [[Ps.78|Ps 78:47]]; [[Isa.9|Isa 9:10]]; [[Amos.7|Amos 7:14]]; [[Luke.19|Luke 19:4]]
+[^62]: [[1Chr.27|1Chr 27:28]]; [[Ps.78|Ps 78:47]]; [[Isa.9|Isa 9:10]]; [[Amos.7|Amos 7:14]]; [[Luke.19|Luke 19:4]]
 
 [^63]: "Moses," says Bp. Warburton, "had expressly prohibited the multiplying of horses ([[Deut.17|Deut 17:16]]); by which the future king was forbidden to establish a body of calvary, because this could not be effected without sending into Egypt, with which people God had forbidden any communication, as this would be dangerous to religion. When Solomon had violated this law, and multiplied horses to excess ([[1Kgs.4|1Kgs 4:26]]), it was soon attended with those fatal consequences that the law foretold: for this wisest of kings having likewise, in violation of another law, married Pharaoh's daughter (the early fruits of this commerce), and then, by a repetition of the same crime, but a transgression of another law, had espoused more strange women ([[1Kgs.4|1Kgs 4:26]]; [[1Kgs.11|1Kgs 11:1]]), they first,in defiance of a fourth law, persuaded him to build them idol temples for their use; and afterwards, against a fifth law, brought him to erect other temples for his own." [[2Chr.9|2Chr 9:25]], [[2Chr.1|2Chr 1:16]]; [[1Kgs.10|1Kgs 10:28]]; [[Isa.2|Isa 2:7-8]], [[Isa.31|Isa 31:1]]
 

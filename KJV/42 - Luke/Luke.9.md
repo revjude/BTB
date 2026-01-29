@@ -8,7 +8,7 @@
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Luke.9.7|7]]**<span class="endversemarker">]</span> Now Herod<small><small>[^12]</small></small> the<small><small>[^13]</small></small> tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;<small><small>[^14]</small></small><small><small>[^15]</small></small> <span class="startversemarker">[</span>**[[Luke.9.8|8]]**<span class="endversemarker">]</span> And of some, that Elias had appeared; and of others, that one of the old prophets was risen again.<small><small>[^16]</small></small> <span class="startversemarker">[</span>**[[Luke.9.9|9]]**<span class="endversemarker">]</span> And Herod said, John<small><small>[^17]</small></small> have I beheaded: but who is this, of whom I hear such things? And he<small><small>[^18]</small></small> desired to see him.
+$\quad$ <span class="startversemarker">[</span>**[[Luke.9.7|7]]**<span class="endversemarker">]</span> Now Herod<small><small>[^12]</small></small> the tetrarch<small><small>[^13]</small></small> he<small><small>[^14]</small></small>ard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;<small><small>[^15]</small></small> <span class="startversemarker">[</span>**[[Luke.9.8|8]]**<span class="endversemarker">]</span> And of some, that Elias had appeared; and of others, that one of the old prophets was risen again.<small><small>[^16]</small></small> <span class="startversemarker">[</span>**[[Luke.9.9|9]]**<span class="endversemarker">]</span> And Herod said, John<small><small>[^17]</small></small> have I beheaded: but who is this, of whom I hear such things? And he<small><small>[^18]</small></small> desired to see him.
 
 ***The Feeding of the Five Thousand***&emsp;<small><sup>\[ [[Matt.14|Matthew 14:13–21]] <big>†</big> [[Mark.6|Mark 6:30–44]] <big>†</big> [[John.6|John 6:1–15]] ]</sup></small> ^bsb2396
 
@@ -56,7 +56,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Luke.9.43|43]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Luke.9.46|46]]**<span class="endversemarker">]</span> Then there arose a reasoning among them, which of them should be greatest.<small><small>[^95]</small></small> <span class="startversemarker">[</span>**[[Luke.9.47|47]]**<span class="endversemarker">]</span> And Jesus, perceiving<small><small>[^96]</small></small> the thought of their heart, took<small><small>[^97]</small></small> a child, and set him by him, <span class="startversemarker">[</span>**[[Luke.9.48|48]]**<span class="endversemarker">]</span> And said unto them, <span style="color:red;">Whosoever shall receive this<small><small>[^98]</small></small> child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that<small><small>[^99]</small></small> is least among you all, the same shall be great.</span> 
 
-$\quad$ <span class="startversemarker">[</span>**[[Luke.9.49|49]]**<span class="endversemarker">]</span> And John answered and said, Master, we saw<small><small>[^100]</small></small> one casting out devils in thy name; and we forbad him, because he followeth not with us. <span class="startversemarker">[</span>**[[Luke.9.50|50]]**<span class="endversemarker">]</span> And Jesus said unto him, <span style="color:red;">Forbid<small><small>[^101]</small></small> \[him\] not: for<small><small>[^102]</small></small> he that is not against us is for us.</span>
+$\quad$ <span class="startversemarker">[</span>**[[Luke.9.49|49]]**<span class="endversemarker">]</span> And John answered and said, Master, we saw<small><small>[^100]</small></small> one casting out devils in thy name; and we forbad him, because he followeth not with us. <span class="startversemarker">[</span>**[[Luke.9.50|50]]**<span class="endversemarker">]</span> And Jesus said unto him, <span style="color:red;">For<small><small>[^101]</small></small>bid<small><small>[^102]</small></small> \[him\] not: for he that is not against us is for us.</span>
 
 ***The Samaritans Reject Jesus*** ^bsb2404
 
@@ -95,11 +95,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Luke.9.57|57]]**<span class="
 
 [^12]: [[Job.18|Job 18:11-12]]; [[Ps.73|Ps 73:19]]; [[Matt.14|Matt 14:1-12]]; [[Mark.6|Mark 6:14-28]]
 
-[^13]: [[Luke.21|Luke 21:25]]; [[Isa.22|Isa 22:5]]; [[Mic.7|Mic 7:4]]
+[^13]: A tetrarch, <span class="asgreek"><span class='asgreek'>τετραρχης</span></span> <small><sup>[[G5076]]</sup></small>, from <span class="asgreek"><span class='asgreek'>τετρας</span></span> <small><sup>[[G5069]]</sup></small>, four, and <span class="asgreek"><span class='asgreek'>αρχη</span></span> <small><sup>[[G0746]]</sup></small>, government, properly signifies a prince, or ruler over a quarter of any region; and had its origin from Galatia, which was governed by four princes. In the New Testament, however, it denotes a prince, or king, who reigns over the fourth part of a former kingdom. By Herod's will his kingdom was thus divided among his sons: Archelaus had one-half, consisting of Idumea, Judea, and Samaria; Herod Antipas, one-fourth, consisting of Galilee and Perea; and Philip the remaining fourth, consisting of Batanea, Trachonitis, and Auranitis.
 
-[^14]: am 4036, ad 32
+[^14]: [[Luke.21|Luke 21:25]]; [[Isa.22|Isa 22:5]]; [[Mic.7|Mic 7:4]]
 
-[^15]: ***Tetrarch*** A tetrarch, <span class="asgreek"><span class='asgreek'>τετραρχης</span></span> <small><sup>[[G5076]]</sup></small>, from <span class="asgreek"><span class='asgreek'>τετρας</span></span> <small><sup>[[G5069]]</sup></small>, four, and <span class="asgreek"><span class='asgreek'>αρχη</span></span> <small><sup>[[G0746]]</sup></small>, government, properly signifies a prince, or ruler over a quarter of any region; and had its origin from Galatia, which was governed by four princes. In the New Testament, however, it denotes a prince, or king, who reigns over the fourth part of a former kingdom. By Herod's will his kingdom was thus divided among his sons: Archelaus had one-half, consisting of Idumea, Judea, and Samaria; Herod Antipas, one-fourth, consisting of Galilee and Perea; and Philip the remaining fourth, consisting of Batanea, Trachonitis, and Auranitis.
+[^15]: am 4036, ad 32
 
 [^16]: [[Luke.9|Luke 9:19]]; [[Matt.17|Matt 17:10]]; [[Mark.6|Mark 6:15]], [[Mark.8|Mark 8:28]]; [[John.1|John 1:21]]
 

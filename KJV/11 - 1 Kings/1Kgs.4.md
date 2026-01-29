@@ -2,13 +2,13 @@
 
 ***Solomon’s Princes*** ^bsb804
 
- $\quad$ <span class="startversemarker">[</span>**[[1Kgs.4.1|1]]**<span class="endversemarker">]</span> So king Solomon was king over all Israel<small><small>[^2]</small></small>. <span class="startversemarker">[</span>**[[1Kgs.4.2|2]]**<span class="endversemarker">]</span> And these \[were\] the princes<small><small>[^3]</small></small> which he had; Azariah<small><small>[^4]</small></small> the son of Zadok the priest<small><small>[^5]</small></small>, <span class="startversemarker">[</span>**[[1Kgs.4.3|3]]**<span class="endversemarker">]</span> Elihoreph and Ahiah, the sons of Shisha<small><small>[^6]</small></small>, scribes<small><small>[^7]</small></small>; Jehoshaphat the son of Ahilud, the recorder<small><small>[^8]</small></small>. <span class="startversemarker">[</span>**[[1Kgs.4.4|4]]**<span class="endversemarker">]</span> And Benaiah<small><small>[^9]</small></small> the son of Jehoiada \[was\] over the host: and Zadok<small><small>[^10]</small></small> and Abiathar \[were\] the priests: <span class="startversemarker">[</span>**[[1Kgs.4.5|5]]**<span class="endversemarker">]</span> And Azariah the son of Nathan<small><small>[^11]</small></small> \[was\] over the officers<small><small>[^12]</small></small>: and Zabud the son of Nathan \[was\] principal officer, \[and\] the king’s friend:<small><small>[^13]</small></small><small><small>[^14]</small></small> <span class="startversemarker">[</span>**[[1Kgs.4.6|6]]**<span class="endversemarker">]</span> And Ahishar \[was\] over the household: and Adoniram<small><small>[^15]</small></small> the son of Abda \[was\] over the tribute<small><small>[^16]</small></small>.
+ $\quad$ <span class="startversemarker">[</span>**[[1Kgs.4.1|1]]**<span class="endversemarker">]</span> So king Solomon was king over all Israel<small><small>[^2]</small></small>. <span class="startversemarker">[</span>**[[1Kgs.4.2|2]]**<span class="endversemarker">]</span> And these \[were\] the princes<small><small>[^3]</small></small> which he had; Azariah<small><small>[^4]</small></small> the son of Zadok the priest<small><small>[^5]</small></small>, <span class="startversemarker">[</span>**[[1Kgs.4.3|3]]**<span class="endversemarker">]</span> Elihoreph and Ahiah, the sons of Shisha<small><small>[^6]</small></small>, scribes<small><small>[^7]</small></small>; Jehoshaphat the son of Ahilud, the recorder<small><small>[^8]</small></small>. <span class="startversemarker">[</span>**[[1Kgs.4.4|4]]**<span class="endversemarker">]</span> And Benaiah<small><small>[^9]</small></small> the son of Jehoiada \[was\] over the host: and Zadok<small><small>[^10]</small></small> and Abiathar \[were\] the priests: <span class="startversemarker">[</span>**[[1Kgs.4.5|5]]**<span class="endversemarker">]</span> And Azariah the son of Nathan<small><small>[^11]</small></small> \[was\] over the officers<small><small>[^12]</small></small>: and Zabud the son of Nathan \[was\] principal<small><small>[^13]</small></small> officer, \[and\] the king’s<small><small>[^14]</small></small> friend: <span class="startversemarker">[</span>**[[1Kgs.4.6|6]]**<span class="endversemarker">]</span> And Ahishar \[was\] over the household: and Adoniram<small><small>[^15]</small></small> the son of Abda \[was\] over the tribute<small><small>[^16]</small></small>.
 
 ***Solomon’s Twelve Officers*** ^bsb805
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[1Kgs.4.7|7]]**<span class="endversemarker">]</span> [¶]And Solomon had twelve officers<small><small>[^17]</small></small> over all Israel, which provided victuals for the king and his household: each man<small><small>[^18]</small></small> his month in a year made provision. <span class="startversemarker">[</span>**[[1Kgs.4.8|8]]**<span class="endversemarker">]</span> And these \[are\] their names: The son of Hur<small><small>[^19]</small></small>, in mount Ephraim: <span class="startversemarker">[</span>**[[1Kgs.4.9|9]]**<span class="endversemarker">]</span> The son of Dekar<small><small>[^20]</small></small>, in Makaz, and in Shaalbim<small><small>[^21]</small></small>, and Beth–shemesh, and Elon–beth–hanan:<small><small>[^22]</small></small> <span class="startversemarker">[</span>**[[1Kgs.4.10|10]]**<span class="endversemarker">]</span> The son of Hesed<small><small>[^23]</small></small>, in Aruboth; to him \[pertained\] Sochoh<small><small>[^24]</small></small>, and all the land of Hepher<small><small>[^25]</small></small>: <span class="startversemarker">[</span>**[[1Kgs.4.11|11]]**<span class="endversemarker">]</span> The son of Abinadab<small><small>[^26]</small></small>, in all the region of Dor<small><small>[^27]</small></small>; which had Taphath the daughter of Solomon to wife: <span class="startversemarker">[</span>**[[1Kgs.4.12|12]]**<span class="endversemarker">]</span> Baana the son of Ahilud; \[to him pertained\] Taanach<small><small>[^28]</small></small> and Megiddo<small><small>[^29]</small></small>, and all Beth–shean, which \[is\] by Zartanah<small><small>[^30]</small></small> beneath Jezreel<small><small>[^31]</small></small>, from Beth–shean to Abel–meholah, \[even\] unto \[the place that is\] beyond Jokneam:<small><small>[^32]</small></small><small><small>[^33]</small></small> <span class="startversemarker">[</span>**[[1Kgs.4.13|13]]**<span class="endversemarker">]</span> The son of Geber<small><small>[^34]</small></small>, in Ramoth–gilead; to him \[pertained\] the towns<small><small>[^35]</small></small> of Jair the son of Manasseh, which \[are\] in Gilead; to him \[also pertained\] the region of Argob<small><small>[^36]</small></small>, which \[is\] in Bashan, threescore great cities<small><small>[^37]</small></small> with walls and brasen bars:<small><small>[^38]</small></small> <span class="startversemarker">[</span>**[[1Kgs.4.14|14]]**<span class="endversemarker">]</span> Ahinadab the son of Iddo \[had\] Mahanaim<small><small>[^39]</small></small>: <span class="startversemarker">[</span>**[[1Kgs.4.15|15]]**<span class="endversemarker">]</span> Ahimaaz \[was\] in Naphtali<small><small>[^40]</small></small>; he also took Basmath the daughter<small><small>[^41]</small></small> of Solomon to wife: <span class="startversemarker">[</span>**[[1Kgs.4.16|16]]**<span class="endversemarker">]</span> Baanah the son of Hushai \[was\] in Asher<small><small>[^42]</small></small> and in Aloth: <span class="startversemarker">[</span>**[[1Kgs.4.17|17]]**<span class="endversemarker">]</span> Jehoshaphat the son of Paruah, in Issachar<small><small>[^43]</small></small>: <span class="startversemarker">[</span>**[[1Kgs.4.18|18]]**<span class="endversemarker">]</span> Shimei<small><small>[^44]</small></small> the son of Elah, in Benjamin<small><small>[^45]</small></small>: <span class="startversemarker">[</span>**[[1Kgs.4.19|19]]**<span class="endversemarker">]</span> Geber the son of Uri \[was\] in the country of Gilead, \[in\] the country of Sihon<small><small>[^46]</small></small> king of the Amorites, and of Og king of Bashan; and \[he was\] the only officer which \[was\] in the land.
+$\quad$ <span class="startversemarker">[</span>**[[1Kgs.4.7|7]]**<span class="endversemarker">]</span> [¶]And Solomon had twelve officers<small><small>[^17]</small></small> over all Israel, which provided victuals for the king and his household: each man<small><small>[^18]</small></small> his month in a year made provision. <span class="startversemarker">[</span>**[[1Kgs.4.8|8]]**<span class="endversemarker">]</span> And these \[are\] their names: The son of Hur<small><small>[^19]</small></small>, in mount Ephraim: <span class="startversemarker">[</span>**[[1Kgs.4.9|9]]**<span class="endversemarker">]</span> The son of Dekar<small><small>[^20]</small></small>, in Makaz, and in Shaalbim<small><small>[^21]</small></small>, and Beth–shemesh<small><small>[^22]</small></small>, and Elon–beth–hanan: <span class="startversemarker">[</span>**[[1Kgs.4.10|10]]**<span class="endversemarker">]</span> The son of Hesed<small><small>[^23]</small></small>, in Aruboth; to him \[pertained\] Sochoh<small><small>[^24]</small></small>, and all the land of Hepher<small><small>[^25]</small></small>: <span class="startversemarker">[</span>**[[1Kgs.4.11|11]]**<span class="endversemarker">]</span> The son of Abinadab<small><small>[^26]</small></small>, in all the region of Dor<small><small>[^27]</small></small>; which had Taphath the daughter of Solomon to wife: <span class="startversemarker">[</span>**[[1Kgs.4.12|12]]**<span class="endversemarker">]</span> Baana the son of Ahilud; \[to him pertained\] Taanach<small><small>[^28]</small></small> and Megiddo<small><small>[^29]</small></small>, and all Beth–shean<small><small>[^30]</small></small>, which \[is\] by Zartanah<small><small>[^31]</small></small> beneath Jezreel<small><small>[^32]</small></small>, from Beth–shean to Abel–meholah<small><small>[^33]</small></small>, \[even\] unto \[the place that is\] beyond Jokneam: <span class="startversemarker">[</span>**[[1Kgs.4.13|13]]**<span class="endversemarker">]</span> The son of Geber<small><small>[^34]</small></small>, in Ramoth–gilead<small><small>[^35]</small></small>; to him \[pertained\] the towns<small><small>[^36]</small></small> of Jair the son of Manasseh, which \[are\] in Gilead; to him \[also pertained\] the region of Argob<small><small>[^37]</small></small>, which \[is\] in Bashan, threescore great cities<small><small>[^38]</small></small> with walls and brasen bars: <span class="startversemarker">[</span>**[[1Kgs.4.14|14]]**<span class="endversemarker">]</span> Ahinadab the son of Iddo \[had\] Mahanaim<small><small>[^39]</small></small>: <span class="startversemarker">[</span>**[[1Kgs.4.15|15]]**<span class="endversemarker">]</span> Ahimaaz \[was\] in Naphtali<small><small>[^40]</small></small>; he also took Basmath the daughter<small><small>[^41]</small></small> of Solomon to wife: <span class="startversemarker">[</span>**[[1Kgs.4.16|16]]**<span class="endversemarker">]</span> Baanah the son of Hushai \[was\] in Asher<small><small>[^42]</small></small> and in Aloth: <span class="startversemarker">[</span>**[[1Kgs.4.17|17]]**<span class="endversemarker">]</span> Jehoshaphat the son of Paruah, in Issachar<small><small>[^43]</small></small>: <span class="startversemarker">[</span>**[[1Kgs.4.18|18]]**<span class="endversemarker">]</span> Shimei<small><small>[^44]</small></small> the son of Elah, in Benjamin<small><small>[^45]</small></small>: <span class="startversemarker">[</span>**[[1Kgs.4.19|19]]**<span class="endversemarker">]</span> Geber the son of Uri \[was\] in the country of Gilead, \[in\] the country of Sihon<small><small>[^46]</small></small> king of the Amorites, and of Og king of Bashan; and \[he was\] the only officer which \[was\] in the land.
 
 ***Solomon’s Prosperity*** ^bsb806
 
@@ -51,9 +51,9 @@ $\quad$ <span class="startversemarker">[</span>**[[1Kgs.4.29|29]]**<span class="
 
 [^12]: [[1Kgs.4|1Kgs 4:7]]
 
-[^13]: ***the principal*** [[2Sam.8|2Sam 8:18]], [[2Sam.20|2Sam 20:26]]
+[^13]: [[2Sam.8|2Sam 8:18]], [[2Sam.20|2Sam 20:26]]
 
-[^14]: ***the king's*** [[2Sam.15|2Sam 15:37]], [[2Sam.16|2Sam 16:16]], [[2Sam.19|2Sam 19:37-38]]; [[1Chr.27|1Chr 27:33]]; [[Prov.22|Prov 22:11]]; [[John.13|John 13:23]]; [[John.15|John 15:14-15]]; [[Jas.2|Jas 2:23]]
+[^14]: [[2Sam.15|2Sam 15:37]], [[2Sam.16|2Sam 16:16]], [[2Sam.19|2Sam 19:37-38]]; [[1Chr.27|1Chr 27:33]]; [[Prov.22|Prov 22:11]]; [[John.13|John 13:23]]; [[John.15|John 15:14-15]]; [[Jas.2|Jas 2:23]]
 
 [^15]: [[1Kgs.12|1Kgs 12:18]]; [[2Sam.20|2Sam 20:24]], Adoram
 
@@ -63,21 +63,21 @@ $\quad$ <span class="startversemarker">[</span>**[[1Kgs.4.29|29]]**<span class="
 
 [^18]: [[1Chr.27|1Chr 27:1-15]]
 
-[^19]: or, Ben-hur, [[Judg.17|Judg 17:1]], [[Judg.19|Judg 19:1]]
+[^19]: or, Ben–hur, [[Judg.17|Judg 17:1]], [[Judg.19|Judg 19:1]]
 
-[^20]: or, Ben-dekar
+[^20]: or, Ben–dekar
 
 [^21]: [[Josh.19|Josh 19:42]], Shaalabbin
 
-[^22]: ***Bethshemesh*** [[1Sam.6|1Sam 6:12]], [[1Sam.6|1Sam 6:20]]
+[^22]: [[1Sam.6|1Sam 6:12]], [[1Sam.6|1Sam 6:20]]
 
-[^23]: or, Ben-hesed
+[^23]: or, Ben–hesed
 
 [^24]: [[Josh.15|Josh 15:35]]
 
 [^25]: [[Josh.12|Josh 12:17]], [[Josh.17|Josh 17:2]]
 
-[^26]: or, Ben-abinadab
+[^26]: or, Ben–abinadab
 
 [^27]: [[Josh.12|Josh 12:23]], [[Josh.17|Josh 17:11]]; [[Judg.1|Judg 1:27]]
 
@@ -85,23 +85,23 @@ $\quad$ <span class="startversemarker">[</span>**[[1Kgs.4.29|29]]**<span class="
 
 [^29]: [[2Kgs.23|2Kgs 23:29-30]]
 
-[^30]: [[1Kgs.7|1Kgs 7:46]], Zarthan, [[Josh.3|Josh 3:16]], Zaretan
+[^30]: [[1Sam.31|1Sam 31:10]], [[1Sam.31|1Sam 31:12]]
 
-[^31]: [[1Kgs.18|1Kgs 18:46]]
+[^31]: [[1Kgs.7|1Kgs 7:46]], Zarthan, [[Josh.3|Josh 3:16]], Zaretan
 
-[^32]: ***Bethshean*** [[1Sam.31|1Sam 31:10]], [[1Sam.31|1Sam 31:12]]
+[^32]: [[1Kgs.18|1Kgs 18:46]]
 
-[^33]: ***Abelmeholah*** [[1Kgs.19|1Kgs 19:16]]
+[^33]: [[1Kgs.19|1Kgs 19:16]]
 
-[^34]: or, Ben-geber
+[^34]: or, Ben–geber
 
-[^35]: [[Num.32|Num 32:41]]; [[Deut.3|Deut 3:14]]
+[^35]: [[1Kgs.22|1Kgs 22:3]]; [[Deut.4|Deut 4:43]]; [[Josh.20|Josh 20:8]], [[Josh.21|Josh 21:38]]; [[2Kgs.9|2Kgs 9:1]], [[2Kgs.9|2Kgs 9:14]]
 
-[^36]: [[Deut.3|Deut 3:4]], [[Deut.3|Deut 3:8]], [[Deut.3|Deut 3:13-14]]; [[Ps.22|Ps 22:12]], [[Ps.68|Ps 68:15]]
+[^36]: [[Num.32|Num 32:41]]; [[Deut.3|Deut 3:14]]
 
-[^37]: These were the fortified cities; their gates and bars being covered with plates of brass.
+[^37]: [[Deut.3|Deut 3:4]], [[Deut.3|Deut 3:8]], [[Deut.3|Deut 3:13-14]]; [[Ps.22|Ps 22:12]], [[Ps.68|Ps 68:15]]
 
-[^38]: ***Ramothgilead*** [[1Kgs.22|1Kgs 22:3]]; [[Deut.4|Deut 4:43]]; [[Josh.20|Josh 20:8]], [[Josh.21|Josh 21:38]]; [[2Kgs.9|2Kgs 9:1]], [[2Kgs.9|2Kgs 9:14]]
+[^38]: These were the fortified cities; their gates and bars being covered with plates of brass.
 
 [^39]: or, to Mahanaim, [[Gen.32|Gen 32:2]]; [[2Sam.2|2Sam 2:8]], [[2Sam.17|2Sam 17:24]], [[2Sam.17|2Sam 17:27]]
 

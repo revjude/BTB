@@ -16,7 +16,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.24.26|26]]**<span class=
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Josh.24.29|29]]**<span class="endversemarker">]</span> And it came to pass after these<small><small>[^68]</small></small> things, that Joshua the son of Nun, the servant of the <span class="smallcaps">Lord</span>, died, \[being\] an hundred<small><small>[^69]</small></small> and ten years old. <span class="startversemarker">[</span>**[[Josh.24.30|30]]**<span class="endversemarker">]</span> And they buried him in the border of his inheritance in Timnath–serah, which \[is\] in mount Ephraim, on the north side of the hill of Gaash<small><small>[^70]</small></small>.<small><small>[^71]</small></small> <span class="startversemarker">[</span>**[[Josh.24.31|31]]**<span class="endversemarker">]</span> And Israel served<small><small>[^72]</small></small> the <span class="smallcaps">Lord</span> all the days of Joshua, and all the days of the elders that overlived Joshua<small><small>[^73]</small></small>, and which had known all the works of the <span class="smallcaps">Lord</span>, that he had done for Israel. 
+$\quad$ <span class="startversemarker">[</span>**[[Josh.24.29|29]]**<span class="endversemarker">]</span> And it came to pass after these<small><small>[^68]</small></small> things, that Joshua the son of Nun, the servant of the <span class="smallcaps">Lord</span>, died, \[being\] an hundred<small><small>[^69]</small></small> and ten years old. <span class="startversemarker">[</span>**[[Josh.24.30|30]]**<span class="endversemarker">]</span> And they buried him in the border of his inheritance in Timnath–serah<small><small>[^70]</small></small>, which \[is\] in mount Ephraim, on the north side of the hill of Gaash<small><small>[^71]</small></small>. <span class="startversemarker">[</span>**[[Josh.24.31|31]]**<span class="endversemarker">]</span> And Israel served<small><small>[^72]</small></small> the <span class="smallcaps">Lord</span> all the days of Joshua, and all the days of the elders that overlived Joshua<small><small>[^73]</small></small>, and which had known all the works of the <span class="smallcaps">Lord</span>, that he had done for Israel. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Josh.24.32|32]]**<span class="endversemarker">]</span> [¶]And the bones<small><small>[^74]</small></small> of Joseph, which the children of Israel brought up out of Egypt, buried<small><small>[^75]</small></small> they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver<small><small>[^76]</small></small>: and it became the inheritance of the children of Joseph. <span class="startversemarker">[</span>**[[Josh.24.33|33]]**<span class="endversemarker">]</span> And Eleazar<small><small>[^77]</small></small> the son of Aaron died<small><small>[^78]</small></small>; and they buried him in a hill \[that pertained to\] Phinehas<small><small>[^79]</small></small> his son, which was given him in mount Ephraim.  <div canonical="true" eID="gen221" osisID="Josh" type="book"/><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23|<< Joshua 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1|Judges 1 >>]]</td></tr></table>
 
@@ -93,7 +93,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.24.32|32]]**<span class=
 
 [^36]:  2. Those of the Egyptians, Apis, Anubis, serpents, vegetables, etc.
 
-[^37]:  3. Those of the Amorites, Moabites, Canaanites, etc., Baal-peor, Astarte, etc.
+[^37]:  3. Those of the Amorites, Moabites, Canaanites, etc., Baal–peor, Astarte, etc.
 
 [^38]:  How astonishing is it, that after all that God had done for them, and all the miracles they had seen, there should still be found among them both idols and idolaters! [[Josh.24|Josh 24:2]], [[Josh.24|Josh 24:23]]; [[Gen.35|Gen 35:2]]; [[Exod.20|Exod 20:3-4]]; [[Lev.17|Lev 17:7]]; [[Ezra.9|Ezra 9:11]]; [[Ezek.20|Ezek 20:18]]; [[Amos.5|Amos 5:25-26]]
 
@@ -159,9 +159,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.24.32|32]]**<span class=
 
 [^69]: [[Gen.50|Gen 50:22]], [[Gen.50|Gen 50:26]]
 
-[^70]: [[2Sam.23|2Sam 23:30]]
+[^70]: [[Josh.19|Josh 19:50]]; [[Judg.2|Judg 2:9]]
 
-[^71]: ***Timnathserah*** [[Josh.19|Josh 19:50]]; [[Judg.2|Judg 2:9]]
+[^71]: [[2Sam.23|2Sam 23:30]]
 
 [^72]: [[Deut.31|Deut 31:29]]; [[Judg.2|Judg 2:7]]; [[2Chr.24|2Chr 24:2]], [[2Chr.24|2Chr 24:17-18]]; [[Acts.20|Acts 20:29]]; [[Phil.2|Phil 2:12]]
 

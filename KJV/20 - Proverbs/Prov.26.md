@@ -33,7 +33,7 @@
 
 [^14]: [[Prov.26|Prov 26:9]], [[Prov.17|Prov 17:7]]; [[Ps.50|Ps 50:16-21]], [[Ps.64|Ps 64:8]]; [[Matt.7|Matt 7:4-5]]; [[Luke.4|Luke 4:23]]
 
-[^15]: Heb. putteth a precious stone in a heap of stones, This probably refers, as Coverdale understands it, to the custom of throwing a stone to the heap under which a criminal was buried. So the Vulgate, ***Sicut qui mittit lapidem in acervum Mercurii; ita qui tribuit insipienti honorem***, "As he who throws a stone to Mercury's heap, so is he who gives honour to a fool." Mercury was a heathen god of highways; and stones were erected in different parts to guide the traveller: hence those lines of Dr. Young,
+[^15]: Heb. putteth a precious stone in a heap of stones, This probably refers, as Coverdale understands it, to the custom of throwing a stone to the heap under which a criminal was buried. So the Vulgate, ***Sicut qui mittit lapidem in acervum Mercurii; ita qui tribuit insipienti honorem***, "As he who throws a stone to Mercury's heap, so is he who gives honour to a fool." Mercury was an heathen god of highways; and stones were erected in different parts to guide the traveller: hence those lines of Dr. Young,
 
 [^16]: [[Prov.26|Prov 26:1]], [[Prov.19|Prov 19:10]], [[Prov.30|Prov 30:22]]
 

@@ -6,9 +6,9 @@
 
 $\quad$ <span class="startversemarker">[</span>**[[Josh.10.6|6]]**<span class="endversemarker">]</span> [¶]And the men of Gibeon sent unto Joshua to the camp<small><small>[^14]</small></small> to Gilgal, saying, Slack<small><small>[^15]</small></small> not thy hand from thy<small><small>[^16]</small></small> servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains<small><small>[^17]</small></small> are gathered together against us. <span class="startversemarker">[</span>**[[Josh.10.7|7]]**<span class="endversemarker">]</span> So Joshua ascended from Gilgal, he, and all the people of war with him, and all the mighty men of valour.<small><small>[^18]</small></small> 
 
-$\quad$ <span class="startversemarker">[</span>**[[Josh.10.8|8]]**<span class="endversemarker">]</span> [¶]And the <span class="smallcaps">Lord</span> said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee.<small><small>[^19]</small></small> <span class="startversemarker">[</span>**[[Josh.10.9|9]]**<span class="endversemarker">]</span> Joshua therefore came unto them suddenly, \[and\] went up from Gilgal all night<small><small>[^20]</small></small>. <span class="startversemarker">[</span>**[[Josh.10.10|10]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> discomfited them before Israel, and slew them with a great slaughter at Gibeon<small><small>[^21]</small></small>, and chased them along the way that goeth up to Beth–horon, and smote them to Azekah<small><small>[^22]</small></small>, and unto Makkedah<small><small>[^23]</small></small>.<small><small>[^24]</small></small><small><small>[^25]</small></small> <span class="startversemarker">[</span>**[[Josh.10.11|11]]**<span class="endversemarker">]</span> And it came to pass, as they fled from before Israel, \[and\] were in the going down to Beth–horon, that the <span class="smallcaps">Lord</span> cast down great stones from heaven upon them unto Azekah, and they died: \[they were\] more which died with hailstones than \[they\] whom the children of Israel slew with the sword.<small><small>[^26]</small></small> 
+$\quad$ <span class="startversemarker">[</span>**[[Josh.10.8|8]]**<span class="endversemarker">]</span> [¶]And the <span class="smallcaps">Lord</span> said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee.<small><small>[^19]</small></small> <span class="startversemarker">[</span>**[[Josh.10.9|9]]**<span class="endversemarker">]</span> Joshua therefore came unto them suddenly, \[and\] went up from Gilgal all night<small><small>[^20]</small></small>. <span class="startversemarker">[</span>**[[Josh.10.10|10]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord<small><small>[^21]</small></small></span> discomfited them before Israel, and slew them with a great slaughter at Gibeon<small><small>[^22]</small></small>, and chased them along the way that goeth up to Beth–horon<small><small>[^23]</small></small>, and smote them to Azekah<small><small>[^24]</small></small>, and unto Makkedah<small><small>[^25]</small></small>. <span class="startversemarker">[</span>**[[Josh.10.11|11]]**<span class="endversemarker">]</span> And it came to pass, as they fled from before Israel, \[and\] were in the going down to Beth–horon, that the <span class="smallcaps">Lord<small><small>[^26]</small></small></span> cast down great stones from heaven upon them unto Azekah, and they died: \[they were\] more which died with hailstones than \[they\] whom the children of Israel slew with the sword. 
 
-$\quad$ <span class="startversemarker">[</span>**[[Josh.10.12|12]]**<span class="endversemarker">]</span> [¶]Then spake Joshua to the <span class="smallcaps">Lord</span> in the day when the <span class="smallcaps">Lord</span> delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun<small><small>[^27]</small></small>, stand thou<small><small>[^28]</small></small> still upon Gibeon; and thou, Moon, in the valley of Ajalon<small><small>[^29]</small></small>. <span class="startversemarker">[</span>**[[Josh.10.13|13]]**<span class="endversemarker">]</span> And the sun stood still, and the moon stayed, until<small><small>[^30]</small></small> the people had avenged themselves upon their enemies. \[Is\] not this written in the book of Jasher<small><small>[^31]</small></small>? So the sun<small><small>[^32]</small></small> stood still in the midst of heaven, and hasted not to go down about a whole day. <span class="startversemarker">[</span>**[[Josh.10.14|14]]**<span class="endversemarker">]</span> And there was<small><small>[^33]</small></small> no day like that before it or after it, that the <span class="smallcaps">Lord</span> hearkened unto the voice of a man: for the <span class="smallcaps">Lord</span> fought for Israel.<small><small>[^34]</small></small><small><small>[^35]</small></small> 
+$\quad$ <span class="startversemarker">[</span>**[[Josh.10.12|12]]**<span class="endversemarker">]</span> [¶]Then spake Joshua to the <span class="smallcaps">Lord</span> in the day when the <span class="smallcaps">Lord</span> delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun<small><small>[^27]</small></small>, stand thou<small><small>[^28]</small></small> still upon Gibeon; and thou, Moon, in the valley of Ajalon<small><small>[^29]</small></small>. <span class="startversemarker">[</span>**[[Josh.10.13|13]]**<span class="endversemarker">]</span> And the sun stood still, and the moon stayed, until<small><small>[^30]</small></small> the people had avenged themselves upon their enemies. \[Is\] not this written in the book of Jasher<small><small>[^31]</small></small>? So the sun<small><small>[^32]</small></small> stood still in the midst of heaven, and hasted not to go down about a whole day. <span class="startversemarker">[</span>**[[Josh.10.14|14]]**<span class="endversemarker">]</span> And there was<small><small>[^33]</small></small> no day like that before it or after it, that the <span class="smallcaps">Lord<small><small>[^34]</small></small></span> hearkened unto the voice of a man: for the <span class="smallcaps">Lord<small><small>[^35]</small></small></span> fought for Israel. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Josh.10.15|15]]**<span class="endversemarker">]</span> And Joshua returned, and all Israel with him, unto the camp to Gilgal.<small><small>[^36]</small></small>
 
@@ -30,7 +30,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.10.34|34]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[Josh.10.38|38]]**<span class="endversemarker">]</span> [¶]And Joshua returned, and all Israel with him, to Debir<small><small>[^72]</small></small>; and fought against it: <span class="startversemarker">[</span>**[[Josh.10.39|39]]**<span class="endversemarker">]</span> And he took it, and the king thereof, and all the cities thereof; and they smote them with the edge of the sword, and utterly destroyed all the souls that \[were\] therein; he left none<small><small>[^73]</small></small> remaining: as he had done to Hebron, so he did to Debir, and to the king thereof; as he had done also to Libnah, and to her king. 
 
-$\quad$ <span class="startversemarker">[</span>**[[Josh.10.40|40]]**<span class="endversemarker">]</span> [¶]So Joshua smote all the country<small><small>[^74]</small></small> of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly<small><small>[^75]</small></small> destroyed all that breathed, as the <span class="smallcaps">Lord</span> God of Israel commanded.<small><small>[^76]</small></small> <span class="startversemarker">[</span>**[[Josh.10.41|41]]**<span class="endversemarker">]</span> And Joshua smote them from Kadesh–barnea even unto Gaza<small><small>[^77]</small></small>, and all the country<small><small>[^78]</small></small> of Goshen, even unto Gibeon<small><small>[^79]</small></small>.<small><small>[^80]</small></small> <span class="startversemarker">[</span>**[[Josh.10.42|42]]**<span class="endversemarker">]</span> And all these kings and their land did Joshua take at one time, because<small><small>[^81]</small></small> the <span class="smallcaps">Lord</span> God of Israel fought for Israel. <span class="startversemarker">[</span>**[[Josh.10.43|43]]**<span class="endversemarker">]</span> And Joshua returned, and all Israel with him, unto the camp<small><small>[^82]</small></small> to Gilgal. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9|<< Joshua 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11|Joshua 11 >>]]</td></tr></table>
+$\quad$ <span class="startversemarker">[</span>**[[Josh.10.40|40]]**<span class="endversemarker">]</span> [¶]So Joshua smote all the country<small><small>[^74]</small></small> of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly<small><small>[^75]</small></small> destroyed all that breathed, as the <span class="smallcaps">Lord<small><small>[^76]</small></small></span> God of Israel commanded. <span class="startversemarker">[</span>**[[Josh.10.41|41]]**<span class="endversemarker">]</span> And Joshua smote them from Kadesh–barnea<small><small>[^77]</small></small> even unto Gaza<small><small>[^78]</small></small>, and all the country<small><small>[^79]</small></small> of Goshen, even unto Gibeon<small><small>[^80]</small></small>. <span class="startversemarker">[</span>**[[Josh.10.42|42]]**<span class="endversemarker">]</span> And all these kings and their land did Joshua take at one time, because<small><small>[^81]</small></small> the <span class="smallcaps">Lord</span> God of Israel fought for Israel. <span class="startversemarker">[</span>**[[Josh.10.43|43]]**<span class="endversemarker">]</span> And Joshua returned, and all Israel with him, unto the camp<small><small>[^82]</small></small> to Gilgal. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9|<< Joshua 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11|Joshua 11 >>]]</td></tr></table>
 
 
 [^1]:  [[Josh.10|Josh 10:1]], Five kings war against Gibeon; [[Josh.10|Josh 10:6]], Joshua rescues it; [[Josh.10|Josh 10:10]], God fights against them with hailstones; [[Josh.10|Josh 10:12]], The sun and moon stand still at the word of Joshua; [[Josh.10|Josh 10:16]], The five kings are mured in a cave; [[Josh.10|Josh 10:22]], They are brought forth; [[Josh.10|Josh 10:24]], scornfully used; [[Josh.10|Josh 10:26]], and hanged; [[Josh.10|Josh 10:28]], Seven kings more are conquered; [[Josh.10|Josh 10:43]], Joshua returns to Gilgal.
@@ -39,7 +39,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.10.40|40]]**<span class=
 
 [^3]: [[Josh.9|Josh 9:15-27]], [[Josh.11|Josh 11:19-20]]
 
-[^4]: Adoni-zedec, [[Gen.14|Gen 14:18]]; [[Heb.7|Heb 7:1]]
+[^4]: Adonizedec, [[Gen.14|Gen 14:18]]; [[Heb.7|Heb 7:1]]
 
 [^5]: [[Josh.2|Josh 2:9-13]], [[Josh.2|Josh 2:24]]; [[Exod.15|Exod 15:14-16]]; [[Deut.11|Deut 11:25]], [[Deut.28|Deut 28:10]]; [[Ps.48|Ps 48:4-6]]; [[Prov.1|Prov 1:26-27]]; [[Prov.10|Prov 10:24]]; [[Heb.10|Heb 10:27]], [[Heb.10|Heb 10:31]]; [[Rev.6|Rev 6:15-17]]
 
@@ -49,7 +49,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.10.40|40]]**<span class=
 
 [^8]: [[Josh.10|Josh 10:1]], [[Josh.10|Josh 10:5]], [[Josh.12|Josh 12:10-13]], [[Josh.15|Josh 15:35-39]], [[Josh.15|Josh 15:54]], [[Josh.15|Josh 15:63]], [[Josh.18|Josh 18:28]]
 
-[^9]: Hebron was situated on an eminence, 20 miles south of Jerusalem, and the same distance north of Beersheba. It is now called El Khalil, "the well-beloved," the usual epithet which the Turks and Arabs apply to Abraham, whose sepulchral cave they still shew; over which St. Helena built a magnificent church Its original site was on an eminence, at the southern foot of which the present village is pleasantly situated, on which are the remains of an ancient castle, its sole defence. [[Josh.14|Josh 14:15]]; [[Gen.23|Gen 23:2]], [[Gen.37|Gen 37:14]]; [[Num.13|Num 13:22]]; [[2Sam.2|2Sam 2:11]]
+[^9]: Hebron was situated on an eminence, 20 miles south of Jerusalem, and the same distance north of Beer–sheba. It is now called El Khalil, "the well-beloved," the usual epithet which the Turks and Arabs apply to Abraham, whose sepulchral cave they still shew; over which St. Helena built a magnificent church Its original site was on an eminence, at the southern foot of which the present village is pleasantly situated, on which are the remains of an ancient castle, its sole defence. [[Josh.14|Josh 14:15]]; [[Gen.23|Gen 23:2]], [[Gen.37|Gen 37:14]]; [[Num.13|Num 13:22]]; [[2Sam.2|2Sam 2:11]]
 
 [^10]: [[2Kgs.18|2Kgs 18:14]], [[2Kgs.18|2Kgs 18:17]]; [[2Chr.11|2Chr 11:9]]; [[Mic.1|Mic 1:13]]
 
@@ -73,17 +73,17 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.10.40|40]]**<span class=
 
 [^20]: [[1Sam.11|1Sam 11:9-11]]; [[Prov.22|Prov 22:29]], [[Prov.24|Prov 24:11-12]]; [[Eccl.9|Eccl 9:10]]; [[2Tim.2|2Tim 2:3]], [[2Tim.4|2Tim 4:2]]
 
-[^21]: [[Isa.28|Isa 28:21]]
+[^21]: [[Josh.11|Josh 11:8]]; [[Judg.4|Judg 4:15]]; [[1Sam.7|1Sam 7:10-12]]; [[2Chr.14|2Chr 14:12]]; [[Ps.18|Ps 18:14]], [[Ps.44|Ps 44:3]], [[Ps.78|Ps 78:55]]
 
-[^22]: [[Josh.10|Josh 10:11]], [[Josh.15|Josh 15:35]]; [[Jer.34|Jer 34:7]]
+[^22]: [[Isa.28|Isa 28:21]]
 
-[^23]: [[Josh.10|Josh 10:28]], [[Josh.12|Josh 12:16]], [[Josh.15|Josh 15:41]]
+[^23]: [[Josh.16|Josh 16:3]], [[Josh.16|Josh 16:5]], [[Josh.21|Josh 21:22]]; [[1Sam.13|1Sam 13:18]]
 
-[^24]: ***the Lord*** [[Josh.11|Josh 11:8]]; [[Judg.4|Judg 4:15]]; [[1Sam.7|1Sam 7:10-12]]; [[2Chr.14|2Chr 14:12]]; [[Ps.18|Ps 18:14]], [[Ps.44|Ps 44:3]], [[Ps.78|Ps 78:55]]
+[^24]: [[Josh.10|Josh 10:11]], [[Josh.15|Josh 15:35]]; [[Jer.34|Jer 34:7]]
 
-[^25]: ***Bethhoron*** [[Josh.16|Josh 16:3]], [[Josh.16|Josh 16:5]], [[Josh.21|Josh 21:22]]; [[1Sam.13|1Sam 13:18]]
+[^25]: [[Josh.10|Josh 10:28]], [[Josh.12|Josh 12:16]], [[Josh.15|Josh 15:41]]
 
-[^26]: ***the Lord*** [[Gen.19|Gen 19:24]]; [[Exod.9|Exod 9:22-26]]; [[Judg.5|Judg 5:20]]; [[Ps.11|Ps 11:6]], [[Ps.18|Ps 18:12-14]], [[Ps.77|Ps 77:17-18]]; [[Isa.28|Isa 28:2]], [[Isa.30|Isa 30:30]]; [[Ezek.13|Ezek 13:11]]; [[Rev.11|Rev 11:19]], [[Rev.16|Rev 16:21]]
+[^26]: [[Gen.19|Gen 19:24]]; [[Exod.9|Exod 9:22-26]]; [[Judg.5|Judg 5:20]]; [[Ps.11|Ps 11:6]], [[Ps.18|Ps 18:12-14]], [[Ps.77|Ps 77:17-18]]; [[Isa.28|Isa 28:2]], [[Isa.30|Isa 30:30]]; [[Ezek.13|Ezek 13:11]]; [[Rev.11|Rev 11:19]], [[Rev.16|Rev 16:21]]
 
 [^27]: Joshua doubtless acted, on this occasion, by an immediate impulse upon his mind from the Spirit of God. The terms here employed to record the miracle, agree with the accustomed manner in which the the motions of the earth and sun are described in our own day. The sun apparently moves, but really is stationary; while the diurnal movement of the earth on its axis is by us unnoticed, and would not have been known except by astronomical science. The sun appeared to the Israelites over Gibeon, and the moon over the valley of Ajalon, and there they stayed in their course for "a whole day." Many vain enquiries have been made concerning the way in which this miracle was wrought, and many difficulties and objections have been urged against understanding it literally. But the fact is authenticated by the Divine testimony; and the manner in which it was accomplished lies entirely out of our province, because beyond our comprehension. [[Josh.10|Josh 10:13]]; [[Deut.4|Deut 4:19]], [[Deut.17|Deut 17:3]]; [[Job.9|Job 9:7]], [[Job.31|Job 31:26-27]]; [[Ps.19|Ps 19:4]], [[Ps.74|Ps 74:16]], [[Ps.148|Ps 148:3]]; [[Isa.28|Isa 28:21]], [[Isa.38|Isa 38:8]], [[Isa.60|Isa 60:20]]; [[Amos.8|Amos 8:9]]; [[Hab.3|Hab 3:11]]
 
@@ -99,9 +99,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.10.40|40]]**<span class=
 
 [^33]: [[2Kgs.20|2Kgs 20:10-11]]; [[Isa.38|Isa 38:8]]
 
-[^34]: ***the Lord*** [[Zech.4|Zech 4:6-7]]; [[Matt.21|Matt 21:21-22]]; [[Mark.11|Mark 11:22-24]]; [[Luke.17|Luke 17:6]]
+[^34]: [[Zech.4|Zech 4:6-7]]; [[Matt.21|Matt 21:21-22]]; [[Mark.11|Mark 11:22-24]]; [[Luke.17|Luke 17:6]]
 
-[^35]: ***for the Lord*** [[Josh.10|Josh 10:42]], [[Josh.23|Josh 23:3]]; [[Deut.1|Deut 1:30]]
+[^35]: [[Josh.10|Josh 10:42]], [[Josh.23|Josh 23:3]]; [[Deut.1|Deut 1:30]]
 
 [^36]: [[Josh.10|Josh 10:6]], [[Josh.10|Josh 10:43]]
 
@@ -161,7 +161,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.10.40|40]]**<span class=
 
 [^64]: [[Josh.10|Josh 10:30]]
 
-[^65]: Gezer was situated on the confines of Ephraim and Manasseh, between Beth-horon and the sea; and is evidently the village of Gazara mentioned by Eusebius, four miles (north) from Nicopolis or Emmaus. [[Josh.12|Josh 12:12]], [[Josh.16|Josh 16:3]], [[Josh.16|Josh 16:10]], [[Josh.21|Josh 21:21]]; [[Judg.1|Judg 1:29]]; [[1Kgs.9|1Kgs 9:16-17]]; [[1Chr.6|1Chr 6:67]], [[1Chr.20|1Chr 20:4]]
+[^65]: Gezer was situated on the confines of Ephraim and Manasseh, between Beth–horon and the sea; and is evidently the village of Gazara mentioned by Eusebius, four miles (north) from Nicopolis or Emmaus. [[Josh.12|Josh 12:12]], [[Josh.16|Josh 16:3]], [[Josh.16|Josh 16:10]], [[Josh.21|Josh 21:21]]; [[Judg.1|Judg 1:29]]; [[1Kgs.9|1Kgs 9:16-17]]; [[1Chr.6|1Chr 6:67]], [[1Chr.20|1Chr 20:4]]
 
 [^66]: This town appears to have been no great distance from Lachish, with which it is mentioned, [[Josh.15|Josh 15:39]], as one of the cities given to Judah. [[Josh.10|Josh 10:3]], [[Josh.12|Josh 12:12]], [[Josh.15|Josh 15:39]]
 
@@ -183,15 +183,15 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.10.40|40]]**<span class=
 
 [^75]: [[Josh.10|Josh 10:35]], [[Josh.10|Josh 10:37]]; [[1Kgs.15|1Kgs 15:29]]; [[Ps.9|Ps 9:17]]; [[2Thess.1|2Thess 1:7-9]]
 
-[^76]: ***as the Lord*** [[Josh.6|Josh 6:17]], [[Josh.8|Josh 8:2]], [[Josh.8|Josh 8:27]], [[Josh.9|Josh 9:24]]; [[Exod.23|Exod 23:31-33]], [[Exod.34|Exod 34:12]]; [[Deut.7|Deut 7:2-16]], [[Deut.26|Deut 26:16-17]]
+[^76]: [[Josh.6|Josh 6:17]], [[Josh.8|Josh 8:2]], [[Josh.8|Josh 8:27]], [[Josh.9|Josh 9:24]]; [[Exod.23|Exod 23:31-33]], [[Exod.34|Exod 34:12]]; [[Deut.7|Deut 7:2-16]], [[Deut.26|Deut 26:16-17]]
 
-[^77]: [[Gen.10|Gen 10:19]]; [[Judg.16|Judg 16:1]], [[Judg.16|Judg 16:21]]; [[1Sam.6|1Sam 6:17]]; [[Zech.9|Zech 9:5]]; [[Acts.8|Acts 8:26]]
+[^77]: [[Josh.14|Josh 14:6-7]]; [[Num.13|Num 13:26]], [[Num.32|Num 32:8]], [[Num.34|Num 34:4]]; [[Deut.9|Deut 9:23]]
 
-[^78]: The country of Goshen, mentioned here, seems to have been in the south of Judah; and to have taken its name from the city of Goshen, situated in the same tribe. [[Josh.11|Josh 11:16]], [[Josh.15|Josh 15:51]]
+[^78]: [[Gen.10|Gen 10:19]]; [[Judg.16|Judg 16:1]], [[Judg.16|Judg 16:21]]; [[1Sam.6|1Sam 6:17]]; [[Zech.9|Zech 9:5]]; [[Acts.8|Acts 8:26]]
 
-[^79]: [[Josh.10|Josh 10:2]], [[Josh.10|Josh 10:12]]; [[1Kgs.3|1Kgs 3:5]]
+[^79]: The country of Goshen, mentioned here, seems to have been in the south of Judah; and to have taken its name from the city of Goshen, situated in the same tribe. [[Josh.11|Josh 11:16]], [[Josh.15|Josh 15:51]]
 
-[^80]: ***Kadeshbarnea*** [[Josh.14|Josh 14:6-7]]; [[Num.13|Num 13:26]], [[Num.32|Num 32:8]], [[Num.34|Num 34:4]]; [[Deut.9|Deut 9:23]]
+[^80]: [[Josh.10|Josh 10:2]], [[Josh.10|Josh 10:12]]; [[1Kgs.3|1Kgs 3:5]]
 
 [^81]: [[Josh.10|Josh 10:14]]; [[Exod.14|Exod 14:14]], [[Exod.14|Exod 14:25]]; [[Deut.20|Deut 20:4]]; [[Ps.44|Ps 44:3-8]], [[Ps.46|Ps 46:1]], [[Ps.46|Ps 46:7]], [[Ps.46|Ps 46:11]], [[Ps.80|Ps 80:3]], [[Ps.118|Ps 118:6]]; [[Isa.8|Isa 8:9-10]], [[Isa.43|Isa 43:4]]; [[Rom.8|Rom 8:31-37]]
 

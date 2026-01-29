@@ -6,13 +6,13 @@
 
 $\quad$ <span class="startversemarker">[</span>**[[Ruth.4.6|6]]**<span class="endversemarker">]</span> [¶]And the kinsman said, I cannot<small><small>[^13]</small></small> redeem \[it\] for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem \[it\]. <span class="startversemarker">[</span>**[[Ruth.4.7|7]]**<span class="endversemarker">]</span> Now this \[was the manner\] in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off<small><small>[^14]</small></small> his shoe, and gave \[it\] to his neighbour: and this \[was\] a testimony in Israel. <span class="startversemarker">[</span>**[[Ruth.4.8|8]]**<span class="endversemarker">]</span> Therefore the kinsman said unto Boaz, Buy \[it\] for thee. So he drew off his shoe. 
 
-$\quad$ <span class="startversemarker">[</span>**[[Ruth.4.9|9]]**<span class="endversemarker">]</span> And Boaz said unto the elders, and \[unto\] all the people, Ye \[are\] witnesses<small><small>[^15]</small></small> this day, that I have bought all that \[was\] Elimelech’s, and all that \[was\] Chilion’s and Mahlon’s, of the hand of Naomi. <span class="startversemarker">[</span>**[[Ruth.4.10|10]]**<span class="endversemarker">]</span> Moreover Ruth the Moabitess, the wife of Mahlon, have I<small><small>[^16]</small></small> purchased to be my wife, to raise up the name<small><small>[^17]</small></small> of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye \[are\] witnesses<small><small>[^18]</small></small> this day. <span class="startversemarker">[</span>**[[Ruth.4.11|11]]**<span class="endversemarker">]</span> And all the people that \[were\] in the gate, and the elders, said, \[We are\] witnesses. The <span class="smallcaps">Lord</span> make the woman that is come into thine house like Rachel<small><small>[^19]</small></small> and like Leah, which two did build<small><small>[^20]</small></small> the house of Israel: and do thou worthily<small><small>[^21]</small></small> in Ephratah<small><small>[^22]</small></small>, and be famous<small><small>[^23]</small></small> in Beth–lehem:<small><small>[^24]</small></small> <span class="startversemarker">[</span>**[[Ruth.4.12|12]]**<span class="endversemarker">]</span> And let thy house be like the house<small><small>[^25]</small></small> of Pharez, whom<small><small>[^26]</small></small> Tamar bare unto Judah, of the seed<small><small>[^27]</small></small> which the <span class="smallcaps">Lord</span> shall give thee of this young woman.
+$\quad$ <span class="startversemarker">[</span>**[[Ruth.4.9|9]]**<span class="endversemarker">]</span> And Boaz said unto the elders, and \[unto\] all the people, Ye \[are\] witnesses<small><small>[^15]</small></small> this day, that I have bought all that \[was\] Elimelech’s, and all that \[was\] Chilion’s and Mahlon’s, of the hand of Naomi. <span class="startversemarker">[</span>**[[Ruth.4.10|10]]**<span class="endversemarker">]</span> Moreover Ruth the Moabitess, the wife of Mahlon, have I<small><small>[^16]</small></small> purchased to be my wife, to raise up the name<small><small>[^17]</small></small> of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye \[are\] witnesses<small><small>[^18]</small></small> this day. <span class="startversemarker">[</span>**[[Ruth.4.11|11]]**<span class="endversemarker">]</span> And all the people that \[were\] in the gate, and the elders, said, \[We are\] witnesses. The <span class="smallcaps">Lord<small><small>[^19]</small></small></span> make the woman that is come into thine house like Rachel<small><small>[^20]</small></small> and like Leah, which two did build<small><small>[^21]</small></small> the house of Israel: and do thou worthily<small><small>[^22]</small></small> in Ephratah<small><small>[^23]</small></small>, and be famous<small><small>[^24]</small></small> in Beth–lehem: <span class="startversemarker">[</span>**[[Ruth.4.12|12]]**<span class="endversemarker">]</span> And let thy house be like the house<small><small>[^25]</small></small> of Pharez, whom<small><small>[^26]</small></small> Tamar bare unto Judah, of the seed<small><small>[^27]</small></small> which the <span class="smallcaps">Lord</span> shall give thee of this young woman.
 
 ***Boaz Marries Ruth*** ^bsb655
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Ruth.4.13|13]]**<span class="endversemarker">]</span> So Boaz<small><small>[^28]</small></small> took Ruth, and she was his wife: and when he went in unto her, the <span class="smallcaps">Lord</span> gave her conception, and she bare a son.<small><small>[^29]</small></small><small><small>[^30]</small></small> <span class="startversemarker">[</span>**[[Ruth.4.14|14]]**<span class="endversemarker">]</span> And the women<small><small>[^31]</small></small> said unto Naomi, Blessed<small><small>[^32]</small></small> \[be\] the <span class="smallcaps">Lord</span>, which hath<small><small>[^33]</small></small> not left thee<small><small>[^34]</small></small> this day without a kinsman<small><small>[^35]</small></small>, that his<small><small>[^36]</small></small> name may be famous in Israel. <span class="startversemarker">[</span>**[[Ruth.4.15|15]]**<span class="endversemarker">]</span> And he shall be unto thee a restorer of \[thy\] life, and a nourisher<small><small>[^37]</small></small> of thine old age: for thy<small><small>[^38]</small></small> daughter in law, which loveth thee, which is better<small><small>[^39]</small></small> to thee than seven sons, hath born him. <span class="startversemarker">[</span>**[[Ruth.4.16|16]]**<span class="endversemarker">]</span> And Naomi took the child, and laid it in her bosom, and became nurse unto it. <span class="startversemarker">[</span>**[[Ruth.4.17|17]]**<span class="endversemarker">]</span> And the women<small><small>[^40]</small></small> her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed<small><small>[^41]</small></small>: he \[is\] the father of Jesse, the father of David.
+$\quad$ <span class="startversemarker">[</span>**[[Ruth.4.13|13]]**<span class="endversemarker">]</span> So Boaz<small><small>[^28]</small></small> took Ruth, and she was his wife: and when he went in unto her, the <span class="smallcaps">Lord<small><small>[^29]</small></small></span> gave her conception, and she bare a son.<small><small>[^30]</small></small> <span class="startversemarker">[</span>**[[Ruth.4.14|14]]**<span class="endversemarker">]</span> And the women<small><small>[^31]</small></small> said unto Naomi, Blessed<small><small>[^32]</small></small> \[be\] the <span class="smallcaps">Lord</span>, which hath<small><small>[^33]</small></small> not left thee<small><small>[^34]</small></small> this day without a kinsman<small><small>[^35]</small></small>, that his<small><small>[^36]</small></small> name may be famous in Israel. <span class="startversemarker">[</span>**[[Ruth.4.15|15]]**<span class="endversemarker">]</span> And he shall be unto thee a restorer of \[thy\] life, and a nourisher<small><small>[^37]</small></small> of thine old age: for thy<small><small>[^38]</small></small> daughter in law, which loveth thee, which is better<small><small>[^39]</small></small> to thee than seven sons, hath born him. <span class="startversemarker">[</span>**[[Ruth.4.16|16]]**<span class="endversemarker">]</span> And Naomi took the child, and laid it in her bosom, and became nurse unto it. <span class="startversemarker">[</span>**[[Ruth.4.17|17]]**<span class="endversemarker">]</span> And the women<small><small>[^40]</small></small> her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed<small><small>[^41]</small></small>: he \[is\] the father of Jesse, the father of David.
 
 ***The Line of David***&emsp;<small><sup>\[ [[Matt.1|Matthew 1:1–17]] <big>†</big> [[Luke.3|Luke 3:23–38]] ]</sup></small> ^bsb656
 
@@ -57,17 +57,17 @@ $\quad$ <span class="startversemarker">[</span>**[[Ruth.4.18|18]]**<span class="
 
 [^18]: [[Isa.8|Isa 8:2-3]]; [[Mal.2|Mal 2:14]]; [[Heb.13|Heb 13:4]]
 
-[^19]: [[Gen.29|Gen 29:32-35]], [[Gen.30|Gen 30:1-24]], [[Gen.35|Gen 35:16-20]], [[Gen.46|Gen 46:8-27]]; [[Num.26|Num 26:1-65]]
+[^19]: [[Gen.24|Gen 24:60]]; [[Ps.127|Ps 127:3-5]], [[Ps.128|Ps 128:3-6]]
 
-[^20]: [[Deut.25|Deut 25:9]]; [[Prov.14|Prov 14:1]]
+[^20]: [[Gen.29|Gen 29:32-35]], [[Gen.30|Gen 30:1-24]], [[Gen.35|Gen 35:16-20]], [[Gen.46|Gen 46:8-27]]; [[Num.26|Num 26:1-65]]
 
-[^21]: or, get thee riches, or power
+[^21]: [[Deut.25|Deut 25:9]]; [[Prov.14|Prov 14:1]]
 
-[^22]: [[Ruth.1|Ruth 1:2]]; [[Gen.35|Gen 35:16]], [[Gen.35|Gen 35:19]]; [[Ps.132|Ps 132:6]]; [[Mic.5|Mic 5:2]]; [[Matt.2|Matt 2:6]]
+[^22]: or, get thee riches, or power
 
-[^23]: Heb. proclaim thy name
+[^23]: [[Ruth.1|Ruth 1:2]]; [[Gen.35|Gen 35:16]], [[Gen.35|Gen 35:19]]; [[Ps.132|Ps 132:6]]; [[Mic.5|Mic 5:2]]; [[Matt.2|Matt 2:6]]
 
-[^24]: ***the Lord*** [[Gen.24|Gen 24:60]]; [[Ps.127|Ps 127:3-5]], [[Ps.128|Ps 128:3-6]]
+[^24]: Heb. proclaim thy name
 
 [^25]: [[Gen.46|Gen 46:12]]; [[Num.26|Num 26:20-22]]
 
@@ -77,9 +77,9 @@ $\quad$ <span class="startversemarker">[</span>**[[Ruth.4.18|18]]**<span class="
 
 [^28]: [[Ruth.3|Ruth 3:11]]
 
-[^29]: am 2697, bc 1307, An, Ex, Is, 184
+[^29]: [[Ruth.4|Ruth 4:12]]; [[Gen.20|Gen 20:17-18]], [[Gen.21|Gen 21:1-3]], [[Gen.25|Gen 25:21]], [[Gen.29|Gen 29:31]], [[Gen.30|Gen 30:2]], [[Gen.30|Gen 30:22-23]], [[Gen.33|Gen 33:5]]; [[1Sam.1|1Sam 1:27]]; [[Ruth.2|Ruth 2:5]]; [[Ps.113|Ps 113:9]], [[Ps.127|Ps 127:3]]
 
-[^30]: ***the Lord*** [[Ruth.4|Ruth 4:12]]; [[Gen.20|Gen 20:17-18]], [[Gen.21|Gen 21:1-3]], [[Gen.25|Gen 25:21]], [[Gen.29|Gen 29:31]], [[Gen.30|Gen 30:2]], [[Gen.30|Gen 30:22-23]], [[Gen.33|Gen 33:5]]; [[1Sam.1|1Sam 1:27]]; [[Ruth.2|Ruth 2:5]]; [[Ps.113|Ps 113:9]], [[Ps.127|Ps 127:3]]
+[^30]: am 2697, bc 1307, An, Ex, Is, 184
 
 [^31]: [[Luke.1|Luke 1:58]]; [[Rom.12|Rom 12:15]]; [[1Cor.12|1Cor 12:26]]
 

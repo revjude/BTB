@@ -6,7 +6,7 @@
 
 ***God’s Law Is Holy*** ^bsb2707
 
- <span class="startversemarker">[</span>**[[Rom.7.7|7]]**<span class="endversemarker">]</span> What<small><small>[^23]</small></small> shall we say then? \[Is\] the law sin? God forbid. Nay, I had<small><small>[^24]</small></small> not known sin, but by the law: for I had not known lust<small><small>[^25]</small></small>, except the law had said, Thou shalt<small><small>[^26]</small></small> not covet.<small><small>[^27]</small></small> <span class="startversemarker">[</span>**[[Rom.7.8|8]]**<span class="endversemarker">]</span> But sin<small><small>[^28]</small></small>, taking occasion by the commandment, wrought<small><small>[^29]</small></small> in me all manner of concupiscence. For without<small><small>[^30]</small></small> the law sin \[was\] dead. <span class="startversemarker">[</span>**[[Rom.7.9|9]]**<span class="endversemarker">]</span> For I<small><small>[^31]</small></small> was alive without<small><small>[^32]</small></small> the law once: but<small><small>[^33]</small></small> when the commandment came, sin<small><small>[^34]</small></small> revived, and I died<small><small>[^35]</small></small>. <span class="startversemarker">[</span>**[[Rom.7.10|10]]**<span class="endversemarker">]</span> And the commandment, which \[was ordained\] to life, I found \[to be\] unto death.<small><small>[^36]</small></small> <span class="startversemarker">[</span>**[[Rom.7.11|11]]**<span class="endversemarker">]</span> For sin<small><small>[^37]</small></small>, taking occasion by the commandment, deceived<small><small>[^38]</small></small> me, and by it slew \[me\]. <span class="startversemarker">[</span>**[[Rom.7.12|12]]**<span class="endversemarker">]</span> Wherefore the law<small><small>[^39]</small></small> \[is\] holy, and the commandment<small><small>[^40]</small></small> holy, and just, and good.
+ <span class="startversemarker">[</span>**[[Rom.7.7|7]]**<span class="endversemarker">]</span> What<small><small>[^23]</small></small> shall we say then? \[Is\] the law<small><small>[^24]</small></small> sin? God forbid. Nay, I had<small><small>[^25]</small></small> not known sin, but by the law: for I had not known lust<small><small>[^26]</small></small>, except the law had said, Thou shalt<small><small>[^27]</small></small> not covet. <span class="startversemarker">[</span>**[[Rom.7.8|8]]**<span class="endversemarker">]</span> But sin<small><small>[^28]</small></small>, taking occasion by the commandment, wrought<small><small>[^29]</small></small> in me all manner of concupiscence. For without<small><small>[^30]</small></small> the law sin \[was\] dead. <span class="startversemarker">[</span>**[[Rom.7.9|9]]**<span class="endversemarker">]</span> For I<small><small>[^31]</small></small> was alive without<small><small>[^32]</small></small> the law once: but<small><small>[^33]</small></small> when the commandment came, sin<small><small>[^34]</small></small> revived, and I died<small><small>[^35]</small></small>. <span class="startversemarker">[</span>**[[Rom.7.10|10]]**<span class="endversemarker">]</span> And the commandment, which \[was ordained\] to life, I found \[to be\] unto death.<small><small>[^36]</small></small> <span class="startversemarker">[</span>**[[Rom.7.11|11]]**<span class="endversemarker">]</span> For sin<small><small>[^37]</small></small>, taking occasion by the commandment, deceived<small><small>[^38]</small></small> me, and by it slew \[me\]. <span class="startversemarker">[</span>**[[Rom.7.12|12]]**<span class="endversemarker">]</span> Wherefore the law<small><small>[^39]</small></small> \[is\] holy, and the commandment<small><small>[^40]</small></small> holy, and just, and good.
 
 ***Struggling with Sin*** ^bsb2708
 
@@ -59,13 +59,13 @@
 
 [^23]: [[Rom.3|Rom 3:5]], [[Rom.4|Rom 4:1]], [[Rom.6|Rom 6:15]]
 
-[^24]: [[Rom.7|Rom 7:5]], [[Rom.3|Rom 3:20]]; [[Ps.19|Ps 19:7-12]], [[Ps.119|Ps 119:96]]
+[^24]: [[Rom.7|Rom 7:8]], [[Rom.7|Rom 7:11]], [[Rom.7|Rom 7:13]]; [[1Cor.15|1Cor 15:56]]
 
-[^25]: or, concupiscence, [[Rom.7|Rom 7:8]]; [[1Thess.4|1Thess 4:5]]
+[^25]: [[Rom.7|Rom 7:5]], [[Rom.3|Rom 3:20]]; [[Ps.19|Ps 19:7-12]], [[Ps.119|Ps 119:96]]
 
-[^26]: [[Rom.13|Rom 13:9]]; [[Gen.3|Gen 3:6]]; [[Exod.20|Exod 20:17]]; [[Deut.5|Deut 5:21]]; [[Josh.7|Josh 7:21]]; [[2Sam.11|2Sam 11:2]]; [[1Kgs.21|1Kgs 21:1-4]]; [[Mic.2|Mic 2:2]]; [[Matt.5|Matt 5:28]]; [[Luke.12|Luke 12:15]]; [[Acts.20|Acts 20:33]]; [[Eph.5|Eph 5:3]]; [[Col.3|Col 3:5]]; [[1John.2|1John 2:15-16]]
+[^26]: or, concupiscence, [[Rom.7|Rom 7:8]]; [[1Thess.4|1Thess 4:5]]
 
-[^27]: ***is the law*** [[Rom.7|Rom 7:8]], [[Rom.7|Rom 7:11]], [[Rom.7|Rom 7:13]]; [[1Cor.15|1Cor 15:56]]
+[^27]: [[Rom.13|Rom 13:9]]; [[Gen.3|Gen 3:6]]; [[Exod.20|Exod 20:17]]; [[Deut.5|Deut 5:21]]; [[Josh.7|Josh 7:21]]; [[2Sam.11|2Sam 11:2]]; [[1Kgs.21|1Kgs 21:1-4]]; [[Mic.2|Mic 2:2]]; [[Matt.5|Matt 5:28]]; [[Luke.12|Luke 12:15]]; [[Acts.20|Acts 20:33]]; [[Eph.5|Eph 5:3]]; [[Col.3|Col 3:5]]; [[1John.2|1John 2:15-16]]
 
 [^28]: [[Rom.7|Rom 7:11]], [[Rom.7|Rom 7:13]], [[Rom.7|Rom 7:17]], [[Rom.4|Rom 4:15]], [[Rom.5|Rom 5:20]]
 

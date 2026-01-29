@@ -25,7 +25,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezek.19.10|10]]**<span class=
 
 [^9]: [[Ezek.19|Ezek 19:6]]; [[2Kgs.23|2Kgs 23:31-32]]; [[2Chr.36|2Chr 36:1-2]]
 
-[^10]: Taken prisoner by Pharaoh-necho, and brought into Egypt. [[2Kgs.23|2Kgs 23:31]], [[2Kgs.23|2Kgs 23:33-34]]; [[2Chr.36|2Chr 36:4]], [[2Chr.36|2Chr 36:6]]; [[Jer.22|Jer 22:11-12]], [[Jer.22|Jer 22:18]]
+[^10]: Taken prisoner by Pharaoh–necho, and brought into Egypt. [[2Kgs.23|2Kgs 23:31]], [[2Kgs.23|2Kgs 23:33-34]]; [[2Chr.36|2Chr 36:4]], [[2Chr.36|2Chr 36:6]]; [[Jer.22|Jer 22:11-12]], [[Jer.22|Jer 22:18]]
 
 [^11]: Jehoiakim. [[Ezek.19|Ezek 19:3]]; [[2Kgs.23|2Kgs 23:34-37]]
 

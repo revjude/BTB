@@ -51,7 +51,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Num.19.11|11]]**<span class="
 
 [^20]: [[Num.15|Num 15:15-16]]; [[Exod.12|Exod 12:49]]; [[Rom.3|Rom 3:29-30]]; [[Col.3|Col 3:11]]
 
-[^21]: He who touched a dead beast was only unclean for one day ([[Lev.11|Lev 11:12]], [[Lev.11|Lev 11:27]], [[Lev.11|Lev 11:39]]); but he who touches a dead man is unclean for seven days. This was certainly designed to show the peculiar impurity and sinfulness of man, and the hatefulness of sin, seven times worse than the vilest animal! [[Num.19|Num 19:16]], [[Num.5|Num 5:2]], [[Num.9|Num 9:6]], [[Num.9|Num 9:10]], [[Num.31|Num 31:19]]; [[Lev.11|Lev 11:31]], [[Lev.21|Lev 21:1]], [[Lev.21|Lev 21:11]]; [[Lam.4|Lam 4:14]]; [[Hag.2|Hag 2:13]]; [[Rom.5|Rom 5:12]]; [[2Cor.6|2Cor 6:17]]; [[Eph.2|Eph 2:1]]; [[Heb.9|Heb 9:14]]
+[^21]: He who touched a dead beast was only unclean for one day ([[Lev.11|Lev 11:12]], [[Lev.11|Lev 11:27]], [[Lev.11|Lev 11:39]]); but he who touches a dead man is unclean for seven days. This was certainly designed to shew the peculiar impurity and sinfulness of man, and the hatefulness of sin, seven times worse than the vilest animal! [[Num.19|Num 19:16]], [[Num.5|Num 5:2]], [[Num.9|Num 9:6]], [[Num.9|Num 9:10]], [[Num.31|Num 31:19]]; [[Lev.11|Lev 11:31]], [[Lev.21|Lev 21:1]], [[Lev.21|Lev 21:11]]; [[Lam.4|Lam 4:14]]; [[Hag.2|Hag 2:13]]; [[Rom.5|Rom 5:12]]; [[2Cor.6|2Cor 6:17]]; [[Eph.2|Eph 2:1]]; [[Heb.9|Heb 9:14]]
 
 [^22]: Heb. soul of man
 

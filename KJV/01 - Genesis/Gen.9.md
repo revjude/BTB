@@ -14,7 +14,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.9.18|18]]**<span class="e
 
 ***Shem’s Blessing and Noah’s Death*** ^bsb31
 
- <span class="startversemarker">[</span>**[[Gen.9.26|26]]**<span class="endversemarker">]</span> And he said, Blessed<small><small>[^37]</small></small> \[be\] the <span class="smallcaps">Lord</span> God of Shem<small><small>[^38]</small></small>; and Canaan shall be his servant<small><small>[^39]</small></small>.<small><small>[^40]</small></small> <span class="startversemarker">[</span>**[[Gen.9.27|27]]**<span class="endversemarker">]</span> God shall enlarge<small><small>[^41]</small></small> Japheth<small><small>[^42]</small></small>, and he shall dwell<small><small>[^43]</small></small> in the tents of Shem; and Canaan shall be his servant.<small><small>[^44]</small></small> 
+ <span class="startversemarker">[</span>**[[Gen.9.26|26]]**<span class="endversemarker">]</span> And he said, Blessed<small><small>[^37]</small></small> \[be\] the <span class="smallcaps">Lord<small><small>[^38]</small></small></span> God of Shem<small><small>[^39]</small></small>; and Canaan shall be his servant<small><small>[^40]</small></small>. <span class="startversemarker">[</span>**[[Gen.9.27|27]]**<span class="endversemarker">]</span> God shall enlarge<small><small>[^41]</small></small> Japheth<small><small>[^42]</small></small>, and he shall dwell<small><small>[^43]</small></small><small><small>[^44]</small></small> in the tents of Shem; and Canaan shall be his servant. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.9.28|28]]**<span class="endversemarker">]</span> And Noah lived after the flood three hundred and fifty years. <span class="startversemarker">[</span>**[[Gen.9.29|29]]**<span class="endversemarker">]</span> And all the days of Noah were nine<small><small>[^45]</small></small> hundred and fifty years: and he died. <small><small>[^46]</small></small><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8|<< Genesis 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10|Genesis 10 >>]]</td></tr></table>
 
@@ -93,11 +93,11 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.9.28|28]]**<span class="e
 
 [^37]: [[Deut.33|Deut 33:26]]; [[Ps.144|Ps 144:15]]; [[Rom.9|Rom 9:5]]
 
-[^38]: [[Heb.11|Heb 11:16]]
+[^38]: [[Gen.10|Gen 10:10-26]], [[Gen.12|Gen 12:1-3]]; [[Luke.3|Luke 3:23-36]]
 
-[^39]: or, servant to them, [[Gen.27|Gen 27:37]], [[Gen.27|Gen 27:40]]
+[^39]: [[Heb.11|Heb 11:16]]
 
-[^40]: ***the Lord*** [[Gen.10|Gen 10:10-26]], [[Gen.12|Gen 12:1-3]]; [[Luke.3|Luke 3:23-36]]
+[^40]: or, servant to them, [[Gen.27|Gen 27:37]], [[Gen.27|Gen 27:40]]
 
 [^41]: or, persuade
 
@@ -105,7 +105,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.9.28|28]]**<span class="e
 
 [^43]: These words may mean either that God or that Japheth shall dwell in the tents of Shem. In either sense the prophecy has been literally fulfilled.
 
-[^44]: ***dwell*** [[Isa.11|Isa 11:10]]; [[Hos.2|Hos 2:14]]; [[Mal.1|Mal 1:11]]; [[Acts.17|Acts 17:14]]; [[Rom.11|Rom 11:12]], [[Rom.15|Rom 15:12]]; [[Eph.2|Eph 2:13-14]], [[Eph.2|Eph 2:19]], [[Eph.3|Eph 3:6]], [[Eph.3|Eph 3:13]]; [[Heb.11|Heb 11:9-10]]
+[^44]: [[Isa.11|Isa 11:10]]; [[Hos.2|Hos 2:14]]; [[Mal.1|Mal 1:11]]; [[Acts.17|Acts 17:14]]; [[Rom.11|Rom 11:12]], [[Rom.15|Rom 15:12]]; [[Eph.2|Eph 2:13-14]], [[Eph.2|Eph 2:19]], [[Eph.3|Eph 3:6]], [[Eph.3|Eph 3:13]]; [[Heb.11|Heb 11:9-10]]
 
 [^45]: [[Gen.5|Gen 5:5]], [[Gen.5|Gen 5:20]], [[Gen.5|Gen 5:27]], [[Gen.5|Gen 5:32]], [[Gen.11|Gen 11:11-25]]; [[Ps.90|Ps 90:10]]
 

@@ -2,7 +2,7 @@
 
 ***Jehoshaphat Reigns in Judah***&emsp;<small><sup>\[ [[1Kgs.15|1 Kings 15:23–24]] ]</sup></small> ^bsb1101
 
- $\quad$ <span class="startversemarker">[</span>**[[2Chr.17.1|1]]**<span class="endversemarker">]</span> And Jehoshaphat<small><small>[^2]</small></small> his son reigned in his stead, and strengthened<small><small>[^3]</small></small> himself against Israel. <span class="startversemarker">[</span>**[[2Chr.17.2|2]]**<span class="endversemarker">]</span> And he placed forces<small><small>[^4]</small></small> in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities<small><small>[^5]</small></small> of Ephraim, which Asa his father had taken. <span class="startversemarker">[</span>**[[2Chr.17.3|3]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> was with Jehoshaphat, because he walked<small><small>[^6]</small></small> in the first ways of his father David<small><small>[^7]</small></small>, and sought<small><small>[^8]</small></small> not unto Baalim;<small><small>[^9]</small></small> <span class="startversemarker">[</span>**[[2Chr.17.4|4]]**<span class="endversemarker">]</span> But sought to the \[<span class="smallcaps">Lord</span>\] God of his father, and walked<small><small>[^10]</small></small> in his commandments, and not after<small><small>[^11]</small></small> the doings of Israel. <span class="startversemarker">[</span>**[[2Chr.17.5|5]]**<span class="endversemarker">]</span> Therefore the <span class="smallcaps">Lord</span> stablished the kingdom in his hand; and all Judah brought<small><small>[^12]</small></small> to Jehoshaphat presents<small><small>[^13]</small></small>; and he had riches<small><small>[^14]</small></small> and honour in abundance.<small><small>[^15]</small></small><small><small>[^16]</small></small> <span class="startversemarker">[</span>**[[2Chr.17.6|6]]**<span class="endversemarker">]</span> And his heart<small><small>[^17]</small></small> was lifted up<small><small>[^18]</small></small> in the ways<small><small>[^19]</small></small> of the <span class="smallcaps">Lord</span>: moreover he took away<small><small>[^20]</small></small> the high places and groves out of Judah. 
+ $\quad$ <span class="startversemarker">[</span>**[[2Chr.17.1|1]]**<span class="endversemarker">]</span> And Jehoshaphat<small><small>[^2]</small></small> his son reigned in his stead, and strengthened<small><small>[^3]</small></small> himself against Israel. <span class="startversemarker">[</span>**[[2Chr.17.2|2]]**<span class="endversemarker">]</span> And he placed forces<small><small>[^4]</small></small> in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities<small><small>[^5]</small></small> of Ephraim, which Asa his father had taken. <span class="startversemarker">[</span>**[[2Chr.17.3|3]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord<small><small>[^6]</small></small></span> was with Jehoshaphat, because he walked<small><small>[^7]</small></small> in the first ways of his father David<small><small>[^8]</small></small>, and sought<small><small>[^9]</small></small> not unto Baalim; <span class="startversemarker">[</span>**[[2Chr.17.4|4]]**<span class="endversemarker">]</span> But sought to the \[<span class="smallcaps">Lord</span>\] God of his father, and walked<small><small>[^10]</small></small> in his commandments, and not after<small><small>[^11]</small></small> the doings of Israel. <span class="startversemarker">[</span>**[[2Chr.17.5|5]]**<span class="endversemarker">]</span> Therefore the <span class="smallcaps">Lord<small><small>[^12]</small></small></span> stablished the kingdom in his hand; and all Judah brought<small><small>[^13]</small></small> to Jehoshaphat presents<small><small>[^14]</small></small>; and he had riches<small><small>[^15]</small></small> and honour in abundance.<small><small>[^16]</small></small> <span class="startversemarker">[</span>**[[2Chr.17.6|6]]**<span class="endversemarker">]</span> And his heart<small><small>[^17]</small></small> was lifted up<small><small>[^18]</small></small> in the ways<small><small>[^19]</small></small> of the <span class="smallcaps">Lord</span>: moreover he took away<small><small>[^20]</small></small> the high places and groves out of Judah. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Chr.17.7|7]]**<span class="endversemarker">]</span> [¶]Also in the third year of his reign he sent<small><small>[^21]</small></small> to his princes, \[even\] to Ben–hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach<small><small>[^22]</small></small> in the cities of Judah.<small><small>[^23]</small></small><small><small>[^24]</small></small><small><small>[^25]</small></small><small><small>[^26]</small></small><small><small>[^27]</small></small> <span class="startversemarker">[</span>**[[2Chr.17.8|8]]**<span class="endversemarker">]</span> And with them \[he sent\] Levites, \[even\] Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tob–adonijah, Levites; and with them Elishama and Jehoram, priests<small><small>[^28]</small></small>. <span class="startversemarker">[</span>**[[2Chr.17.9|9]]**<span class="endversemarker">]</span> And they taught<small><small>[^29]</small></small> in Judah, and \[had\] the book<small><small>[^30]</small></small> of the law of the <span class="smallcaps">Lord</span> with them, and went about throughout<small><small>[^31]</small></small> all the cities of Judah, and taught the people. 
 
@@ -21,27 +21,27 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.17.12|12]]**<span class=
 
 [^5]: [[2Chr.15|2Chr 15:8]]
 
-[^6]: [[2Sam.8|2Sam 8:15]]; [[1Kgs.11|1Kgs 11:6]], [[1Kgs.15|1Kgs 15:3-4]]; [[2Kgs.14|2Kgs 14:3]], [[2Kgs.16|2Kgs 16:2]], [[2Kgs.18|2Kgs 18:3]], [[2Kgs.22|2Kgs 22:2]]; [[Ps.132|Ps 132:1-5]]
+[^6]: [[2Chr.15|2Chr 15:2]], [[2Chr.15|2Chr 15:9]]; [[Gen.39|Gen 39:2-3]], [[Gen.39|Gen 39:21]]; [[Exod.3|Exod 3:12]], [[Exod.4|Exod 4:12]]; [[Josh.1|Josh 1:5]], [[Josh.1|Josh 1:9]]; [[Judg.2|Judg 2:18]], [[Judg.6|Judg 6:12]]; [[2Sam.5|2Sam 5:10]]; [[1Chr.22|1Chr 22:18]]; [[Ps.46|Ps 46:7]], [[Ps.46|Ps 46:11]]; [[Isa.8|Isa 8:10]], [[Isa.41|Isa 41:10]]; [[Matt.1|Matt 1:23]], [[Matt.18|Matt 18:20]]; [[Matt.28|Matt 28:20]]; [[2Tim.4|2Tim 4:22]]
 
-[^7]: or, his father, and of David, [[2Chr.14|2Chr 14:2-5]], [[2Chr.14|2Chr 14:11]], [[2Chr.15|2Chr 15:8-13]]
+[^7]: [[2Sam.8|2Sam 8:15]]; [[1Kgs.11|1Kgs 11:6]], [[1Kgs.15|1Kgs 15:3-4]]; [[2Kgs.14|2Kgs 14:3]], [[2Kgs.16|2Kgs 16:2]], [[2Kgs.18|2Kgs 18:3]], [[2Kgs.22|2Kgs 22:2]]; [[Ps.132|Ps 132:1-5]]
 
-[^8]: [[Judg.2|Judg 2:11]], [[Judg.8|Judg 8:33]]; [[Jer.2|Jer 2:23]]
+[^8]: or, his father, and of David, [[2Chr.14|2Chr 14:2-5]], [[2Chr.14|2Chr 14:11]], [[2Chr.15|2Chr 15:8-13]]
 
-[^9]: ***the Lord*** [[2Chr.15|2Chr 15:2]], [[2Chr.15|2Chr 15:9]]; [[Gen.39|Gen 39:2-3]], [[Gen.39|Gen 39:21]]; [[Exod.3|Exod 3:12]], [[Exod.4|Exod 4:12]]; [[Josh.1|Josh 1:5]], [[Josh.1|Josh 1:9]]; [[Judg.2|Judg 2:18]], [[Judg.6|Judg 6:12]]; [[2Sam.5|2Sam 5:10]]; [[1Chr.22|1Chr 22:18]]; [[Ps.46|Ps 46:7]], [[Ps.46|Ps 46:11]]; [[Isa.8|Isa 8:10]], [[Isa.41|Isa 41:10]]; [[Matt.1|Matt 1:23]], [[Matt.18|Matt 18:20]]; [[Matt.28|Matt 28:20]]; [[2Tim.4|2Tim 4:22]]
+[^9]: [[Judg.2|Judg 2:11]], [[Judg.8|Judg 8:33]]; [[Jer.2|Jer 2:23]]
 
 [^10]: [[Luke.1|Luke 1:6]]; [[1Thess.2|1Thess 2:12]], [[1Thess.4|1Thess 4:1]]
 
 [^11]: [[1Kgs.12|1Kgs 12:28]], [[1Kgs.12|1Kgs 12:30]], [[1Kgs.12|1Kgs 12:33]], [[1Kgs.13|1Kgs 13:33-34]], [[1Kgs.16|1Kgs 16:31-33]]; [[2Kgs.8|2Kgs 8:18]], [[2Kgs.17|2Kgs 17:19]]; [[Jer.3|Jer 3:7-8]]; [[Hos.4|Hos 4:15]]
 
-[^12]: Heb. gave
+[^12]: [[2Sam.7|2Sam 7:25-26]]; [[1Kgs.9|1Kgs 9:4-5]]; [[Ps.127|Ps 127:1]], [[Ps.132|Ps 132:12]]; [[1Pet.5|1Pet 5:10]]
 
-[^13]: [[2Chr.32|2Chr 32:23]]; [[1Sam.10|1Sam 10:27]]; [[1Kgs.4|1Kgs 4:21]], [[1Kgs.10|1Kgs 10:25]]; [[Ps.68|Ps 68:29]], [[Ps.72|Ps 72:10]], [[Ps.76|Ps 76:11]]; [[Matt.2|Matt 2:11]]
+[^13]: Heb. gave
 
-[^14]: [[2Chr.1|2Chr 1:15]], [[2Chr.9|2Chr 9:27]], [[2Chr.18|2Chr 18:1]], [[2Chr.32|2Chr 32:27-29]]; [[Gen.13|Gen 13:2]], [[Gen.26|Gen 26:13-14]]; [[Deut.8|Deut 8:13-14]]; [[1Kgs.10|1Kgs 10:27]]; [[Job.42|Job 42:12]]; [[Matt.6|Matt 6:33]]
+[^14]: [[2Chr.32|2Chr 32:23]]; [[1Sam.10|1Sam 10:27]]; [[1Kgs.4|1Kgs 4:21]], [[1Kgs.10|1Kgs 10:25]]; [[Ps.68|Ps 68:29]], [[Ps.72|Ps 72:10]], [[Ps.76|Ps 76:11]]; [[Matt.2|Matt 2:11]]
 
-[^15]: am 3091, bc 913
+[^15]: [[2Chr.1|2Chr 1:15]], [[2Chr.9|2Chr 9:27]], [[2Chr.18|2Chr 18:1]], [[2Chr.32|2Chr 32:27-29]]; [[Gen.13|Gen 13:2]], [[Gen.26|Gen 26:13-14]]; [[Deut.8|Deut 8:13-14]]; [[1Kgs.10|1Kgs 10:27]]; [[Job.42|Job 42:12]]; [[Matt.6|Matt 6:33]]
 
-[^16]: ***the Lord*** [[2Sam.7|2Sam 7:25-26]]; [[1Kgs.9|1Kgs 9:4-5]]; [[Ps.127|Ps 127:1]], [[Ps.132|Ps 132:12]]; [[1Pet.5|1Pet 5:10]]
+[^16]: am 3091, bc 913
 
 [^17]: [[Deut.28|Deut 28:47]]; [[Job.22|Job 22:26]]
 

@@ -2,7 +2,7 @@
 
 ***David and Mephibosheth*** ^bsb750
 
- $\quad$ <span class="startversemarker">[</span>**[[2Sam.9.1|1]]**<span class="endversemarker">]</span> And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[2Sam.9.2|2]]**<span class="endversemarker">]</span> And \[there was\] of the house of Saul a servant<small><small>[^3]</small></small> whose name \[was\] Ziba<small><small>[^4]</small></small>. And when they had called him unto David, the king said unto him, \[Art\] thou Ziba? And he said, Thy servant \[is he\]. <span class="startversemarker">[</span>**[[2Sam.9.3|3]]**<span class="endversemarker">]</span> And the king said, \[Is\] there not yet any of the house of Saul, that I may shew the kindness of God<small><small>[^5]</small></small> unto him? And Ziba said unto the king, Jonathan hath yet a son<small><small>[^6]</small></small>, \[which is\] lame on \[his\] feet. <span class="startversemarker">[</span>**[[2Sam.9.4|4]]**<span class="endversemarker">]</span> And the king said unto him, Where \[is\] he? And Ziba said unto the king, Behold, he \[is\] in the house of Machir<small><small>[^7]</small></small>, the son of Ammiel, in Lo–debar.<small><small>[^8]</small></small> 
+ $\quad$ <span class="startversemarker">[</span>**[[2Sam.9.1|1]]**<span class="endversemarker">]</span> And David said, Is there yet any that is left of the house of Saul, that I may shew him<small><small>[^2]</small></small> kindness for Jonathan’s sake? <span class="startversemarker">[</span>**[[2Sam.9.2|2]]**<span class="endversemarker">]</span> And \[there was\] of the house of Saul a servant<small><small>[^3]</small></small> whose name \[was\] Ziba<small><small>[^4]</small></small>. And when they had called him unto David, the king said unto him, \[Art\] thou Ziba? And he said, Thy servant \[is he\]. <span class="startversemarker">[</span>**[[2Sam.9.3|3]]**<span class="endversemarker">]</span> And the king said, \[Is\] there not yet any of the house of Saul, that I may shew the kindness of God<small><small>[^5]</small></small> unto him? And Ziba said unto the king, Jonathan hath yet a son<small><small>[^6]</small></small>, \[which is\] lame on \[his\] feet. <span class="startversemarker">[</span>**[[2Sam.9.4|4]]**<span class="endversemarker">]</span> And the king said unto him, Where \[is\] he? And Ziba said unto the king, Behold, he \[is\] in the house of Machir<small><small>[^7]</small></small>, the son of Ammiel, in Lo–debar<small><small>[^8]</small></small>. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Sam.9.5|5]]**<span class="endversemarker">]</span> [¶]Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lo–debar. <span class="startversemarker">[</span>**[[2Sam.9.6|6]]**<span class="endversemarker">]</span> Now when Mephibosheth<small><small>[^9]</small></small>, the son of Jonathan, the son of Saul, was come unto David, he fell<small><small>[^10]</small></small> on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant! 
 
@@ -13,7 +13,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Sam.9.9|9]]**<span class="en
 
 [^1]:  [[2Sam.9|2Sam 9:1]], David by Ziba sends for Mephibosheth; [[2Sam.9|2Sam 9:7]], For Jonathan’s sake he entertains him at his table, and restores him all that was Saul’s; [[2Sam.9|2Sam 9:9]], He makes Ziba his farmer.
 
-[^2]: ***show him*** [[2Sam.1|2Sam 1:26]]; [[1Sam.18|1Sam 18:1-4]], [[1Sam.20|1Sam 20:14-17]], [[1Sam.20|1Sam 20:42]], [[1Sam.23|1Sam 23:16-18]]; [[1Kgs.2|1Kgs 2:7]]; [[Prov.27|Prov 27:10]]; [[Matt.10|Matt 10:42]], [[Matt.25|Matt 25:40]]; [[Mark.9|Mark 9:41]]; [[John.19|John 19:26-27]]; [[Phlm.1|Phlm 1:9-12]]; [[1Pet.3|1Pet 3:8]]
+[^2]: [[2Sam.1|2Sam 1:26]]; [[1Sam.18|1Sam 18:1-4]], [[1Sam.20|1Sam 20:14-17]], [[1Sam.20|1Sam 20:42]], [[1Sam.23|1Sam 23:16-18]]; [[1Kgs.2|1Kgs 2:7]]; [[Prov.27|Prov 27:10]]; [[Matt.10|Matt 10:42]], [[Matt.25|Matt 25:40]]; [[Mark.9|Mark 9:41]]; [[John.19|John 19:26-27]]; [[Phlm.1|Phlm 1:9-12]]; [[1Pet.3|1Pet 3:8]]
 
 [^3]: [[Gen.15|Gen 15:2-3]], [[Gen.24|Gen 24:2]], [[Gen.39|Gen 39:6]]
 
@@ -25,9 +25,9 @@ $\quad$ <span class="startversemarker">[</span>**[[2Sam.9.9|9]]**<span class="en
 
 [^7]: [[2Sam.17|2Sam 17:27-29]]
 
-[^8]: ***Lodebar*** This place appears to have been situated beyond Jordan; and was probably, as Reland supposes, the same as Debir or Lidbir, [[Josh.13|Josh 13:26]].
+[^8]: This place appears to have been situated beyond Jordan; and was probably, as Reland supposes, the same as Debir or Lidbir, [[Josh.13|Josh 13:26]].
 
-[^9]: [[1Chr.8|1Chr 8:34]], [[1Chr.9|1Chr 9:40]], called Meribbaal
+[^9]: [[1Chr.8|1Chr 8:34]], [[1Chr.9|1Chr 9:40]], called Merib–baal
 
 [^10]: [[Gen.18|Gen 18:2]], [[Gen.33|Gen 33:3]]; [[1Sam.20|1Sam 20:41]], [[1Sam.25|1Sam 25:23]]
 

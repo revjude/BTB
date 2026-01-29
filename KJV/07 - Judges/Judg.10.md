@@ -8,7 +8,7 @@
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Judg.10.3|3]]**<span class="endversemarker">]</span> [¶]And after him arose Jair, a Gileadite<small><small>[^6]</small></small>, and judged Israel twenty and two years.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[Judg.10.4|4]]**<span class="endversemarker">]</span> And he had thirty sons that rode<small><small>[^8]</small></small> on thirty ass colts, and they had thirty cities, which are called<small><small>[^9]</small></small> Havoth–jair unto this day, which \[are\] in the land of Gilead.<small><small>[^10]</small></small> <span class="startversemarker">[</span>**[[Judg.10.5|5]]**<span class="endversemarker">]</span> And Jair died, and was buried in Camon.
+$\quad$ <span class="startversemarker">[</span>**[[Judg.10.3|3]]**<span class="endversemarker">]</span> [¶]And after him arose Jair, a Gileadite<small><small>[^6]</small></small>, and judged Israel twenty and two years.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[Judg.10.4|4]]**<span class="endversemarker">]</span> And he had thirty sons that rode<small><small>[^8]</small></small> on thirty ass colts, and they had thirty cities, which are called<small><small>[^9]</small></small> Havoth–jair<small><small>[^10]</small></small> unto this day, which \[are\] in the land of Gilead. <span class="startversemarker">[</span>**[[Judg.10.5|5]]**<span class="endversemarker">]</span> And Jair died, and was buried in Camon.
 
 ***Oppression by the Philistines and Ammonites*** ^bsb629
 
@@ -39,7 +39,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.10.15|15]]**<span class=
 
 [^9]: [[Num.32|Num 32:41]]; [[Deut.3|Deut 3:14]]
 
-[^10]: ***Havothjair*** or, the villages of Jair
+[^10]: or, the villages of Jair
 
 [^11]: [[Judg.4|Judg 4:1]], [[Judg.6|Judg 6:1]], [[Judg.13|Judg 13:1]], am 2799, bc 1205, An, Ex, Is, 286
 

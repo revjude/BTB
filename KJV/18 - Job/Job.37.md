@@ -31,7 +31,7 @@
 
 [^13]: [[Job.38|Job 38:22]]; [[Ps.147|Ps 147:16-18]], [[Ps.148|Ps 148:8]]
 
-[^14]: etc. Heb. and to the shower of rain, and to the showers of rain of his strength. [[Job.36|Job 36:27]]
+[^14]: etc. Heb. and to the shewer of rain, and to the shewers of rain of his strength. [[Job.36|Job 36:27]]
 
 [^15]: [[Gen.7|Gen 7:10-12]]; [[Ezra.10|Ezra 10:9]], [[Ezra.10|Ezra 10:13]]; [[Prov.28|Prov 28:3]]; [[Ezek.13|Ezek 13:11]], [[Ezek.13|Ezek 13:13]]; [[Amos.9|Amos 9:6]]; [[Matt.7|Matt 7:25-27]]
 

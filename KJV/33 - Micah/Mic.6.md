@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Mic.6.6|6]]**<span class="end
 
 ***The Punishment of Israel*** ^bsb2032
 
- <span class="startversemarker">[</span>**[[Mic.6.9|9]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord’s</span> voice crieth unto the city, and<small><small>[^36]</small></small> \[the man of\] wisdom shall see thy name<small><small>[^37]</small></small>: hear<small><small>[^38]</small></small> ye the rod, and who hath appointed it.<small><small>[^39]</small></small> 
+ <span class="startversemarker">[</span>**[[Mic.6.9|9]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord’s<small><small>[^36]</small></small></span> voice crieth unto the city, and<small><small>[^37]</small></small> \[the man of\] wisdom shall see thy name<small><small>[^38]</small></small>: hear<small><small>[^39]</small></small> ye the rod, and who hath appointed it. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Mic.6.10|10]]**<span class="endversemarker">]</span> [¶]Are<small><small>[^40]</small></small> there yet the treasures<small><small>[^41]</small></small> of wickedness in the house of the wicked, and<small><small>[^42]</small></small> the scant measure<small><small>[^43]</small></small> \[that is\] abominable? <span class="startversemarker">[</span>**[[Mic.6.11|11]]**<span class="endversemarker">]</span> Shall I count \[them\] pure<small><small>[^44]</small></small> with the wicked<small><small>[^45]</small></small> balances, and with the bag<small><small>[^46]</small></small> of deceitful weights? <span class="startversemarker">[</span>**[[Mic.6.12|12]]**<span class="endversemarker">]</span> For the rich<small><small>[^47]</small></small> men thereof are full of violence, and the inhabitants thereof have spoken<small><small>[^48]</small></small> lies, and their tongue \[is\] deceitful in their mouth. <span class="startversemarker">[</span>**[[Mic.6.13|13]]**<span class="endversemarker">]</span> Therefore also will I make<small><small>[^49]</small></small> \[thee\] sick in<small><small>[^50]</small></small> smiting thee, in making \[thee\] desolate because of thy sins. <span class="startversemarker">[</span>**[[Mic.6.14|14]]**<span class="endversemarker">]</span> Thou shalt eat<small><small>[^51]</small></small>, but not be satisfied; and thy casting down \[shall be\] in the midst of thee; and thou<small><small>[^52]</small></small> shalt take hold, but shalt not deliver; and \[that\] which thou deliverest will I give up to the sword. <span class="startversemarker">[</span>**[[Mic.6.15|15]]**<span class="endversemarker">]</span> Thou shalt sow, but thou shalt not reap; thou shalt tread the olives, but thou shalt not anoint thee with oil; and sweet wine, but shalt not drink wine.<small><small>[^53]</small></small> 
 
@@ -85,13 +85,13 @@ $\quad$ <span class="startversemarker">[</span>**[[Mic.6.16|16]]**<span class="e
 
 [^35]: Heb. humble thyself to walk, [[Gen.5|Gen 5:22]]; [[Lev.26|Lev 26:41]]; [[2Chr.30|2Chr 30:11]], [[2Chr.32|2Chr 32:26]], [[2Chr.33|2Chr 33:12-13]], [[2Chr.33|2Chr 33:19]], [[2Chr.33|2Chr 33:23]], [[2Chr.34|2Chr 34:27]]; [[Isa.57|Isa 57:15]], [[Isa.66|Isa 66:2]]; [[Ezek.16|Ezek 16:63]]; [[Dan.4|Dan 4:37]]; [[Matt.5|Matt 5:3]]; [[Luke.18|Luke 18:13-17]]; [[Rom.10|Rom 10:1-3]]; [[Jas.4|Jas 4:6-10]]; [[1Pet.5|1Pet 5:5-6]]
 
-[^36]: [[2Kgs.22|2Kgs 22:11-20]]; [[Ps.107|Ps 107:43]]; [[Prov.22|Prov 22:3]]; [[Isa.26|Isa 26:11]]; [[Hos.14|Hos 14:9]]
+[^36]: [[Mic.3|Mic 3:12]]; [[Isa.24|Isa 24:10-12]], [[Isa.27|Isa 27:10]], [[Isa.32|Isa 32:13-14]], [[Isa.40|Isa 40:6-8]], [[Isa.66|Isa 66:6]]; [[Jer.19|Jer 19:11-13]]; [[Jer.26|Jer 26:6]], [[Jer.26|Jer 26:18]], [[Jer.37|Jer 37:8-10]]; [[Hos.13|Hos 13:16]]; [[Amos.2|Amos 2:5]], [[Amos.3|Amos 3:8-15]], [[Amos.6|Amos 6:1]]; [[Jonah.3|Jonah 3:4]]; [[Zeph.3|Zeph 3:2]]
 
-[^37]: or, thy name shall see that which is wisdom, [[Exod.34|Exod 34:5-7]]; [[Ps.9|Ps 9:16]], [[Ps.48|Ps 48:10]], [[Ps.83|Ps 83:18]]; [[Isa.30|Isa 30:27]]
+[^37]: [[2Kgs.22|2Kgs 22:11-20]]; [[Ps.107|Ps 107:43]]; [[Prov.22|Prov 22:3]]; [[Isa.26|Isa 26:11]]; [[Hos.14|Hos 14:9]]
 
-[^38]: [[2Sam.21|2Sam 21:1]]; [[Job.5|Job 5:6-8]], [[Job.5|Job 5:17]], [[Job.10|Job 10:2]]; [[Isa.9|Isa 9:13]], [[Isa.10|Isa 10:5-6]]; [[Jer.14|Jer 14:18-22]]; [[Lam.3|Lam 3:39-42]]; [[Joel.2|Joel 2:11-18]]; [[Amos.4|Amos 4:6-12]]; [[Jonah.3|Jonah 3:5-10]]; [[Hag.1|Hag 1:5-7]]; [[Rev.3|Rev 3:19]]
+[^38]: or, thy name shall see that which is wisdom, [[Exod.34|Exod 34:5-7]]; [[Ps.9|Ps 9:16]], [[Ps.48|Ps 48:10]], [[Ps.83|Ps 83:18]]; [[Isa.30|Isa 30:27]]
 
-[^39]: ***Lord's*** [[Mic.3|Mic 3:12]]; [[Isa.24|Isa 24:10-12]], [[Isa.27|Isa 27:10]], [[Isa.32|Isa 32:13-14]], [[Isa.40|Isa 40:6-8]], [[Isa.66|Isa 66:6]]; [[Jer.19|Jer 19:11-13]]; [[Jer.26|Jer 26:6]], [[Jer.26|Jer 26:18]], [[Jer.37|Jer 37:8-10]]; [[Hos.13|Hos 13:16]]; [[Amos.2|Amos 2:5]], [[Amos.3|Amos 3:8-15]], [[Amos.6|Amos 6:1]]; [[Jonah.3|Jonah 3:4]]; [[Zeph.3|Zeph 3:2]]
+[^39]: [[2Sam.21|2Sam 21:1]]; [[Job.5|Job 5:6-8]], [[Job.5|Job 5:17]], [[Job.10|Job 10:2]]; [[Isa.9|Isa 9:13]], [[Isa.10|Isa 10:5-6]]; [[Jer.14|Jer 14:18-22]]; [[Lam.3|Lam 3:39-42]]; [[Joel.2|Joel 2:11-18]]; [[Amos.4|Amos 4:6-12]]; [[Jonah.3|Jonah 3:5-10]]; [[Hag.1|Hag 1:5-7]]; [[Rev.3|Rev 3:19]]
 
 [^40]: etc. or, Is there yet unto every man an house of the wicked, etc
 

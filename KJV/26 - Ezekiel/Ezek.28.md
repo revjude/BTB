@@ -20,7 +20,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezek.28.24|24]]**<span class=
 
 ***The Restoration of Israel***&emsp;<small><sup>\[ [[Jer.30|Jeremiah 30:1–17]] ]</sup></small> ^bsb1882
 
- <span class="startversemarker">[</span>**[[Ezek.28.25|25]]**<span class="endversemarker">]</span> Thus saith the Lord <span class="smallcaps">God</span>; When<small><small>[^65]</small></small> I shall have gathered the house of Israel from the people among whom they are scattered, and shall be sanctified<small><small>[^66]</small></small> in them in the sight of the heathen, then shall<small><small>[^67]</small></small> they dwell in their land that I have given to my<small><small>[^68]</small></small> servant Jacob. <span class="startversemarker">[</span>**[[Ezek.28.26|26]]**<span class="endversemarker">]</span> And they shall dwell safely<small><small>[^69]</small></small> therein, and shall build<small><small>[^70]</small></small> houses, and plant vineyards; yea, they shall dwell with confidence, when I<small><small>[^71]</small></small> have executed judgments upon all those that despise<small><small>[^72]</small></small> them round about them; and they<small><small>[^73]</small></small> shall know that I \[am\] the <span class="smallcaps">Lord</span> their God. <small><small>[^74]</small></small><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27|<< Ezekiel 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29|Ezekiel 29 >>]]</td></tr></table>
+ <span class="startversemarker">[</span>**[[Ezek.28.25|25]]**<span class="endversemarker">]</span> Thus saith the Lord <span class="smallcaps">God</span>; When<small><small>[^65]</small></small> I shall have gathered the house of Israel from the people among whom they are scattered, and shall be sanctified<small><small>[^66]</small></small> in them in the sight of the heathen, then shall<small><small>[^67]</small></small> they dwell in their land that I have given to my<small><small>[^68]</small></small> servant Jacob. <span class="startversemarker">[</span>**[[Ezek.28.26|26]]**<span class="endversemarker">]</span> And they shall dwell<small><small>[^69]</small></small> safely<small><small>[^70]</small></small> therein, and shall build<small><small>[^71]</small></small> houses, and plant vineyards; yea, they shall dwell with confidence, when I<small><small>[^72]</small></small> have executed judgments upon all those that despise<small><small>[^73]</small></small> them round about them; and they<small><small>[^74]</small></small> shall know that I \[am\] the <span class="smallcaps">Lord</span> their God. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27|<< Ezekiel 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29|Ezekiel 29 >>]]</td></tr></table>
 
 
 [^1]:  [[Ezek.28|Ezek 28:1]], God’s judgment upon the prince of Tyrus for his sacrilegious pride; [[Ezek.28|Ezek 28:11]], A lamentation of his great glory corrupted by sin; [[Ezek.28|Ezek 28:20]], The judgment of Zidon; [[Ezek.28|Ezek 28:24]], The restoration of Israel.
@@ -159,14 +159,14 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezek.28.24|24]]**<span class=
 
 [^68]: [[Gen.28|Gen 28:13-14]]
 
-[^69]: or, with confidence, [[Ezek.38|Ezek 38:11]]; [[1Kgs.4|1Kgs 4:25]]; [[Prov.14|Prov 14:26]]
+[^69]: [[Ezek.34|Ezek 34:25-28]], [[Ezek.38|Ezek 38:8]]; [[Lev.25|Lev 25:18-19]]; [[Deut.12|Deut 12:10]]; [[Jer.23|Jer 23:6-8]], [[Jer.33|Jer 33:16]]; [[Hos.2|Hos 2:18]]; [[Zech.2|Zech 2:4-5]]
 
-[^70]: [[Isa.65|Isa 65:21-22]]; [[Jer.29|Jer 29:5-6]], [[Jer.29|Jer 29:28]], [[Jer.31|Jer 31:4-5]], [[Jer.32|Jer 32:15]]; [[Amos.9|Amos 9:13-14]]
+[^70]: or, with confidence, [[Ezek.38|Ezek 38:11]]; [[1Kgs.4|1Kgs 4:25]]; [[Prov.14|Prov 14:26]]
 
-[^71]: [[Ezek.28|Ezek 28:24]], 25:1-32:32, [[Ezek.35|Ezek 35:1-15]]; Isa. 13:1-21:17; Jer. 46:1-51:64; [[Zech.1|Zech 1:15]]
+[^71]: [[Isa.65|Isa 65:21-22]]; [[Jer.29|Jer 29:5-6]], [[Jer.29|Jer 29:28]], [[Jer.31|Jer 31:4-5]], [[Jer.32|Jer 32:15]]; [[Amos.9|Amos 9:13-14]]
 
-[^72]: or, spoil, [[Ezek.39|Ezek 39:10]]; [[Isa.17|Isa 17:14]], [[Isa.33|Isa 33:1]]; [[Jer.30|Jer 30:16]]; [[Lam.1|Lam 1:8]]; [[Hab.2|Hab 2:8]]; [[Zeph.2|Zeph 2:8-9]]
+[^72]: [[Ezek.28|Ezek 28:24]], 25:1-32:32, [[Ezek.35|Ezek 35:1-15]]; Isa. 13:1-21:17; Jer. 46:1-51:64; [[Zech.1|Zech 1:15]]
 
-[^73]: [[Ezek.28|Ezek 28:22]], [[Ezek.28|Ezek 28:24]], [[Ezek.34|Ezek 34:31]], [[Ezek.36|Ezek 36:22-23]]; [[Exod.29|Exod 29:46]]
+[^73]: or, spoil, [[Ezek.39|Ezek 39:10]]; [[Isa.17|Isa 17:14]], [[Isa.33|Isa 33:1]]; [[Jer.30|Jer 30:16]]; [[Lam.1|Lam 1:8]]; [[Hab.2|Hab 2:8]]; [[Zeph.2|Zeph 2:8-9]]
 
-[^74]: ***and they shall dwell*** [[Ezek.34|Ezek 34:25-28]], [[Ezek.38|Ezek 38:8]]; [[Lev.25|Lev 25:18-19]]; [[Deut.12|Deut 12:10]]; [[Jer.23|Jer 23:6-8]], [[Jer.33|Jer 33:16]]; [[Hos.2|Hos 2:18]]; [[Zech.2|Zech 2:4-5]]
+[^74]: [[Ezek.28|Ezek 28:22]], [[Ezek.28|Ezek 28:24]], [[Ezek.34|Ezek 34:31]], [[Ezek.36|Ezek 36:22-23]]; [[Exod.29|Exod 29:46]]

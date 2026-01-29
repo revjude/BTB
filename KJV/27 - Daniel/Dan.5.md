@@ -8,7 +8,7 @@
 
  
 
-$\quad$ <span class="startversemarker">[</span>**[[Dan.5.5|5]]**<span class="endversemarker">]</span> [¶]In the same<small><small>[^10]</small></small> hour came forth fingers of a man’s hand, and wrote<small><small>[^11]</small></small> over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote. <span class="startversemarker">[</span>**[[Dan.5.6|6]]**<span class="endversemarker">]</span> Then the king’s countenance<small><small>[^12]</small></small> was changed<small><small>[^13]</small></small>, and his thoughts<small><small>[^14]</small></small> troubled him, so that<small><small>[^15]</small></small> the joints<small><small>[^16]</small></small> of his loins were loosed, and his knees<small><small>[^17]</small></small> smote one against another.<small><small>[^18]</small></small> <span class="startversemarker">[</span>**[[Dan.5.7|7]]**<span class="endversemarker">]</span> The king cried aloud<small><small>[^19]</small></small> to bring<small><small>[^20]</small></small> in the astrologers, the Chaldeans, and the soothsayers. \[And\] the king spake, and said to the wise \[men\] of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed<small><small>[^21]</small></small> with scarlet<small><small>[^22]</small></small>, and \[have\] a chain<small><small>[^23]</small></small> of gold about his neck, and shall be the third<small><small>[^24]</small></small> ruler in the kingdom. <span class="startversemarker">[</span>**[[Dan.5.8|8]]**<span class="endversemarker">]</span> Then came in all the king’s wise \[men\]: but<small><small>[^25]</small></small> they could not read the writing, nor make known to the king the interpretation thereof. <span class="startversemarker">[</span>**[[Dan.5.9|9]]**<span class="endversemarker">]</span> Then was king Belshazzar greatly<small><small>[^26]</small></small> troubled, and his countenance<small><small>[^27]</small></small> was changed<small><small>[^28]</small></small> in him, and his lords were astonied. 
+$\quad$ <span class="startversemarker">[</span>**[[Dan.5.5|5]]**<span class="endversemarker">]</span> [¶]In the same<small><small>[^10]</small></small> hour came forth fingers of a man’s hand, and wrote<small><small>[^11]</small></small> over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote. <span class="startversemarker">[</span>**[[Dan.5.6|6]]**<span class="endversemarker">]</span> Then the king’s<small><small>[^12]</small></small> countenance<small><small>[^13]</small></small> was changed<small><small>[^14]</small></small>, and his thoughts<small><small>[^15]</small></small> troubled him, so that<small><small>[^16]</small></small> the joints<small><small>[^17]</small></small> of his loins were loosed, and his knees<small><small>[^18]</small></small> smote one against another. <span class="startversemarker">[</span>**[[Dan.5.7|7]]**<span class="endversemarker">]</span> The king cried aloud<small><small>[^19]</small></small> to bring<small><small>[^20]</small></small> in the astrologers, the Chaldeans, and the soothsayers. \[And\] the king spake, and said to the wise \[men\] of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed<small><small>[^21]</small></small> with scarlet<small><small>[^22]</small></small>, and \[have\] a chain<small><small>[^23]</small></small> of gold about his neck, and shall be the third<small><small>[^24]</small></small> ruler in the kingdom. <span class="startversemarker">[</span>**[[Dan.5.8|8]]**<span class="endversemarker">]</span> Then came in all the king’s wise \[men\]: but<small><small>[^25]</small></small> they could not read the writing, nor make known to the king the interpretation thereof. <span class="startversemarker">[</span>**[[Dan.5.9|9]]**<span class="endversemarker">]</span> Then was king Belshazzar greatly<small><small>[^26]</small></small> troubled, and his countenance<small><small>[^27]</small></small> was changed<small><small>[^28]</small></small> in him, and his lords were astonied. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Dan.5.10|10]]**<span class="endversemarker">]</span> \[Now\] the queen<small><small>[^29]</small></small>, by reason of the words of the king and his lords, came into the banquet house: \[and\] the queen spake and said, O king<small><small>[^30]</small></small>, live for ever: let not<small><small>[^31]</small></small> thy thoughts trouble thee, nor let thy countenance be changed: <span class="startversemarker">[</span>**[[Dan.5.11|11]]**<span class="endversemarker">]</span> There is a man<small><small>[^32]</small></small> in thy kingdom, in whom \[is\] the spirit of the holy gods; and in the days of thy father<small><small>[^33]</small></small> light<small><small>[^34]</small></small> and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar<small><small>[^35]</small></small> thy father, the king, \[I say\], thy father, made master<small><small>[^36]</small></small> of the magicians, astrologers, Chaldeans, \[and\] soothsayers; <span class="startversemarker">[</span>**[[Dan.5.12|12]]**<span class="endversemarker">]</span> Forasmuch as an excellent<small><small>[^37]</small></small> spirit, and knowledge, and understanding, interpreting of<small><small>[^38]</small></small> dreams, and shewing of hard sentences, and dissolving<small><small>[^39]</small></small> of doubts<small><small>[^40]</small></small>, were found in the same Daniel, whom<small><small>[^41]</small></small> the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
 
@@ -45,19 +45,19 @@ $\quad$ <span class="startversemarker">[</span>**[[Dan.5.30|30]]**<span class="e
 
 [^11]: [[Dan.5|Dan 5:8]], [[Dan.5|Dan 5:15]], [[Dan.5|Dan 5:24-28]]; [[Col.2|Col 2:14]]; [[Rev.20|Rev 20:12-15]]
 
-[^12]: Chal, brightness, [[Dan.5|Dan 5:9]]
+[^12]: [[Dan.5|Dan 5:9]], [[Dan.2|Dan 2:1]], [[Dan.3|Dan 3:19]]; [[Job.15|Job 15:20-27]], [[Job.20|Job 20:19-27]]; [[Ps.73|Ps 73:18-20]]; [[Isa.21|Isa 21:2-4]]
 
-[^13]: Chal, changed it
+[^13]: Chal, brightness, [[Dan.5|Dan 5:9]]
 
-[^14]: [[Dan.5|Dan 5:10]], [[Dan.4|Dan 4:5]], [[Dan.4|Dan 4:19]], [[Dan.7|Dan 7:28]]
+[^14]: Chal, changed it
 
-[^15]: [[Ps.69|Ps 69:23]]; [[Isa.13|Isa 13:7-8]], [[Isa.21|Isa 21:3-4]]
+[^15]: [[Dan.5|Dan 5:10]], [[Dan.4|Dan 4:5]], [[Dan.4|Dan 4:19]], [[Dan.7|Dan 7:28]]
 
-[^16]: or, girdles, [[Isa.5|Isa 5:27]], Chal, bindings, or knots
+[^16]: [[Ps.69|Ps 69:23]]; [[Isa.13|Isa 13:7-8]], [[Isa.21|Isa 21:3-4]]
 
-[^17]: [[Isa.35|Isa 35:3]]; [[Ezek.7|Ezek 7:17]], [[Ezek.21|Ezek 21:7]]; [[Nah.2|Nah 2:10]]; [[Heb.12|Heb 12:12]]
+[^17]: or, girdles, [[Isa.5|Isa 5:27]], Chal, bindings, or knots
 
-[^18]: ***the king's*** [[Dan.5|Dan 5:9]], [[Dan.2|Dan 2:1]], [[Dan.3|Dan 3:19]]; [[Job.15|Job 15:20-27]], [[Job.20|Job 20:19-27]]; [[Ps.73|Ps 73:18-20]]; [[Isa.21|Isa 21:2-4]]
+[^18]: [[Isa.35|Isa 35:3]]; [[Ezek.7|Ezek 7:17]], [[Ezek.21|Ezek 21:7]]; [[Nah.2|Nah 2:10]]; [[Heb.12|Heb 12:12]]
 
 [^19]: Chal, with might, [[Dan.4|Dan 4:14]] *marg.
 
@@ -79,7 +79,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Dan.5.30|30]]**<span class="e
 
 [^28]: [[Ps.48|Ps 48:6]]; [[Isa.13|Isa 13:6-8]], [[Isa.21|Isa 21:2-4]]; [[Jer.6|Jer 6:24]], [[Jer.30|Jer 30:6]]; [[Matt.2|Matt 2:3]]
 
-[^29]: This was probably Nitocris, the queen-mother, widow of Evil-merodach, son of Nebuchadnezzar, and father of Belshazzar.
+[^29]: This was probably Nitocris, the queen-mother, widow of Evil–merodach, son of Nebuchadnezzar, and father of Belshazzar.
 
 [^30]: [[Dan.2|Dan 2:4]], [[Dan.3|Dan 3:9]], [[Dan.6|Dan 6:6]], [[Dan.6|Dan 6:21]]; [[1Kgs.1|1Kgs 1:31]]
 

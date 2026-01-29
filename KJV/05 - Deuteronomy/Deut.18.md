@@ -2,7 +2,7 @@
 
 ***Provision for Priests and Levites***&emsp;<small><sup>\[ [[1Cor.9|1 Corinthians 9:1–18]] ]</sup></small> ^bsb506
 
- $\quad$ <span class="startversemarker">[</span>**[[Deut.18.1|1]]**<span class="endversemarker">]</span> The priests the Levites, \[and\] all the tribe of Levi, shall have<small><small>[^2]</small></small> no part nor inheritance with Israel: they shall<small><small>[^3]</small></small> eat the offerings of the <span class="smallcaps">Lord</span> made by fire, and his inheritance. <span class="startversemarker">[</span>**[[Deut.18.2|2]]**<span class="endversemarker">]</span> Therefore shall they have no inheritance among their brethren: the <span class="smallcaps">Lord</span> \[is\] their inheritance, as he hath said unto them.<small><small>[^4]</small></small> 
+ $\quad$ <span class="startversemarker">[</span>**[[Deut.18.1|1]]**<span class="endversemarker">]</span> The priests the Levites, \[and\] all the tribe of Levi, shall have<small><small>[^2]</small></small> no part nor inheritance with Israel: they shall<small><small>[^3]</small></small> eat the offerings of the <span class="smallcaps">Lord</span> made by fire, and his inheritance. <span class="startversemarker">[</span>**[[Deut.18.2|2]]**<span class="endversemarker">]</span> Therefore shall they have no inheritance among their brethren: the <span class="smallcaps">Lord<small><small>[^4]</small></small></span> \[is\] their inheritance, as he hath said unto them. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.18.3|3]]**<span class="endversemarker">]</span> [¶]And this shall be the priest’s due from the people, from them that offer a sacrifice<small><small>[^5]</small></small>, whether \[it be\] ox or sheep; and they shall give unto the priest the shoulder, and the two cheeks, and the maw. <span class="startversemarker">[</span>**[[Deut.18.4|4]]**<span class="endversemarker">]</span> The firstfruit<small><small>[^6]</small></small> \[also\] of thy corn, of thy wine, and of thine oil, and the first of the fleece<small><small>[^7]</small></small> of thy sheep, shalt thou give him. <span class="startversemarker">[</span>**[[Deut.18.5|5]]**<span class="endversemarker">]</span> For the <span class="smallcaps">Lord</span> thy God hath chosen him out of all thy tribes, to stand to minister in the name of the <span class="smallcaps">Lord</span>, him and his sons for ever.<small><small>[^8]</small></small> 
 
@@ -27,7 +27,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.18.15|15]]**<span class=
 
 [^3]: [[Num.18|Num 18:8-9]]; [[Josh.13|Josh 13:14]]; [[1Cor.9|1Cor 9:13-14]]
 
-[^4]: ***the Lord*** [[Gen.15|Gen 15:1]]; [[Ps.16|Ps 16:5]], [[Ps.73|Ps 73:24-26]], [[Ps.84|Ps 84:11]], [[Ps.119|Ps 119:57]]; [[Isa.61|Isa 61:6]]; [[Lam.3|Lam 3:24]]; [[1Pet.2|1Pet 2:5]], [[1Pet.2|1Pet 2:9]]; [[Rev.1|Rev 1:5-6]]
+[^4]: [[Gen.15|Gen 15:1]]; [[Ps.16|Ps 16:5]], [[Ps.73|Ps 73:24-26]], [[Ps.84|Ps 84:11]], [[Ps.119|Ps 119:57]]; [[Isa.61|Isa 61:6]]; [[Lam.3|Lam 3:24]]; [[1Pet.2|1Pet 2:5]], [[1Pet.2|1Pet 2:9]]; [[Rev.1|Rev 1:5-6]]
 
 [^5]: [[Deut.12|Deut 12:27]]; [[Lev.7|Lev 7:30-34]]
 
