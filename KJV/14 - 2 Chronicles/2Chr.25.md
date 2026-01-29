@@ -71,7 +71,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.25.27|27]]**<span class=
 
 [^17]: [[2Chr.14|2Chr 14:11]], [[2Chr.20|2Chr 20:6]]; [[Judg.7|Judg 7:7]]; [[1Sam.14|1Sam 14:6]]; [[Job.5|Job 5:18]], [[Job.9|Job 9:13]]; [[Ps.20|Ps 20:7]], [[Ps.33|Ps 33:16-20]]; [[Ps.62|Ps 62:11]]; [[Eccl.9|Eccl 9:11]]
 
-[^18]: ***army*** Heb. band, [[2Chr.25|2Chr 25:13]]
+[^18]: ***enemy*** Heb. band, [[2Chr.25|2Chr 25:13]]
 
 [^19]: ***The Lord*** [[2Chr.1|2Chr 1:12]]; [[Deut.8|Deut 8:18]]; [[Ps.24|Ps 24:1]]; [[Prov.10|Prov 10:22]]; [[Hag.2|Hag 2:8]]; [[Luke.18|Luke 18:29-30]]; [[Phil.4|Phil 4:19]]
 

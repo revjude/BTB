@@ -2,7 +2,7 @@
 
 ***Temple Construction Begins***&emsp;<small><sup>\[ [[1Kgs.6|1 Kings 6:1–4]] ]</sup></small> ^bsb1066
 
- $\quad$ <span class="startversemarker">[</span>**[[2Chr.3.1|1]]**<span class="endversemarker">]</span> Then Solomon<small><small>[^2]</small></small> began to build the house of the <span class="smallcaps">Lord</span> at Jerusalem in mount Moriah<small><small>[^3]</small></small>, where \[the <span class="smallcaps">Lord</span>\] appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan<small><small>[^4]</small></small> the Jebusite.<small><small>[^5]</small></small><small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[2Chr.3.2|2]]**<span class="endversemarker">]</span> And he began to build in the second<small><small>[^7]</small></small> \[day\] of the second month, in the fourth year of his reign. 
+ $\quad$ <span class="startversemarker">[</span>**[[2Chr.3.1|1]]**<span class="endversemarker">]</span> Then Solomon<small><small>[^2]</small></small> began to build the house of the <span class="smallcaps">Lord</span> at Jerusalem in mount Moriah<small><small>[^3]</small></small>, where \[the <span class="smallcaps">Lord</span>\] appeared unto David<small><small>[^4]</small></small> his father, in the place that David had prepared in the threshingfloor of Ornan<small><small>[^5]</small></small> the Jebusite.<small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[2Chr.3.2|2]]**<span class="endversemarker">]</span> And he began to build in the second<small><small>[^7]</small></small> \[day\] of the second month, in the fourth year of his reign. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Chr.3.3|3]]**<span class="endversemarker">]</span> [¶]Now these \[are the things wherein\] Solomon<small><small>[^8]</small></small> was instructed<small><small>[^9]</small></small> for the building of the house of God. The length<small><small>[^10]</small></small> by cubits after the first measure<small><small>[^11]</small></small> \[was\] threescore cubits, and the breadth twenty cubits.<small><small>[^12]</small></small> <span class="startversemarker">[</span>**[[2Chr.3.4|4]]**<span class="endversemarker">]</span> And the porch<small><small>[^13]</small></small> that \[was\] in the front \[of the house\], the length \[of it was\] according to the breadth of the house, twenty cubits, and the height \[was\] an hundred and twenty<small><small>[^14]</small></small>: and he overlaid it within with pure gold.
 
@@ -29,11 +29,11 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.3.14|14]]**<span class="
 
 [^3]: [[Gen.22|Gen 22:2]], [[Gen.22|Gen 22:14]]
 
-[^4]: [[2Sam.24|2Sam 24:18-25]], Araunah, [[1Chr.21|1Chr 21:18]], [[1Chr.22|1Chr 22:1]]
+[^4]: or, which was seen of David
 
-[^5]: am 2993, bc 1011, An, Ex, Is, 480
+[^5]: [[2Sam.24|2Sam 24:18-25]], Araunah, [[1Chr.21|1Chr 21:18]], [[1Chr.22|1Chr 22:1]]
 
-[^6]: ***where the Lord appeared unto David*** or, which was seen of David
+[^6]: am 2993, bc 1011, An, Ex, Is, 480
 
 [^7]: [[1Kgs.6|1Kgs 6:1]]
 

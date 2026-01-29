@@ -203,7 +203,7 @@ $\quad$ <span class="startversemarker">[</span>**[[John.1.43|43]]**<span class="
 
 [^81]: or, abidest
 
-[^82]: ***Rabbi,*** [[John.1|John 1:49]], [[John.3|John 3:2]], [[John.3|John 3:26]], [[John.6|John 6:25]]; [[Matt.23|Matt 23:7-8]]
+[^82]: ***Rabbi*** [[John.1|John 1:49]], [[John.3|John 3:2]], [[John.3|John 3:26]], [[John.6|John 6:25]]; [[Matt.23|Matt 23:7-8]]
 
 [^83]:  [[Matt.13|Matt 13:20]]; [[Song.1|Song 1:7-8]]; [[Luke.8|Luke 8:38]], [[Luke.10|Luke 10:39]]
 

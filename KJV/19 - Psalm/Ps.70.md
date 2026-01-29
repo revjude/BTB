@@ -4,19 +4,19 @@
 
 
 
-<w lemma="strong:H5329" morph="strongMorph:TH8764">To the chief Musician</w>, \[A Psalm\] <w lemma="strong:H1732">of David</w>, <w lemma="strong:H2142" morph="strongMorph:TH8687">to bring to remembrance</w>.
+<w lemma="strong:H5329" morph="strongMorph:TH8764">To the chief Musician</w>, \[A Psalm\] <w lemma="strong:H1732">of David</w>, <w lemma="strong:H2142" morph="strongMorph:TH8687">to bring<small><small>[^2]</small></small> to remembrance</w>.
 
 
-$\quad$ <span class="startversemarker">[</span>**[[Ps.70.1|1]]**<span class="endversemarker">]</span> \[Make haste\], O God<small><small>[^2]</small></small>, to deliver me; make haste to help me<small><small>[^3]</small></small>, O <span class="smallcaps">Lord</span>.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[Ps.70.2|2]]**<span class="endversemarker">]</span> Let<small><small>[^5]</small></small> them be ashamed and confounded that seek after my soul<small><small>[^6]</small></small>: let them be turned<small><small>[^7]</small></small> backward, and put to confusion, that desire my hurt. <span class="startversemarker">[</span>**[[Ps.70.3|3]]**<span class="endversemarker">]</span> Let them be turned back<small><small>[^8]</small></small> for a reward of their shame that say, Aha<small><small>[^9]</small></small>, aha. <span class="startversemarker">[</span>**[[Ps.70.4|4]]**<span class="endversemarker">]</span> Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.<small><small>[^10]</small></small> <span class="startversemarker">[</span>**[[Ps.70.5|5]]**<span class="endversemarker">]</span> But I \[am<small><small>[^11]</small></small>\] poor and needy: make<small><small>[^12]</small></small> haste unto me, O God: thou \[art\] my help and my deliverer; O <span class="smallcaps">Lord<small><small>[^13]</small></small></span>, make no tarrying. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69|<< Psalm 69]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71|Psalm 71 >>]]</td></tr></table>
+$\quad$ <span class="startversemarker">[</span>**[[Ps.70.1|1]]**<span class="endversemarker">]</span> \[Make haste\], O God<small><small>[^3]</small></small>, to deliver me; make haste to help me<small><small>[^4]</small></small>, O <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[Ps.70.2|2]]**<span class="endversemarker">]</span> Let<small><small>[^5]</small></small> them be ashamed and confounded that seek after my soul<small><small>[^6]</small></small>: let them be turned<small><small>[^7]</small></small> backward, and put to confusion, that desire my hurt. <span class="startversemarker">[</span>**[[Ps.70.3|3]]**<span class="endversemarker">]</span> Let them be turned back<small><small>[^8]</small></small> for a reward of their shame that say, Aha<small><small>[^9]</small></small>, aha. <span class="startversemarker">[</span>**[[Ps.70.4|4]]**<span class="endversemarker">]</span> Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.<small><small>[^10]</small></small> <span class="startversemarker">[</span>**[[Ps.70.5|5]]**<span class="endversemarker">]</span> But I \[am<small><small>[^11]</small></small>\] poor and needy: make<small><small>[^12]</small></small> haste unto me, O God: thou \[art\] my help and my deliverer; O <span class="smallcaps">Lord<small><small>[^13]</small></small></span>, make no tarrying. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69|<< Psalm 69]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71|Psalm 71 >>]]</td></tr></table>
 
 
 [^1]:  <lb type="x-begin-paragraph"/> 
 
-[^2]: [[Ps.40|Ps 40:13-17]], [[Ps.69|Ps 69:18]], [[Ps.71|Ps 71:12]], [[Ps.143|Ps 143:7]]
+[^2]: [[Ps.38|Ps 38:1]] *title
 
-[^3]: Heb. to my help
+[^3]: [[Ps.40|Ps 40:13-17]], [[Ps.69|Ps 69:18]], [[Ps.71|Ps 71:12]], [[Ps.143|Ps 143:7]]
 
-[^4]: ***to bring*** [[Ps.38|Ps 38:1]] *title
+[^4]: Heb. to my help
 
 [^5]: [[Ps.6|Ps 6:10]], [[Ps.35|Ps 35:4]], [[Ps.35|Ps 35:26]], [[Ps.71|Ps 71:13]], [[Ps.109|Ps 109:29]]; [[Isa.41|Isa 41:11]]
 
